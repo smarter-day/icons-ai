@@ -9,6 +9,7 @@ from collections import defaultdict
 from pathlib import Path
 
 import dotenv
+import math
 import numpy as np
 import torch
 import typer
@@ -19,7 +20,41 @@ from nltk.stem import WordNetLemmatizer
 from openai import OpenAI
 from sentence_transformers import SentenceTransformer, util
 
-MAX_SYNONYMS = 1
+MAX_SYNONYMS = 5
+languages = {
+    "en": "ENGLISH",
+    "zh": "MANDARIN CHINESE",
+    "hi": "HINDI",
+    "es": "SPANISH",
+    "fr": "FRENCH",
+    "ar": "ARABIC",
+    "bn": "BENGALI",
+    "pt": "PORTUGUESE",
+    "ru": "RUSSIAN",
+    "ja": "JAPANESE",
+    "de": "GERMAN",
+    "ko": "KOREAN",
+    "vi": "VIETNAMESE",
+    "tr": "TURKISH",
+    "it": "ITALIAN",
+    "ur": "URDU",
+    "fa": "PERSIAN",
+    "sw": "SWAHILI",
+    "ta": "TAMIL",
+    "th": "THAI",
+    "nl": "DUTCH",
+    "pl": "POLISH",
+    "ms": "MALAY",
+    "id": "INDONESIAN",
+    "tl": "TAGALOG",
+    "uk": "UKRAINIAN",
+    "ha": "HAUSA",
+    "my": "BURMESE",
+    "he": "HEBREW",
+    "am": "AMHARIC",
+    "pa": "PUNJABI",
+}
+
 
 dotenv.load_dotenv()
 openai_api_key = os.environ.get("OPENAI_API_KEY")
@@ -506,42 +541,67 @@ def categorize_icons(
 
 
 def translate_with_openai(keywords, target_language, api_key, chunk_size=100):
-    """
-    Translate keywords in bulk using OpenAI.
-    """
     translation_map = {}
-    chunks = list(chunk_list(keywords, chunk_size))
-    total_chunks = len(list(chunks))
-    typer.echo(f"Translating {len(keywords)} keywords, {total_chunks} chunks into {target_language} using OpenAI...")
+    remaining_keywords = set(keywords)
     max_retries = 100
     max_incomplete_response_retries = 10
-    for chunk_index, chunk in enumerate(chunks):
-        prompt = f"""Please translate the following English keywords into {target_language}:
+    language_name = languages[target_language]
+    current_chunk_size = chunk_size
+    assert language_name is not None, f"Unsupported language: {target_language}"
+
+    while remaining_keywords:
+        chunks = list(chunk_list(list(remaining_keywords), current_chunk_size))
+        total_chunks = len(chunks)
+        typer.echo(f"Translating {len(remaining_keywords)} keywords in {total_chunks} chunks into {language_name} using OpenAI...")
+        incomplete_responses = 0
+
+        for chunk_index, chunk in enumerate(chunks):
+            prompt = f"""Please translate the following English keywords into {language_name}:
 Return them as a JSON object where keys are the original English words and values are the translations. 
 Ensure all words are translated and maintain the order.
 
 Keywords: {json.dumps(chunk)}"""
-        chunk_translation = None
-        incomplete_responses = 0
-        for i in range(max_retries):
-            try:
-                typer.echo(
-                    f"Translating chunk {chunk_index + 1}/{total_chunks} with OpenAI to {target_language}. Attempt {i + 1}/10: {chunk}")
-                response = openai_chat(prompt, api_key, model="gpt-4", temperature=0.8)
-                if not response.rstrip(' \n\r').endswith('}'):
-                    incomplete_responses += 1
-                    if incomplete_responses >= max_incomplete_response_retries:
-                        typer.echo(
-                            f"Too many incomplete responses from AI. Maybe payload is too large. Giving up, review the payload and try again.")
-                        typer.Exit(1)
-                    raise ValueError("Translation did not end with '}'")
-                chunk_translation = json.loads(response)
-                translation_map.update(chunk_translation)
-            except Exception as e:
-                typer.echo(f"Error during OpenAI translation: {e}")
-                time.sleep(1)
-            if chunk_translation is not None:
-                break
+            chunk_translation = None
+
+            for attempt in range(max_retries):
+                try:
+                    typer.echo(
+                        f"Translating chunk {chunk_index + 1}/{total_chunks} with OpenAI to {language_name}. "
+                        f"Attempt {attempt + 1}/{max_retries}: {chunk}"
+                    )
+                    response = openai_chat(prompt, api_key, model="gpt-4", temperature=0.9)
+
+                    # Check if the response is incomplete
+                    cant_json_decode = False
+                    try:
+                        chunk_translation = json.loads(response)
+                    except json.JSONDecodeError:
+                        cant_json_decode = True
+                    if not str(response).rstrip(' `\n\r').endswith('}') or cant_json_decode:
+                        incomplete_responses += 1
+                        if incomplete_responses >= max_incomplete_response_retries:
+                            exit(1)
+                        else:
+                            current_chunk_size = max(1, math.floor(current_chunk_size * 0.95))  # Reduce chunk size if too many retries
+                            typer.echo(f"Reducing chunk size due to incomplete response. New chunk size: {current_chunk_size}.")
+                            chunk_translation = None
+                            raise ValueError(f"Invalid response from OpenAI: {response[:10]}...{response[-10:]}")
+
+                    translation_map.update(chunk_translation)
+                    remaining_keywords -= set(chunk_translation.keys())  # Remove processed keywords
+                    incomplete_responses = 0
+                    break  # Exit the retry loop if successful
+
+                except Exception as e:
+                    typer.echo(f"Error during OpenAI translation: {e}")
+                    time.sleep(1)
+
+                if chunk_translation is None:
+                    break  # Exit the chunk loop to rebuild chunks with new size
+
+            if chunk_translation is None:
+                break  # Exit the chunk loop to rebuild chunks with new size
+
     return translation_map
 
 
