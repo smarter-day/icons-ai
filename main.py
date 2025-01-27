@@ -13,14 +13,13 @@ import math
 import numpy as np
 import torch
 import typer
-from deep_translator import GoogleTranslator
 from nltk.corpus import stopwords
 from nltk.corpus import wordnet as wn
 from nltk.stem import WordNetLemmatizer
 from openai import OpenAI
 from sentence_transformers import SentenceTransformer, util
 
-MAX_SYNONYMS = 5
+MAX_SYNONYMS = 3
 languages = {
     "en": "ENGLISH",
     "zh": "MANDARIN CHINESE",
@@ -70,6 +69,70 @@ app = typer.Typer()
 stop_words = set(stopwords.words('english'))
 lemmatizer = WordNetLemmatizer()
 
+
+def calculate_median_threshold(categorized_icons: dict, min_score: float):
+    """
+    Calculate the median of relevance scores greater than the minimum score.
+
+    Args:
+        categorized_icons (dict): A dictionary with categories as keys and lists of icons as values.
+        min_score (float): Minimum relevance score to consider.
+
+    Returns:
+        float: The median relevance score.
+    """
+    all_scores = [
+        icon["match_score"]
+        for icons in categorized_icons.values()
+        for icon in icons
+        if icon["match_score"] >= min_score
+    ]
+    return np.median(all_scores) if all_scores else min_score  # Fallback to min_score if no scores
+
+def distribute_icons(categorized_icons, total_limit=250, min_score=0.0, max_per_category = 0):
+    """
+    Distribute icons among categories while ensuring balanced allocation and relevance.
+
+    Args:
+        categorized_icons (dict): A dictionary with categories as keys and lists of icons as values.
+        total_limit (int): Maximum number of icons to distribute in total.
+        min_score (float): Minimum relevance score to consider for calculating the threshold.
+        max_per_category (int)
+
+    Returns:
+        list: A list of distributed icons.
+    """
+
+    # Calculate dynamic relevance threshold
+    if min_score > 0.0:
+        relevance_threshold = calculate_median_threshold(categorized_icons, min_score)
+    else:
+        relevance_threshold = 0.0
+
+    # Filter out irrelevant icons based on the relevance threshold
+    filtered_icons = {
+        category: [icon for icon in icons if icon["match_score"] >= relevance_threshold]
+        for category, icons in categorized_icons.items()
+    }
+
+    # Sort icons within each category by match score in descending order
+    for category, icons in filtered_icons.items():
+        icons.sort(key=lambda x: x["match_score"], reverse=True)
+
+    # Distribute icons evenly across categories
+    total_categories = len(filtered_icons)
+    if max_per_category != 0:
+        max_per_category = total_limit // total_categories
+    else:
+        max_per_category = total_limit
+    distributed_icons = []
+
+    for i in range(max_per_category):
+        for category in filtered_icons.keys():
+            if len(filtered_icons[category]) > i:
+                distributed_icons.append(filtered_icons[category][i])
+
+    return distributed_icons
 
 def preprocess_text(text):
     words = text.split()
@@ -159,32 +222,31 @@ def load_categories_from_json(file_path):
     return data
 
 
-def get_synonyms_for_word(word):
+def get_synonyms_for_word(word, max_synonyms=MAX_SYNONYMS):
     """
-    Get up to 5 synonyms for a given word, sorted by relevance.
+    Get up to 'max_synonyms' synonyms for a given word, sorted by relevance.
     """
-    synonyms = {}
-    word_synset = wn.synsets(word)
+    synonyms = set()
+    word_synsets = wn.synsets(word)
 
-    if not word_synset:
+    if not word_synsets:
         return set()  # Return an empty set if no synsets are found
 
-    primary_synset = word_synset[0]  # Use the first synset as the primary meaning
+    primary_synset = word_synsets[0]  # Use the first synset as the primary meaning
 
-    for syn in word_synset:
+    for syn in word_synsets:
         for lemma in syn.lemmas():
             synonym = lemma.name().replace('_', ' ').lower()
-            if synonym != word:  # Avoid adding the original word as a synonym
-                # Use path similarity to rank relevance
-                similarity = primary_synset.path_similarity(syn)
+            if synonym != word:
+                similarity = primary_synset.wup_similarity(syn)
                 if similarity is not None:
-                    synonyms[synonym] = max(similarity, synonyms.get(synonym, 0))
+                    synonyms.add((synonym, similarity))
 
-    # Sort synonyms by similarity score (descending) and take the top 5
-    sorted_synonyms = sorted(synonyms.items(), key=lambda x: x[1], reverse=True)
-    top_synonyms = [synonym for synonym, _ in sorted_synonyms[:MAX_SYNONYMS]]
+    # Sort synonyms by similarity score (descending) and take the top 'max_synonyms'
+    sorted_synonyms = sorted(synonyms, key=lambda x: x[1], reverse=True)
+    top_synonyms = {synonym for synonym, _ in sorted_synonyms[:max_synonyms]}
 
-    return set(top_synonyms)
+    return top_synonyms
 
 
 def enrich_keywords(keywords):
@@ -198,84 +260,6 @@ def enrich_keywords(keywords):
         syns = get_synonyms_for_word(keyword)
         all_keywords.update(syns)
     return sorted(all_keywords)
-
-
-def calculate_median_threshold(categorized_icons, min_score=0.5):
-    """
-    Calculate the median of relevance scores greater than the minimum score.
-
-    Args:
-        categorized_icons (dict): A dictionary with categories as keys and lists of icons as values.
-        min_score (float): Minimum relevance score to consider.
-
-    Returns:
-        float: The median relevance score.
-    """
-    all_scores = [
-        icon["match_score"]
-        for icons in categorized_icons.values()
-        for icon in icons
-        if icon["match_score"] >= min_score
-    ]
-    return np.median(all_scores) if all_scores else min_score  # Fallback to min_score if no scores
-
-
-def distribute_icons(categorized_icons, total_limit=250, min_score=0.4):
-    """
-    Distribute icons among categories while ensuring balanced allocation and relevance.
-
-    Args:
-        categorized_icons (dict): A dictionary with categories as keys and lists of icons as values.
-        total_limit (int): Maximum number of icons to distribute in total.
-        min_score (float): Minimum relevance score to consider for calculating the threshold.
-
-    Returns:
-        list: A list of distributed icons.
-    """
-    # Calculate dynamic relevance threshold
-    relevance_threshold = calculate_median_threshold(categorized_icons, min_score)
-
-    # Filter out irrelevant icons based on the relevance threshold
-    filtered_icons = {
-        category: [icon for icon in icons if icon["match_score"] >= relevance_threshold]
-        for category, icons in categorized_icons.items()
-    }
-
-    # Prepare to distribute icons
-    total_categories = len(filtered_icons)
-    base_per_category = total_limit // total_categories
-    selected_icons = []
-    category_allocation = {category: 0 for category in filtered_icons}
-
-    # First pass: Allocate base amount to each category
-    for category, icons in filtered_icons.items():
-        allocated = min(base_per_category, len(icons))
-        selected_icons.extend(icons[:allocated])
-        category_allocation[category] += allocated
-
-    # Distribute remaining slots
-    remaining_slots = total_limit - len(selected_icons)
-    if remaining_slots > 0:
-        all_icons = [
-            (category, icon) for category, icons in filtered_icons.items()
-            for icon in icons[category_allocation[category]:]
-        ]
-        all_icons.sort(key=lambda x: x[1]["match_score"], reverse=True)
-
-        for category, icon in all_icons:
-            if remaining_slots == 0:
-                break
-            selected_icons.append(icon)
-            category_allocation[category] += 1
-            remaining_slots -= 1
-
-    # Ensure balanced distribution
-    balanced_icons = []
-    for category in filtered_icons.keys():
-        category_icons = [icon for icon in selected_icons if icon["best_category"] == category]
-        balanced_icons.extend(category_icons)
-
-    return balanced_icons[:total_limit]
 
 
 def openai_chat(prompt, api_key, model="gpt-4o", max_tokens=1024, temperature=0.7):
@@ -383,6 +367,9 @@ def categorize_icon_llm(icon_tags, categories, model, tokenizer):
     return best_category, highest_score, category_scores
 
 
+semantic_model_t5_xxl = "sentence-t5-xxl"
+semantic_model_mpnet_base_v2 = "all-mpnet-base-v2"
+
 @app.command()
 def categorize_icons(
         input_icons: str = typer.Option(..., help="Path to the input JSON file with icon data"),
@@ -395,7 +382,7 @@ def categorize_icons(
                                       help="Comma-separated list of target languages for translation (e.g. 'fr,de')"),
         translator: str = typer.Option("google", help="Translation service to use (google or openai)"),
         chunk_size: int = typer.Option(90, help="Chunk size for translations"),
-        semantic_model_name: str = typer.Option("all-mpnet-base-v2", help="Name of the semantic embedding model to use")
+        semantic_model_name: str = typer.Option(semantic_model_t5_xxl, help="Name of the semantic embedding model to use")
 ):
     """
     Categorize icons using semantic similarity, compute match scores, enrich keywords, translate keywords, and output filtered icons.
@@ -466,7 +453,7 @@ def categorize_icons(
         grouped_icons[icon["best_category"]].append(icon)
 
     # Distribute icons evenly across categories, while respecting the total limit
-    selected_icons = distribute_icons(grouped_icons, total_limit=limit)
+    selected_icons = distribute_icons(grouped_icons, total_limit=limit, min_score=0.0, max_per_category=0)
 
     # Prepare a combined set of keywords for translation
     combined_keywords = set()
@@ -490,6 +477,7 @@ def categorize_icons(
 
         # Collect only untranslated keywords
         untranslated_keywords = set(combined_keywords) - set(existing_translations.keys())
+        untranslated_keywords = [word for word in untranslated_keywords if word.isalnum()]
 
         if not untranslated_keywords:
             typer.echo(f"All keywords already translated for language {lang}. Skipping translation.")
@@ -515,8 +503,9 @@ def categorize_icons(
             for kw in icon["keywords"]["en"]:
                 if kw in existing_translations:
                     icon["keywords"][lang].append(existing_translations[kw])
-                else:
-                    icon["keywords"][lang].append(f"[MISSING TRANSLATION: {kw}]")
+                # else:
+                #     icon["keywords"][lang].append(f"[MISSING TRANSLATION: {kw}]")
+            icon["keywords"][lang] = list(set(icon["keywords"][lang]))
 
     # Prepare the filtered output
     filtered_output = []
@@ -525,6 +514,7 @@ def categorize_icons(
             "style": icon.get("style"),
             "width": icon.get("width"),
             "height": icon.get("height"),
+            "score": icon.get("match_score"),
             "tags": icon.get("tags"),
             "name": icon.get("name"),
             "content": icon.get("content"),
@@ -542,6 +532,7 @@ def categorize_icons(
 
 def translate_with_openai(keywords, target_language, api_key, chunk_size=100):
     translation_map = {}
+    keywords = [word for word in keywords if word.isalnum()]
     remaining_keywords = set(keywords)
     max_retries = 100
     max_incomplete_response_retries = 10
@@ -605,42 +596,17 @@ Keywords: {json.dumps(chunk)}"""
     return translation_map
 
 
-def bulk_translate_keywords(keywords, target_language, translator="google", **kwargs):
+def bulk_translate_keywords(keywords, target_language, translator="openai", **kwargs):
     """
     Translate keywords using the selected translator.
     """
-    if translator == "google":
-        return bulk_translate_keywords_google(keywords, target_language, **kwargs)
-    elif translator == "openai":
+    if translator == "openai":
         api_key = kwargs.get("api_key")
         if not api_key:
             raise ValueError("API key is required for OpenAI translation.")
         return translate_with_openai(keywords, target_language, api_key, chunk_size=kwargs.get("chunk_size", 100))
     else:
         raise ValueError(f"Unknown translator: {translator}")
-
-
-def bulk_translate_keywords_google(keywords, target_language, chunk_size=500, max_retries=10, retry_delay=1):
-    """
-    Translate keywords in bulk using Deep Translator's Google Translate API.
-    """
-    translation_map = {}
-    translator = GoogleTranslator(source='en', target=target_language)
-
-    for chunk in chunk_list(keywords, chunk_size):
-        typer.echo(f"Translating chunk to {target_language}: {chunk}")
-        for word in chunk:
-            for attempt in range(max_retries):
-                try:
-                    translation_map[word] = translator.translate(word)
-                    break
-                except Exception as e:
-                    typer.echo(f"Error translating '{word}': {e}")
-                    time.sleep(retry_delay)
-                    if attempt == max_retries - 1:
-                        translation_map[word] = f"[TRANSLATION FAILED: {word}]"
-
-    return translation_map
 
 
 @app.command()
@@ -670,8 +636,8 @@ def translate_keywords(
 
     for lang in lang_list:
         typer.echo(f"Translating keywords to {lang}...")
-        translation_map = bulk_translate_keywords_google(
-            combined_keywords, lang, chunk_size, max_retries, retry_delay
+        translation_map = bulk_translate_keywords(
+            combined_keywords, lang, api_key=openai_api_key,
         )
 
         output_file = Path(output).with_suffix(f".{lang}.json")
@@ -700,6 +666,7 @@ def preview(
         for category, keywords in icon.get("categories", {}).items():
             categorized_icons[category].append({
                 "name": icon["name"],
+                "score": icon["score"],
                 "content": icon["content"],
                 "width": icon["width"],
                 "height": icon["height"],
@@ -721,7 +688,7 @@ def preview(
             h2 { margin-top: 40px; border-bottom: 2px solid #ccc; padding-bottom: 10px; }
             .icon-container { display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px; }
             .icon { text-align: center; width: 200px; }
-            .icon svg { display: block; margin: 0 auto; }
+            .icon svg { display: block; margin: 0 auto; width: 20px; height: 20px; }
             .icon-name { margin-top: 10px; font-size: 14px; font-weight: bold; color: #007bff; cursor: pointer; }
             .icon-name:hover { text-decoration: underline; }
         </style>
@@ -746,7 +713,7 @@ def preview(
                 {icon["content"]}
                 <div class="icon-name" tabindex="0" data-bs-toggle="popover" data-bs-html="true"
                      data-bs-content="{popover_content}">
-                     {icon["name"]}
+                     {icon["name"]} <small><pre>{icon["score"]}</pre></small>
                 </div>
             </div>
             """
