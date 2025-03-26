@@ -1,17 +1,33 @@
 #!/bin/zsh
 
-echo "Categorizing 3276 icons..."
-./main.py categorize-icons \
-  --input-icons data/icons.json \
-  --output-filtered data/filtered_icons_3276.json \
-  --output-keywords data/keywords.json \
-  --categories data/categories.json \
-  --limit 3276 \
-  --chunk-size 80 \
-  --languages en,ru \
-  --translator openai || exit 1
+source .venv/bin/activate
 
-echo "Building previews..."
-./main.py preview --input-icons data/filtered_icons_3276.json --output-html data/preview_3276.html || exit 1
+echo '----------------------------------------------------------------------------------'
+echo ' STEP 1: PREPARE MODELS'
+echo '----------------------------------------------------------------------------------'
+python3 prepare_models.py --languages ru,en
 
-echo "Done."
+echo '----------------------------------------------------------------------------------'
+echo ' STEP 2: CLEANING ICONS DATA'
+echo '----------------------------------------------------------------------------------'
+python3 strip_icons.py
+
+echo '----------------------------------------------------------------------------------'
+echo ' STEP 3: GENERATE SYNONYMS'
+echo '----------------------------------------------------------------------------------'
+python generate_synonims.py
+
+echo '----------------------------------------------------------------------------------'
+echo ' STEP 4: TRANSLATE ICONS TAGS AND SAVE TRANSLATIONS IN CACHE'
+echo '----------------------------------------------------------------------------------'
+python3 translate_keywords.py --languages ru
+
+echo '----------------------------------------------------------------------------------'
+echo ' STEP 5: TRANSLATE STRIPPED ICONS FILES'
+echo '----------------------------------------------------------------------------------'
+python translate_icons.py --languages ru
+
+echo '----------------------------------------------------------------------------------'
+echo ' STEP 6: BUILD EMBEDDINGS'
+echo '----------------------------------------------------------------------------------'
+python 02_create_icons_embeddings.py

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Icon Search</title>
+    <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.18.0/dist/ort.min.js"></script>
+</head>
+<body>
+    <input type="text" id="queryInput" placeholder="Enter search term">
+    <button onclick="searchIcons()">Search</button>
+    <div id="results"></div>
+
+    <script>
+        // Cosine similarity function
+        function cosineSimilarity(a, b) {
+            const dotProduct = a.reduce((sum, val, i) => sum + val * b[i], 0);
+            const normA = Math.sqrt(a.reduce((sum, val) => sum + val * val, 0));
+            const normB = Math.sqrt(b.reduce((sum, val) => sum + val * val, 0));
+            return dotProduct / (normA * normB);
+        }
+
+        // Load data asynchronously
+        async function loadData() {
+            const embeddingsResp = await fetch('data/icon_embeddings.json');
+            const metadataResp = await fetch('data/icons_index.json');
+            const embeddings = await embeddingsResp.json();
+            const metadata = await metadataResp.json();
+            return { embeddings, metadata };
+        }
+
+        // Simplified tokenization to mimic intfloat/multilingual-e5-small
+        function getTokenizedInput(query) {
+            // Basic word splitting and mapping (not exact, but closer)
+            const words = query.toLowerCase().split(/\s+/);
+            const vocab = { "<pad>": 0, "<unk>": 100, "star": 101, "heart": 102, "arrow": 103 }; // Example vocab
+            const inputIds = new Array(128).fill(0); // Padding with 0
+            let i = 0;
+            for (const word of words) {
+                if (i >= 128) break;
+                inputIds[i] = vocab[word] || vocab["<unk>"]; // Known word or unknown
+                i++;
+            }
+            const attentionMask = inputIds.map(id => (id === 0 ? 0 : 1)); // 1 for tokens, 0 for padding
+            return { inputIds, attentionMask };
+        }
+
+        // Load ONNX model and run inference
+        async function getEmbedding(query) {
+            const session = await ort.InferenceSession.create('data/embedder.onnx');
+            const { inputIds, attentionMask } = getTokenizedInput(query);
+            const inputIdsTensor = new ort.Tensor('int64', BigInt64Array.from(inputIds.map(BigInt)), [1, 128]);
+            const attentionMaskTensor = new ort.Tensor('int64', BigInt64Array.from(attentionMask.map(BigInt)), [1, 128]);
+
+            const outputs = await session.run({
+                'input_ids': inputIdsTensor,
+                'attention_mask': attentionMaskTensor
+            });
+            return outputs['output'].data; // Adjust if output name differs
+        }
+
+        // Search function with sorted results
+        async function searchIcons() {
+            try {
+                const query = document.getElementById('queryInput').value;
+                const { embeddings, metadata } = await loadData();
+                const queryEmbedding = await getEmbedding(query);
+
+                // Compute similarities
+                const similarities = embeddings.map((emb, i) => ({
+                    index: i,
+                    sim: cosineSimilarity(queryEmbedding, emb)
+                }));
+
+                // Sort by similarity (descending) and take top 5
+                const topResults = similarities
+                    .sort((a, b) => b.sim - a.sim)
+                    .slice(0, 5)
+                    .map(item => ({
+                        ...metadata[item.index],
+                        similarity: item.sim.toFixed(4)
+                    }));
+
+                // Display results matching Python output
+                const resultsDiv = document.getElementById('results');
+                resultsDiv.innerHTML = topResults
+                    .map(icon => `<p>Icon: ${icon.id}, Data: ${JSON.stringify(icon)}</p>`)
+                    .join('');
+            } catch (error) {
+                console.error("Error during search:", error);
+                document.getElementById('results').innerHTML = `<p>Error: ${error.message}</p>`;
+            }
+        }
+    </script>
+</body>
+</html>

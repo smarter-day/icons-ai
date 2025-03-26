@@ -1,0 +1,7 @@
+defaults:
+  default_dim: 300
+  small_dim: 200
+
+languages:
+  - code: en
+  - code: ru

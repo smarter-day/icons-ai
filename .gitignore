@@ -1,5 +1,6 @@
 .env
 .idea
+.models
 # Python
 __pycache__/
 *.py[cod]

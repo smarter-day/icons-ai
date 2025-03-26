@@ -1,0 +1,66 @@
+{
+  "Task Management": {
+    "audience": ["professionals", "students", "entrepreneurs", "teams"],
+    "keywords": ["task", "project", "deadline", "priority", "checklist", "milestone", "goal", "productivity", "assignment", "completion"]
+  },
+  "Time & Scheduling": {
+    "audience": ["professionals", "students", "organizers"],
+    "keywords": ["calendar", "schedule", "appointment", "meeting", "event", "timeline", "timeblock", "itinerary", "planner", "deadline"]
+  },
+  "Career Development": {
+    "audience": ["professionals", "jobseekers"],
+    "keywords": ["career", "job", "networking", "interview", "resume", "promotion", "leadership", "certification", "employment", "skill"]
+  },
+  "Business & Entrepreneurship": {
+    "audience": ["entrepreneurs", "business"],
+    "keywords": ["business", "startup", "strategy", "pitch", "fundraising", "brand", "profit", "market", "sales", "innovation"]
+  },
+  "Health & Fitness": {
+    "audience": ["health", "individuals"],
+    "keywords": ["health", "fitness", "exercise", "nutrition", "diet", "sleep", "wellness", "mental health", "physical health", "stress"]
+  },
+  "Mindfulness & Spirituality": {
+    "audience": ["spiritual", "mindful"],
+    "keywords": ["meditation", "mindfulness", "spirituality", "awareness", "peace", "reflection", "calm", "balance", "ritual", "consciousness"]
+  },
+  "Food & Cooking": {
+    "audience": ["foodies", "chefs", "homecooks"],
+    "keywords": ["food", "cooking", "recipe", "meal", "ingredient", "kitchen", "dining", "cuisine", "chef", "nutrition"]
+  },
+  "Home & Maintenance": {
+    "audience": ["homeowners", "DIYers"],
+    "keywords": ["home", "maintenance", "cleaning", "repair", "organization", "chore", "renovation", "DIY", "upkeep", "fix"]
+  },
+  "Family & Relationships": {
+    "audience": ["families", "social"],
+    "keywords": ["family", "parenting", "relationships", "friendship", "community", "support", "bonding", "childcare", "upbringing", "tradition"]
+  },
+  "Leisure & Entertainment": {
+    "audience": ["athletes", "artists", "gamers", "recreational", "cultural", "esports"],
+    "keywords": ["leisure", "entertainment", "sports", "arts", "gaming", "recreation", "culture", "music", "dance", "theater", "literature", "painting", "game", "esports", "strategy", "competition", "team", "play", "creativity", "design"]
+  },
+  "Communication": {
+    "audience": ["professionals", "social", "teams"],
+    "keywords": ["communication", "chat", "messaging", "video", "audio", "call", "conference", "webinar", "discussion", "networking"]
+  },
+  "Education & Learning": {
+    "audience": ["students", "academics", "professionals"],
+    "keywords": ["education", "learning", "study", "course", "training", "skill", "knowledge", "research", "seminar", "workshop"]
+  },
+  "Finance & Money": {
+    "audience": ["entrepreneurs", "professionals", "individuals"],
+    "keywords": ["finance", "money", "budget", "expense", "savings", "investment", "banking", "payment", "tax", "asset"]
+  },
+  "Travel & Transportation": {
+    "audience": ["travelers", "professionals", "adventurers"],
+    "keywords": ["travel", "trip", "transportation", "flight", "hotel", "reservation", "itinerary", "navigation", "route", "logistics"]
+  },
+  "Technology & Tools": {
+    "audience": ["techies", "developers", "professionals"],
+    "keywords": ["technology", "software", "hardware", "gadget", "app", "tool", "device", "computer", "internet", "coding"]
+  },
+  "Data & Analytics": {
+    "audience": ["analysts", "data-scientists", "researchers"],
+    "keywords": ["data", "analytics", "metrics", "dashboard", "visualization", "statistic", "modeling", "query", "reporting", "insight"]
+  }
+}

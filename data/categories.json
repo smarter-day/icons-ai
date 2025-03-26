@@ -1,222 +1,42 @@
 {
-  "Productivity Tasks": [
-    "actions",
-    "to-dos",
-    "reminders",
-    "projects",
-    "goals",
-    "habits",
-    "stress",
-    "self-care",
-    "priorities",
-    "deadlines",
-    "task management",
-    "efficiency",
-    "focus",
-    "motivation",
-    "planning",
-    "routine",
-    "organization",
-    "checklists",
-    "workflow",
-    "achievement"
-  ],
-  "Time Management": [
-    "time",
-    "date",
-    "location",
-    "calendar",
-    "scheduling",
-    "events",
-    "group activities",
-    "appointments",
-    "deadlines",
-    "reminders",
-    "timelines",
-    "availability",
-    "planning",
-    "time zones",
-    "project timelines",
-    "meetings",
-    "synchronization",
-    "prioritization",
-    "agenda",
-    "itinerary"
-  ],
-  "Social Connections": [
-    "people",
-    "relationships",
-    "networking",
-    "teamwork",
-    "social media",
-    "collaboration",
-    "communication",
-    "interaction",
-    "community",
-    "engagement",
-    "friendships",
-    "connections",
-    "support",
-    "mentorship",
-    "sharing",
-    "bonding",
-    "trust",
-    "affinity",
-    "network",
-    "partnerships"
-  ],
-  "Media Interaction": [
-    "communication",
-    "video",
-    "audio",
-    "music",
-    "podcasts",
-    "streaming",
-    "meeting tools",
-    "broadcast",
-    "messaging",
-    "teleconferencing",
-    "webinars",
-    "content",
-    "media",
-    "voice",
-    "chat",
-    "video conferencing",
-    "podcasting",
-    "livestream",
-    "radio",
-    "television"
-  ],
-  "Financial Management": [
-    "finance",
-    "banking",
-    "investments",
-    "loans",
-    "credit cards",
-    "shopping",
-    "sales",
-    "expenses",
-    "revenue",
-    "budgeting",
-    "savings",
-    "accounts",
-    "transactions",
-    "payment",
-    "financial planning",
-    "wealth",
-    "investing",
-    "funds",
-    "money management",
-    "taxes"
-  ],
-  "Education & Growth": [
-    "learning",
-    "studying",
-    "growth",
-    "motivation",
-    "emotional intelligence",
-    "research",
-    "analysis",
-    "reporting",
-    "education",
-    "development",
-    "skills",
-    "training",
-    "knowledge",
-    "insight",
-    "academics",
-    "courses",
-    "self-improvement",
-    "curiosity",
-    "innovation",
-    "critical thinking"
-  ],
-  "Health & Fitness": [
-    "health",
-    "fitness",
-    "nutrition",
-    "exercise",
-    "sleep",
-    "mental health",
-    "well-being",
-    "wellness",
-    "workout",
-    "diet",
-    "relaxation",
-    "meditation",
-    "therapy",
-    "stress management",
-    "weight loss",
-    "cardio",
-    "strength training",
-    "hydration",
-    "lifestyle",
-    "healthy habits"
-  ],
-  "Travel Planning": [
-    "travel",
-    "navigation",
-    "transportation",
-    "driving",
-    "logistics",
-    "itinerary",
-    "trip",
-    "journey",
-    "booking",
-    "accommodation",
-    "flights",
-    "public transport",
-    "routes",
-    "maps",
-    "sightseeing",
-    "tourism",
-    "destinations",
-    "travel planning",
-    "adventure",
-    "transport"
-  ],
-  "Tech & Creativity": [
-    "technology",
-    "tools",
-    "design",
-    "photography",
-    "art",
-    "architecture",
-    "gaming",
-    "entertainment",
-    "innovation",
-    "software",
-    "hardware",
-    "digital",
-    "creative",
-    "inspiration",
-    "craft",
-    "media",
-    "graphics",
-    "programming",
-    "development",
-    "virtual reality"
-  ],
-  "Home Care": [
-    "home",
-    "maintenance",
-    "repairs",
-    "cleaning",
-    "recycling",
-    "waste management",
-    "inventory",
-    "organization",
-    "housekeeping",
-    "gardening",
-    "upkeep",
-    "storage",
-    "decor",
-    "furnishing",
-    "appliances",
-    "DIY",
-    "sustainability",
-    "routine",
-    "home improvement",
-    "orderliness"
-  ]
+  "Productivity Tasks": {
+    "keywords": [
+      "tasks", "actions", "to-dos", "projects", "goals", "habits", "efficiency", "focus", "priorities", "task management", "workflow", "achievement", "Pomodoro", "deep work", "delegation", "backlog", "progress tracking", "milestones", "productivity hacks", "batching", "GTD", "kanban", "procrastination", "distraction management", "goal-setting", "discipline", "consistency", "automation", "agile", "scrum", "OKRs", "SMART goals", "daily review", "weekly review", "monthly review", "annual goals", "visualization", "journaling", "workload", "capacity planning"
+    ]
+  },
+  "Time Management": {
+    "keywords": [
+      "calendar", "scheduling", "events", "appointments", "timelines", "availability", "time zones", "meetings", "agenda", "itinerary", "punctuality", "countdown", "time tracking", "alarms", "time audit", "slot management", "buffer time", "timeboxing", "daily schedule", "weekly planning", "calendar integration", "duration", "intervals", "time-sensitive", "deadline reminders"
+    ]
+  },
+  "Social Connections": {
+    "keywords": [
+      "relationships", "networking", "teamwork", "social media", "collaboration", "interaction", "community", "friendships", "mentorship", "bonding", "trust", "empathy", "rapport", "socializing", "interpersonal skills", "active listening", "conflict resolution", "team building", "group dynamics", "relationship building", "leadership", "negotiation", "social intelligence", "cooperation", "group cohesion", "peer support", "social skills", "open communication", "feedback", "social capital"
+    ]
+  },
+  "Media Interaction": {
+    "keywords": [
+      "video", "audio", "podcasts", "streaming", "broadcast", "messaging", "teleconferencing", "webinars", "video conferencing", "livestream", "multimedia", "editing", "publishing", "digital content", "screen sharing", "presentations", "streamers", "interactive content", "production", "YouTube", "TikTok", "Instagram", "Snapchat", "content strategy", "media literacy", "audience engagement", "branding", "storytelling", "content distribution", "video editing", "audio editing", "podcast hosting"
+    ]
+  },
+  "Financial Management": {
+    "keywords": [
+      "banking", "investments", "budgeting", "savings", "transactions", "financial planning", "wealth", "taxes", "portfolio", "income streams", "debt management", "interest rates", "mortgage", "cryptocurrency", "blockchain", "fintech", "trading", "assets", "liabilities", "ROI", "credit score", "accounting", "cash flow", "economic trends", "inflation", "expense tracking", "profitability", "retirement planning", "insurance", "billing", "financial literacy", "passive income", "market analysis", "tax planning", "monetization", "digital wallets"
+    ]
+  },
+  "Education & Growth": {
+    "keywords": [
+      "learning", "studying", "education", "training", "knowledge", "academics", "courses", "self-improvement", "innovation", "critical thinking", "skill-building", "personal growth", "certifications", "mastery", "feedback loops", "continuous learning", "study techniques", "memory", "curriculum", "e-learning", "online courses", "upskilling", "reskilling", "competencies", "self-paced learning", "lesson planning", "learning styles", "workshops", "academic performance", "reflection", "lifelong learning"
+    ]
+  },
+  "Health & Fitness": {
+    "keywords": [
+      "fitness", "nutrition", "exercise", "sleep", "mental health", "wellness", "workout", "diet", "relaxation", "meditation", "therapy", "weight loss", "cardio", "strength training", "hydration", "healthy habits", "recovery", "flexibility", "mobility", "endurance", "sports", "yoga", "pilates", "breathing exercises", "personal training", "fitness tracking", "step counting", "biohacking", "vitamins", "supplements", "immunity", "ergonomics", "preventive care", "meal planning", "sleep tracking", "sports nutrition", "posture correction", "exercise equipment"
+    ]
+  },
+  "Travel Planning": {
+    "keywords": [
+      "travel", "navigation", "transportation", "logistics", "trip", "journey", "booking", "accommodation", "flights", "public transport", "routes", "maps", "sightseeing", "tourism", "destinations", "adventure", "vacation", "road trips", "cruises", "packing", "luggage", "travel insurance", "passport", "visa", "local guides", "tours", "exploration", "layovers", "planning apps", "travel gear", "camping", "car rental", "journey mapping"
+    ]
+  }
 }
