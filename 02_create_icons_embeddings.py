@@ -9,10 +9,10 @@ from collections import defaultdict
 # -------------------------------------------------------------------------
 # CONFIG
 # -------------------------------------------------------------------------
-FASTTEXT_MODEL_PATH = ".models/cc.ru.200.bin"
-ICONS_JSON_PATH = "data/icons.stripped.ru.json"
-ICON_EMBEDDINGS_JSON = "embeddings/icon_embeddings.ru.json"
-WORD_EMBEDDINGS_JSON = "embeddings/vocab_embeddings.ru.json"
+FASTTEXT_MODEL_PATH = f".models/cc.en.200.bin"
+ICONS_JSON_PATH = f"data/icons.stripped.json"
+ICON_EMBEDDINGS_JSON = f"embeddings/icon_embeddings.json"
+WORD_EMBEDDINGS_JSON = f"embeddings/vocab_embeddings.json"
 ROUND_DECIMALS = 2  # Round to 1 decimal places
 
 # -------------------------------------------------------------------------

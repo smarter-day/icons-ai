@@ -20,12 +20,12 @@ python generate_synonims.py
 echo '----------------------------------------------------------------------------------'
 echo ' STEP 4: TRANSLATE ICONS TAGS AND SAVE TRANSLATIONS IN CACHE'
 echo '----------------------------------------------------------------------------------'
-python3 translate_keywords.py --languages ru
+#python3 translate_keywords.py --languages ru
 
 echo '----------------------------------------------------------------------------------'
 echo ' STEP 5: TRANSLATE STRIPPED ICONS FILES'
 echo '----------------------------------------------------------------------------------'
-python translate_icons.py --languages ru
+#python translate_icons.py --languages ru
 
 echo '----------------------------------------------------------------------------------'
 echo ' STEP 6: BUILD EMBEDDINGS'
