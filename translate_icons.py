@@ -1,8 +1,15 @@
 #!/usr/bin/env python3
 import json
 from pathlib import Path
+
+import dotenv
 import typer
 
+from library.languages import load_languages
+from library.project import Project
+from library.settings import ProjectSettings
+
+dotenv.load_dotenv()
 app = typer.Typer()
 
 
@@ -18,17 +25,59 @@ def save_json(path: Path, data: dict):
 
 @app.command()
 def translate_icons(
-        english_icons_file: str = typer.Option("data/icons.stripped.en.json", help="Path to the English icons JSON file"),
-        languages: str = typer.Option(..., help="Comma-separated list of languages (e.g., 'ru,fr')")
+    english_icons_file: str = typer.Option(
+        None,
+        "--english-icons-file",
+        help="Path to the English stripped icons JSON file "
+        "(overrides project settings), "
+        "Example: data/icons.stripped.en.json"
+    ),
+    languages: str = typer.Option(
+        None,
+        "--languages",
+        help="Comma-separated list of languages (e.g., 'ru,fr')"
+    ),
+    project_file: str = typer.Option(
+        None,
+        "--project",
+        help="Path to the project YAML config file (overrides DEFAULT_PROJECT)"
+    ),
 ):
     """
-    For each icon in the provided English icons file, replace each tag in the 'tags'
-    field with its translation loaded from data/keywords.<language>.json. Unknown tags
-    (i.e. not found in the translation dictionary) are printed as an ordered list to the console.
+    For each icon in the provided English stripped icons file,
+    replace each tag in the 'tags'
+    field with its translation loaded from data/keywords.<language>.json.
+    Unknown tags (i.e. not found in the translation dictionary)
+    are printed as an ordered list to the console.
 
-    The translated icons JSON is written in the same folder as the source file, with the file
-    name suffix replaced by '.<language>.json'.
+    The translated icons JSON is written in the same folder as the source file,
+    with the file name suffix replaced by '.<language>.json'.
     """
+    # Load project configuration
+    try:
+        project = Project(project_file)
+        settings = project.Settings(ProjectSettings)
+    except (ValueError, FileNotFoundError) as e:
+        typer.echo(f"Error: {e}")
+        raise typer.Exit(code=1)
+
+    # Load languages list
+    lang_list = load_languages(languages=languages, settings=settings)
+    if not lang_list:
+        typer.echo("Error: no valid languages specified in --languages.")
+        raise typer.Exit(code=1)
+
+    # Filter out English since we don't need to translate English to English
+    lang_list = [lang for lang in lang_list if lang != "en"]
+    if not lang_list:
+        typer.echo("No non-English languages to translate. "
+                   "Skipping translation.")
+        return
+
+    # Use project settings if english_icons_file not provided
+    if english_icons_file is None:
+        english_icons_file = settings.icons.stripped_file.format(language="en")
+
     source_path = Path(english_icons_file)
     if not source_path.exists():
         typer.echo(f"Error: File '{english_icons_file}' not found.")
@@ -42,10 +91,14 @@ def translate_icons(
         raise typer.Exit(code=1)
 
     # Process each language separately
-    for lang in [l.strip() for l in languages.split(",") if l.strip()]:
-        translation_file = Path("data") / f"keywords.{lang}.json"
+    for lang in lang_list:
+        # Use project settings for translation file path
+        translation_file = Path(
+            settings.translation.file.format(language=lang)
+        )
         if not translation_file.exists():
-            typer.echo(f"Translation file '{translation_file}' not found for language '{lang}'. Skipping.")
+            typer.echo(f"Translation file '{translation_file}' "
+                       f"not found for language '{lang}'. Skipping.")
             continue
 
         translations = load_json(translation_file)
@@ -74,8 +127,11 @@ def translate_icons(
         else:
             typer.echo(f"\nAll tags translated for language '{lang}'.")
 
-        # Construct output file path: original stem + ".<lang>" + original suffix.
-        output_file = source_path.parent / f"{source_path.stem.replace('.en', '')}.{lang}{source_path.suffix}"
+        # Construct output file path:
+        # original stem + ".<lang>" + original suffix.
+        output_file = (source_path.parent /
+                       f"{source_path.stem.replace('.en', '')}"
+                       f".{lang}{source_path.suffix}")
         save_json(output_file, icons_data)
         typer.echo(f"Translated icons for '{lang}' saved to: {output_file}")
 

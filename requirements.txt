@@ -62,3 +62,5 @@ model2vec~=0.4.1
 onnx~=1.17.0
 onnxconverter-common~=1.14.0
 fasttext~=0.9.3
+types-PyYAML~=6.0.0
+dataclasses-json~=0.6.7

@@ -1,7 +1,42 @@
-defaults:
-  default_dim: 300
-  small_dim: 200
+models:
+  dir: .models
+  defaults:
+    base_dim: 300
+    distilled_dim: 200
+    embeddings:
+      round_decimals: 2
+
+icons:
+  source_file: data/icons.json
+  stripped_file: data/icons.stripped.{language}.json
+  translations_file: data/keywords.{language}.json
+  embeddings_file: data/embeddings.json
+
+synonyms:
+  count: 40
+
+translation:
+  file: data/keywords.{language}.json
+  model: gpt-4o
+  context_window: 8192
+  max_tokens: 1024
 
 languages:
-  - code: en
-  - code: ru
+  - type: primary
+    code: en
+    model:
+      #name: cc.en.300.bin
+      name: all-MiniLM-L6-v2
+      base_dim: 300
+      distilled_dim: 300
+      embeddings:
+        round_decimals: 3
+  - type: secondary
+    code: ru
+    model:
+      #name: cc.ru.300.bin
+      name: cointegrated/rubert-tiny2
+      base_dim: 300
+      distilled_dim: 300
+      embeddings:
+        round_decimals: 3

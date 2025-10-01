@@ -1,136 +1,160 @@
-# Icons AI
+# Icons AI System
 
-Icons AI is a powerful command-line tool designed to streamline the process of organizing and managing icon sets. It leverages artificial intelligence to generate categories, categorize icons, extract keywords, and even translate those keywords into different languages. This tool is perfect for designers, developers, and anyone working with large icon libraries who need an efficient way to organize and search through their collections.
+A comprehensive system for processing, translating, and creating embeddings for icon datasets with multi-language support.
 
-Key features:
-- Generate meaningful categories for icon sets
-- Automatically categorize icons based on AI-generated categories
-- Extract relevant keywords from icons
-- Translate keywords into multiple languages
-- Utilizes local LLM (Large Language Model) for enhanced privacy and offline capabilities
+## System Overview
 
-Whether you're managing a small icon set or a vast library, Icons AI provides the tools you need to keep your icons organized, searchable, and easily accessible.
+This system takes a collection of icons with English tags and processes them through a pipeline that:
+1. Strips and cleans the icon data
+2. Enhances English tags with synonyms
+3. Translates tags to multiple languages using AI
+4. Creates language-specific icon files
+5. Generates embeddings for search and similarity
 
-## Software Used
+## Architecture
 
-Icons AI leverages several powerful tools and libraries to provide its functionality:
+The system is built around a **project-based configuration** approach where all settings are defined in YAML files. Each script can be run independently or as part of a complete workflow.
 
-### AI and Machine Learning
-- **Local LLM (Large Language Model)**: We use a locally-run LLM for generating categories, categorizing icons, and extracting keywords. This ensures privacy and allows for offline operation.
-- **Hugging Face Transformers**: Likely used for running the local LLM and for various NLP tasks.
+### Core Components
 
-### Translation
-- **Argos Translate**: An open-source neural machine translation library, used for translating keywords into multiple languages without relying on external APIs.
+- **Configuration System**: Centralized settings in `projects/v1.yaml`
+- **Library Modules**: Reusable components in `library/`
+- **Processing Scripts**: Specialized tools for each workflow step
+- **Data Pipeline**: Sequential processing from raw icons to final outputs
 
-The specific versions and additional dependencies can be found in the `requirements.txt` file.
+## Workflow
 
-## Usage
-
-### Requirements
-
+### 1. Prepare Models
 ```bash
-python3.11 -m venv .venv
-source .venv/bin/activate
-pip3 install -r requirements.txt
+python prepare_models.py
+```
+Downloads and prepares FastText language models for the configured languages. See `projects/v1.yaml` for model settings.
+
+### 2. Strip English Icons
+```bash
+python strip_english_icons.py
+```
+Creates a clean, stripped version of the English icons containing only essential fields (name and tags). This becomes the base file for all subsequent processing.
+
+### 3. Generate Synonyms (Optional)
+```bash
+python generate_synonims.py
+```
+Enhances the English stripped icons by adding synonyms to each tag using NLTK WordNet. This increases the vocabulary for better translation coverage.
+
+### 4. Translate Keywords
+```bash
+python translate_keywords.py --languages ru,fr
+```
+Translates all unique tags from the English stripped icons into target languages using OpenAI. Creates translation dictionaries (`data/keywords.{language}.json`) for each language.
+
+### 5. Translate Icons
+```bash
+python translate_icons.py --languages ru,fr
+```
+Uses the translation dictionaries to create language-specific icon files. Each icon's tags are translated while preserving the original structure.
+
+### 6. Create Embeddings
+```bash
+python create_icons_embeddings.py --languages en,ru,fr
+```
+Generates FastText embeddings for both individual icons and vocabulary words in each language. Creates searchable vector representations.
+
+## Configuration
+
+All system behavior is controlled through the project configuration file. See `projects/v1.yaml` for:
+- **Models**: FastText model settings and dimensions
+- **Icons**: File paths and naming patterns
+- **Translation**: OpenAI settings and parameters
+- **Languages**: Supported languages and their specific settings
+
+### Environment Variables
+
+Set these in your `.env` file:
+- `DEFAULT_PROJECT`: Path to default project YAML file
+- `OPENAI_API_KEY`: Your OpenAI API key for translations
+
+## File Structure
+
+```
+data/
+├── icons.json                    # Original icon dataset
+├── icons.stripped.en.json        # Stripped English icons
+├── icons.stripped.{lang}.json    # Translated icon files
+└── keywords.{lang}.json          # Translation dictionaries
+
+embeddings/
+├── icon_embeddings.{lang}.json   # Icon vector embeddings
+└── vocab_embeddings.{lang}.json  # Vocabulary embeddings
+
+.models/
+└── v1/                          # FastText language models
 ```
 
-### Models
+## Usage Patterns
 
-Download local LLM models:
-
+### Complete Workflow
+Run all steps in sequence for a full processing pipeline:
 ```bash
-./download-models.sh
+python prepare_models.py
+python strip_english_icons.py
+python generate_synonims.py
+python translate_keywords.py --languages ru,fr
+python translate_icons.py --languages ru,fr
+python create_icons_embeddings.py --languages en,ru,fr
 ```
 
-### Help
-
+### Single Language Processing
+Process only specific languages by using the `--languages` parameter:
 ```bash
-./main.py --help
+python translate_keywords.py --languages ru
+python translate_icons.py --languages ru
 ```
 
-### Step 1: Generate Categories
-
+### Custom Configuration
+Use different project settings:
 ```bash
-./main.py generate-categories --output data/categories.json
+python translate_keywords.py --project projects/custom.yaml --languages ru
 ```
 
-### Step 2: Categorize Icons
+## Key Features
 
-**250 icons**
+- **Project-Based Configuration**: All settings centralized in YAML files
+- **Language Support**: Process multiple languages with language-specific settings
+- **AI-Powered Translation**: Uses OpenAI for high-quality tag translation
+- **Embedding Generation**: Creates searchable vector representations
+- **Modular Design**: Each script can be run independently
+- **Error Handling**: Graceful handling of missing files and API failures
+- **Progress Tracking**: Visual progress bars for long-running operations
 
+## Dependencies
+
+Install required packages:
 ```bash
-./main.py categorize-icons \
-    --input-icons data/icons.json \
-    --output-filtered data/filtered_icons_250.json \
-    --output-keywords data/keywords_250.json \
-    --categories data/categories.json \
-    --limit 250 \
-    --chunk-size 90 \
-    --languages en,ru \
-    --translator openai
+pip install -r requirements.txt
 ```
 
-**500 icons**
+Key dependencies include:
+- FastText for language models and embeddings
+- OpenAI for AI-powered translations
+- NLTK for English synonym generation
+- Typer for command-line interfaces
 
-```bash
-./main.py categorize-icons \
-    --input-icons data/icons.json \
-    --output-filtered data/filtered_icons_500.json \
-    --output-keywords data/keywords_500.json \
-    --categories data/categories.json \
-    --limit 500 \
-    --chunk-size 90 \
-    --languages en,ru \
-    --translator openai
-```
+## Output Files
 
-**1000 icons**
+The system generates several types of output files:
+- **Stripped Icons**: Clean, minimal icon data
+- **Translation Files**: Keyword mappings for each language
+- **Translated Icons**: Language-specific icon collections
+- **Embeddings**: Vector representations for search and similarity
 
-```bash
-./main.py categorize-icons \
-    --input-icons data/icons.json \
-    --output-filtered data/filtered_icons_1000.json \
-    --output-keywords data/keywords_1000.json \
-    --categories data/categories.json \
-    --limit 1000 \
-    --chunk-size 90 \
-    --languages en,ru \
-    --translator openai
-```
+Each file type follows consistent naming patterns with language placeholders, making it easy to work with multiple languages programmatically.
 
-### Step 3: Preview
+## Getting Started
 
-**250 icons**
+1. Configure your project settings in `projects/v1.yaml`
+2. Set up your `.env` file with required API keys
+3. Run the workflow steps in sequence
+4. Use the generated files for your application needs
 
-```bash
-./main.py preview --input-icons data/filtered_icons_250.json --output-html data/preview-250.html
-```
-
-**500 icons**
-
-```bash
-./main.py preview --input-icons data/filtered_icons_500.json --output-html data/preview-500.html
-```
-
-**1000 icons**
-
-```bash
-./main.py preview --input-icons data/filtered_icons_1000.json --output-html data/preview-1000.html
-```
-
-### Additional Step: Translate Keywords
-
-If you have categories and existing translations and just need to translate to additional languages, use just this command.
-
-```bash
-./main.py translate-keywords --source data/keywords.json --output data/keywords.json --languages ru
-```
-
-## Environment
-
-1. Take openai secret from google secrets in production env.
-
-
-## Licence
-
-Private, belongs to smarter.day
+The system is designed to be flexible and extensible, allowing you to customize the processing pipeline based on your specific requirements.
