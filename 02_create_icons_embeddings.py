@@ -1,31 +1,29 @@
 #!/usr/bin/env python
 
-import os
 import json
+import os
+
 import fasttext
 import numpy as np
-from collections import defaultdict
+import typer
+
+app = typer.Typer()
+
+ROUND_DECIMALS = 3
+
 
 # -------------------------------------------------------------------------
-# CONFIG
-# -------------------------------------------------------------------------
-FASTTEXT_MODEL_PATH = f".models/cc.en.200.bin"
-ICONS_JSON_PATH = f"data/icons.stripped.json"
-ICON_EMBEDDINGS_JSON = f"embeddings/icon_embeddings.json"
-WORD_EMBEDDINGS_JSON = f"embeddings/vocab_embeddings.json"
-ROUND_DECIMALS = 2  # Round to 1 decimal places
-
-# -------------------------------------------------------------------------
-def load_fasttext_model():
-    if not os.path.exists(FASTTEXT_MODEL_PATH):
-        raise FileNotFoundError(f"Missing FastText model at: {FASTTEXT_MODEL_PATH}")
-    print(f"Loading FastText model: {FASTTEXT_MODEL_PATH}")
-    model = fasttext.load_model(FASTTEXT_MODEL_PATH)
+def load_fasttext_model(model_path):
+    if not os.path.exists(model_path):
+        raise FileNotFoundError(f"Missing FastText model at: {model_path}")
+    print(f"Loading FastText model: {model_path}")
+    model = fasttext.load_model(model_path)
     print("Model loaded.")
     return model
 
-def create_icon_embeddings(model):
-    with open(ICONS_JSON_PATH, "r", encoding="utf-8") as f:
+
+def create_icon_embeddings(model, icons_json_path):
+    with open(icons_json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
     icons = data["icons"]
     print(f"Found {len(icons)} icons")
@@ -49,36 +47,51 @@ def create_icon_embeddings(model):
         else:
             emb = np.mean(vecs, axis=0)
 
-        # Convert to list and round each float
         emb_list = [round(float(x), ROUND_DECIMALS) for x in emb]
         icon_id = icon["name"]
         icon_embeds[icon_id] = emb_list
 
     return icon_embeds, all_words
 
+
 def create_word_vocab_embeddings(model, word_list):
     vocab_dict = {}
     for w in word_list:
         vec = model.get_word_vector(w)
-        # Round each float
         vocab_dict[w] = [round(float(x), ROUND_DECIMALS) for x in vec]
     return vocab_dict
 
-def main():
-    ft_model = load_fasttext_model()
 
-    icon_embeds, word_set = create_icon_embeddings(ft_model)
-    vocab_dict = create_word_vocab_embeddings(ft_model, word_set)
+@app.command()
+def main(
+        languages: str = typer.Option(..., help="Comma-separated list of language codes, e.g. 'ru,en,fr'"),
+):
+    """
+    Create icon and word embeddings for one or more languages.
+    Example: python 02_create_icons_embeddings.py --languages ru,en
+    """
+    lang_list = [lang.strip() for lang in languages.split(",") if lang.strip()]
+    for LANGUAGE in lang_list:
+        fasttext_model_path = f".models/cc.{LANGUAGE}.200.bin"
+        icons_json_path = f"data/icons.stripped.{LANGUAGE}.json"
+        icon_embeddings_json = f"embeddings/icon_embeddings.{LANGUAGE}.json"
+        word_embeddings_json = f"embeddings/vocab_embeddings.{LANGUAGE}.json"
 
-    with open(ICON_EMBEDDINGS_JSON, "w", encoding="utf-8") as f:
-        json.dump(icon_embeds, f, ensure_ascii=False)
-    print(f"Saved icon embeddings => {ICON_EMBEDDINGS_JSON}")
+        print(f"\nProcessing language: {LANGUAGE}")
+        ft_model = load_fasttext_model(fasttext_model_path)
+        icon_embeds, word_set = create_icon_embeddings(ft_model, icons_json_path)
+        vocab_dict = create_word_vocab_embeddings(ft_model, word_set)
 
-    with open(WORD_EMBEDDINGS_JSON, "w", encoding="utf-8") as f:
-        json.dump(vocab_dict, f, ensure_ascii=False)
-    print(f"Saved word embeddings => {WORD_EMBEDDINGS_JSON}")
+        with open(icon_embeddings_json, "w", encoding="utf-8") as f:
+            json.dump(icon_embeds, f, ensure_ascii=False)
+        print(f"Saved icon embeddings => {icon_embeddings_json}")
 
-    print("Done.")
+        with open(word_embeddings_json, "w", encoding="utf-8") as f:
+            json.dump(vocab_dict, f, ensure_ascii=False)
+        print(f"Saved word embeddings => {word_embeddings_json}")
+
+        print("Done.")
+
 
 if __name__ == "__main__":
-    main()
+    app()

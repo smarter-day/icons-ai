@@ -18,7 +18,7 @@ def save_json(path: Path, data: dict):
 
 @app.command()
 def translate_icons(
-        english_icons_file: str = typer.Option("data/icons.stripped.json", help="Path to the English icons JSON file"),
+        english_icons_file: str = typer.Option("data/icons.stripped.en.json", help="Path to the English icons JSON file"),
         languages: str = typer.Option(..., help="Comma-separated list of languages (e.g., 'ru,fr')")
 ):
     """
@@ -75,7 +75,7 @@ def translate_icons(
             typer.echo(f"\nAll tags translated for language '{lang}'.")
 
         # Construct output file path: original stem + ".<lang>" + original suffix.
-        output_file = source_path.parent / f"{source_path.stem}.{lang}{source_path.suffix}"
+        output_file = source_path.parent / f"{source_path.stem.replace('.en', '')}.{lang}{source_path.suffix}"
         save_json(output_file, icons_data)
         typer.echo(f"Translated icons for '{lang}' saved to: {output_file}")
 

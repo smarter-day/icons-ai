@@ -211,12 +211,18 @@ def translate_chunk_retry(chunk: list, language_label: str, api_key: str, max_at
 
 @app.command()
 def translate_keywords(
-        source_file: str = typer.Option("data/icons.stripped.json", help="Path to source JSON"),
-        languages: str = typer.Option(..., help="Comma-separated list of languages (e.g., 'ru,fr')"),
+        source_file: str = typer.Option("data/icons.stripped.en.json", help="Path to source JSON"),
+        languages: str = typer.Option(
+            ...,
+            help="Comma-separated list of languages (e.g., 'ru,fr'). Example: --languages ru,fr",
+            show_default=False
+        ),
         openai_api_key: str = typer.Option(None, help="OpenAI API key")
 ):
     """
     Translates tags from the source file into specified languages.
+    Usage example:
+        python3 translate_keywords.py --languages ru,en,fr
     Dynamically adjusts the chunk size so as not to exceed GPT's context limit.
     Updates the target translation file with successful translations.
     """

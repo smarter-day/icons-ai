@@ -39,7 +39,7 @@ def strip_icons(
     result = {"icons": stripped_icons}
 
     # Determine output file => "original_name.stripped.json"
-    out_path = src_path.parent / f"{src_path.stem}.stripped.json"
+    out_path = src_path.parent / f"{src_path.stem}.stripped.en.json"
 
     # Write to the new file
     with out_path.open("w", encoding="utf-8") as f:

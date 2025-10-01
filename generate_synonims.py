@@ -43,8 +43,8 @@ def save_json(path: Path, data: dict):
 
 @app.command()
 def add_synonyms(
-        icons_file: str = typer.Option("data/icons.stripped.json", help="Path to the icons JSON file"),
-        synonyms_count: int = typer.Option(100, help="Number of synonyms to generate for each tag")
+        icons_file: str = typer.Option("data/icons.stripped.en.json", help="Path to the icons JSON file"),
+        synonyms_count: int = typer.Option(50, help="Number of synonyms to generate for each tag")
 ):
     """
     Reads an icons JSON file, and for each tag in each icon generates up to X synonyms

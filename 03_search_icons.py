@@ -9,12 +9,8 @@ LANGUAGE = sys.argv[1]
 
 assert LANGUAGE, "Please provide a language code"
 
-if LANGUAGE == "en":
-    ICON_EMBEDDINGS_JSON = f"embeddings/icon_embeddings.json"
-    WORD_EMBEDDINGS_JSON = f"embeddings/vocab_embeddings.json"
-else:
-    ICON_EMBEDDINGS_JSON = f"embeddings/icon_embeddings.{LANGUAGE}.json"
-    WORD_EMBEDDINGS_JSON = f"embeddings/vocab_embeddings.{LANGUAGE}.json"
+ICON_EMBEDDINGS_JSON = f"embeddings/icon_embeddings.{LANGUAGE}.json"
+WORD_EMBEDDINGS_JSON = f"embeddings/vocab_embeddings.{LANGUAGE}.json"
 
 def load_json_embeddings():
     if not os.path.exists(ICON_EMBEDDINGS_JSON):
