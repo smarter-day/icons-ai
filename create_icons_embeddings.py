@@ -56,19 +56,38 @@ def load_model(model_name: str, model_type: str = "huggingface", models_dir: str
         return model
 
 
-def create_icon_embeddings(model, icons_json_path, round_decimals, model_type="huggingface"):
+def create_icon_embeddings(model, icons_json_path, round_decimals, model_type="huggingface", enabled_icons_path=None):
     with open(icons_json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
     icons = data["icons"]
-    print(f"Found {len(icons)} icons")
+    print(f"Found {len(icons)} icons in source file")
+
+    # Load enabled icons if provided
+    enabled_icon_names = set()
+    if enabled_icons_path and os.path.exists(enabled_icons_path):
+        with open(enabled_icons_path, "r", encoding="utf-8") as f:
+            enabled_data = json.load(f)
+        enabled_icons = enabled_data.get("icons", [])
+        enabled_icon_names = {icon["name"] for icon in enabled_icons}
+        print(f"Found {len(enabled_icon_names)} enabled icons")
+    else:
+        print("No enabled icons file found, processing all icons")
+
+    # Filter icons to only process enabled ones
+    if enabled_icon_names:
+        filtered_icons = [icon for icon in icons if icon["name"] in enabled_icon_names]
+        print(f"Processing {len(filtered_icons)} enabled icons")
+    else:
+        filtered_icons = icons
+        print(f"Processing all {len(filtered_icons)} icons")
 
     icon_embeds = {}
     all_words = set()
 
     # Process icons in batches for better performance
     batch_size = 100
-    for i in range(0, len(icons), batch_size):
-        batch = icons[i:i + batch_size]
+    for i in range(0, len(filtered_icons), batch_size):
+        batch = filtered_icons[i:i + batch_size]
         texts = []
 
         for icon in batch:
@@ -169,6 +188,7 @@ def main(
         icons_json_path = settings.icons.stripped_file.format(
             language=lang_code
         )
+        enabled_icons_path = f"data/icons.enabled.{lang_code}.json"
         icon_embeddings_json = f"embeddings/icon_embeddings.{lang_code}.json"
         word_embeddings_json = f"embeddings/vocab_embeddings.{lang_code}.json"
 
@@ -179,7 +199,7 @@ def main(
 
         model = load_model(lang_settings.model.name, model_type, settings.models.dir)
         icon_embeds, word_set = create_icon_embeddings(
-            model, icons_json_path, round_decimals, model_type
+            model, icons_json_path, round_decimals, model_type, enabled_icons_path
         )
         vocab_dict = create_word_vocab_embeddings(
             model, word_set, round_decimals, model_type

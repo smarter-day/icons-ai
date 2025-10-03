@@ -5,6 +5,9 @@ models:
     distilled_dim: 200
     embeddings:
       round_decimals: 2
+    categorization:
+      model: paraphrase-multilingual-MiniLM-L12-v2
+      threshold: 0.3
 
 icons:
   source_file: data/icons.json

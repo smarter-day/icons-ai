@@ -21,17 +21,22 @@ echo '--------------------------------------------------------------------------
 python generate_synonims.py
 
 echo '----------------------------------------------------------------------------------'
-echo ' STEP 4: TRANSLATE ICONS TAGS AND SAVE TRANSLATIONS IN CACHE'
+echo ' STEP 4: CATEGORIZE ICONS'
+echo '----------------------------------------------------------------------------------'
+python categorize_icons.py
+
+echo '----------------------------------------------------------------------------------'
+echo ' STEP 5: TRANSLATE ICONS TAGS AND SAVE TRANSLATIONS IN CACHE'
 echo '----------------------------------------------------------------------------------'
 python translate_keywords.py
 
 echo '----------------------------------------------------------------------------------'
-echo ' STEP 5: TRANSLATE STRIPPED ICONS FILES'
+echo ' STEP 6: TRANSLATE STRIPPED ICONS FILES'
 echo '----------------------------------------------------------------------------------'
 python translate_icons.py
 
 echo '----------------------------------------------------------------------------------'
-echo ' STEP 6: BUILD EMBEDDINGS'
+echo ' STEP 7: BUILD EMBEDDINGS'
 echo '----------------------------------------------------------------------------------'
 python create_icons_embeddings.py
 

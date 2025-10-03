@@ -92,6 +92,18 @@ def translate_keywords(
     if source_file is None:
         source_file = settings.icons.stripped_file.format(language="en")
 
+    # Load enabled icons to filter tags
+    enabled_icons_path = f"data/icons.enabled.en.json"
+    enabled_icon_names = set()
+    if os.path.exists(enabled_icons_path):
+        with open(enabled_icons_path, "r", encoding="utf-8") as f:
+            enabled_data = json.load(f)
+        enabled_icons = enabled_data.get("icons", [])
+        enabled_icon_names = {icon["name"] for icon in enabled_icons}
+        typer.echo(f"Found {len(enabled_icon_names)} enabled icons")
+    else:
+        typer.echo("No enabled icons file found, processing all icons")
+
     # Load translation settings from project (with command line overrides)
     model = model or settings.translation.model
     context_window = context_window or settings.translation.context_window
@@ -111,13 +123,22 @@ def translate_keywords(
     with src_path.open("r", encoding="utf-8") as f:
         data = json.load(f)
     icons = data.get("icons", [])
+    
+    # Filter icons to only enabled ones if enabled icons file exists
+    if enabled_icon_names:
+        filtered_icons = [icon for icon in icons if icon["name"] in enabled_icon_names]
+        typer.echo(f"Processing {len(filtered_icons)} enabled icons out of {len(icons)} total")
+    else:
+        filtered_icons = icons
+        typer.echo(f"Processing all {len(filtered_icons)} icons")
+    
     all_tags = sorted(set(
         tag.strip()
-        for icon in icons
+        for icon in filtered_icons
         for tag in icon.get("tags", "").split(",")
         if tag.strip()
     ))
-    typer.echo(f"Found {len(all_tags)} unique tags total in {source_file}.")
+    typer.echo(f"Found {len(all_tags)} unique tags from enabled icons.")
 
     # Process each language.
     for lang_code in lang_list:

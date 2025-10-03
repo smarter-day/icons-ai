@@ -15,12 +15,22 @@ class EmbeddingsSettings:
 
 @dataclass_json
 @dataclass
+class CategorizationSettings:
+    """Settings for categorization model."""
+    model: str
+    threshold: float
+
+
+@dataclass_json
+@dataclass
 class BaseModelSettings:
     """Settings for the base model defaults."""
     base_dim: int
     distilled_dim: int
     embeddings: EmbeddingsSettings = field(
         default_factory=EmbeddingsSettings)  # type: ignore
+    categorization: CategorizationSettings = field(
+        default_factory=CategorizationSettings)  # type: ignore
 
 
 @dataclass_json

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import json
+import os
 from pathlib import Path
 
 import dotenv
@@ -83,12 +84,31 @@ def translate_icons(
         typer.echo(f"Error: File '{english_icons_file}' not found.")
         raise typer.Exit(code=1)
 
+    # Load enabled icons to filter processing
+    enabled_icons_path = f"data/icons.enabled.en.json"
+    enabled_icon_names = set()
+    if os.path.exists(enabled_icons_path):
+        with open(enabled_icons_path, "r", encoding="utf-8") as f:
+            enabled_data = json.load(f)
+        enabled_icons = enabled_data.get("icons", [])
+        enabled_icon_names = {icon["name"] for icon in enabled_icons}
+        typer.echo(f"Found {len(enabled_icon_names)} enabled icons")
+    else:
+        typer.echo("No enabled icons file found, processing all icons")
+
     # Load the original icons JSON
     icons_data = load_json(source_path)
-    icons = icons_data.get("icons", [])
-    if not icons:
+    all_icons = icons_data.get("icons", [])
+    if not all_icons:
         typer.echo("No icons found in the file.")
         raise typer.Exit(code=1)
+
+    # Keep all icons, but only translate tags for enabled ones
+    icons = all_icons
+    if enabled_icon_names:
+        typer.echo(f"Will translate tags for {len(enabled_icon_names)} enabled icons out of {len(all_icons)} total")
+    else:
+        typer.echo(f"Will translate tags for all {len(icons)} icons")
 
     # Process each language separately
     for lang in lang_list:
@@ -105,7 +125,12 @@ def translate_icons(
         unknown_tags = set()
 
         # Process each icon and update its tags
+        processed_icons = []
         for icon in icons:
+            # Only process enabled icons
+            if enabled_icon_names and icon["name"] not in enabled_icon_names:
+                continue
+
             tag_str = icon.get("tags", "")
             # Split by comma and strip whitespace
             tags = [t.strip() for t in tag_str.split(",") if t.strip()]
@@ -118,6 +143,7 @@ def translate_icons(
                     unknown_tags.add(tag)
             # Rejoin the translated tags into a string
             icon["tags"] = ",".join(translated_tags)
+            processed_icons.append(icon)
 
         # Output unknown tags as an ordered list
         if unknown_tags:
@@ -132,8 +158,12 @@ def translate_icons(
         output_file = (source_path.parent /
                        f"{source_path.stem.replace('.en', '')}"
                        f".{lang}{source_path.suffix}")
-        save_json(output_file, icons_data)
+
+        # Save only the processed (enabled) icons
+        output_data = {"icons": processed_icons}
+        save_json(output_file, output_data)
         typer.echo(f"Translated icons for '{lang}' saved to: {output_file}")
+        typer.echo(f"Saved {len(processed_icons)} enabled icons")
 
 
 if __name__ == "__main__":
