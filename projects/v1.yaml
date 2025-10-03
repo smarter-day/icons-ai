@@ -25,8 +25,9 @@ languages:
   - type: primary
     code: en
     model:
+      #type: fasttext # or "huggingface"
       #name: cc.en.300.bin
-      name: all-MiniLM-L6-v2
+      name: paraphrase-multilingual-MiniLM-L12-v2
       base_dim: 300
       distilled_dim: 300
       embeddings:
@@ -34,8 +35,9 @@ languages:
   - type: secondary
     code: ru
     model:
+      #type: fasttext # or "huggingface"
       #name: cc.ru.300.bin
-      name: cointegrated/rubert-tiny2
+      name: paraphrase-multilingual-MiniLM-L12-v2
       base_dim: 300
       distilled_dim: 300
       embeddings:

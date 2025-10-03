@@ -30,6 +30,7 @@ class LanguageModelSettings:
     name: str
     base_dim: int
     distilled_dim: int
+    type: str = "huggingface"  # "fasttext" or "huggingface"
     embeddings: EmbeddingsSettings = field(
         default_factory=EmbeddingsSettings)  # type: ignore
 

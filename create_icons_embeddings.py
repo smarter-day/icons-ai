@@ -1,9 +1,13 @@
 #!/usr/bin/env python
 
 import json
+import os
 from pathlib import Path
+from typing import Union
 
 import dotenv
+import fasttext
+import fasttext.util
 import typer
 from sentence_transformers import SentenceTransformer
 
@@ -16,14 +20,43 @@ app = typer.Typer()
 
 
 # -------------------------------------------------------------------------
-def load_sentence_transformer_model(model_name):
-    print(f"Loading SentenceTransformer model: {model_name}")
-    model = SentenceTransformer(model_name)
-    print("Model loaded.")
-    return model
+def load_model(model_name: str, model_type: str = "huggingface", models_dir: str = None):
+    """Load either FastText or HuggingFace model based on type."""
+    if model_type == "fasttext":
+        assert models_dir is not None, "models_dir must be provided for FastText models"
+        print(f"Loading FastText model: {model_name}")
+
+        # Extract language code from model name (e.g., "cc.en.300.bin" -> "en")
+        if "cc." in model_name:
+            lang_code = model_name.split(".")[1]  # Extract "en" from "cc.en.300.bin"
+        else:
+            lang_code = "en"  # Default fallback
+
+        # Build full path to model in models directory
+        model_path = os.path.join(models_dir, model_name)
+
+        # Download model if it doesn't exist in models directory
+        if not os.path.exists(model_path):
+            print(f"Model file {model_path} not found. Downloading FastText model for {lang_code}...")
+            # Ensure models directory exists
+            os.makedirs(models_dir, exist_ok=True)
+            old_cwd = os.getcwd()
+            os.chdir(models_dir)
+            fasttext.util.download_model(lang_code, if_exists='ignore')
+            Path(model_path + '.gz').unlink(missing_ok=True)
+            os.chdir(old_cwd)
+
+        model = fasttext.load_model(model_path)
+        print("FastText model loaded.")
+        return model
+    else:
+        print(f"Loading SentenceTransformer model: {model_name}")
+        model = SentenceTransformer(model_name)
+        print("SentenceTransformer model loaded.")
+        return model
 
 
-def create_icon_embeddings(model, icons_json_path, round_decimals):
+def create_icon_embeddings(model, icons_json_path, round_decimals, model_type="huggingface"):
     with open(icons_json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
     icons = data["icons"]
@@ -48,7 +81,13 @@ def create_icon_embeddings(model, icons_json_path, round_decimals):
             all_words.update(tokens)
 
         # Get embeddings for the batch
-        embeddings = model.encode(texts)
+        if model_type == "fasttext":
+            embeddings = []
+            for text in texts:
+                embedding = model.get_sentence_vector(text)
+                embeddings.append(embedding)
+        else:
+            embeddings = model.encode(texts)
 
         # Store embeddings
         for j, icon in enumerate(batch):
@@ -59,13 +98,19 @@ def create_icon_embeddings(model, icons_json_path, round_decimals):
     return icon_embeds, all_words
 
 
-def create_word_vocab_embeddings(model, word_list, round_decimals):
+def create_word_vocab_embeddings(model, word_list, round_decimals, model_type="huggingface"):
     vocab_dict = {}
     # Process words in batches for better performance
     batch_size = 1000
     for i in range(0, len(word_list), batch_size):
         batch_words = list(word_list)[i:i + batch_size]
-        embeddings = model.encode(batch_words)
+        if model_type == "fasttext":
+            embeddings = []
+            for word in batch_words:
+                embedding = model.get_word_vector(word)
+                embeddings.append(embedding)
+        else:
+            embeddings = model.encode(batch_words)
 
         for j, word in enumerate(batch_words):
             vocab_dict[word] = [
@@ -128,12 +173,16 @@ def main(
         word_embeddings_json = f"embeddings/vocab_embeddings.{lang_code}.json"
 
         print(f"\nProcessing language: {lang_code}")
-        st_model = load_sentence_transformer_model(lang_settings.model.name)
+
+        # Get model type from settings (default to huggingface if not specified)
+        model_type = getattr(lang_settings.model, 'type', 'huggingface')
+
+        model = load_model(lang_settings.model.name, model_type, settings.models.dir)
         icon_embeds, word_set = create_icon_embeddings(
-            st_model, icons_json_path, round_decimals
+            model, icons_json_path, round_decimals, model_type
         )
         vocab_dict = create_word_vocab_embeddings(
-            st_model, word_set, round_decimals
+            model, word_set, round_decimals, model_type
         )
 
         # Ensure embeddings directory exists
