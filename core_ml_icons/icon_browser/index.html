@@ -825,7 +825,8 @@
     (function () {
       const data = Array.isArray(window.ICON_DATA) ? window.ICON_DATA : [];
       const candidateData = Array.isArray(window.CANDIDATE_DATA) ? window.CANDIDATE_DATA : [];
-      const storageKey = "semantic_icon_browser_selected_v7_compact4";
+      const storageKey  = "semantic_icon_browser_selected_v7_compact4";
+      const viewKey     = "semantic_icon_browser_view";
 
       const tableBody    = document.getElementById("iconTableBody");
       const searchInput  = document.getElementById("searchInput");
@@ -851,7 +852,7 @@
       const langSwitcher   = document.getElementById("langSwitcher");
 
       let selectedOnly     = false;
-      let currentView      = "list";
+      let currentView      = localStorage.getItem(viewKey) || "list";
       let currentLang      = "en";
       let currentItem      = null;
       let hideIrrelevant   = true;
@@ -894,8 +895,17 @@
           .replace(/>/g, "&gt;");
       }
 
+      // Combined lookup: current set + candidates (name → item)
+      const allItemsByName = new Map();
+      for (const item of data) allItemsByName.set(item.name, item);
+      for (const item of candidateData) if (!allItemsByName.has(item.name)) allItemsByName.set(item.name, item);
+
       function selectedNamesInOrder() {
-        return data.filter(item => selected.has(item.name)).map(item => item.name);
+        // preserve insertion order: data first, then candidates
+        const names = [];
+        for (const item of data) if (selected.has(item.name)) names.push(item.name);
+        for (const item of candidateData) if (selected.has(item.name)) names.push(item.name);
+        return names;
       }
 
       function updateSelectedOutput() {
@@ -1289,26 +1299,18 @@
       // ── View toggle ───────────────────────────────────────────
       const viewBtns = [viewListBtn, viewGalleryBtn, viewCandidatesBtn];
 
-      viewListBtn.addEventListener("click", () => {
-        currentView = "list";
+      function setView(view) {
+        currentView = view;
+        localStorage.setItem(viewKey, view);
         viewBtns.forEach(b => b.classList.remove("active-opt"));
-        viewListBtn.classList.add("active-opt");
+        ({ list: viewListBtn, gallery: viewGalleryBtn, candidates: viewCandidatesBtn })[view]
+          .classList.add("active-opt");
         render();
-      });
+      }
 
-      viewGalleryBtn.addEventListener("click", () => {
-        currentView = "gallery";
-        viewBtns.forEach(b => b.classList.remove("active-opt"));
-        viewGalleryBtn.classList.add("active-opt");
-        render();
-      });
-
-      viewCandidatesBtn.addEventListener("click", () => {
-        currentView = "candidates";
-        viewBtns.forEach(b => b.classList.remove("active-opt"));
-        viewCandidatesBtn.classList.add("active-opt");
-        render();
-      });
+      viewListBtn.addEventListener("click", () => setView("list"));
+      viewGalleryBtn.addEventListener("click", () => setView("gallery"));
+      viewCandidatesBtn.addEventListener("click", () => setView("candidates"));
 
       // ── Filter ────────────────────────────────────────────────
       showSelectedBtn.addEventListener("click", () => { selectedOnly = true; render(); });
@@ -1336,6 +1338,11 @@
       searchInput.addEventListener("input", render);
 
       // ── Init ──────────────────────────────────────────────────
+      // restore active view button
+      viewBtns.forEach(b => b.classList.remove("active-opt"));
+      ({ list: viewListBtn, gallery: viewGalleryBtn, candidates: viewCandidatesBtn })[currentView]
+        .classList.add("active-opt");
+
       updateSelectedOutput();
       render();
     })();
