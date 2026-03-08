@@ -779,7 +779,7 @@
       <!-- Candidates toolbar (shown only in candidates view) -->
       <div id="candidatesToolbar" style="display:none; padding:6px 12px; border-bottom:1px solid var(--line); background:#f8f9fc; flex-shrink:0;">
         <label style="display:flex;align-items:center;gap:7px;font-size:12px;color:var(--muted);cursor:pointer;user-select:none;">
-          <input type="checkbox" id="hideIrrelevantCb" style="width:14px;height:14px;accent-color:var(--accent);cursor:pointer;">
+          <input type="checkbox" id="hideIrrelevantCb" checked style="width:14px;height:14px;accent-color:var(--accent);cursor:pointer;">
           Hide irrelevant icons (arrows, alphabet, numbers, symbols, spinners, text-formatting, toggle, coding)
         </label>
       </div>
@@ -854,7 +854,7 @@
       let currentView      = "list";
       let currentLang      = "en";
       let currentItem      = null;
-      let hideIrrelevant   = false;
+      let hideIrrelevant   = true;
 
       const irrelevantIcons = window.IRRELEVANT_ICONS || new Set();
       const hideIrrelevantCb = document.getElementById("hideIrrelevantCb");
