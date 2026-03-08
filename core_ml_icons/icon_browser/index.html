@@ -49,10 +49,20 @@
       overflow: hidden;
     }
 
+    /* ── Panel head ── */
     .panel-head {
       padding: 10px 12px;
       border-bottom: 1px solid var(--line);
-      display: grid;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .panel-head-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
       gap: 8px;
     }
 
@@ -63,45 +73,125 @@
     }
 
     .meta {
-      font-size: 12px;
+      font-size: 11px;
       color: var(--muted);
       margin: 0;
     }
 
-    .controls {
-      display: grid;
-      grid-template-columns: 1fr auto auto auto auto auto;
+    .search-row {
+      display: flex;
       gap: 8px;
       align-items: center;
     }
 
     input[type="text"] {
-      width: 100%;
+      flex: 1;
       border: 1px solid var(--line);
       border-radius: 8px;
-      padding: 8px 10px;
+      padding: 7px 10px;
       font-size: 13px;
       color: var(--text);
+      background: #fafbfd;
+      outline: none;
+    }
+    input[type="text"]:focus {
+      border-color: var(--accent);
+      background: #fff;
     }
 
     button {
       border: 1px solid var(--line);
       background: #fff;
       color: var(--text);
-      padding: 8px 10px;
+      padding: 7px 11px;
       border-radius: 8px;
       font-size: 12px;
       cursor: pointer;
+      white-space: nowrap;
+      transition: background 0.12s, color 0.12s;
     }
+    button:hover { background: #f3f6fb; }
     button.primary {
       background: var(--accent);
       color: #fff;
       border-color: var(--accent);
     }
-    button.active-view {
-      background: var(--accent);
-      color: #fff;
-      border-color: var(--accent);
+    button.primary:hover { background: #155ec9; }
+
+    /* ── Segmented view toggle ── */
+    .view-toggle {
+      display: flex;
+      background: #eef1f7;
+      border-radius: 8px;
+      padding: 3px;
+      gap: 2px;
+      flex-shrink: 0;
+    }
+    .view-opt {
+      border: none;
+      background: transparent;
+      padding: 5px 12px;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--muted);
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s, box-shadow 0.15s;
+    }
+    .view-opt:hover { color: var(--text); background: rgba(255,255,255,0.6); }
+    .view-opt.active-opt {
+      background: #fff;
+      color: var(--accent);
+      font-weight: 600;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.10);
+    }
+
+    /* ── Selected bar ── */
+    .selected-bar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 12px;
+      background: #f8f9fc;
+      border-bottom: 1px solid var(--line);
+      flex-shrink: 0;
+      min-height: 36px;
+    }
+    .selected-bar-count {
+      font-size: 12px;
+      color: var(--muted);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .selected-bar-count strong {
+      color: var(--accent);
+    }
+    .sel-chips {
+      display: flex;
+      gap: 4px;
+      overflow-x: auto;
+      flex: 1;
+      scrollbar-width: none;
+    }
+    .sel-chips::-webkit-scrollbar { display: none; }
+    .sel-chip {
+      background: var(--accent-soft);
+      color: var(--accent);
+      border: 1px solid #c5d9f9;
+      border-radius: 12px;
+      padding: 2px 8px;
+      font-size: 11px;
+      white-space: nowrap;
+      font-family: ui-monospace, monospace;
+    }
+    .sel-bar-btns {
+      display: flex;
+      gap: 4px;
+      flex-shrink: 0;
+    }
+    .sel-bar-btns button {
+      padding: 4px 9px;
+      font-size: 11px;
     }
 
     /* ── List view ── */
@@ -126,25 +216,19 @@
       font-weight: 700;
       color: #3c4a63;
       border-bottom: 1px solid var(--line);
-      padding: 8px 10px;
+      padding: 7px 10px;
       white-space: nowrap;
     }
 
     tbody td {
       border-bottom: 1px solid #edf0f5;
-      padding: 8px 10px;
+      padding: 7px 10px;
       vertical-align: middle;
     }
 
-    tbody tr {
-      cursor: pointer;
-    }
-    tbody tr:hover {
-      background: #f7faff;
-    }
-    tbody tr.selected {
-      background: var(--accent-soft);
-    }
+    tbody tr { cursor: pointer; }
+    tbody tr:hover { background: #f7faff; }
+    tbody tr.selected { background: var(--accent-soft); }
 
     .check {
       width: 36px;
@@ -157,10 +241,7 @@
       accent-color: var(--accent);
     }
 
-    .icon-cell {
-      width: 62px;
-      text-align: center;
-    }
+    .icon-cell { width: 56px; text-align: center; }
 
     .glyph {
       font-family: "FA7SolidLocal";
@@ -187,8 +268,8 @@
 
     .gallery-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-      gap: 10px;
+      grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+      gap: 8px;
     }
 
     .gallery-card {
@@ -199,13 +280,14 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
       cursor: pointer;
-      transition: border-color 0.15s, background 0.15s;
+      transition: border-color 0.15s, background 0.15s, box-shadow 0.15s;
     }
     .gallery-card:hover {
       border-color: var(--accent);
       background: #f7faff;
+      box-shadow: 0 2px 8px rgba(31,111,235,0.08);
     }
     .gallery-card.selected {
       background: var(--accent-soft);
@@ -214,7 +296,7 @@
     .gallery-card .card-glyph {
       font-family: "FA7SolidLocal";
       font-weight: 900;
-      font-size: 28px;
+      font-size: 26px;
       line-height: 1;
       color: #2f3a50;
       pointer-events: none;
@@ -225,12 +307,14 @@
       text-align: center;
       word-break: break-all;
       pointer-events: none;
+      line-height: 1.3;
     }
     .gallery-card input[type="checkbox"] {
       cursor: pointer;
-      width: 15px;
-      height: 15px;
+      width: 14px;
+      height: 14px;
       accent-color: var(--accent);
+      margin-top: 2px;
     }
 
     /* ── Right panel ── */
@@ -246,11 +330,13 @@
     /* ── Tabs ── */
     .tab-bar {
       display: flex;
-      gap: 0;
+      align-items: center;
+      justify-content: space-between;
       border-bottom: 1px solid var(--line);
       padding: 0 12px;
       flex-shrink: 0;
     }
+    .tab-btns { display: flex; }
     .tab-btn {
       border: none;
       background: none;
@@ -262,17 +348,45 @@
       color: var(--muted);
       cursor: pointer;
       margin-bottom: -1px;
+      transition: color 0.12s;
     }
     .tab-btn.active-tab {
       color: var(--accent);
       border-bottom-color: var(--accent);
     }
 
+    /* ── Language switcher ── */
+    .lang-switcher {
+      display: flex;
+      background: #eef1f7;
+      border-radius: 6px;
+      padding: 2px;
+      gap: 2px;
+    }
+    .lang-btn {
+      border: none;
+      background: transparent;
+      padding: 3px 10px;
+      border-radius: 5px;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--muted);
+      cursor: pointer;
+      transition: background 0.12s, color 0.12s;
+      letter-spacing: 0.04em;
+    }
+    .lang-btn:hover { color: var(--text); }
+    .lang-btn.active-lang {
+      background: #fff;
+      color: var(--accent);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.10);
+    }
+
     .tab-content {
       padding: 12px;
       display: flex;
       flex-direction: column;
-      gap: 8px;
+      gap: 0;
       overflow: auto;
       flex: 1;
       min-height: 0;
@@ -292,18 +406,22 @@
       display: flex;
       align-items: center;
       gap: 14px;
-      padding-bottom: 10px;
+      padding-bottom: 12px;
       border-bottom: 1px solid var(--line);
       flex-shrink: 0;
+      margin-bottom: 12px;
     }
     .detail-big-glyph {
       font-family: "FA7SolidLocal";
       font-weight: 900;
-      font-size: 48px;
+      font-size: 44px;
       line-height: 1;
       color: #2f3a50;
-      min-width: 56px;
+      min-width: 52px;
       text-align: center;
+      background: var(--bg);
+      border-radius: 10px;
+      padding: 8px;
     }
     .detail-meta h3 {
       margin: 0 0 4px;
@@ -315,48 +433,92 @@
       font-size: 12px;
       color: var(--muted);
       font-family: ui-monospace, monospace;
+      line-height: 1.7;
     }
 
+    /* ── Section cards ── */
     .detail-section {
-      margin-top: 10px;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      margin-bottom: 8px;
+      overflow: hidden;
     }
-    .detail-section h4 {
-      margin: 0 0 6px;
-      font-size: 12px;
-      font-weight: 700;
-      text-transform: uppercase;
-      color: var(--muted);
-      letter-spacing: 0.04em;
-    }
-    .detail-lang {
+    .detail-section-head {
       display: flex;
-      gap: 8px;
-      margin-bottom: 6px;
+      align-items: center;
+      gap: 7px;
+      padding: 7px 10px;
+      border-bottom: 1px solid var(--line);
     }
-    .detail-lang-label {
+    .section-badge {
+      display: inline-block;
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .detail-section-head h4 {
+      margin: 0;
       font-size: 11px;
       font-weight: 700;
-      color: var(--accent);
-      min-width: 22px;
-      padding-top: 2px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
     }
+    .section-count {
+      margin-left: auto;
+      font-size: 10px;
+      color: var(--muted);
+      background: #f0f2f6;
+      border-radius: 10px;
+      padding: 1px 7px;
+    }
+
     .detail-phrase-list {
       margin: 0;
-      padding: 0;
+      padding: 6px 10px;
       list-style: none;
       display: flex;
       flex-direction: column;
-      gap: 2px;
-      flex: 1;
+      gap: 0;
     }
     .detail-phrase-list li {
       font-size: 12px;
       color: var(--text);
-      padding: 2px 0;
-      border-bottom: 1px solid #f0f2f6;
+      padding: 5px 0;
+      border-bottom: 1px solid #f2f4f8;
+      line-height: 1.4;
     }
-    .detail-phrase-list li:last-child {
-      border-bottom: none;
+    .detail-phrase-list li:last-child { border-bottom: none; }
+
+    /* Section color themes */
+    .sec-search_terms     { --sec-color: #1f6feb; --sec-bg: #f0f5ff; }
+    .sec-phrase_per_search_term { --sec-color: #8250df; --sec-bg: #f6f0ff; }
+    .sec-regular          { --sec-color: #1a7f37; --sec-bg: #f0fff4; }
+    .sec-conversational   { --sec-color: #0969da; --sec-bg: #e8f3ff; }
+    .sec-typo             { --sec-color: #bf8700; --sec-bg: #fff8e1; }
+    .sec-boundary         { --sec-color: #cf6e00; --sec-bg: #fff3e0; }
+    .sec-valid            { --sec-color: #1a7f37; --sec-bg: #f0fff4; }
+    .sec-test             { --sec-color: #57606a; --sec-bg: #f6f8fa; }
+
+    .detail-section.sec-search_terms,
+    .detail-section.sec-phrase_per_search_term,
+    .detail-section.sec-regular,
+    .detail-section.sec-conversational,
+    .detail-section.sec-typo,
+    .detail-section.sec-boundary,
+    .detail-section.sec-valid,
+    .detail-section.sec-test {
+      border-color: color-mix(in srgb, var(--sec-color) 20%, var(--line));
+    }
+
+    .detail-section-head {
+      background: var(--sec-bg, #f8f9fa);
+    }
+    .section-badge {
+      background: var(--sec-color, var(--muted));
+    }
+    .detail-section-head h4 {
+      color: var(--sec-color, var(--muted));
     }
 
     .detail-loading {
@@ -370,6 +532,16 @@
     }
 
     /* ── Selected tab ── */
+    .selected-tab-content {
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      overflow: auto;
+      flex: 1;
+      min-height: 0;
+    }
+
     .stats {
       font-size: 13px;
       color: var(--muted);
@@ -391,21 +563,23 @@
       background: #fdfefe;
     }
 
+    .copy-btns {
+      display: flex;
+      gap: 6px;
+      flex-shrink: 0;
+    }
+    .copy-btns button { flex: 1; }
+
     .hint {
       margin: 0;
       color: var(--muted);
-      font-size: 12px;
+      font-size: 11px;
       flex-shrink: 0;
     }
 
     @media (max-width: 980px) {
-      .layout {
-        grid-template-columns: 1fr;
-        height: auto;
-      }
-      .panel {
-        min-height: 44vh;
-      }
+      .layout { grid-template-columns: 1fr; height: auto; }
+      .panel { min-height: 44vh; }
     }
   </style>
 </head>
@@ -413,14 +587,29 @@
   <div class="layout">
     <section class="panel">
       <div class="panel-head">
-        <h1 class="title">Icon Set Viewer: v7_compact4</h1>
-        <p class="meta">Source: icons.enabled.en.semantic.life.v7_compact4.json | Solid font: fa-solid-900.woff2</p>
-        <div class="controls">
-          <input id="searchInput" type="text" placeholder="Search by icon name...">
-          <button id="viewListBtn" class="active-view">List</button>
-          <button id="viewGalleryBtn">Gallery</button>
-          <button id="showSelectedBtn">Show selected</button>
+        <div class="panel-head-top">
+          <div>
+            <h1 class="title">Icon Set Viewer</h1>
+            <p class="meta">v7_compact4 · fa-solid-900.woff2</p>
+          </div>
+          <div class="view-toggle">
+            <button id="viewListBtn" class="view-opt active-opt">☰ List</button>
+            <button id="viewGalleryBtn" class="view-opt">⊞ Gallery</button>
+          </div>
+        </div>
+        <div class="search-row">
+          <input id="searchInput" type="text" placeholder="Search icons...">
+          <button id="showSelectedBtn">Only selected</button>
           <button id="showAllBtn">Show all</button>
+        </div>
+      </div>
+
+      <!-- Selected bar -->
+      <div class="selected-bar">
+        <span class="selected-bar-count">Selected: <strong id="selCount">0</strong></span>
+        <div id="selChips" class="sel-chips"></div>
+        <div class="sel-bar-btns">
+          <button id="clearAllBtn">Clear all</button>
         </div>
       </div>
 
@@ -440,14 +629,20 @@
         </table>
       </div>
 
-      <!-- Gallery view (injected by JS) -->
+      <!-- Gallery view injected by JS -->
     </section>
 
     <aside class="panel">
       <div class="right-body">
         <div class="tab-bar">
-          <button id="tabInfoBtn" class="tab-btn active-tab">Icon Info</button>
-          <button id="tabSelectedBtn" class="tab-btn">Selected</button>
+          <div class="tab-btns">
+            <button id="tabInfoBtn" class="tab-btn active-tab">Icon Info</button>
+            <button id="tabSelectedBtn" class="tab-btn">Selected</button>
+          </div>
+          <div id="langSwitcher" class="lang-switcher" style="display:none">
+            <button class="lang-btn active-lang" data-lang="en">EN</button>
+            <button class="lang-btn" data-lang="ru">RU</button>
+          </div>
         </div>
 
         <!-- Tab: Icon Info -->
@@ -458,13 +653,12 @@
         </div>
 
         <!-- Tab: Selected -->
-        <div id="tabSelected" class="tab-content" style="display:none">
+        <div id="tabSelected" class="selected-tab-content" style="display:none">
           <p id="stats" class="stats">Selected: 0</p>
           <textarea id="selectedOutput" readonly placeholder="Selected icon names will appear here..."></textarea>
-          <div class="controls" style="grid-template-columns: 1fr auto auto;">
-            <button id="clearBtn">Clear selected</button>
-            <button id="copyBtn" class="primary">Copy selected list</button>
-            <button id="copyCommaBtn">Copy comma list</button>
+          <div class="copy-btns">
+            <button id="copyBtn" class="primary">Copy (lines)</button>
+            <button id="copyCommaBtn">Copy (comma)</button>
           </div>
           <p class="hint">Checkbox to select/unselect. Stored in localStorage.</p>
         </div>
@@ -478,28 +672,33 @@
       const data = Array.isArray(window.ICON_DATA) ? window.ICON_DATA : [];
       const storageKey = "semantic_icon_browser_selected_v7_compact4";
 
-      const tableBody = document.getElementById("iconTableBody");
-      const searchInput = document.getElementById("searchInput");
+      const tableBody    = document.getElementById("iconTableBody");
+      const searchInput  = document.getElementById("searchInput");
       const selectedOutput = document.getElementById("selectedOutput");
-      const stats = document.getElementById("stats");
+      const stats        = document.getElementById("stats");
+      const selCount     = document.getElementById("selCount");
+      const selChips     = document.getElementById("selChips");
 
-      const viewListBtn = document.getElementById("viewListBtn");
+      const viewListBtn    = document.getElementById("viewListBtn");
       const viewGalleryBtn = document.getElementById("viewGalleryBtn");
       const showSelectedBtn = document.getElementById("showSelectedBtn");
-      const showAllBtn = document.getElementById("showAllBtn");
-      const clearBtn = document.getElementById("clearBtn");
-      const copyBtn = document.getElementById("copyBtn");
-      const copyCommaBtn = document.getElementById("copyCommaBtn");
+      const showAllBtn     = document.getElementById("showAllBtn");
+      const clearAllBtn    = document.getElementById("clearAllBtn");
+      const copyBtn        = document.getElementById("copyBtn");
+      const copyCommaBtn   = document.getElementById("copyCommaBtn");
 
-      const tabInfoBtn = document.getElementById("tabInfoBtn");
+      const tabInfoBtn     = document.getElementById("tabInfoBtn");
       const tabSelectedBtn = document.getElementById("tabSelectedBtn");
-      const tabInfo = document.getElementById("tabInfo");
-      const tabSelected = document.getElementById("tabSelected");
+      const tabInfo        = document.getElementById("tabInfo");
+      const tabSelected    = document.getElementById("tabSelected");
+      const langSwitcher   = document.getElementById("langSwitcher");
 
-      let selectedOnly = false;
-      let currentView = "list";
+      let selectedOnly  = false;
+      let currentView   = "list";
+      let currentLang   = "en";
+      let currentItem   = null;
 
-      const selected = new Set(loadSelection());
+      const selected    = new Set(loadSelection());
       const detailCache = new Map();
 
       // ── Storage ──────────────────────────────────────────────
@@ -509,9 +708,7 @@
           if (!raw) return [];
           const parsed = JSON.parse(raw);
           return Array.isArray(parsed) ? parsed : [];
-        } catch (_) {
-          return [];
-        }
+        } catch (_) { return []; }
       }
 
       function saveSelection() {
@@ -524,7 +721,10 @@
       }
 
       function escHtml(str) {
-        return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+        return String(str)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;");
       }
 
       function selectedNamesInOrder() {
@@ -535,6 +735,22 @@
         const names = selectedNamesInOrder();
         selectedOutput.value = names.join("\n");
         stats.textContent = `Selected: ${names.length}`;
+        selCount.textContent = names.length;
+
+        // update chips in bar
+        selChips.innerHTML = "";
+        names.slice(0, 20).forEach(n => {
+          const chip = document.createElement("span");
+          chip.className = "sel-chip";
+          chip.textContent = n;
+          selChips.appendChild(chip);
+        });
+        if (names.length > 20) {
+          const more = document.createElement("span");
+          more.className = "sel-chip";
+          more.textContent = `+${names.length - 20} more`;
+          selChips.appendChild(more);
+        }
       }
 
       function matchesFilter(item, term) {
@@ -550,34 +766,52 @@
           tabSelected.style.display = "none";
           tabInfoBtn.classList.add("active-tab");
           tabSelectedBtn.classList.remove("active-tab");
+          langSwitcher.style.display = currentItem ? "" : "none";
         } else {
           tabInfo.style.display = "none";
           tabSelected.style.display = "";
           tabSelectedBtn.classList.add("active-tab");
           tabInfoBtn.classList.remove("active-tab");
+          langSwitcher.style.display = "none";
         }
       }
 
       tabInfoBtn.addEventListener("click", () => switchTab("info"));
       tabSelectedBtn.addEventListener("click", () => switchTab("selected"));
 
+      // ── Language switcher ─────────────────────────────────────
+      langSwitcher.querySelectorAll(".lang-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+          currentLang = btn.dataset.lang;
+          langSwitcher.querySelectorAll(".lang-btn").forEach(b =>
+            b.classList.toggle("active-lang", b === btn)
+          );
+          if (currentItem && detailCache.has(currentItem.name)) {
+            renderDetail(currentItem, detailCache.get(currentItem.name));
+          }
+        });
+      });
+
       // ── Icon detail ───────────────────────────────────────────
-      const CATEGORY_LABELS = {
-        search_terms: "Search Terms",
-        phrase_per_search_term: "Phrases per Search Term",
-        regular: "Regular",
-        conversational: "Conversational",
-        typo: "Typo",
-        boundary: "Boundary",
-        valid: "Valid",
-        test: "Test",
-      };
+      const CATEGORIES = [
+        { key: "search_terms",           label: "Search Terms" },
+        { key: "phrase_per_search_term", label: "Phrases per Search Term" },
+        { key: "regular",                label: "Regular" },
+        { key: "conversational",         label: "Conversational" },
+        { key: "typo",                   label: "Typo" },
+        { key: "boundary",               label: "Boundary" },
+        { key: "valid",                  label: "Valid" },
+        { key: "test",                   label: "Test" },
+      ];
 
       function showIconDetail(item) {
+        currentItem = item;
         switchTab("info");
+        langSwitcher.style.display = "";
+
         const detailEl = document.getElementById("iconDetail");
         detailEl.className = "";
-        detailEl.innerHTML = `<div class="detail-loading">Loading...</div>`;
+        detailEl.innerHTML = `<div class="detail-loading">Loading…</div>`;
 
         if (detailCache.has(item.name)) {
           renderDetail(item, detailCache.get(item.name));
@@ -585,21 +819,20 @@
         }
 
         fetch(`../icons/${item.name}/icon_log.json`)
-          .then(r => {
-            if (!r.ok) throw new Error("Not found");
-            return r.json();
-          })
+          .then(r => { if (!r.ok) throw new Error("Not found"); return r.json(); })
           .then(log => {
             detailCache.set(item.name, log);
             renderDetail(item, log);
           })
           .catch(() => {
-            detailEl.innerHTML = `<p style="color:red;padding:12px">Failed to load data for ${escHtml(item.name)}</p>`;
+            detailEl.innerHTML =
+              `<p style="color:red;padding:12px">Failed to load data for ${escHtml(item.name)}</p>`;
           });
       }
 
       function renderDetail(item, log) {
         const detailEl = document.getElementById("iconDetail");
+        const cats = log.categories || {};
 
         let html = `
           <div class="detail-header">
@@ -612,31 +845,24 @@
           </div>
         `;
 
-        const cats = log.categories || {};
-
-        for (const [key, label] of Object.entries(CATEGORY_LABELS)) {
+        for (const { key, label } of CATEGORIES) {
           const cat = cats[key];
           if (!cat) continue;
-          const enItems = cat.en || [];
-          const ruItems = cat.ru || [];
-          if (enItems.length === 0 && ruItems.length === 0) continue;
+          const items = (cat[currentLang] || []);
+          if (items.length === 0) continue;
 
-          html += `<div class="detail-section"><h4>${label}</h4>`;
-
-          if (enItems.length > 0) {
-            html += `<div class="detail-lang">
-              <span class="detail-lang-label">EN</span>
-              <ul class="detail-phrase-list">${enItems.map(p => `<li>${escHtml(p)}</li>`).join("")}</ul>
-            </div>`;
-          }
-          if (ruItems.length > 0) {
-            html += `<div class="detail-lang">
-              <span class="detail-lang-label">RU</span>
-              <ul class="detail-phrase-list">${ruItems.map(p => `<li>${escHtml(p)}</li>`).join("")}</ul>
-            </div>`;
-          }
-
-          html += `</div>`;
+          html += `
+            <div class="detail-section sec-${key}">
+              <div class="detail-section-head">
+                <span class="section-badge"></span>
+                <h4>${label}</h4>
+                <span class="section-count">${items.length}</span>
+              </div>
+              <ul class="detail-phrase-list">
+                ${items.map(p => `<li>${escHtml(p)}</li>`).join("")}
+              </ul>
+            </div>
+          `;
         }
 
         detailEl.innerHTML = html;
@@ -756,30 +982,23 @@
       // ── View toggle ───────────────────────────────────────────
       viewListBtn.addEventListener("click", () => {
         currentView = "list";
-        viewListBtn.classList.add("active-view");
-        viewGalleryBtn.classList.remove("active-view");
+        viewListBtn.classList.add("active-opt");
+        viewGalleryBtn.classList.remove("active-opt");
         render();
       });
 
       viewGalleryBtn.addEventListener("click", () => {
         currentView = "gallery";
-        viewGalleryBtn.classList.add("active-view");
-        viewListBtn.classList.remove("active-view");
+        viewGalleryBtn.classList.add("active-opt");
+        viewListBtn.classList.remove("active-opt");
         render();
       });
 
-      // ── Filter buttons ────────────────────────────────────────
-      showSelectedBtn.addEventListener("click", () => {
-        selectedOnly = true;
-        render();
-      });
+      // ── Filter ────────────────────────────────────────────────
+      showSelectedBtn.addEventListener("click", () => { selectedOnly = true; render(); });
+      showAllBtn.addEventListener("click", () => { selectedOnly = false; render(); });
 
-      showAllBtn.addEventListener("click", () => {
-        selectedOnly = false;
-        render();
-      });
-
-      clearBtn.addEventListener("click", () => {
+      clearAllBtn.addEventListener("click", () => {
         selected.clear();
         saveSelection();
         updateSelectedOutput();
@@ -791,8 +1010,7 @@
       });
 
       copyCommaBtn.addEventListener("click", async () => {
-        const names = selectedNamesInOrder();
-        try { await navigator.clipboard.writeText(names.join(", ")); } catch (_) {}
+        try { await navigator.clipboard.writeText(selectedNamesInOrder().join(", ")); } catch (_) {}
       });
 
       searchInput.addEventListener("input", render);
