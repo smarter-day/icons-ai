@@ -775,6 +775,14 @@
       </div>
 
       <!-- Gallery view injected by JS -->
+
+      <!-- Candidates toolbar (shown only in candidates view) -->
+      <div id="candidatesToolbar" style="display:none; padding:6px 12px; border-bottom:1px solid var(--line); background:#f8f9fc; flex-shrink:0;">
+        <label style="display:flex;align-items:center;gap:7px;font-size:12px;color:var(--muted);cursor:pointer;user-select:none;">
+          <input type="checkbox" id="hideIrrelevantCb" style="width:14px;height:14px;accent-color:var(--accent);cursor:pointer;">
+          Hide irrelevant icons (arrows, alphabet, numbers, symbols, spinners, text-formatting, toggle, coding)
+        </label>
+      </div>
     </section>
 
     <aside class="panel">
@@ -842,10 +850,20 @@
       const tabSelected    = document.getElementById("tabSelected");
       const langSwitcher   = document.getElementById("langSwitcher");
 
-      let selectedOnly  = false;
-      let currentView   = "list";
-      let currentLang   = "en";
-      let currentItem   = null;
+      let selectedOnly     = false;
+      let currentView      = "list";
+      let currentLang      = "en";
+      let currentItem      = null;
+      let hideIrrelevant   = false;
+
+      const irrelevantIcons = window.IRRELEVANT_ICONS || new Set();
+      const hideIrrelevantCb = document.getElementById("hideIrrelevantCb");
+      const candidatesToolbar = document.getElementById("candidatesToolbar");
+
+      hideIrrelevantCb.addEventListener("change", () => {
+        hideIrrelevant = hideIrrelevantCb.checked;
+        render();
+      });
 
       const selected    = new Set(loadSelection());
       const detailCache = new Map();
@@ -1074,6 +1092,7 @@
 
       // ── Render ────────────────────────────────────────────────
       function render() {
+        candidatesToolbar.style.display = currentView === "candidates" ? "" : "none";
         if (currentView === "list") renderList();
         else if (currentView === "gallery") renderGallery();
         else renderCandidates();
@@ -1200,7 +1219,10 @@
         clearViews();
 
         const term = searchInput.value.trim().toLowerCase();
-        const candidates = candidateData.filter(item => matchesFilter(item, term));
+        const candidates = candidateData.filter(item =>
+          matchesFilter(item, term) &&
+          (!hideIrrelevant || !irrelevantIcons.has(item.name))
+        );
 
         const wrap = document.createElement("div");
         wrap.className = "candidates-wrap";
