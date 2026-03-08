@@ -531,6 +531,59 @@
       padding: 40px 0;
     }
 
+    /* ── Section info button & tooltip ── */
+    .section-info-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      border: 1.5px solid currentColor;
+      background: transparent;
+      font-size: 10px;
+      font-weight: 700;
+      line-height: 1;
+      cursor: pointer;
+      color: var(--sec-color, var(--muted));
+      opacity: 0.55;
+      padding: 0;
+      transition: opacity 0.12s;
+      flex-shrink: 0;
+    }
+    .section-info-btn:hover { opacity: 1; background: transparent; }
+
+    .section-tooltip {
+      position: fixed;
+      z-index: 999;
+      background: #1f2633;
+      color: #e8ecf2;
+      font-size: 12px;
+      line-height: 1.5;
+      padding: 9px 12px;
+      border-radius: 8px;
+      max-width: 240px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.22);
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.12s;
+    }
+    .section-tooltip.visible {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .section-tooltip::before {
+      content: "";
+      position: absolute;
+      top: -5px;
+      left: var(--arrow-left, 14px);
+      width: 10px;
+      height: 10px;
+      background: #1f2633;
+      transform: rotate(45deg);
+      border-radius: 2px;
+    }
+
     /* ── Selected tab ── */
     .selected-tab-content {
       padding: 12px;
@@ -794,14 +847,22 @@
 
       // ── Icon detail ───────────────────────────────────────────
       const CATEGORIES = [
-        { key: "search_terms",           label: "Search Terms" },
-        { key: "phrase_per_search_term", label: "Phrases per Search Term" },
-        { key: "regular",                label: "Regular" },
-        { key: "conversational",         label: "Conversational" },
-        { key: "typo",                   label: "Typo" },
-        { key: "boundary",               label: "Boundary" },
-        { key: "valid",                  label: "Valid" },
-        { key: "test",                   label: "Test" },
+        { key: "search_terms",           label: "Search Terms",
+          desc: "Primary keywords that map to this icon. These are the core search terms users type to find it." },
+        { key: "phrase_per_search_term", label: "Phrases per Search Term",
+          desc: "Natural language phrases derived from each search term. Used to train the embedding model to understand context." },
+        { key: "regular",                label: "Regular",
+          desc: "Common everyday phrases describing typical use cases for this icon. The main training signal." },
+        { key: "conversational",         label: "Conversational",
+          desc: "Short phrases as they appear in natural conversation or voice input. Helps the model handle informal language." },
+        { key: "typo",                   label: "Typo",
+          desc: "Phrases with intentional spelling errors or typos. Makes the model robust to real-world input mistakes." },
+        { key: "boundary",               label: "Boundary",
+          desc: "Edge cases and ambiguous phrases near this icon's meaning. Defines the decision boundary with neighboring icons." },
+        { key: "valid",                  label: "Valid",
+          desc: "Validation set phrases held out during training. Used to tune model hyperparameters and detect overfitting." },
+        { key: "test",                   label: "Test",
+          desc: "Test set phrases used only for final model evaluation. Never seen during training or validation." },
       ];
 
       function showIconDetail(item) {
@@ -856,6 +917,7 @@
               <div class="detail-section-head">
                 <span class="section-badge"></span>
                 <h4>${label}</h4>
+                <button class="section-info-btn" data-key="${key}" title="">i</button>
                 <span class="section-count">${items.length}</span>
               </div>
               <ul class="detail-phrase-list">
@@ -866,7 +928,53 @@
         }
 
         detailEl.innerHTML = html;
+
+        // attach tooltip handlers after DOM is set
+        detailEl.querySelectorAll(".section-info-btn").forEach(btn => {
+          btn.addEventListener("click", (e) => {
+            e.stopPropagation();
+            const key = btn.dataset.key;
+            const cat = CATEGORIES.find(c => c.key === key);
+            if (!cat) return;
+            showTooltip(btn, cat.desc);
+          });
+        });
       }
+
+      // ── Tooltip ───────────────────────────────────────────────
+      const tooltip = document.createElement("div");
+      tooltip.className = "section-tooltip";
+      document.body.appendChild(tooltip);
+
+      function showTooltip(anchor, text) {
+        if (tooltip.classList.contains("visible") && tooltip._anchor === anchor) {
+          hideTooltip();
+          return;
+        }
+        tooltip._anchor = anchor;
+        tooltip.textContent = text;
+        tooltip.classList.add("visible");
+
+        const rect = anchor.getBoundingClientRect();
+        const tw = 240;
+        let left = rect.left;
+        if (left + tw > window.innerWidth - 8) left = window.innerWidth - tw - 8;
+        tooltip.style.left = left + "px";
+        tooltip.style.top  = (rect.bottom + 6) + "px";
+
+        // reposition arrow
+        const arrowLeft = rect.left - left + rect.width / 2 - 5;
+        tooltip.style.setProperty("--arrow-left", arrowLeft + "px");
+      }
+
+      function hideTooltip() {
+        tooltip.classList.remove("visible");
+        tooltip._anchor = null;
+      }
+
+      document.addEventListener("click", (e) => {
+        if (!e.target.classList.contains("section-info-btn")) hideTooltip();
+      });
 
       // ── Render ────────────────────────────────────────────────
       function render() {
