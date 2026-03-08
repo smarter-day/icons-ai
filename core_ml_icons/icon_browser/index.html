@@ -662,6 +662,7 @@
         <span class="selected-bar-count">Selected: <strong id="selCount">0</strong></span>
         <div id="selChips" class="sel-chips"></div>
         <div class="sel-bar-btns">
+          <button id="barCopyBtn">Copy</button>
           <button id="clearAllBtn">Clear all</button>
         </div>
       </div>
@@ -736,6 +737,7 @@
       const viewGalleryBtn = document.getElementById("viewGalleryBtn");
       const showSelectedBtn = document.getElementById("showSelectedBtn");
       const showAllBtn     = document.getElementById("showAllBtn");
+      const barCopyBtn     = document.getElementById("barCopyBtn");
       const clearAllBtn    = document.getElementById("clearAllBtn");
       const copyBtn        = document.getElementById("copyBtn");
       const copyCommaBtn   = document.getElementById("copyCommaBtn");
@@ -1105,6 +1107,10 @@
       // ── Filter ────────────────────────────────────────────────
       showSelectedBtn.addEventListener("click", () => { selectedOnly = true; render(); });
       showAllBtn.addEventListener("click", () => { selectedOnly = false; render(); });
+
+      barCopyBtn.addEventListener("click", async () => {
+        try { await navigator.clipboard.writeText(selectedNamesInOrder().join("\n")); } catch (_) {}
+      });
 
       clearAllBtn.addEventListener("click", () => {
         selected.clear();
