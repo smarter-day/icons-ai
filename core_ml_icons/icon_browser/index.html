@@ -812,9 +812,11 @@
   </div>
 
   <script src="./icons-data.js"></script>
+  <script src="./candidates-data.js"></script>
   <script>
     (function () {
       const data = Array.isArray(window.ICON_DATA) ? window.ICON_DATA : [];
+      const candidateData = Array.isArray(window.CANDIDATE_DATA) ? window.CANDIDATE_DATA : [];
       const storageKey = "semantic_icon_browser_selected_v7_compact4";
 
       const tableBody    = document.getElementById("iconTableBody");
@@ -1199,12 +1201,10 @@
 
         const term = searchInput.value.trim().toLowerCase();
 
-        // Filter: not selected, matches search
-        const candidates = data.filter(item =>
-          !selected.has(item.name) && matchesFilter(item, term)
-        );
+        // Source: enabled icons not yet in ICON_DATA, filtered by search
+        const candidates = candidateData.filter(item => matchesFilter(item, term));
 
-        // Sort by segment count, then alphabetically
+        // Already sorted by segment count + alpha from generation, but re-sort for robustness
         candidates.sort((a, b) => {
           const sa = a.name.split("-").length;
           const sb = b.name.split("-").length;
@@ -1261,7 +1261,9 @@
               else selected.add(item.name);
               saveSelection();
               updateSelectedOutput();
-              render();
+              // just update card state, don't re-render the whole view
+              card.classList.toggle("selected", selected.has(item.name));
+              cb.checked = selected.has(item.name);
             });
 
             card.appendChild(glyph);
@@ -1270,6 +1272,7 @@
 
             card.addEventListener("click", (e) => {
               if (e.target === cb) return;
+              // candidates have no icon_log.json, show basic info only
               showIconDetail(item);
             });
 
@@ -1281,10 +1284,8 @@
 
         if (candidates.length === 0) {
           const empty = document.createElement("div");
-          empty.style.cssText = "display:flex;align-items:center;justify-content:center;flex:1;color:var(--muted);font-size:13px;";
-          empty.textContent = selected.size === data.length
-            ? "All icons are already in the set."
-            : "No candidates match the search.";
+          empty.style.cssText = "display:flex;align-items:center;justify-content:center;flex:1;color:var(--muted);font-size:13px;padding:40px;";
+          empty.textContent = "No candidates match the search.";
           wrap.appendChild(empty);
         }
 
