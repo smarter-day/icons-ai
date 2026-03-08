@@ -1200,46 +1200,27 @@
         clearViews();
 
         const term = searchInput.value.trim().toLowerCase();
-
-        // Source: enabled icons not yet in ICON_DATA, filtered by search
         const candidates = candidateData.filter(item => matchesFilter(item, term));
-
-        // Already sorted by segment count + alpha from generation, but re-sort for robustness
-        candidates.sort((a, b) => {
-          const sa = a.name.split("-").length;
-          const sb = b.name.split("-").length;
-          if (sa !== sb) return sa - sb;
-          return a.name.localeCompare(b.name);
-        });
-
-        // Group by segment count
-        const groups = new Map();
-        for (const item of candidates) {
-          const seg = item.name.split("-").length;
-          if (!groups.has(seg)) groups.set(seg, []);
-          groups.get(seg).push(item);
-        }
 
         const wrap = document.createElement("div");
         wrap.className = "candidates-wrap";
 
-        const GROUP_LABELS = ["", "Single", "Double", "Triple", "Quad", "Long"];
-
-        for (const [seg, items] of groups) {
-          const label = GROUP_LABELS[seg] || `${seg}-part`;
-
-          const groupHead = document.createElement("div");
-          groupHead.className = "candidates-group-header";
-          groupHead.innerHTML = `
-            ${label}-key icons
-            <span class="candidates-group-badge">${items.length}</span>
-          `;
-          wrap.appendChild(groupHead);
+        if (candidates.length === 0) {
+          const empty = document.createElement("div");
+          empty.style.cssText = "display:flex;align-items:center;justify-content:center;flex:1;color:var(--muted);font-size:13px;padding:40px;";
+          empty.textContent = "No candidates match the search.";
+          wrap.appendChild(empty);
+        } else {
+          const countEl = document.createElement("div");
+          countEl.className = "candidates-group-header";
+          countEl.innerHTML = `All candidates <span class="candidates-group-badge">${candidates.length}</span>`;
+          wrap.appendChild(countEl);
 
           const grid = document.createElement("div");
           grid.className = "candidates-grid";
+          grid.style.padding = "10px 12px";
 
-          for (const item of items) {
+          for (const item of candidates) {
             const card = document.createElement("div");
             card.className = "candidate-card" + (selected.has(item.name) ? " selected" : "");
 
@@ -1261,7 +1242,6 @@
               else selected.add(item.name);
               saveSelection();
               updateSelectedOutput();
-              // just update card state, don't re-render the whole view
               card.classList.toggle("selected", selected.has(item.name));
               cb.checked = selected.has(item.name);
             });
@@ -1272,7 +1252,6 @@
 
             card.addEventListener("click", (e) => {
               if (e.target === cb) return;
-              // candidates have no icon_log.json, show basic info only
               showIconDetail(item);
             });
 
@@ -1280,13 +1259,6 @@
           }
 
           wrap.appendChild(grid);
-        }
-
-        if (candidates.length === 0) {
-          const empty = document.createElement("div");
-          empty.style.cssText = "display:flex;align-items:center;justify-content:center;flex:1;color:var(--muted);font-size:13px;padding:40px;";
-          empty.textContent = "No candidates match the search.";
-          wrap.appendChild(empty);
         }
 
         document.querySelector(".panel").appendChild(wrap);
