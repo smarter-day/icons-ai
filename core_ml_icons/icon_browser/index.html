@@ -1,0 +1,806 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Icon Browser v2</title>
+  <style>
+    @font-face {
+      font-family: "FA7SolidLocal";
+      src: url("./assets/fa-solid-900.woff2") format("woff2");
+      font-weight: 900;
+      font-style: normal;
+      font-display: block;
+    }
+
+    :root {
+      --bg: #f5f7fb;
+      --panel: #ffffff;
+      --line: #d9dee8;
+      --text: #1f2633;
+      --muted: #5d697f;
+      --accent: #1f6feb;
+      --accent-soft: #e8f0ff;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 1.4fr 1fr;
+      gap: 12px;
+      height: 100vh;
+      padding: 12px;
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .panel-head {
+      padding: 10px 12px;
+      border-bottom: 1px solid var(--line);
+      display: grid;
+      gap: 8px;
+    }
+
+    .title {
+      font-size: 15px;
+      font-weight: 700;
+      margin: 0;
+    }
+
+    .meta {
+      font-size: 12px;
+      color: var(--muted);
+      margin: 0;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1fr auto auto auto auto auto;
+      gap: 8px;
+      align-items: center;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 8px 10px;
+      font-size: 13px;
+      color: var(--text);
+    }
+
+    button {
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--text);
+      padding: 8px 10px;
+      border-radius: 8px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    button.primary {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+    button.active-view {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+
+    /* ── List view ── */
+    .table-wrap {
+      overflow: auto;
+      min-height: 0;
+      flex: 1;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+
+    thead th {
+      position: sticky;
+      top: 0;
+      background: #fbfcff;
+      z-index: 1;
+      text-align: left;
+      font-weight: 700;
+      color: #3c4a63;
+      border-bottom: 1px solid var(--line);
+      padding: 8px 10px;
+      white-space: nowrap;
+    }
+
+    tbody td {
+      border-bottom: 1px solid #edf0f5;
+      padding: 8px 10px;
+      vertical-align: middle;
+    }
+
+    tbody tr {
+      cursor: pointer;
+    }
+    tbody tr:hover {
+      background: #f7faff;
+    }
+    tbody tr.selected {
+      background: var(--accent-soft);
+    }
+
+    .check {
+      width: 36px;
+      text-align: center;
+    }
+    .check input[type="checkbox"] {
+      cursor: pointer;
+      width: 15px;
+      height: 15px;
+      accent-color: var(--accent);
+    }
+
+    .icon-cell {
+      width: 62px;
+      text-align: center;
+    }
+
+    .glyph {
+      font-family: "FA7SolidLocal";
+      font-weight: 900;
+      font-size: 20px;
+      line-height: 1;
+      display: inline-block;
+      min-width: 24px;
+      color: #2f3a50;
+    }
+
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 12px;
+    }
+
+    /* ── Gallery view ── */
+    .gallery-wrap {
+      overflow: auto;
+      min-height: 0;
+      flex: 1;
+      padding: 12px;
+    }
+
+    .gallery-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+      gap: 10px;
+    }
+
+    .gallery-card {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      padding: 10px 6px 8px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .gallery-card:hover {
+      border-color: var(--accent);
+      background: #f7faff;
+    }
+    .gallery-card.selected {
+      background: var(--accent-soft);
+      border-color: var(--accent);
+    }
+    .gallery-card .card-glyph {
+      font-family: "FA7SolidLocal";
+      font-weight: 900;
+      font-size: 28px;
+      line-height: 1;
+      color: #2f3a50;
+      pointer-events: none;
+    }
+    .gallery-card .card-name {
+      font-size: 10px;
+      color: var(--muted);
+      text-align: center;
+      word-break: break-all;
+      pointer-events: none;
+    }
+    .gallery-card input[type="checkbox"] {
+      cursor: pointer;
+      width: 15px;
+      height: 15px;
+      accent-color: var(--accent);
+    }
+
+    /* ── Right panel ── */
+    .right-body {
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: 0;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    /* ── Tabs ── */
+    .tab-bar {
+      display: flex;
+      gap: 0;
+      border-bottom: 1px solid var(--line);
+      padding: 0 12px;
+      flex-shrink: 0;
+    }
+    .tab-btn {
+      border: none;
+      background: none;
+      border-bottom: 2px solid transparent;
+      border-radius: 0;
+      padding: 10px 14px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--muted);
+      cursor: pointer;
+      margin-bottom: -1px;
+    }
+    .tab-btn.active-tab {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+
+    .tab-content {
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      overflow: auto;
+      flex: 1;
+      min-height: 0;
+    }
+
+    /* ── Icon detail ── */
+    .icon-detail-empty {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .detail-header {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--line);
+      flex-shrink: 0;
+    }
+    .detail-big-glyph {
+      font-family: "FA7SolidLocal";
+      font-weight: 900;
+      font-size: 48px;
+      line-height: 1;
+      color: #2f3a50;
+      min-width: 56px;
+      text-align: center;
+    }
+    .detail-meta h3 {
+      margin: 0 0 4px;
+      font-size: 16px;
+      font-weight: 700;
+    }
+    .detail-meta p {
+      margin: 0;
+      font-size: 12px;
+      color: var(--muted);
+      font-family: ui-monospace, monospace;
+    }
+
+    .detail-section {
+      margin-top: 10px;
+    }
+    .detail-section h4 {
+      margin: 0 0 6px;
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+    .detail-lang {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 6px;
+    }
+    .detail-lang-label {
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--accent);
+      min-width: 22px;
+      padding-top: 2px;
+    }
+    .detail-phrase-list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      flex: 1;
+    }
+    .detail-phrase-list li {
+      font-size: 12px;
+      color: var(--text);
+      padding: 2px 0;
+      border-bottom: 1px solid #f0f2f6;
+    }
+    .detail-phrase-list li:last-child {
+      border-bottom: none;
+    }
+
+    .detail-loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      color: var(--muted);
+      font-size: 13px;
+      padding: 40px 0;
+    }
+
+    /* ── Selected tab ── */
+    .stats {
+      font-size: 13px;
+      color: var(--muted);
+      margin: 0;
+      flex-shrink: 0;
+    }
+
+    textarea {
+      width: 100%;
+      flex: 1;
+      min-height: 120px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 10px;
+      resize: vertical;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 12px;
+      color: #1c2638;
+      background: #fdfefe;
+    }
+
+    .hint {
+      margin: 0;
+      color: var(--muted);
+      font-size: 12px;
+      flex-shrink: 0;
+    }
+
+    @media (max-width: 980px) {
+      .layout {
+        grid-template-columns: 1fr;
+        height: auto;
+      }
+      .panel {
+        min-height: 44vh;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <section class="panel">
+      <div class="panel-head">
+        <h1 class="title">Icon Set Viewer: v7_compact4</h1>
+        <p class="meta">Source: icons.enabled.en.semantic.life.v7_compact4.json | Solid font: fa-solid-900.woff2</p>
+        <div class="controls">
+          <input id="searchInput" type="text" placeholder="Search by icon name...">
+          <button id="viewListBtn" class="active-view">List</button>
+          <button id="viewGalleryBtn">Gallery</button>
+          <button id="showSelectedBtn">Show selected</button>
+          <button id="showAllBtn">Show all</button>
+        </div>
+      </div>
+
+      <!-- List view -->
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th class="check"></th>
+              <th class="icon-cell">Icon</th>
+              <th>Name</th>
+              <th>Unicode</th>
+              <th>Canonical</th>
+            </tr>
+          </thead>
+          <tbody id="iconTableBody"></tbody>
+        </table>
+      </div>
+
+      <!-- Gallery view (injected by JS) -->
+    </section>
+
+    <aside class="panel">
+      <div class="right-body">
+        <div class="tab-bar">
+          <button id="tabInfoBtn" class="tab-btn active-tab">Icon Info</button>
+          <button id="tabSelectedBtn" class="tab-btn">Selected</button>
+        </div>
+
+        <!-- Tab: Icon Info -->
+        <div id="tabInfo" class="tab-content">
+          <div id="iconDetail" class="icon-detail-empty">
+            <p>Click an icon to see details</p>
+          </div>
+        </div>
+
+        <!-- Tab: Selected -->
+        <div id="tabSelected" class="tab-content" style="display:none">
+          <p id="stats" class="stats">Selected: 0</p>
+          <textarea id="selectedOutput" readonly placeholder="Selected icon names will appear here..."></textarea>
+          <div class="controls" style="grid-template-columns: 1fr auto auto;">
+            <button id="clearBtn">Clear selected</button>
+            <button id="copyBtn" class="primary">Copy selected list</button>
+            <button id="copyCommaBtn">Copy comma list</button>
+          </div>
+          <p class="hint">Checkbox to select/unselect. Stored in localStorage.</p>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <script src="./icons-data.js"></script>
+  <script>
+    (function () {
+      const data = Array.isArray(window.ICON_DATA) ? window.ICON_DATA : [];
+      const storageKey = "semantic_icon_browser_selected_v7_compact4";
+
+      const tableBody = document.getElementById("iconTableBody");
+      const searchInput = document.getElementById("searchInput");
+      const selectedOutput = document.getElementById("selectedOutput");
+      const stats = document.getElementById("stats");
+
+      const viewListBtn = document.getElementById("viewListBtn");
+      const viewGalleryBtn = document.getElementById("viewGalleryBtn");
+      const showSelectedBtn = document.getElementById("showSelectedBtn");
+      const showAllBtn = document.getElementById("showAllBtn");
+      const clearBtn = document.getElementById("clearBtn");
+      const copyBtn = document.getElementById("copyBtn");
+      const copyCommaBtn = document.getElementById("copyCommaBtn");
+
+      const tabInfoBtn = document.getElementById("tabInfoBtn");
+      const tabSelectedBtn = document.getElementById("tabSelectedBtn");
+      const tabInfo = document.getElementById("tabInfo");
+      const tabSelected = document.getElementById("tabSelected");
+
+      let selectedOnly = false;
+      let currentView = "list";
+
+      const selected = new Set(loadSelection());
+      const detailCache = new Map();
+
+      // ── Storage ──────────────────────────────────────────────
+      function loadSelection() {
+        try {
+          const raw = localStorage.getItem(storageKey);
+          if (!raw) return [];
+          const parsed = JSON.parse(raw);
+          return Array.isArray(parsed) ? parsed : [];
+        } catch (_) {
+          return [];
+        }
+      }
+
+      function saveSelection() {
+        localStorage.setItem(storageKey, JSON.stringify(Array.from(selected)));
+      }
+
+      // ── Helpers ───────────────────────────────────────────────
+      function hexToChar(hex) {
+        return String.fromCodePoint(parseInt(hex, 16));
+      }
+
+      function escHtml(str) {
+        return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+      }
+
+      function selectedNamesInOrder() {
+        return data.filter(item => selected.has(item.name)).map(item => item.name);
+      }
+
+      function updateSelectedOutput() {
+        const names = selectedNamesInOrder();
+        selectedOutput.value = names.join("\n");
+        stats.textContent = `Selected: ${names.length}`;
+      }
+
+      function matchesFilter(item, term) {
+        if (!term) return true;
+        const hay = `${item.name} ${item.canonical} ${item.label || ""}`.toLowerCase();
+        return hay.includes(term);
+      }
+
+      // ── Tab switching ─────────────────────────────────────────
+      function switchTab(which) {
+        if (which === "info") {
+          tabInfo.style.display = "";
+          tabSelected.style.display = "none";
+          tabInfoBtn.classList.add("active-tab");
+          tabSelectedBtn.classList.remove("active-tab");
+        } else {
+          tabInfo.style.display = "none";
+          tabSelected.style.display = "";
+          tabSelectedBtn.classList.add("active-tab");
+          tabInfoBtn.classList.remove("active-tab");
+        }
+      }
+
+      tabInfoBtn.addEventListener("click", () => switchTab("info"));
+      tabSelectedBtn.addEventListener("click", () => switchTab("selected"));
+
+      // ── Icon detail ───────────────────────────────────────────
+      const CATEGORY_LABELS = {
+        search_terms: "Search Terms",
+        phrase_per_search_term: "Phrases per Search Term",
+        regular: "Regular",
+        conversational: "Conversational",
+        typo: "Typo",
+        boundary: "Boundary",
+        valid: "Valid",
+        test: "Test",
+      };
+
+      function showIconDetail(item) {
+        switchTab("info");
+        const detailEl = document.getElementById("iconDetail");
+        detailEl.className = "";
+        detailEl.innerHTML = `<div class="detail-loading">Loading...</div>`;
+
+        if (detailCache.has(item.name)) {
+          renderDetail(item, detailCache.get(item.name));
+          return;
+        }
+
+        fetch(`../icons/${item.name}/icon_log.json`)
+          .then(r => {
+            if (!r.ok) throw new Error("Not found");
+            return r.json();
+          })
+          .then(log => {
+            detailCache.set(item.name, log);
+            renderDetail(item, log);
+          })
+          .catch(() => {
+            detailEl.innerHTML = `<p style="color:red;padding:12px">Failed to load data for ${escHtml(item.name)}</p>`;
+          });
+      }
+
+      function renderDetail(item, log) {
+        const detailEl = document.getElementById("iconDetail");
+
+        let html = `
+          <div class="detail-header">
+            <span class="detail-big-glyph">${hexToChar(item.unicode)}</span>
+            <div class="detail-meta">
+              <h3>${escHtml(item.label || item.name)}</h3>
+              <p>unicode: ${escHtml(item.unicode)}</p>
+              <p>canonical: ${escHtml(item.canonical)}${item.alias ? " (alias)" : ""}</p>
+            </div>
+          </div>
+        `;
+
+        const cats = log.categories || {};
+
+        for (const [key, label] of Object.entries(CATEGORY_LABELS)) {
+          const cat = cats[key];
+          if (!cat) continue;
+          const enItems = cat.en || [];
+          const ruItems = cat.ru || [];
+          if (enItems.length === 0 && ruItems.length === 0) continue;
+
+          html += `<div class="detail-section"><h4>${label}</h4>`;
+
+          if (enItems.length > 0) {
+            html += `<div class="detail-lang">
+              <span class="detail-lang-label">EN</span>
+              <ul class="detail-phrase-list">${enItems.map(p => `<li>${escHtml(p)}</li>`).join("")}</ul>
+            </div>`;
+          }
+          if (ruItems.length > 0) {
+            html += `<div class="detail-lang">
+              <span class="detail-lang-label">RU</span>
+              <ul class="detail-phrase-list">${ruItems.map(p => `<li>${escHtml(p)}</li>`).join("")}</ul>
+            </div>`;
+          }
+
+          html += `</div>`;
+        }
+
+        detailEl.innerHTML = html;
+      }
+
+      // ── Render ────────────────────────────────────────────────
+      function render() {
+        if (currentView === "list") renderList();
+        else renderGallery();
+      }
+
+      function renderList() {
+        document.querySelector(".table-wrap").style.display = "";
+        const existing = document.querySelector(".gallery-wrap");
+        if (existing) existing.remove();
+
+        const term = searchInput.value.trim().toLowerCase();
+        tableBody.textContent = "";
+
+        for (const item of data) {
+          if (!matchesFilter(item, term)) continue;
+          if (selectedOnly && !selected.has(item.name)) continue;
+
+          const tr = document.createElement("tr");
+          if (selected.has(item.name)) tr.classList.add("selected");
+
+          const cb = document.createElement("input");
+          cb.type = "checkbox";
+          cb.checked = selected.has(item.name);
+
+          const tdCheck = document.createElement("td");
+          tdCheck.className = "check";
+          tdCheck.appendChild(cb);
+
+          tr.innerHTML = `
+            <td class="icon-cell"><span class="glyph">${hexToChar(item.unicode)}</span></td>
+            <td><span class="mono">${escHtml(item.name)}</span></td>
+            <td><span class="mono">${escHtml(item.unicode)}</span></td>
+            <td><span class="mono">${escHtml(item.canonical)}${item.alias ? " (alias)" : ""}</span></td>
+          `;
+          tr.prepend(tdCheck);
+
+          cb.addEventListener("click", (e) => {
+            e.stopPropagation();
+            if (selected.has(item.name)) selected.delete(item.name);
+            else selected.add(item.name);
+            saveSelection();
+            updateSelectedOutput();
+            render();
+          });
+
+          tr.addEventListener("click", (e) => {
+            if (e.target === cb) return;
+            showIconDetail(item);
+          });
+
+          tableBody.appendChild(tr);
+        }
+      }
+
+      function renderGallery() {
+        document.querySelector(".table-wrap").style.display = "none";
+        const existing = document.querySelector(".gallery-wrap");
+        if (existing) existing.remove();
+
+        const wrap = document.createElement("div");
+        wrap.className = "gallery-wrap";
+        const grid = document.createElement("div");
+        grid.className = "gallery-grid";
+        wrap.appendChild(grid);
+
+        const term = searchInput.value.trim().toLowerCase();
+
+        for (const item of data) {
+          if (!matchesFilter(item, term)) continue;
+          if (selectedOnly && !selected.has(item.name)) continue;
+
+          const card = document.createElement("div");
+          card.className = "gallery-card" + (selected.has(item.name) ? " selected" : "");
+
+          const glyph = document.createElement("span");
+          glyph.className = "card-glyph";
+          glyph.textContent = hexToChar(item.unicode);
+
+          const nameEl = document.createElement("span");
+          nameEl.className = "card-name";
+          nameEl.textContent = item.name;
+
+          const cb = document.createElement("input");
+          cb.type = "checkbox";
+          cb.checked = selected.has(item.name);
+
+          cb.addEventListener("click", (e) => {
+            e.stopPropagation();
+            if (selected.has(item.name)) selected.delete(item.name);
+            else selected.add(item.name);
+            saveSelection();
+            updateSelectedOutput();
+            render();
+          });
+
+          card.appendChild(glyph);
+          card.appendChild(nameEl);
+          card.appendChild(cb);
+
+          card.addEventListener("click", (e) => {
+            if (e.target === cb) return;
+            showIconDetail(item);
+          });
+
+          grid.appendChild(card);
+        }
+
+        document.querySelector(".panel").appendChild(wrap);
+      }
+
+      // ── View toggle ───────────────────────────────────────────
+      viewListBtn.addEventListener("click", () => {
+        currentView = "list";
+        viewListBtn.classList.add("active-view");
+        viewGalleryBtn.classList.remove("active-view");
+        render();
+      });
+
+      viewGalleryBtn.addEventListener("click", () => {
+        currentView = "gallery";
+        viewGalleryBtn.classList.add("active-view");
+        viewListBtn.classList.remove("active-view");
+        render();
+      });
+
+      // ── Filter buttons ────────────────────────────────────────
+      showSelectedBtn.addEventListener("click", () => {
+        selectedOnly = true;
+        render();
+      });
+
+      showAllBtn.addEventListener("click", () => {
+        selectedOnly = false;
+        render();
+      });
+
+      clearBtn.addEventListener("click", () => {
+        selected.clear();
+        saveSelection();
+        updateSelectedOutput();
+        render();
+      });
+
+      copyBtn.addEventListener("click", async () => {
+        try { await navigator.clipboard.writeText(selectedOutput.value); } catch (_) {}
+      });
+
+      copyCommaBtn.addEventListener("click", async () => {
+        const names = selectedNamesInOrder();
+        try { await navigator.clipboard.writeText(names.join(", ")); } catch (_) {}
+      });
+
+      searchInput.addEventListener("input", render);
+
+      // ── Init ──────────────────────────────────────────────────
+      updateSelectedOutput();
+      render();
+    })();
+  </script>
+</body>
+</html>
