@@ -317,6 +317,96 @@
       margin-top: 2px;
     }
 
+    /* ── Candidates view ── */
+    .candidates-wrap {
+      overflow: auto;
+      min-height: 0;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+
+    .candidates-group-header {
+      position: sticky;
+      top: 0;
+      z-index: 1;
+      background: #f0f3f9;
+      border-bottom: 1px solid var(--line);
+      border-top: 1px solid var(--line);
+      padding: 5px 14px;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .candidates-group-header:first-child { border-top: none; }
+    .candidates-group-badge {
+      background: var(--accent-soft);
+      color: var(--accent);
+      border-radius: 10px;
+      padding: 1px 7px;
+      font-size: 10px;
+    }
+
+    .candidates-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+      gap: 8px;
+      padding: 10px 12px;
+    }
+
+    .candidate-card {
+      border: 1px dashed var(--line);
+      border-radius: 8px;
+      background: #fafbfd;
+      padding: 10px 6px 8px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 5px;
+      cursor: pointer;
+      transition: border-color 0.15s, background 0.15s, box-shadow 0.15s;
+    }
+    .candidate-card:hover {
+      border-color: var(--accent);
+      border-style: solid;
+      background: #f7faff;
+      box-shadow: 0 2px 8px rgba(31,111,235,0.08);
+    }
+    .candidate-card.selected {
+      background: var(--accent-soft);
+      border-color: var(--accent);
+      border-style: solid;
+    }
+    .candidate-card .card-glyph {
+      font-family: "FA7SolidLocal";
+      font-weight: 900;
+      font-size: 26px;
+      line-height: 1;
+      color: #2f3a50;
+      pointer-events: none;
+    }
+    .candidate-card .card-name {
+      font-size: 10px;
+      color: var(--muted);
+      text-align: center;
+      word-break: break-all;
+      pointer-events: none;
+      line-height: 1.3;
+    }
+    .candidate-card input[type="checkbox"] {
+      cursor: pointer;
+      width: 14px;
+      height: 14px;
+      accent-color: var(--accent);
+      margin-top: 2px;
+    }
+
     /* ── Right panel ── */
     .right-body {
       padding: 0;
@@ -648,6 +738,7 @@
           <div class="view-toggle">
             <button id="viewListBtn" class="view-opt active-opt">☰ List</button>
             <button id="viewGalleryBtn" class="view-opt">⊞ Gallery</button>
+            <button id="viewCandidatesBtn" class="view-opt">✦ Candidates</button>
           </div>
         </div>
         <div class="search-row">
@@ -733,8 +824,9 @@
       const selCount     = document.getElementById("selCount");
       const selChips     = document.getElementById("selChips");
 
-      const viewListBtn    = document.getElementById("viewListBtn");
-      const viewGalleryBtn = document.getElementById("viewGalleryBtn");
+      const viewListBtn        = document.getElementById("viewListBtn");
+      const viewGalleryBtn     = document.getElementById("viewGalleryBtn");
+      const viewCandidatesBtn  = document.getElementById("viewCandidatesBtn");
       const showSelectedBtn = document.getElementById("showSelectedBtn");
       const showAllBtn     = document.getElementById("showAllBtn");
       const barCopyBtn     = document.getElementById("barCopyBtn");
@@ -981,13 +1073,16 @@
       // ── Render ────────────────────────────────────────────────
       function render() {
         if (currentView === "list") renderList();
-        else renderGallery();
+        else if (currentView === "gallery") renderGallery();
+        else renderCandidates();
       }
 
       function renderList() {
         document.querySelector(".table-wrap").style.display = "";
         const existing = document.querySelector(".gallery-wrap");
         if (existing) existing.remove();
+        const existingC = document.querySelector(".candidates-wrap");
+        if (existingC) existingC.remove();
 
         const term = searchInput.value.trim().toLowerCase();
         tableBody.textContent = "";
@@ -1033,10 +1128,20 @@
         }
       }
 
+      function clearViews() {
+        document.querySelector(".table-wrap").style.display = "none";
+        const gw = document.querySelector(".gallery-wrap");
+        if (gw) gw.remove();
+        const cw = document.querySelector(".candidates-wrap");
+        if (cw) cw.remove();
+      }
+
       function renderGallery() {
         document.querySelector(".table-wrap").style.display = "none";
         const existing = document.querySelector(".gallery-wrap");
         if (existing) existing.remove();
+        const existingC = document.querySelector(".candidates-wrap");
+        if (existingC) existingC.remove();
 
         const wrap = document.createElement("div");
         wrap.className = "gallery-wrap";
@@ -1089,18 +1194,124 @@
         document.querySelector(".panel").appendChild(wrap);
       }
 
+      function renderCandidates() {
+        clearViews();
+
+        const term = searchInput.value.trim().toLowerCase();
+
+        // Filter: not selected, matches search
+        const candidates = data.filter(item =>
+          !selected.has(item.name) && matchesFilter(item, term)
+        );
+
+        // Sort by segment count, then alphabetically
+        candidates.sort((a, b) => {
+          const sa = a.name.split("-").length;
+          const sb = b.name.split("-").length;
+          if (sa !== sb) return sa - sb;
+          return a.name.localeCompare(b.name);
+        });
+
+        // Group by segment count
+        const groups = new Map();
+        for (const item of candidates) {
+          const seg = item.name.split("-").length;
+          if (!groups.has(seg)) groups.set(seg, []);
+          groups.get(seg).push(item);
+        }
+
+        const wrap = document.createElement("div");
+        wrap.className = "candidates-wrap";
+
+        const GROUP_LABELS = ["", "Single", "Double", "Triple", "Quad", "Long"];
+
+        for (const [seg, items] of groups) {
+          const label = GROUP_LABELS[seg] || `${seg}-part`;
+
+          const groupHead = document.createElement("div");
+          groupHead.className = "candidates-group-header";
+          groupHead.innerHTML = `
+            ${label}-key icons
+            <span class="candidates-group-badge">${items.length}</span>
+          `;
+          wrap.appendChild(groupHead);
+
+          const grid = document.createElement("div");
+          grid.className = "candidates-grid";
+
+          for (const item of items) {
+            const card = document.createElement("div");
+            card.className = "candidate-card" + (selected.has(item.name) ? " selected" : "");
+
+            const glyph = document.createElement("span");
+            glyph.className = "card-glyph";
+            glyph.textContent = hexToChar(item.unicode);
+
+            const nameEl = document.createElement("span");
+            nameEl.className = "card-name";
+            nameEl.textContent = item.name;
+
+            const cb = document.createElement("input");
+            cb.type = "checkbox";
+            cb.checked = selected.has(item.name);
+
+            cb.addEventListener("click", (e) => {
+              e.stopPropagation();
+              if (selected.has(item.name)) selected.delete(item.name);
+              else selected.add(item.name);
+              saveSelection();
+              updateSelectedOutput();
+              render();
+            });
+
+            card.appendChild(glyph);
+            card.appendChild(nameEl);
+            card.appendChild(cb);
+
+            card.addEventListener("click", (e) => {
+              if (e.target === cb) return;
+              showIconDetail(item);
+            });
+
+            grid.appendChild(card);
+          }
+
+          wrap.appendChild(grid);
+        }
+
+        if (candidates.length === 0) {
+          const empty = document.createElement("div");
+          empty.style.cssText = "display:flex;align-items:center;justify-content:center;flex:1;color:var(--muted);font-size:13px;";
+          empty.textContent = selected.size === data.length
+            ? "All icons are already in the set."
+            : "No candidates match the search.";
+          wrap.appendChild(empty);
+        }
+
+        document.querySelector(".panel").appendChild(wrap);
+      }
+
       // ── View toggle ───────────────────────────────────────────
+      const viewBtns = [viewListBtn, viewGalleryBtn, viewCandidatesBtn];
+
       viewListBtn.addEventListener("click", () => {
         currentView = "list";
+        viewBtns.forEach(b => b.classList.remove("active-opt"));
         viewListBtn.classList.add("active-opt");
-        viewGalleryBtn.classList.remove("active-opt");
         render();
       });
 
       viewGalleryBtn.addEventListener("click", () => {
         currentView = "gallery";
+        viewBtns.forEach(b => b.classList.remove("active-opt"));
         viewGalleryBtn.classList.add("active-opt");
-        viewListBtn.classList.remove("active-opt");
+        render();
+      });
+
+      viewCandidatesBtn.addEventListener("click", () => {
+        currentView = "candidates";
+        viewBtns.forEach(b => b.classList.remove("active-opt"));
+        viewCandidatesBtn.classList.add("active-opt");
         render();
       });
 
