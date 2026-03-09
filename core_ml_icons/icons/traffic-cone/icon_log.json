@@ -1,0 +1,142 @@
+{
+  "icon": "traffic-cone",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "alert",
+        "construction",
+        "maintenance",
+        "road"
+      ],
+      "ru": [
+        "предупреждение",
+        "строительство",
+        "обслуживание",
+        "дорога"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "alert traffic cone road hazard",
+        "orange alert cone warning",
+        "construction site traffic cone",
+        "construction zone orange cones",
+        "road maintenance traffic cone",
+        "maintenance crew cones out",
+        "road cone blocking lane",
+        "road cone diversion"
+      ],
+      "ru": [
+        "предупреждение дорожный конус опасность",
+        "оранжевый предупреждающий конус",
+        "строительная площадка дорожные конусы",
+        "строительная зона оранжевые конусы",
+        "дорожное обслуживание конусы",
+        "бригада обслуживания выставляет конусы",
+        "конус перекрывает полосу",
+        "дорожный конус объезд"
+      ]
+    },
+    "regular": {
+      "en": [
+        "orange traffic cone on road",
+        "row of cones road construction",
+        "cone knocked over on road",
+        "traffic cone marking road hazard",
+        "cone with reflective stripe visibility",
+        "construction worker placing cones",
+        "traffic cones blocking off lane",
+        "cone road closure redirect traffic",
+        "mini cone indoor floor wet",
+        "cone and barrier road maintenance"
+      ],
+      "ru": [
+        "оранжевый дорожный конус на дороге",
+        "ряд конусов дорожное строительство",
+        "опрокинутый конус на дороге",
+        "конус обозначает дорожную опасность",
+        "конус со светоотражающей полосой видимость",
+        "дорожный рабочий расставляет конусы",
+        "дорожные конусы перекрывают полосу",
+        "конус перекрывает дорогу перенаправляет движение",
+        "мини-конус внутри помещения мокрый пол",
+        "конус и барьер дорожное обслуживание"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a traffic cone icon for the construction section",
+        "add a cone symbol to the road alert feature",
+        "show a traffic cone for the maintenance category",
+        "use the traffic-cone icon for the hazard warning"
+      ],
+      "ru": [
+        "нужна иконка дорожного конуса для строительного раздела",
+        "добавь символ конуса к функции дорожного предупреждения",
+        "покажи дорожный конус для категории обслуживания",
+        "используй иконку дорожного конуса для предупреждения об опасности"
+      ]
+    },
+    "typo": {
+      "en": [
+        "traffci cone road",
+        "oragne cone construction",
+        "constuction cone alert",
+        "road coone hazard"
+      ],
+      "ru": [
+        "дорожный конус трассфик",
+        "оранжевый конус стройка",
+        "строительный конус тревога",
+        "конус опасность дорога"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "road sign warning triangle",
+        "barrier police tape yellow",
+        "traffic light signal stop go",
+        "stop sign octagon red",
+        "speed bump road hump",
+        "barricade road block fence"
+      ],
+      "ru": [
+        "дорожный знак предупреждающий треугольник",
+        "барьер полицейская лента жёлтая",
+        "светофор стоп едем",
+        "знак стоп восьмиугольник красный",
+        "лежачий полицейский дорожный горб",
+        "баррикада дорожный блок забор"
+      ]
+    },
+    "valid": {
+      "en": [
+        "traffic cone construction icon",
+        "orange road cone symbol",
+        "cone hazard warning"
+      ],
+      "ru": [
+        "иконка строительного конуса",
+        "символ оранжевого дорожного конуса",
+        "конус предупреждение опасности"
+      ]
+    },
+    "test": {
+      "en": [
+        "traffic cone icon",
+        "road cone construction",
+        "orange cone symbol"
+      ],
+      "ru": [
+        "иконка дорожного конуса",
+        "конус дорожное строительство",
+        "символ оранжевого конуса"
+      ]
+    }
+  }
+}

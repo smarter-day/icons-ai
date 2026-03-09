@@ -1,0 +1,96 @@
+{
+  "icon": "film-canister",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "35mm",
+        "darkroom",
+        "develop",
+        "image",
+        "photo",
+        "photography",
+        "retro",
+        "vintage"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Shoot with a 35mm camera",
+        "Buy a 35mm film roll",
+        "Develop film in the darkroom",
+        "Set up a darkroom at home",
+        "Develop the film roll",
+        "Take the film to be developed",
+        "Scan the developed image",
+        "Print the image on photo paper",
+        "Take a photo on film",
+        "Buy a disposable film camera",
+        "Learn film photography",
+        "Practice film photography",
+        "Get a retro look with film",
+        "Embrace the retro photography style",
+        "Find vintage film cameras",
+        "Shoot with a vintage camera"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Shoot with a film camera",
+        "Buy a roll of 35mm film",
+        "Develop the film at the photo lab",
+        "Collect vintage film cameras",
+        "Learn analog photography",
+        "Scan old film negatives",
+        "Print photos from film",
+        "Try shooting on film for the first time",
+        "Find a darkroom to develop film",
+        "Take photos on a disposable camera"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Shoot on film",
+        "Analog vibes",
+        "Develop the roll",
+        "Retro photography"
+      ]
+    },
+    "typo": {
+      "en": [
+        "shoot with 35mm flim",
+        "devlop the film roll",
+        "by a disposbale camera",
+        "vintge film photography"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Shoot with a digital camera",
+        "Edit photos in Lightroom",
+        "Take photos with the phone",
+        "Print photos from a digital file",
+        "Use a mirrorless camera",
+        "Record video with a cinema camera"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Shoot with a 35mm film camera",
+        "Develop the film at the photo lab",
+        "Buy a roll of analog film"
+      ]
+    },
+    "test": {
+      "en": [
+        "Learn analog photography",
+        "Scan old film negatives",
+        "Collect vintage film cameras"
+      ]
+    }
+  }
+}

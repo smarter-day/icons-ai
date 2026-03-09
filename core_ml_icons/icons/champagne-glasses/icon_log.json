@@ -1,0 +1,202 @@
+{
+  "icon": "champagne-glasses",
+  "rows": {
+    "train_en": 66,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "alcohol",
+        "bar",
+        "beverage",
+        "celebrate",
+        "celebration",
+        "champagne",
+        "clink",
+        "clinking glasses",
+        "drink",
+        "glass",
+        "holiday",
+        "new year's eve",
+        "party",
+        "toast"
+      ],
+      "ru": [
+        "алкоголь",
+        "бар",
+        "напиток",
+        "отмечать",
+        "праздник",
+        "шампанское",
+        "звон",
+        "чоканье бокалами",
+        "выпить",
+        "бокал",
+        "праздничный",
+        "новогодняя ночь",
+        "вечеринка",
+        "тост"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Alcohol-free option at the celebration",
+        "Alcohol ban at the workplace party",
+        "Bar setup for the New Year party",
+        "Bar cart with champagne glasses",
+        "Beverage selection for the toast",
+        "Beverage table with champagne at the event",
+        "Celebrate the promotion with champagne",
+        "Celebrate the win with a toast",
+        "Celebration dinner with champagne",
+        "Celebration toast for the new year",
+        "Champagne bottle chilled and ready",
+        "Champagne glasses for the reception",
+        "Clink glasses at the toast",
+        "Clink for good luck and cheers",
+        "Clinking glasses at the wedding",
+        "Clinking glasses for the team win",
+        "Drink champagne at midnight",
+        "Drinks ready for the toast",
+        "Glass of champagne for the occasion",
+        "Glass raised for the celebration",
+        "Holiday toast with champagne",
+        "Holiday gathering with bubbly drinks",
+        "New Year's Eve champagne countdown",
+        "New Year's Eve toast at midnight",
+        "Party drinks for the champagne tower",
+        "Party toast at the reception",
+        "Toast to the happy couple",
+        "Toast with a glass of bubbly"
+      ],
+      "ru": [
+        "Безалкогольная альтернатива на торжестве",
+        "Запрет алкоголя на корпоративной вечеринке",
+        "Бар для новогодней вечеринки",
+        "Барный столик с бокалами шампанского",
+        "Выбор напитков для тоста",
+        "Стол с напитками и шампанским на мероприятии",
+        "Отметить повышение шампанским",
+        "Отметить победу тостом",
+        "Торжественный ужин с шампанским",
+        "Тост на праздновании Нового года",
+        "Бутылка шампанского охлаждена и готова",
+        "Бокалы для шампанского на приёме",
+        "Чокнуться бокалами при тосте",
+        "Чокнуться на удачу",
+        "Чоканье бокалами на свадьбе",
+        "Чоканье бокалами за победу команды",
+        "Пить шампанское в полночь",
+        "Напитки готовы для тоста",
+        "Бокал шампанского по случаю",
+        "Бокал поднят для праздника",
+        "Праздничный тост с шампанским",
+        "Праздничный сбор с игристыми напитками",
+        "Обратный отсчёт Нового года с шампанским",
+        "Тост в полночь в канун Нового года",
+        "Напитки для башни из шампанского",
+        "Тост на вечеринке на приёме",
+        "Тост за счастливую пару",
+        "Тост с бокалом игристого"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Pop the champagne at midnight",
+        "Clink glasses with everyone at the table",
+        "Champagne tower at the wedding reception",
+        "Buy champagne for the New Year party",
+        "Champagne toast for the promotion",
+        "Glasses ready for the countdown",
+        "Sparkling wine for the graduation party",
+        "Raise a glass for the occasion",
+        "Anniversary champagne dinner",
+        "Bubbly for the team celebration"
+      ],
+      "ru": [
+        "Открыть шампанское в полночь",
+        "Чокнуться со всеми за столом",
+        "Пирамида из шампанского на свадьбе",
+        "Купить шампанское для новогодней вечеринки",
+        "Тост с шампанским за повышение",
+        "Бокалы готовы к обратному отсчёту",
+        "Игристое вино на вечеринке в честь выпуска",
+        "Поднять бокал по случаю",
+        "Годовщина с ужином при шампанском",
+        "Игристое для командного праздника"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "popping bottles tonight",
+        "time for some bubbly",
+        "champagne already chilled in the fridge",
+        "clink clink cheers everyone"
+      ],
+      "ru": [
+        "открываем бутылки сегодня вечером",
+        "время для игристого",
+        "шампанское уже охлаждено в холодильнике",
+        "дзынь дзынь за всех"
+      ]
+    },
+    "typo": {
+      "en": [
+        "champaign toast for the new year",
+        "clik glasses at the celebartion",
+        "new yeers eve countdown with bubbley",
+        "party tost with sparklign wine"
+      ],
+      "ru": [
+        "шампанкое на новый год",
+        "чокнутьсе бокалами на торжестве",
+        "канун нового года с игристым",
+        "вечеринка с тостом игристым вином"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Beer cheers at the backyard barbecue",
+        "Wine glasses for the dinner party",
+        "Cocktail shaker for the bar setup",
+        "Juice glasses for the morning brunch",
+        "Coffee mugs for the office celebration",
+        "Water toast at the dry party"
+      ],
+      "ru": [
+        "Пиво за здоровье на барбекю",
+        "Бокалы для вина на ужине",
+        "Шейкер для коктейлей в баре",
+        "Стаканы с соком на бранче",
+        "Кружки кофе на офисном праздновании",
+        "Тост с водой на безалкогольной вечеринке"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Champagne toast for the team victory",
+        "Clink glasses at New Year's midnight",
+        "Bubbly ready for the celebration"
+      ],
+      "ru": [
+        "Тост с шампанским за победу команды",
+        "Чокнуться бокалами в новогоднюю полночь",
+        "Игристое готово для праздника"
+      ]
+    },
+    "test": {
+      "en": [
+        "Pop the champagne for the occasion",
+        "Champagne glasses for the wedding",
+        "Toast to the new year"
+      ],
+      "ru": [
+        "Открыть шампанское по случаю",
+        "Бокалы для шампанского на свадьбе",
+        "Тост за новый год"
+      ]
+    }
+  }
+}

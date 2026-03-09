@@ -1,0 +1,154 @@
+{
+  "icon": "apartment",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "apartment",
+        "building",
+        "city",
+        "condo",
+        "condominium",
+        "flat"
+      ],
+      "ru": [
+        "квартира",
+        "здание",
+        "город",
+        "кондо",
+        "кондоминиум",
+        "апартаменты"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "find an apartment to rent",
+        "check out the building",
+        "city apartment search",
+        "condo viewing this weekend",
+        "condominium maintenance fee",
+        "rent a flat nearby",
+        "Sign the apartment lease today",
+        "Building inspection scheduled for Thursday",
+        "City center living options review",
+        "Condo association dues this month",
+        "Condominium rules and regulations review",
+        "Flat viewing arranged for Saturday"
+      ],
+      "ru": [
+        "найти квартиру в аренду",
+        "осмотреть здание",
+        "поиск квартиры в городе",
+        "просмотр кондо в эти выходные",
+        "взнос за кондоминиум",
+        "снять апартаменты рядом",
+        "Подписать договор аренды квартиры сегодня",
+        "Проверка здания запланирована на четверг",
+        "Варианты жилья в центре города",
+        "Взносы в товарищество кондо в этом месяце",
+        "Ознакомиться с правилами кондоминиума",
+        "Просмотр квартиры в субботу"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Schedule apartment viewing",
+        "Renew lease agreement",
+        "Contact landlord about repairs",
+        "Check out that condo downtown",
+        "Compare rental prices",
+        "Submit rental application",
+        "Move out of old apartment",
+        "Set up utilities in new flat",
+        "Tour the building",
+        "List apartment for rent"
+      ],
+      "ru": [
+        "Запланировать просмотр квартиры",
+        "Продлить договор аренды",
+        "Написать арендодателю о ремонте",
+        "Посмотреть то кондо в центре",
+        "Сравнить цены на аренду",
+        "Подать заявку на аренду",
+        "Съехать со старой квартиры",
+        "Подключить коммунальные услуги в новой квартире",
+        "Осмотреть здание",
+        "Сдать квартиру в аренду"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need to find a place to live",
+        "Looking for an apartment in the city",
+        "Got to sort out the housing situation",
+        "We need to check that flat out"
+      ],
+      "ru": [
+        "Мне нужно найти жильё",
+        "Ищу квартиру в городе",
+        "Надо решить вопрос с жильём",
+        "Нужно посмотреть ту квартиру"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Pay rent for appartment",
+        "Find new apartemnt",
+        "Apartmet hunting",
+        "Signe the lease"
+      ],
+      "ru": [
+        "Заплатить за апортмент",
+        "Найти новую квартару",
+        "Поиск кватиры",
+        "Подписат договор"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy a house",
+        "Office renovation",
+        "Hotel booking",
+        "City tour",
+        "Condo maintenance",
+        "Check into the building"
+      ],
+      "ru": [
+        "Купить дом",
+        "Ремонт офиса",
+        "Забронировать отель",
+        "Экскурсия по городу",
+        "Техническое обслуживание кондо",
+        "Заселиться в здание"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Research neighborhoods before moving",
+        "Send inquiry to the landlord",
+        "Check the rent prices in the area"
+      ],
+      "ru": [
+        "Изучить районы перед переездом",
+        "Написать запрос арендодателю",
+        "Проверить цены на аренду в районе"
+      ]
+    },
+    "test": {
+      "en": [
+        "Scout flats near work",
+        "Visit that place we saw online",
+        "Sign the paperwork for the new place"
+      ],
+      "ru": [
+        "Поискать квартиры рядом с работой",
+        "Съездить посмотреть то место из интернета",
+        "Подписать документы на новое жильё"
+      ]
+    }
+  }
+}

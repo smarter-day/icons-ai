@@ -1,0 +1,142 @@
+{
+  "icon": "pinball",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "arcade",
+        "fun",
+        "game",
+        "pinball"
+      ],
+      "ru": [
+        "аркада",
+        "веселье",
+        "игра",
+        "пинбол"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "arcade pinball machine cabinet",
+        "retro arcade hall",
+        "fun pinball challenge",
+        "fun with flippers",
+        "game room pinball machine",
+        "classic game cabinet",
+        "pinball machine with flippers and bumpers",
+        "play pinball score"
+      ],
+      "ru": [
+        "автомат пинбола в аркадном кабинете",
+        "ретро-зал аркадных автоматов",
+        "веселье с пинболом",
+        "веселье с кнопками флипперов",
+        "игровая комната с пинболом",
+        "классический игровой кабинет",
+        "автомат пинбола с флипперами и бамперами",
+        "играть в пинбол набирать очки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "retro pinball machine with metal ball",
+        "silver ball bouncing off bumpers",
+        "classic arcade pinball cabinet",
+        "flipper buttons on pinball machine",
+        "high score pinball game",
+        "pinball wizard skill game",
+        "silver steel ball in play field",
+        "tilt warning on pinball machine",
+        "bar or arcade pinball game",
+        "retro gaming icon pinball"
+      ],
+      "ru": [
+        "ретро-автомат пинбола с металлическим шаром",
+        "серебристый шар отскакивающий от бамперов",
+        "классический аркадный кабинет пинбола",
+        "кнопки флипперов на автомате пинбола",
+        "рекорд игры в пинбол",
+        "искусный игрок в пинбол",
+        "серебристый стальной шар в игровом поле",
+        "предупреждение о наклоне автомата пинбола",
+        "игра в пинбол в баре или аркаде",
+        "иконка ретро-игры пинбол"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pinball icon for the arcade games section",
+        "add a pinball machine symbol to the retro games feature",
+        "show a pinball for the game collection screen",
+        "use the pinball icon for the arcade fun category"
+      ],
+      "ru": [
+        "Мне нужна иконка пинбола для раздела аркадных игр",
+        "добавить символ автомата пинбола в функцию ретро-игр",
+        "показать пинбол для экрана коллекции игр",
+        "использовать иконку пинбола для категории аркадного веселья"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pinabll machine",
+        "arcde game pinball",
+        "pinball gme",
+        "retor pinball"
+      ],
+      "ru": [
+        "автоамт пинбол",
+        "аркадная игра пинбол",
+        "игра пинбол",
+        "рето пинбол"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "arcade claw machine game",
+        "billiards pool table game",
+        "foosball table soccer game",
+        "air hockey table game",
+        "slot machine casino game",
+        "bowling alley pin game"
+      ],
+      "ru": [
+        "аркадная игра кран-машина",
+        "бильярдный стол игра",
+        "настольный футбол кикер",
+        "настольный аэрохоккей",
+        "игровой автомат казино",
+        "кегельбан игра боулинг"
+      ]
+    },
+    "valid": {
+      "en": [
+        "pinball machine arcade game",
+        "retro pinball with flippers",
+        "pinball game icon"
+      ],
+      "ru": [
+        "аркадный автомат пинбола",
+        "ретро-пинбол с флипперами",
+        "иконка игры пинбол"
+      ]
+    },
+    "test": {
+      "en": [
+        "pinball icon",
+        "arcade pinball game",
+        "retro pinball machine"
+      ],
+      "ru": [
+        "иконка пинбола",
+        "аркадная игра пинбол",
+        "ретро-автомат пинбола"
+      ]
+    }
+  }
+}

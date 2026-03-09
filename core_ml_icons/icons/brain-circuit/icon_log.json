@@ -1,0 +1,160 @@
+{
+  "icon": "brain-circuit",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ai",
+        "android",
+        "artificial intelligence",
+        "brain",
+        "genius",
+        "knowledge",
+        "scholar"
+      ],
+      "ru": [
+        "ИИ",
+        "Android",
+        "искусственный интеллект",
+        "мозг",
+        "гений",
+        "знание",
+        "учёный"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "research AI tools for the project",
+        "android app development",
+        "explore artificial intelligence applications",
+        "brain training exercises",
+        "study like a genius",
+        "expand knowledge base",
+        "scholar research session",
+        "AI model integration into the workflow",
+        "Android version compatibility check",
+        "Artificial intelligence conference registration",
+        "Brain dump before the planning meeting",
+        "Genius hour project idea brainstorm",
+        "Knowledge base article to write",
+        "Scholar database literature review"
+      ],
+      "ru": [
+        "исследовать инструменты ИИ для проекта",
+        "разработка приложения для Android",
+        "изучить применение искусственного интеллекта",
+        "тренировка мозга",
+        "учиться как гений",
+        "расширить базу знаний",
+        "учёная исследовательская сессия",
+        "Интеграция ИИ-модели в рабочий процесс",
+        "Проверка совместимости версий Android",
+        "Регистрация на конференцию по искусственному интеллекту",
+        "Выгрузка мыслей перед встречей по планированию",
+        "Мозговой штурм идей для творческого часа",
+        "Написать статью для базы знаний",
+        "Обзор литературы в академической базе данных"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Research AI tools for the project",
+        "Explore machine learning concepts",
+        "Study artificial intelligence basics",
+        "Build a neural network prototype",
+        "AI integration for the app",
+        "Read about deep learning",
+        "AI workshop registration",
+        "Train the model on new data",
+        "Knowledge base documentation update",
+        "Brainstorm AI use cases for the product"
+      ],
+      "ru": [
+        "Исследовать инструменты ИИ для проекта",
+        "Изучить концепции машинного обучения",
+        "Изучить основы искусственного интеллекта",
+        "Создать прототип нейронной сети",
+        "Интеграция ИИ в приложение",
+        "Читать о глубоком обучении",
+        "Регистрация на семинар по ИИ",
+        "Обучить модель на новых данных",
+        "Обновление документации базы знаний",
+        "Мозговой штурм по применению ИИ в продукте"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "AI is changing everything so fast",
+        "I need to learn more about AI",
+        "Let's build something with AI",
+        "Have you tried the new AI tools?"
+      ],
+      "ru": [
+        "ИИ так быстро всё меняет",
+        "Мне нужно больше узнать об ИИ",
+        "Давайте создадим что-нибудь с ИИ",
+        "Ты пробовал новые инструменты ИИ?"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Reserch AI tools for the projct",
+        "Explor machin lerning concpts",
+        "Studie artifcial intellignce basics",
+        "Buld a nueral netwrok"
+      ],
+      "ru": [
+        "Исследавать иструменты ИИ для прокта",
+        "Изчуть машинное обучениее",
+        "Изучть основы искуственного интеллекта",
+        "Создать нейрнную сеть"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Study for the exam",
+        "Computer programming session",
+        "Robot assembly project",
+        "Data analysis task",
+        "Read a science book",
+        "Technology research"
+      ],
+      "ru": [
+        "Учиться к экзамену",
+        "Сессия программирования",
+        "Проект по сборке робота",
+        "Задача по анализу данных",
+        "Прочитать научную книгу",
+        "Технологические исследования"
+      ]
+    },
+    "valid": {
+      "en": [
+        "AI tool research for the project",
+        "Machine learning study session",
+        "Explore AI use cases for the product"
+      ],
+      "ru": [
+        "Исследование инструментов ИИ для проекта",
+        "Учебная сессия по машинному обучению",
+        "Изучить применение ИИ в продукте"
+      ]
+    },
+    "test": {
+      "en": [
+        "Train an AI model this week",
+        "Artificial intelligence workshop",
+        "Deep learning concepts review"
+      ],
+      "ru": [
+        "Обучить модель ИИ на этой неделе",
+        "Семинар по искусственному интеллекту",
+        "Обзор концепций глубокого обучения"
+      ]
+    }
+  }
+}

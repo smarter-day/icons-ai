@@ -1,0 +1,148 @@
+{
+  "icon": "satellite",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "communications",
+        "hardware",
+        "orbit",
+        "satellite",
+        "space"
+      ],
+      "ru": [
+        "связь",
+        "оборудование",
+        "орбита",
+        "спутник",
+        "космос"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "satellite communications network in orbit",
+        "global communications satellite array",
+        "hardware components of satellite in space",
+        "satellite hardware module with solar panels",
+        "satellite in geosynchronous orbit above Earth",
+        "orbit path of satellite around planet",
+        "artificial satellite transmitting signals",
+        "weather satellite photographing storm",
+        "space satellite floating above atmosphere",
+        "deep space satellite probe trajectory"
+      ],
+      "ru": [
+        "сеть связи спутников на орбите",
+        "глобальный массив коммуникационных спутников",
+        "аппаратные компоненты спутника в космосе",
+        "аппаратный модуль спутника с солнечными панелями",
+        "спутник на геостационарной орбите над Землёй",
+        "орбитальный путь спутника вокруг планеты",
+        "искусственный спутник передаёт сигналы",
+        "метеоспутник фотографирует шторм",
+        "космический спутник над атмосферой",
+        "траектория космического зонда"
+      ]
+    },
+    "regular": {
+      "en": [
+        "satellite with solar panels orbiting Earth",
+        "GPS satellite providing navigation signal",
+        "weather satellite image of hurricane",
+        "communication satellite relay in geostationary orbit",
+        "ISS International Space Station in low orbit",
+        "SpaceX Starlink satellite internet constellation",
+        "spy satellite with cameras pointing to surface",
+        "satellite launch on rocket from Cape Canaveral",
+        "satellite dish receiving signal from orbit",
+        "satellite data used for mapping and tracking"
+      ],
+      "ru": [
+        "спутник с солнечными панелями на орбите Земли",
+        "GPS-спутник передаёт навигационный сигнал",
+        "изображение урагана с метеоспутника",
+        "ретранслятор связи на геостационарной орбите",
+        "МКС на низкой орбите",
+        "интернет-созвездие Starlink SpaceX",
+        "разведывательный спутник с камерами к поверхности",
+        "запуск спутника на ракете",
+        "спутниковая тарелка принимает сигнал с орбиты",
+        "данные спутника для картографирования"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a satellite icon for the space tracking app",
+        "add a satellite symbol to the communications feature",
+        "show a satellite for the GPS and orbit section",
+        "use the satellite icon for the space news screen"
+      ],
+      "ru": [
+        "мне нужна иконка спутника для приложения отслеживания",
+        "добавь символ спутника в функцию связи",
+        "покажи спутник для раздела GPS и орбиты",
+        "используй иконку спутника для экрана космических новостей"
+      ]
+    },
+    "typo": {
+      "en": [
+        "satelite with solar panels orbiting Earth",
+        "GPS sattelite providing navigation",
+        "wether satellite image of hurricane",
+        "communiction satellite relay in orbit"
+      ],
+      "ru": [
+        "спутик с солнечными панелями на орбите",
+        "GPS-спуник передаёт навигацию",
+        "изображение урагана с метеоспутниак",
+        "ретрнаслятор связи на орбите"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "satellite dish antenna on roof pointing at sky",
+        "space rocket launching from launch pad",
+        "telescope observatory dome on hilltop",
+        "space station module with docking port",
+        "moon orbiting Earth in night sky",
+        "radio tower antenna transmitting signal"
+      ],
+      "ru": [
+        "спутниковая тарелка на крыше смотрит в небо",
+        "ракета стартует с космодрома",
+        "обсерватория с куполом на холме",
+        "модуль космической станции со стыковочным портом",
+        "луна на орбите Земли ночью",
+        "радиовышка передаёт сигнал"
+      ]
+    },
+    "valid": {
+      "en": [
+        "satellite with solar panels in Earth orbit",
+        "GPS satellite for navigation signal",
+        "space communications satellite in orbit"
+      ],
+      "ru": [
+        "спутник с солнечными панелями на орбите",
+        "GPS-спутник для навигационного сигнала",
+        "коммуникационный спутник в космосе"
+      ]
+    },
+    "test": {
+      "en": [
+        "weather satellite photographing storm",
+        "satellite icon for space tracking app",
+        "satellite orbiting Earth with solar panels"
+      ],
+      "ru": [
+        "метеоспутник фотографирует шторм",
+        "иконка спутника для приложения отслеживания",
+        "спутник на орбите с солнечными панелями"
+      ]
+    }
+  }
+}

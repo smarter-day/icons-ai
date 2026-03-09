@@ -1,0 +1,148 @@
+{
+  "icon": "bowl-rice",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "boiled",
+        "cooked",
+        "cooked rice",
+        "rice",
+        "steamed"
+      ],
+      "ru": [
+        "варёный",
+        "приготовленный",
+        "варёный рис",
+        "рис",
+        "приготовленный на пару"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "boiled rice for dinner",
+        "cooked rice ready to serve",
+        "make cooked rice for the week",
+        "cook some rice",
+        "steamed rice with vegetables",
+        "Boiled white rice with butter tonight",
+        "Cooked rice stored in the fridge",
+        "Cooked rice for meal prep Sunday",
+        "Rice cooker programmed for 7pm",
+        "Steamed jasmine rice for the curry"
+      ],
+      "ru": [
+        "варёный рис на ужин",
+        "готовый рис подать",
+        "приготовить варёный рис на неделю",
+        "отварить рис",
+        "рис на пару с овощами",
+        "Варёный белый рис с маслом на ужин",
+        "Варёный рис хранится в холодильнике",
+        "Варёный рис для заготовки еды в воскресенье",
+        "Рисоварка настроена на 19:00",
+        "Варёный рис жасмин для карри"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Cook a pot of rice for dinner",
+        "Steam rice for the meal",
+        "Make sushi rice",
+        "Rice cooker setup for the evening",
+        "Fried rice for lunch",
+        "Cook jasmine rice",
+        "White rice as a side dish",
+        "Brown rice for meal prep",
+        "Rice for the stir fry tonight",
+        "Prepare rice for the week ahead"
+      ],
+      "ru": [
+        "Отварить рис на ужин",
+        "Приготовить рис на пару для блюда",
+        "Приготовить суши-рис",
+        "Настроить рисоварку на вечер",
+        "Жареный рис на обед",
+        "Отварить жасминовый рис",
+        "Белый рис как гарнир",
+        "Коричневый рис для meal prep",
+        "Рис для жаркого сегодня вечером",
+        "Приготовить рис на неделю вперёд"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I could really go for some rice right now",
+        "Let's make rice with dinner tonight",
+        "The rice cooker is my best friend",
+        "Rice is always a good idea"
+      ],
+      "ru": [
+        "Очень хочу риса прямо сейчас",
+        "Давай приготовим рис к ужину",
+        "Рисоварка — мой лучший друг",
+        "Рис — всегда хорошая идея"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Cook a pot of rce for dinner",
+        "Steem rice for the meal",
+        "Make suhsi rice",
+        "Fried rce for lunch"
+      ],
+      "ru": [
+        "Отварть рис на ужин",
+        "Приготовть рис на пару",
+        "Сделать сушы-рис",
+        "Жаренный рис на обд"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Cook pasta for dinner",
+        "Bowl of soup for lunch",
+        "Pet food bowl refill",
+        "Oatmeal for breakfast",
+        "Cook quinoa as a side",
+        "Salad for lunch today"
+      ],
+      "ru": [
+        "Приготовить пасту на ужин",
+        "Миска супа на обед",
+        "Пополнить миску корма для питомца",
+        "Овсянка на завтрак",
+        "Приготовить киноа как гарнир",
+        "Салат на обед"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Steam rice for dinner tonight",
+        "Cook jasmine rice for the meal",
+        "Rice bowl with vegetables"
+      ],
+      "ru": [
+        "Приготовить рис на пару на ужин",
+        "Отварить жасминовый рис для блюда",
+        "Рисовая миска с овощами"
+      ]
+    },
+    "test": {
+      "en": [
+        "White rice as a side dish",
+        "Meal prep rice for the week",
+        "Fried rice for dinner tonight"
+      ],
+      "ru": [
+        "Белый рис как гарнир",
+        "Meal prep риса на неделю",
+        "Жареный рис на ужин"
+      ]
+    }
+  }
+}

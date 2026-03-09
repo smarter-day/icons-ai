@@ -1,0 +1,87 @@
+{
+  "icon": "dagger",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "blade",
+        "d&d",
+        "fantasy",
+        "rogue",
+        "weapon"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy a dagger for the costume",
+        "Collect a dagger as decoration",
+        "Use a dagger in the D&D campaign",
+        "Play D&D this weekend",
+        "Create a fantasy character",
+        "Build a fantasy world",
+        "Play the rogue character in the game",
+        "Level up the rogue class",
+        "Craft a weapon in the game",
+        "Find a rare weapon in the dungeon"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Play Dungeons and Dragons",
+        "Design a fantasy RPG character",
+        "Find a rare dagger in the dungeon",
+        "Buy a costume prop for Halloween",
+        "Write a fantasy story",
+        "Set up the D&D campaign",
+        "Choose the rogue class in the game",
+        "Watch a fantasy movie tonight",
+        "Collect fantasy memorabilia",
+        "Play a tabletop RPG game"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "D&D night",
+        "Fantasy game",
+        "Rogue class",
+        "Dungeon run"
+      ]
+    },
+    "typo": {
+      "en": [
+        "play dungeons and draogns",
+        "fantsy character creation",
+        "roug class in the game",
+        "use a dagegr in battle"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Wield a sword in the RPG",
+        "Use a bow and arrow",
+        "Fight with an axe in the game",
+        "Equip a shield for defense",
+        "Cast a spell as a wizard",
+        "Use a staff as a mage"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Play D&D with friends",
+        "Use a dagger in the RPG",
+        "Design a rogue character"
+      ]
+    },
+    "test": {
+      "en": [
+        "Set up a D&D campaign",
+        "Find a dagger in the dungeon",
+        "Play the rogue class tonight"
+      ]
+    }
+  }
+}

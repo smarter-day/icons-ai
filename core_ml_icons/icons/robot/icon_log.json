@@ -1,0 +1,160 @@
+{
+  "icon": "robot",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "android",
+        "automate",
+        "computer",
+        "cyborg",
+        "face",
+        "monster",
+        "robot"
+      ],
+      "ru": [
+        "андроид",
+        "автоматизировать",
+        "компьютер",
+        "киборг",
+        "лицо",
+        "монстр",
+        "робот"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "android humanoid robot walking upright",
+        "android phone mascot robot character",
+        "automate repetitive task with robot",
+        "automate workflow using robotic process",
+        "computer-controlled robot arm in factory",
+        "computer robot in science fiction story",
+        "cyborg half-human half-machine character",
+        "cyborg with mechanical limbs and human face",
+        "robot face with glowing LED eyes",
+        "metal face of industrial robot",
+        "monster robot rampaging through city",
+        "robot monster in action movie",
+        "robot character with antenna and boxy body",
+        "friendly robot waving at user"
+      ],
+      "ru": [
+        "андроид-гуманоид шагает прямо",
+        "персонаж-андроид маскот мобильного телефона",
+        "автоматизация повторяющейся задачи с роботом",
+        "автоматизация рабочего процесса роботом",
+        "управляемый компьютером роботизированный манипулятор",
+        "компьютерный робот в научной фантастике",
+        "киборг полу-человек полу-машина",
+        "киборг с механическими конечностями и человеческим лицом",
+        "лицо робота со светящимися LED-глазами",
+        "металлическое лицо промышленного робота",
+        "робот-монстр сносит всё вокруг",
+        "робот-монстр в фильме-боевике",
+        "персонаж-робот с антенной и квадратным телом",
+        "дружелюбный робот машет пользователю"
+      ]
+    },
+    "regular": {
+      "en": [
+        "boxy metal robot with antenna on top",
+        "industrial robot arm welding car chassis",
+        "friendly AI robot assistant character",
+        "robot vacuum cleaner navigating living room",
+        "humanoid robot with glowing eye sensors",
+        "chatbot robot face icon for AI features",
+        "retro science fiction robot with dials",
+        "Mars rover robot exploring red planet surface",
+        "robot emoji with square head and round eyes",
+        "AI-powered robot completing automated tasks"
+      ],
+      "ru": [
+        "квадратный металлический робот с антенной наверху",
+        "промышленный манипулятор сваривает кузов автомобиля",
+        "дружелюбный персонаж-ассистент на базе ИИ",
+        "роботизированный пылесос в гостиной",
+        "человекоподобный робот со светящимися сенсорами-глазами",
+        "иконка лица чат-бота для функций ИИ",
+        "ретро-робот из научной фантастики с переключателями",
+        "марсоход исследует поверхность красной планеты",
+        "эмодзи-робот с квадратной головой и круглыми глазами",
+        "робот на базе ИИ выполняет автоматизированные задачи"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a robot icon for the AI assistant feature",
+        "add a robot symbol to the automation tools section",
+        "show a robot face for the chatbot screen",
+        "use the robot icon for the AI-powered features"
+      ],
+      "ru": [
+        "мне нужна иконка робота для функции ИИ-ассистента",
+        "добавь символ робота в раздел инструментов автоматизации",
+        "покажи лицо робота для экрана чат-бота",
+        "используй иконку робота для функций ИИ"
+      ]
+    },
+    "typo": {
+      "en": [
+        "freidnly robot waving at user",
+        "industrail robot arm welding car",
+        "humanoid robt with glowing eyes",
+        "chatbto robot face for AI feature"
+      ],
+      "ru": [
+        "дружлюбный робот машет пользователю",
+        "промышлненый манипулятор сварки",
+        "чловекоподобный робт со светящимися глазами",
+        "лицо чатбота для функции ИИ"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "alien creature with large head and dark eyes",
+        "android smartphone with touchscreen interface",
+        "humanoid avatar in video game character select",
+        "mechanical gear system in machine",
+        "drone quadcopter hovering with camera",
+        "3D-printed prosthetic hand for amputee"
+      ],
+      "ru": [
+        "пришелец с большой головой и тёмными глазами",
+        "смартфон-андроид с сенсорным интерфейсом",
+        "гуманоидный аватар в выборе персонажа игры",
+        "система механических шестерён в машине",
+        "квадрокоптер-дрон зависает с камерой",
+        "протез руки напечатанный на 3D-принтере"
+      ]
+    },
+    "valid": {
+      "en": [
+        "friendly robot character with antenna",
+        "robot face icon for AI chatbot",
+        "industrial robot arm in factory"
+      ],
+      "ru": [
+        "дружелюбный персонаж-робот с антенной",
+        "иконка лица робота для ИИ чат-бота",
+        "промышленный манипулятор на заводе"
+      ]
+    },
+    "test": {
+      "en": [
+        "boxy metal robot with glowing eyes",
+        "AI robot assistant character icon",
+        "robot automation symbol for workflow"
+      ],
+      "ru": [
+        "квадратный металлический робот со светящимися глазами",
+        "иконка персонажа ИИ-ассистента робота",
+        "символ робота для автоматизации рабочего процесса"
+      ]
+    }
+  }
+}

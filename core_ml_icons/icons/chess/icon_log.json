@@ -1,0 +1,96 @@
+{
+  "icon": "chess",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "board",
+        "castle",
+        "checkmate",
+        "game",
+        "king",
+        "rook",
+        "strategy",
+        "tournament"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "chess board with pieces set in position",
+        "board game of chess between players",
+        "castle piece moved to safety on the board",
+        "chess castle rook protecting the king",
+        "checkmate move that wins the game",
+        "checkmate delivered in three moves",
+        "chess game between two players",
+        "classic board game of chess",
+        "protect the chess king from attack",
+        "chess king placed in check",
+        "rook moved across the open file",
+        "chess rook positioned in the corner",
+        "strategy of the chess opening move",
+        "chess strategy and tactical planning",
+        "chess tournament at the local club",
+        "tournament chess player ranking list"
+      ]
+    },
+    "regular": {
+      "en": [
+        "chess board with black and white pieces arranged",
+        "chess king in a checkmate position",
+        "rook positioned at the corner of the board",
+        "grandmaster planning the next chess move",
+        "chess tournament with serious competitors",
+        "opening strategy in the chess game",
+        "chess knight making an L-shaped jump",
+        "chess clock ticking during a competitive game",
+        "outdoor chess set in the city park",
+        "online chess game played on the mobile app"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a chess icon for the strategy games section",
+        "add a chess piece to the board games category",
+        "show a chess symbol for the tournament feature",
+        "use the chess icon for the strategy challenge"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chekmate delivered in three moves",
+        "ches tournament at the club",
+        "startegy game of chess",
+        "chees board with pieces"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "checkers board with red and black pieces",
+        "dice rolled for the board game",
+        "jigsaw puzzle piece on the table",
+        "backgammon board with pieces in play",
+        "playing cards shuffled for the card game",
+        "domino pieces arranged in a long line"
+      ]
+    },
+    "valid": {
+      "en": [
+        "chess board with pieces",
+        "checkmate in chess game",
+        "chess strategy tournament"
+      ]
+    },
+    "test": {
+      "en": [
+        "chess icon for games",
+        "chess king symbol",
+        "chess board game"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "icon": "cart-flatbed",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "carry",
+        "inventory",
+        "shipping",
+        "transport"
+      ],
+      "ru": [
+        "перевозить",
+        "инвентарь",
+        "доставка",
+        "транспортировка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Carry heavy items on the flatbed cart",
+        "Inventory move with the warehouse cart",
+        "Shipping department flatbed cart",
+        "Transport boxes with the flatbed trolley",
+        "Carry the pallets on the flatbed cart",
+        "Inventory restock with the rolling warehouse cart",
+        "Shipping cart loaded at the loading dock",
+        "Transport equipment to the loading area"
+      ],
+      "ru": [
+        "Перевозить тяжёлые предметы на тележке",
+        "Перемещение инвентаря на складской тележке",
+        "Тележка отдела доставки",
+        "Транспортировать коробки на тележке",
+        "Перевезти поддоны на тележке",
+        "Пополнение запасов с тележкой на складе",
+        "Отгрузочная тележка загружена на доке",
+        "Транспортировка оборудования в зону погрузки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Move warehouse stock with the flatbed",
+        "Load the flatbed cart for delivery",
+        "Stock rotation using the flatbed trolley",
+        "Flatbed cart for the heavy boxes",
+        "Restock shelves with the warehouse cart",
+        "Roll the flatbed to the loading dock",
+        "Pack the flatbed for shipping",
+        "Flatbed cart for the furniture move",
+        "Warehouse flatbed transport needed",
+        "Roll items to storage on the cart"
+      ],
+      "ru": [
+        "Перемещать складские товары на тележке",
+        "Загрузить тележку для доставки",
+        "Ротация запасов с помощью тележки",
+        "Тележка для тяжёлых коробок",
+        "Пополнить полки с помощью складской тележки",
+        "Откатить тележку к погрузочному доку",
+        "Упаковать тележку для доставки",
+        "Тележка для переезда мебели",
+        "Нужна складская тележка для перевозки",
+        "Откатить предметы в хранилище на тележке"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "grab the flatbed for this",
+        "stack it on the cart and wheel it over",
+        "loading dock flatbed is free now",
+        "use the trolley not your arms"
+      ],
+      "ru": [
+        "возьми тележку для этого",
+        "сложи на тележку и откати",
+        "тележка у погрузочного дока свободна",
+        "используй тележку а не руки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "flatbad cart for the heavy stuff",
+        "warehosue cart to move stock",
+        "shippng flatbbed trolley",
+        "inventroy move with the cart"
+      ],
+      "ru": [
+        "плоская телжка для тяжёлых вещей",
+        "складская тлежка для перемещения",
+        "тележка для достваки",
+        "перемещение инветаря на тележке"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Shopping cart at the grocery store",
+        "Hand truck for single box delivery",
+        "Trolley at the supermarket entrance",
+        "Forklift for heavy pallet lifting",
+        "Pallet jack for the warehouse floor",
+        "Wheelbarrow for the garden materials"
+      ],
+      "ru": [
+        "Тележка для покупок в продуктовом",
+        "Ручная тележка для доставки одной коробки",
+        "Тележка у входа в супермаркет",
+        "Вилочный погрузчик для тяжёлых поддонов",
+        "Гидравлическая тележка на складском полу",
+        "Тачка для садовых материалов"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Flatbed cart for the warehouse move",
+        "Load stock onto the flatbed trolley",
+        "Roll the flatbed to the loading dock"
+      ],
+      "ru": [
+        "Тележка для складского перемещения",
+        "Загрузить запасы на тележку",
+        "Откатить тележку к погрузочному доку"
+      ]
+    },
+    "test": {
+      "en": [
+        "Flatbed for the heavy boxes",
+        "Warehouse cart to move inventory",
+        "Stack items on the flatbed cart"
+      ],
+      "ru": [
+        "Тележка для тяжёлых коробок",
+        "Складская тележка для перемещения инвентаря",
+        "Сложить предметы на тележку"
+      ]
+    }
+  }
+}

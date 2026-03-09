@@ -1,0 +1,154 @@
+{
+  "icon": "mask-ventilator",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "breath",
+        "gas",
+        "mask",
+        "oxygen",
+        "respirator",
+        "ventilator"
+      ],
+      "ru": [
+        "дыхание",
+        "газ",
+        "маска",
+        "кислород",
+        "респиратор",
+        "вентилятор"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "breath protection mask for fumes",
+        "breath filter mask outdoors",
+        "gas mask for toxic environments",
+        "gas protection full-face mask",
+        "oxygen mask worn in hospital",
+        "medical mask delivering oxygen",
+        "respirator for chemical safety",
+        "industrial respirator mask",
+        "oxygen mask and ventilator in ICU",
+        "ventilator machine breathing support",
+        "mask with breathing filter",
+        "face mask with ventilator holes"
+      ],
+      "ru": [
+        "маска защиты дыхания от паров",
+        "маска фильтра дыхания на улице",
+        "противогаз для токсичных сред",
+        "полнолицевая маска защиты от газа",
+        "кислородная маска в больнице",
+        "медицинская маска подающая кислород",
+        "респиратор для химической безопасности",
+        "промышленный респиратор",
+        "кислородная маска и вентилятор в реанимации",
+        "аппарат ИВЛ поддержка дыхания",
+        "маска с фильтром дыхания",
+        "лицевая маска с отверстиями вентилятора"
+      ]
+    },
+    "regular": {
+      "en": [
+        "respirator mask worn by construction workers",
+        "gas mask with filter canisters on each side",
+        "medical oxygen mask on patient's face",
+        "ventilator mask for ICU breathing support",
+        "industrial respirator for painting and sanding",
+        "N95 respirator filtering airborne particles",
+        "hazmat suit with full-face respirator",
+        "doctor wearing oxygen mask in surgery",
+        "emergency breathing apparatus mask",
+        "respiratory protection equipment in factory"
+      ],
+      "ru": [
+        "респиратор надетый строительными рабочими",
+        "противогаз с фильтрующими канистрами по бокам",
+        "медицинская кислородная маска на лице пациента",
+        "маска вентилятора для поддержки дыхания в реанимации",
+        "промышленный респиратор для покраски и шлифовки",
+        "респиратор N95 фильтрующий воздушные частицы",
+        "костюм химзащиты с полнолицевым респиратором",
+        "врач в кислородной маске на операции",
+        "маска аварийного дыхательного аппарата",
+        "средства защиты органов дыхания на заводе"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a ventilator mask icon for the medical section",
+        "add a respirator symbol to the safety equipment category",
+        "show a breathing mask for the ICU monitoring screen",
+        "use the mask ventilator icon for respiratory health"
+      ],
+      "ru": [
+        "Мне нужна иконка маски вентилятора для медицинского раздела",
+        "добавить символ респиратора в категорию защитного оборудования",
+        "показать маску дыхания для экрана мониторинга реанимации",
+        "использовать иконку вентилятора-маски для дыхательного здоровья"
+      ]
+    },
+    "typo": {
+      "en": [
+        "ventilatro mask",
+        "respirater oxygen",
+        "oxygne mask",
+        "breaht mask"
+      ],
+      "ru": [
+        "вентилятро маска",
+        "респиратро кислород",
+        "кислорд маска",
+        "дыхаени маска"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "surgical face mask for infection control",
+        "theater drama masks comedy and tragedy",
+        "Halloween costume face mask",
+        "ski mask covering face for cold weather",
+        "dust mask for allergy protection",
+        "scuba diving mask with snorkel"
+      ],
+      "ru": [
+        "хирургическая маска для контроля инфекций",
+        "театральные маски комедии и трагедии",
+        "карнавальная маска для Хэллоуина",
+        "горнолыжная маска закрывающая лицо от холода",
+        "пылевая маска для защиты от аллергии",
+        "маска для подводного плавания с трубкой"
+      ]
+    },
+    "valid": {
+      "en": [
+        "respirator mask for breathing protection",
+        "oxygen mask with ventilator",
+        "industrial breathing mask"
+      ],
+      "ru": [
+        "респиратор для защиты дыхания",
+        "кислородная маска с вентилятором",
+        "промышленная маска для дыхания"
+      ]
+    },
+    "test": {
+      "en": [
+        "ventilator mask icon",
+        "gas mask respirator",
+        "medical oxygen mask"
+      ],
+      "ru": [
+        "иконка маски вентилятора",
+        "противогаз респиратор",
+        "медицинская кислородная маска"
+      ]
+    }
+  }
+}

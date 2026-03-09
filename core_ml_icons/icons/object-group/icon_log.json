@@ -1,0 +1,148 @@
+{
+  "icon": "object-group",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "combine",
+        "copy",
+        "design",
+        "merge",
+        "select"
+      ],
+      "ru": [
+        "объединить",
+        "копировать",
+        "дизайн",
+        "объединить",
+        "выбрать"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "combine multiple shapes into one group",
+        "combine objects in design tool",
+        "copy group of objects together",
+        "copy and paste grouped elements",
+        "design tool for grouping layers",
+        "design layout with grouped objects",
+        "merge selected objects into group",
+        "merge elements for editing",
+        "select all objects in a group",
+        "select multiple elements to group"
+      ],
+      "ru": [
+        "объединить несколько фигур в одну группу",
+        "объединить объекты в инструменте дизайна",
+        "копировать группу объектов вместе",
+        "скопировать и вставить сгруппированные элементы",
+        "инструмент дизайна для группировки слоёв",
+        "макет дизайна со сгруппированными объектами",
+        "объединить выбранные объекты в группу",
+        "слить элементы для редактирования",
+        "выбрать все объекты в группе",
+        "выбрать несколько элементов для группировки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "select and group multiple elements in design",
+        "grouped shapes with dashed selection outline",
+        "combine objects into a single group in Figma",
+        "multi-object selection with bounding box",
+        "design element grouping icon",
+        "vector group objects in Illustrator",
+        "group and ungroup feature in UI editor",
+        "combine layers into a grouped unit",
+        "select all to create object group",
+        "grouped components in design system"
+      ],
+      "ru": [
+        "выбор и группировка нескольких элементов в дизайне",
+        "сгруппированные фигуры с пунктирным контуром выделения",
+        "объединение объектов в одну группу в Figma",
+        "выбор нескольких объектов с ограничивающим прямоугольником",
+        "иконка группировки элементов дизайна",
+        "группировка векторных объектов в Illustrator",
+        "функция группировки и разгруппировки в редакторе UI",
+        "объединить слои в сгруппированную единицу",
+        "выбрать все для создания группы объектов",
+        "сгруппированные компоненты в дизайн-системе"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an object group icon for the design toolbar",
+        "add a group selection symbol to the layer panel",
+        "show a merge icon for combining shapes",
+        "use the object group icon for the select all feature"
+      ],
+      "ru": [
+        "Мне нужна иконка группы объектов для панели инструментов дизайна",
+        "добавить символ группового выделения на панель слоёв",
+        "показать иконку слияния для объединения фигур",
+        "использовать иконку группы объектов для функции выбрать все"
+      ]
+    },
+    "typo": {
+      "en": [
+        "objcet group design",
+        "combne objects",
+        "mereg elements",
+        "selct group"
+      ],
+      "ru": [
+        "группа объектво дизайн",
+        "объединть объекты",
+        "слить элменты",
+        "выбрат группу"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "single object selected without grouping",
+        "ungroup icon for separating elements",
+        "copy and paste a single object",
+        "layers panel showing individual items",
+        "selection tool for single element",
+        "align and distribute design tools"
+      ],
+      "ru": [
+        "один объект выбранный без группировки",
+        "иконка разгруппировки для разделения элементов",
+        "копировать и вставить один объект",
+        "панель слоёв показывающая отдельные элементы",
+        "инструмент выделения для одного элемента",
+        "инструменты выравнивания и распределения"
+      ]
+    },
+    "valid": {
+      "en": [
+        "group objects in design tool",
+        "combine and select objects",
+        "object grouping icon"
+      ],
+      "ru": [
+        "группировать объекты в инструменте дизайна",
+        "объединить и выбрать объекты",
+        "иконка группировки объектов"
+      ]
+    },
+    "test": {
+      "en": [
+        "object group icon",
+        "combine objects design",
+        "select and merge elements"
+      ],
+      "ru": [
+        "иконка группы объектов",
+        "объединить объекты дизайн",
+        "выбрать и объединить элементы"
+      ]
+    }
+  }
+}

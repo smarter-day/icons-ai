@@ -1,0 +1,166 @@
+{
+  "icon": "party-horn",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "celebrate",
+        "celebration",
+        "confetti",
+        "party",
+        "party popper",
+        "popper",
+        "tada",
+        "trumpet"
+      ],
+      "ru": [
+        "праздновать",
+        "празднование",
+        "конфетти",
+        "вечеринка",
+        "хлопушка",
+        "хлопушка",
+        "ура",
+        "труба"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "celebrate birthday with party horn",
+        "celebrate new year blowing horn",
+        "celebration event party horn blown",
+        "celebration with noise makers",
+        "confetti and party horn together",
+        "confetti popping from horn",
+        "party time blowing noise horn",
+        "birthday party horn blowing",
+        "party popper cone with confetti",
+        "popper emoji celebration",
+        "popper for special announcement",
+        "confetti popper surprise",
+        "tada sound effect icon",
+        "tada achievement unlocked",
+        "trumpet-like party horn sound",
+        "fanfare party trumpet"
+      ],
+      "ru": [
+        "праздновать день рождения с хлопушкой",
+        "праздновать новый год с хлопушкой",
+        "праздничное мероприятие с хлопушкой",
+        "празднование с шумовыми игрушками",
+        "конфетти и хлопушка вместе",
+        "конфетти вылетающее из хлопушки",
+        "время вечеринки дуть в шумелку",
+        "хлопушка на день рождения",
+        "конфетти из конуса хлопушки",
+        "эмодзи хлопушки праздник",
+        "хлопушка для особого объявления",
+        "сюрприз с хлопушкой конфетти",
+        "звуковой эффект ура иконка",
+        "ура достижение разблокировано",
+        "звук хлопушки похожий на трубу",
+        "фанфары хлопушка"
+      ]
+    },
+    "regular": {
+      "en": [
+        "colorful party horn with confetti burst",
+        "blowing a noise maker at New Year's",
+        "birthday party celebration horn",
+        "confetti popper exploding at event",
+        "tada emoji celebration icon",
+        "party horn used at countdown",
+        "festive horn for achievement notification",
+        "popper emoji for completing a goal",
+        "celebration confetti and streamer burst",
+        "party favor noise maker for kids"
+      ],
+      "ru": [
+        "красочная хлопушка с выстрелом конфетти",
+        "дуть в шумелку на Новый год",
+        "хлопушка для праздника дня рождения",
+        "хлопушка конфетти взрывающаяся на мероприятии",
+        "иконка праздника эмодзи ура",
+        "хлопушка используемая на обратном отсчёте",
+        "праздничная хлопушка для уведомления о достижении",
+        "эмодзи хлопушки для выполнения цели",
+        "выстрел конфетти и серпантина",
+        "шумелка для детей в подарочном пакете"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a party horn icon for the celebration screen",
+        "add a confetti popper to the achievement notification",
+        "show a party horn for the birthday feature",
+        "use the party horn icon for the tada celebration"
+      ],
+      "ru": [
+        "Мне нужна иконка хлопушки для экрана праздника",
+        "добавить хлопушку конфетти в уведомление о достижении",
+        "показать хлопушку для функции дня рождения",
+        "использовать иконку хлопушки для праздника ура"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pary horn celebrate",
+        "conferti popper",
+        "celbeation horn",
+        "partty popper tada"
+      ],
+      "ru": [
+        "хлопушак вечеринка",
+        "конфети хлопушка",
+        "прзадник хлопушка",
+        "конфеати взрыв"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "birthday cake with candles",
+        "balloon for party decoration",
+        "firework explosion in sky",
+        "streamer ribbon for celebration",
+        "gift box wrapped with bow",
+        "trophy cup for achievement"
+      ],
+      "ru": [
+        "торт ко дню рождения со свечами",
+        "воздушный шар для украшения вечеринки",
+        "фейерверк взрывающийся в небе",
+        "серпантин лента для праздника",
+        "подарочная коробка с бантом",
+        "кубок трофей за достижение"
+      ]
+    },
+    "valid": {
+      "en": [
+        "party horn for celebration",
+        "confetti popper icon",
+        "birthday party horn blowing"
+      ],
+      "ru": [
+        "хлопушка для праздника",
+        "иконка хлопушки конфетти",
+        "хлопушка на день рождения"
+      ]
+    },
+    "test": {
+      "en": [
+        "party horn icon",
+        "celebration confetti popper",
+        "tada party horn"
+      ],
+      "ru": [
+        "иконка хлопушки",
+        "хлопушка конфетти праздника",
+        "хлопушка ура"
+      ]
+    }
+  }
+}

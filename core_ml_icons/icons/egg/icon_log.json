@@ -1,0 +1,93 @@
+{
+  "icon": "egg",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "breakfast",
+        "chicken",
+        "easter",
+        "egg",
+        "food",
+        "shell",
+        "yolk"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Make a breakfast with eggs",
+        "Cook a hearty breakfast",
+        "Buy chicken eggs at the store",
+        "Raise backyard chickens for eggs",
+        "Decorate easter eggs",
+        "Hide easter eggs in the yard",
+        "Boil an egg for breakfast",
+        "Crack an egg into the pan",
+        "Cook egg-based food",
+        "Make a food dish with eggs",
+        "Crack the eggshell carefully",
+        "Dispose of the eggshell",
+        "Separate the yolk from the white",
+        "Use only the egg yolk"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Boil eggs for breakfast",
+        "Make a hard-boiled egg",
+        "Scramble eggs in the morning",
+        "Buy a dozen eggs",
+        "Make an omelette",
+        "Decorate Easter eggs with the kids",
+        "Poach eggs for brunch",
+        "Add eggs to the grocery list",
+        "Use eggs in the cake batter",
+        "Check the egg expiry date"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Egg for breakfast",
+        "Boil some eggs",
+        "Easter egg hunt",
+        "Egg run"
+      ]
+    },
+    "typo": {
+      "en": [
+        "boil an eeg for breakfast",
+        "scamble eggs",
+        "decorate eastr eggs",
+        "buy a dozne eggs"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Fry an egg sunny-side up",
+        "Make a fried egg sandwich",
+        "Cook scrambled eggs with bacon",
+        "Bake a quiche",
+        "Make a deviled egg platter",
+        "Use egg whites for the meringue"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Boil eggs for breakfast",
+        "Buy a dozen eggs",
+        "Decorate Easter eggs"
+      ]
+    },
+    "test": {
+      "en": [
+        "Make an omelette",
+        "Poach eggs for brunch",
+        "Scramble eggs in the morning"
+      ]
+    }
+  }
+}

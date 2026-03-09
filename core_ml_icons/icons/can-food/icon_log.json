@@ -1,0 +1,142 @@
+{
+  "icon": "can-food",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "canned",
+        "ration",
+        "soup",
+        "tin"
+      ],
+      "ru": [
+        "консервированный",
+        "паёк",
+        "суп",
+        "жестяная банка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Canned goods for the pantry stock",
+        "Emergency ration supply check",
+        "Soup can for a quick lunch",
+        "Tin of beans for the recipe",
+        "Canned vegetables for the winter stash",
+        "Survival ration pack for the camping trip",
+        "Soup tin warmed on the stove for lunch",
+        "Tin can collection for the charity drive"
+      ],
+      "ru": [
+        "Консервы для запасов в кладовке",
+        "Проверка аварийного запаса пайков",
+        "Банка супа для быстрого обеда",
+        "Банка фасоли для рецепта",
+        "Консервированные овощи для зимних запасов",
+        "Аварийный рацион для кемпинга",
+        "Суп из жестяной банки разогрет на плите",
+        "Сбор жестяных банок для благотворительности"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Stock up on canned food for the week",
+        "Canned tomatoes for the pasta sauce",
+        "Open a can of soup for dinner",
+        "Tinned fish for the salad",
+        "Emergency food supply in the cabinet",
+        "Canned goods donation drive",
+        "Grab a can of chickpeas",
+        "Pantry with canned vegetables",
+        "Can opener needed for the tin",
+        "Canned peaches for the dessert"
+      ],
+      "ru": [
+        "Запастись консервами на неделю",
+        "Консервированные томаты для соуса к пасте",
+        "Открыть банку супа на ужин",
+        "Консервированная рыба для салата",
+        "Аварийный запас еды в шкафу",
+        "Сбор консервов для пожертвования",
+        "Взять банку нута",
+        "Кладовая с консервированными овощами",
+        "Нужен консервный нож для банки",
+        "Консервированные персики для десерта"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "just grabbing a can of something",
+        "canned soup when I'm too lazy to cook",
+        "tons of canned stuff in the pantry",
+        "the tin goes in the recycling after"
+      ],
+      "ru": [
+        "просто возьму какую-нибудь банку",
+        "суп из банки когда лень готовить",
+        "куча консервов в кладовке",
+        "банка идёт на переработку после"
+      ]
+    },
+    "typo": {
+      "en": [
+        "caned goods for the stoarge",
+        "souup from a tin can",
+        "stockup on caned tomatos",
+        "open the tinned beens"
+      ],
+      "ru": [
+        "консерви для хранения",
+        "супп из жестяной банки",
+        "запастись консервированнми томатами",
+        "открыть банку фасли"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Fresh soup in a bowl from the pot",
+        "Glass jar of pasta sauce",
+        "Instant noodles in a cup",
+        "Frozen meal in the freezer",
+        "Rice bag in the pantry",
+        "Cardboard box of cereal in the cupboard"
+      ],
+      "ru": [
+        "Свежий суп в тарелке из кастрюли",
+        "Стеклянная банка соуса для пасты",
+        "Лапша быстрого приготовления в стакане",
+        "Замороженный обед в морозилке",
+        "Пакет риса в кладовке",
+        "Коробка хлопьев в шкафчике"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Canned soup for a quick meal",
+        "Tin of tuna for the salad",
+        "Stock the pantry with canned goods"
+      ],
+      "ru": [
+        "Суп из банки для быстрой еды",
+        "Банка тунца для салата",
+        "Запасти кладовку консервами"
+      ]
+    },
+    "test": {
+      "en": [
+        "Open a can of tomatoes",
+        "Emergency canned food supply",
+        "Quick meal from a tin"
+      ],
+      "ru": [
+        "Открыть банку томатов",
+        "Аварийный запас консервов",
+        "Быстрая еда из банки"
+      ]
+    }
+  }
+}

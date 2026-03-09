@@ -1,0 +1,90 @@
+{
+  "icon": "gear",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "configuration",
+        "gear",
+        "mechanical",
+        "modify",
+        "settings",
+        "tool"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Open the app configuration",
+        "Update the system configuration",
+        "Switch to a lower gear on the bike",
+        "Check the gear in the car",
+        "Fix the mechanical issue",
+        "Inspect the mechanical parts",
+        "Modify the app behavior",
+        "Modify the settings",
+        "Open the settings menu",
+        "Change the app settings",
+        "Use the right tool for the job",
+        "Pack the tools for the repair"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Open the app settings",
+        "Configure the system preferences",
+        "Adjust the settings for the device",
+        "Change the notification settings",
+        "Update app settings",
+        "Fix the mechanical problem",
+        "Set up preferences in the app",
+        "Tweak the configuration file",
+        "Manage the app permissions",
+        "Customize the display settings"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Open settings",
+        "Change the config",
+        "Tweak the settings",
+        "Settings menu"
+      ]
+    },
+    "typo": {
+      "en": [
+        "oen the app settnigs",
+        "conifgure the systme",
+        "adjsut the sttings",
+        "fix the mechancial issue"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use a wrench to tighten the bolt",
+        "Open the control panel",
+        "Use a hammer to fix the problem",
+        "Adjust the dial on the device",
+        "Change the app theme",
+        "Use a screwdriver for the repair"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Open the app settings",
+        "Configure the system preferences",
+        "Adjust the notification settings"
+      ]
+    },
+    "test": {
+      "en": [
+        "Change the display settings",
+        "Update app configuration",
+        "Fix the mechanical problem"
+      ]
+    }
+  }
+}

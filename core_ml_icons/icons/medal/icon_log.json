@@ -1,0 +1,99 @@
+{
+  "icon": "medal",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "award",
+        "guarantee",
+        "medal",
+        "quality",
+        "ribbon",
+        "sports medal",
+        "star",
+        "trophy",
+        "warranty"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "medal awarded to the champion",
+        "sports award medal ceremony",
+        "quality guarantee medal seal",
+        "medal as a guarantee of quality",
+        "gold medal on a ribbon lanyard",
+        "medal placed around the winner's neck",
+        "quality medal certified by the lab",
+        "quality assurance medal on packaging",
+        "medal hanging on a ribbon lanyard",
+        "ribbon and medal at the award ceremony",
+        "sports medal from the marathon race",
+        "sports medal for the competition",
+        "star on the medal for excellence",
+        "star-shaped medal for achievement",
+        "medal and trophy at the award night",
+        "trophy and medal for the winner",
+        "warranty medal seal on packaging",
+        "quality warranty medal logo"
+      ]
+    },
+    "regular": {
+      "en": [
+        "gold medal hanging from a red and blue ribbon",
+        "olympic medal placed around the athlete's neck",
+        "marathon finisher medal at the finish line",
+        "quality assurance medal on the product label",
+        "military medal pinned to the uniform",
+        "podium ceremony with medal presentation",
+        "silver medal for the second-place finisher",
+        "star-shaped achievement medal on a lanyard",
+        "school medal for academic excellence",
+        "bronze medal at the international competition"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a medal icon for the achievement system",
+        "add a sports medal to the competition results",
+        "show a medal for the challenge completion screen",
+        "use the medal icon for the awards ceremony page"
+      ]
+    },
+    "typo": {
+      "en": [
+        "olmpic medal ceremony",
+        "qualiy guarantee medal",
+        "achevement medal earned",
+        "ribon hanging medal"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "ribbon badge pinned to the jacket for first place",
+        "golden trophy cup for the tournament champion",
+        "graduation certificate with official seal",
+        "star sticker badge for excellent work",
+        "number-one ranked badge on the leaderboard",
+        "competition podium with three numbered places"
+      ]
+    },
+    "valid": {
+      "en": [
+        "gold medal on a ribbon",
+        "sports medal for the competition",
+        "quality medal award"
+      ]
+    },
+    "test": {
+      "en": [
+        "medal icon",
+        "olympic medal symbol",
+        "sports medal achievement"
+      ]
+    }
+  }
+}

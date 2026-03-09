@@ -1,0 +1,154 @@
+{
+  "icon": "taco",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "corn",
+        "maize",
+        "mexican",
+        "salsa",
+        "taco",
+        "tortilla"
+      ],
+      "ru": [
+        "кукуруза",
+        "маис",
+        "мексиканский",
+        "сальса",
+        "тако",
+        "тортилья"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "corn tortilla taco shell",
+        "corn taco hard shell",
+        "maize tortilla yellow corn",
+        "maize based taco shell",
+        "mexican street taco authentic",
+        "mexican food taco night",
+        "salsa on taco topping",
+        "fresh salsa tomato taco",
+        "taco Tuesday dinner",
+        "taco with fillings beef",
+        "flour tortilla soft taco wrap",
+        "corn tortilla fold"
+      ],
+      "ru": [
+        "тако из кукурузной тортильи",
+        "хрустящий кукурузный тако",
+        "маисовая тортилья жёлтая кукуруза",
+        "тако-шелл из маиса",
+        "мексиканский уличный тако аутентичный",
+        "мексиканская еда вечер тако",
+        "сальса на тако топпинг",
+        "свежая помидорная сальса тако",
+        "вторник тако ужин",
+        "тако с начинкой говядина",
+        "мягкое тако из мучной тортильи",
+        "сложенная кукурузная тортилья"
+      ]
+    },
+    "regular": {
+      "en": [
+        "crunchy corn shell taco with beef and cheese",
+        "street taco with cilantro and onion",
+        "fish taco with coleslaw lime",
+        "taco bar topping options salsa guacamole",
+        "breakfast taco egg bacon cheese",
+        "vegetarian black bean taco",
+        "shrimp taco with chipotle sauce",
+        "taco truck street food",
+        "al pastor taco with pineapple",
+        "double shell taco crispy and soft"
+      ],
+      "ru": [
+        "хрустящий кукурузный тако с говядиной и сыром",
+        "уличный тако с кинзой и луком",
+        "рыбный тако с коулслоу и лаймом",
+        "стойка тако выбор начинок сальса гуакамоле",
+        "тако на завтрак яйцо бекон сыр",
+        "вегетарианский тако с чёрными бобами",
+        "тако с креветками и соусом чипотле",
+        "тако-трак уличная еда",
+        "тако аль пастор с ананасом",
+        "двойной тако хрустящий и мягкий"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a taco icon for the Mexican food category",
+        "add a taco symbol to the restaurant menu",
+        "show a taco for the street food section",
+        "use the taco icon for taco Tuesday reminder"
+      ],
+      "ru": [
+        "нужна иконка тако для категории мексиканской еды",
+        "добавь символ тако в меню ресторана",
+        "покажи тако для раздела уличной еды",
+        "используй иконку тако для напоминания о вторнике тако"
+      ]
+    },
+    "typo": {
+      "en": [
+        "mexicna taco dinner",
+        "cron taco shell",
+        "slasa on taco",
+        "taco tuseday meal"
+      ],
+      "ru": [
+        "мексиканский тако ужин",
+        "кукурузный тако шелл",
+        "сальса на тако",
+        "вторник тако еда"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "burrito large wrap tortilla folded",
+        "quesadilla grilled cheese tortilla",
+        "nachos chips with toppings",
+        "enchilada rolled tortilla sauce",
+        "fajita strips pepper onion",
+        "tamale corn husk steamed"
+      ],
+      "ru": [
+        "буррито большой рулет тортилья завёрнутая",
+        "кесадилья жареный сыр в тортилье",
+        "начос чипсы с начинками",
+        "энчилада тортилья в соусе свёрнутая",
+        "фахитас полоски перец лук",
+        "тамале кукурузная шелуха приготовленная на пару"
+      ]
+    },
+    "valid": {
+      "en": [
+        "mexican taco with fillings",
+        "corn tortilla taco icon",
+        "taco street food"
+      ],
+      "ru": [
+        "мексиканское тако с начинкой",
+        "иконка тако из кукурузной тортильи",
+        "тако уличная еда"
+      ]
+    },
+    "test": {
+      "en": [
+        "taco icon food",
+        "corn shell taco",
+        "mexican food taco"
+      ],
+      "ru": [
+        "иконка тако еда",
+        "кукурузный тако шелл",
+        "мексиканская еда тако"
+      ]
+    }
+  }
+}

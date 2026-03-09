@@ -1,0 +1,93 @@
+{
+  "icon": "goal-net",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "goal",
+        "goal net",
+        "hockey",
+        "lacrosse",
+        "net",
+        "penalty",
+        "soccer"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Score a goal in the match",
+        "Celebrate the goal",
+        "Shoot the puck into the goal net",
+        "Hit the goal net",
+        "Watch an NHL hockey game",
+        "Play hockey on the ice",
+        "Play lacrosse this weekend",
+        "Join a lacrosse team",
+        "Set up the net for practice",
+        "Replace the torn net",
+        "Take a penalty kick",
+        "Save the penalty shot",
+        "Play soccer in the park",
+        "Practice soccer drills"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Score a goal in the soccer match",
+        "Watch the hockey game tonight",
+        "Practice penalty kicks",
+        "Set up the goal net for practice",
+        "Buy a goal net for the backyard",
+        "Watch the goalie block the shot",
+        "Play a soccer match with friends",
+        "Sign up for a hockey league",
+        "Try lacrosse for the first time",
+        "Practice shooting on goal"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "GOAL!",
+        "Score a goal",
+        "Hockey night",
+        "Penalty kick"
+      ]
+    },
+    "typo": {
+      "en": [
+        "scroe a goal in soccre",
+        "wacth the hokcy game",
+        "practce penalty kicks",
+        "set up the goaal net"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Throw the ball in the basketball hoop",
+        "Hit the target in archery",
+        "Score a touchdown in American football",
+        "Hit a home run in baseball",
+        "Serve an ace in tennis",
+        "Bowl a strike in bowling"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Score a goal in the match",
+        "Practice penalty kicks",
+        "Watch the hockey game tonight"
+      ]
+    },
+    "test": {
+      "en": [
+        "Set up the goal net for practice",
+        "Play a soccer match with friends",
+        "Try lacrosse for the first time"
+      ]
+    }
+  }
+}

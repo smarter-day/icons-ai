@@ -1,0 +1,148 @@
+{
+  "icon": "pan-food",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "casserole",
+        "paella",
+        "pan",
+        "shallow",
+        "stew"
+      ],
+      "ru": [
+        "запеканка",
+        "паэлья",
+        "сковорода",
+        "мелкий",
+        "тушёнка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "casserole dish baked in oven",
+        "slow-cooked casserole pot",
+        "paella pan with rice and seafood",
+        "traditional Spanish paella dish",
+        "wide shallow pan for cooking",
+        "pan of vegetables sauteed",
+        "shallow pan for frying fish",
+        "shallow cooking dish",
+        "beef stew in a wide pan",
+        "vegetable stew simmering"
+      ],
+      "ru": [
+        "запеканка в форме запечённой в духовке",
+        "медленно приготовленная запеканка",
+        "сковорода паэльи с рисом и морепродуктами",
+        "традиционное испанское блюдо паэлья",
+        "широкая мелкая сковорода для готовки",
+        "сковорода с тушёными овощами",
+        "мелкая сковорода для жарки рыбы",
+        "мелкое блюдо для приготовления",
+        "говяжья тушёнка в широкой сковороде",
+        "кипящие овощи в тушёнке"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wide shallow pan with handles for paella",
+        "cooking food in an open pan",
+        "Spanish paella with saffron rice",
+        "braising pan with lid for stew",
+        "stir-fry in a wide flat pan",
+        "oven-safe casserole dish with food",
+        "shallow roasting pan for vegetables",
+        "cooking icon for food category",
+        "one-pan meal with ingredients",
+        "traditional pot cooking stew"
+      ],
+      "ru": [
+        "широкая мелкая сковорода с ручками для паэльи",
+        "приготовление еды в открытой сковороде",
+        "испанская паэлья с рисом на шафране",
+        "тушильная сковорода с крышкой для тушёнки",
+        "жаркое в широкой плоской сковороде",
+        "огнеупорное блюдо для запекания с едой",
+        "мелкий противень для овощей",
+        "иконка приготовления для категории еды",
+        "блюдо в одной сковороде с ингредиентами",
+        "традиционный горшок для тушёнки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pan food icon for the cooking section",
+        "add a paella pan to the Spanish food category",
+        "show a shallow pan for the recipe feature",
+        "use the pan food icon for the stew cooking screen"
+      ],
+      "ru": [
+        "Мне нужна иконка сковороды с едой для раздела приготовления",
+        "добавить сковороду паэльи в категорию испанской еды",
+        "показать мелкую сковороду для функции рецептов",
+        "использовать иконку сковороды с едой для экрана тушёнки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pan fodo cooking",
+        "paella pna",
+        "casserol dish",
+        "steww in pan"
+      ],
+      "ru": [
+        "скворода с едой",
+        "паэлья сквоорода",
+        "запекнака блюдо",
+        "тушёнак в сковороде"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "frying pan with long handle for eggs",
+        "pot with lid for boiling water",
+        "wok curved pan for stir-fry",
+        "baking sheet flat tray for cookies",
+        "Dutch oven for braising",
+        "saucepan for heating liquids"
+      ],
+      "ru": [
+        "сковорода с длинной ручкой для яиц",
+        "кастрюля с крышкой для кипячения воды",
+        "вок изогнутая сковорода для жарки",
+        "противень плоский для печенья",
+        "чугунный горшок для тушения",
+        "ковш для нагрева жидкостей"
+      ]
+    },
+    "valid": {
+      "en": [
+        "shallow pan with food inside",
+        "paella pan cooking icon",
+        "casserole dish food"
+      ],
+      "ru": [
+        "мелкая сковорода с едой",
+        "иконка приготовления сковороды паэльи",
+        "блюдо запеканки с едой"
+      ]
+    },
+    "test": {
+      "en": [
+        "pan food icon",
+        "cooking in wide pan",
+        "paella or stew pan"
+      ],
+      "ru": [
+        "иконка сковороды с едой",
+        "приготовление в широкой сковороде",
+        "сковорода паэльи или тушёнки"
+      ]
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "icon": "bench-tree",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bench",
+        "outside",
+        "park",
+        "picnic",
+        "tree"
+      ],
+      "ru": [
+        "скамейка",
+        "снаружи",
+        "парк",
+        "пикник",
+        "дерево"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "sit on the bench in the park",
+        "spend time outside today",
+        "walk in the park",
+        "picnic in the park",
+        "plant a tree in the yard",
+        "Park bench reading session this afternoon",
+        "Outside time after lunch in the yard",
+        "Park walk with the dog this evening",
+        "Picnic blanket and basket packed",
+        "Tree trimming service scheduled"
+      ],
+      "ru": [
+        "посидеть на скамейке в парке",
+        "провести время на улице сегодня",
+        "прогулка в парке",
+        "пикник в парке",
+        "посадить дерево во дворе",
+        "Читать на скамейке в парке после обеда",
+        "Провести время на улице после обеда",
+        "Прогулка с собакой в парке вечером",
+        "Пикниковый плед и корзина собраны",
+        "Заказан уход за деревьями"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Picnic in the park this Sunday",
+        "Morning walk in the park",
+        "Sit on the park bench and read",
+        "Take the kids to the park",
+        "Park walk with the dog",
+        "Find a quiet bench in the park",
+        "Weekend picnic with family",
+        "Afternoon at the park",
+        "Plant a tree in the garden",
+        "Park cleanup volunteer day"
+      ],
+      "ru": [
+        "Пикник в парке в это воскресенье",
+        "Утренняя прогулка в парке",
+        "Сидеть на скамейке в парке и читать",
+        "Сводить детей в парк",
+        "Прогулка в парке с собакой",
+        "Найти тихую скамейку в парке",
+        "Семейный пикник в выходные",
+        "Послеполудень в парке",
+        "Посадить дерево в саду",
+        "Добровольная уборка парка"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Let's find a nice bench in the park",
+        "I just want to sit outside for a while",
+        "Perfect day for a picnic in the park",
+        "We should take a walk in the park today"
+      ],
+      "ru": [
+        "Давай найдём красивую скамейку в парке",
+        "Просто хочу побыть немного на улице",
+        "Отличный день для пикника в парке",
+        "Нам стоит сегодня прогуляться в парке"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Picnic in the prk",
+        "Morining walk in the pak",
+        "Sit on the bech",
+        "Plantt a tree in the yadr"
+      ],
+      "ru": [
+        "Пикнк в прке",
+        "Утренняя прогулка в пракет",
+        "Посидеть на скамйке",
+        "Посдить дерево во двар"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Hike through the forest",
+        "Garden planting session",
+        "Outdoor workout in the yard",
+        "Camping at the national park",
+        "Bike ride through the park",
+        "Bird watching in the nature reserve"
+      ],
+      "ru": [
+        "Пеший поход через лес",
+        "Посадка рассады в саду",
+        "Тренировка на улице во дворе",
+        "Кемпинг в национальном парке",
+        "Велопрогулка через парк",
+        "Наблюдение за птицами в заповеднике"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Picnic on the park bench",
+        "Morning jog through the park",
+        "Find a shady bench outside"
+      ],
+      "ru": [
+        "Пикник на скамейке в парке",
+        "Утробежка через парк",
+        "Найти тенистую скамейку на улице"
+      ]
+    },
+    "test": {
+      "en": [
+        "Afternoon walk in the park",
+        "Weekend picnic under the trees",
+        "Relaxing on the park bench"
+      ],
+      "ru": [
+        "Прогулка в парке после полудня",
+        "Пикник под деревьями в выходные",
+        "Отдых на скамейке в парке"
+      ]
+    }
+  }
+}

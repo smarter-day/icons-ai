@@ -1,0 +1,148 @@
+{
+  "icon": "sportsball",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "baseball",
+        "basketball",
+        "football",
+        "sports",
+        "sportsball"
+      ],
+      "ru": [
+        "бейсбол",
+        "баскетбол",
+        "футбол",
+        "спорт",
+        "спортивный мяч"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "baseball stitched leather ball",
+        "baseball pitcher throwing fastball",
+        "basketball orange ball with black lines",
+        "basketball dribbling on court",
+        "football oval pigskin for American game",
+        "football kicked through goalposts",
+        "sports ball collection for any sport",
+        "sports ball icon for activity app",
+        "sportsball generic ball emoji",
+        "sportsball icon for sports section"
+      ],
+      "ru": [
+        "бейсбольный мяч с кожаными швами",
+        "бейсбольный питчер бросает фастбол",
+        "оранжевый баскетбольный мяч с чёрными линиями",
+        "ведение баскетбольного мяча на площадке",
+        "овальный мяч для американского футбола",
+        "удар мяча в ворота американского футбола",
+        "коллекция спортивных мячей для любого вида спорта",
+        "иконка спортивного мяча",
+        "обобщённый мяч эмодзи",
+        "иконка спортивного мяча для спортивного раздела"
+      ]
+    },
+    "regular": {
+      "en": [
+        "generic sports ball icon for any sport",
+        "baseball with red stitching on white leather",
+        "basketball orange with black grip lines",
+        "football brown oval for American sport",
+        "soccer ball black and white hexagons",
+        "tennis ball yellow fuzzy sphere",
+        "volleyball round white and blue panel",
+        "sports ball placeholder icon in app",
+        "multiple sports balls stacked together",
+        "sportsball category icon for activity tracker"
+      ],
+      "ru": [
+        "обобщённая иконка спортивного мяча",
+        "бейсбольный мяч с красными швами",
+        "оранжевый баскетбольный мяч с линиями",
+        "коричневый овальный мяч для американского футбола",
+        "футбольный мяч чёрно-белые шестиугольники",
+        "жёлтый пушистый теннисный мяч",
+        "волейбольный мяч с белыми и синими панелями",
+        "иконка-заглушка спортивного мяча в приложении",
+        "несколько спортивных мячей вместе",
+        "иконка категории спортивного мяча"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sportsball icon for the sports activity tracker",
+        "add a sports ball symbol to the games section",
+        "show a sportsball for the athletics category",
+        "use the sportsball icon for any ball sport"
+      ],
+      "ru": [
+        "мне нужна иконка спортивного мяча для трекера активности",
+        "добавь символ спортивного мяча в раздел игр",
+        "покажи спортивный мяч для категории атлетики",
+        "используй иконку спортивного мяча для любого вида спорта"
+      ]
+    },
+    "typo": {
+      "en": [
+        "genreic sports ball icon for any sport",
+        "baeskball with red stitching on leather",
+        "basektball orange with black grip lines",
+        "sporrtball category icon for tracker"
+      ],
+      "ru": [
+        "обобщённая иконкас портивного мяча",
+        "бейсбольный мач с красными швами",
+        "оранжевый баскетбольный мяч с линяими",
+        "иконка катгеории спортивного мяча"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "soccer ball specifically black and white",
+        "tennis racket for court sport",
+        "goal net for scoring in sport",
+        "trophy cup for sports championship",
+        "jersey sports shirt with number",
+        "stadium arena with seats and field"
+      ],
+      "ru": [
+        "футбольный мяч чёрно-белый",
+        "теннисная ракетка для корта",
+        "ворота для забивания в спорте",
+        "кубок трофей за чемпионат",
+        "джерси спортивная майка с номером",
+        "стадион с трибунами и полем"
+      ]
+    },
+    "valid": {
+      "en": [
+        "generic sports ball icon",
+        "basketball orange ball for sport",
+        "sports activity ball icon"
+      ],
+      "ru": [
+        "обобщённая иконка спортивного мяча",
+        "оранжевый баскетбольный мяч",
+        "иконка спортивного мяча"
+      ]
+    },
+    "test": {
+      "en": [
+        "baseball with red stitching",
+        "sportsball placeholder for sport category",
+        "football oval ball icon"
+      ],
+      "ru": [
+        "бейсбольный мяч с красными швами",
+        "заглушка спортивного мяча",
+        "овальный мяч американского футбола"
+      ]
+    }
+  }
+}

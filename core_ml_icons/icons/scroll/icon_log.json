@@ -1,0 +1,172 @@
+{
+  "icon": "scroll",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Dungeons & Dragons",
+        "announcement",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "paper",
+        "scholar",
+        "script",
+        "scroll"
+      ],
+      "ru": [
+        "Dungeons & Dragons",
+        "объявление",
+        "d&d",
+        "dnd",
+        "фэнтези",
+        "бумага",
+        "учёный",
+        "скрипт",
+        "свиток"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Dungeons and Dragons quest scroll unrolled",
+        "D&D dungeon master reading scroll",
+        "announcement written on rolled parchment scroll",
+        "royal announcement on wax-sealed scroll",
+        "d&d spell scroll used in combat",
+        "d&d magical item scroll",
+        "dnd character reading ancient scroll",
+        "dnd lore written on aged scroll",
+        "fantasy quest scroll with map inside",
+        "fantasy world ancient scroll artifact",
+        "paper scroll unrolled to reveal message",
+        "old paper scroll with faded writing",
+        "scholar reading ancient scroll in library",
+        "scholar transcribing scroll text",
+        "script written on parchment scroll",
+        "movie script rolled into scroll shape",
+        "wax-sealed scroll tied with ribbon",
+        "scroll unrolling to show decree"
+      ],
+      "ru": [
+        "свиток квеста Dungeons and Dragons развёрнут",
+        "Мастер подземелий читает свиток D&D",
+        "объявление на развёрнутом пергаментном свитке",
+        "королевское объявление на свитке с сургучной печатью",
+        "свиток заклинания D&D в бою",
+        "магический предмет свиток в D&D",
+        "персонаж dnd читает древний свиток",
+        "лор dnd написан на старом свитке",
+        "свиток квеста фэнтези с картой внутри",
+        "артефакт-свиток из фэнтезийного мира",
+        "бумажный свиток развёрнут показывает послание",
+        "старый бумажный свиток с выцветшими письменами",
+        "учёный читает древний свиток в библиотеке",
+        "учёный переписывает текст свитка",
+        "сценарий написан на пергаментном свитке",
+        "сценарий фильма свёрнут в свиток",
+        "свиток с сургучной печатью перевязан лентой",
+        "свиток разворачивается и показывает декрет"
+      ]
+    },
+    "regular": {
+      "en": [
+        "ancient parchment scroll tied with ribbon",
+        "rolled-up paper scroll with wax seal",
+        "D&D spell scroll for magic user",
+        "royal decree written on formal scroll",
+        "Torah scroll in synagogue ceremony",
+        "historical scroll discovered in cave",
+        "fantasy treasure map inside a scroll",
+        "graduation diploma rolled into scroll",
+        "announcement scroll posted on village notice board",
+        "scholar reading ancient scroll by candlelight"
+      ],
+      "ru": [
+        "древний пергаментный свиток перевязан лентой",
+        "скрученный бумажный свиток с сургучной печатью",
+        "свиток заклинания D&D для мага",
+        "королевский декрет на официальном свитке",
+        "свиток Торы на синагогальной церемонии",
+        "исторический свиток найден в пещере",
+        "карта сокровищ фэнтези внутри свитка",
+        "диплом свёрнут в свиток",
+        "свиток с объявлением на деревенской доске",
+        "учёный читает древний свиток при свечах"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a scroll icon for the fantasy RPG game",
+        "add a parchment scroll symbol to the quest log",
+        "show a scroll for the announcement feature",
+        "use the scroll icon for the ancient documents section"
+      ],
+      "ru": [
+        "мне нужна иконка свитка для фэнтезийной RPG",
+        "добавь символ пергаментного свитка в журнал квестов",
+        "покажи свиток для функции объявления",
+        "используй иконку свитка для раздела древних документов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "anceint parchment scroll tied with ribbon",
+        "D&D spells croll for magic user",
+        "royal decre written on formal scroll",
+        "hsitorical scroll discovered in cave"
+      ],
+      "ru": [
+        "дрневний пергаментный свиток с лентой",
+        "свиток зклинания D&D для мага",
+        "королевский декрет на официальном свтике",
+        "исторческий свиток найден в пещере"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "open book with text pages spread out",
+        "rolled-up map tied with string",
+        "letter envelope sealed with wax stamp",
+        "parchment page lying flat on desk",
+        "book of spells grimoire with symbols",
+        "certificate document with seal and ribbon"
+      ],
+      "ru": [
+        "открытая книга с разворотом страниц",
+        "свёрнутая карта перевязана нитью",
+        "конверт письма запечатан сургучом",
+        "пергаментная страница лежит на столе",
+        "книга заклинаний гримуар с символами",
+        "документ-сертификат с печатью и лентой"
+      ]
+    },
+    "valid": {
+      "en": [
+        "parchment scroll tied with ribbon",
+        "D&D spell scroll for fantasy RPG",
+        "announcement written on paper scroll"
+      ],
+      "ru": [
+        "пергаментный свиток перевязан лентой",
+        "свиток заклинания D&D для фэнтезийной RPG",
+        "объявление на бумажном свитке"
+      ]
+    },
+    "test": {
+      "en": [
+        "ancient rolled scroll with wax seal",
+        "fantasy quest scroll artifact",
+        "graduation diploma as rolled scroll"
+      ],
+      "ru": [
+        "древний свиток с сургучной печатью",
+        "артефакт свиток квеста в фэнтези",
+        "диплом свёрнут в свиток"
+      ]
+    }
+  }
+}

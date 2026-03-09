@@ -1,0 +1,87 @@
+{
+  "icon": "floppy-disk",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "computer",
+        "disk",
+        "download",
+        "floppy",
+        "floppy disk"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Save the file on the computer",
+        "Fix the computer storage",
+        "Save data to a disk",
+        "Back up data to a disk",
+        "Download the file to the device",
+        "Download the update",
+        "Find an old floppy drive",
+        "Collect retro floppy disks",
+        "Save to a floppy disk",
+        "Transfer files via floppy disk"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Save the document before closing",
+        "Click save to keep the changes",
+        "Back up the project file",
+        "Download the installer file",
+        "Collect old floppy disks",
+        "Find a USB floppy drive reader",
+        "Transfer old files from floppy disk",
+        "Save work frequently",
+        "Download and save the attachment",
+        "Preserve old computer files"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Save the file",
+        "Hit save now",
+        "Old floppy disk",
+        "Download it"
+      ]
+    },
+    "typo": {
+      "en": [
+        "sav the documnet",
+        "donwload the flie",
+        "backup to a dkis",
+        "old floppy diks"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Save to a USB flash drive",
+        "Upload to cloud storage",
+        "Burn data to a CD",
+        "Copy to an external hard drive",
+        "Save to an SD card",
+        "Upload the file to Google Drive"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Save the document",
+        "Download the file",
+        "Back up to a disk"
+      ]
+    },
+    "test": {
+      "en": [
+        "Click save before closing",
+        "Transfer files from floppy disk",
+        "Download and save the file"
+      ]
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "icon": "calculator",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Pocket Calculator",
+        "abacus",
+        "addition",
+        "arithmetic",
+        "counting",
+        "math",
+        "multiplication",
+        "subtraction"
+      ],
+      "ru": [
+        "карманный калькулятор",
+        "счёты",
+        "сложение",
+        "арифметика",
+        "счёт",
+        "математика",
+        "умножение",
+        "вычитание"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Pocket calculator for quick sums",
+        "Abacus alternative digital calculator",
+        "Addition of the monthly expenses",
+        "Arithmetic check on the invoice",
+        "Counting items in the inventory",
+        "Math homework help needed",
+        "Multiplication table practice",
+        "Subtraction of the discounts",
+        "Pocket calculator batteries replaced",
+        "Abacus and calculator both on the desk",
+        "Column addition for the budget spreadsheet",
+        "Arithmetic skills refresher course",
+        "Counting on fingers won't cut it here",
+        "Math tutoring session booked for Tuesday",
+        "Multiplication practice for the kids",
+        "Subtraction from the total account balance"
+      ],
+      "ru": [
+        "Карманный калькулятор для быстрых вычислений",
+        "Цифровой калькулятор как альтернатива счётам",
+        "Сложение ежемесячных расходов",
+        "Арифметическая проверка счёта",
+        "Подсчёт товаров в инвентаре",
+        "Помощь с математическим домашним заданием",
+        "Практика таблицы умножения",
+        "Вычитание скидок",
+        "Заменить батарейки в карманном калькуляторе",
+        "Счёты и калькулятор на одном столе",
+        "Сложение в столбик для бюджета",
+        "Курс повышения навыков арифметики",
+        "На пальцах не считается — нужен калькулятор",
+        "Записан на занятие по математике во вторник",
+        "Упражнения по таблице умножения для детей",
+        "Вычитание из общего баланса счёта"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Calculate the total before checkout",
+        "Split the bill on the calculator",
+        "Use the calculator app for taxes",
+        "Quick math for the shopping budget",
+        "Tip calculator at the restaurant",
+        "Loan repayment calculation",
+        "Calculate the discount amount",
+        "Simple sums on the calculator",
+        "Scientific calculator for the exam",
+        "Unit conversion calculation"
+      ],
+      "ru": [
+        "Посчитать итог перед оплатой",
+        "Разделить счёт на калькуляторе",
+        "Использовать калькулятор для налогов",
+        "Быстрая математика для бюджета покупок",
+        "Калькулятор чаевых в ресторане",
+        "Расчёт выплат по кредиту",
+        "Рассчитать сумму скидки",
+        "Простые вычисления на калькуляторе",
+        "Научный калькулятор для экзамена",
+        "Расчёт единиц измерения"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "just plug it into the calculator",
+        "let me crunch the numbers quick",
+        "calculator says that's way over budget",
+        "doing the math in my head"
+      ],
+      "ru": [
+        "просто введи в калькулятор",
+        "дай быстро посчитаю цифры",
+        "калькулятор говорит это далеко за бюджетом",
+        "считаю в уме"
+      ]
+    },
+    "typo": {
+      "en": [
+        "caluculator for the tax return",
+        "matth homework with the calculater",
+        "arithmatic problem to solve",
+        "calclate the total price"
+      ],
+      "ru": [
+        "калькулятор для налоговой декларции",
+        "математика дома с калькулятром",
+        "арифметическая задча для решения",
+        "посчитать общую цену"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Abacus beads for mental arithmetic practice",
+        "Spreadsheet formula for the data",
+        "Mental math without any device",
+        "Counting frame with wooden beads",
+        "Run numbers in the spreadsheet app",
+        "Graph the equation on the math tool"
+      ],
+      "ru": [
+        "Счёты с бусинами для устного счёта",
+        "Формула в таблице для данных",
+        "Устный счёт без устройств",
+        "Счётная рамка с деревянными бусинами",
+        "Запустить числа в таблице",
+        "График уравнения в математическом инструменте"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Calculator for the mortgage payment",
+        "Do the math before committing",
+        "Quick calculation for the invoice"
+      ],
+      "ru": [
+        "Калькулятор для ипотечного платежа",
+        "Посчитать перед тем как соглашаться",
+        "Быстрый расчёт для счёта"
+      ]
+    },
+    "test": {
+      "en": [
+        "Budget calculation for the trip",
+        "Split the restaurant bill",
+        "Tax calculation this quarter"
+      ],
+      "ru": [
+        "Расчёт бюджета поездки",
+        "Разделить счёт в ресторане",
+        "Налоговый расчёт в этом квартале"
+      ]
+    }
+  }
+}

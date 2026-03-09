@@ -1,0 +1,154 @@
+{
+  "icon": "power-off",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Power Symbol",
+        "cancel",
+        "computer",
+        "on",
+        "reboot",
+        "restart"
+      ],
+      "ru": [
+        "символ питания",
+        "отмена",
+        "компьютер",
+        "включить",
+        "перезагрузка",
+        "перезапуск"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "universal power symbol on electronic devices",
+        "circular power symbol with vertical line",
+        "cancel and shut down the system",
+        "cancel current operation and power off",
+        "computer power button to turn off",
+        "computer shutdown sequence initiated",
+        "toggle on and off switch for device",
+        "power on indicator button",
+        "reboot the system after update",
+        "force reboot a frozen device",
+        "restart the computer to apply changes",
+        "soft restart after system crash"
+      ],
+      "ru": [
+        "универсальный символ питания на электронных устройствах",
+        "круглый символ питания с вертикальной линией",
+        "отменить и выключить систему",
+        "отменить текущую операцию и отключить питание",
+        "кнопка питания компьютера для выключения",
+        "последовательность выключения компьютера",
+        "переключатель вкл/выкл для устройства",
+        "кнопка-индикатор включения",
+        "перезагрузить систему после обновления",
+        "принудительная перезагрузка зависшего устройства",
+        "перезапустить компьютер для применения изменений",
+        "мягкий перезапуск после сбоя системы"
+      ]
+    },
+    "regular": {
+      "en": [
+        "circular power button with vertical line through the top",
+        "device power toggle on and off symbol",
+        "system shutdown button on control panel",
+        "electronic device sleep or power-off button",
+        "universal on/off symbol used in electronics",
+        "laptop power button at the corner of the keyboard",
+        "power indicator light on computer tower",
+        "standby mode power icon for smart devices",
+        "force shutdown button held down for five seconds",
+        "smart device power management symbol"
+      ],
+      "ru": [
+        "круглая кнопка питания с вертикальной линией наверху",
+        "переключатель питания устройства вкл/выкл",
+        "кнопка выключения системы на панели управления",
+        "кнопка сна или отключения питания электроустройства",
+        "универсальный символ вкл/выкл в электронике",
+        "кнопка питания ноутбука в углу клавиатуры",
+        "индикатор питания на системном блоке компьютера",
+        "значок режима ожидания для умных устройств",
+        "кнопка принудительного выключения удерживается 5 секунд",
+        "символ управления питанием умного устройства"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a power-off icon for the device settings screen",
+        "add a shutdown symbol to the system tray area",
+        "show a power button for the device control section",
+        "use the power-off icon for the logout feature"
+      ],
+      "ru": [
+        "мне нужна иконка выключения для экрана настроек устройства",
+        "добавь символ завершения работы в системный трей",
+        "покажи кнопку питания для раздела управления устройством",
+        "используй иконку отключения питания для функции выхода"
+      ]
+    },
+    "typo": {
+      "en": [
+        "powr button to shut down the computer",
+        "restat the computer system",
+        "shutdown nad restart options",
+        "powre off the device"
+      ],
+      "ru": [
+        "кнопка питния для выключения компьютера",
+        "перезапсутить систему компьютера",
+        "завершение работы иперезапуск",
+        "отлкючить питание устройства"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "circular refresh arrow for reloading web content",
+        "sync symbol with two rotating arrows",
+        "wifi toggle button to enable wireless connection",
+        "airplane mode switch disabling all connections",
+        "battery percentage indicator on mobile device",
+        "screen brightness slider control for display"
+      ],
+      "ru": [
+        "круглая стрелка обновления для перезагрузки веб-контента",
+        "символ синхронизации с двумя вращающимися стрелками",
+        "кнопка включения Wi-Fi для беспроводного подключения",
+        "переключатель режима полёта отключает все соединения",
+        "индикатор заряда батареи на мобильном устройстве",
+        "ползунок яркости экрана дисплея"
+      ]
+    },
+    "valid": {
+      "en": [
+        "power off button to shut down the device",
+        "universal power symbol on electronics",
+        "circular on/off toggle icon for devices"
+      ],
+      "ru": [
+        "кнопка отключения питания для выключения устройства",
+        "универсальный символ питания на электронике",
+        "круглая иконка переключения вкл/выкл для устройств"
+      ]
+    },
+    "test": {
+      "en": [
+        "shutdown power button for computer",
+        "device power off symbol",
+        "power toggle indicator button"
+      ],
+      "ru": [
+        "кнопка питания для выключения компьютера",
+        "символ отключения питания устройства",
+        "кнопка переключения питания-индикатор"
+      ]
+    }
+  }
+}

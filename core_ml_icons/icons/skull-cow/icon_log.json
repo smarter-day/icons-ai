@@ -1,0 +1,166 @@
+{
+  "icon": "skull-cow",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "barren",
+        "cowboy",
+        "dead",
+        "desert",
+        "horns",
+        "old west",
+        "skeleton",
+        "western"
+      ],
+      "ru": [
+        "безжизненный",
+        "ковбой",
+        "мёртвый",
+        "пустыня",
+        "рога",
+        "Старый Запад",
+        "скелет",
+        "вестерн"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "barren desert with bleached cow skull",
+        "barren wasteland skull on dry ground",
+        "cowboy hat beside cow skull in desert",
+        "cowboy western skull decoration",
+        "dead animal skull bleached by sun",
+        "dead cow skull in arid landscape",
+        "desert heat bleaching cow skull white",
+        "desert scene with animal skull",
+        "longhorn cow skull with curved horns",
+        "horns on weathered skull",
+        "old west saloon with skull decor",
+        "old west ghost town skull symbol",
+        "animal skeleton skull in desert",
+        "skeleton remains of cow in wasteland",
+        "western movie cow skull scenery",
+        "western theme skull decoration"
+      ],
+      "ru": [
+        "безжизненная пустыня с выбеленным черепом коровы",
+        "череп на выжженной пустоши",
+        "ковбойская шляпа рядом с черепом коровы",
+        "ковбойский вестерн декор черепа",
+        "череп мёртвого животного выбелен солнцем",
+        "череп коровы в засушливом пейзаже",
+        "пустынный зной выбеливает череп коровы",
+        "пустынная сцена с черепом животного",
+        "череп длиннорогой коровы с изогнутыми рогами",
+        "рога на выветренном черепе",
+        "салун старого запада с декором черепа",
+        "символ черепа призрачного городка",
+        "скелет животного череп в пустыне",
+        "останки коровы в пустоши",
+        "пейзаж с черепом коровы в вестерне",
+        "декор черепа в стиле вестерна"
+      ]
+    },
+    "regular": {
+      "en": [
+        "bleached cow skull with long horns in desert",
+        "western cowboy decor cow skull on wall",
+        "old west ghost town skull symbol",
+        "Texas longhorn skull hanging in saloon",
+        "cow skull as desert scenery prop",
+        "death valley landscape with animal skull",
+        "cow skull tattoo western style",
+        "skull-cow icon for wild west game",
+        "dried bleached bovine skull art",
+        "cow skull with flowers day of the dead"
+      ],
+      "ru": [
+        "выбеленный череп коровы с длинными рогами в пустыне",
+        "ковбойский западный декор череп коровы на стене",
+        "символ черепа призрачного городка старого запада",
+        "череп техасского лонгхорна в салуне",
+        "череп коровы как реквизит пустынного пейзажа",
+        "пейзаж Долины смерти с черепом животного",
+        "татуировка черепа коровы в стиле вестерна",
+        "иконка черепа коровы для игры дикого запада",
+        "высушенный выбеленный арт черепа бычьей головы",
+        "череп коровы с цветами День мёртвых"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a skull-cow icon for the western game",
+        "add a cow skull symbol to the desert or western section",
+        "show a skull-cow for the old west theme",
+        "use the skull-cow icon for the cowboy feature"
+      ],
+      "ru": [
+        "мне нужна иконка черепа коровы для вестерн-игры",
+        "добавь символ черепа коровы в раздел пустыни или вестерна",
+        "покажи череп коровы для темы старого запада",
+        "используй иконку черепа коровы для ковбойской функции"
+      ]
+    },
+    "typo": {
+      "en": [
+        "bleachde cow skull with long horns",
+        "wetsern cowboy decor skull on wall",
+        "old westt ghost town skull symbol",
+        "Texsa longhorn skull in saloon"
+      ],
+      "ru": [
+        "выбеленный черп коровы с рогами",
+        "ковбойский вестен декор череп на стене",
+        "символ черепа призрачонго городка",
+        "череп техасского лонгхора в салуне"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "human skull and crossbones danger symbol",
+        "animal skull generic without horns",
+        "cactus plant in desert landscape",
+        "cowboy hat western style headwear",
+        "tumbleweed rolling in desert wind",
+        "horseshoe good luck symbol"
+      ],
+      "ru": [
+        "человеческий череп и кости символ опасности",
+        "общий череп животного без рогов",
+        "кактус в пустынном пейзаже",
+        "ковбойская шляпа головной убор",
+        "перекати-поле в пустынном ветре",
+        "подкова символ удачи"
+      ]
+    },
+    "valid": {
+      "en": [
+        "bleached cow skull with horns in desert",
+        "western cowboy skull decoration",
+        "old west skull-cow symbol"
+      ],
+      "ru": [
+        "выбеленный череп коровы с рогами",
+        "ковбойский декор черепа",
+        "символ черепа коровы старого запада"
+      ]
+    },
+    "test": {
+      "en": [
+        "Texas longhorn skull on wall",
+        "desert cow skull icon",
+        "skull-cow for western game theme"
+      ],
+      "ru": [
+        "череп техасского лонгхорна на стене",
+        "иконка черепа коровы в пустыне",
+        "череп для темы вестерна"
+      ]
+    }
+  }
+}

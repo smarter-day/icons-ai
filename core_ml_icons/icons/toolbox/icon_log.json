@@ -1,0 +1,202 @@
+{
+  "icon": "toolbox",
+  "rows": {
+    "train_en": 66,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "admin",
+        "chest",
+        "configuration",
+        "container",
+        "equipment",
+        "fix",
+        "maintenance",
+        "mechanic",
+        "modify",
+        "repair",
+        "settings",
+        "tool",
+        "toolbox",
+        "tools"
+      ],
+      "ru": [
+        "администратор",
+        "сундук",
+        "конфигурация",
+        "контейнер",
+        "оборудование",
+        "починить",
+        "обслуживание",
+        "механик",
+        "изменить",
+        "ремонт",
+        "настройки",
+        "инструмент",
+        "ящик для инструментов",
+        "инструменты"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "admin toolbox system settings",
+        "admin control panel toolbox",
+        "chest of tools storage",
+        "tool chest workshop drawer",
+        "configuration toolbox settings panel",
+        "configuration tool app settings",
+        "container toolbox organize tools",
+        "container for equipment storage",
+        "equipment toolbox field work",
+        "equipment bag toolbox",
+        "fix it toolbox at hand",
+        "fix problem toolbox icon",
+        "maintenance toolbox schedule",
+        "maintenance kit toolbox",
+        "mechanic toolbox car repair",
+        "mechanic tool chest garage",
+        "modify settings toolbox option",
+        "modify configuration toolbox",
+        "repair toolbox on site",
+        "repair kit toolbox emergency",
+        "settings toolbox app configuration",
+        "app settings toolbox gear",
+        "tool inside toolbox wrench",
+        "tool set in toolbox",
+        "toolbox open full of tools",
+        "classic red toolbox",
+        "tools organized in toolbox",
+        "tools selection toolbox variety"
+      ],
+      "ru": [
+        "панель инструментов администратора настройки",
+        "панель управления администратора",
+        "сундук с инструментами хранение",
+        "ящик инструментов мастерская ящики",
+        "панель настройки конфигурации",
+        "инструмент настройки приложения",
+        "контейнер ящик организация инструментов",
+        "контейнер для хранения оборудования",
+        "ящик инструментов полевые работы",
+        "сумка оборудования ящик",
+        "ящик починки под рукой",
+        "иконка ящика для решения проблем",
+        "расписание обслуживания ящик",
+        "набор обслуживания ящик",
+        "ящик механика ремонт авто",
+        "ящик инструментов механика гараж",
+        "изменить настройки ящик опция",
+        "изменить конфигурацию ящик",
+        "ящик ремонта на месте",
+        "аварийный набор ящик ремонта",
+        "настройки приложения панель инструментов шестерня",
+        "ящик конфигурации приложения",
+        "инструмент внутри ящика гаечный ключ",
+        "набор инструментов в ящике",
+        "открытый ящик полный инструментов",
+        "классический красный ящик инструментов",
+        "организованные инструменты в ящике",
+        "выбор инструментов ящик разнообразие"
+      ]
+    },
+    "regular": {
+      "en": [
+        "red metal toolbox with tray of tools",
+        "mechanic's chest drawer with sockets",
+        "portable toolbox for home repair",
+        "digital toolbox app developer tools",
+        "admin settings toolbox configuration",
+        "toolbox open showing wrenches pliers",
+        "carpenter toolbox wooden tray",
+        "heavy duty steel toolbox job site",
+        "toolbox organizer drawer dividers",
+        "mini toolbox emergency kit car"
+      ],
+      "ru": [
+        "красный металлический ящик инструментов с лотком",
+        "ящик механика ящики с гайковёртами",
+        "переносной ящик инструментов для домашнего ремонта",
+        "цифровой ящик инструментов разработчика приложений",
+        "ящик настроек администратора конфигурации",
+        "открытый ящик с гаечными ключами плоскогубцами",
+        "деревянный ящик плотника",
+        "прочный стальной ящик для стройплощадки",
+        "органайзер ящика разделители ящиков",
+        "мини-ящик аварийный набор авто"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a toolbox icon for the settings section",
+        "add a tools symbol to the admin panel",
+        "show a toolbox for the maintenance category",
+        "use the toolbox icon for the repair feature"
+      ],
+      "ru": [
+        "нужна иконка ящика инструментов для раздела настроек",
+        "добавь символ инструментов в панель администратора",
+        "покажи ящик инструментов для категории обслуживания",
+        "используй иконку ящика инструментов для функции ремонта"
+      ]
+    },
+    "typo": {
+      "en": [
+        "toolobx settings admin",
+        "toobox mechanic repair",
+        "maintenace toolbox kit",
+        "configuartion toolbox"
+      ],
+      "ru": [
+        "ящик инструментов настройки",
+        "ящик механника ремонт",
+        "обслуживание ящик набор",
+        "конфигурция ящик"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "wrench single tool icon",
+        "screwdriver single repair tool",
+        "hammer single hand tool",
+        "gear settings cog icon",
+        "briefcase bag professional",
+        "backpack bag carry tools"
+      ],
+      "ru": [
+        "гаечный ключ одиночный инструмент",
+        "отвёртка инструмент ремонта",
+        "молоток ручной инструмент",
+        "шестерня настройки иконка",
+        "портфель сумка профессиональная",
+        "рюкзак сумка переноска инструментов"
+      ]
+    },
+    "valid": {
+      "en": [
+        "toolbox settings icon",
+        "mechanic toolbox symbol",
+        "tools container icon"
+      ],
+      "ru": [
+        "иконка ящика настроек",
+        "символ ящика механика",
+        "иконка контейнера инструментов"
+      ]
+    },
+    "test": {
+      "en": [
+        "toolbox icon repair",
+        "admin toolbox symbol",
+        "tools chest icon"
+      ],
+      "ru": [
+        "иконка ящика ремонт",
+        "символ ящика администратора",
+        "иконка сундука инструментов"
+      ]
+    }
+  }
+}

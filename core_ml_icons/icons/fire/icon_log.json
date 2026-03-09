@@ -1,0 +1,96 @@
+{
+  "icon": "fire",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "burn",
+        "caliente",
+        "fire",
+        "flame",
+        "heat",
+        "hot",
+        "popular",
+        "tool"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "burn the wood with fire",
+        "fire burning the logs",
+        "caliente fire keeping warm",
+        "caliente flame in the heat",
+        "fire burning at the campsite",
+        "fire icon for the app",
+        "flame of the candle",
+        "flame burning bright",
+        "heat from the fire",
+        "fire heat warming the room",
+        "hot fire on the grill",
+        "hot flame burning",
+        "popular trending fire icon",
+        "fire symbol for popular content",
+        "fire as a tool for cooking",
+        "tool fire for the campsite"
+      ]
+    },
+    "regular": {
+      "en": [
+        "orange flame burning bright",
+        "campfire flames crackling at night",
+        "fire emoji for hot or trending",
+        "fire burning in the fireplace",
+        "flame icon for a spicy dish",
+        "wildfire spreading through the forest",
+        "fire on the gas stove burner",
+        "fire hazard warning symbol",
+        "fire showing popular or viral content",
+        "birthday candle flame on the cake"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a fire icon for the trending section",
+        "add a flame symbol to the hot items list",
+        "show a fire for the spicy food category",
+        "use the fire icon for the streak counter"
+      ]
+    },
+    "typo": {
+      "en": [
+        "frie burning bright",
+        "campfier flames",
+        "flmae of the candle",
+        "populr fire icon"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "campfire with logs burning at the campsite",
+        "explosion with a burst of light",
+        "sun radiating heat in the sky",
+        "lava flowing from the volcano",
+        "candle flame on the dinner table",
+        "sparkler held at the celebration"
+      ]
+    },
+    "valid": {
+      "en": [
+        "fire flame burning bright",
+        "fire icon for trending",
+        "flame for hot content"
+      ]
+    },
+    "test": {
+      "en": [
+        "fire icon",
+        "flame symbol",
+        "fire for popular"
+      ]
+    }
+  }
+}

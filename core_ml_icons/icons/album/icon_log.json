@@ -1,0 +1,178 @@
+{
+  "icon": "album",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "computer",
+        "computer disk",
+        "disk",
+        "library",
+        "minidisk",
+        "music",
+        "optical",
+        "record",
+        "song",
+        "vinyl"
+      ],
+      "ru": [
+        "компьютер",
+        "компьютерный диск",
+        "диск",
+        "библиотека",
+        "минидиск",
+        "музыка",
+        "оптический",
+        "пластинка",
+        "песня",
+        "винил"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Add songs to playlist",
+        "Download music album",
+        "Find a good record store",
+        "Back up music collection",
+        "Rate the new album",
+        "Browse vinyl collection",
+        "Import CD into iTunes",
+        "Listen to the new release",
+        "Catalog music discs",
+        "Stream the album",
+        "Transfer files off the old computer",
+        "Back up data to an external disk",
+        "Free up space on the hard disk",
+        "Organize the media library",
+        "Digitize the old minidisk recordings",
+        "Make a music playlist for the drive",
+        "Rip the CD to optical format",
+        "Find that record from the 80s",
+        "Learn the lyrics of that new song",
+        "Play vinyl records tonight"
+      ],
+      "ru": [
+        "Добавить песни в плейлист",
+        "Скачать музыкальный альбом",
+        "Найти хороший магазин пластинок",
+        "Сделать резервную копию музыкальной коллекции",
+        "Оценить новый альбом",
+        "Просмотреть коллекцию виниловых пластинок",
+        "Импортировать CD в iTunes",
+        "Послушать новый релиз",
+        "Каталогизировать музыкальные диски",
+        "Стримить альбом",
+        "Перенести файлы со старого компьютера",
+        "Сделать резервную копию на внешний диск",
+        "Освободить место на жёстком диске",
+        "Организовать медиатеку",
+        "Оцифровать старые записи на минидиск",
+        "Составить музыкальный плейлист для поездки",
+        "Скопировать CD на оптический носитель",
+        "Найти ту пластинку из 80-х",
+        "Выучить слова той новой песни",
+        "Послушать виниловые пластинки сегодня вечером"
+      ]
+    },
+    "regular": {
+      "en": [
+        "I want to listen to something",
+        "Check out that new album everyone's talking about",
+        "Find something good to play",
+        "Browse through my music",
+        "Lsiten to the album",
+        "Oranize music libraray",
+        "Downlod the ablum",
+        "Sort musicc collection",
+        "Listen to podcast",
+        "Watch music video"
+      ],
+      "ru": [
+        "Хочу что-нибудь послушать",
+        "Посмотреть тот новый альбом о котором все говорят",
+        "Найти что-нибудь хорошее послушать",
+        "Полистать свою музыку",
+        "Прослушать алтбом",
+        "Органзовать музыкальную библиотеку",
+        "Скачтаь альбом",
+        "Отсортировть коллекцию",
+        "Послушать подкаст",
+        "Посмотреть клип"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Buy concert tickets",
+        "Create playlist",
+        "Burn a CD",
+        "Add to favorites"
+      ],
+      "ru": [
+        "Купить билеты на концерт",
+        "Создать плейлист",
+        "Записать CD",
+        "Добавить в избранное"
+      ]
+    },
+    "typo": {
+      "en": [
+        "import music from computer",
+        "rip a computer disk",
+        "organize disk library",
+        "organize music library"
+      ],
+      "ru": [
+        "импортировать музыку с компьютера",
+        "оцифровать компьютерный диск",
+        "организовать библиотеку дисков",
+        "организовать музыкальную библиотеку"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "digitize my minidisk collection",
+        "music organization",
+        "optical disc collection",
+        "vinyl record collection",
+        "find a song",
+        "play vinyl tonight"
+      ],
+      "ru": [
+        "оцифровать коллекцию минидисков",
+        "организовать музыку",
+        "коллекция оптических дисков",
+        "коллекция виниловых пластинок",
+        "найти песню",
+        "послушать винил сегодня вечером"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Save the songs I discovered today",
+        "Review what's in my music library",
+        "Pick an album for the road trip"
+      ],
+      "ru": [
+        "Сохранить песни которые открыл сегодня",
+        "Пересмотреть что есть в музыкальной библиотеке",
+        "Выбрать альбом для поездки"
+      ]
+    },
+    "test": {
+      "en": [
+        "Find something new to listen to",
+        "Grab that record I wanted",
+        "Music for the evening"
+      ],
+      "ru": [
+        "Найти что-нибудь новое послушать",
+        "Забрать ту пластинку которую хотел",
+        "Музыка на вечер"
+      ]
+    }
+  }
+}

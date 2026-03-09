@@ -1,0 +1,84 @@
+{
+  "icon": "cloud-music",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "download",
+        "music",
+        "spotify",
+        "streaming"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Download the album for offline listening",
+        "Download music before the flight",
+        "Listen to music on the go",
+        "Discover new music today",
+        "Subscribe to Spotify premium",
+        "Make a Spotify playlist",
+        "Stream music while working",
+        "Find a music streaming service"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Make a playlist for the gym",
+        "Listen to music while cooking",
+        "Discover new artists this week",
+        "Download songs for offline listening",
+        "Subscribe to a music streaming service",
+        "Create a road trip playlist",
+        "Sync music library to phone",
+        "Find background music for work",
+        "Share a playlist with friends",
+        "Explore a new music genre"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Need some tunes",
+        "Download that song",
+        "Music vibes",
+        "Playlist time"
+      ]
+    },
+    "typo": {
+      "en": [
+        "dowload the song",
+        "stremaing music app",
+        "subsricbe to spotify",
+        "lsiten to music online"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Watch a music video on YouTube",
+        "Buy a concert ticket",
+        "Listen to a podcast episode",
+        "Play music from a CD",
+        "Tune in to the radio station",
+        "Watch a live music stream"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Stream music while working",
+        "Download a playlist for offline use",
+        "Listen to new music releases"
+      ]
+    },
+    "test": {
+      "en": [
+        "Make a gym workout playlist",
+        "Subscribe to music streaming",
+        "Find new songs online"
+      ]
+    }
+  }
+}

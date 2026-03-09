@@ -1,0 +1,160 @@
+{
+  "icon": "bus",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bus",
+        "oncoming",
+        "oncoming bus",
+        "public transportation",
+        "transportation",
+        "travel",
+        "vehicle"
+      ],
+      "ru": [
+        "автобус",
+        "встречный",
+        "встречный автобус",
+        "общественный транспорт",
+        "транспорт",
+        "поездка",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Catch the bus on time this morning",
+        "Oncoming traffic warning on the route",
+        "Watch for the oncoming bus at the stop",
+        "Public transportation pass renewal",
+        "Transportation options for the commute",
+        "Travel by bus to the airport",
+        "Shared vehicle for the group trip",
+        "Bus number 12 to the city center",
+        "Oncoming lane blocked by road construction",
+        "Careful of the oncoming bus at the bend",
+        "Top up the public transportation card",
+        "Transportation budget review for the team",
+        "Travel by bus across the country",
+        "Company vehicle booked for the event"
+      ],
+      "ru": [
+        "Успеть на автобус сегодня утром",
+        "Предупреждение о встречном движении",
+        "Следить за встречным автобусом на остановке",
+        "Продление проездного на общественный транспорт",
+        "Варианты транспорта для поездки",
+        "Доехать на автобусе до аэропорта",
+        "Общий транспорт для групповой поездки",
+        "Автобус номер 12 до центра города",
+        "Встречная полоса перекрыта из-за стройки",
+        "Осторожно встречный автобус на повороте",
+        "Пополнить проездной на общественный транспорт",
+        "Пересмотр транспортного бюджета команды",
+        "Поездка на автобусе через всю страну",
+        "Корпоративный транспорт забронирован на мероприятие"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Bus stop near the apartment",
+        "Take the bus to work today",
+        "Check the bus schedule",
+        "Next bus in 10 minutes",
+        "Bus pass loaded and ready",
+        "School bus pickup time",
+        "City bus route planner",
+        "Late for the bus again",
+        "Night bus after the concert",
+        "Bus ticket for the weekend trip"
+      ],
+      "ru": [
+        "Автобусная остановка рядом с домом",
+        "Ехать на автобусе на работу сегодня",
+        "Проверить расписание автобуса",
+        "Следующий автобус через 10 минут",
+        "Проездной загружен и готов",
+        "Время отправления школьного автобуса",
+        "Планировщик маршрута городского автобуса",
+        "Снова опоздал на автобус",
+        "Ночной автобус после концерта",
+        "Билет на автобус для поездки на выходных"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "missing the bus is the worst",
+        "just hopped on the bus",
+        "waiting at the bus stop",
+        "bus or train which is faster"
+      ],
+      "ru": [
+        "опоздать на автобус — хуже некуда",
+        "только сел в автобус",
+        "жду на автобусной остановке",
+        "автобус или поезд что быстрее"
+      ]
+    },
+    "typo": {
+      "en": [
+        "caatch the buss on time",
+        "pubic transporattion route",
+        "buss scheudle check",
+        "take the buus to the station"
+      ],
+      "ru": [
+        "успеть на атвобус вовремя",
+        "маршрут общетсвенного транспорта",
+        "проверить расписание атвобуса",
+        "ехать на автбусе до станции"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Underground metro to the airport",
+        "Light rail tram across the city",
+        "Gondola lift up the mountain",
+        "Take the subway downtown",
+        "Express train not the slow bus",
+        "Trolleybus route in the city centre"
+      ],
+      "ru": [
+        "Метро до аэропорта",
+        "Лёгкий рельсовый трамвай по городу",
+        "Гондола до вершины горы",
+        "Поехать на метро в центр",
+        "Экспресс-поезд а не медленный автобус",
+        "Маршрут троллейбуса в центре города"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Bus route to the stadium",
+        "First bus of the day departs at 6am",
+        "Transfer to another bus at the hub"
+      ],
+      "ru": [
+        "Маршрут автобуса до стадиона",
+        "Первый автобус дня отправляется в 6 утра",
+        "Пересадка на другой автобус на узловой"
+      ]
+    },
+    "test": {
+      "en": [
+        "Bus commute this morning",
+        "Last bus home tonight",
+        "City bus pass for the month"
+      ],
+      "ru": [
+        "Поездка на автобусе сегодня утром",
+        "Последний автобус домой сегодня вечером",
+        "Месячный проездной на городской автобус"
+      ]
+    }
+  }
+}

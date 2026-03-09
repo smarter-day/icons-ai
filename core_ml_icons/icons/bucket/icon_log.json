@@ -1,0 +1,136 @@
+{
+  "icon": "bucket",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bucket",
+        "pail",
+        "sandcastle"
+      ],
+      "ru": [
+        "ведро",
+        "ведёрко",
+        "замок из песка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "fill a bucket with water",
+        "grab the pail for cleaning",
+        "build a sandcastle at the beach",
+        "Ice bucket challenge video this afternoon",
+        "Pail full of soapy water for the car wash",
+        "Sandcastle competition at the beach"
+      ],
+      "ru": [
+        "наполнить ведро водой",
+        "взять ведёрко для уборки",
+        "построить замок из песка на пляже",
+        "Видео с ведром льда после обеда",
+        "Ведро мыльной воды для мытья машины",
+        "Конкурс замков из песка на пляже"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Build a sandcastle at the beach",
+        "Fill the bucket for mopping",
+        "Grab a bucket and mop the floor",
+        "Beach day with buckets for the kids",
+        "Bucket of ice for the party",
+        "Collect rainwater in the bucket",
+        "Fill the bucket at the tap",
+        "Take the buckets to the beach",
+        "Ice bucket challenge",
+        "Mop and bucket for the kitchen floor"
+      ],
+      "ru": [
+        "Построить замок из песка на пляже",
+        "Наполнить ведро для мытья полов",
+        "Взять ведро и вымыть пол",
+        "День на пляже с вёдрами для детей",
+        "Ведро со льдом для вечеринки",
+        "Собирать дождевую воду в ведро",
+        "Наполнить ведро из крана",
+        "Взять вёдра на пляж",
+        "Испытание с ведром льда",
+        "Швабра и ведро для кухонного пола"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a bucket to clean this up",
+        "The kids want to build sandcastles",
+        "Let's grab a bucket and clean the floor",
+        "Perfect beach day for sandcastles"
+      ],
+      "ru": [
+        "Мне нужно ведро чтобы убрать это",
+        "Дети хотят строить замки из песка",
+        "Давайте возьмём ведро и помоем пол",
+        "Отличный день на пляже для замков из песка"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Bild a sandcaslte at the beech",
+        "Fil the buket for moping",
+        "Grab a buket and mop the flor",
+        "Beket of ice for the praty"
+      ],
+      "ru": [
+        "Построть замок из песка на плаже",
+        "Наплнить видро для мытья полов",
+        "Взть ведро и вымыть пол",
+        "Ведро со льдом для вечарнки"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Mop the floor",
+        "Sweep the floor",
+        "Beach towel and sunscreen",
+        "Water bottle for the hike",
+        "Pool party supplies",
+        "Cleaning supplies shopping"
+      ],
+      "ru": [
+        "Вымыть пол шваброй",
+        "Подмести пол",
+        "Полотенце и солнцезащитный крем на пляж",
+        "Бутылка воды для похода",
+        "Принадлежности для вечеринки у бассейна",
+        "Покупка чистящих средств"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Bucket and mop for the kitchen floor",
+        "Build sandcastles at the beach",
+        "Fill the bucket with water for cleaning"
+      ],
+      "ru": [
+        "Ведро и швабра для кухонного пола",
+        "Строить замки из песка на пляже",
+        "Наполнить ведро водой для уборки"
+      ]
+    },
+    "test": {
+      "en": [
+        "Kids bucket for the beach trip",
+        "Mop the floor with a bucket of water",
+        "Ice bucket for the drinks at the party"
+      ],
+      "ru": [
+        "Детское ведёрко для поездки на пляж",
+        "Вымыть пол ведром воды",
+        "Ведро со льдом для напитков на вечеринке"
+      ]
+    }
+  }
+}

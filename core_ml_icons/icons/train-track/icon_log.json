@@ -1,0 +1,142 @@
+{
+  "icon": "train-track",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "rail",
+        "railroad",
+        "tracks",
+        "train"
+      ],
+      "ru": [
+        "рельс",
+        "железная дорога",
+        "рельсы",
+        "поезд"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "rail track crossing level",
+        "two rails train track",
+        "railroad track sleepers ties",
+        "railroad crossing signal gate",
+        "train tracks parallel rails",
+        "train tracks through countryside",
+        "train running on track",
+        "train wheels on track"
+      ],
+      "ru": [
+        "рельсовый путь переезд",
+        "два рельса железнодорожный путь",
+        "шпалы железнодорожного пути",
+        "шлагбаум железнодорожного переезда",
+        "параллельные рельсы железнодорожные пути",
+        "рельсы через сельскую местность",
+        "поезд едет по рельсам",
+        "колёса поезда на рельсах"
+      ]
+    },
+    "regular": {
+      "en": [
+        "two parallel train tracks on ties",
+        "railroad crossing warning sign tracks",
+        "train track switch junction",
+        "elevated train track urban bridge",
+        "abandoned rusty train tracks",
+        "train track curvature bend",
+        "maintenance crew on train tracks",
+        "model train track miniature",
+        "high speed rail track smooth",
+        "single track rural train line"
+      ],
+      "ru": [
+        "два параллельных рельса на шпалах",
+        "предупреждающий знак железнодорожного переезда",
+        "стрелочный перевод разветвление пути",
+        "надземный рельсовый путь городской мост",
+        "заброшенные ржавые рельсы",
+        "изгиб железнодорожного пути кривая",
+        "бригада обслуживания на рельсах",
+        "миниатюрный путь для модельного поезда",
+        "гладкий путь скоростной железной дороги",
+        "однопутная сельская линия"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a train-track icon for the rail section",
+        "add a railroad symbol to the transport category",
+        "show train tracks for the railway planning",
+        "use the train-track icon for the route map"
+      ],
+      "ru": [
+        "нужна иконка железнодорожного пути для рельсового раздела",
+        "добавь символ железной дороги в транспортную категорию",
+        "покажи рельсы для планирования железнодорожного маршрута",
+        "используй иконку рельсов для карты маршрута"
+      ]
+    },
+    "typo": {
+      "en": [
+        "tarin track rails",
+        "railraod crossing track",
+        "trcaks parallel train",
+        "rail trak junction"
+      ],
+      "ru": [
+        "рельсы поезд путь",
+        "переезд железная дорога",
+        "параллельные рельсы поезд",
+        "путь разветвление рельс"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "subway train underground rail",
+        "road highway asphalt driving",
+        "bridge crossing over water",
+        "runway airport airplane landing",
+        "bike lane cycle path marking",
+        "trolley cable car on track"
+      ],
+      "ru": [
+        "метро подземный рельсовый путь",
+        "шоссе асфальт дорога вождение",
+        "мост переправа через воду",
+        "взлётно-посадочная полоса аэропорт посадка",
+        "велосипедная дорожка разметка",
+        "трамвай канатная машина на рельсах"
+      ]
+    },
+    "valid": {
+      "en": [
+        "train track rails icon",
+        "railroad track symbol",
+        "parallel train rails"
+      ],
+      "ru": [
+        "иконка рельсового пути",
+        "символ железнодорожных рельсов",
+        "параллельные рельсы"
+      ]
+    },
+    "test": {
+      "en": [
+        "train track icon rails",
+        "railroad tracks symbol",
+        "track junction train"
+      ],
+      "ru": [
+        "иконка рельсов поезда",
+        "символ железнодорожных путей",
+        "разветвление рельсов"
+      ]
+    }
+  }
+}

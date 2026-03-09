@@ -1,0 +1,142 @@
+{
+  "icon": "tablets",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "drugs",
+        "medicine",
+        "pills",
+        "prescription"
+      ],
+      "ru": [
+        "лекарства",
+        "медицина",
+        "таблетки",
+        "рецепт"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "drugs prescription tablets",
+        "controlled drugs tablet form",
+        "medicine cabinet tablets daily",
+        "tablet medicine dose",
+        "pills blister pack tablets",
+        "round oval pills",
+        "prescription tablets pharmacy",
+        "prescription filled tablets"
+      ],
+      "ru": [
+        "рецептурные таблетки лекарства",
+        "контролируемые препараты в таблетках",
+        "таблетки в аптечке ежедневный приём",
+        "доза лекарства таблетки",
+        "таблетки блистерная упаковка",
+        "круглые овальные таблетки",
+        "рецептурные таблетки аптека",
+        "выданные по рецепту таблетки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "blister pack of prescription tablets",
+        "daily vitamin supplement tablets",
+        "antibiotic tablet course of treatment",
+        "pill organizer weekly tablets",
+        "tablet crusher for swallowing",
+        "medication reminder tablet alarm",
+        "over the counter pain relief tablets",
+        "children's chewable tablets",
+        "pharmacy dispensing tablets into bottle",
+        "clinical trial placebo tablets"
+      ],
+      "ru": [
+        "блистерная упаковка рецептурных таблеток",
+        "ежедневные витаминные добавки таблетки",
+        "курс антибиотиков в таблетках",
+        "недельный органайзер для таблеток",
+        "измельчитель таблеток для проглатывания",
+        "напоминание о приёме лекарств будильник",
+        "безрецептурные обезболивающие таблетки",
+        "детские жевательные таблетки",
+        "аптека выдаёт таблетки во флакон",
+        "клинические испытания таблетки плацебо"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a tablets icon for the medication tracker",
+        "add a pills symbol to the health section",
+        "show tablets for the prescription reminder",
+        "use the tablets icon for the medicine cabinet feature"
+      ],
+      "ru": [
+        "нужна иконка таблеток для трекера лекарств",
+        "добавь символ таблеток в раздел здоровья",
+        "покажи таблетки для напоминания о рецепте",
+        "используй иконку таблеток для функции аптечки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "medicne tablets pills",
+        "prescrption tablets daily",
+        "pils blister pack",
+        "drgs tablet form"
+      ],
+      "ru": [
+        "лекарство таблетки",
+        "рецептурные таблетки ежедневно",
+        "таблетки блистр",
+        "лекарства форма таблеток"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "capsule medicine oval gelatin",
+        "syringe injection needle medicine",
+        "liquid medicine bottle spoon",
+        "vitamin bottle supplement jar",
+        "inhaler asthma respiratory",
+        "patch skin adhesive medicine"
+      ],
+      "ru": [
+        "капсула медицина овальная желатиновая",
+        "шприц игла для инъекций лекарство",
+        "жидкое лекарство флакон ложка",
+        "бутылка витаминов банка добавок",
+        "ингалятор астма дыхание",
+        "пластырь кожный адгезивное лекарство"
+      ]
+    },
+    "valid": {
+      "en": [
+        "prescription tablets pills icon",
+        "medicine tablets daily dose",
+        "pill blister pack"
+      ],
+      "ru": [
+        "иконка рецептурных таблеток",
+        "ежедневная доза таблеток лекарств",
+        "блистер таблеток"
+      ]
+    },
+    "test": {
+      "en": [
+        "tablets icon medicine",
+        "pills symbol prescription",
+        "drug tablets health"
+      ],
+      "ru": [
+        "иконка таблеток лекарство",
+        "символ таблеток рецепт",
+        "лекарственные таблетки здоровье"
+      ]
+    }
+  }
+}

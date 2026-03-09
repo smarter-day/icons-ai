@@ -1,0 +1,78 @@
+{
+  "icon": "jar-wheat",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "flour",
+        "storage"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy whole wheat flour",
+        "Store flour in the jar",
+        "Organize dry goods storage",
+        "Use the storage jar for grains"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Store flour in an airtight jar",
+        "Buy a bag of whole wheat flour",
+        "Measure flour for baking",
+        "Keep flour in a sealed jar",
+        "Buy flour for the bread recipe",
+        "Store grain and flour in jars",
+        "Label the flour storage jar",
+        "Use a flour jar for the pantry",
+        "Keep the flour jar in the cabinet",
+        "Refill the flour storage container"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Flour jar",
+        "Store the grain",
+        "Wheat storage",
+        "Fill the flour jar"
+      ]
+    },
+    "typo": {
+      "en": [
+        "stoer flour in the jra",
+        "by a bag of weat flour",
+        "measuer flour for bakign",
+        "kep flour in a seled jar"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Store jam in a jar",
+        "Keep sugar in a canister",
+        "Store coffee beans in a jar",
+        "Use a bin for bulk grains",
+        "Keep spices in small jars",
+        "Store rice in a large container"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Store flour in an airtight jar",
+        "Buy whole wheat flour",
+        "Label the flour storage jar"
+      ]
+    },
+    "test": {
+      "en": [
+        "Keep flour in a sealed jar",
+        "Measure flour for baking",
+        "Refill the flour storage container"
+      ]
+    }
+  }
+}

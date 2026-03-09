@@ -1,0 +1,172 @@
+{
+  "icon": "cable-car",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "aerial tramway",
+        "cable",
+        "gondola",
+        "lift",
+        "mountain",
+        "mountain cableway",
+        "tram",
+        "tramway",
+        "trolley"
+      ],
+      "ru": [
+        "канатная дорога",
+        "трос",
+        "гондола",
+        "подъёмник",
+        "гора",
+        "горная канатная дорога",
+        "трамвай",
+        "трамвайная линия",
+        "троллейбус"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Aerial tramway to the summit",
+        "Cable car ride up the mountain",
+        "Gondola lift at the ski resort",
+        "Ski lift pass for the weekend",
+        "Mountain view from the cable car",
+        "Mountain cableway ticket booking",
+        "Tram to the top of the hill",
+        "Tramway schedule for the national park",
+        "Historic trolley car tour of the city",
+        "Book the aerial tramway for the group tour",
+        "Cable snapped — ride suspended today",
+        "Gondola ride over the valley at sunset",
+        "Ski lift pass for the whole week",
+        "Mountain hike starting from the cable car base",
+        "Mountain cableway opens at 8am tomorrow",
+        "Catch the tram at the bottom station",
+        "Check the tramway hours before heading out",
+        "Historic trolley ride through the old quarter"
+      ],
+      "ru": [
+        "Канатная дорога до вершины",
+        "Поездка на канатной дороге на гору",
+        "Гондольный подъёмник на горнолыжном курорте",
+        "Ски-пасс на выходные",
+        "Вид на горы с канатной дороги",
+        "Бронирование билетов на горную канатку",
+        "Трамвай на вершину холма",
+        "Расписание трамваев в национальном парке",
+        "Исторический тур на трамвае по городу",
+        "Забронировать воздушный трамвай для группы",
+        "Трос оборвался — подъёмник не работает",
+        "Поездка на гондоле над долиной на закате",
+        "Ски-пасс на подъёмник на всю неделю",
+        "Горный поход начинается от станции канатки",
+        "Горная канатная дорога открывается в 8 утра",
+        "Сесть на трамвай на нижней станции",
+        "Проверить расписание трамвая перед выездом",
+        "Поездка на историческом трамвае по старому кварталу"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Take the cable car to the top",
+        "Book cable car tickets in advance",
+        "Scenic cable car ride at sunset",
+        "Cable car wait time at the station",
+        "Return ticket for the gondola",
+        "Cable car closes at sunset today",
+        "Mountain cable car adventure",
+        "Cable car photography spot",
+        "Hop on the next cable car",
+        "Kids' first cable car ride"
+      ],
+      "ru": [
+        "Поехать на канатной дороге до вершины",
+        "Купить билеты на канатную дорогу заранее",
+        "Живописная поездка на закате",
+        "Время ожидания канатной дороги на станции",
+        "Обратный билет на гондолу",
+        "Канатная дорога закрывается на закате",
+        "Горное приключение на канатке",
+        "Место для фото с канатной дороги",
+        "Сесть на следующую канатную дорогу",
+        "Первая поездка детей на канатной дороге"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "the cable car views are unreal",
+        "taking the gondola up today",
+        "queued up for the cable car",
+        "ski lift or cable car to the top"
+      ],
+      "ru": [
+        "виды с канатной дороги нереальные",
+        "сегодня поднимаемся на гондоле",
+        "стоим в очереди на канатную дорогу",
+        "подъёмник или канатная дорога наверх"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cabel car ride up the mountian",
+        "gondolla lift to the ski resort",
+        "tram way ticket for the natonal park",
+        "arial tramway at the top"
+      ],
+      "ru": [
+        "канатаня дорога на гору",
+        "гондолла на горнолыжный курорт",
+        "биелт трамвая для национального парка",
+        "воздушная канатная дорга наверху"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "City bus route through the valley",
+        "Train through the mountain tunnel",
+        "Chairlift at the ski slope",
+        "Funicular railway up the steep hill",
+        "Trolleybus on city streets",
+        "Monorail at the theme park"
+      ],
+      "ru": [
+        "Городской автобусный маршрут по долине",
+        "Поезд через горный тоннель",
+        "Кресельный подъёмник на горнолыжном склоне",
+        "Фуникулёр на крутой холм",
+        "Троллейбус на городских улицах",
+        "Монорельс в тематическом парке"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Cable car to the mountain top viewpoint",
+        "Book gondola tickets for the resort",
+        "First cable car ride this winter"
+      ],
+      "ru": [
+        "Канатная дорога до смотровой площадки",
+        "Забронировать билеты на гондолу для курорта",
+        "Первая поездка на канатной дороге этой зимой"
+      ]
+    },
+    "test": {
+      "en": [
+        "Morning cable car up the slope",
+        "Cable car return trip at sunset",
+        "Gondola ride in the Alps"
+      ],
+      "ru": [
+        "Утренняя поездка на канатке вверх по склону",
+        "Обратная поездка на канатной дороге на закате",
+        "Поездка на гондоле в Альпах"
+      ]
+    }
+  }
+}

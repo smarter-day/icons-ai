@@ -1,0 +1,84 @@
+{
+  "icon": "crosshairs",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "aim",
+        "bullseye",
+        "picker",
+        "position"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Aim at the target",
+        "Aim precisely at the center",
+        "Hit the bullseye on the target",
+        "Bullseye shot",
+        "Use the color picker tool",
+        "Pick an exact color with the picker",
+        "Mark the position on the map",
+        "Find the exact position"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Find my current GPS location",
+        "Pin the exact position on the map",
+        "Use the color picker in the design tool",
+        "Target the precise area",
+        "Lock on to the location",
+        "Center the crosshairs on the target",
+        "Navigate to the exact coordinates",
+        "Pick the right color for the design",
+        "Set the focus point on the camera",
+        "Locate the exact spot on the map"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Lock on target",
+        "Find the spot",
+        "Aim right there",
+        "Dead center"
+      ]
+    },
+    "typo": {
+      "en": [
+        "find my currnet location",
+        "aim at the taregt",
+        "use the colro picker",
+        "postion on the map"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Hit the bullseye on the archery target",
+        "Navigate with a compass",
+        "Set a map pin for the destination",
+        "Use GPS to find the route",
+        "Zoom in on the target area",
+        "Focus the camera on the subject"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Find the precise location",
+        "Use the color picker tool",
+        "Aim at the exact target"
+      ]
+    },
+    "test": {
+      "en": [
+        "Pin the position on the map",
+        "Center the aim on the target",
+        "Pick the exact color"
+      ]
+    }
+  }
+}

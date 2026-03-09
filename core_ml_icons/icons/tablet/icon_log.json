@@ -1,0 +1,136 @@
+{
+  "icon": "tablet",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "device",
+        "kindle",
+        "screen"
+      ],
+      "ru": [
+        "устройство",
+        "Киндл",
+        "экран"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "tablet device on desk",
+        "portable tablet device",
+        "kindle e-reader tablet",
+        "kindle fire tablet reading",
+        "tablet screen touchscreen",
+        "large screen tablet device"
+      ],
+      "ru": [
+        "планшет на столе",
+        "портативное планшетное устройство",
+        "электронная книга Kindle планшет",
+        "планшет Kindle Fire чтение",
+        "сенсорный экран планшета",
+        "большой экран планшетного устройства"
+      ]
+    },
+    "regular": {
+      "en": [
+        "iPad tablet with touchscreen display",
+        "Android tablet browsing web",
+        "tablet in landscape mode for video",
+        "tablet stylus pen drawing",
+        "tablet cover case with keyboard",
+        "reading book on tablet at night",
+        "tablet mounted on stand desk",
+        "kid using tablet for learning app",
+        "tablet split screen multitasking",
+        "senior using large tablet device"
+      ],
+      "ru": [
+        "iPad планшет с сенсорным дисплеем",
+        "Android планшет просматривает интернет",
+        "планшет в горизонтальном режиме для видео",
+        "стилус для рисования на планшете",
+        "чехол для планшета с клавиатурой",
+        "чтение книги на планшете ночью",
+        "планшет на настольной подставке",
+        "ребёнок использует планшет для обучения",
+        "разделённый экран планшета многозадачность",
+        "пожилой человек использует большой планшет"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a tablet icon for the device category",
+        "add a tablet symbol to the screen size options",
+        "show a tablet for the reading app feature",
+        "use the tablet icon for the mobile device section"
+      ],
+      "ru": [
+        "нужна иконка планшета для категории устройств",
+        "добавь символ планшета в параметры размера экрана",
+        "покажи планшет для функции приложения чтения",
+        "используй иконку планшета для раздела мобильных устройств"
+      ]
+    },
+    "typo": {
+      "en": [
+        "tabelt device screen",
+        "kindel tablet reading",
+        "screeen tablet device",
+        "ipda tablet"
+      ],
+      "ru": [
+        "планшнт устройство экран",
+        "Киндел планшет чтение",
+        "экарн планшет",
+        "планшнт iPad"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "smartphone mobile phone small screen",
+        "laptop computer keyboard screen",
+        "desktop computer monitor large",
+        "e-reader Kindle paperwhite",
+        "notebook writing paper journal",
+        "TV television large display wall"
+      ],
+      "ru": [
+        "смартфон мобильный телефон маленький экран",
+        "ноутбук компьютер клавиатура экран",
+        "настольный компьютер монитор большой",
+        "электронная книга Kindle Paperwhite",
+        "блокнот письменная бумага дневник",
+        "телевизор большой экран на стене"
+      ]
+    },
+    "valid": {
+      "en": [
+        "tablet device touchscreen",
+        "iPad tablet icon",
+        "portable screen tablet"
+      ],
+      "ru": [
+        "планшет сенсорный экран",
+        "иконка iPad планшета",
+        "портативный экран планшет"
+      ]
+    },
+    "test": {
+      "en": [
+        "tablet icon device",
+        "screen tablet symbol",
+        "kindle tablet reader"
+      ],
+      "ru": [
+        "иконка планшета устройство",
+        "символ экрана планшета",
+        "Kindle планшет ридер"
+      ]
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "icon": "nfc",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "connect",
+        "data",
+        "near field communication",
+        "nfc",
+        "scan",
+        "signal",
+        "transfer",
+        "wireless"
+      ],
+      "ru": [
+        "подключить",
+        "данные",
+        "бесконтактная связь",
+        "nfc",
+        "сканировать",
+        "сигнал",
+        "передача",
+        "беспроводной"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "connect device via NFC tap",
+        "connect two phones by touching",
+        "transfer data using NFC",
+        "data exchange via tap",
+        "near field communication chip",
+        "near field communication payment",
+        "NFC tag on a product",
+        "NFC enabled payment card",
+        "scan NFC tag on poster",
+        "scan NFC to open link",
+        "wireless signal at close range",
+        "NFC signal detection",
+        "transfer files wirelessly nearby",
+        "transfer contact via NFC",
+        "wireless payment with NFC tap",
+        "wireless data sharing"
+      ],
+      "ru": [
+        "подключить устройство через NFC прикосновение",
+        "подключить два телефона касанием",
+        "передать данные через NFC",
+        "обмен данными через касание",
+        "чип бесконтактной связи",
+        "платёж через бесконтактную связь",
+        "NFC метка на товаре",
+        "платёжная карта с поддержкой NFC",
+        "сканировать NFC метку на постере",
+        "сканировать NFC для открытия ссылки",
+        "беспроводной сигнал на коротком расстоянии",
+        "обнаружение NFC сигнала",
+        "беспроводная передача файлов рядом",
+        "передача контакта через NFC",
+        "беспроводная оплата касанием NFC",
+        "беспроводной обмен данными"
+      ]
+    },
+    "regular": {
+      "en": [
+        "NFC chip for contactless payment",
+        "tap phone to reader for NFC payment",
+        "NFC tag embedded in smart poster",
+        "Apple Pay or Google Pay NFC payment",
+        "NFC data transfer between two devices",
+        "contactless card payment terminal",
+        "NFC symbol on device or card",
+        "pairing devices with NFC tap",
+        "smart sticker with NFC chip",
+        "quick NFC scan to launch app"
+      ],
+      "ru": [
+        "NFC чип для бесконтактной оплаты",
+        "приложить телефон к считывателю для NFC оплаты",
+        "NFC метка встроенная в умный постер",
+        "оплата Apple Pay или Google Pay через NFC",
+        "передача данных NFC между двумя устройствами",
+        "терминал бесконтактной оплаты картой",
+        "символ NFC на устройстве или карте",
+        "сопряжение устройств касанием NFC",
+        "умная наклейка с NFC чипом",
+        "быстрое NFC сканирование для запуска приложения"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an NFC icon for the contactless payment screen",
+        "add an NFC symbol to the wireless connection feature",
+        "show an NFC tag icon for the scan function",
+        "use the NFC icon for the tap-to-pay section"
+      ],
+      "ru": [
+        "Мне нужна иконка NFC для экрана бесконтактной оплаты",
+        "добавить символ NFC в функцию беспроводного подключения",
+        "показать иконку NFC метки для функции сканирования",
+        "использовать иконку NFC для раздела оплаты касанием"
+      ]
+    },
+    "typo": {
+      "en": [
+        "NFC scna payment",
+        "nfcc wireless",
+        "near feild communication",
+        "wireles NFC transfer"
+      ],
+      "ru": [
+        "NFC сканровать",
+        "бесконтактан связь",
+        "беспроводнй NFC",
+        "NFC передача данны"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Bluetooth wireless at longer range",
+        "WiFi wireless internet connection",
+        "QR code scan with camera",
+        "RFID tag for tracking objects",
+        "infrared IR remote signal",
+        "USB cable for wired data transfer"
+      ],
+      "ru": [
+        "Bluetooth беспроводной на большом расстоянии",
+        "WiFi беспроводное интернет-соединение",
+        "QR код сканирование камерой",
+        "RFID метка для отслеживания предметов",
+        "инфракрасный ИК пульт сигнал",
+        "USB кабель для проводной передачи данных"
+      ]
+    },
+    "valid": {
+      "en": [
+        "NFC contactless payment tap",
+        "near field communication icon",
+        "NFC wireless data transfer"
+      ],
+      "ru": [
+        "NFC бесконтактная оплата касанием",
+        "иконка бесконтактной связи",
+        "NFC беспроводная передача данных"
+      ]
+    },
+    "test": {
+      "en": [
+        "NFC icon",
+        "tap to pay NFC",
+        "NFC scan wireless"
+      ],
+      "ru": [
+        "иконка NFC",
+        "оплата касанием NFC",
+        "NFC сканирование беспроводное"
+      ]
+    }
+  }
+}

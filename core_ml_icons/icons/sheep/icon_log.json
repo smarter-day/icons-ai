@@ -1,0 +1,178 @@
+{
+  "icon": "sheep",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "agriculture",
+        "animal",
+        "ewe",
+        "farming",
+        "fauna",
+        "female",
+        "mammal",
+        "sheep",
+        "wool",
+        "yarn"
+      ],
+      "ru": [
+        "сельское хозяйство",
+        "животное",
+        "овца",
+        "фермерство",
+        "фауна",
+        "самка",
+        "млекопитающее",
+        "овца",
+        "шерсть",
+        "пряжа"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "agriculture field with grazing sheep",
+        "sheep farming on rural pasture",
+        "woolly animal on green hillside",
+        "farm animal bleating in field",
+        "ewe nursing lamb in spring",
+        "mother ewe with newborn lamb",
+        "sheep farming on mountain pasture",
+        "farming sheep for wool production",
+        "local fauna of rolling meadows",
+        "wild fauna of temperate grasslands",
+        "female sheep ewe vs male ram",
+        "female mammal sheep in flock",
+        "fluffy mammal with curly wool coat",
+        "grass-eating mammal in herd",
+        "sheep counted while falling asleep",
+        "flock of sheep being herded",
+        "raw wool sheared from sheep",
+        "knitting wool from sheep fleece",
+        "yarn spun from sheep wool fiber",
+        "yarn dyed from natural sheep fleece"
+      ],
+      "ru": [
+        "пастбище с пасущимися овцами",
+        "овцеводство на сельском лугу",
+        "шерстяное животное на зелёном холме",
+        "сельскохозяйственное животное блеет в поле",
+        "овца кормит ягнёнка весной",
+        "овца-мать с новорождённым ягнёнком",
+        "овцеводство на горном пастбище",
+        "разведение овец для производства шерсти",
+        "местная фауна холмистых лугов",
+        "дикая фауна умеренных пастбищ",
+        "овца самка против барана самца",
+        "самка-овца в отаре",
+        "пушистое млекопитающее с кудрявым шерстяным покровом",
+        "травоядное млекопитающее в стаде",
+        "считать овец засыпая",
+        "стадо овец под пастьбой",
+        "сырая шерсть, остриженная с овцы",
+        "вязание из овечьей шерсти",
+        "пряжа, спрядённая из волокна овечьей шерсти",
+        "пряжа, окрашенная из натурального руна"
+      ]
+    },
+    "regular": {
+      "en": [
+        "fluffy white sheep grazing on green pasture",
+        "shepherd herding flock of sheep at sunset",
+        "sheep shearing with electric clippers",
+        "newborn lamb standing beside mother ewe",
+        "black sheep among white flock",
+        "cartoon sheep counting for sleep app",
+        "wool sweater knitted from sheep fleece",
+        "sheep in pen at agricultural fair",
+        "merino sheep breed known for fine wool",
+        "sheep crossing road sign in rural area"
+      ],
+      "ru": [
+        "пушистая белая овца пасётся на зелёном лугу",
+        "пастух гонит отару овец на закате",
+        "стрижка овцы электрическими ножницами",
+        "новорождённый ягнёнок рядом с матерью",
+        "чёрная овца среди белой отары",
+        "мультяшные овцы для счёта в приложении сна",
+        "шерстяной свитер из овечьего руна",
+        "овца в загоне на сельскохозяйственной выставке",
+        "порода мериносовых овец с тонкой шерстью",
+        "знак перехода овец в сельской местности"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sheep icon for the farming app",
+        "add a wool sheep symbol to the agriculture section",
+        "show a sheep for the sleep counting feature",
+        "use the sheep icon for the livestock category"
+      ],
+      "ru": [
+        "мне нужна иконка овцы для фермерского приложения",
+        "добавь символ шерстяной овцы в раздел сельского хозяйства",
+        "покажи овцу для функции счёта для сна",
+        "используй иконку овцы для категории скота"
+      ]
+    },
+    "typo": {
+      "en": [
+        "flufffy white sheep on green pasture",
+        "sheperd herding flock of sheep",
+        "newbron lamb beside mother ewe",
+        "shep shearing with electric clippers"
+      ],
+      "ru": [
+        "пушситая белая овца на лугу",
+        "пастух гонит отрау овец",
+        "новроождённый ягнёнок рядом с матерью",
+        "стрижка овцы электрческими ножницами"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "cow grazing in dairy farm field",
+        "goat with curved horns on rocky hillside",
+        "llama with long neck at petting zoo",
+        "horse trotting in paddock",
+        "pig rooting in mud on farm",
+        "alpaca fluffy coat at highland farm"
+      ],
+      "ru": [
+        "корова пасётся на ферме",
+        "коза с изогнутыми рогами на скалистом склоне",
+        "лама с длинной шеей в контактном зоопарке",
+        "лошадь рысит в загоне",
+        "свинья роется в грязи на ферме",
+        "альпака с пушистым покровом на высокогорной ферме"
+      ]
+    },
+    "valid": {
+      "en": [
+        "fluffy sheep grazing on pasture",
+        "wool sheep on farm",
+        "flock of sheep being herded"
+      ],
+      "ru": [
+        "пушистая овца пасётся на лугу",
+        "шерстяная овца на ферме",
+        "отара овец под пастьбой"
+      ]
+    },
+    "test": {
+      "en": [
+        "white sheep in green field",
+        "sheep shearing for wool",
+        "cartoon sheep for sleep counter"
+      ],
+      "ru": [
+        "белая овца на зелёном поле",
+        "стрижка овцы для шерсти",
+        "мультяшная овца для счётчика сна"
+      ]
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "icon": "bed",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "hospital",
+        "hotel",
+        "lodging",
+        "mattress",
+        "patient",
+        "person in bed",
+        "rest",
+        "sleep",
+        "travel"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "hospital bed with adjustable side rails",
+        "patient in a hospital bed",
+        "hotel room bed with white pillows",
+        "hotel booking includes a bed",
+        "lodging with a comfortable bed available",
+        "lodging symbol for a travel app",
+        "mattress on a wooden bed frame",
+        "firm mattress for quality sleep",
+        "patient lying in a medical bed",
+        "patient recovery in the hospital bed",
+        "person in bed sleeping soundly",
+        "person in bed icon for a wellness app",
+        "rest in bed after a long day",
+        "rest and recovery lying in bed",
+        "sleep mode icon for bedtime",
+        "sleep tracking while lying in bed",
+        "travel accommodation with a bed",
+        "travel booking to find a place to sleep"
+      ]
+    },
+    "regular": {
+      "en": [
+        "person lying in a single bed with a pillow",
+        "hospital bed with raised safety rails",
+        "hotel room with a king-size bed and nightstand",
+        "sleeping under the covers in a cozy bed",
+        "sick patient resting in a medical bed",
+        "bedroom bed with headboard and blanket",
+        "overnight accommodation icon for booking app",
+        "sleep mode enabled on the phone at bedtime",
+        "recovery bed in the hospital clinic",
+        "mattress with a pillow for a good night's rest"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a bed icon for the hotel booking app",
+        "add a sleep symbol to the wellness tracker",
+        "show a bed icon for the rest reminder feature",
+        "use the hospital bed for the patient profile page"
+      ]
+    },
+    "typo": {
+      "en": [
+        "hotl bed room booking",
+        "slepe in comfortable bed",
+        "matress on the bed frame",
+        "hosiptal patient bed"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "comfortable sofa in the living room",
+        "hammock strung between two palm trees",
+        "recliner armchair in the den",
+        "folding cot on a camping tent floor",
+        "massage table at the day spa",
+        "park bench for sitting and resting outdoors"
+      ]
+    },
+    "valid": {
+      "en": [
+        "hospital bed with side rails",
+        "hotel bed with white pillow",
+        "sleeping in bed at night"
+      ]
+    },
+    "test": {
+      "en": [
+        "rest in bed symbol",
+        "patient in hospital bed",
+        "hotel room bed booking"
+      ]
+    }
+  }
+}

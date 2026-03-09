@@ -1,0 +1,172 @@
+{
+  "icon": "sunrise",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "dawn",
+        "day",
+        "daybreak",
+        "daylight",
+        "daytime",
+        "morning",
+        "sun",
+        "sun up",
+        "sunrise"
+      ],
+      "ru": [
+        "рассвет",
+        "день",
+        "заря",
+        "дневной свет",
+        "дневное время",
+        "утро",
+        "солнце",
+        "солнце встаёт",
+        "восход"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "dawn breaking over mountain",
+        "dawn sky pink purple colours",
+        "day begins at sunrise",
+        "first light of day",
+        "daybreak horizon glow amber",
+        "daybreak early morning light",
+        "daylight hours increasing sunrise",
+        "daylight saving time sunrise",
+        "daytime starts when sun rises",
+        "daytime morning routine",
+        "morning sunrise alarm wake up",
+        "morning golden hour sunrise",
+        "sun rises in the east",
+        "sun comes up over ocean",
+        "sun up early bird morning",
+        "sun up beach walk",
+        "sunrise yoga outdoor session",
+        "watching sunrise at peak"
+      ],
+      "ru": [
+        "рассвет над горой",
+        "небо рассвета розово-фиолетовые оттенки",
+        "день начинается с восходом",
+        "первый свет дня",
+        "заря горизонт янтарное свечение",
+        "ранний утренний свет зари",
+        "световой день удлиняется восход",
+        "летнее время и восход",
+        "день начинается когда поднимается солнце",
+        "утренний распорядок дня",
+        "будильник восход утро",
+        "золотой час утром восход",
+        "солнце встаёт на востоке",
+        "солнце поднимается над океаном",
+        "солнце встаёт ранняя пташка утро",
+        "прогулка по пляжу на восходе",
+        "йога на рассвете на улице",
+        "наблюдение восхода на вершине"
+      ]
+    },
+    "regular": {
+      "en": [
+        "sun rising above horizon golden glow",
+        "sunrise over ocean calm morning",
+        "sunrise photography golden hour",
+        "morning alarm set for sunrise",
+        "dawn patrol surfer early morning",
+        "sunrise meditation peaceful morning",
+        "time lapse sunrise fast forward",
+        "eastern sky brightening before sunrise",
+        "sunrise notification in weather app",
+        "camping wake up for sunrise"
+      ],
+      "ru": [
+        "солнце поднимается над горизонтом золотое свечение",
+        "восход над океаном тихое утро",
+        "фотография восхода золотой час",
+        "будильник на восход",
+        "рассветный патруль серфер ранним утром",
+        "медитация на восходе спокойное утро",
+        "таймлапс восход ускоренный",
+        "восточное небо светлеет перед восходом",
+        "уведомление о восходе в приложении погоды",
+        "кемпинг встать к восходу"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sunrise icon for the morning routine section",
+        "add a dawn symbol to the alarm feature",
+        "show a sunrise for the early day events",
+        "use the sunrise icon for the morning scheduler"
+      ],
+      "ru": [
+        "нужна иконка восхода для раздела утреннего распорядка",
+        "добавь символ рассвета к функции будильника",
+        "покажи восход для ранних утренних событий",
+        "используй иконку восхода для планировщика утра"
+      ]
+    },
+    "typo": {
+      "en": [
+        "sunrse over ocean",
+        "morninng sunrise alarm",
+        "dwan early light",
+        "dalyight sunrise"
+      ],
+      "ru": [
+        "восход над океаном",
+        "утренний восход будльник",
+        "ранний рассвет свет",
+        "дневной свет восход"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "sunset sun below horizon evening",
+        "moon setting night time",
+        "full sun midday clear sky",
+        "twilight dusk just after sunset",
+        "morning alarm clock digital",
+        "dawn patrol alarm notification"
+      ],
+      "ru": [
+        "закат солнце ниже горизонта вечер",
+        "луна садится ночное время",
+        "полное солнце полдень чистое небо",
+        "сумерки сразу после заката",
+        "утренний будильник цифровой",
+        "уведомление рассветного будильника"
+      ]
+    },
+    "valid": {
+      "en": [
+        "sunrise morning icon",
+        "sun rising at dawn",
+        "daybreak sunrise weather"
+      ],
+      "ru": [
+        "иконка восхода утро",
+        "солнце поднимается на рассвете",
+        "восход солнца погода"
+      ]
+    },
+    "test": {
+      "en": [
+        "sunrise over horizon icon",
+        "morning sun dawn symbol",
+        "sunrise time weather"
+      ],
+      "ru": [
+        "иконка восхода над горизонтом",
+        "утреннее солнце символ рассвета",
+        "время восхода погода"
+      ]
+    }
+  }
+}

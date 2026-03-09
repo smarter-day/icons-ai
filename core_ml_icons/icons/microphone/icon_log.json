@@ -1,0 +1,178 @@
+{
+  "icon": "microphone",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "address",
+        "audio",
+        "information",
+        "podcast",
+        "public",
+        "record",
+        "sing",
+        "sound",
+        "talking",
+        "voice"
+      ],
+      "ru": [
+        "обращение",
+        "аудио",
+        "информация",
+        "подкаст",
+        "публичный",
+        "запись",
+        "петь",
+        "звук",
+        "говорить",
+        "голос"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "public address system microphone",
+        "address the audience with microphone",
+        "audio recording microphone setup",
+        "audio input for live streaming",
+        "information booth with microphone",
+        "information desk with mic",
+        "podcast recording microphone",
+        "podcast host speaking into mic",
+        "public speaking microphone at podium",
+        "public event microphone on stage",
+        "record voice with studio microphone",
+        "record audio for video production",
+        "sing into a microphone on stage",
+        "sing karaoke into a handheld mic",
+        "sound capture with directional mic",
+        "sound recording equipment",
+        "talking into a conference microphone",
+        "talking to voice assistant",
+        "voice command microphone activation",
+        "voice recognition input"
+      ],
+      "ru": [
+        "микрофон системы громкой связи",
+        "обратиться к аудитории с микрофоном",
+        "настройка микрофона для записи аудио",
+        "аудио вход для прямой трансляции",
+        "микрофон информационного стенда",
+        "информационная стойка с микрофоном",
+        "микрофон для записи подкаста",
+        "ведущий подкаста говорит в микрофон",
+        "микрофон для публичных выступлений на трибуне",
+        "микрофон на сцене публичного мероприятия",
+        "запись голоса студийным микрофоном",
+        "запись аудио для видеопроизводства",
+        "петь в микрофон на сцене",
+        "петь в ручной микрофон в карнавале",
+        "захват звука направленным микрофоном",
+        "оборудование для записи звука",
+        "говорить в конференц-микрофон",
+        "говорить с голосовым помощником",
+        "активация микрофона голосовой командой",
+        "ввод распознавания голоса"
+      ]
+    },
+    "regular": {
+      "en": [
+        "handheld microphone for live performance",
+        "condenser microphone for studio recording",
+        "lavalier clip-on microphone for interviews",
+        "podcast dynamic microphone on a desk arm",
+        "karaoke microphone for singing",
+        "voice dictation microphone icon in app",
+        "speech-to-text microphone button",
+        "stage microphone on a stand",
+        "press conference microphone cluster",
+        "reporter holding a news microphone"
+      ],
+      "ru": [
+        "ручной микрофон для живого выступления",
+        "конденсаторный микрофон для студийной записи",
+        "петличный микрофон для интервью",
+        "динамический микрофон для подкаста на настольном кронштейне",
+        "микрофон для карнавала",
+        "иконка микрофона для голосового диктанта в приложении",
+        "кнопка микрофона для преобразования речи в текст",
+        "микрофон на стойке на сцене",
+        "кластер микрофонов на пресс-конференции",
+        "репортёр держащий новостной микрофон"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a microphone icon for the voice recording feature",
+        "add a mic symbol to the podcast section",
+        "show a microphone for the speech input button",
+        "use the microphone icon for the audio capture screen"
+      ],
+      "ru": [
+        "Мне нужна иконка микрофона для функции записи голоса",
+        "добавить символ микрофона в раздел подкастов",
+        "показать микрофон для кнопки речевого ввода",
+        "использовать иконку микрофона для экрана захвата аудио"
+      ]
+    },
+    "typo": {
+      "en": [
+        "micropohne recording",
+        "podcsat microphone",
+        "microphoen for singing",
+        "vocie recording mic"
+      ],
+      "ru": [
+        "микрофно запись",
+        "подкасат микрофон",
+        "микрофон пение",
+        "голосовая записть"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "headset with microphone for gaming",
+        "speaker outputting audio sound",
+        "headphones for listening to music",
+        "muted microphone with slash through it",
+        "radio transmitter broadcasting signal",
+        "telephone handset for voice calls"
+      ],
+      "ru": [
+        "гарнитура с микрофоном для игр",
+        "динамик воспроизводящий аудио звук",
+        "наушники для прослушивания музыки",
+        "перечёркнутый микрофон отключение звука",
+        "радиопередатчик транслирующий сигнал",
+        "телефонная трубка для голосовых звонков"
+      ]
+    },
+    "valid": {
+      "en": [
+        "microphone for voice recording",
+        "podcast microphone icon",
+        "mic for audio input"
+      ],
+      "ru": [
+        "микрофон для записи голоса",
+        "иконка микрофона подкаста",
+        "микрофон для аудио ввода"
+      ]
+    },
+    "test": {
+      "en": [
+        "microphone icon",
+        "voice recording mic",
+        "audio input microphone"
+      ],
+      "ru": [
+        "иконка микрофона",
+        "микрофон записи голоса",
+        "аудио вход микрофон"
+      ]
+    }
+  }
+}

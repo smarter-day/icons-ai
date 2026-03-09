@@ -1,0 +1,81 @@
+{
+  "icon": "lasso-sparkles",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "automatic",
+        "magic",
+        "select"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Use automatic selection in Photoshop",
+        "Apply automatic background removal",
+        "Use the magic wand tool",
+        "Apply a magic effect to the design",
+        "Select the object automatically",
+        "Use lasso to select the area"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Use the magic select tool in Photoshop",
+        "Auto-select the background",
+        "Use AI to select the object",
+        "Apply magic removal to the background",
+        "Select all similar colors automatically",
+        "Use lasso tool to trace the outline",
+        "Use smart select in the design app",
+        "Auto-crop the subject from the background",
+        "Use AI-powered selection tool",
+        "Select and remove background automatically"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Magic select",
+        "Auto remove background",
+        "AI selection",
+        "Smart select"
+      ]
+    },
+    "typo": {
+      "en": [
+        "use the magci select tool",
+        "auto-selcet the backgrond",
+        "aply magic removel",
+        "use ai to selcet object"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use the regular lasso tool",
+        "Select manually with the pen tool",
+        "Crop the image manually",
+        "Use the eraser tool",
+        "Use the marquee selection tool",
+        "Use the magic wand without sparkles"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Use magic select in Photoshop",
+        "Auto-remove the background",
+        "Use AI-powered selection tool"
+      ]
+    },
+    "test": {
+      "en": [
+        "Select the object automatically",
+        "Apply smart background removal",
+        "Use lasso to trace the outline"
+      ]
+    }
+  }
+}

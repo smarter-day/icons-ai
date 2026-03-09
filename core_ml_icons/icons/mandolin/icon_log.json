@@ -1,0 +1,184 @@
+{
+  "icon": "mandolin",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Dungeons & Dragons",
+        "bard",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "guitar",
+        "instrument",
+        "lute",
+        "music",
+        "song",
+        "strings"
+      ],
+      "ru": [
+        "Подземелья и Драконы",
+        "бард",
+        "d&d",
+        "dnd",
+        "фэнтези",
+        "гитара",
+        "инструмент",
+        "лютня",
+        "музыка",
+        "песня",
+        "струны"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Dungeons & Dragons bard instrument",
+        "D&D loot mandolin in campaign",
+        "bard playing mandolin in tavern",
+        "fantasy bard with lute or mandolin",
+        "d&d bard class instrument",
+        "d&d character playing music",
+        "dnd bard strumming mandolin",
+        "dnd music in fantasy world",
+        "fantasy medieval string instrument",
+        "fantasy musician instrument",
+        "guitar-like small stringed instrument",
+        "acoustic guitar cousin instrument",
+        "folk music instrument mandolin",
+        "bluegrass instrument strings",
+        "lute historical stringed instrument",
+        "lute and mandolin family",
+        "acoustic music instrument",
+        "traditional music performance",
+        "folk song played on mandolin",
+        "song written for mandolin strings",
+        "stringed instrument with doubled strings",
+        "plucked strings instrument"
+      ],
+      "ru": [
+        "инструмент барда в Подземельях и Драконах",
+        "мандолина в добыче D&D кампании",
+        "бард играет на мандолине в таверне",
+        "фэнтезийный бард с лютней или мандолиной",
+        "инструмент класса барда d&d",
+        "персонаж d&d играет музыку",
+        "бард dnd играет на мандолине",
+        "музыка dnd в фэнтезийном мире",
+        "средневековый струнный инструмент фэнтези",
+        "инструмент фэнтезийного музыканта",
+        "маленький струнный инструмент похожий на гитару",
+        "акустический инструмент родственник гитары",
+        "народный музыкальный инструмент мандолина",
+        "струнный инструмент для блюграсса",
+        "историческая лютня струнный инструмент",
+        "семейство лютни и мандолины",
+        "акустический музыкальный инструмент",
+        "традиционное музыкальное исполнение",
+        "народная песня на мандолине",
+        "песня написанная для струн мандолины",
+        "струнный инструмент с двойными струнами",
+        "щипковый струнный инструмент"
+      ]
+    },
+    "regular": {
+      "en": [
+        "small pear-shaped stringed instrument",
+        "Italian mandolin with paired steel strings",
+        "bluegrass band playing mandolin",
+        "Renaissance lute with rounded back",
+        "folk musician strumming mandolin",
+        "medieval bard's stringed instrument",
+        "plucked string instrument with frets",
+        "acoustic instrument for country and folk music",
+        "mandolin duet with fiddle",
+        "classical mandolin orchestra performance"
+      ],
+      "ru": [
+        "маленький грушевидный струнный инструмент",
+        "итальянская мандолина со сдвоенными стальными струнами",
+        "блюграсс-группа играет на мандолине",
+        "лютня Ренессанса с круглой спинкой",
+        "народный музыкант перебирает мандолину",
+        "струнный инструмент средневекового барда",
+        "щипковый струнный инструмент с ладами",
+        "акустический инструмент для кантри и фолка",
+        "дуэт мандолины со скрипкой",
+        "классическое исполнение оркестра мандолин"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a mandolin icon for the bard character screen",
+        "add a lute symbol to the music instrument category",
+        "show a mandolin for the folk music section",
+        "use the mandolin icon for the string instrument filter"
+      ],
+      "ru": [
+        "Мне нужна иконка мандолины для экрана персонажа барда",
+        "добавить символ лютни в категорию музыкальных инструментов",
+        "показать мандолину для раздела народной музыки",
+        "использовать иконку мандолины для фильтра струнных инструментов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "mandoliin strings",
+        "lute instument",
+        "bardm music",
+        "gutar mandolin"
+      ],
+      "ru": [
+        "мандолиан инструмент",
+        "лютна барда",
+        "струныи мандолина",
+        "муызка барда"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "acoustic guitar with six strings",
+        "ukulele small four-string instrument",
+        "banjo with circular drum body",
+        "violin bowed string instrument",
+        "harp with vertical strings",
+        "electric guitar with solid body"
+      ],
+      "ru": [
+        "акустическая гитара с шестью струнами",
+        "укулеле маленький четырёхструнный инструмент",
+        "банджо с круглым корпусом барабана",
+        "скрипка смычковый струнный инструмент",
+        "арфа с вертикальными струнами",
+        "электрогитара с цельным корпусом"
+      ]
+    },
+    "valid": {
+      "en": [
+        "mandolin folk string instrument",
+        "bard's mandolin in fantasy",
+        "small pear-shaped stringed instrument"
+      ],
+      "ru": [
+        "народный струнный инструмент мандолина",
+        "мандолина барда в фэнтези",
+        "маленький грушевидный струнный инструмент"
+      ]
+    },
+    "test": {
+      "en": [
+        "mandolin music icon",
+        "lute-style instrument",
+        "bluegrass mandolin player"
+      ],
+      "ru": [
+        "иконка музыки мандолина",
+        "инструмент в стиле лютни",
+        "мандолина для блюграсса"
+      ]
+    }
+  }
+}

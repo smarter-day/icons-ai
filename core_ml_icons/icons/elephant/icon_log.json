@@ -1,0 +1,90 @@
+{
+  "icon": "elephant",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "animal",
+        "elephant",
+        "fauna",
+        "mammal",
+        "pachyderm",
+        "trunk"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "See the animals at the zoo",
+        "Learn about wild animals",
+        "Visit the elephant sanctuary",
+        "Watch elephants in the wild",
+        "Spot fauna on the safari",
+        "Observe fauna at the nature park",
+        "See the large mammals",
+        "Learn about African mammals",
+        "Learn about pachyderms",
+        "Read about the pachyderm family",
+        "Watch the elephant use its trunk",
+        "Elephant picking up food with its trunk"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Visit the elephant sanctuary",
+        "Watch elephants at the zoo",
+        "Go on a safari",
+        "See elephants in the wild",
+        "Take kids to see elephants",
+        "Learn about elephant behavior",
+        "Donate to elephant conservation",
+        "Watch a nature documentary about elephants",
+        "Ride an elephant on the Thailand trip",
+        "Photograph an elephant in Africa"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Safari time!",
+        "See the elephants",
+        "Elephant watching",
+        "Zoo visit"
+      ]
+    },
+    "typo": {
+      "en": [
+        "visit the elephnat sanctuary",
+        "wacth elephants at the zoo",
+        "go on a safri",
+        "see elephnts in the wild"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "See giraffes on the safari",
+        "Watch hippos at the waterhole",
+        "See rhinos in the wild",
+        "Spot a lion on the savanna",
+        "Watch gorillas at the zoo",
+        "See a mammoth exhibit at the museum"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Visit the elephant sanctuary",
+        "Watch elephants in the wild",
+        "See elephants at the zoo"
+      ]
+    },
+    "test": {
+      "en": [
+        "Go on a safari to see elephants",
+        "Learn about elephant conservation",
+        "Photograph elephants in Africa"
+      ]
+    }
+  }
+}

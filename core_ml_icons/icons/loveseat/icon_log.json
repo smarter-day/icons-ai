@@ -1,0 +1,154 @@
+{
+  "icon": "loveseat",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "chair",
+        "couch",
+        "cushion",
+        "furniture",
+        "relax",
+        "sofa"
+      ],
+      "ru": [
+        "кресло",
+        "диван",
+        "подушка",
+        "мебель",
+        "отдых",
+        "софа"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "comfortable chair for two people",
+        "chair with armrests and cushions",
+        "couch in the living room",
+        "two-person compact couch",
+        "plush cushion seating surface",
+        "soft cushion on a loveseat",
+        "living room furniture piece",
+        "home furniture catalog item",
+        "relax on a loveseat together",
+        "cozy spot to relax at home",
+        "small sofa for two people",
+        "loveseat sofa in apartment"
+      ],
+      "ru": [
+        "удобное кресло для двух человек",
+        "кресло с подлокотниками и подушками",
+        "диван в гостиной",
+        "компактный диван на двух человек",
+        "мягкая подушка для сидения",
+        "мягкая подушка на диване",
+        "предмет мебели для гостиной",
+        "предмет каталога домашней мебели",
+        "отдохнуть на диване вдвоём",
+        "уютное место для отдыха дома",
+        "маленький диван для двух человек",
+        "диван в квартире"
+      ]
+    },
+    "regular": {
+      "en": [
+        "two-person upholstered sofa",
+        "compact couch for small living spaces",
+        "loveseat in the den for couples",
+        "cozy two-seater furniture piece",
+        "upholstered seating for two with armrests",
+        "small sofa with cushioned back and seat",
+        "interior design loveseat for apartment",
+        "living room two-seat couch icon",
+        "apartment-sized comfortable sofa",
+        "cozy seating for two people at home"
+      ],
+      "ru": [
+        "диван на двух человек с обивкой",
+        "компактный диван для небольших гостиных",
+        "диван в гостиной для пар",
+        "уютная двухместная мебель",
+        "двухместное сиденье с подлокотниками",
+        "маленький диван с мягкой спинкой и сиденьем",
+        "диван для квартиры в стиле интерьера",
+        "иконка двухместного дивана в гостиной",
+        "диван квартирного размера",
+        "уютное сиденье для двух человек дома"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a loveseat icon for the furniture category",
+        "add a couch symbol to the living room section",
+        "show a sofa icon for the home decor feature",
+        "use the loveseat icon for the seating options screen"
+      ],
+      "ru": [
+        "Мне нужна иконка дивана для категории мебели",
+        "добавить символ дивана в раздел гостиной",
+        "показать иконку дивана для функции домашнего декора",
+        "использовать иконку дивана для экрана вариантов сидений"
+      ]
+    },
+    "typo": {
+      "en": [
+        "lovesat couch",
+        "cuch in living room",
+        "funiturre sofa",
+        "soaf for two"
+      ],
+      "ru": [
+        "двухместны диван",
+        "диавн в гостиной",
+        "мебел для отдыха",
+        "соафа для двоих"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "large three-cushion sectional sofa",
+        "single-seat armchair with footrest",
+        "recliner chair with adjustable back",
+        "office chair on wheels",
+        "bean bag chair for lounging",
+        "rocking chair on a porch"
+      ],
+      "ru": [
+        "большой угловой диван на три подушки",
+        "одноместное кресло с подставкой для ног",
+        "кресло-реклайнер с откидывающейся спинкой",
+        "офисное кресло на колёсиках",
+        "кресло-мешок для отдыха",
+        "кресло-качалка на веранде"
+      ]
+    },
+    "valid": {
+      "en": [
+        "two-person loveseat sofa",
+        "small upholstered couch",
+        "compact living room sofa"
+      ],
+      "ru": [
+        "двухместный диван",
+        "маленький диван с обивкой",
+        "компактный диван в гостиной"
+      ]
+    },
+    "test": {
+      "en": [
+        "loveseat furniture icon",
+        "two-seat couch",
+        "small sofa for sitting"
+      ],
+      "ru": [
+        "иконка мебели диван",
+        "двухместный диван",
+        "маленький диван для сидения"
+      ]
+    }
+  }
+}

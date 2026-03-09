@@ -1,0 +1,160 @@
+{
+  "icon": "bells",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "alert",
+        "christmas",
+        "holiday",
+        "notification",
+        "reminder",
+        "request",
+        "xmas"
+      ],
+      "ru": [
+        "оповещение",
+        "рождество",
+        "праздник",
+        "уведомление",
+        "напоминание",
+        "запрос",
+        "рождество xmas"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bells alert for the event",
+        "christmas bells decoration",
+        "holiday bells for the season",
+        "bells notification sound",
+        "bells reminder for the celebration",
+        "ring bells for attention",
+        "xmas bells on the tree",
+        "Alert bells for the fire drill today",
+        "Christmas Eve bell ringing tradition",
+        "Holiday decorations including bells",
+        "App notification bell sound setting",
+        "Reminder bells set for the event",
+        "Service request — ring for assistance",
+        "Xmas bells gift wrapping done"
+      ],
+      "ru": [
+        "колокольчики для оповещения",
+        "рождественские колокольчики в декоре",
+        "праздничные колокольчики для сезона",
+        "звук уведомления с колокольчиком",
+        "напоминание с колокольчиком к торжеству",
+        "позвонить в колокольчик для внимания",
+        "рождественские колокольчики на ёлке",
+        "Колокольный сигнал на учебную пожарную тревогу",
+        "Традиция колоколов в канун Рождества",
+        "Праздничные украшения с колокольчиками",
+        "Настройка звука уведомлений в приложении",
+        "Колокольчики-напоминания для мероприятия",
+        "Запрос на обслуживание — позвонить",
+        "Подарочная упаковка с рождественскими колокольчиками"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Hang Christmas bells on the door",
+        "Christmas bell decoration shopping",
+        "Ring bells at the Christmas service",
+        "Holiday bells for the mantle",
+        "Buy jingling bells for the tree",
+        "Christmas bell wreath",
+        "Order Christmas decorations",
+        "Set holiday bell reminder",
+        "Jingle bells for the sleigh decoration",
+        "Church bells for the holiday service"
+      ],
+      "ru": [
+        "Повесить рождественские колокольчики на дверь",
+        "Купить рождественские колокольчики",
+        "Позвонить в колокола на рождественской службе",
+        "Праздничные колокольчики на каминную полку",
+        "Купить звенящие колокольчики для ёлки",
+        "Рождественский венок с колокольчиками",
+        "Заказать рождественские украшения",
+        "Поставить праздничное напоминание с колокольчиком",
+        "Колокольчики-бубенцы для украшения саней",
+        "Церковные колокола на праздничной службе"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need to get some Christmas bells this year",
+        "The bells really make the house feel festive",
+        "Let's put up some bells for the holidays",
+        "Nothing sounds more like Christmas than bells"
+      ],
+      "ru": [
+        "В этом году нужно купить рождественские колокольчики",
+        "Колокольчики так хорошо передают праздничное настроение",
+        "Давай повесим колокольчики к праздникам",
+        "Ничто не звучит так по-рождественски как колокольчики"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Chrstmas bels decoration",
+        "Hang bels on the door",
+        "Holday bells for the seson",
+        "Xmas bels for the tre"
+      ],
+      "ru": [
+        "Рождсвенские колокольчкии в декоре",
+        "Повесить колокольчки на дверь",
+        "Прздничные колокольчики",
+        "Рождественкие колокольчики для ёлки"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Set a ringing bell reminder",
+        "School bell for class",
+        "Christmas tree decoration",
+        "Holiday wreath purchase",
+        "Christmas lights setup",
+        "Holiday candle arrangement"
+      ],
+      "ru": [
+        "Поставить напоминание с колокольчиком",
+        "Школьный звонок для урока",
+        "Украшение рождественской ёлки",
+        "Купить рождественский венок",
+        "Установить рождественские огни",
+        "Расставить праздничные свечи"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Christmas bells for the front door",
+        "Jingle bells for the holiday wreath",
+        "Holiday bell decoration setup"
+      ],
+      "ru": [
+        "Рождественские колокольчики на входную дверь",
+        "Бубенцы для праздничного венка",
+        "Украшение праздничными колокольчиками"
+      ]
+    },
+    "test": {
+      "en": [
+        "Hang bells for the Christmas season",
+        "Christmas bells on the mantle",
+        "Buy holiday bells for the house"
+      ],
+      "ru": [
+        "Повесить колокольчики к Рождеству",
+        "Колокольчики на каминную полку",
+        "Купить праздничные колокольчики"
+      ]
+    }
+  }
+}

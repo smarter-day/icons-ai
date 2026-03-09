@@ -1,0 +1,166 @@
+{
+  "icon": "tower-broadcast",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "airwaves",
+        "antenna",
+        "communication",
+        "emergency",
+        "radio",
+        "reception",
+        "signal",
+        "waves"
+      ],
+      "ru": [
+        "эфир",
+        "антенна",
+        "связь",
+        "экстренный",
+        "радио",
+        "приём",
+        "сигнал",
+        "волны"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "airwaves broadcast tower signal",
+        "radio airwaves transmission",
+        "antenna tower broadcast tall",
+        "cellular antenna tower structure",
+        "communication tower link relay",
+        "communication broadcast signal",
+        "emergency broadcast tower alert",
+        "emergency alert system tower",
+        "radio tower AM FM broadcast",
+        "radio station broadcast tower",
+        "reception signal broadcast tower",
+        "poor reception broadcast",
+        "signal broadcast tower strength",
+        "strong signal broadcast",
+        "waves emitting from tower",
+        "radio waves broadcast pattern"
+      ],
+      "ru": [
+        "эфирная башня трансляция сигнал",
+        "радиоволны передача в эфир",
+        "высокая антенная башня трансляция",
+        "вышка с антенной структура",
+        "коммуникационная вышка ретранслятор",
+        "сигнал связи трансляция",
+        "экстренная вещательная башня тревога",
+        "система экстренного оповещения башня",
+        "радиовышка AM FM трансляция",
+        "радиостанция вышка трансляции",
+        "приём сигнала вещательная башня",
+        "плохой приём трансляция",
+        "сила сигнала вещательная башня",
+        "сильный сигнал трансляция",
+        "волны исходят из башни",
+        "радиоволны шаблон трансляции"
+      ]
+    },
+    "regular": {
+      "en": [
+        "tall broadcast tower with signal waves",
+        "radio station transmission tower",
+        "TV broadcast tower on hilltop",
+        "emergency alert broadcast system tower",
+        "cellular broadcast tower for 5G",
+        "remote area broadcast tower coverage",
+        "broadcast tower blinking red lights",
+        "satellite uplink broadcast tower",
+        "public radio broadcast antenna",
+        "storm warning broadcast tower alert"
+      ],
+      "ru": [
+        "высокая вещательная башня с волнами сигнала",
+        "вышка передатчика радиостанции",
+        "телевизионная вышка на холме",
+        "система экстренного оповещения башня",
+        "вышка сотовой трансляции 5G",
+        "вышка трансляции в отдалённом районе",
+        "вещательная башня мигающие красные огни",
+        "башня спутниковой связи трансляция",
+        "антенна общественного радио",
+        "предупреждение о буре башня трансляции"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a broadcast tower icon for the signal feature",
+        "add an antenna symbol to the radio category",
+        "show a broadcast tower for the emergency alert",
+        "use the tower-broadcast icon for the communication section"
+      ],
+      "ru": [
+        "нужна иконка вещательной башни для функции сигнала",
+        "добавь символ антенны к радиокатегории",
+        "покажи вещательную башню для экстренного оповещения",
+        "используй иконку башни трансляции для раздела связи"
+      ]
+    },
+    "typo": {
+      "en": [
+        "broacast tower signal",
+        "anteanna tower radio",
+        "rado tower broadcast",
+        "signla tower waves"
+      ],
+      "ru": [
+        "вещательная башня сигнал",
+        "антенная вышка радио",
+        "радио башня трансляция",
+        "сигнальная башня волны"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "cell tower mobile network 5G",
+        "satellite dish signal receiver",
+        "WiFi router wireless signal",
+        "radio speaker audio broadcast",
+        "antenna single rod receiver",
+        "lighthouse beacon signal coast"
+      ],
+      "ru": [
+        "вышка сотовой связи мобильная сеть 5G",
+        "спутниковая тарелка приёмник сигнала",
+        "WiFi роутер беспроводной сигнал",
+        "радиодинамик аудио трансляция",
+        "одиночная антенна стержень приёмник",
+        "маяк сигнальный огонь побережье"
+      ]
+    },
+    "valid": {
+      "en": [
+        "broadcast tower signal icon",
+        "radio antenna tower symbol",
+        "signal waves tower"
+      ],
+      "ru": [
+        "иконка вещательной башни сигнал",
+        "символ радиоантенной башни",
+        "волны сигнала башня"
+      ]
+    },
+    "test": {
+      "en": [
+        "broadcast tower icon",
+        "antenna signal tower",
+        "radio tower broadcast"
+      ],
+      "ru": [
+        "иконка вещательной башни",
+        "антенна сигнальная башня",
+        "радиовышка трансляция"
+      ]
+    }
+  }
+}

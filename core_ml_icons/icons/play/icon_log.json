@@ -1,0 +1,184 @@
+{
+  "icon": "play",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "arrow",
+        "audio",
+        "music",
+        "play",
+        "play button",
+        "playing",
+        "right",
+        "sound",
+        "start",
+        "triangle",
+        "video"
+      ],
+      "ru": [
+        "стрелка",
+        "аудио",
+        "музыка",
+        "воспроизвести",
+        "кнопка воспроизведения",
+        "играет",
+        "вправо",
+        "звук",
+        "старт",
+        "треугольник",
+        "видео"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "right-facing arrow play button",
+        "arrow to start playing",
+        "audio play button tap",
+        "audio stream start button",
+        "music play button in player",
+        "music playback start",
+        "press play to begin",
+        "play media content",
+        "play button in video player",
+        "play media button",
+        "currently playing track indicator",
+        "playing song now",
+        "right triangle play symbol",
+        "right arrow pointing start",
+        "sound playback start button",
+        "sound file play action",
+        "start playing video or audio",
+        "start media stream",
+        "triangle pointing right to play",
+        "green triangle play icon",
+        "video play button on screen",
+        "tap to play video"
+      ],
+      "ru": [
+        "направленная вправо стрелка воспроизведения",
+        "стрелка для начала воспроизведения",
+        "нажать кнопку воспроизведения аудио",
+        "кнопка начала потокового аудио",
+        "кнопка воспроизведения музыки в плеере",
+        "начало воспроизведения музыки",
+        "нажать воспроизвести для начала",
+        "воспроизвести медиаконтент",
+        "кнопка воспроизведения в видеоплеере",
+        "кнопка воспроизведения медиа",
+        "индикатор текущего трека",
+        "сейчас воспроизводится песня",
+        "правый треугольник символ воспроизведения",
+        "правая стрелка старт",
+        "кнопка начала воспроизведения звука",
+        "действие воспроизведения звука",
+        "начать воспроизведение видео или аудио",
+        "начать медиапоток",
+        "треугольник вправо для воспроизведения",
+        "зелёный треугольник иконка",
+        "кнопка воспроизведения видео",
+        "нажать для воспроизведения"
+      ]
+    },
+    "regular": {
+      "en": [
+        "green triangle play button for media",
+        "tap to play video or music",
+        "play pause button pair",
+        "streaming app play button",
+        "play button centered on video thumbnail",
+        "music player play icon",
+        "start audio with triangle play button",
+        "media control play action",
+        "circular play button with arrow",
+        "podcast play episode button"
+      ],
+      "ru": [
+        "зелёный треугольник кнопки воспроизведения",
+        "нажать для воспроизведения видео или музыки",
+        "пара кнопок воспроизведения и паузы",
+        "кнопка воспроизведения в стриминге",
+        "кнопка воспроизведения на эскизе видео",
+        "иконка воспроизведения музыкального плеера",
+        "начать аудио треугольником воспроизведения",
+        "действие воспроизведения медиа",
+        "круглая кнопка воспроизведения со стрелкой",
+        "кнопка воспроизведения эпизода подкаста"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a play button icon for the media player",
+        "add a play symbol to the video section",
+        "show a play button for the audio player screen",
+        "use the play icon for the start media action"
+      ],
+      "ru": [
+        "Мне нужна иконка кнопки воспроизведения для медиаплеера",
+        "добавить символ воспроизведения в раздел видео",
+        "показать кнопку воспроизведения для аудиоплеера",
+        "использовать иконку воспроизведения для запуска медиа"
+      ]
+    },
+    "typo": {
+      "en": [
+        "plya button",
+        "viedo play button",
+        "musci play",
+        "strat play"
+      ],
+      "ru": [
+        "кнопка воспорзведения",
+        "видео воспроизвести",
+        "музыка воспроизести",
+        "начать воспроизведни"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "pause button two vertical bars",
+        "stop button square symbol",
+        "fast forward double arrow",
+        "rewind double arrow backward",
+        "skip next track forward button",
+        "volume speaker icon"
+      ],
+      "ru": [
+        "кнопка паузы две полосы",
+        "кнопка стоп квадрат",
+        "перемотка вперёд",
+        "перемотка назад",
+        "пропустить трек вперёд",
+        "иконка громкости"
+      ]
+    },
+    "valid": {
+      "en": [
+        "play button for media player",
+        "triangle play icon",
+        "start playing audio or video"
+      ],
+      "ru": [
+        "кнопка воспроизведения медиаплеера",
+        "иконка треугольник воспроизведения",
+        "начать воспроизведение"
+      ]
+    },
+    "test": {
+      "en": [
+        "play icon",
+        "play button video audio",
+        "triangle start media"
+      ],
+      "ru": [
+        "иконка воспроизведения",
+        "кнопка воспроизведения",
+        "треугольник запуск медиа"
+      ]
+    }
+  }
+}

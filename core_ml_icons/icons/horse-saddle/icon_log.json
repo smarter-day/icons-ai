@@ -1,0 +1,90 @@
+{
+  "icon": "horse-saddle",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cowboy",
+        "fauna",
+        "mare",
+        "pony",
+        "rodeo",
+        "western"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Dress as a cowboy for the event",
+        "Buy cowboy boots and hat",
+        "Observe fauna at the ranch",
+        "Wildlife and fauna on the western plains",
+        "Brush the mare before saddling",
+        "Ride the mare on the trail",
+        "Ride a pony with a saddle",
+        "Saddle up the pony",
+        "Watch the rodeo event",
+        "Compete in the rodeo",
+        "Watch a western movie",
+        "Enjoy a western-style dinner"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Saddle up the horse for a ride",
+        "Attend a rodeo event",
+        "Take a western horseback riding tour",
+        "Watch a classic western movie",
+        "Buy a leather saddle",
+        "Clean and oil the saddle",
+        "Visit a dude ranch",
+        "Dress in western wear for the event",
+        "Watch bull riding at the rodeo",
+        "Learn to lasso at the ranch"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Saddle up!",
+        "Rodeo time",
+        "Western ride",
+        "Cowboy mode"
+      ]
+    },
+    "typo": {
+      "en": [
+        "sadle up the horse",
+        "watcch the rodeo evnet",
+        "take a westenr ride",
+        "buy a learther saddle"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Ride a horse without a saddle",
+        "Put the bridle on the horse",
+        "Use a riding helmet for safety",
+        "Visit a farm to see horses",
+        "Watch horse racing at the track",
+        "Buy horseshoes for the stable"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Saddle up the horse",
+        "Attend a rodeo event",
+        "Take a western horseback tour"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy a leather saddle",
+        "Visit a dude ranch",
+        "Watch bull riding at the rodeo"
+      ]
+    }
+  }
+}

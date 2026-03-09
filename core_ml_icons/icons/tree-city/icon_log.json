@@ -1,0 +1,136 @@
+{
+  "icon": "tree-city",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "building",
+        "city",
+        "urban"
+      ],
+      "ru": [
+        "здание",
+        "город",
+        "городской"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "building with tree city design",
+        "green building city tree",
+        "city tree lined street",
+        "city park tree urban",
+        "urban tree planning city",
+        "urban green space tree"
+      ],
+      "ru": [
+        "здание с деревом городской дизайн",
+        "зелёное здание город дерево",
+        "городская улица с деревьями",
+        "городской парк дерево",
+        "планирование городских деревьев",
+        "городское зелёное пространство дерево"
+      ]
+    },
+    "regular": {
+      "en": [
+        "city skyline with trees in foreground",
+        "urban park green space city",
+        "tree lined city boulevard",
+        "rooftop garden urban green city",
+        "city tree planting initiative",
+        "green city sustainable urban planning",
+        "street tree city sidewalk",
+        "urban forest city biodiversity",
+        "tree canopy coverage urban area",
+        "city tree maintenance pruning"
+      ],
+      "ru": [
+        "городской горизонт с деревьями на переднем плане",
+        "городской парк зелёное пространство",
+        "городской бульвар с деревьями",
+        "сад на крыше городской зелёный",
+        "инициатива по посадке деревьев в городе",
+        "зелёный город устойчивое городское планирование",
+        "уличное дерево городской тротуар",
+        "городской лес биоразнообразие",
+        "покрытие кронами деревьев городская зона",
+        "уход за деревьями обрезка в городе"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a tree-city icon for the sustainability section",
+        "add an urban tree symbol to the city planning feature",
+        "show a green city icon for the nature category",
+        "use the tree-city icon for the eco-friendly projects"
+      ],
+      "ru": [
+        "нужна иконка дерево-город для раздела устойчивого развития",
+        "добавь символ городского дерева к функции городского планирования",
+        "покажи иконку зелёного города для категории природы",
+        "используй иконку дерево-город для экологических проектов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "city tee urban green",
+        "urban treee city park",
+        "bulidng city green tree",
+        "cty tree planning"
+      ],
+      "ru": [
+        "городское дерево зелёный",
+        "городской парк дерево",
+        "здание город зелёное дерево",
+        "планирование деревьев город"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "tree single nature forest",
+        "building city skyscraper alone",
+        "park bench garden outdoor",
+        "leaf plant nature green",
+        "house suburban home tree",
+        "globe earth green planet"
+      ],
+      "ru": [
+        "одинокое дерево природа лес",
+        "здание небоскрёб город один",
+        "скамейка парк сад на улице",
+        "лист растение природа зелёный",
+        "дом пригород дерево",
+        "глобус земля зелёная планета"
+      ]
+    },
+    "valid": {
+      "en": [
+        "tree city urban icon",
+        "green city with trees",
+        "urban tree city symbol"
+      ],
+      "ru": [
+        "иконка дерева в городе",
+        "зелёный город с деревьями",
+        "символ городских деревьев"
+      ]
+    },
+    "test": {
+      "en": [
+        "tree-city icon urban",
+        "city green tree symbol",
+        "sustainable city tree"
+      ],
+      "ru": [
+        "иконка дерево-город",
+        "символ зелёного города",
+        "устойчивый город дерево"
+      ]
+    }
+  }
+}

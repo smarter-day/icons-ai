@@ -1,0 +1,160 @@
+{
+  "icon": "timer",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "clock",
+        "countdown",
+        "pending",
+        "stopwatch",
+        "timer",
+        "timer clock",
+        "waiting"
+      ],
+      "ru": [
+        "часы",
+        "обратный отсчёт",
+        "ожидание",
+        "секундомер",
+        "таймер",
+        "часы-таймер",
+        "ожидание"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "clock timer digital display",
+        "clock countdown timer",
+        "countdown timer launching rocket",
+        "countdown to deadline event",
+        "pending timer waiting result",
+        "pending state timer icon",
+        "stopwatch sport timing seconds",
+        "stopwatch lap time record",
+        "kitchen timer cooking countdown",
+        "timer alert goes off",
+        "timer clock circular progress",
+        "timer clock face display",
+        "waiting timer spinner icon",
+        "waiting animation timer"
+      ],
+      "ru": [
+        "цифровой таймер часы дисплей",
+        "обратный отсчёт часы таймер",
+        "таймер обратного отсчёта запуск ракеты",
+        "обратный отсчёт до дедлайна события",
+        "таймер ожидания результата",
+        "состояние ожидания иконка таймера",
+        "спортивный секундомер время в секундах",
+        "секундомер запись кругового времени",
+        "кухонный таймер отсчёт приготовления",
+        "предупреждение таймера срабатывает",
+        "таймер часы кольцевой прогресс",
+        "дисплей циферблата таймера часов",
+        "ожидание спиннер таймер",
+        "анимация ожидания таймер"
+      ]
+    },
+    "regular": {
+      "en": [
+        "kitchen timer ticking countdown",
+        "stopwatch precise time measurement",
+        "countdown timer new year event",
+        "egg timer three minute hourglass",
+        "Pomodoro technique 25 minute timer",
+        "workout interval timer HIIT",
+        "test exam time limit countdown",
+        "loading timer circular progress",
+        "chess clock timer two player",
+        "app timeout session timer expired"
+      ],
+      "ru": [
+        "кухонный таймер тикающий отсчёт",
+        "секундомер точное измерение времени",
+        "обратный отсчёт новогоднее событие",
+        "таймер для яиц трёхминутные песочные часы",
+        "техника Помодоро 25-минутный таймер",
+        "интервальный таймер тренировок HIIT",
+        "таймер ограничения времени на экзамен",
+        "загрузка таймер кольцевой прогресс",
+        "шахматные часы таймер два игрока",
+        "тайм-аут сессии приложения таймер истёк"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a timer icon for the countdown feature",
+        "add a stopwatch symbol to the workout tracker",
+        "show a timer for the cooking reminder",
+        "use the timer icon for the session limit screen"
+      ],
+      "ru": [
+        "нужна иконка таймера для функции обратного отсчёта",
+        "добавь символ секундомера в трекер тренировок",
+        "покажи таймер для напоминания о приготовлении",
+        "используй иконку таймера для экрана ограничения сессии"
+      ]
+    },
+    "typo": {
+      "en": [
+        "timre countdown seconds",
+        "stpwatch lap time",
+        "coutndown timer event",
+        "waiitnig timer spinner"
+      ],
+      "ru": [
+        "таймер отсчёт секунды",
+        "секундомр время круга",
+        "обратный отчёт событие",
+        "ожидане спиннер таймер"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "alarm clock morning wake up",
+        "hourglass sand time passing",
+        "clock wall time telling",
+        "calendar date day planner",
+        "progress bar loading percent",
+        "metronome music beat tempo"
+      ],
+      "ru": [
+        "будильник утреннее пробуждение",
+        "песочные часы время проходит",
+        "настенные часы показывают время",
+        "календарь дата день планировщик",
+        "прогресс-бар загрузка процент",
+        "метроном музыкальный ритм темп"
+      ]
+    },
+    "valid": {
+      "en": [
+        "countdown timer icon",
+        "stopwatch timing symbol",
+        "kitchen timer countdown"
+      ],
+      "ru": [
+        "иконка таймера обратного отсчёта",
+        "символ секундомера",
+        "кухонный таймер отсчёт"
+      ]
+    },
+    "test": {
+      "en": [
+        "timer icon countdown",
+        "stopwatch timer symbol",
+        "pending timer waiting"
+      ],
+      "ru": [
+        "иконка таймера отсчёт",
+        "символ секундомера",
+        "таймер ожидания"
+      ]
+    }
+  }
+}

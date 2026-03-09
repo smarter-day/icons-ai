@@ -1,0 +1,90 @@
+{
+  "icon": "crop",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "design",
+        "frame",
+        "mask",
+        "modify",
+        "resize",
+        "shrink"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Crop the image for the design",
+        "Adjust the design canvas",
+        "Set the photo frame size",
+        "Frame the image for Instagram",
+        "Apply a mask to the photo layer",
+        "Mask out the background",
+        "Modify the photo before posting",
+        "Modify the image dimensions",
+        "Resize the image for the web",
+        "Resize the photo before uploading",
+        "Shrink the image file size",
+        "Shrink the photo to fit the screen"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Crop the profile photo",
+        "Trim the video clip",
+        "Crop the screenshot before sending",
+        "Resize image for the presentation",
+        "Adjust the aspect ratio",
+        "Crop out unwanted background",
+        "Edit the photo before sharing",
+        "Prepare the image for the blog",
+        "Crop the banner to the right size",
+        "Trim the edges of the photo"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Crop that photo",
+        "Trim the image",
+        "Quick crop",
+        "Edit the pic"
+      ]
+    },
+    "typo": {
+      "en": [
+        "croop the profile photo",
+        "rezise the image",
+        "tirm the photo edges",
+        "modfiy the photo size"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Rotate the photo 90 degrees",
+        "Adjust brightness and contrast",
+        "Apply a filter to the photo",
+        "Resize the canvas in Photoshop",
+        "Flip the image horizontally",
+        "Add a border to the photo"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Crop the profile photo",
+        "Resize image for the web",
+        "Trim the screenshot before sharing"
+      ]
+    },
+    "test": {
+      "en": [
+        "Crop the banner image",
+        "Adjust the photo aspect ratio",
+        "Crop out the background"
+      ]
+    }
+  }
+}

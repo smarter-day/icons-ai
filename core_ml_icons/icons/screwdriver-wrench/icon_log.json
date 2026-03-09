@@ -1,0 +1,184 @@
+{
+  "icon": "screwdriver-wrench",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "admin",
+        "configuration",
+        "equipment",
+        "fix",
+        "maintenance",
+        "modify",
+        "repair",
+        "screwdriver",
+        "settings",
+        "tools",
+        "wrench"
+      ],
+      "ru": [
+        "администрирование",
+        "конфигурация",
+        "оборудование",
+        "исправить",
+        "техобслуживание",
+        "изменить",
+        "ремонт",
+        "отвёртка",
+        "настройки",
+        "инструменты",
+        "гаечный ключ"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "admin tools panel with screwdriver and wrench",
+        "admin mode toggled with tools icon",
+        "configuration menu opened by tools icon",
+        "system configuration tools panel",
+        "repair equipment screwdriver and wrench together",
+        "maintenance equipment for technician",
+        "fix car engine with wrench and screwdriver",
+        "fix broken device with combined tools",
+        "maintenance screen with tools icon",
+        "scheduled maintenance using both tools",
+        "modify system with screwdriver and wrench",
+        "modify settings with developer tools",
+        "repair panel with dual tools icon",
+        "general repair tools for handyman",
+        "screwdriver and wrench crossed icon",
+        "screwdriver symbol in toolbox",
+        "settings gear and tools icon",
+        "app settings opened with tools symbol",
+        "tools section with screwdriver and wrench",
+        "developer tools panel",
+        "wrench for adjusting nuts and bolts",
+        "wrench symbol alongside screwdriver"
+      ],
+      "ru": [
+        "панель инструментов администратора с отвёрткой и ключом",
+        "режим администратора с иконкой инструментов",
+        "меню конфигурации с иконкой инструментов",
+        "панель системной конфигурации",
+        "инструменты для ремонта отвёртка и ключ вместе",
+        "инструменты для техника",
+        "ремонт двигателя авто ключом и отвёрткой",
+        "исправить устройство комбинацией инструментов",
+        "экран техобслуживания с иконкой инструментов",
+        "плановое обслуживание обоими инструментами",
+        "изменить систему отвёрткой и ключом",
+        "изменить настройки с инструментами разработчика",
+        "панель ремонта с иконкой двух инструментов",
+        "общие инструменты для мастера",
+        "скрещенные иконки отвёртки и ключа",
+        "символ отвёртки в ящике инструментов",
+        "иконка настроек шестерёнка и инструменты",
+        "настройки приложения с символом инструментов",
+        "раздел инструментов с отвёрткой и ключом",
+        "панель инструментов разработчика",
+        "ключ для регулировки гаек и болтов",
+        "символ ключа рядом с отвёрткой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "screwdriver and wrench crossed as tools icon",
+        "settings menu accessed via tools icon in app",
+        "developer tools panel with screwdriver and wrench",
+        "repair shop sign with crossed tools",
+        "mechanic toolbox with screwdriver and wrench",
+        "maintenance mode icon with tools symbol",
+        "hardware settings icon for device management",
+        "admin dashboard accessed with tools symbol",
+        "combined tools for general home repair",
+        "service center icon showing dual tools"
+      ],
+      "ru": [
+        "скрещенные иконки отвёртки и ключа",
+        "меню настроек через иконку инструментов",
+        "панель инструментов разработчика с отвёрткой и ключом",
+        "вывеска мастерской со скрещенными инструментами",
+        "ящик механика с отвёрткой и ключом",
+        "иконка режима техобслуживания с символом инструментов",
+        "иконка настроек оборудования для управления устройством",
+        "панель администратора через символ инструментов",
+        "комбинированные инструменты для домашнего ремонта",
+        "иконка сервисного центра с двумя инструментами"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a screwdriver-wrench icon for the settings screen",
+        "add a tools symbol to the admin section",
+        "show screwdriver and wrench for the maintenance panel",
+        "use the tools icon for the developer settings"
+      ],
+      "ru": [
+        "мне нужна иконка отвёртки-ключа для экрана настроек",
+        "добавь символ инструментов в раздел администратора",
+        "покажи отвёртку и ключ для панели техобслуживания",
+        "используй иконку инструментов для настроек разработчика"
+      ]
+    },
+    "typo": {
+      "en": [
+        "scerwdriver and wrench crossed tools icon",
+        "settigns menu with tools icon in app",
+        "maintenace mode icon with tools symbol",
+        "mechnaic toolbox with screwdriver and wrnech"
+      ],
+      "ru": [
+        "иконка скрещенных отвётрки и ключа",
+        "меню насстроек с иконкой инструментов",
+        "иконка рехима техобслуживания",
+        "ящик мехника с отвёрткой и ключём"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "screwdriver only without wrench",
+        "wrench alone tightening a bolt",
+        "hammer and nail for construction",
+        "gear cog icon for settings alone",
+        "toolbox with multiple tools inside",
+        "hard hat for construction safety"
+      ],
+      "ru": [
+        "только отвёртка без ключа",
+        "только ключ затягивает болт",
+        "молоток и гвоздь для строительства",
+        "иконка шестерёнки только для настроек",
+        "инструментальный ящик с несколькими инструментами",
+        "каска строительная для безопасности"
+      ]
+    },
+    "valid": {
+      "en": [
+        "screwdriver and wrench icon for settings",
+        "tools symbol for admin or maintenance panel",
+        "crossed tools icon for developer settings"
+      ],
+      "ru": [
+        "иконка отвёртки и ключа для настроек",
+        "символ инструментов для панели администратора",
+        "иконка скрещенных инструментов для настроек"
+      ]
+    },
+    "test": {
+      "en": [
+        "screwdriver-wrench icon for repair tools",
+        "settings screen with tools symbol",
+        "maintenance panel with dual tools icon"
+      ],
+      "ru": [
+        "иконка отвёртка-ключ для инструментов ремонта",
+        "экран настроек с символом инструментов",
+        "панель техобслуживания с двумя инструментами"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "icon": "list-check",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "checklist",
+        "progress",
+        "project management",
+        "settings",
+        "summary",
+        "to do",
+        "working"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Create a project checklist",
+        "Follow the checklist step by step",
+        "Track the download progress",
+        "Monitor the progress bar",
+        "Use a project management tool",
+        "Plan with project management software",
+        "Open the app settings checklist",
+        "Complete the settings checklist",
+        "Write a project summary",
+        "Review the completion summary",
+        "Make a to-do list",
+        "Check off the to-do items",
+        "Stay working on the task",
+        "Keep working through the list"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Check off completed tasks",
+        "Create a project task list",
+        "Track progress on the checklist",
+        "Mark items as done on the list",
+        "Review the checklist before submitting",
+        "Make a shopping checklist",
+        "Follow the setup checklist",
+        "Keep track of project milestones",
+        "Use a checklist for the process",
+        "Complete all items on the list"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Check it off",
+        "Task list",
+        "Mark as done",
+        "Track progress"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chekc off completd tasks",
+        "creat a projet task lsit",
+        "trakc progres on checkist",
+        "mark itmes as doen"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Write a grocery list without checks",
+        "Plan using a Gantt chart",
+        "Use a calendar for scheduling",
+        "Write notes in the journal",
+        "Use a kanban board for tasks",
+        "Draft a project proposal"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Check off completed tasks",
+        "Track progress on the checklist",
+        "Create a project task list"
+      ]
+    },
+    "test": {
+      "en": [
+        "Mark items as done on the list",
+        "Follow the setup checklist",
+        "Complete all items on the list"
+      ]
+    }
+  }
+}

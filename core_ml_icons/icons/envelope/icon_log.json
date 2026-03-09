@@ -1,0 +1,102 @@
+{
+  "icon": "envelope",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "e-mail",
+        "email",
+        "envelope",
+        "letter",
+        "mail",
+        "message",
+        "newsletter",
+        "notification",
+        "offer",
+        "support"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Send an e-mail to the team",
+        "Check e-mail in the morning",
+        "Read new email in the inbox",
+        "Reply to the email",
+        "Seal the envelope before mailing",
+        "Address the envelope",
+        "Write a letter to a friend",
+        "Send a handwritten letter",
+        "Check the mail in the mailbox",
+        "Send mail to the address",
+        "Send a message to the group",
+        "Reply to the message",
+        "Subscribe to the newsletter",
+        "Unsubscribe from the newsletter",
+        "Turn on email notifications",
+        "Check the notification",
+        "Review the special offer email",
+        "Reply to the job offer",
+        "Contact customer support",
+        "Email support for help"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Check email in the morning",
+        "Reply to the work email",
+        "Send a letter to a friend",
+        "Subscribe to the newsletter",
+        "Contact support via email",
+        "Write a thank-you email",
+        "Check unread messages in inbox",
+        "Send an email with an attachment",
+        "Follow up on the unanswered email",
+        "Unsubscribe from junk mail"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Check your email",
+        "Reply to that message",
+        "Got mail!",
+        "Send a message"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chekc the emial",
+        "sned a message",
+        "reapply to email",
+        "subsrcibe to newsletter"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Send a text message on the phone",
+        "Post a letter at the post office",
+        "Send a direct message on social media",
+        "Leave a voicemail",
+        "Send a fax to the office",
+        "Chat on messaging app"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Check email in the morning",
+        "Send a letter to a friend",
+        "Subscribe to the newsletter"
+      ]
+    },
+    "test": {
+      "en": [
+        "Reply to the work email",
+        "Contact support via email",
+        "Send an email with an attachment"
+      ]
+    }
+  }
+}

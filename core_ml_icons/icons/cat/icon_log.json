@@ -1,0 +1,166 @@
+{
+  "icon": "cat",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cat",
+        "feline",
+        "halloween",
+        "holiday",
+        "kitten",
+        "kitty",
+        "meow",
+        "pet"
+      ],
+      "ru": [
+        "кошка",
+        "кошачий",
+        "хэллоуин",
+        "праздник",
+        "котёнок",
+        "котик",
+        "мяу",
+        "питомец"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Cat food at the pet store",
+        "Feline vet appointment",
+        "Halloween black cat costume",
+        "Holiday cat sticker collection",
+        "Kitten adoption at the shelter",
+        "Kitty litter box change",
+        "Meow reminder to feed the cat",
+        "Pet care schedule for the week",
+        "Cat vet vaccination appointment booked",
+        "Feline behavior training tips for the owner",
+        "Halloween black cat poster on the window",
+        "Holiday cat sitter booked for the trip",
+        "Kitten-proof the apartment before arrival",
+        "Kitty window perch installation done",
+        "Meow notification set for feeding time",
+        "Pet insurance renewal this quarter"
+      ],
+      "ru": [
+        "Корм для кошки в зоомагазине",
+        "Визит к ветеринару с кошкой",
+        "Костюм чёрной кошки на Хэллоуин",
+        "Праздничная коллекция стикеров с кошкой",
+        "Усыновление котёнка из приюта",
+        "Смена наполнителя для кошачьего туалета",
+        "Напоминание мяу накормить кошку",
+        "Расписание ухода за питомцем на неделю",
+        "Запись к ветеринару на вакцинацию кошки",
+        "Советы по коррекции поведения кошки",
+        "Хэллоуинский постер с чёрным котом на окне",
+        "Кошачий ситтер на период праздников забронирован",
+        "Обезопасить квартиру от котёнка до его приезда",
+        "Полочка у окна для кошки установлена",
+        "Уведомление мяуканьем о времени кормления",
+        "Продление страховки питомца в этом квартале"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Feed the cat this evening",
+        "Cat vet checkup this month",
+        "Buy cat toys at the store",
+        "Cat grooming appointment",
+        "Clean the cat's litter box",
+        "Cat vaccination reminder",
+        "New kitten settling in at home",
+        "Cat sitting for the weekend",
+        "Cat flea treatment due",
+        "Buy premium cat food"
+      ],
+      "ru": [
+        "Покормить кошку этим вечером",
+        "Плановый осмотр кошки у ветеринара",
+        "Купить игрушки для кошки",
+        "Запись на груминг кошки",
+        "Почистить кошачий туалет",
+        "Напоминание о прививке кошке",
+        "Новый котёнок обустраивается дома",
+        "Передержка кошки на выходные",
+        "Пора обрабатывать кошку от блох",
+        "Купить премиальный корм для кошки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "the cat needs feeding again",
+        "litter box smells — clean it",
+        "cat's been acting weird lately",
+        "cuddling with the cat all evening"
+      ],
+      "ru": [
+        "кошку снова надо кормить",
+        "туалет пахнет — почисти его",
+        "кошка в последнее время ведёт себя странно",
+        "обнимаюсь с кошкой весь вечер"
+      ]
+    },
+    "typo": {
+      "en": [
+        "feed the catt this evening",
+        "kiten adoption at the shelter",
+        "littre box change for the cat",
+        "cat vetrinarian appointment"
+      ],
+      "ru": [
+        "покормить кошеку вечером",
+        "усыновление котёнека из приюта",
+        "смена натолнителя для туалета",
+        "запись к ветиринару с кошкой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Dog walk before breakfast",
+        "Fish tank cleaning this weekend",
+        "Rabbit hutch cleaning day",
+        "Bird cage cleaning and feeding",
+        "Hamster wheel needs oiling",
+        "Parrot training session today"
+      ],
+      "ru": [
+        "Прогулка с собакой до завтрака",
+        "Чистка аквариума в эти выходные",
+        "День уборки клетки кролика",
+        "Чистка клетки птицы и кормление",
+        "Колесо хомяка нуждается в смазке",
+        "Тренировка попугая сегодня"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Cat vet appointment this week",
+        "Buy cat food from the pet store",
+        "Clean the cat litter box today"
+      ],
+      "ru": [
+        "Визит к ветеринару с кошкой на этой неделе",
+        "Купить корм для кошки в зоомагазине",
+        "Почистить кошачий туалет сегодня"
+      ]
+    },
+    "test": {
+      "en": [
+        "Feed the cat tonight",
+        "Cat grooming appointment booked",
+        "Kitten vaccination due"
+      ],
+      "ru": [
+        "Покормить кошку сегодня вечером",
+        "Запись на груминг кошки",
+        "Пришло время вакцинации котёнка"
+      ]
+    }
+  }
+}

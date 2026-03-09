@@ -1,0 +1,148 @@
+{
+  "icon": "passport",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "document",
+        "id",
+        "identification",
+        "issued",
+        "travel"
+      ],
+      "ru": [
+        "документ",
+        "удостоверение",
+        "идентификация",
+        "выдан",
+        "путешествие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "travel document passport book",
+        "official document required for travel",
+        "government issued ID passport",
+        "national ID document",
+        "identification for border control",
+        "identity verification at airport",
+        "passport issued by government",
+        "passport issued and stamped",
+        "international travel passport",
+        "passport for overseas travel"
+      ],
+      "ru": [
+        "дорожный документ книжка паспорта",
+        "официальный документ необходимый для поездки",
+        "удостоверение личности паспорт выданный государством",
+        "национальный документ удостоверения",
+        "удостоверение личности для пограничного контроля",
+        "проверка личности в аэропорту",
+        "паспорт выданный государством",
+        "паспорт выданный и проштампованный",
+        "паспорт для международных поездок",
+        "паспорт для заграничных поездок"
+      ]
+    },
+    "regular": {
+      "en": [
+        "international passport booklet with cover",
+        "passport stamp collection from countries",
+        "border crossing passport control check",
+        "biometric passport with chip",
+        "expired passport renewal document",
+        "passport photo requirement for ID",
+        "airport check-in passport scanning",
+        "travel document for overseas trips",
+        "customs passport inspection at border",
+        "digital passport identity verification"
+      ],
+      "ru": [
+        "международная паспортная книжка с обложкой",
+        "коллекция штампов паспорта из стран",
+        "проверка паспортного контроля при пересечении границы",
+        "биометрический паспорт с чипом",
+        "просроченный паспорт документ для продления",
+        "требование к фото для паспорта удостоверения",
+        "сканирование паспорта при регистрации в аэропорту",
+        "дорожный документ для поездок за рубеж",
+        "таможенный осмотр паспорта на границе",
+        "цифровая проверка личности паспорта"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a passport icon for the travel documents section",
+        "add a passport symbol to the ID verification feature",
+        "show a passport for the international travel screen",
+        "use the passport icon for the border crossing section"
+      ],
+      "ru": [
+        "Мне нужна иконка паспорта для раздела дорожных документов",
+        "добавить символ паспорта в функцию проверки личности",
+        "показать паспорт для экрана международных поездок",
+        "использовать иконку паспорта для раздела пересечения границы"
+      ]
+    },
+    "typo": {
+      "en": [
+        "passprot travel",
+        "idenification passport",
+        "docuemnt travel ID",
+        "passpotr stamp"
+      ],
+      "ru": [
+        "паспорт путешестиве",
+        "удостоврение личности",
+        "дорожный докуемнт",
+        "стмап паспорта"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "driver's license ID card",
+        "national ID card without booklet",
+        "visa stamp document",
+        "plane ticket boarding pass",
+        "birth certificate document",
+        "credit card wallet ID"
+      ],
+      "ru": [
+        "водительское удостоверение карточка",
+        "национальное удостоверение без книжки",
+        "документ визового штампа",
+        "посадочный талон авиабилет",
+        "документ свидетельства о рождении",
+        "кредитная карта кошелёк удостоверение"
+      ]
+    },
+    "valid": {
+      "en": [
+        "passport for international travel",
+        "government issued travel document",
+        "passport booklet icon"
+      ],
+      "ru": [
+        "паспорт для международных поездок",
+        "дорожный документ выданный государством",
+        "иконка паспортной книжки"
+      ]
+    },
+    "test": {
+      "en": [
+        "passport icon",
+        "travel document passport",
+        "ID passport for travel"
+      ],
+      "ru": [
+        "иконка паспорта",
+        "дорожный документ паспорт",
+        "удостоверение паспорт для поездок"
+      ]
+    }
+  }
+}

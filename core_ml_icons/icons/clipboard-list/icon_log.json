@@ -1,0 +1,108 @@
+{
+  "icon": "clipboard-list",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cheatsheet",
+        "checklist",
+        "completed",
+        "done",
+        "finished",
+        "itinerary",
+        "schedule",
+        "summary",
+        "survey",
+        "tick",
+        "todo",
+        "wishlist"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Make a cheatsheet for the exam",
+        "Use a cheatsheet at the meeting",
+        "Create a checklist for the trip",
+        "Follow the project checklist",
+        "Mark tasks as completed",
+        "Review completed items on the list",
+        "Mark the task as done",
+        "Check what's done already",
+        "See what's finished",
+        "Wrap up the finished tasks",
+        "Plan the travel itinerary",
+        "Review the trip itinerary",
+        "Build a daily schedule",
+        "Update the work schedule",
+        "Write a project summary",
+        "Read the meeting summary",
+        "Send out a customer survey",
+        "Fill out the feedback survey",
+        "Put a tick on the task",
+        "Tick off each item on the list",
+        "Add an item to the todo list",
+        "Review today's todo list",
+        "Add gifts to my wishlist",
+        "Check my wishlist"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Make a grocery list",
+        "Create a daily to-do list",
+        "Plan tasks for tomorrow",
+        "Review my weekly checklist",
+        "Organize the project tasks",
+        "Check off completed items",
+        "Plan the meeting agenda",
+        "Write down everything I need to do",
+        "Set priorities for the week",
+        "Track daily habits"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Quick task list",
+        "Write that stuff down",
+        "Check off the list",
+        "What's left to do?"
+      ]
+    },
+    "typo": {
+      "en": [
+        "create a chcklist",
+        "to-od list for tomorrow",
+        "review the scheduel",
+        "add to my whishlist"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Set a meeting reminder in the calendar",
+        "Write notes in my journal",
+        "Send a calendar invite",
+        "Draft a project proposal",
+        "Archive old documents",
+        "Update the project Gantt chart"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Go through my checklist",
+        "Plan tomorrow's tasks",
+        "Review the to-do list"
+      ]
+    },
+    "test": {
+      "en": [
+        "Complete the task list",
+        "Organize daily activities",
+        "Create a project checklist"
+      ]
+    }
+  }
+}

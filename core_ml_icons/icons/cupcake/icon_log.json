@@ -1,0 +1,84 @@
+{
+  "icon": "cupcake",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "birthday",
+        "dessert",
+        "frosting",
+        "sweet"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "birthday cupcake with a candle",
+        "cupcake for the birthday celebration",
+        "cupcake as a dessert treat",
+        "dessert cupcake from the bakery",
+        "cupcake with colorful frosting on top",
+        "frosting swirled on top of cupcake",
+        "sweet cupcake treat for kids",
+        "sweet frosted cupcake from the shop"
+      ]
+    },
+    "regular": {
+      "en": [
+        "cupcake with pink frosting and a birthday candle",
+        "birthday cupcake with colorful sprinkles",
+        "chocolate cupcake from the bakery",
+        "cupcake with cream cheese frosting",
+        "homemade cupcake for the school bake sale",
+        "cupcake display at the dessert table",
+        "vanilla cupcake with swirled frosting",
+        "mini cupcake served as a party favor",
+        "cupcake icon for the bakery menu",
+        "cupcake decorated with fondant flowers"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a cupcake icon for the bakery app",
+        "add a cupcake symbol to the birthday feature",
+        "show a cupcake for the desserts category",
+        "use the cupcake icon for the sweet treats section"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cupcke with frosting",
+        "birthdya cupcake candle",
+        "frostng on the cupcake",
+        "swet cupcake treat"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "muffin with blueberries on top",
+        "birthday cake with multiple lit candles",
+        "glazed donut with colorful sprinkles",
+        "chocolate chip cookie on a plate",
+        "ice cream cone with two scoops",
+        "macaroon with cream filling"
+      ]
+    },
+    "valid": {
+      "en": [
+        "cupcake with frosting and candle",
+        "birthday cupcake with sprinkles",
+        "sweet cupcake from bakery"
+      ]
+    },
+    "test": {
+      "en": [
+        "cupcake icon",
+        "frosted cupcake symbol",
+        "birthday cupcake"
+      ]
+    }
+  }
+}

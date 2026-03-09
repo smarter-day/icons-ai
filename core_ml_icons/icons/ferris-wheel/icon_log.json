@@ -1,0 +1,90 @@
+{
+  "icon": "ferris-wheel",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "amusement park",
+        "fair",
+        "ferris wheel",
+        "ride",
+        "theme park",
+        "wheel"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Visit an amusement park",
+        "Buy tickets to the amusement park",
+        "Go to the state fair",
+        "Enjoy the fair this weekend",
+        "Ride the ferris wheel",
+        "See the city from the ferris wheel",
+        "Try the tallest ride at the park",
+        "Line up for the ride",
+        "Plan a day at the theme park",
+        "Visit the theme park with kids",
+        "Watch the big wheel spin",
+        "Ride at the top of the wheel"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Take the kids to the amusement park",
+        "Ride the ferris wheel at the fair",
+        "Buy tickets for the theme park",
+        "Go to the county fair",
+        "Wait in line for the ferris wheel",
+        "See the view from the top of the ferris wheel",
+        "Take photos from the ferris wheel",
+        "Visit the theme park on a weekend",
+        "Plan a fun day at the fair",
+        "Eat carnival food at the fair"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Ferris wheel!",
+        "Theme park day",
+        "Ride the big wheel",
+        "Fair time!"
+      ]
+    },
+    "typo": {
+      "en": [
+        "ride the ferris whele",
+        "visit the amsuement park",
+        "go to the couty fair",
+        "theme pakr with kids"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Ride a roller coaster at the park",
+        "Go on the carousel",
+        "Try the bumper cars",
+        "Ride the water slide",
+        "Go on the Tilt-a-Whirl",
+        "Try the drop tower ride"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Ride the ferris wheel",
+        "Visit the amusement park",
+        "See the view from the top"
+      ]
+    },
+    "test": {
+      "en": [
+        "Go to the county fair",
+        "Take kids to the theme park",
+        "Take photos from the ferris wheel"
+      ]
+    }
+  }
+}

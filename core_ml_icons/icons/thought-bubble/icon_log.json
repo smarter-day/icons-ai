@@ -1,0 +1,178 @@
+{
+  "icon": "thought-bubble",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Right Thought Bubble",
+        "balloon",
+        "bubble",
+        "comic",
+        "dream",
+        "idea",
+        "imagination",
+        "think",
+        "thought",
+        "thought balloon"
+      ],
+      "ru": [
+        "правый пузырь мысли",
+        "воздушный шар",
+        "пузырь",
+        "комикс",
+        "сон",
+        "идея",
+        "воображение",
+        "думать",
+        "мысль",
+        "мыслительный шар"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "thought bubble floating right side",
+        "thought cloud rising from head",
+        "speech balloon comic thought",
+        "balloon thought comic strip",
+        "chat bubble round thought",
+        "thought bubble message",
+        "comic strip thought cloud",
+        "comic book thought bubble art",
+        "dream sequence thought bubble",
+        "daydream cloud floating",
+        "idea thought bubble lightbulb",
+        "idea popping up thought",
+        "imagination bubble creative mind",
+        "imagination cloud brainstorm",
+        "think deeply thought bubble",
+        "think and reflect bubble",
+        "thought cloud word balloon",
+        "thought floating away",
+        "thought balloon conversation art",
+        "cartoon thought balloon"
+      ],
+      "ru": [
+        "пузырь мысли справа плывёт",
+        "облако мысли поднимается от головы",
+        "речевой шар мысли комикс",
+        "шар мысли в комиксе",
+        "круглый пузырь чата мысль",
+        "пузырь мысли сообщение",
+        "облако мысли в комиксе",
+        "арт пузырь мысли книга комиксов",
+        "последовательность сна пузырь мысли",
+        "мечтательное облако плывёт",
+        "пузырь идеи с лампочкой",
+        "идея возникает как мысль",
+        "пузырь воображения творческий ум",
+        "облако воображения мозговой штурм",
+        "глубоко думать пузырь мысли",
+        "думать и размышлять пузырь",
+        "облако мысли словесный шар",
+        "мысль уплывает прочь",
+        "разговорный шар мысли арт",
+        "мультяшный шар мысли"
+      ]
+    },
+    "regular": {
+      "en": [
+        "thought bubble above character head comics",
+        "dreaming cloud floating idea visualization",
+        "brainstorming thought cloud design",
+        "silent thought bubble no speech",
+        "thinking emoji thought bubble",
+        "rounded cloud thought bubble shape",
+        "comic panel character thinking silently",
+        "pensive thought cloud above figure",
+        "idea visualization thought cloud rising",
+        "creative thinking bubble animated"
+      ],
+      "ru": [
+        "пузырь мысли над головой персонажа комикс",
+        "мечтательное облако идея визуализация",
+        "мозговой штурм облако мысли дизайн",
+        "молчаливый пузырь мысли без речи",
+        "эмодзи размышления пузырь мысли",
+        "округлое облако форма пузыря мысли",
+        "панель комикса персонаж молча думает",
+        "задумчивое облако над фигурой",
+        "визуализация идеи облако мысли поднимается",
+        "творческое мышление анимированный пузырь"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a thought bubble icon for the brainstorm feature",
+        "add a think cloud symbol to the idea section",
+        "show a thought bubble for the creative mode",
+        "use the thought-bubble icon for the reflection widget"
+      ],
+      "ru": [
+        "нужна иконка пузыря мысли для функции мозгового штурма",
+        "добавь символ облака мысли в раздел идей",
+        "покажи пузырь мысли для творческого режима",
+        "используй иконку пузыря мысли для виджета размышлений"
+      ]
+    },
+    "typo": {
+      "en": [
+        "thougth bubble comic",
+        "thoguht cloud idea",
+        "drema bubble floating",
+        "imagiantion cloud think"
+      ],
+      "ru": [
+        "пузырь мысли комикс",
+        "облако мысли идея",
+        "пузырь сна плывёт",
+        "воображение облако думать"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "speech bubble dialogue talking",
+        "chat message conversation balloon",
+        "lightbulb idea bright concept",
+        "cloud sky white fluffy",
+        "dream moon night sleep",
+        "exclamation thought surprise reaction"
+      ],
+      "ru": [
+        "речевой пузырь диалог разговор",
+        "пузырь чата разговор шар",
+        "лампочка идея яркая концепция",
+        "облако небо белое пушистое",
+        "сон луна ночной сон",
+        "восклицание мысль удивление реакция"
+      ]
+    },
+    "valid": {
+      "en": [
+        "thought bubble comic icon",
+        "dream cloud thinking symbol",
+        "idea thought bubble"
+      ],
+      "ru": [
+        "иконка пузыря мысли комикс",
+        "облако сна символ мышления",
+        "пузырь мысли идея"
+      ]
+    },
+    "test": {
+      "en": [
+        "thought bubble icon",
+        "think cloud symbol",
+        "brainstorm thought bubble"
+      ],
+      "ru": [
+        "иконка пузыря мысли",
+        "символ облака думать",
+        "мозговой штурм пузырь мысли"
+      ]
+    }
+  }
+}

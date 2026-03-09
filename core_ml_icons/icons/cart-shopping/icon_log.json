@@ -1,0 +1,172 @@
+{
+  "icon": "cart-shopping",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "buy",
+        "cart",
+        "checkout",
+        "grocery",
+        "payment",
+        "purchase",
+        "shopping",
+        "shopping cart",
+        "trolley"
+      ],
+      "ru": [
+        "купить",
+        "тележка",
+        "касса",
+        "продукты",
+        "оплата",
+        "покупка",
+        "шопинг",
+        "тележка для покупок",
+        "тележка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy everything on the list",
+        "Cart full at the supermarket",
+        "Checkout with the full cart",
+        "Grocery run for the week",
+        "Payment at the checkout lane",
+        "Purchase items from the cart",
+        "Shopping day at the mall",
+        "Shopping cart icon for the website",
+        "Trolley at the supermarket entrance",
+        "Buy one get one free deal today",
+        "Cart abandoned online — go back and complete",
+        "Self-checkout at the grocery store",
+        "Grocery list synced to the shopping app",
+        "Payment method updated in the checkout app",
+        "Purchase history review for this month",
+        "Shopping day planned for Saturday morning",
+        "Shopping cart total over the budget today",
+        "Trolley returned to the bay after unloading"
+      ],
+      "ru": [
+        "Купить всё по списку",
+        "Полная тележка в супермаркете",
+        "Рассчитаться с полной тележкой",
+        "Поход за продуктами на неделю",
+        "Оплата в кассовой полосе",
+        "Купить товары из тележки",
+        "День шопинга в торговом центре",
+        "Значок тележки для покупок на сайте",
+        "Тележка у входа в супермаркет",
+        "Акция два по цене одного сегодня",
+        "Брошенная корзина — вернуться и завершить",
+        "Самостоятельная касса в продуктовом магазине",
+        "Список покупок синхронизирован в приложении",
+        "Способ оплаты обновлён в приложении",
+        "Обзор истории покупок за этот месяц",
+        "Поход по магазинам запланирован на субботу",
+        "Сумма в корзине превышает бюджет",
+        "Тележка возвращена в парковку после выгрузки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Weekly grocery shop at the supermarket",
+        "Fill up the shopping cart online",
+        "Add items to the cart",
+        "Online cart with 12 items",
+        "Cart abandoned at the self-checkout",
+        "Grocery delivery order confirmed",
+        "Push the trolley around the store",
+        "Cart limit for the express lane",
+        "Shopping cart with the weekly haul",
+        "Click add to cart and checkout"
+      ],
+      "ru": [
+        "Еженедельный поход за продуктами",
+        "Заполнить корзину онлайн",
+        "Добавить товары в корзину",
+        "Онлайн-корзина с 12 товарами",
+        "Брошенная тележка на самообслуживании",
+        "Заказ продуктов с доставкой подтверждён",
+        "Везти тележку по магазину",
+        "Ограничение тележки для экспресс-кассы",
+        "Тележка с недельными покупками",
+        "Нажать добавить в корзину и оформить"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "cart is already full",
+        "just grabbing a few things quick",
+        "going around with the trolley",
+        "everything in the cart and ready to pay"
+      ],
+      "ru": [
+        "тележка уже полная",
+        "просто быстро возьму несколько вещей",
+        "хожу с тележкой по магазину",
+        "всё в тележке готов платить"
+      ]
+    },
+    "typo": {
+      "en": [
+        "grcoery run for the week",
+        "checkout wiht the full trolley",
+        "add to crat and purchase",
+        "shoping cart at the supermarkt"
+      ],
+      "ru": [
+        "поход за продуктми на неделю",
+        "рассчитаться с полной телжкой",
+        "добавить в тлежку и купить",
+        "тлежка для покупок в супермаркте"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Basket for fewer items at the store",
+        "Flatbed cart for warehouse inventory",
+        "Online wishlist not the cart",
+        "Hand basket at the corner shop",
+        "Delivery van for the online order",
+        "Checkout bag for packing purchases"
+      ],
+      "ru": [
+        "Корзинка для нескольких товаров",
+        "Тележка для складского инвентаря",
+        "Список желаний онлайн а не корзина",
+        "Корзинка в руках в маленьком магазине",
+        "Курьерский фургон для онлайн-заказа",
+        "Пакет для упаковки покупок на кассе"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Add to cart and proceed to checkout",
+        "Weekly grocery shop this Saturday",
+        "Online cart ready to pay"
+      ],
+      "ru": [
+        "Добавить в корзину и оформить заказ",
+        "Еженедельный поход за продуктами в субботу",
+        "Онлайн-корзина готова к оплате"
+      ]
+    },
+    "test": {
+      "en": [
+        "Shopping cart for the big weekly haul",
+        "Grocery cart at the supermarket",
+        "Checkout with full trolley"
+      ],
+      "ru": [
+        "Тележка для большой недельной закупки",
+        "Тележка для покупок в супермаркете",
+        "Рассчитаться с полной тележкой"
+      ]
+    }
+  }
+}

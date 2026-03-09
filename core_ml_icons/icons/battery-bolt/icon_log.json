@@ -1,0 +1,136 @@
+{
+  "icon": "battery-bolt",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "charge",
+        "power",
+        "status"
+      ],
+      "ru": [
+        "зарядка",
+        "питание",
+        "статус"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "charge the phone overnight",
+        "check the power level",
+        "check battery status",
+        "Fast charge the laptop before the meeting",
+        "Power bank topped up for the trip",
+        "Battery status low — plug in now"
+      ],
+      "ru": [
+        "зарядить телефон на ночь",
+        "проверить уровень заряда",
+        "проверить статус батареи",
+        "Быстрая зарядка ноутбука перед встречей",
+        "Зарядить пауэрбанк перед поездкой",
+        "Заряд батареи низкий — подключить"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Charge the laptop before the meeting",
+        "Check battery level on the device",
+        "Plug in the phone to charge",
+        "Battery running low — charge it now",
+        "Charge all devices before the trip",
+        "Replace the battery in the remote",
+        "Check power bank charge level",
+        "Device needs charging",
+        "Charge the e-bike before tomorrow",
+        "Overnight phone charge"
+      ],
+      "ru": [
+        "Зарядить ноутбук перед встречей",
+        "Проверить уровень заряда устройства",
+        "Поставить телефон на зарядку",
+        "Батарея почти разряжена — зарядить",
+        "Зарядить все устройства перед поездкой",
+        "Заменить батарейку в пульте",
+        "Проверить уровень заряда павербанка",
+        "Устройство требует зарядки",
+        "Зарядить электровелосипед до завтра",
+        "Зарядка телефона на ночь"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "My phone is almost dead — need to charge it",
+        "Don't forget to charge your devices tonight",
+        "I always forget to charge before bed",
+        "The battery is dying — plug it in"
+      ],
+      "ru": [
+        "Телефон почти разряжен — надо зарядить",
+        "Не забудь зарядить устройства вечером",
+        "Всегда забываю зарядить телефон перед сном",
+        "Батарея садится — подключи зарядник"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Chrge the phone",
+        "Baterry running low",
+        "Chck battery stauts",
+        "Plug in devce to chareg"
+      ],
+      "ru": [
+        "Зарядть телефон",
+        "Батеарея разряжается",
+        "Проверть статус бтереи",
+        "Подкючить устройство к зарятке"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Turn off the power",
+        "Check the electricity bill",
+        "Replace the light bulb",
+        "Power outage report",
+        "Plug in the appliance",
+        "Solar panel power check"
+      ],
+      "ru": [
+        "Выключить питание",
+        "Проверить счёт за электричество",
+        "Заменить лампочку",
+        "Сообщить об отключении электричества",
+        "Включить прибор в розетку",
+        "Проверить солнечные панели"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Charge all devices before the flight",
+        "Battery status check on the tablet",
+        "Plug in the power bank"
+      ],
+      "ru": [
+        "Зарядить все устройства перед полётом",
+        "Проверить статус заряда планшета",
+        "Поставить павербанк на зарядку"
+      ]
+    },
+    "test": {
+      "en": [
+        "Phone battery at 5% — charge it",
+        "Charge the laptop overnight",
+        "Check power level before leaving"
+      ],
+      "ru": [
+        "Батарея 5% — зарядить",
+        "Зарядить ноутбук на ночь",
+        "Проверить уровень заряда перед выходом"
+      ]
+    }
+  }
+}

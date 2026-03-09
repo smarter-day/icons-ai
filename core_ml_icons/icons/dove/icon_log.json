@@ -1,0 +1,93 @@
+{
+  "icon": "dove",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bird",
+        "dove",
+        "fauna",
+        "fly",
+        "flying",
+        "peace",
+        "war"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Watch a bird soar overhead",
+        "Spot a bird in the garden",
+        "Release a dove at the ceremony",
+        "See a dove perched on the branch",
+        "Observe local fauna",
+        "Photograph fauna in the park",
+        "Watch the bird fly away",
+        "See a bird fly across the sky",
+        "Watch the dove flying",
+        "Flying dove at the wedding",
+        "Promote peace in the community",
+        "Send a peace message",
+        "Pray for peace in times of war",
+        "Oppose war and support peace"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Release doves at the wedding",
+        "Watch doves in the park",
+        "Feed doves in the garden",
+        "Use a dove as a peace symbol",
+        "Photograph a dove in the wild",
+        "Watch doves nest on the balcony",
+        "Draw a dove as a peace symbol",
+        "Send a peace message with a dove",
+        "See doves at the church",
+        "Observe doves flying at sunset"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Peace out",
+        "Release the doves",
+        "White dove",
+        "Symbol of peace"
+      ]
+    },
+    "typo": {
+      "en": [
+        "relese doves at wedidng",
+        "wach doves in the aprk",
+        "doove as peace symbl",
+        "fotografph a dove"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Spot a crow on the rooftop",
+        "See an eagle soar overhead",
+        "Watch a pigeon in the city",
+        "Feed sparrows in the park",
+        "Observe a hawk hunting",
+        "See a flamingo at the zoo"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Release doves at the wedding",
+        "Watch doves in the garden",
+        "Use a dove as a peace symbol"
+      ]
+    },
+    "test": {
+      "en": [
+        "See doves flying at sunset",
+        "Feed doves in the park",
+        "Draw a peace dove"
+      ]
+    }
+  }
+}

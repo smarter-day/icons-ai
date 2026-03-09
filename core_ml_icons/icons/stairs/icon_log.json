@@ -1,0 +1,136 @@
+{
+  "icon": "stairs",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "exit",
+        "steps",
+        "up"
+      ],
+      "ru": [
+        "выход",
+        "ступени",
+        "вверх"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "exit staircase for emergency",
+        "fire exit down the stairs",
+        "steps leading up to building entrance",
+        "concrete steps in urban plaza",
+        "walk up stairs for exercise",
+        "climb up stairs instead of elevator"
+      ],
+      "ru": [
+        "аварийная лестница для эвакуации",
+        "пожарный выход вниз по лестнице",
+        "ступени ведут к входу в здание",
+        "бетонные ступени на городской площади",
+        "подниматься по лестнице для упражнений",
+        "идти по лестнице вместо лифта"
+      ]
+    },
+    "regular": {
+      "en": [
+        "staircase with handrail going upward",
+        "outdoor concrete stairs at building",
+        "wooden staircase inside modern home",
+        "emergency exit stairwell sign",
+        "stairs icon for accessibility or navigation",
+        "escalator versus stairs health choice",
+        "marble staircase in grand building",
+        "stair count for fitness tracker steps",
+        "spiral staircase winding upward",
+        "dark stairs requiring handrail safety"
+      ],
+      "ru": [
+        "лестница с перилами идёт вверх",
+        "бетонная лестница снаружи здания",
+        "деревянная лестница в современном доме",
+        "знак аварийного выхода в лестничном пролёте",
+        "иконка лестницы для навигации",
+        "выбор между эскалатором и лестницей",
+        "мраморная лестница в грандиозном здании",
+        "счётчик ступеней для трекера фитнеса",
+        "винтовая лестница уходит вверх",
+        "тёмная лестница требует перил безопасности"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a stairs icon for the building navigation",
+        "add a steps symbol to the fitness tracker",
+        "show stairs for the exit or evacuation feature",
+        "use the stairs icon for the floor navigation screen"
+      ],
+      "ru": [
+        "мне нужна иконка лестницы для навигации по зданию",
+        "добавь символ ступеней в трекер фитнеса",
+        "покажи лестницу для функции выхода или эвакуации",
+        "используй иконку лестницы для экрана навигации по этажам"
+      ]
+    },
+    "typo": {
+      "en": [
+        "staircase with hanrail going upward",
+        "outodor concrete stairs at building",
+        "emergncy exit stairwell sign",
+        "spirla staircase winding upward"
+      ],
+      "ru": [
+        "лестница с перлиами идёт вверх",
+        "бетонная лестниица снаружи здания",
+        "знак аварийного выохда в пролёте",
+        "винтовая летсница уходит вверх"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "elevator button panel going up",
+        "escalator moving steps at mall",
+        "ramp wheelchair accessible slope",
+        "ladder leaning against wall for climbing",
+        "fire escape metal stairs on building",
+        "footsteps trail of shoe prints"
+      ],
+      "ru": [
+        "панель кнопок лифта для подъёма",
+        "эскалатор в торговом центре",
+        "пандус для инвалидной коляски",
+        "стремянка прислонена к стене",
+        "пожарная лестница на здании",
+        "следы обуви на поверхности"
+      ]
+    },
+    "valid": {
+      "en": [
+        "staircase going upward",
+        "stairs with handrail in building",
+        "emergency exit stairwell"
+      ],
+      "ru": [
+        "лестница идёт вверх",
+        "лестница с перилами в здании",
+        "аварийный выход в лестничном пролёте"
+      ]
+    },
+    "test": {
+      "en": [
+        "concrete stairs at building entrance",
+        "stairs icon for navigation",
+        "climb stairs for fitness"
+      ],
+      "ru": [
+        "бетонная лестница у входа",
+        "иконка лестницы для навигации",
+        "подниматься по лестнице для фитнеса"
+      ]
+    }
+  }
+}

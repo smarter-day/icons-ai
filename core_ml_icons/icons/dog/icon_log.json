@@ -1,0 +1,99 @@
+{
+  "icon": "dog",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "animal",
+        "canine",
+        "dog",
+        "fauna",
+        "mammal",
+        "pet",
+        "pooch",
+        "puppy",
+        "woof"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "See the wild animal at the sanctuary",
+        "Take kids to see animals",
+        "Train the canine to sit",
+        "Canine obedience class",
+        "Walk the dog in the park",
+        "Buy food for the dog",
+        "Observe the local fauna",
+        "Learn about fauna in the park",
+        "Pet the friendly mammal",
+        "Learn about mammals at the zoo",
+        "Take the pet to the vet",
+        "Buy a toy for the pet",
+        "Give the pooch a bath",
+        "Brush the pooch",
+        "Adopt a puppy from the shelter",
+        "Train the new puppy",
+        "Hear the dog woof",
+        "Teach the dog not to woof at strangers"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Walk the dog in the morning",
+        "Take the dog to the vet",
+        "Buy dog food at the pet store",
+        "Train the dog to sit and stay",
+        "Groom the dog",
+        "Play fetch with the dog in the park",
+        "Adopt a dog from the shelter",
+        "Sign up for dog training classes",
+        "Buy a dog bed",
+        "Take the dog to the dog park"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Dog walk time",
+        "Puppy cuddles",
+        "Vet appointment",
+        "Good doggo"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wlak the dgo",
+        "take dog to vett",
+        "buy dgo food",
+        "adoppt a puppy"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Take the dog for a walk on the leash",
+        "Feed the cat",
+        "Clean the fish tank",
+        "Buy food for the hamster",
+        "Take the rabbit to the vet",
+        "Watch the dog with a guide harness"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Walk the dog in the park",
+        "Take the dog to the vet",
+        "Adopt a puppy from the shelter"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy dog food at the store",
+        "Train the dog to sit",
+        "Play fetch with the dog"
+      ]
+    }
+  }
+}

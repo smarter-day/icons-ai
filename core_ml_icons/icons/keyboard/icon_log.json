@@ -1,0 +1,91 @@
+{
+  "icon": "keyboard",
+  "rows": {
+    "train_en": 43,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "computer",
+        "edit",
+        "input",
+        "keyboard",
+        "text",
+        "type",
+        "write"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Connect to the computer",
+        "Set up the computer workspace",
+        "Edit the document",
+        "Edit the code",
+        "Set up the input device",
+        "Configure the input settings",
+        "Buy a mechanical keyboard",
+        "Clean the keyboard",
+        "Type the report",
+        "Type faster",
+        "Write a blog post",
+        "Write an email"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy a new mechanical keyboard",
+        "Connect the keyboard to the laptop",
+        "Clean the keyboard keys",
+        "Type a document in Word",
+        "Write an email to the client",
+        "Set up a wireless keyboard",
+        "Use keyboard shortcuts to work faster",
+        "Replace a broken keyboard key",
+        "Adjust the keyboard height",
+        "Buy a compact keyboard for travel"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "New keyboard!",
+        "Type faster",
+        "Keyboard setup",
+        "Write it out"
+      ]
+    },
+    "typo": {
+      "en": [
+        "buy a new mechancial keybord",
+        "conect the keybaord",
+        "clena the keyborad keys",
+        "tpye the docuemnt"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use a computer mouse instead",
+        "Type on the touchscreen",
+        "Use voice input instead of typing",
+        "Connect a drawing tablet",
+        "Use a trackpad to navigate",
+        "Set up a number pad"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Buy a mechanical keyboard",
+        "Connect the keyboard to the laptop",
+        "Type a document in Word"
+      ]
+    },
+    "test": {
+      "en": [
+        "Clean the keyboard keys",
+        "Set up a wireless keyboard",
+        "Write an email to the client"
+      ]
+    }
+  }
+}

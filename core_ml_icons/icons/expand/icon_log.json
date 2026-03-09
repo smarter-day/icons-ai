@@ -1,0 +1,96 @@
+{
+  "icon": "expand",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "enlarge",
+        "expand",
+        "fullscreen",
+        "maximize",
+        "resize",
+        "scale",
+        "size",
+        "viewfinder"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Enlarge the text on screen",
+        "Enlarge the image for printing",
+        "Expand the view for more detail",
+        "Expand the sidebar panel",
+        "Switch to fullscreen mode",
+        "Watch video in fullscreen",
+        "Maximize the browser window",
+        "Maximize the app on screen",
+        "Resize the window to fit",
+        "Resize the image before uploading",
+        "Scale the design to the right size",
+        "Scale up the graphic",
+        "Change the font size",
+        "Increase the image size",
+        "Use the viewfinder to frame the shot",
+        "Look through the viewfinder"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Open the image in full screen",
+        "Maximize the app window",
+        "Zoom in on the document",
+        "Expand the video player",
+        "Make the text bigger on screen",
+        "Resize the window for better view",
+        "Scale the image for the poster",
+        "View the presentation in fullscreen",
+        "Enlarge the map for navigation",
+        "Zoom into the photo detail"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Go fullscreen",
+        "Make it bigger",
+        "Expand the view",
+        "Zoom in"
+      ]
+    },
+    "typo": {
+      "en": [
+        "swithc to fullsceen",
+        "maximze the window",
+        "rezise the image",
+        "enmarge the text"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Minimize the window",
+        "Shrink the image size",
+        "Collapse the sidebar",
+        "Zoom out on the document",
+        "Reduce the font size",
+        "Use picture-in-picture mode"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Switch to fullscreen mode",
+        "Maximize the app window",
+        "Enlarge the image"
+      ]
+    },
+    "test": {
+      "en": [
+        "Expand the video player",
+        "Make the text bigger",
+        "Resize the window to full"
+      ]
+    }
+  }
+}

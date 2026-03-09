@@ -1,0 +1,93 @@
+{
+  "icon": "guitar",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "acoustic",
+        "instrument",
+        "music",
+        "rock",
+        "rock and roll",
+        "song",
+        "strings"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "acoustic guitar played at the campfire",
+        "acoustic guitar strumming a melody",
+        "guitar as a musical instrument",
+        "string instrument guitar",
+        "music played on the guitar",
+        "guitar music at the concert",
+        "rock guitar riff on stage",
+        "rock concert electric guitar",
+        "rock and roll guitar power chord",
+        "rock and roll band on guitars",
+        "song played on the acoustic guitar",
+        "strum a song on the guitar",
+        "guitar strings plucked gently",
+        "strings on the guitar neck fret"
+      ]
+    },
+    "regular": {
+      "en": [
+        "acoustic guitar with six strings",
+        "electric guitar on the concert stage",
+        "guitarist strumming chords at the campfire",
+        "guitar solo at the rock concert",
+        "classical guitar with nylon strings",
+        "guitar pick on the fretboard",
+        "bass guitar played in the band",
+        "guitar chord progression for the song",
+        "travel guitar for the musician on the road",
+        "guitar tab shown on the music app"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a guitar icon for the music app",
+        "add a guitar symbol to the instruments section",
+        "show a guitar for the rock genre category",
+        "use the guitar icon for the song playing feature"
+      ]
+    },
+    "typo": {
+      "en": [
+        "acoustci guitar strumming",
+        "guitr solo on stage",
+        "rock conert guitar",
+        "musik played on guitar"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "ukulele with four strings on the island",
+        "violin bow drawn across the strings",
+        "banjo played at the bluegrass festival",
+        "electric bass guitar in the studio",
+        "piano keys in the music studio",
+        "drum kit behind the guitar player"
+      ]
+    },
+    "valid": {
+      "en": [
+        "acoustic guitar with six strings",
+        "guitar solo at concert",
+        "music guitar instrument"
+      ]
+    },
+    "test": {
+      "en": [
+        "guitar icon",
+        "guitar symbol for music",
+        "acoustic guitar"
+      ]
+    }
+  }
+}

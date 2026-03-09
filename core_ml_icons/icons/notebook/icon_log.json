@@ -1,0 +1,160 @@
+{
+  "icon": "notebook",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "daybook",
+        "diary",
+        "journal",
+        "noteboo",
+        "notebook",
+        "notepad",
+        "sketch"
+      ],
+      "ru": [
+        "ежедневник",
+        "дневник",
+        "журнал",
+        "блокнот",
+        "тетрадь",
+        "блокнот",
+        "эскиз"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "daily tasks written in daybook",
+        "daybook schedule planning",
+        "personal diary writing thoughts",
+        "secret diary with lock",
+        "bullet journal for daily notes",
+        "travel journal with sketches",
+        "notebook for class notes",
+        "spiral notebook for homework",
+        "notebook app for digital notes",
+        "open notebook for writing",
+        "notepad for quick jottings",
+        "sticky notepad on desk",
+        "sketch notebook for drawing ideas",
+        "sketchpad for artist concepts"
+      ],
+      "ru": [
+        "ежедневные задачи записанные в ежедневнике",
+        "планирование расписания в ежедневнике",
+        "личный дневник написание мыслей",
+        "секретный дневник с замком",
+        "дневник-буллет для ежедневных заметок",
+        "дорожный журнал с эскизами",
+        "тетрадь для классных записей",
+        "спиральная тетрадь для домашних заданий",
+        "приложение тетрадь для цифровых заметок",
+        "открытая тетрадь для письма",
+        "блокнот для быстрых заметок",
+        "блокнот на столе",
+        "эскизная тетрадь для идей рисования",
+        "скетчбук для концептов художника"
+      ]
+    },
+    "regular": {
+      "en": [
+        "spiral-bound notebook for writing notes",
+        "leather-bound journal on desk",
+        "school composition notebook",
+        "blank notebook for sketching",
+        "daily planner notebook",
+        "open notebook with handwritten notes",
+        "notebook with tabs and bookmarks",
+        "pocket notebook carried everywhere",
+        "digital notebook app icon",
+        "hardcover journal with elastic band"
+      ],
+      "ru": [
+        "спирально-скреплённая тетрадь для записей",
+        "журнал в кожаном переплёте на столе",
+        "школьная тетрадь для сочинений",
+        "чистая тетрадь для эскизов",
+        "ежедневник-планировщик",
+        "открытая тетрадь с рукописными заметками",
+        "тетрадь с вкладками и закладками",
+        "карманная тетрадь носимая везде",
+        "иконка приложения цифровой тетради",
+        "твердообложечный журнал с резинкой"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a notebook icon for the notes section",
+        "add a journal symbol to the diary feature",
+        "show a notebook for the writing app",
+        "use the notepad icon for the quick notes screen"
+      ],
+      "ru": [
+        "Мне нужна иконка тетради для раздела заметок",
+        "добавить символ журнала в функцию дневника",
+        "показать тетрадь для приложения для письма",
+        "использовать иконку блокнота для экрана быстрых заметок"
+      ]
+    },
+    "typo": {
+      "en": [
+        "notbook for notes",
+        "journall writing",
+        "noteapd quick",
+        "diray notebook"
+      ],
+      "ru": [
+        "тетрадь для заметко",
+        "дневнки для письма",
+        "блокнот бысрые",
+        "ежедневни планер"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "sticky note small square paper",
+        "clipboard holding a document",
+        "book with many pages to read",
+        "document file for formal writing",
+        "calendar for scheduling events",
+        "to-do list checklist for tasks"
+      ],
+      "ru": [
+        "маленькая квадратная бумажка стикер",
+        "буфер удерживающий документ",
+        "книга со многими страницами для чтения",
+        "файл документа для официального письма",
+        "календарь для планирования событий",
+        "список дел для задач"
+      ]
+    },
+    "valid": {
+      "en": [
+        "notebook for writing notes",
+        "journal or diary icon",
+        "notepad for quick jottings"
+      ],
+      "ru": [
+        "тетрадь для записей",
+        "иконка журнала или дневника",
+        "блокнот для быстрых заметок"
+      ]
+    },
+    "test": {
+      "en": [
+        "notebook icon",
+        "spiral notebook diary",
+        "sketch notebook icon"
+      ],
+      "ru": [
+        "иконка тетради",
+        "спиральная тетрадь дневник",
+        "иконка эскизной тетради"
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "icon": "house",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "building",
+        "home",
+        "house",
+        "residence"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Inspect the building before buying",
+        "Maintain the building",
+        "Go home after work",
+        "Stay home today",
+        "Buy a house this year",
+        "Sell the house",
+        "Register the new residence",
+        "Change the residence address"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Go home after work",
+        "Clean the house this weekend",
+        "Pay the mortgage",
+        "Fix something in the house",
+        "Decorate the home for the holidays",
+        "Mow the lawn at home",
+        "Welcome guests to the house",
+        "Buy a new home",
+        "Renovate the house",
+        "Add a security system to the house"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Heading home",
+        "Home sweet home",
+        "House chores",
+        "Back home"
+      ]
+    },
+    "typo": {
+      "en": [
+        "go hoem after wrok",
+        "clen the hose",
+        "pay the mortagge",
+        "fix somethign in the house"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Book a hotel for the trip",
+        "Rent an apartment downtown",
+        "Stay at a friend's place",
+        "Visit the office building",
+        "Buy a condo in the city",
+        "Rent a vacation cabin"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Go home after work",
+        "Clean the house",
+        "Pay the mortgage"
+      ]
+    },
+    "test": {
+      "en": [
+        "Decorate the home for the holidays",
+        "Buy a new house",
+        "Add a security system at home"
+      ]
+    }
+  }
+}

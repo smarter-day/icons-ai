@@ -1,0 +1,81 @@
+{
+  "icon": "hockey-puck",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ice",
+        "nhl",
+        "sport"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Skate on the ice rink",
+        "Clear the ice before the game",
+        "Watch the NHL match tonight",
+        "Follow the NHL playoffs",
+        "Play an ice sport this winter",
+        "Sign up for hockey as a sport"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Shoot the puck on goal",
+        "Watch the hockey game on TV",
+        "Buy a hockey puck for practice",
+        "Play street hockey with a puck",
+        "Attend an NHL game",
+        "Collect a signed hockey puck",
+        "Use the puck for hockey drills",
+        "Practice slap shots at the rink",
+        "Join a hockey league",
+        "Buy hockey equipment"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Shoot the puck!",
+        "Hockey tonight",
+        "Puck drop",
+        "NHL game"
+      ]
+    },
+    "typo": {
+      "en": [
+        "shott the puck on goaal",
+        "wacth the hocky game",
+        "buy a hocky pukc",
+        "practce slap shots"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Hit the hockey sticks together",
+        "Use a soccer ball instead",
+        "Play with a lacrosse ball",
+        "Shoot a basketball",
+        "Hit a baseball pitch",
+        "Use a tennis ball for practice"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Shoot the puck on goal",
+        "Watch the NHL game",
+        "Buy a hockey puck"
+      ]
+    },
+    "test": {
+      "en": [
+        "Play hockey drills with the puck",
+        "Join a hockey league",
+        "Attend an NHL game"
+      ]
+    }
+  }
+}

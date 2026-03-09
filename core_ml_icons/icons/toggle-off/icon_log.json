@@ -1,0 +1,142 @@
+{
+  "icon": "toggle-off",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "button",
+        "off",
+        "on",
+        "switch"
+      ],
+      "ru": [
+        "кнопка",
+        "выкл",
+        "вкл",
+        "переключатель"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "button toggle off disabled",
+        "toggle button in off state",
+        "switch turned off position",
+        "off state switch greyed",
+        "toggle on off control",
+        "on off toggle switch UI",
+        "switch toggled off setting",
+        "switch off notifications"
+      ],
+      "ru": [
+        "кнопка переключатель выкл отключён",
+        "переключатель в положении выкл",
+        "выключатель в выключенном положении",
+        "выкл состояние серый переключатель",
+        "переключатель вкл выкл управление",
+        "UI переключатель вкл выкл",
+        "переключатель настройки выключен",
+        "переключатель уведомлений выкл"
+      ]
+    },
+    "regular": {
+      "en": [
+        "grey toggle switch in off position",
+        "toggle off notifications setting",
+        "feature disabled toggle off",
+        "dark mode toggle off light mode",
+        "privacy setting toggle off",
+        "airplane mode toggle off",
+        "Bluetooth toggle switched off",
+        "toggle off automatic updates",
+        "Wi-Fi toggle off button",
+        "mute sound toggle off"
+      ],
+      "ru": [
+        "серый переключатель в положении выкл",
+        "переключатель уведомлений выключен",
+        "функция отключена переключатель выкл",
+        "тёмный режим переключатель выкл светлый режим",
+        "настройка приватности переключатель выкл",
+        "режим полёта переключатель выкл",
+        "Bluetooth переключатель выключен",
+        "автоматические обновления переключатель выкл",
+        "Wi-Fi переключатель выкл",
+        "отключить звук переключатель выкл"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a toggle-off icon for the settings screen",
+        "add a disabled switch symbol to the feature toggle",
+        "show toggle off for the inactive state",
+        "use the toggle-off icon for the off state indicator"
+      ],
+      "ru": [
+        "нужна иконка переключателя выкл для экрана настроек",
+        "добавь символ отключённого переключателя к функции",
+        "покажи переключатель выкл для неактивного состояния",
+        "используй иконку переключателя выкл как индикатор"
+      ]
+    },
+    "typo": {
+      "en": [
+        "togglee off switch",
+        "swithc off button",
+        "togle off setting",
+        "disbaled toggle"
+      ],
+      "ru": [
+        "переключатель выкл кнопка",
+        "выключтель выкл настройки",
+        "переклюачтель отключён",
+        "отключнный переключатель"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "toggle on green active enabled",
+        "checkbox unchecked empty",
+        "radio button unselected",
+        "power button off hold",
+        "switch off wall light",
+        "slider zero off position"
+      ],
+      "ru": [
+        "переключатель вкл зелёный активный",
+        "чекбокс не выбран пустой",
+        "радиокнопка не выбрана",
+        "кнопка питания выкл удерживать",
+        "выключатель стены свет",
+        "ползунок ноль выкл позиция"
+      ]
+    },
+    "valid": {
+      "en": [
+        "toggle off switch icon",
+        "disabled toggle button",
+        "off state switch"
+      ],
+      "ru": [
+        "иконка выключателя выкл",
+        "отключённая кнопка переключателя",
+        "выкл состояние переключателя"
+      ]
+    },
+    "test": {
+      "en": [
+        "toggle-off icon",
+        "switch off symbol",
+        "button disabled off"
+      ],
+      "ru": [
+        "иконка переключателя выкл",
+        "символ выключателя",
+        "кнопка отключена выкл"
+      ]
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "icon": "wheelchair",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "disabled",
+        "user",
+        "users-people"
+      ],
+      "ru": [
+        "инвалид",
+        "пользователь",
+        "люди"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "disabled accessibility symbol",
+        "disabled person mobility aid",
+        "wheelchair user assistance",
+        "users with mobility needs",
+        "people with disabilities group",
+        "people accessibility support"
+      ],
+      "ru": [
+        "символ доступности для инвалидов",
+        "вспомогательное средство мобильности",
+        "помощь пользователю в инвалидной коляске",
+        "пользователи с потребностями мобильности",
+        "группа людей с ограниченными возможностями",
+        "поддержка доступности для людей"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wheelchair accessibility symbol",
+        "mobility aid for disabled person",
+        "handicap parking sign icon",
+        "person in manual wheelchair",
+        "accessible restroom indicator",
+        "disability accessibility badge",
+        "electric powered wheelchair",
+        "wheelchair ramp access route",
+        "special needs mobility device",
+        "universal accessibility symbol"
+      ],
+      "ru": [
+        "символ доступности для колясочников",
+        "вспомогательное средство мобильности для инвалида",
+        "знак парковки для инвалидов",
+        "человек в ручной инвалидной коляске",
+        "указатель доступного туалета",
+        "значок доступности для инвалидов",
+        "электрическая инвалидная коляска",
+        "маршрут доступности по пандусу",
+        "устройство мобильности для особых нужд",
+        "универсальный символ доступности"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a wheelchair icon for the accessibility settings",
+        "add a wheelchair symbol to the disability services page",
+        "show a wheelchair for the accessible route section",
+        "use the wheelchair icon for mobility assistance feature"
+      ],
+      "ru": [
+        "мне нужна иконка коляски для настроек доступности",
+        "добавь символ коляски на страницу служб для инвалидов",
+        "покажи коляску для раздела доступных маршрутов",
+        "используй иконку коляски для функции помощи мобильности"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wheelchiar accessibility symbol",
+        "weelchair disabled icon",
+        "disabeld mobility icon",
+        "acesibility wheelchair user"
+      ],
+      "ru": [
+        "инвалидная каляска символ доступности",
+        "колясака инвалид иконка",
+        "инвалиднось символ мобильности",
+        "доступностb коляска пользователь"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "walking cane elderly support",
+        "crutches medical mobility aid",
+        "person walking with stick",
+        "mobility scooter for elderly",
+        "pedestrian walking symbol",
+        "prosthetic limb medical device"
+      ],
+      "ru": [
+        "трость для пожилых людей",
+        "костыли медицинское средство мобильности",
+        "человек идёт с тростью",
+        "скутер мобильности для пожилых",
+        "символ пешехода",
+        "протез медицинское устройство"
+      ]
+    },
+    "valid": {
+      "en": [
+        "wheelchair accessibility symbol",
+        "disabled person in wheelchair",
+        "mobility aid wheelchair icon"
+      ],
+      "ru": [
+        "символ доступности для инвалидной коляски",
+        "инвалид в инвалидной коляске",
+        "иконка коляски средства мобильности"
+      ]
+    },
+    "test": {
+      "en": [
+        "wheelchair disability icon",
+        "accessible wheelchair symbol",
+        "person in wheelchair mobility"
+      ],
+      "ru": [
+        "иконка инвалидной коляски",
+        "доступный символ коляски",
+        "человек в коляске мобильность"
+      ]
+    }
+  }
+}

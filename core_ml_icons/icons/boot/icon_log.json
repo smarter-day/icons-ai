@@ -1,0 +1,172 @@
+{
+  "icon": "boot",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "backpacking",
+        "boot",
+        "camping",
+        "clothing",
+        "foot",
+        "hiking",
+        "hiking boot",
+        "shoe",
+        "sturdy"
+      ],
+      "ru": [
+        "рюкзак-поход",
+        "ботинок",
+        "кемпинг",
+        "одежда",
+        "нога",
+        "поход",
+        "походный ботинок",
+        "обувь",
+        "прочный"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "plan a backpacking trip",
+        "buy new hiking boots",
+        "pack boots for camping",
+        "hiking clothing and gear",
+        "foot care after the hike",
+        "go hiking this weekend",
+        "break in the hiking boots",
+        "waterproof shoes for the trail",
+        "sturdy boots for the terrain",
+        "backpacking gear list for the trip",
+        "polish the boots before the event",
+        "camping checklist for the weekend",
+        "pack the right clothing for outdoors",
+        "soak feet after a long hike",
+        "join a hiking group this month",
+        "lace up the hiking boots and go",
+        "replace worn-out trail shoes",
+        "get sturdy footwear for rocky paths"
+      ],
+      "ru": [
+        "спланировать поход с рюкзаком",
+        "купить новые походные ботинки",
+        "взять ботинки в кемпинг",
+        "туристическая одежда и снаряжение",
+        "уход за ногами после похода",
+        "пойти в поход в эти выходные",
+        "разносить новые походные ботинки",
+        "водонепроницаемая обувь для тропы",
+        "прочные ботинки для пересечённой местности",
+        "список снаряжения для похода с рюкзаком",
+        "начистить ботинки перед мероприятием",
+        "чек-лист для кемпинга на выходные",
+        "собрать правильную одежду для улицы",
+        "опустить ноги после долгого похода",
+        "вступить в туристическую группу в этом месяце",
+        "зашнуровать походные ботинки и идти",
+        "заменить изношенные кроссовки для трейла",
+        "подобрать прочную обувь для каменистых троп"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy new hiking boots",
+        "Break in the boots before the trip",
+        "Pack hiking boots for the camping trip",
+        "Waterproof the hiking boots",
+        "Replace the worn-out hiking boots",
+        "Get the right boot size for hiking",
+        "Hiking boots for the mountain trail",
+        "Camping gear including boots",
+        "Clean the muddy boots after the hike",
+        "Hiking boot recommendation for beginners"
+      ],
+      "ru": [
+        "Купить новые походные ботинки",
+        "Разносить ботинки перед поездкой",
+        "Взять походные ботинки в кемпинг",
+        "Пропитать ботинки водоотталкивающим средством",
+        "Заменить изношенные походные ботинки",
+        "Подобрать правильный размер ботинок для похода",
+        "Походные ботинки для горной тропы",
+        "Туристическое снаряжение включая ботинки",
+        "Отмыть грязные ботинки после похода",
+        "Рекомендации по походным ботинкам для начинающих"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "My boots are really worn out",
+        "I need to break in my new boots before the trip",
+        "What boots should I get for the hike?",
+        "These boots are perfect for the trail"
+      ],
+      "ru": [
+        "Мои ботинки совсем износились",
+        "Надо разносить новые ботинки перед поездкой",
+        "Какие ботинки взять в поход?",
+        "Эти ботинки идеальны для тропы"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Buy new hikng bots",
+        "Break in the boots befor the trip",
+        "Watrproof the hikng boots",
+        "Hikng bots for the trail"
+      ],
+      "ru": [
+        "Купить новые пходные ботинки",
+        "Разнасить ботинки переед поездкой",
+        "Водонипроницаемые пходные ботинки",
+        "Пходные ботинки для тропы"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Running shoes for the morning jog",
+        "Casual sneakers for everyday wear",
+        "Rain jacket for the hike",
+        "Backpack for the camping trip",
+        "Sandals for the beach",
+        "Work boots for the construction site"
+      ],
+      "ru": [
+        "Кроссовки для утренней пробежки",
+        "Обычные кеды на каждый день",
+        "Дождевик для похода",
+        "Рюкзак для похода",
+        "Сандалии для пляжа",
+        "Рабочие ботинки для стройки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Hiking boots for the mountain trek",
+        "Break in new boots before camping",
+        "Waterproof hiking boots for the trail"
+      ],
+      "ru": [
+        "Походные ботинки для горного похода",
+        "Разносить новые ботинки перед кемпингом",
+        "Водонепроницаемые походные ботинки для тропы"
+      ]
+    },
+    "test": {
+      "en": [
+        "Pack the hiking boots for the trip",
+        "New boots for the backpacking adventure",
+        "Sturdy boots for rough terrain"
+      ],
+      "ru": [
+        "Взять походные ботинки для поездки",
+        "Новые ботинки для похода с рюкзаком",
+        "Прочные ботинки для пересечённой местности"
+      ]
+    }
+  }
+}

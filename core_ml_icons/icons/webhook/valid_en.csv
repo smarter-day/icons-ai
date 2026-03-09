@@ -1,0 +1,4 @@
+text,label
+webhook endpoint for API integration,webhook
+HTTP callback trigger for automation,webhook
+server-to-server event notification,webhook

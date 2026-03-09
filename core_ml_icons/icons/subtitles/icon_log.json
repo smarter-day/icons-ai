@@ -1,0 +1,166 @@
+{
+  "icon": "subtitles",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "caption",
+        "closed captions",
+        "description",
+        "film",
+        "language",
+        "movie",
+        "text",
+        "translation"
+      ],
+      "ru": [
+        "субтитры",
+        "скрытые субтитры",
+        "описание",
+        "фильм",
+        "язык",
+        "кино",
+        "текст",
+        "перевод"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "caption at bottom of screen",
+        "live caption auto generated",
+        "closed captions CC button video",
+        "closed captions for deaf viewers",
+        "audio description for visually impaired",
+        "description track accessibility",
+        "film subtitle foreign language",
+        "film with subtitles enabled",
+        "subtitle language selection menu",
+        "change language subtitles",
+        "movie subtitle white text",
+        "movie subtitles synchronized",
+        "text overlay subtitle style",
+        "text subtitle lower third",
+        "translation subtitle foreign film",
+        "auto translation subtitle feature"
+      ],
+      "ru": [
+        "субтитры внизу экрана",
+        "автоматически создаваемые субтитры",
+        "кнопка скрытых субтитров CC видео",
+        "субтитры для слабослышащих зрителей",
+        "аудиоописание для слабовидящих",
+        "дорожка описания доступность",
+        "субтитры фильма иностранный язык",
+        "фильм с включёнными субтитрами",
+        "меню выбора языка субтитров",
+        "сменить язык субтитров",
+        "белый текст субтитров кино",
+        "синхронизированные субтитры кино",
+        "наложение текста стиль субтитров",
+        "субтитры нижняя треть",
+        "перевод субтитры иностранный фильм",
+        "функция автоперевода субтитров"
+      ]
+    },
+    "regular": {
+      "en": [
+        "subtitles displayed at bottom of video frame",
+        "CC button in video player controls",
+        "foreign film with English subtitles",
+        "accessibility closed captions for hearing impaired",
+        "Netflix subtitle language selection",
+        "subtitle font size and color settings",
+        "auto generated subtitle via speech recognition",
+        "subtitle timing adjustment synchronization",
+        "burned in subtitle versus soft subtitle",
+        "streaming platform enable subtitles option"
+      ],
+      "ru": [
+        "субтитры в нижней части видеокадра",
+        "кнопка CC в управлении видеоплеером",
+        "иностранный фильм с английскими субтитрами",
+        "субтитры доступность для слабослышащих",
+        "выбор языка субтитров на Netflix",
+        "размер и цвет шрифта субтитров настройки",
+        "автогенерируемые субтитры через распознавание речи",
+        "синхронизация таймингов субтитров",
+        "жёсткие субтитры и мягкие субтитры",
+        "включить субтитры на стриминговой платформе"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a subtitles icon for the video player",
+        "add a captions symbol to the accessibility settings",
+        "show a subtitle icon for the language options",
+        "use the subtitles icon for the closed caption toggle"
+      ],
+      "ru": [
+        "нужна иконка субтитров для видеоплеера",
+        "добавь символ субтитров в настройки доступности",
+        "покажи иконку субтитров для языковых параметров",
+        "используй иконку субтитров для переключения скрытых субтитров"
+      ]
+    },
+    "typo": {
+      "en": [
+        "subtitels video player",
+        "captoin on movie",
+        "translaiton subtitle",
+        "clossed captions"
+      ],
+      "ru": [
+        "субтитрs видеоплеер",
+        "субтитры фильм подпись",
+        "перевод субтитрs",
+        "скрытые субтитры"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "speech bubble dialog text box",
+        "microphone audio input recording",
+        "volume speaker sound icon",
+        "play button video start",
+        "transcript text document audio",
+        "language globe translation selector"
+      ],
+      "ru": [
+        "речевой пузырь диалоговое поле текста",
+        "микрофон аудиовход запись",
+        "динамик громкость иконка звука",
+        "кнопка воспроизведения запуск видео",
+        "транскрипт текстовый документ аудио",
+        "глобус языка переключатель перевода"
+      ]
+    },
+    "valid": {
+      "en": [
+        "closed captions subtitles video",
+        "subtitle text on movie screen",
+        "CC accessibility subtitle"
+      ],
+      "ru": [
+        "субтитры закрытые субтитры видео",
+        "текст субтитров на экране кино",
+        "CC субтитры доступность"
+      ]
+    },
+    "test": {
+      "en": [
+        "subtitle icon video player",
+        "captions for film",
+        "language subtitle translation"
+      ],
+      "ru": [
+        "иконка субтитров видеоплеер",
+        "субтитры для фильма",
+        "перевод субтитры язык"
+      ]
+    }
+  }
+}

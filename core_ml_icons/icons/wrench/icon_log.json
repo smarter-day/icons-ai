@@ -1,0 +1,190 @@
+{
+  "icon": "wrench",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "configuration",
+        "construction",
+        "equipment",
+        "fix",
+        "mechanic",
+        "modify",
+        "plumbing",
+        "settings",
+        "spanner",
+        "tool",
+        "update",
+        "wrench"
+      ],
+      "ru": [
+        "конфигурация",
+        "строительство",
+        "оборудование",
+        "ремонт",
+        "механик",
+        "изменение",
+        "сантехника",
+        "настройки",
+        "гаечный ключ",
+        "инструмент",
+        "обновление",
+        "гаечный ключ"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "system configuration menu",
+        "app configuration options",
+        "building construction site",
+        "home construction project",
+        "heavy equipment maintenance",
+        "power equipment tool",
+        "quick fix repair job",
+        "car engine fix",
+        "auto mechanic workshop",
+        "car mechanic garage",
+        "modify system settings",
+        "modify source code",
+        "plumbing repair pipe",
+        "bathroom plumbing work",
+        "app settings panel",
+        "user settings preferences",
+        "adjustable spanner tool",
+        "open-end spanner",
+        "hand tool collection",
+        "multi-use tool kit",
+        "software update available",
+        "system update patch",
+        "tighten bolt with wrench",
+        "socket wrench torque"
+      ],
+      "ru": [
+        "меню конфигурации системы",
+        "параметры конфигурации приложения",
+        "строительная площадка",
+        "проект строительства дома",
+        "обслуживание тяжёлого оборудования",
+        "инструмент силового оборудования",
+        "быстрый ремонт",
+        "ремонт двигателя автомобиля",
+        "автомеханическая мастерская",
+        "автомобильный гараж механика",
+        "изменить системные настройки",
+        "изменить исходный код",
+        "ремонт трубы сантехники",
+        "сантехнические работы в ванной",
+        "панель настроек приложения",
+        "пользовательские настройки",
+        "регулируемый гаечный ключ",
+        "рожковый ключ",
+        "коллекция ручных инструментов",
+        "набор многофункциональных инструментов",
+        "доступно обновление программного обеспечения",
+        "патч обновления системы",
+        "затянуть болт гаечным ключом",
+        "момент затяжки торцевым ключом"
+      ]
+    },
+    "regular": {
+      "en": [
+        "adjustable wrench for plumbing",
+        "mechanic tightening engine bolt",
+        "open-end wrench hardware tool",
+        "settings and configuration icon",
+        "DIY home repair toolkit",
+        "automotive service wrench",
+        "plumber's pipe wrench heavy duty",
+        "software maintenance and updates",
+        "construction equipment wrench symbol",
+        "fix and modify system settings"
+      ],
+      "ru": [
+        "регулируемый ключ для сантехники",
+        "механик затягивает болт двигателя",
+        "рожковый ключ инструмент",
+        "иконка настроек и конфигурации",
+        "набор инструментов для ремонта своими руками",
+        "гаечный ключ для автосервиса",
+        "трубный ключ сантехника тяжёлый",
+        "техническое обслуживание и обновление ПО",
+        "символ гаечного ключа строительного оборудования",
+        "исправить и изменить системные настройки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a wrench icon for the settings screen",
+        "add a wrench symbol to the maintenance section",
+        "show a wrench for the repair and fix category",
+        "use the wrench icon for the configuration panel"
+      ],
+      "ru": [
+        "мне нужна иконка ключа для экрана настроек",
+        "добавь символ ключа в раздел обслуживания",
+        "покажи ключ для категории ремонта",
+        "используй иконку ключа для панели конфигурации"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wreanch settings configuration",
+        "mechnaic wrench repair tool",
+        "plumbign wrench pipe fix",
+        "seetings wrench configuration"
+      ],
+      "ru": [
+        "гаечный кюч настройки конфигурация",
+        "мехник гаечный ключ инструмент",
+        "сантехника клюу труба ремонт",
+        "настройки гаечный кюч конфигурация"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "flathead screwdriver for assembly",
+        "hammer driving nail into wood",
+        "toolbox with multiple tools",
+        "gear cog settings icon",
+        "Allen hex key bolt tightening",
+        "power drill electric tool"
+      ],
+      "ru": [
+        "плоская отвёртка для сборки",
+        "молоток вбивает гвоздь в дерево",
+        "ящик для инструментов с несколькими инструментами",
+        "иконка шестерёнки настроек",
+        "шестигранный ключ Allen затяжка болта",
+        "электрическая дрель"
+      ]
+    },
+    "valid": {
+      "en": [
+        "wrench tool for repair and maintenance",
+        "adjustable wrench settings icon",
+        "mechanic's wrench hardware symbol"
+      ],
+      "ru": [
+        "гаечный ключ для ремонта и обслуживания",
+        "иконка настроек регулируемого ключа",
+        "символ гаечного ключа механика"
+      ]
+    },
+    "test": {
+      "en": [
+        "wrench repair tool icon",
+        "settings wrench configuration",
+        "mechanic wrench symbol"
+      ],
+      "ru": [
+        "иконка гаечного ключа для ремонта",
+        "гаечный ключ конфигурация настройки",
+        "символ гаечного ключа механика"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "icon": "outlet",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "electricity",
+        "energy",
+        "plug",
+        "power"
+      ],
+      "ru": [
+        "электричество",
+        "энергия",
+        "штепсель",
+        "питание"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "electricity outlet on wall",
+        "electric socket for devices",
+        "energy outlet for charging",
+        "home energy wall outlet",
+        "plug device into outlet",
+        "plug in charger to socket",
+        "power outlet in kitchen",
+        "power socket type A or B"
+      ],
+      "ru": [
+        "розетка электричества на стене",
+        "электрическая розетка для устройств",
+        "розетка для зарядки",
+        "домашняя энергетическая розетка",
+        "воткнуть устройство в розетку",
+        "воткнуть зарядник в розетку",
+        "розетка питания на кухне",
+        "розетка типа А или В"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wall outlet with two or three holes",
+        "electrical socket for appliances",
+        "power outlet in US with parallel slots",
+        "child-proof outlet cover",
+        "smart outlet with app control",
+        "surge protector power strip with outlets",
+        "outlet tester for checking wiring",
+        "USB charging outlet on wall",
+        "outdoor weatherproof outlet box",
+        "old-style round European outlet"
+      ],
+      "ru": [
+        "настенная розетка с двумя или тремя отверстиями",
+        "электрическая розетка для бытовых приборов",
+        "розетка питания в США с параллельными слотами",
+        "защитная крышка розетки от детей",
+        "умная розетка с управлением через приложение",
+        "удлинитель с розетками от скачков напряжения",
+        "тестер розеток для проверки проводки",
+        "настенная розетка с USB для зарядки",
+        "уличная влагозащищённая коробка розетки",
+        "старинная круглая европейская розетка"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an outlet icon for the electricity section",
+        "add a power socket to the home energy feature",
+        "show an outlet for the plug-in reminder",
+        "use the outlet icon for the power connection screen"
+      ],
+      "ru": [
+        "Мне нужна иконка розетки для раздела электричества",
+        "добавить розетку в функцию домашней энергии",
+        "показать розетку для напоминания о включении",
+        "использовать иконку розетки для экрана подключения питания"
+      ]
+    },
+    "typo": {
+      "en": [
+        "outlte electricity",
+        "electiricity socket",
+        "plug in outtlet",
+        "powr socket"
+      ],
+      "ru": [
+        "розетак электричество",
+        "электрческая розетка",
+        "воткнуть в розетку",
+        "розетка питаени"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "power plug connector for cable",
+        "extension cord power strip",
+        "light switch on wall",
+        "battery for portable power",
+        "circuit breaker panel box",
+        "USB port for device charging"
+      ],
+      "ru": [
+        "разъём кабеля питания",
+        "удлинитель сетевой фильтр",
+        "выключатель света на стене",
+        "батарейка для портативного питания",
+        "щиток автоматических выключателей",
+        "USB порт для зарядки устройств"
+      ]
+    },
+    "valid": {
+      "en": [
+        "wall outlet for electricity",
+        "power socket to plug in",
+        "electrical outlet icon"
+      ],
+      "ru": [
+        "настенная розетка для электричества",
+        "розетка для подключения",
+        "иконка электрической розетки"
+      ]
+    },
+    "test": {
+      "en": [
+        "outlet icon",
+        "power socket electricity",
+        "plug into outlet"
+      ],
+      "ru": [
+        "иконка розетки",
+        "электрическая розетка питания",
+        "воткнуть в розетку"
+      ]
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "icon": "sd-card",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "image",
+        "img",
+        "memory",
+        "photo",
+        "save"
+      ],
+      "ru": [
+        "изображение",
+        "img",
+        "память",
+        "фото",
+        "сохранить"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "image stored on SD card",
+        "image files on memory card",
+        "img file saved to SD card",
+        "img data on portable card",
+        "memory card for camera storage",
+        "SD card memory capacity",
+        "photo saved to SD card slot",
+        "photo library on memory card",
+        "save files to SD card",
+        "save game progress to memory card"
+      ],
+      "ru": [
+        "изображение хранится на SD-карте",
+        "файлы изображений на карте памяти",
+        "img-файл сохранён на SD-карте",
+        "данные img на портативной карте",
+        "карта памяти для хранения фотоаппарата",
+        "ёмкость памяти SD-карты",
+        "фото сохранено в слот SD-карты",
+        "библиотека фото на карте памяти",
+        "сохранить файлы на SD-карту",
+        "сохранить прогресс игры на карту памяти"
+      ]
+    },
+    "regular": {
+      "en": [
+        "small SD memory card for digital camera",
+        "microSD card inserted in phone slot",
+        "SD card reader connected to laptop",
+        "32GB SD card for storing photos",
+        "SD card ejected from camera for transfer",
+        "corrupted SD card losing photo data",
+        "SD card write-protected tab on side",
+        "formatting SD card in camera settings",
+        "SD card symbol in file storage app",
+        "high-speed V30 SD card for 4K video"
+      ],
+      "ru": [
+        "маленькая SD-карта памяти для цифровой камеры",
+        "microSD-карта вставлена в слот телефона",
+        "кардридер SD подключён к ноутбуку",
+        "SD-карта 32 ГБ для хранения фотографий",
+        "SD-карта извлечена из камеры для переноса",
+        "повреждённая SD-карта с потерей данных",
+        "защита от записи на SD-карте",
+        "форматирование SD-карты в настройках камеры",
+        "символ SD-карты в приложении хранения файлов",
+        "высокоскоростная SD-карта V30 для 4K видео"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an SD card icon for the storage settings",
+        "add a memory card symbol to the photo import screen",
+        "show an SD card for the save to card feature",
+        "use the SD card icon for external storage"
+      ],
+      "ru": [
+        "мне нужна иконка SD-карты для настроек хранения",
+        "добавь символ карты памяти на экран импорта фото",
+        "покажи SD-карту для функции сохранения на карту",
+        "используй иконку SD-карты для внешнего хранилища"
+      ]
+    },
+    "typo": {
+      "en": [
+        "microSD crad inserted in phone slot",
+        "32GB SD cadr for storing photos",
+        "SD crad ejected from camera",
+        "formating SD card in camera settings"
+      ],
+      "ru": [
+        "microSD карат вставлена в слот",
+        "SD крата 32 ГБ для хранения",
+        "SD катра извлечена из камеры",
+        "форматирование SD катры в настройках"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "USB flash drive for file transfer",
+        "hard drive disk for computer storage",
+        "SIM card for mobile network",
+        "cloud storage upload to server",
+        "floppy disk old storage medium",
+        "memory stick USB drive in port"
+      ],
+      "ru": [
+        "USB-флешка для передачи файлов",
+        "жёсткий диск для хранения данных",
+        "SIM-карта для мобильной сети",
+        "облачное хранилище загрузка на сервер",
+        "дискета старый носитель данных",
+        "USB-накопитель в порту"
+      ]
+    },
+    "valid": {
+      "en": [
+        "SD card for camera photo storage",
+        "memory card inserted in device slot",
+        "save photos to SD card"
+      ],
+      "ru": [
+        "SD-карта для хранения фото камеры",
+        "карта памяти вставлена в слот",
+        "сохранить фото на SD-карту"
+      ]
+    },
+    "test": {
+      "en": [
+        "microSD card for phone storage",
+        "SD card symbol in file app",
+        "32GB memory card for photos"
+      ],
+      "ru": [
+        "microSD-карта для хранения телефона",
+        "символ SD-карты в приложении",
+        "карта памяти 32 ГБ для фото"
+      ]
+    }
+  }
+}

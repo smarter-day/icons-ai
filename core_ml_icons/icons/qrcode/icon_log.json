@@ -1,0 +1,154 @@
+{
+  "icon": "qrcode",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "barcode",
+        "info",
+        "information",
+        "qr",
+        "qr-code",
+        "scan"
+      ],
+      "ru": [
+        "штрихкод",
+        "инфо",
+        "информация",
+        "QR",
+        "QR-код",
+        "сканирование"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "barcode scanner reading product label",
+        "linear barcode on grocery packaging",
+        "info embedded in scannable code",
+        "product info encoded in barcode",
+        "information stored in quick response code",
+        "scan for more information",
+        "qr square matrix code pattern",
+        "qr payment at the checkout counter",
+        "qr-code printed on restaurant menu",
+        "qr-code linking to website",
+        "scan qr code with phone camera",
+        "scan to open app or website"
+      ],
+      "ru": [
+        "сканер штрихкода считывает этикетку товара",
+        "линейный штрихкод на упаковке продукта",
+        "информация, встроенная в сканируемый код",
+        "информация о товаре в штрихкоде",
+        "информация в QR-коде быстрого ответа",
+        "сканируй для получения информации",
+        "квадратный матричный QR-код",
+        "QR-оплата на кассе",
+        "QR-код на меню ресторана",
+        "QR-код, ведущий на сайт",
+        "сканирование QR-кода камерой телефона",
+        "сканируй для открытия приложения или сайта"
+      ]
+    },
+    "regular": {
+      "en": [
+        "black and white square matrix quick response code",
+        "QR code printed on restaurant table for menu",
+        "mobile payment QR code at checkout",
+        "event ticket with scannable QR barcode",
+        "product packaging with QR code for details",
+        "QR code on business card for contact info",
+        "scan QR code to visit website or download app",
+        "boarding pass with QR code at airport gate",
+        "vaccine certificate QR code on phone screen",
+        "contactless QR code payment terminal"
+      ],
+      "ru": [
+        "чёрно-белый квадратный матричный QR-код",
+        "QR-код на столе ресторана для меню",
+        "QR-код мобильного платежа на кассе",
+        "билет на мероприятие со сканируемым QR-кодом",
+        "упаковка товара с QR-кодом для подробностей",
+        "QR-код на визитке для контактной информации",
+        "сканируй QR-код для перехода на сайт или загрузки приложения",
+        "посадочный талон с QR-кодом у выхода",
+        "QR-код сертификата вакцинации на экране телефона",
+        "бесконтактный терминал оплаты по QR-коду"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a QR code icon for the scan feature",
+        "add a barcode symbol to the product info section",
+        "show a qr code for the ticket or payment screen",
+        "use the qr-code icon for the check-in feature"
+      ],
+      "ru": [
+        "мне нужна иконка QR-кода для функции сканирования",
+        "добавь символ штрихкода в раздел информации о товаре",
+        "покажи QR-код для экрана билета или оплаты",
+        "используй иконку QR-кода для функции регистрации"
+      ]
+    },
+    "typo": {
+      "en": [
+        "qr cdoe printed on restaurant menu",
+        "sacn qr code with phone camera",
+        "bardcode on grocery packaging",
+        "qr-coed for mobile payment"
+      ],
+      "ru": [
+        "QR кдо на меню ресторана",
+        "сканируй QR-код камреой телефона",
+        "штрихкдо на упаковке продукта",
+        "QR-кдо для мобильного платежа"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "traditional linear barcode with vertical lines",
+        "NFC chip tag for contactless data transfer",
+        "wifi password card with network details",
+        "radio frequency RFID tag on product",
+        "data matrix 2D code on shipping label",
+        "optical character recognition text scanning"
+      ],
+      "ru": [
+        "традиционный линейный штрихкод с вертикальными линиями",
+        "NFC-метка для бесконтактной передачи данных",
+        "карточка с паролем Wi-Fi",
+        "RFID-метка радиочастотной идентификации на товаре",
+        "матричный 2D-код на транспортной этикетке",
+        "оптическое распознавание текста при сканировании"
+      ]
+    },
+    "valid": {
+      "en": [
+        "QR code for scanning with a phone camera",
+        "quick response code on restaurant menu",
+        "scannable qr barcode for payment"
+      ],
+      "ru": [
+        "QR-код для сканирования камерой телефона",
+        "QR-код на меню ресторана",
+        "сканируемый QR-код для оплаты"
+      ]
+    },
+    "test": {
+      "en": [
+        "black and white QR code matrix",
+        "barcode scan for product information",
+        "qr code linking to website"
+      ],
+      "ru": [
+        "чёрно-белая матрица QR-кода",
+        "сканирование штрихкода для информации о товаре",
+        "QR-код, ведущий на сайт"
+      ]
+    }
+  }
+}

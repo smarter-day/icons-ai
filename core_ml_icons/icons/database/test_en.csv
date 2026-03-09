@@ -1,0 +1,4 @@
+text,label
+Set up the app database,database
+Create a new database table,database
+Connect the app to MySQL,database

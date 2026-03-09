@@ -1,0 +1,184 @@
+{
+  "icon": "soap",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bar",
+        "bathing",
+        "bubbles",
+        "clean",
+        "cleaning",
+        "covid-19",
+        "hygiene",
+        "lather",
+        "soap",
+        "soapdish",
+        "wash"
+      ],
+      "ru": [
+        "кусок",
+        "купание",
+        "пузыри",
+        "чистый",
+        "чистка",
+        "covid-19",
+        "гигиена",
+        "мыльная пена",
+        "мыло",
+        "мыльница",
+        "мыть"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bar soap on bathroom shelf",
+        "bar of soap used for handwashing",
+        "bathing with scented soap in shower",
+        "bathing routine with body soap",
+        "soap bubbles floating from lather",
+        "foam bubbles from liquid soap",
+        "clean hands with soap and water",
+        "clean skin after washing with soap",
+        "cleaning surfaces with soap solution",
+        "household cleaning with dish soap",
+        "covid-19 handwashing soap reminder",
+        "wash hands with soap covid prevention",
+        "hygiene soap for daily routine",
+        "personal hygiene bar soap",
+        "work up lather with soap",
+        "soap lather on hands before rinsing",
+        "soap bar for washing body",
+        "dish soap squirted on sponge",
+        "soapdish holding wet bar of soap",
+        "soapdish beside bathroom sink",
+        "wash dishes with soapy water",
+        "wash face with gentle soap"
+      ],
+      "ru": [
+        "кусок мыла на полке ванной",
+        "кусок мыла для мытья рук",
+        "купание с ароматным мылом в душе",
+        "ритуал купания с мылом для тела",
+        "пузыри мыльной пены плавают",
+        "пена пузырей жидкого мыла",
+        "чистые руки с мылом и водой",
+        "чистая кожа после мытья с мылом",
+        "чистка поверхностей мыльным раствором",
+        "уборка дома с жидким мылом",
+        "напоминание мыть руки с мылом covid-19",
+        "мыть руки с мылом профилактика",
+        "мыло для ежедневной гигиены",
+        "кусок мыла личной гигиены",
+        "вспенить мыло перед смывом",
+        "мыльная пена на руках",
+        "кусок мыла для мытья тела",
+        "жидкое мыло на губку",
+        "мыльница с влажным куском мыла",
+        "мыльница у раковины ванной",
+        "мыть посуду в мыльной воде",
+        "умываться нежным мылом"
+      ]
+    },
+    "regular": {
+      "en": [
+        "bar of soap with bubbles on white background",
+        "liquid soap pump dispenser on sink counter",
+        "antibacterial soap for germ protection",
+        "natural organic soap bar with herbs",
+        "dish soap bottle for kitchen cleaning",
+        "soap suds in kitchen sink full of dishes",
+        "handmade artisan soap with essential oils",
+        "soap icon for hygiene reminder app",
+        "shampoo bar solid soap for hair",
+        "laundry soap detergent for washing clothes"
+      ],
+      "ru": [
+        "кусок мыла с пузырями на белом фоне",
+        "дозатор жидкого мыла на столешнице раковины",
+        "антибактериальное мыло для защиты от микробов",
+        "натуральное органическое мыло с травами",
+        "жидкое мыло для мытья посуды",
+        "мыльная пена в кухонной раковине с посудой",
+        "ручное мыло ремесленное с эфирными маслами",
+        "иконка мыла для приложения напоминаний о гигиене",
+        "шампунь-бар твёрдое мыло для волос",
+        "стиральный порошок мыло для стирки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a soap icon for the hygiene reminder screen",
+        "add a soap symbol to the bathroom section",
+        "show a soap bar for the handwashing feature",
+        "use the soap icon for the cleaning category"
+      ],
+      "ru": [
+        "мне нужна иконка мыла для экрана напоминания о гигиене",
+        "добавь символ мыла в раздел ванной",
+        "покажи кусок мыла для функции мытья рук",
+        "используй иконку мыла для категории чистки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "bar of soaap with bubbles",
+        "lqiuid soap pump on sink counter",
+        "natual organic soap bar with herbs",
+        "handmad artisan soap with oils"
+      ],
+      "ru": [
+        "кусок мыал с пузырями",
+        "дозатор жидкого мыал на столешнице",
+        "натуральное органичесоке мыло с травами",
+        "ручное мыол с эфирными маслами"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "shampoo bottle for washing hair",
+        "toothbrush with toothpaste for dental care",
+        "hand sanitizer gel bottle with pump",
+        "shower gel bottle for body wash",
+        "scrub exfoliating face wash",
+        "deodorant stick for underarm hygiene"
+      ],
+      "ru": [
+        "флакон шампуня для мытья волос",
+        "зубная щётка с пастой для ухода за зубами",
+        "гель-антисептик для рук с дозатором",
+        "флакон геля для душа",
+        "скраб для умывания лица",
+        "дезодорант стик для подмышек"
+      ]
+    },
+    "valid": {
+      "en": [
+        "bar of soap with bubbles",
+        "soap for handwashing hygiene",
+        "liquid soap dispenser on sink"
+      ],
+      "ru": [
+        "кусок мыла с пузырями",
+        "мыло для гигиены мытья рук",
+        "дозатор жидкого мыла у раковины"
+      ]
+    },
+    "test": {
+      "en": [
+        "antibacterial soap bar",
+        "soap icon for hygiene app",
+        "dish soap for kitchen cleaning"
+      ],
+      "ru": [
+        "антибактериальный кусок мыла",
+        "иконка мыла для гигиены",
+        "жидкое мыло для кухни"
+      ]
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "icon": "squirrel",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "animal",
+        "chipmunk",
+        "mammal",
+        "marmot",
+        "rat",
+        "rodent",
+        "tree"
+      ],
+      "ru": [
+        "животное",
+        "бурундук",
+        "млекопитающее",
+        "сурок",
+        "крыса",
+        "грызун",
+        "дерево"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "woodland animal gathering acorns",
+        "small animal sitting on fence",
+        "chipmunk like squirrel with stripes",
+        "chipmunk cheeks stuffed with seeds",
+        "fluffy-tailed mammal in park",
+        "nimble mammal jumping between trees",
+        "marmot ground squirrel on rock",
+        "prairie marmot standing upright",
+        "rat-like rodent with bushy tail",
+        "small rat-sized squirrel",
+        "tree-climbing rodent with sharp claws",
+        "rodent scurrying up oak tree",
+        "squirrel jumping between tree branches",
+        "gray squirrel in city park"
+      ],
+      "ru": [
+        "лесное животное собирает желуди",
+        "маленькое животное сидит на заборе",
+        "бурундук похожий на белку с полосками",
+        "бурундук с набитыми семенами щеками",
+        "пушистохвостое млекопитающее в парке",
+        "проворное млекопитающее прыгает между деревьями",
+        "сурок на камне",
+        "луговой сурок стоит прямо",
+        "похожий на крысу грызун с пушистым хвостом",
+        "маленькая белка размером с крысу",
+        "грызун лазит по дереву с острыми когтями",
+        "грызун карабкается на дуб",
+        "белка прыгает между ветками деревьев",
+        "серая белка в городском парке"
+      ]
+    },
+    "regular": {
+      "en": [
+        "gray squirrel holding acorn with both paws",
+        "red squirrel in forest with bushy tail",
+        "squirrel burying nut in autumn soil",
+        "flying squirrel gliding between trees",
+        "squirrel on bird feeder stealing seeds",
+        "baby squirrel rescued and hand-fed",
+        "cartoon squirrel mascot with big eyes",
+        "squirrel acorn collection for winter",
+        "black squirrel rare color variant",
+        "squirrel jumping with tail extended"
+      ],
+      "ru": [
+        "серая белка держит желудь двумя лапами",
+        "рыжая белка в лесу с пушистым хвостом",
+        "белка закапывает орех в осеннюю почву",
+        "летяга планирует между деревьями",
+        "белка на кормушке ворует семена",
+        "детёныш белки спасён и кормится с рук",
+        "мультяшный маскот-белка с большими глазами",
+        "запас желудей белки на зиму",
+        "чёрная белка редкий цветовой вариант",
+        "белка прыгает с вытянутым хвостом"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a squirrel icon for the wildlife app",
+        "add a squirrel symbol to the forest animals section",
+        "show a squirrel for the autumn collection feature",
+        "use the squirrel icon for the nature category"
+      ],
+      "ru": [
+        "мне нужна иконка белки для приложения о природе",
+        "добавь символ белки в раздел лесных животных",
+        "покажи белку для функции осенней коллекции",
+        "используй иконку белки для категории природы"
+      ]
+    },
+    "typo": {
+      "en": [
+        "grary squirrel holding acorn",
+        "red sqiurrel in forest with tail",
+        "sqiurrel burying nut in soil",
+        "flyign squirrel gliding between trees"
+      ],
+      "ru": [
+        "серая белак держит желудь",
+        "рыжая белка в лесу с хвотом",
+        "белка закпывает орех в почву",
+        "летяга плнирует между деревьями"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "chipmunk with brown stripes on back",
+        "rabbit with long ears hopping in park",
+        "mouse small rodent nibbling cheese",
+        "raccoon with black mask foraging",
+        "beaver gnawing on tree branch",
+        "fox with bushy red tail in woods"
+      ],
+      "ru": [
+        "бурундук с коричневыми полосками на спине",
+        "кролик с длинными ушами прыгает в парке",
+        "мышь маленький грызун грызёт сыр",
+        "енот с чёрной маской ищет еду",
+        "бобёр грызёт ветку дерева",
+        "лиса с пушистым рыжим хвостом в лесу"
+      ]
+    },
+    "valid": {
+      "en": [
+        "gray squirrel holding acorn",
+        "squirrel in park gathering nuts",
+        "bushy-tailed tree squirrel"
+      ],
+      "ru": [
+        "серая белка держит желудь",
+        "белка в парке собирает орехи",
+        "пушистохвостая белка на дереве"
+      ]
+    },
+    "test": {
+      "en": [
+        "red squirrel in forest",
+        "squirrel burying nut for winter",
+        "squirrel icon for nature app"
+      ],
+      "ru": [
+        "рыжая белка в лесу",
+        "белка закапывает орех на зиму",
+        "иконка белки для природного приложения"
+      ]
+    }
+  }
+}

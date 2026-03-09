@@ -1,0 +1,96 @@
+{
+  "icon": "cross",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Christian",
+        "catholicism",
+        "christianity",
+        "church",
+        "cross",
+        "jesus",
+        "latin cross",
+        "religion"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Christian cross symbol of faith",
+        "Christian faith represented by the cross",
+        "catholicism cross at the altar",
+        "catholic cross on the chapel wall",
+        "christianity cross on the church building",
+        "christianity symbol the cross",
+        "church cross on the steeple",
+        "cross on top of the church tower",
+        "wooden cross on the hill",
+        "cross carved from stone",
+        "cross where Jesus was crucified",
+        "Jesus on the cross depiction",
+        "latin cross with a longer lower arm",
+        "traditional latin cross shape",
+        "cross as a religion symbol",
+        "religion icon of the cross"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wooden cross on top of the church steeple",
+        "gold cross pendant on a necklace",
+        "latin cross carved in stone",
+        "cross symbol at the altar during mass",
+        "roadside memorial cross with flowers",
+        "cross used in a Christian baptism ceremony",
+        "cemetery cross marking the grave",
+        "simple wooden cross for a religious service",
+        "church stained glass window with a cross",
+        "cross emblem on the bishop's vestment"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a cross icon for the church app",
+        "add a Christian cross to the religion section",
+        "show a cross symbol for the faith category",
+        "use the latin cross for the religious event page"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cristian cross symbol",
+        "catholicisim cross at altar",
+        "chruch cross on steeple",
+        "religin cross symbol"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "green medical cross on a hospital sign",
+        "checkmark confirming a completed task",
+        "plus sign for adding an item to the list",
+        "red cross of the first aid kit",
+        "star of David Jewish religious symbol",
+        "crescent moon and star Islamic symbol"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Christian cross symbol",
+        "cross on the church steeple",
+        "latin cross religion icon"
+      ]
+    },
+    "test": {
+      "en": [
+        "cross symbol for faith",
+        "church cross icon",
+        "Christian religion cross"
+      ]
+    }
+  }
+}

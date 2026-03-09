@@ -1,0 +1,148 @@
+{
+  "icon": "shower",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bath",
+        "clean",
+        "faucet",
+        "shower",
+        "water"
+      ],
+      "ru": [
+        "ванна",
+        "чистота",
+        "кран",
+        "душ",
+        "вода"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bath time with warm shower water",
+        "morning bath shower routine",
+        "clean body with daily shower",
+        "clean hair with shampoo in shower",
+        "faucet dripping water in shower",
+        "shower faucet with hot and cold handles",
+        "shower head spraying water droplets",
+        "steam shower after gym session",
+        "water pressure in shower head",
+        "cool water shower on hot day"
+      ],
+      "ru": [
+        "время купания в тёплом душе",
+        "утренний ритуал принятия душа",
+        "чистое тело в ежедневном душе",
+        "мыть волосы шампунем в душе",
+        "капающий кран душа",
+        "смеситель душа с горячей и холодной ручками",
+        "лейка душа брызгает каплями воды",
+        "паровой душ после тренировки",
+        "давление воды в лейке душа",
+        "прохладный душ в жаркий день"
+      ]
+    },
+    "regular": {
+      "en": [
+        "shower head mounted on bathroom wall",
+        "rain shower head with wide spray",
+        "morning shower routine for hygiene",
+        "hot shower after outdoor workout",
+        "shower cabin with glass door",
+        "water droplets spraying from shower nozzle",
+        "electric shower unit in bathroom",
+        "outdoor shower rinse at beach",
+        "shower icon for hygiene or bathroom category",
+        "pressure boosting shower head upgrade"
+      ],
+      "ru": [
+        "лейка душа закреплена на стене ванной",
+        "дождевая лейка душа с широкой подачей",
+        "утренний ритуал душа для гигиены",
+        "горячий душ после уличной тренировки",
+        "душевая кабина со стеклянной дверью",
+        "капли воды из насадки душа",
+        "электрический душ в ванной комнате",
+        "уличный душ для ополаскивания на пляже",
+        "иконка душа для категории гигиены или ванной",
+        "улучшенная насадка душа с усилителем напора"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a shower icon for the bathroom routine app",
+        "add a shower symbol to the hygiene section",
+        "show a shower head for the water usage feature",
+        "use the shower icon for the morning routine screen"
+      ],
+      "ru": [
+        "мне нужна иконка душа для приложения утренних процедур",
+        "добавь символ душа в раздел гигиены",
+        "покажи лейку душа для функции использования воды",
+        "используй иконку душа для экрана утренних привычек"
+      ]
+    },
+    "typo": {
+      "en": [
+        "shower haed mounted on bathroom wall",
+        "morging shower routine for hygiene",
+        "hot shwoer after outdoor workout",
+        "water droplest spraying from nozzle"
+      ],
+      "ru": [
+        "лейка душа закреплена на стене ванонй",
+        "утренний ритуал душа для гегиены",
+        "горячий душ после тренировки",
+        "капли вдоы из насадки душа"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "bathtub faucet filling with water",
+        "sink tap running water for handwashing",
+        "toilet flush button in bathroom",
+        "towel rail with hanging bath towels",
+        "soap dispenser pump on bathroom counter",
+        "bath bomb fizzing in tub"
+      ],
+      "ru": [
+        "кран ванны наполняет водой",
+        "кран раковины с водой для мытья рук",
+        "кнопка смыва унитаза в ванной",
+        "полотенцедержатель с банными полотенцами",
+        "дозатор мыла на столешнице ванной",
+        "бомбочка для ванны пузырится в ванне"
+      ]
+    },
+    "valid": {
+      "en": [
+        "shower head spraying water",
+        "morning shower hygiene routine",
+        "shower icon for bathroom app"
+      ],
+      "ru": [
+        "лейка душа брызгает водой",
+        "утренняя гигиена в душе",
+        "иконка душа для ванной"
+      ]
+    },
+    "test": {
+      "en": [
+        "rain shower head on wall",
+        "hot shower after workout",
+        "water droplets from shower nozzle"
+      ],
+      "ru": [
+        "дождевая лейка на стене",
+        "горячий душ после тренировки",
+        "капли воды из лейки душа"
+      ]
+    }
+  }
+}

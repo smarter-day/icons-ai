@@ -1,0 +1,154 @@
+{
+  "icon": "school",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "building",
+        "education",
+        "learn",
+        "school",
+        "student",
+        "teacher"
+      ],
+      "ru": [
+        "здание",
+        "образование",
+        "учиться",
+        "школа",
+        "ученик",
+        "учитель"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "school building with flagpole out front",
+        "brick building with school sign",
+        "education system primary and secondary",
+        "education institution for children",
+        "learn new subjects at school",
+        "learn reading writing and arithmetic",
+        "school day starting with morning bell",
+        "school year calendar for students",
+        "student carrying backpack to class",
+        "student raising hand in classroom",
+        "teacher writing on blackboard",
+        "teacher grading papers after class"
+      ],
+      "ru": [
+        "школьное здание с флагштоком перед входом",
+        "кирпичное здание со школьной вывеской",
+        "система образования начальное и среднее",
+        "учебное заведение для детей",
+        "учиться новым предметам в школе",
+        "учиться читать писать и считать",
+        "школьный день начинается со звонка",
+        "школьный календарь для учеников",
+        "ученик несёт рюкзак на урок",
+        "ученик поднимает руку в классе",
+        "учитель пишет на доске",
+        "учитель проверяет тетради после урока"
+      ]
+    },
+    "regular": {
+      "en": [
+        "red brick school building with clock tower",
+        "elementary school with playground in yard",
+        "students lined up at school entrance",
+        "classroom with desks and blackboard",
+        "school bus dropping kids off at building",
+        "principal's office in school hallway",
+        "school library with rows of bookshelves",
+        "science lab in high school building",
+        "graduation ceremony in school auditorium",
+        "school sports field behind main building"
+      ],
+      "ru": [
+        "кирпичная школа с часовой башней",
+        "начальная школа с игровой площадкой во дворе",
+        "ученики выстроились у входа в школу",
+        "классная комната с партами и доской",
+        "школьный автобус высаживает детей у здания",
+        "кабинет директора в школьном коридоре",
+        "школьная библиотека с рядами полок",
+        "лаборатория в здании школы",
+        "выпускной в школьной актовом зале",
+        "школьный стадион за главным зданием"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a school icon for the education tracking app",
+        "add a school building symbol to the learn section",
+        "show a school for the student schedule feature",
+        "use the school icon for the education category"
+      ],
+      "ru": [
+        "мне нужна иконка школы для приложения учёта успеваемости",
+        "добавь символ школьного здания в раздел обучения",
+        "покажи школу для функции расписания ученика",
+        "используй иконку школы для категории образования"
+      ]
+    },
+    "typo": {
+      "en": [
+        "red brikc school building with clock",
+        "stduents lined up at school entrance",
+        "classrooom with desks and blackboard",
+        "school bsu dropping kids at building"
+      ],
+      "ru": [
+        "кирпичаня школа с часовой башней",
+        "ученики выстроились у вхдоа в школу",
+        "класная комната с партами и доской",
+        "школьный автбус высаживает детей"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "university campus with large lecture halls",
+        "library building with reading rooms",
+        "graduation cap mortar board for degree",
+        "kindergarten colorful building with playground",
+        "office building skyscraper in city",
+        "hospital building with red cross sign"
+      ],
+      "ru": [
+        "университетский кампус с большими аудиториями",
+        "здание библиотеки с читальными залами",
+        "академическая шапочка для диплома",
+        "красочный детский сад с площадкой",
+        "офисное здание небоскрёб в городе",
+        "больница со знаком красного креста"
+      ]
+    },
+    "valid": {
+      "en": [
+        "school building with flagpole at entrance",
+        "elementary school with classroom and teacher",
+        "student learning at school"
+      ],
+      "ru": [
+        "школьное здание с флагштоком у входа",
+        "начальная школа с классом и учителем",
+        "ученик учится в школе"
+      ]
+    },
+    "test": {
+      "en": [
+        "red brick school building icon",
+        "students and teacher in classroom",
+        "school for education section"
+      ],
+      "ru": [
+        "иконка кирпичной школы",
+        "ученики и учитель в классе",
+        "школа для раздела образования"
+      ]
+    }
+  }
+}

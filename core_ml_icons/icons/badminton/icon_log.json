@@ -1,0 +1,148 @@
+{
+  "icon": "badminton",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "badminton",
+        "birdie",
+        "game",
+        "racquet",
+        "shuttlecock"
+      ],
+      "ru": [
+        "бадминтон",
+        "волан",
+        "игра",
+        "ракетка",
+        "воланчик"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "play badminton on Saturday",
+        "practice hitting the birdie",
+        "schedule a game of badminton",
+        "buy a badminton racquet",
+        "replace the shuttlecock",
+        "join a badminton session this week",
+        "birdie flew out of bounds",
+        "game ends at six points",
+        "restring the old racquet",
+        "pick up a new shuttlecock"
+      ],
+      "ru": [
+        "сыграть в бадминтон в субботу",
+        "потренировать удары по волану",
+        "запланировать партию в бадминтон",
+        "купить ракетку для бадминтона",
+        "заменить воланчик",
+        "записаться на бадминтон на этой неделе",
+        "волан вышел за пределы поля",
+        "игра заканчивается на шести очках",
+        "перетянуть старую ракетку",
+        "купить новый воланчик"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Play badminton after work",
+        "Book badminton court",
+        "Badminton practice session",
+        "Buy a new racquet",
+        "Join the badminton club",
+        "Badminton tournament this weekend",
+        "Morning badminton warm-up",
+        "Grab the badminton gear",
+        "Set up net in the backyard",
+        "Find a partner for badminton"
+      ],
+      "ru": [
+        "Сыграть в бадминтон после работы",
+        "Забронировать корт для бадминтона",
+        "Тренировочная сессия по бадминтону",
+        "Купить новую ракетку",
+        "Вступить в клуб бадминтона",
+        "Турнир по бадминтону в эти выходные",
+        "Утренняя разминка по бадминтону",
+        "Взять снаряжение для бадминтона",
+        "Установить сетку во дворе",
+        "Найти партнёра для бадминтона"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Anyone up for a game of badminton?",
+        "Need to practice my backhand",
+        "Sign up for that racquet sports league",
+        "Hit the courts this weekend"
+      ],
+      "ru": [
+        "Кто-нибудь хочет сыграть в бадминтон?",
+        "Надо потренировать удар слева",
+        "Записаться в лигу ракеточного спорта",
+        "Пойти на корт в эти выходные"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Play batminton",
+        "Book badmiton court",
+        "Buy a new raqcuet",
+        "Badmington match"
+      ],
+      "ru": [
+        "Поиграть в батминтон",
+        "Забронировать корт для бадмитона",
+        "Купить новую ракедку",
+        "Матч по бадминтоне"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Play tennis",
+        "Table tennis practice",
+        "Hit the gym",
+        "Volleyball match",
+        "Go to the sports club",
+        "Buy sports gear"
+      ],
+      "ru": [
+        "Сыграть в теннис",
+        "Тренировка по настольному теннису",
+        "Пойти в спортзал",
+        "Матч по волейболу",
+        "Пойти в спортивный клуб",
+        "Купить спортивное снаряжение"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Pack racquet for this evening",
+        "Renew membership at the sports club",
+        "Practice serves before the match"
+      ],
+      "ru": [
+        "Упаковать ракетку на сегодняшний вечер",
+        "Продлить членство в спортивном клубе",
+        "Потренировать подачи перед матчем"
+      ]
+    },
+    "test": {
+      "en": [
+        "Challenge a colleague to a match",
+        "Reserve the court for Saturday",
+        "Cool down after the badminton game"
+      ],
+      "ru": [
+        "Вызвать коллегу на матч",
+        "Зарезервировать корт на субботу",
+        "Остыть после игры в бадминтон"
+      ]
+    }
+  }
+}

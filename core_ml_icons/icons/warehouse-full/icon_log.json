@@ -1,0 +1,148 @@
+{
+  "icon": "warehouse-full",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "building",
+        "capacity",
+        "garage",
+        "inventory",
+        "storage"
+      ],
+      "ru": [
+        "здание",
+        "вместимость",
+        "гараж",
+        "инвентарь",
+        "хранение"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "warehouse full building packed",
+        "full warehouse building capacity",
+        "full capacity warehouse storage",
+        "warehouse at max capacity",
+        "garage full warehouse items",
+        "full garage warehouse overflow",
+        "inventory warehouse full stocked",
+        "full inventory warehouse",
+        "storage warehouse full overflow",
+        "full storage warehouse packed"
+      ],
+      "ru": [
+        "полный склад здание набитое",
+        "полное здание склада вместимость",
+        "максимальная вместимость склада",
+        "склад на максимуме вместимости",
+        "гараж полный склад предметы",
+        "полный гараж склад переполнение",
+        "инвентарь склад полный запас",
+        "полный инвентарь склад",
+        "переполненное хранилище склад",
+        "полный склад хранения переполнен"
+      ]
+    },
+    "regular": {
+      "en": [
+        "warehouse at full capacity stacked shelves",
+        "inventory warehouse no space left",
+        "full warehouse requiring expansion",
+        "warehouse full indicator system alert",
+        "stock room full overflow storage",
+        "fulfillment center warehouse at capacity",
+        "full warehouse order backlog",
+        "warehouse management full alert",
+        "peak season warehouse full",
+        "full warehouse fire safety concern"
+      ],
+      "ru": [
+        "склад максимальной вместимости стеллажи",
+        "инвентарь склад нет свободного места",
+        "полный склад требует расширения",
+        "индикатор полного склада системное предупреждение",
+        "кладовая переполнена хранилище",
+        "центр выполнения заказов склад на пределе",
+        "полный склад отставание заказов",
+        "предупреждение управления полного склада",
+        "пиковый сезон полный склад",
+        "противопожарная безопасность полного склада"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a warehouse-full icon for the capacity alert",
+        "add a full storage symbol to the inventory warning",
+        "show a full warehouse for the overflow notification",
+        "use the warehouse-full icon for the max capacity screen"
+      ],
+      "ru": [
+        "нужна иконка полного склада для предупреждения о вместимости",
+        "добавь символ полного хранилища к предупреждению об инвентаре",
+        "покажи полный склад для уведомления о переполнении",
+        "используй иконку полного склада для экрана максимальной вместимости"
+      ]
+    },
+    "typo": {
+      "en": [
+        "warehosue full stoarge",
+        "invnetory warehouse packed",
+        "capcaity full warehouse",
+        "stoarge warehouse full"
+      ],
+      "ru": [
+        "полный склад хранение",
+        "инвентарь склад набитый",
+        "вместимость полного склада",
+        "хранилище склад полный"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "warehouse empty available space",
+        "trash bin full overflow",
+        "inbox full messages",
+        "storage disk full computer",
+        "shopping cart full items",
+        "battery full charged"
+      ],
+      "ru": [
+        "пустой склад свободное место",
+        "мусорное ведро переполнено",
+        "входящие полные сообщения",
+        "диск хранения полный компьютер",
+        "корзина полная товаров",
+        "аккумулятор полный заряд"
+      ]
+    },
+    "valid": {
+      "en": [
+        "warehouse full capacity icon",
+        "full storage building symbol",
+        "max capacity warehouse"
+      ],
+      "ru": [
+        "иконка полного склада максимальная вместимость",
+        "символ полного склада",
+        "склад максимальной вместимости"
+      ]
+    },
+    "test": {
+      "en": [
+        "warehouse-full icon",
+        "full capacity symbol",
+        "full warehouse storage"
+      ],
+      "ru": [
+        "иконка полного склада",
+        "символ максимальной вместимости",
+        "полный склад хранения"
+      ]
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "icon": "bluetooth",
+  "rows": {
+    "train_en": 27,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "signal"
+      ],
+      "ru": [
+        "сигнал"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "check the bluetooth signal",
+        "Bluetooth signal weak — move closer to device"
+      ],
+      "ru": [
+        "проверить сигнал Bluetooth",
+        "Слабый сигнал Bluetooth — подойти ближе к устройству"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Connect headphones via bluetooth",
+        "Pair the speaker with my phone",
+        "Bluetooth keyboard setup",
+        "Connect to the car bluetooth",
+        "Pair the new earbuds",
+        "Bluetooth connection troubleshoot",
+        "Connect the watch to the phone",
+        "Enable bluetooth on the laptop",
+        "Pair bluetooth mouse",
+        "Sync devices over bluetooth"
+      ],
+      "ru": [
+        "Подключить наушники через Bluetooth",
+        "Сопряжение колонки с телефоном",
+        "Настройка Bluetooth-клавиатуры",
+        "Подключиться к Bluetooth автомобиля",
+        "Сопрячь новые наушники",
+        "Устранить неполадки Bluetooth",
+        "Подключить часы к телефону",
+        "Включить Bluetooth на ноутбуке",
+        "Сопрячь Bluetooth-мышь",
+        "Синхронизировать устройства через Bluetooth"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Why won't my bluetooth connect?",
+        "My headphones aren't pairing",
+        "Let me turn on bluetooth",
+        "The bluetooth keeps disconnecting"
+      ],
+      "ru": [
+        "Почему Bluetooth не подключается?",
+        "Наушники не сопрягаются",
+        "Дайте включу Bluetooth",
+        "Bluetooth постоянно отключается"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Conect headphnes via blutooth",
+        "Pair the speakre with my phon",
+        "Bluetoth connecton issue",
+        "Pair blutooth earbods"
+      ],
+      "ru": [
+        "Подклчить наушникии через Bluetoth",
+        "Сопряжение калонки с телефном",
+        "Проблема с Bluetoth-подключением",
+        "Сопрячь Bluethoot-наушники"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Connect via WiFi",
+        "NFC payment setup",
+        "Airplane mode on",
+        "Mobile data connection",
+        "Cable connection",
+        "AirPlay to the TV"
+      ],
+      "ru": [
+        "Подключиться через WiFi",
+        "Настройка NFC-оплаты",
+        "Режим полёта",
+        "Мобильное интернет-соединение",
+        "Кабельное подключение",
+        "AirPlay на телевизор"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Pair bluetooth headphones to phone",
+        "Connect bluetooth speaker",
+        "Enable bluetooth on the device"
+      ],
+      "ru": [
+        "Сопрячь Bluetooth-наушники с телефоном",
+        "Подключить Bluetooth-колонку",
+        "Включить Bluetooth на устройстве"
+      ]
+    },
+    "test": {
+      "en": [
+        "Bluetooth pairing issue",
+        "Connect to car audio via bluetooth",
+        "Sync bluetooth watch with phone"
+      ],
+      "ru": [
+        "Проблема с Bluetooth-сопряжением",
+        "Подключить к автозвуку через Bluetooth",
+        "Синхронизировать Bluetooth-часы с телефоном"
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "icon": "command",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Place of Interest Sign",
+        "apple key",
+        "loop"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Use the Place of Interest Sign in document",
+        "Look up the Place of Interest Sign",
+        "Press the apple key to open Spotlight",
+        "Use the apple key shortcut",
+        "Create a loop in the automation",
+        "Use a loop to repeat the task"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Learn Mac keyboard shortcuts",
+        "Set up automation shortcuts",
+        "Use Command+Space to search",
+        "Find the right key combination",
+        "Create a custom keyboard shortcut",
+        "Speed up workflow with shortcuts",
+        "Memorize common Mac shortcuts",
+        "Configure keyboard shortcuts in settings",
+        "Use shortcuts to save time at work",
+        "Look up Mac keyboard commands"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Learn shortcuts",
+        "Quick key combo",
+        "Command key tricks",
+        "Mac shortcut tip"
+      ]
+    },
+    "typo": {
+      "en": [
+        "keyborad shortcut on mac",
+        "comand key shortcut",
+        "use the aple key",
+        "mac shortcutt"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Set up a keyboard macro",
+        "Configure hotkeys in the app",
+        "Use Tab key to switch windows",
+        "Press Ctrl+Z to undo",
+        "Set up voice commands",
+        "Create an automation workflow"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Use Command key shortcut",
+        "Set up a keyboard shortcut",
+        "Learn Mac shortcuts"
+      ]
+    },
+    "test": {
+      "en": [
+        "Find useful keyboard shortcuts",
+        "Speed up work with shortcuts",
+        "Configure custom key bindings"
+      ]
+    }
+  }
+}

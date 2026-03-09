@@ -1,0 +1,172 @@
+{
+  "icon": "briefcase",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bag",
+        "briefcas",
+        "briefcase",
+        "business",
+        "luggage",
+        "offer",
+        "office",
+        "portfolio",
+        "work"
+      ],
+      "ru": [
+        "сумка",
+        "портфель (брифкейс)",
+        "портфель",
+        "бизнес",
+        "багаж",
+        "предложение",
+        "офис",
+        "портфолио",
+        "работа"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "pack the work bag",
+        "carry the briefcase to work",
+        "new briefcase for the office",
+        "business meeting today",
+        "pack luggage for the business trip",
+        "review the job offer",
+        "head to the office",
+        "update the work portfolio",
+        "work from the office today",
+        "Work bag packed for the early flight",
+        "Leather briefcase for the client meeting",
+        "Briefcase handle worn out — repair needed",
+        "Business attire and briefcase ready",
+        "Luggage tag attached to the work bag",
+        "Review the job offer terms tonight",
+        "Office supplies packed in the briefcase",
+        "Portfolio review before the presentation",
+        "Work from the client site today"
+      ],
+      "ru": [
+        "собрать рабочую сумку",
+        "взять портфель на работу",
+        "новый портфель для офиса",
+        "деловая встреча сегодня",
+        "упаковать багаж для командировки",
+        "изучить предложение о работе",
+        "ехать в офис",
+        "обновить рабочее портфолио",
+        "работать в офисе сегодня",
+        "Рабочая сумка собрана для раннего рейса",
+        "Кожаный портфель для встречи с клиентом",
+        "Ручка портфеля изношена — починить",
+        "Деловой костюм и портфель готовы",
+        "Бирка на рабочей сумке прикреплена",
+        "Изучить условия предложения о работе вечером",
+        "Канцелярия собрана в портфель",
+        "Просмотр портфолио перед презентацией",
+        "Сегодня работать с площадки клиента"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Prepare for the work meeting",
+        "Pack the briefcase for the office",
+        "Business trip packing",
+        "Update the work portfolio",
+        "Head to the office early",
+        "Job offer review",
+        "Work presentation preparation",
+        "Commute to the office today",
+        "Pack the work bag",
+        "Corporate meeting this afternoon"
+      ],
+      "ru": [
+        "Подготовиться к рабочей встрече",
+        "Собрать портфель для офиса",
+        "Упаковка для командировки",
+        "Обновить рабочее портфолио",
+        "Приехать в офис пораньше",
+        "Изучить предложение о работе",
+        "Подготовка рабочей презентации",
+        "Добраться до офиса сегодня",
+        "Собрать рабочую сумку",
+        "Корпоративная встреча этим вечером"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I've got a big work day ahead",
+        "Off to the office — big meeting today",
+        "Need to pack my briefcase tonight",
+        "Work never stops does it"
+      ],
+      "ru": [
+        "Впереди напряжённый рабочий день",
+        "Еду в офис — большое совещание сегодня",
+        "Надо собрать портфель сегодня вечером",
+        "Работа не останавливается"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Pak the briefcase for the offce",
+        "Busines trip pakking",
+        "Updte the work portfolo",
+        "Head to the ofice erly"
+      ],
+      "ru": [
+        "Собрать портфль для офиса",
+        "Упакавка для коммандировки",
+        "Обновть рабочее портфлио",
+        "Приехать в офис пораньше"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Pack the gym bag",
+        "Pack for the vacation",
+        "Back to school bag",
+        "Laptop bag for travel",
+        "Work from home today",
+        "Sign the business contract"
+      ],
+      "ru": [
+        "Собрать спортивную сумку",
+        "Упаковать чемодан в отпуск",
+        "Рюкзак в школу",
+        "Сумка для ноутбука для поездки",
+        "Работать из дома сегодня",
+        "Подписать деловой контракт"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Briefcase ready for the office meeting",
+        "Pack for the business trip",
+        "Portfolio update before the interview"
+      ],
+      "ru": [
+        "Портфель готов для деловой встречи",
+        "Упаковать к командировке",
+        "Обновить портфолио перед собеседованием"
+      ]
+    },
+    "test": {
+      "en": [
+        "Big presentation at the office today",
+        "Business meeting downtown",
+        "Commute to work with the briefcase"
+      ],
+      "ru": [
+        "Большая презентация в офисе сегодня",
+        "Деловая встреча в центре города",
+        "Добраться до работы с портфелем"
+      ]
+    }
+  }
+}

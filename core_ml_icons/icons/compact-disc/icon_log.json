@@ -1,0 +1,108 @@
+{
+  "icon": "compact-disc",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "album",
+        "blu-ray",
+        "cd",
+        "disc",
+        "disk",
+        "dvd",
+        "media",
+        "movie",
+        "music",
+        "optical",
+        "record",
+        "vinyl"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy the new album on CD",
+        "Rip the album from CD to digital",
+        "Watch a Blu-ray movie",
+        "Buy a Blu-ray disc",
+        "Burn files to a CD",
+        "Buy blank CDs",
+        "Clean the disc surface",
+        "Store discs properly",
+        "Save files to disk",
+        "Back up data to disk",
+        "Rent a DVD from the store",
+        "Watch a DVD tonight",
+        "Organize the media collection",
+        "Convert media to digital format",
+        "Watch a movie on DVD",
+        "Find the movie on disc",
+        "Listen to music on optical disc",
+        "Store music on optical disc",
+        "Record the performance to disc",
+        "Record to a blank disc",
+        "Buy a vintage vinyl record",
+        "Play vinyl on the turntable",
+        "Rip the CD to MP3",
+        "Sort the CD collection"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Rip the CD collection to digital",
+        "Find the DVD in the collection",
+        "Clean a scratched disc",
+        "Organize the media library",
+        "Convert old CDs to MP3",
+        "Watch a Blu-ray movie tonight",
+        "Buy a movie on physical disc",
+        "Archive data to optical disc",
+        "Find that old vinyl record",
+        "Play music from a CD player"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Pop in a DVD",
+        "Playing a CD",
+        "Old school disc",
+        "Vinyl night"
+      ]
+    },
+    "typo": {
+      "en": [
+        "watche the dvd movie",
+        "brun a cd disc",
+        "viynl record collection",
+        "rip the cds to digitla"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Stream music on Spotify",
+        "Download the movie online",
+        "Listen to music on a cassette tape",
+        "Play music on the radio",
+        "Use a USB drive for data",
+        "Cloud backup the files"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Rip the CD collection",
+        "Watch a movie on DVD",
+        "Play vinyl records tonight"
+      ]
+    },
+    "test": {
+      "en": [
+        "Organize the disc collection",
+        "Convert CDs to digital format",
+        "Find the old album on CD"
+      ]
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "icon": "walkie-talkie",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "communication",
+        "copy",
+        "intercom",
+        "over",
+        "portable",
+        "radio",
+        "two way radio"
+      ],
+      "ru": [
+        "связь",
+        "принял",
+        "переговорное устройство",
+        "приём",
+        "портативный",
+        "радио",
+        "двусторонняя рация"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "walkie-talkie communication device",
+        "walkie-talkie police officer",
+        "copy that walkie-talkie phrase",
+        "copy radio confirmation",
+        "intercom walkie-talkie two way",
+        "intercom system portable",
+        "over and out radio end message",
+        "radio over confirm receive",
+        "portable radio walkie-talkie field",
+        "portable handheld radio",
+        "radio walkie-talkie handheld",
+        "two-way radio walkie-talkie",
+        "two way radio communication",
+        "two-way radio hiking"
+      ],
+      "ru": [
+        "устройство связи рация",
+        "полицейская рация",
+        "принял рация фраза подтверждение",
+        "принял радио подтверждение",
+        "двусторонняя рация переговорное устройство",
+        "портативная переговорная система",
+        "приём и конец сообщения рации",
+        "радио приём подтвердить",
+        "портативная рация в поле",
+        "портативная ручная рация",
+        "ручная рация двустороннее радио",
+        "портативная рация",
+        "двусторонняя радиосвязь",
+        "рация для похода"
+      ]
+    },
+    "regular": {
+      "en": [
+        "handheld walkie-talkie two way radio",
+        "security guard walkie-talkie",
+        "children toy walkie-talkie set",
+        "military grade two-way radio",
+        "construction site walkie-talkie",
+        "hiking trail walkie-talkie",
+        "event staff walkie-talkie comms",
+        "walkie-talkie clip belt holster",
+        "radio channel walkie-talkie switch",
+        "emergency services radio walkie"
+      ],
+      "ru": [
+        "ручная рация двусторонняя связь",
+        "охранник с рацией",
+        "детская игрушечная рация набор",
+        "военная рация профессиональная",
+        "рация на строительной площадке",
+        "рация для похода по трассе",
+        "рация персонала мероприятия связь",
+        "клипса на ремень для рации",
+        "переключение канала рации",
+        "рация экстренных служб"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a walkie-talkie icon for the communication section",
+        "add a two-way radio symbol to the field work feature",
+        "show a walkie-talkie for the security category",
+        "use the walkie-talkie icon for the radio communication"
+      ],
+      "ru": [
+        "нужна иконка рации для раздела связи",
+        "добавь символ двусторонней рации к функции полевых работ",
+        "покажи рацию для категории безопасности",
+        "используй иконку рации для радиосвязи"
+      ]
+    },
+    "typo": {
+      "en": [
+        "walike-talkie radio",
+        "two-way raido walkie",
+        "communciation walkie talkie",
+        "portble radio device"
+      ],
+      "ru": [
+        "рация двусторонная радио",
+        "двустоонняя связь рация",
+        "рация связь",
+        "портативное радио рация"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "phone mobile smartphone call",
+        "megaphone amplify voice",
+        "radio broadcast tower signal",
+        "intercom doorbell button",
+        "headset earpiece communication",
+        "satellite phone remote call"
+      ],
+      "ru": [
+        "телефон мобильный звонок",
+        "мегафон усиление голоса",
+        "радио вещательная башня сигнал",
+        "домофон кнопка входной двери",
+        "гарнитура наушник связь",
+        "спутниковый телефон удалённый звонок"
+      ]
+    },
+    "valid": {
+      "en": [
+        "walkie-talkie radio icon",
+        "two-way radio symbol",
+        "handheld radio communication"
+      ],
+      "ru": [
+        "иконка рации двусторонней",
+        "символ рации связи",
+        "ручная рация связь"
+      ]
+    },
+    "test": {
+      "en": [
+        "walkie-talkie icon",
+        "two-way radio symbol",
+        "portable radio device"
+      ],
+      "ru": [
+        "иконка рации",
+        "символ двусторонней рации",
+        "портативное радио устройство"
+      ]
+    }
+  }
+}

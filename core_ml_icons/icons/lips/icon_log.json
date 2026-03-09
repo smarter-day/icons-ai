@@ -1,0 +1,90 @@
+{
+  "icon": "lips",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "fashion",
+        "kiss",
+        "lips",
+        "lipstick",
+        "mouth",
+        "smile"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "lips as a fashion beauty icon",
+        "fashion lipstick on the lips",
+        "lips puckered for a kiss",
+        "kiss lips symbol",
+        "red lips icon",
+        "lips with lipstick applied",
+        "lipstick on the lips",
+        "lips painted with red lipstick",
+        "mouth and lips together",
+        "lips as the mouth symbol",
+        "smile on the lips",
+        "lips forming a wide smile"
+      ]
+    },
+    "regular": {
+      "en": [
+        "bright red lips with lipstick",
+        "lips puckered for a kiss",
+        "lip gloss on the full lips",
+        "beauty brand lips logo",
+        "pink lips in the makeup app",
+        "lips emoji for a flirty message",
+        "lip print on the love letter",
+        "cosmetics ad featuring full red lips",
+        "lips forming a wide smile",
+        "lip sync performance on the stage"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a lips icon for the beauty app",
+        "add a kiss symbol to the messages feature",
+        "show lips for the makeup category",
+        "use the lips icon for the lip sync feature"
+      ]
+    },
+    "typo": {
+      "en": [
+        "lipsitck on lips",
+        "beuaty lips icon",
+        "red lps with lipstick",
+        "ksis lips symbol"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "smiley face emoji with a wide grin",
+        "talking mouth in an animation",
+        "teeth shown in a smile",
+        "speech bubble coming from the mouth",
+        "nose above the lips on a face",
+        "tongue sticking out in a playful way"
+      ]
+    },
+    "valid": {
+      "en": [
+        "red lips with lipstick",
+        "lips puckered for a kiss",
+        "beauty lips icon"
+      ]
+    },
+    "test": {
+      "en": [
+        "lips icon",
+        "red lips symbol",
+        "kiss lips"
+      ]
+    }
+  }
+}

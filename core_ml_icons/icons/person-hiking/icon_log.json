@@ -1,0 +1,166 @@
+{
+  "icon": "person-hiking",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "autumn",
+        "fall",
+        "follow",
+        "hike",
+        "mountain",
+        "outdoors",
+        "summer",
+        "walk"
+      ],
+      "ru": [
+        "осень",
+        "осень",
+        "следовать",
+        "поход",
+        "гора",
+        "на улице",
+        "лето",
+        "идти"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "autumn hike through colored leaves",
+        "fall hiking trail season",
+        "fall foliage hiking trail",
+        "fall forest hike walk",
+        "follow the trail marker hiking",
+        "follow the path person hiking",
+        "hike up a mountain trail",
+        "hike in nature outdoors",
+        "mountain hiker with backpack",
+        "mountain trail hiking adventure",
+        "outdoors hiking in fresh air",
+        "outdoors trail exploration",
+        "summer hiking trip",
+        "summer trail walk outdoors",
+        "walk along hiking path",
+        "walk the forest trail"
+      ],
+      "ru": [
+        "осенний поход через цветные листья",
+        "сезон осенних туристических маршрутов",
+        "осенние листья туристический маршрут",
+        "осенний лесной поход",
+        "следовать маркеру тропы в походе",
+        "следовать по пути человек в походе",
+        "поход на гору по тропе",
+        "поход на природе на улице",
+        "горный турист с рюкзаком",
+        "приключение горного туристического маршрута",
+        "активный отдых в свежем воздухе",
+        "исследование туристического маршрута",
+        "летний туристический поход",
+        "летняя прогулка по тропе",
+        "прогулка по туристической тропе",
+        "прогулка по лесной тропе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "person hiking with trekking poles",
+        "solo hiker on mountain trail",
+        "backpacker hiking through forest",
+        "outdoor adventure hiking icon",
+        "nature trail walking person",
+        "hiker climbing steep mountain path",
+        "hiking boot on trail symbol",
+        "weekend hike in national park",
+        "person walking uphill with backpack",
+        "trail map hiking route icon"
+      ],
+      "ru": [
+        "человек в походе с трекинговыми палками",
+        "одиночный турист на горной тропе",
+        "рюкзачник идущий по лесу",
+        "иконка приключения активного отдыха в походе",
+        "человек на тропе природы",
+        "турист взбирающийся на крутую горную тропу",
+        "ботинок на тропе символ",
+        "поход выходного дня в национальном парке",
+        "человек идущий в гору с рюкзаком",
+        "иконка маршрута похода на карте тропы"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a hiking person icon for the outdoor activities",
+        "add a hiker symbol to the trails section",
+        "show a person hiking for the mountain adventure feature",
+        "use the hiking icon for the outdoor walk tracker"
+      ],
+      "ru": [
+        "Мне нужна иконка человека в походе для активного отдыха",
+        "добавить символ туриста в раздел троп",
+        "показать человека в походе для функции горного приключения",
+        "использовать иконку похода для трекера прогулок"
+      ]
+    },
+    "typo": {
+      "en": [
+        "hikign person trail",
+        "mountian hike",
+        "peroson hiking outdoors",
+        "autum hiking"
+      ],
+      "ru": [
+        "поход персона тропа",
+        "горный похд",
+        "человек поход улица",
+        "осенниый поход"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "person walking on flat city street",
+        "rock climber scaling a cliff face",
+        "cyclist riding a mountain bike",
+        "person running jogging exercise",
+        "camper setting up tent in woods",
+        "skier on snowy mountain slope"
+      ],
+      "ru": [
+        "человек идущий по плоской городской улице",
+        "скалолаз поднимающийся по скале",
+        "велосипедист едущий на горном велосипеде",
+        "человек бегущий джоггинг упражнение",
+        "турист устанавливающий палатку в лесу",
+        "лыжник на заснеженном горном склоне"
+      ]
+    },
+    "valid": {
+      "en": [
+        "person hiking on trail",
+        "hiker with backpack icon",
+        "mountain hiking outdoor"
+      ],
+      "ru": [
+        "человек в походе на тропе",
+        "иконка туриста с рюкзаком",
+        "горный поход на улице"
+      ]
+    },
+    "test": {
+      "en": [
+        "hiking person icon",
+        "trail hiker outdoor",
+        "mountain hike symbol"
+      ],
+      "ru": [
+        "иконка человека в походе",
+        "турист на тропе",
+        "символ горного похода"
+      ]
+    }
+  }
+}

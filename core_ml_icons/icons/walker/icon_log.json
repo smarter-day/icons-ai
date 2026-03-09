@@ -1,0 +1,142 @@
+{
+  "icon": "walker",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "accessibility",
+        "assistance",
+        "disabled",
+        "wheelchair"
+      ],
+      "ru": [
+        "доступность",
+        "помощь",
+        "инвалидность",
+        "инвалидная коляска"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "accessibility walker mobility aid",
+        "accessibility device walker",
+        "assistance walker elderly person",
+        "assistance walking frame",
+        "disabled walker mobility support",
+        "disabled person walker",
+        "wheelchair alternative walker",
+        "walker instead of wheelchair"
+      ],
+      "ru": [
+        "доступность ходунки вспомогательное средство",
+        "доступность ходунки устройство",
+        "помощь ходунки пожилой человек",
+        "помощь ходунки рамка",
+        "ходунки для инвалидов поддержка",
+        "инвалид ходунки",
+        "ходунки вместо инвалидной коляски",
+        "ходунки как альтернатива коляске"
+      ]
+    },
+    "regular": {
+      "en": [
+        "four leg walker frame senior",
+        "rollator walker with wheels seat",
+        "physical therapy walker exercise",
+        "hospital walker post surgery",
+        "folding walker storage portable",
+        "walker with hand brakes",
+        "lightweight aluminum walker",
+        "walker tennis ball feet tips",
+        "occupational therapy walker use",
+        "walker accessibility symbol icon"
+      ],
+      "ru": [
+        "четырёхногая рамка ходунков пожилой",
+        "роллатор ходунки с колёсами сиденьем",
+        "физиотерапия ходунки упражнение",
+        "больничные ходунки после операции",
+        "складные ходунки хранение портативные",
+        "ходунки с ручными тормозами",
+        "лёгкие алюминиевые ходунки",
+        "теннисные мячи на ножках ходунков",
+        "трудотерапия использование ходунков",
+        "иконка символа доступности ходунков"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a walker icon for the accessibility section",
+        "add a walking aid symbol to the mobility feature",
+        "show a walker for the elderly assistance category",
+        "use the walker icon for the disability support"
+      ],
+      "ru": [
+        "нужна иконка ходунков для раздела доступности",
+        "добавь символ ходьбы с опорой к функции мобильности",
+        "покажи ходунки для категории помощи пожилым",
+        "используй иконку ходунков для поддержки при инвалидности"
+      ]
+    },
+    "typo": {
+      "en": [
+        "walkre mobility aid",
+        "disabeld walker assist",
+        "acesibility walker frame",
+        "eldrely walker support"
+      ],
+      "ru": [
+        "ходунки мобильность помощь",
+        "ходунки инвалид помощь",
+        "доступность ходунки рамка",
+        "пожилые ходунки поддержка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "wheelchair sitting mobility",
+        "cane walking stick single",
+        "crutches underarm support",
+        "prosthetic limb replacement",
+        "brace orthopedic support leg",
+        "scooter mobility electric"
+      ],
+      "ru": [
+        "инвалидная коляска мобильность сидячий",
+        "трость ходьба одиночная",
+        "костыли подмышечная поддержка",
+        "протез замена конечности",
+        "бандаж ортопедическая поддержка ноги",
+        "электрический скутер мобильность"
+      ]
+    },
+    "valid": {
+      "en": [
+        "walker mobility aid icon",
+        "walking frame symbol",
+        "elderly walker assist"
+      ],
+      "ru": [
+        "иконка ходунков вспомогательное средство",
+        "символ рамки ходунков",
+        "ходунки помощь пожилым"
+      ]
+    },
+    "test": {
+      "en": [
+        "walker icon accessibility",
+        "walking aid symbol",
+        "senior walker support"
+      ],
+      "ru": [
+        "иконка ходунков доступность",
+        "символ вспомогательного средства",
+        "ходунки пожилых поддержка"
+      ]
+    }
+  }
+}

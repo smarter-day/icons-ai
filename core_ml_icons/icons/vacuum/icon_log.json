@@ -1,0 +1,148 @@
+{
+  "icon": "vacuum",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cleaning",
+        "dyson",
+        "floor",
+        "suck",
+        "suction"
+      ],
+      "ru": [
+        "уборка",
+        "Дайсон",
+        "пол",
+        "всасывание",
+        "всасывание-альт"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cleaning vacuum floors house",
+        "vacuum cleaning carpet",
+        "Dyson vacuum cleaner powerful",
+        "Dyson cordless vacuum",
+        "floor vacuum cleaner push",
+        "vacuum hard floor mode",
+        "vacuum suck up dirt",
+        "suck debris vacuum",
+        "suction vacuum cleaner power",
+        "strong suction vacuum"
+      ],
+      "ru": [
+        "уборка пылесосом полы дом",
+        "пылесос уборка ковра",
+        "мощный пылесос Дайсон",
+        "беспроводной Дайсон пылесос",
+        "пылесос толкать по полу",
+        "пылесос режим твёрдого пола",
+        "пылесос всасывает грязь",
+        "всасывание мусора пылесосом",
+        "мощность всасывания пылесоса",
+        "сильное всасывание пылесос"
+      ]
+    },
+    "regular": {
+      "en": [
+        "upright vacuum cleaner on carpet",
+        "Dyson cordless stick vacuum",
+        "canister vacuum with hose attachment",
+        "vacuum cleaner suction head",
+        "vacuum HEPA filter allergen",
+        "vacuum bag full indicator",
+        "wet dry vacuum shop-vac",
+        "vacuum attachment crevice tool",
+        "vacuum line on carpet after cleaning",
+        "handheld vacuum car interior"
+      ],
+      "ru": [
+        "вертикальный пылесос на ковре",
+        "беспроводной стержневой пылесос Дайсон",
+        "цилиндрический пылесос со шлангом",
+        "всасывающая головка пылесоса",
+        "HEPA фильтр пылесоса аллерген",
+        "индикатор заполненного мешка пылесоса",
+        "мокрый и сухой пылесос строительный",
+        "насадка щелевая для пылесоса",
+        "след пылесоса на ковре после уборки",
+        "ручной пылесос для интерьера авто"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a vacuum icon for the cleaning section",
+        "add a Dyson symbol to the household appliance feature",
+        "show a vacuum for the floor cleaning category",
+        "use the vacuum icon for the cleaning task"
+      ],
+      "ru": [
+        "нужна иконка пылесоса для раздела уборки",
+        "добавь символ Дайсона к функции бытовой техники",
+        "покажи пылесос для категории уборки полов",
+        "используй иконку пылесоса для задачи уборки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "vaccum cleaner floor",
+        "dyosn vacuum cord",
+        "clenaing vacuum house",
+        "sucton vacuum power"
+      ],
+      "ru": [
+        "пылесос уборка полов",
+        "Дайсон пылесос шнур",
+        "уборка пылесосом дом",
+        "всасывание пылесоса мощность"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "vacuum robot Roomba autonomous",
+        "mop wet floor cleaning",
+        "broom sweep floor dust",
+        "duster feather cleaning tool",
+        "washing machine clothes clean",
+        "dishwasher appliance kitchen"
+      ],
+      "ru": [
+        "робот-пылесос Roomba автономный",
+        "швабра влажный пол уборка",
+        "метла подметать пол пыль",
+        "перьевой дустер инструмент уборки",
+        "стиральная машина одежда чистка",
+        "посудомоечная машина кухонный прибор"
+      ]
+    },
+    "valid": {
+      "en": [
+        "vacuum cleaner icon",
+        "Dyson floor vacuum symbol",
+        "suction vacuum cleaning"
+      ],
+      "ru": [
+        "иконка пылесоса",
+        "символ пылесоса Дайсон",
+        "всасывание пылесос уборка"
+      ]
+    },
+    "test": {
+      "en": [
+        "vacuum icon cleaning",
+        "floor vacuum symbol",
+        "suction cleaner"
+      ],
+      "ru": [
+        "иконка пылесоса уборка",
+        "символ пылесоса пол",
+        "всасывающий уборщик"
+      ]
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "icon": "vials",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ampule",
+        "experiment",
+        "knowledge",
+        "lab",
+        "sample",
+        "science",
+        "test",
+        "test tube"
+      ],
+      "ru": [
+        "ампула",
+        "эксперимент",
+        "знание",
+        "лаборатория",
+        "образец",
+        "наука",
+        "тест",
+        "пробирка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "multiple ampules in rack",
+        "ampule collection lab",
+        "experiment vials multiple tubes",
+        "vials experiment comparison",
+        "knowledge from multiple vials test",
+        "multiple vials scientific study",
+        "lab vials sample collection",
+        "lab rack multiple vials",
+        "sample vials labeled collection",
+        "multiple sample vials",
+        "science vials experiment set",
+        "vials science research",
+        "test vials diagnostic series",
+        "test vials results row",
+        "test tubes multiple vials rack",
+        "test tube set collection"
+      ],
+      "ru": [
+        "несколько ампул в стойке",
+        "коллекция ампул лаборатория",
+        "несколько ампул эксперимент",
+        "ампулы сравнение эксперимент",
+        "знание из нескольких тестов ампул",
+        "несколько ампул научное исследование",
+        "сбор образцов ампулы лаборатория",
+        "стойка лаборатории несколько ампул",
+        "маркированная коллекция ампул образцов",
+        "несколько ампул образцов",
+        "набор ампул наука эксперимент",
+        "ампулы научное исследование",
+        "диагностическая серия тестовых ампул",
+        "ряд результатов тестовых ампул",
+        "несколько пробирок стойка",
+        "набор коллекция пробирок"
+      ]
+    },
+    "regular": {
+      "en": [
+        "row of test tubes in lab rack",
+        "multiple vials blood sample collection",
+        "vials array experiment comparison",
+        "laboratory vials color coded",
+        "vaccine vials production batch",
+        "vials centrifuge spinning",
+        "drug development vials clinical",
+        "vials organized in storage box",
+        "multiple sample vials labeled",
+        "research vials various solutions"
+      ],
+      "ru": [
+        "ряд пробирок в лабораторной стойке",
+        "несколько ампул сбор образцов крови",
+        "массив ампул сравнение экспериментов",
+        "цветовая маркировка лабораторных ампул",
+        "производственная партия ампул вакцины",
+        "ампулы центрифуга вращение",
+        "клинические ампулы разработки лекарств",
+        "ампулы в ящике для хранения",
+        "несколько маркированных образцов ампул",
+        "исследовательские ампулы различные растворы"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a vials icon for the lab collection section",
+        "add multiple test tubes symbol to the science feature",
+        "show vials for the sample management system",
+        "use the vials icon for the batch testing screen"
+      ],
+      "ru": [
+        "нужна иконка ампул для раздела лабораторных коллекций",
+        "добавь символ нескольких пробирок к научной функции",
+        "покажи ампулы для системы управления образцами",
+        "используй иконку ампул для экрана пакетного тестирования"
+      ]
+    },
+    "typo": {
+      "en": [
+        "multple vials lab",
+        "vialls test tubes",
+        "samle vials collection",
+        "labroatory vials rack"
+      ],
+      "ru": [
+        "несколько ампул лаборатория",
+        "пробирки ампулы",
+        "образцы ампулы коллекция",
+        "лаборатория стойка ампул"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "single vial one test tube",
+        "flask large round chemistry",
+        "beaker rows lab glass",
+        "petri dish culture plate",
+        "microscope slides collection",
+        "chemical bottles shelf storage"
+      ],
+      "ru": [
+        "одна ампула одна пробирка",
+        "большая круглая колба химия",
+        "ряды стаканов лабораторное стекло",
+        "чашка Петри культуральная тарелка",
+        "коллекция предметных стёкол",
+        "полка химических флаконов"
+      ]
+    },
+    "valid": {
+      "en": [
+        "multiple vials lab icon",
+        "test tubes rack symbol",
+        "vials sample collection"
+      ],
+      "ru": [
+        "иконка нескольких ампул лаборатории",
+        "символ стойки пробирок",
+        "ампулы сбор образцов"
+      ]
+    },
+    "test": {
+      "en": [
+        "vials icon lab rack",
+        "multiple tubes symbol",
+        "lab vials science"
+      ],
+      "ru": [
+        "иконка ампул стойка лаборатории",
+        "символ нескольких пробирок",
+        "ампулы наука"
+      ]
+    }
+  }
+}

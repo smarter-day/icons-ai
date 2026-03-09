@@ -1,0 +1,108 @@
+{
+  "icon": "anchor",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "anchor",
+        "berth",
+        "boat",
+        "dock",
+        "embed",
+        "link",
+        "maritime",
+        "moor",
+        "port",
+        "secure",
+        "ship",
+        "tool"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "drop anchor in the harbor",
+        "ship anchor holding the vessel steady",
+        "berth in the marina for the boat",
+        "anchor at the berth overnight",
+        "boat secured with an anchor",
+        "anchor for the sailing boat",
+        "anchor the boat at the dock",
+        "dock the vessel with the anchor down",
+        "embed an anchor element in HTML",
+        "anchor tag embedded in the webpage",
+        "anchor link jumping to a section",
+        "HTML anchor link tag",
+        "maritime anchor symbol on the badge",
+        "anchor used in maritime operations",
+        "moor the boat with an anchor",
+        "anchor to moor in the bay",
+        "anchor dropped at the port entrance",
+        "port anchor for the vessel",
+        "anchor to secure the boat in place",
+        "secure the vessel with an anchor",
+        "ship anchor dropped to hold position",
+        "anchor on the ship's bow",
+        "anchor as a nautical tool",
+        "anchor tool for the seafarer"
+      ]
+    },
+    "regular": {
+      "en": [
+        "heavy iron anchor dropped to the sea floor",
+        "anchor symbol on the sailor's tattoo",
+        "ship anchor with chain on the dock",
+        "anchor holding the vessel steady in the storm",
+        "HTML anchor tag linking to another section",
+        "anchor icon for a navigation link element",
+        "maritime anchor on the navy uniform badge",
+        "anchor emoji used in a sailing context",
+        "small boat anchor at the lakeside pier",
+        "anchor secured to the dock cleat"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an anchor icon for the maritime app",
+        "add an anchor symbol to the navigation section",
+        "show an anchor for the link element",
+        "use the anchor icon for the dock booking feature"
+      ]
+    },
+    "typo": {
+      "en": [
+        "ankhor dropped in harbor",
+        "ancor symbol on uniform",
+        "maritme anchor chain",
+        "moor the baot with anchor"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "fishing hook with a sharp barbed tip",
+        "thick chain holding the gate closed",
+        "orange buoy floating on the water surface",
+        "rope coiled on the boat deck",
+        "compass rose showing navigation directions",
+        "life ring preserver mounted on the vessel wall"
+      ]
+    },
+    "valid": {
+      "en": [
+        "ship anchor dropped in the harbor",
+        "anchor symbol for maritime",
+        "anchor link in HTML"
+      ]
+    },
+    "test": {
+      "en": [
+        "anchor icon",
+        "boat anchor symbol",
+        "anchor for navigation"
+      ]
+    }
+  }
+}

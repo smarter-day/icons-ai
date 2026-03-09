@@ -1,0 +1,166 @@
+{
+  "icon": "wand",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Dungeons & Dragons",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "halloween",
+        "holiday",
+        "magic",
+        "weapon"
+      ],
+      "ru": [
+        "Подземелья и Драконы",
+        "ДнД",
+        "ролевая игра",
+        "фэнтези",
+        "хэллоуин",
+        "праздник",
+        "магия",
+        "оружие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Dungeons and Dragons wand magic",
+        "D&D wand spell cast",
+        "d&d wand wizard item",
+        "d&d class wand attack",
+        "dnd wand mage spell",
+        "dnd wand magical weapon",
+        "fantasy wand spell enchant",
+        "fantasy magic wand glow",
+        "halloween wand witch costume",
+        "halloween magic wand trick",
+        "holiday magic wand fairy",
+        "holiday wand sparkle",
+        "magic wand sparkle tip",
+        "magic wand cast spell",
+        "weapon wand fight combat",
+        "wand weapon range"
+      ],
+      "ru": [
+        "волшебная палочка ДнД магия",
+        "палочка ДнД заклинание",
+        "волшебная палочка маг предмет",
+        "атака палочкой класс ДнД",
+        "ДнД волшебная палочка маг заклинание",
+        "магическое оружие волшебная палочка",
+        "фэнтезийная палочка зачарование",
+        "светящаяся магическая палочка фэнтези",
+        "волшебная палочка ведьмы хэллоуин",
+        "хэллоуин волшебная палочка трюк",
+        "праздничная волшебная палочка фея",
+        "праздник блеск волшебная палочка",
+        "волшебная палочка блёстки кончик",
+        "волшебная палочка заклинание",
+        "оружие палочка бой",
+        "дальность атаки палочкой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "magic wand with star tip sparkle",
+        "witch wand halloween costume",
+        "fairy godmother magic wand",
+        "Harry Potter wand casting spell",
+        "conductor baton music wand",
+        "magic show illusionist wand",
+        "magic wand icon autocomplete",
+        "wand with stars waving",
+        "fantasy RPG wand weapon class",
+        "glowing wand spell effect"
+      ],
+      "ru": [
+        "волшебная палочка со звёздным кончиком",
+        "волшебная палочка ведьмы хэллоуин",
+        "волшебная палочка феи-крёстной",
+        "волшебная палочка Гарри Поттера заклинание",
+        "дирижёрская палочка музыкальная",
+        "волшебная палочка иллюзиониста шоу",
+        "иконка волшебной палочки автодополнение",
+        "волшебная палочка со звёздами взмах",
+        "оружие класс волшебной палочки RPG",
+        "светящаяся палочка эффект заклинания"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a wand icon for the magic feature",
+        "add a magic wand symbol to the fantasy section",
+        "show a wand for the spell casting option",
+        "use the wand icon for the autocomplete action"
+      ],
+      "ru": [
+        "нужна иконка волшебной палочки для магической функции",
+        "добавь символ волшебной палочки в фэнтезийный раздел",
+        "покажи волшебную палочку для функции заклинания",
+        "используй иконку волшебной палочки для автодополнения"
+      ]
+    },
+    "typo": {
+      "en": [
+        "magci wand spell",
+        "fantsy wand wizard",
+        "wandd halloween witch",
+        "D&D wadn magic"
+      ],
+      "ru": [
+        "магическая палочка заклинание",
+        "фэнтези палочка маг",
+        "волшебная палочка хэллоуин",
+        "ДнД волшебная палочка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "wand-magic autocomplete sparkle",
+        "staff large weapon weapon",
+        "sword blade weapon combat",
+        "broom witch fly sweep",
+        "scepter royal power",
+        "pen writing tool tool"
+      ],
+      "ru": [
+        "палочка-магия автодополнение блеск",
+        "посох большое оружие",
+        "меч лезвие оружие бой",
+        "метла ведьма лететь",
+        "скипетр королевская власть",
+        "ручка инструмент письма"
+      ]
+    },
+    "valid": {
+      "en": [
+        "magic wand icon spell",
+        "wizard wand symbol",
+        "fantasy wand sparkle"
+      ],
+      "ru": [
+        "иконка волшебной палочки заклинание",
+        "символ волшебной палочки мага",
+        "фэнтези палочка блеск"
+      ]
+    },
+    "test": {
+      "en": [
+        "wand icon magic",
+        "spell wand symbol",
+        "fantasy magic wand"
+      ],
+      "ru": [
+        "иконка волшебной палочки",
+        "символ заклинания палочки",
+        "фэнтези волшебная палочка"
+      ]
+    }
+  }
+}

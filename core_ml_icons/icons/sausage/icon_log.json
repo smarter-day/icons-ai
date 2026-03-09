@@ -1,0 +1,196 @@
+{
+  "icon": "sausage",
+  "rows": {
+    "train_en": 63,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bratwurst",
+        "breakfast",
+        "chorizo",
+        "frankfurt",
+        "frankfurter",
+        "hot dog",
+        "hotdog",
+        "kielbasa",
+        "kosher",
+        "pepperoni",
+        "polish",
+        "vienna",
+        "weiner"
+      ],
+      "ru": [
+        "брат-вурст",
+        "завтрак",
+        "чоризо",
+        "франкфуртер",
+        "сосиска",
+        "хот-дог",
+        "хот-дог",
+        "кильбаса",
+        "кошерный",
+        "пепперони",
+        "польская",
+        "венская",
+        "сосиска"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bratwurst sausage grilled at BBQ",
+        "bratwurst served in a bun",
+        "breakfast sausage link with scrambled eggs",
+        "breakfast plate with sausage and bacon",
+        "chorizo sausage spiced with paprika",
+        "chorizo sliced on charcuterie board",
+        "frankfurt sausage in bun at street stall",
+        "frankfurt sausage boiled in water",
+        "frankfurter sausage with mustard",
+        "grilled frankfurter at ballpark",
+        "hot dog with ketchup and mustard",
+        "hot dog at summer barbecue",
+        "hotdog bun with relish and onions",
+        "hotdog stand at baseball stadium",
+        "kielbasa Polish smoked sausage sliced",
+        "kielbasa grilled with sauerkraut",
+        "kosher beef sausage all-natural",
+        "kosher hot dog without pork",
+        "pepperoni pizza sausage topping",
+        "pepperoni slices on flatbread",
+        "Polish sausage with mustard at market",
+        "Polish kielbasa in borscht soup",
+        "vienna sausage in a can",
+        "cocktail sausage vienna style",
+        "weiner sausage on a stick at fair",
+        "weiner dog shape sausage snack"
+      ],
+      "ru": [
+        "брат-вурст на гриле на барбекю",
+        "брат-вурст в булочке",
+        "сосиска на завтрак с яичницей",
+        "тарелка завтрака с сосиской и беконом",
+        "чоризо со специями из паприки",
+        "чоризо нарезано на колбасной доске",
+        "франкфуртер в булочке у уличного лотка",
+        "франкфуртер отварен в воде",
+        "сосиска с горчицей",
+        "жареный франкфуртер на бейсбольном стадионе",
+        "хот-дог с кетчупом и горчицей",
+        "хот-дог на летнем барбекю",
+        "хот-дог с огурцами и луком",
+        "палатка хот-догов на бейсболе",
+        "кильбаса польская копчёная нарезана",
+        "кильбаса на гриле с квашеной капустой",
+        "кошерная говяжья сосиска натуральная",
+        "кошерный хот-дог без свинины",
+        "пепперони начинка для пиццы",
+        "ломтики пепперони на лепёшке",
+        "польская колбаса с горчицей на рынке",
+        "польская кильбаса в борще",
+        "венская сосиска в консервной банке",
+        "коктейльная сосиска в венском стиле",
+        "сосиска на палочке на ярмарке",
+        "сосиска в форме таксы"
+      ]
+    },
+    "regular": {
+      "en": [
+        "grilled bratwurst sausage at summer BBQ",
+        "breakfast link sausages beside pancakes",
+        "spicy chorizo sausage on charcuterie board",
+        "hot dog sausage in bun with yellow mustard",
+        "pepperoni sausage sliced on pizza",
+        "smoked kielbasa sausage at Polish deli",
+        "sausage roll pastry from bakery",
+        "string of sausages linked in a butcher shop",
+        "vienna sausage canned for camping",
+        "sausage cooking in pan with oil sizzling"
+      ],
+      "ru": [
+        "жареный брат-вурст на летнем барбекю",
+        "сосиски-звенья рядом с оладьями на завтрак",
+        "острое чоризо на колбасной доске",
+        "сосиска хот-дог в булочке с жёлтой горчицей",
+        "ломтики пепперони на пицце",
+        "копчёная кильбаса в польском гастрономе",
+        "колбаса в тесте из пекарни",
+        "гирлянда сосисок у мясника",
+        "консервированная венская сосиска для кемпинга",
+        "сосиска жарится на сковороде в масле"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sausage icon for the food or grill category",
+        "add a sausage symbol to the BBQ meal section",
+        "show a sausage for the breakfast menu feature",
+        "use the sausage icon for the meat dishes screen"
+      ],
+      "ru": [
+        "мне нужна иконка сосиски для категории еды или гриля",
+        "добавь символ сосиски в раздел барбекю",
+        "покажи сосиску для функции меню завтрака",
+        "используй иконку сосиски для экрана мясных блюд"
+      ]
+    },
+    "typo": {
+      "en": [
+        "griled bratwurst sausage at BBQ",
+        "breakfsat sausage links beside pancakes",
+        "hot dgo sausage in bun with mustard",
+        "pepperoini sausage sliced on pizza"
+      ],
+      "ru": [
+        "жареный бравурст на барбекю",
+        "сососки-звенья рядом с оладьями",
+        "хот-одг с горчицей в булочке",
+        "ломтики пеперони на пицце"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "hamburger beef patty on grill grates",
+        "bacon strips sizzling in frying pan",
+        "steak cut of beef on cutting board",
+        "chicken drumstick grilled with herbs",
+        "meatball in tomato sauce on spaghetti",
+        "salami slices on charcuterie platter"
+      ],
+      "ru": [
+        "котлета говядины на решётке гриля",
+        "полосы бекона на сковородке",
+        "стейк говядины на разделочной доске",
+        "куриная ножка на гриле с зеленью",
+        "фрикаделька в томатном соусе на спагетти",
+        "ломтики салями на колбасной тарелке"
+      ]
+    },
+    "valid": {
+      "en": [
+        "grilled sausage at summer barbecue",
+        "hot dog sausage in bun with mustard",
+        "breakfast sausage link on plate"
+      ],
+      "ru": [
+        "жареная сосиска на летнем барбекю",
+        "хот-дог в булочке с горчицей",
+        "сосиска-звено на тарелке завтрака"
+      ]
+    },
+    "test": {
+      "en": [
+        "bratwurst sausage on BBQ grill",
+        "pepperoni sausage on pizza topping",
+        "chorizo spicy sausage sliced"
+      ],
+      "ru": [
+        "брат-вурст на барбекю",
+        "пепперони на начинке пиццы",
+        "нарезанное острое чоризо"
+      ]
+    }
+  }
+}

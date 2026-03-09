@@ -1,0 +1,154 @@
+{
+  "icon": "spoon",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cutlery",
+        "dining",
+        "scoop",
+        "silverware",
+        "spoon",
+        "tableware"
+      ],
+      "ru": [
+        "столовые приборы",
+        "обед",
+        "ложка",
+        "серебро",
+        "ложка",
+        "столовая посуда"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cutlery set including spoon fork knife",
+        "cutlery drawer with sorted utensils",
+        "dining table set with spoon and fork",
+        "dining spoon for soup course",
+        "scoop of ice cream with spoon",
+        "scoop up soup with a spoon",
+        "silverware spoon in formal table setting",
+        "polished silverware spoon in drawer",
+        "wooden spoon for stirring pot",
+        "dessert spoon for eating pudding",
+        "tableware spoon beside plate",
+        "complete tableware set with spoon"
+      ],
+      "ru": [
+        "набор столовых приборов ложка вилка нож",
+        "ящик столовых приборов с сортировкой",
+        "стол накрыт ложкой и вилкой",
+        "ложка для первого блюда",
+        "зачерпнуть мороженое ложкой",
+        "зачерпнуть суп ложкой",
+        "серебряная ложка в формальной сервировке",
+        "полированная серебряная ложка в ящике",
+        "деревянная ложка для помешивания кастрюли",
+        "десертная ложка для пудинга",
+        "столовая ложка рядом с тарелкой",
+        "полный набор столовой посуды с ложкой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "silver spoon for eating soup or dessert",
+        "wooden cooking spoon for stirring",
+        "baby spoon small rounded for infant",
+        "measuring spoon for baking recipe",
+        "soup ladle large spoon for serving",
+        "teaspoon for stirring coffee or tea",
+        "dessert spoon between fork and tablespoon",
+        "slotted spoon for draining vegetables",
+        "spoon rest beside stove for cooking",
+        "cutlery set with matching spoon fork knife"
+      ],
+      "ru": [
+        "серебряная ложка для супа или десерта",
+        "деревянная ложка для помешивания",
+        "детская ложка маленькая округлая",
+        "мерная ложка для рецепта выпечки",
+        "половник большая ложка для сервировки",
+        "чайная ложка для помешивания кофе",
+        "десертная ложка между вилкой и столовой",
+        "шумовка с прорезями для слива",
+        "подставка для ложки у плиты",
+        "набор столовых приборов с ложкой вилкой ножом"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a spoon icon for the recipe or dining app",
+        "add a spoon symbol to the cutlery section",
+        "show a spoon for the tableware category",
+        "use the spoon icon for the soup or dessert feature"
+      ],
+      "ru": [
+        "мне нужна иконка ложки для приложения рецептов",
+        "добавь символ ложки в раздел столовых приборов",
+        "покажи ложку для категории столовой посуды",
+        "используй иконку ложки для функции супа или десерта"
+      ]
+    },
+    "typo": {
+      "en": [
+        "silvver spoon for eating soup",
+        "wodoen cooking spoon for stirring",
+        "measuirng spoon for baking recipe",
+        "cutelry set with matching spoon"
+      ],
+      "ru": [
+        "серебряная лжока для супа",
+        "деревянная лоожка для помешивания",
+        "мерная лоожка для рецепта",
+        "набор столовхы приборов с ложкой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "fork with four tines for eating",
+        "knife blade for cutting food",
+        "chopsticks for Asian cuisine",
+        "ladle large serving spoon for soup",
+        "spatula for flipping pancakes",
+        "tongs for gripping and serving food"
+      ],
+      "ru": [
+        "вилка с четырьмя зубцами для еды",
+        "нож для нарезки еды",
+        "палочки для азиатской кухни",
+        "половник большая ложка для сервировки",
+        "лопатка для переворачивания блинов",
+        "щипцы для захвата и подачи еды"
+      ]
+    },
+    "valid": {
+      "en": [
+        "silver spoon for eating soup",
+        "wooden spoon for stirring pot",
+        "tableware spoon for dining"
+      ],
+      "ru": [
+        "серебряная ложка для супа",
+        "деревянная ложка для помешивания",
+        "столовая ложка для обеда"
+      ]
+    },
+    "test": {
+      "en": [
+        "dessert spoon for pudding",
+        "spoon icon for recipe app",
+        "measuring spoon for baking"
+      ],
+      "ru": [
+        "десертная ложка для пудинга",
+        "иконка ложки для приложения рецептов",
+        "мерная ложка для выпечки"
+      ]
+    }
+  }
+}

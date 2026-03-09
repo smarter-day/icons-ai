@@ -1,0 +1,142 @@
+{
+  "icon": "pot-food",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "food",
+        "pot",
+        "soup",
+        "stew"
+      ],
+      "ru": [
+        "еда",
+        "кастрюля",
+        "суп",
+        "рагу"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "hot food simmering in a cooking pot",
+        "comfort food cooked in a big pot",
+        "cooking pot with lid on the stove",
+        "large pot of boiling water",
+        "soup boiling in a metal pot",
+        "homemade soup bubbling in the pot",
+        "slow-cooked stew in a deep pot",
+        "thick stew with vegetables simmering"
+      ],
+      "ru": [
+        "горячая еда кипит в кастрюле",
+        "домашняя еда в большой кастрюле",
+        "кастрюля с крышкой на плите",
+        "большая кастрюля с кипящей водой",
+        "суп кипит в металлической кастрюле",
+        "домашний суп булькает в кастрюле",
+        "рагу, тушёное в глубокой кастрюле",
+        "густое рагу с овощами на огне"
+      ]
+    },
+    "regular": {
+      "en": [
+        "large cooking pot with steam rising from lid",
+        "Dutch oven full of hearty beef stew",
+        "stockpot simmering on the stovetop",
+        "pot of homemade chicken soup",
+        "slow cooker pot with tender vegetables and meat",
+        "boiling pot of rich tomato sauce",
+        "clay pot with traditional recipe stew",
+        "pressure cooker pot with safety valve",
+        "pot on open flame for campfire cooking",
+        "big pot of chili for a family dinner"
+      ],
+      "ru": [
+        "большая кастрюля с паром из-под крышки",
+        "утятница с сытным говяжьим рагу",
+        "кастрюля кипит на плите",
+        "кастрюля домашнего куриного супа",
+        "мультиварка с нежными овощами и мясом",
+        "кипящая кастрюля насыщенного томатного соуса",
+        "глиняный горшок с традиционным рагу",
+        "скороварка с предохранительным клапаном",
+        "кастрюля на открытом огне для готовки на костре",
+        "большая кастрюля чили для семейного ужина"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a cooking pot icon for my recipe app",
+        "add a soup pot symbol to the meal planning section",
+        "show a stew pot for the slow cooker feature",
+        "use the pot icon for hot meals category"
+      ],
+      "ru": [
+        "мне нужна иконка кастрюли для приложения рецептов",
+        "добавь символ кастрюли супа в раздел планирования питания",
+        "покажи горшок рагу для функции мультиварки",
+        "используй иконку кастрюли для категории горячих блюд"
+      ]
+    },
+    "typo": {
+      "en": [
+        "simmering stwe in a large pot",
+        "hot soop cooking in a pot",
+        "pot of bubling stew on stove",
+        "cooking pott on the stovetop"
+      ],
+      "ru": [
+        "кипящее тарагу в большой кастрюле",
+        "горячий сут варится в кастрюле",
+        "кастрюля с бубляющим рагу",
+        "кастюля на плите"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "frying pan with sizzling bacon on stove",
+        "cast iron skillet with seared steak",
+        "wok stir-frying vegetables on high heat",
+        "saucepan with melting butter for sauce",
+        "slow cooker crockpot with digital timer",
+        "pressure cooker releasing steam from valve"
+      ],
+      "ru": [
+        "сковородка с шипящим беконом на плите",
+        "чугунная сковородка с обжаренным стейком",
+        "вок с жарящимися овощами на сильном огне",
+        "ковшик с тающим маслом для соуса",
+        "мультиварка с цифровым таймером",
+        "скороварка с паром из клапана"
+      ]
+    },
+    "valid": {
+      "en": [
+        "cooking pot of soup on the stove",
+        "large pot of simmering stew",
+        "pot with food bubbling inside"
+      ],
+      "ru": [
+        "кастрюля супа на плите",
+        "большая кастрюля с кипящим рагу",
+        "кастрюля с булькающей едой внутри"
+      ]
+    },
+    "test": {
+      "en": [
+        "homemade soup in a cooking pot",
+        "big pot of stew for family dinner",
+        "pot of food simmering on the stovetop"
+      ],
+      "ru": [
+        "домашний суп в кастрюле",
+        "большой горшок рагу для семейного ужина",
+        "кастрюля с едой на плите"
+      ]
+    }
+  }
+}

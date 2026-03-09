@@ -1,0 +1,87 @@
+{
+  "icon": "lights-holiday",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "christmas",
+        "decoration",
+        "holiday",
+        "string",
+        "xmas"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Hang Christmas lights outside",
+        "Buy LED Christmas lights",
+        "Put up holiday decorations",
+        "Take down the holiday decorations",
+        "Celebrate the holiday season",
+        "Plan a holiday party",
+        "Hang string lights around the tree",
+        "Buy string lights for the patio",
+        "Decorate for Xmas",
+        "Xmas light display"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Hang Christmas lights on the house",
+        "Decorate the tree with string lights",
+        "Set up holiday lights in the yard",
+        "Buy new Christmas lights",
+        "Put up the Christmas decorations",
+        "Take down lights after the holidays",
+        "Hang string lights on the patio",
+        "Use timer for the holiday lights",
+        "Replace broken Christmas lights",
+        "Add lights to the holiday wreath"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Holiday lights!",
+        "Xmas decorating",
+        "Put up the lights",
+        "String lights up"
+      ]
+    },
+    "typo": {
+      "en": [
+        "hang chrismas lights outsdie",
+        "put up holdiay decoratinos",
+        "by new chrsitmas lights",
+        "decroate for xmas"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Replace the ceiling light bulb",
+        "Set up a regular lamp",
+        "Light candles for the dinner",
+        "Hang a holiday wreath",
+        "Decorate with tinsel",
+        "Set up a lighted nativity scene"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Hang Christmas lights on the house",
+        "Decorate with string lights",
+        "Buy new holiday lights"
+      ]
+    },
+    "test": {
+      "en": [
+        "Set up holiday lights in the yard",
+        "Use a timer for Christmas lights",
+        "Take down lights after the holidays"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "icon": "plate-wheat",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bowl",
+        "hunger",
+        "rations",
+        "wheat"
+      ],
+      "ru": [
+        "миска",
+        "голод",
+        "паёк",
+        "пшеница"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bowl of wheat grains",
+        "grain bowl healthy meal",
+        "hunger relief food aid",
+        "hunger rations distribution",
+        "emergency rations food distribution",
+        "rations for disaster relief",
+        "wheat grain on a plate",
+        "wheat harvest on dish"
+      ],
+      "ru": [
+        "миска пшеничных зёрен",
+        "здоровая еда в миске с зерном",
+        "помощь продовольствием от голода",
+        "распределение пайков",
+        "распределение экстренных пайков",
+        "пайки для помощи при катастрофах",
+        "зёрна пшеницы на тарелке",
+        "урожай пшеницы в блюде"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wheat stalks on a food plate symbol",
+        "humanitarian food aid rations icon",
+        "grain bowl for hunger relief",
+        "food security wheat plate",
+        "dietary staple wheat grain serving",
+        "cereal grain plate for nutrition",
+        "global hunger awareness icon",
+        "whole wheat serving icon",
+        "food bank donation wheat plate",
+        "daily bread wheat grain"
+      ],
+      "ru": [
+        "символ стеблей пшеницы на тарелке",
+        "иконка пайков гуманитарной помощи",
+        "миска зерна для борьбы с голодом",
+        "тарелка пшеницы для продовольственной безопасности",
+        "порция пшеничного зерна для питания",
+        "тарелка злака для питания",
+        "иконка осознания глобального голода",
+        "иконка порции цельной пшеницы",
+        "тарелка пшеницы для пожертвования",
+        "ежедневный хлеб пшеничное зерно"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a wheat plate icon for the food aid section",
+        "add a grain bowl to the nutrition feature",
+        "show a wheat plate for the hunger relief screen",
+        "use the plate wheat icon for the rations tracker"
+      ],
+      "ru": [
+        "Мне нужна иконка тарелки с пшеницей для раздела продовольственной помощи",
+        "добавить миску с зерном в функцию питания",
+        "показать тарелку с пшеницей для экрана борьбы с голодом",
+        "использовать иконку пшеницы для трекера пайков"
+      ]
+    },
+    "typo": {
+      "en": [
+        "plte wheat grain",
+        "hunger ratoins",
+        "wheta bowl",
+        "grains palte"
+      ],
+      "ru": [
+        "тарелка пщеница",
+        "паёк голдо",
+        "пшениц миска",
+        "зерно тарлека"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "plate with fork and knife utensils",
+        "bread loaf for food category",
+        "rice bowl Asian food grain",
+        "cereal box for breakfast",
+        "flour bag for baking",
+        "corn ear for grain crop"
+      ],
+      "ru": [
+        "тарелка с вилкой и ножом",
+        "буханка хлеба для категории еды",
+        "рисовая миска зерно",
+        "коробка хлопьев для завтрака",
+        "мешок муки для выпечки",
+        "початок кукурузы"
+      ]
+    },
+    "valid": {
+      "en": [
+        "wheat plate for food aid",
+        "grain bowl hunger icon",
+        "wheat rations plate"
+      ],
+      "ru": [
+        "тарелка пшеницы для помощи",
+        "иконка голода миска зерна",
+        "тарелка с пайком пшеницы"
+      ]
+    },
+    "test": {
+      "en": [
+        "plate wheat icon",
+        "grain bowl hunger",
+        "wheat food rations"
+      ],
+      "ru": [
+        "иконка тарелки с пшеницей",
+        "миска зерна голод",
+        "паёк пшеницы еда"
+      ]
+    }
+  }
+}

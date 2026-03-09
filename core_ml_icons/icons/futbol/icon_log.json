@@ -1,0 +1,84 @@
+{
+  "icon": "futbol",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ball",
+        "football",
+        "soccer",
+        "soccer ball"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Kick the ball in practice",
+        "Buy a new ball for the game",
+        "Watch the football match",
+        "Play football with friends",
+        "Join a soccer league",
+        "Coach a soccer team",
+        "Buy a new soccer ball",
+        "Pump up the soccer ball"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Play soccer at the park",
+        "Watch the World Cup match",
+        "Sign the kids up for soccer",
+        "Buy soccer cleats",
+        "Practice penalty kicks",
+        "Join a local soccer league",
+        "Watch the Champions League game",
+        "Take the kids to soccer practice",
+        "Play a pickup soccer game",
+        "Buy a soccer jersey"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Soccer night!",
+        "Kick the ball",
+        "World Cup time",
+        "Soccer practice"
+      ]
+    },
+    "typo": {
+      "en": [
+        "play soccre at the park",
+        "wathc the footbal match",
+        "jion soccer leauge",
+        "buy soccre cleats"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Throw the American football",
+        "Shoot a basketball hoop",
+        "Hit a baseball pitch",
+        "Serve a tennis ball",
+        "Score a goal in hockey",
+        "Play volleyball on the beach"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Play soccer at the park",
+        "Watch the soccer match",
+        "Sign up for a soccer league"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy soccer cleats",
+        "Take kids to soccer practice",
+        "Watch the Champions League game"
+      ]
+    }
+  }
+}

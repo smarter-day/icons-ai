@@ -1,0 +1,154 @@
+{
+  "icon": "shirt-running",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "athletics",
+        "running",
+        "running shirt",
+        "sash",
+        "shirt",
+        "tank top"
+      ],
+      "ru": [
+        "лёгкая атлетика",
+        "бег",
+        "беговая майка",
+        "лента",
+        "майка",
+        "топ без рукавов"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "athletics running shirt with number",
+        "athletics jersey for track race",
+        "running shirt worn in marathon",
+        "lightweight running shirt with mesh",
+        "running shirt breathable for exercise",
+        "running shirt with brand logo",
+        "sash across running shirt at finish",
+        "numbered sash worn in race",
+        "shirt worn in track and field",
+        "running shirt with reflective stripe",
+        "tank top worn for gym workout",
+        "athletic tank top without sleeves"
+      ],
+      "ru": [
+        "беговая майка с номером в лёгкой атлетике",
+        "майка для забега на треке",
+        "беговая майка для марафона",
+        "лёгкая беговая майка из сетки",
+        "дышащая беговая майка для тренировок",
+        "беговая майка с логотипом бренда",
+        "лента через беговую майку на финише",
+        "пронумерованная лента в гонке",
+        "майка для трека и поля",
+        "беговая майка с отражающей полосой",
+        "топ без рукавов для тренировки в зале",
+        "атлетический топ без рукавов"
+      ]
+    },
+    "regular": {
+      "en": [
+        "lightweight running vest shirt for marathon",
+        "numbered race bib shirt for competition",
+        "moisture-wicking athletic running shirt",
+        "tank top running shirt in bright color",
+        "reflective running shirt for night runs",
+        "triathlon running shirt with aerodynamic fit",
+        "team running shirt with sponsor logo",
+        "compression running shirt for performance",
+        "throwaway running shirt for cold start",
+        "finisher medal with running shirt at race"
+      ],
+      "ru": [
+        "лёгкая беговая майка для марафона",
+        "майка с пронумерованным стартовым номером",
+        "влагоотводящая атлетическая беговая майка",
+        "топ без рукавов для бега ярких цветов",
+        "светоотражающая беговая майка для ночных пробежек",
+        "беговая майка для триатлона с аэродинамическим кроем",
+        "командная беговая майка с логотипом спонсора",
+        "компрессионная беговая майка для производительности",
+        "одноразовая беговая майка для старта в холод",
+        "медаль финишёра с беговой майкой на соревновании"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a running shirt icon for the fitness tracker",
+        "add a tank top symbol to the workout category",
+        "show a running shirt for the athletics feature",
+        "use the shirt-running icon for the race event screen"
+      ],
+      "ru": [
+        "мне нужна иконка беговой майки для трекера фитнеса",
+        "добавь символ топа без рукавов в категорию тренировок",
+        "покажи беговую майку для функции лёгкой атлетики",
+        "используй иконку беговой майки для экрана забега"
+      ]
+    },
+    "typo": {
+      "en": [
+        "lightwieght running shirt for marathon",
+        "nubmered race bib shirt for competition",
+        "moisutre-wicking athletic running shirt",
+        "reflcetive running shirt for night runs"
+      ],
+      "ru": [
+        "лёгкая бегвоая майка для марафона",
+        "майка с пронумерованым стартовым номером",
+        "влагоотводяшая беговая майка",
+        "светоотражющая майка для ночных пробежек"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "plain t-shirt casual everyday clothing",
+        "sports shorts worn with running shirt",
+        "running shoes sneakers for marathon",
+        "cycling jersey for bike race",
+        "swim cap and goggles for triathlon",
+        "yoga top workout shirt for studio"
+      ],
+      "ru": [
+        "простая футболка повседневная одежда",
+        "спортивные шорты к беговой майке",
+        "беговые кроссовки для марафона",
+        "велосипедная майка для гонки",
+        "шапочка и очки для плавания на триатлоне",
+        "топ для йоги в студии"
+      ]
+    },
+    "valid": {
+      "en": [
+        "running shirt for marathon race",
+        "athletic tank top for fitness",
+        "numbered shirt for track competition"
+      ],
+      "ru": [
+        "беговая майка для марафона",
+        "атлетический топ для фитнеса",
+        "майка с номером для соревнования"
+      ]
+    },
+    "test": {
+      "en": [
+        "lightweight running shirt with mesh",
+        "reflective running shirt for night",
+        "shirt-running icon for fitness app"
+      ],
+      "ru": [
+        "лёгкая беговая майка из сетки",
+        "светоотражающая майка для ночи",
+        "иконка беговой майки для фитнеса"
+      ]
+    }
+  }
+}

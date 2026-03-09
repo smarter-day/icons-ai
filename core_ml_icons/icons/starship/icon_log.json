@@ -1,0 +1,172 @@
+{
+  "icon": "starship",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "engage",
+        "enterprise",
+        "james t kirk",
+        "jean-luc picard",
+        "make it so",
+        "ncc-1701",
+        "spacecraft",
+        "spaceship",
+        "star trek"
+      ],
+      "ru": [
+        "вперёд",
+        "энтерпрайз",
+        "джеймс т кирк",
+        "жан-люк пикар",
+        "сделайте так",
+        "ncc-1701",
+        "космический корабль",
+        "космолёт",
+        "звёздный путь"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "engage warp speed command",
+        "engage thrusters full power",
+        "USS Enterprise iconic starship",
+        "Enterprise NCC-1701 spaceship",
+        "james t kirk captain commands",
+        "kirk at the helm star trek",
+        "jean-luc picard captain of enterprise",
+        "picard make it so phrase",
+        "make it so number one",
+        "make it so star trek quote",
+        "NCC-1701 hull registration number",
+        "NCC-1701 enterprise registry",
+        "spacecraft entering warp speed",
+        "manned spacecraft mission",
+        "spaceship flying through galaxy",
+        "sci-fi spaceship design",
+        "star trek starship icon",
+        "star trek fan merchandise"
+      ],
+      "ru": [
+        "команда вперёд к варп-скорости",
+        "вперёд двигатели полная мощность",
+        "легендарный звездолёт Энтерпрайз",
+        "Энтерпрайз NCC-1701 космолёт",
+        "капитан Джеймс Т. Кирк командует",
+        "Кирк у штурвала Звёздного пути",
+        "Жан-Люк Пикар капитан Энтерпрайза",
+        "Пикар фраза сделайте так",
+        "сделайте так первый номер",
+        "сделайте так цитата Звёздного пути",
+        "бортовой номер NCC-1701",
+        "реестр Энтерпрайза NCC-1701",
+        "космический корабль входит в варп",
+        "пилотируемый космический аппарат",
+        "космолёт летит через галактику",
+        "дизайн научно-фантастического корабля",
+        "иконка звездолёта Звёздного пути",
+        "фан-атрибутика Звёздного пути"
+      ]
+    },
+    "regular": {
+      "en": [
+        "classic USS Enterprise saucer section",
+        "federation starship warp nacelles glowing",
+        "star trek bridge crew at stations",
+        "sci-fi spacecraft traveling at warp speed",
+        "futuristic starship docking at space station",
+        "star trek insignia delta shield badge",
+        "klingon bird of prey versus enterprise",
+        "holodeck simulation aboard starship",
+        "transporter beam up beam down",
+        "warp core reactor powering starship"
+      ],
+      "ru": [
+        "классический тарелочный отсек USS Энтерпрайз",
+        "звездолёт федерации гондолы варп светятся",
+        "экипаж мостика Звёздного пути на постах",
+        "научно-фантастический корабль на варп-скорости",
+        "футуристический звездолёт стыкуется с космостанцией",
+        "нашивка звёздного пути дельта щит",
+        "клингонская птица-хищник против Энтерпрайза",
+        "симуляция голодека на борту звездолёта",
+        "луч транспортёра переместить",
+        "реактор варп-ядра питает звездолёт"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a starship icon for my sci-fi app",
+        "add a spaceship symbol to the space exploration category",
+        "show a starship for the galaxy navigation feature",
+        "use the starship icon for the adventure section"
+      ],
+      "ru": [
+        "нужна иконка звездолёта для моего научно-фантастического приложения",
+        "добавь символ космолёта в категорию исследования космоса",
+        "покажи звездолёт для функции навигации по галактике",
+        "используй иконку звездолёта для раздела приключений"
+      ]
+    },
+    "typo": {
+      "en": [
+        "straship enterprise",
+        "satarship ncc-1701",
+        "startrek spaceshp",
+        "enerprise starship"
+      ],
+      "ru": [
+        "звездолёд энтерпрайз",
+        "звездолёт нcc-1701",
+        "звздный путь корабль",
+        "энтеррпрайз звездолёт"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "rocket ship launching from earth",
+        "space shuttle orbiting earth NASA",
+        "UFO flying saucer alien craft",
+        "fighter jet airplane fast military",
+        "satellite in orbit around earth",
+        "millennium falcon iconic sci-fi ship"
+      ],
+      "ru": [
+        "ракета запускается с Земли",
+        "космический шаттл на орбите Земли НАСА",
+        "НЛО летающая тарелка инопланетный корабль",
+        "истребитель реактивный самолёт военный",
+        "спутник на орбите Земли",
+        "Тысячелетний сокол культовый научно-фантастический корабль"
+      ]
+    },
+    "valid": {
+      "en": [
+        "USS Enterprise star trek starship",
+        "sci-fi spacecraft icon",
+        "spaceship warp speed"
+      ],
+      "ru": [
+        "USS Энтерпрайз звёздный путь",
+        "иконка научно-фантастического корабля",
+        "звездолёт варп-скорость"
+      ]
+    },
+    "test": {
+      "en": [
+        "star trek enterprise icon",
+        "federation starship symbol",
+        "NCC-1701 spaceship"
+      ],
+      "ru": [
+        "иконка Энтерпрайз Звёздный путь",
+        "символ звездолёта федерации",
+        "NCC-1701 космолёт"
+      ]
+    }
+  }
+}

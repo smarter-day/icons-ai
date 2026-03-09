@@ -1,0 +1,172 @@
+{
+  "icon": "webhook",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "api",
+        "automate",
+        "callback",
+        "code",
+        "communication",
+        "http",
+        "infastructure",
+        "json",
+        "message"
+      ],
+      "ru": [
+        "api",
+        "автоматизация",
+        "обратный вызов",
+        "код",
+        "коммуникация",
+        "http",
+        "инфраструктура",
+        "json",
+        "сообщение"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "api endpoint integration",
+        "RESTful api connection",
+        "automate workflow trigger",
+        "automate repetitive tasks",
+        "callback url notification",
+        "webhook callback on event",
+        "code snippet integration",
+        "code-based trigger system",
+        "real-time communication link",
+        "service communication bridge",
+        "http post request sent",
+        "http endpoint receiver",
+        "server infastructure hook",
+        "infastructure automation layer",
+        "json payload delivery",
+        "json body webhook data",
+        "push message to endpoint",
+        "message notification delivery"
+      ],
+      "ru": [
+        "интеграция api эндпоинта",
+        "RESTful api подключение",
+        "автоматизация триггера воркфлоу",
+        "автоматизация повторяющихся задач",
+        "уведомление callback url",
+        "обратный вызов webhook при событии",
+        "интеграция фрагмента кода",
+        "система триггеров на основе кода",
+        "ссылка коммуникации в реальном времени",
+        "мост коммуникации сервисов",
+        "отправлен http post запрос",
+        "получатель http эндпоинта",
+        "хук инфраструктуры сервера",
+        "слой автоматизации инфраструктуры",
+        "доставка json payload",
+        "данные json тела webhook",
+        "отправка сообщения на эндпоинт",
+        "доставка уведомлений сообщений"
+      ]
+    },
+    "regular": {
+      "en": [
+        "server-to-server event trigger",
+        "automated HTTP POST on event",
+        "real-time data push notification system",
+        "developer webhook integration endpoint",
+        "triggers remote service on action",
+        "event-driven architecture connector",
+        "payload delivery to external URL",
+        "app-to-app notification bridge",
+        "CI/CD pipeline trigger hook",
+        "third-party service integration point"
+      ],
+      "ru": [
+        "триггер событий сервер-сервер",
+        "автоматический HTTP POST при событии",
+        "система push-уведомлений в реальном времени",
+        "эндпоинт интеграции webhook для разработчика",
+        "запуск удалённого сервиса при действии",
+        "коннектор архитектуры событий",
+        "доставка payload на внешний URL",
+        "мост уведомлений приложение-приложение",
+        "триггерный хук CI/CD пайплайна",
+        "точка интеграции сторонних сервисов"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a webhook icon for my API settings",
+        "add a webhook symbol to the integrations page",
+        "show a webhook for the developer tools section",
+        "use the webhook icon for automation settings"
+      ],
+      "ru": [
+        "мне нужна иконка webhook для настроек API",
+        "добавь символ webhook на страницу интеграций",
+        "покажи webhook для раздела инструментов разработчика",
+        "используй иконку webhook для настроек автоматизации"
+      ]
+    },
+    "typo": {
+      "en": [
+        "webhok integration api",
+        "webohok callback trigger",
+        "wehbook http post",
+        "json pyaload webhook"
+      ],
+      "ru": [
+        "webhok интеграция api",
+        "webohok обратный вызов",
+        "wehbook http запрос",
+        "json пейлоад webhook"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "command line terminal interface",
+        "source code file with syntax highlighting",
+        "network server rack hardware",
+        "API documentation swagger page",
+        "cloud server deployment pipeline",
+        "JSON code editor brackets"
+      ],
+      "ru": [
+        "интерфейс командной строки терминала",
+        "файл исходного кода с подсветкой синтаксиса",
+        "серверная стойка сетевого оборудования",
+        "документация swagger API",
+        "пайплайн развёртывания облачного сервера",
+        "скобки JSON редактора кода"
+      ]
+    },
+    "valid": {
+      "en": [
+        "webhook endpoint for API integration",
+        "HTTP callback trigger for automation",
+        "server-to-server event notification"
+      ],
+      "ru": [
+        "эндпоинт webhook для интеграции API",
+        "HTTP триггер обратного вызова для автоматизации",
+        "уведомление о событии сервер-сервер"
+      ]
+    },
+    "test": {
+      "en": [
+        "automated webhook on event trigger",
+        "real-time HTTP POST notification",
+        "developer integration callback URL"
+      ],
+      "ru": [
+        "автоматический webhook при триггере события",
+        "HTTP POST уведомление в реальном времени",
+        "URL обратного вызова интеграции разработчика"
+      ]
+    }
+  }
+}

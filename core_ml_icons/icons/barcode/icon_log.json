@@ -1,0 +1,148 @@
+{
+  "icon": "barcode",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "info",
+        "laser",
+        "price",
+        "scan",
+        "upc"
+      ],
+      "ru": [
+        "информация",
+        "лазер",
+        "цена",
+        "сканировать",
+        "UPC"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "scan for product info",
+        "use laser scanner at checkout",
+        "scan to check the price",
+        "scan the barcode",
+        "look up the UPC code",
+        "Product info from barcode scan",
+        "Laser scanner malfunction at the register",
+        "Price check with barcode reader",
+        "Scan the label before checkout",
+        "UPC lookup for the inventory system"
+      ],
+      "ru": [
+        "отсканировать для получения информации о товаре",
+        "использовать лазерный сканер на кассе",
+        "отсканировать чтобы узнать цену",
+        "отсканировать штрихкод",
+        "найти код UPC",
+        "Информация о продукте через сканирование",
+        "Лазерный сканер не работает на кассе",
+        "Проверить цену через сканер штрихкода",
+        "Отсканировать этикетку перед кассой",
+        "Поиск UPC кода для системы учёта"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Scan the barcode at checkout",
+        "Check price with barcode scanner",
+        "Look up product details by barcode",
+        "Scan item to add to inventory",
+        "Read the barcode on the package",
+        "Barcode scan for the receipt",
+        "Set up barcode scanning in the app",
+        "Track items with barcodes",
+        "Print barcode labels",
+        "Scan to verify the product"
+      ],
+      "ru": [
+        "Отсканировать штрихкод на кассе",
+        "Проверить цену сканером штрихкода",
+        "Найти информацию о товаре по штрихкоду",
+        "Сканировать товар для инвентаризации",
+        "Считать штрихкод на упаковке",
+        "Сканирование штрихкода для чека",
+        "Настроить сканирование штрихкодов в приложении",
+        "Отслеживать товары по штрихкодам",
+        "Напечатать этикетки со штрихкодами",
+        "Сканировать для проверки товара"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Just scan the barcode to check the price",
+        "Let me scan that to see what it is",
+        "Can you scan this for me?",
+        "I need to scan all these items"
+      ],
+      "ru": [
+        "Просто отсканируй штрихкод чтобы проверить цену",
+        "Дай я отсканирую — посмотрю что это",
+        "Можешь отсканировать это?",
+        "Надо отсканировать все эти товары"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Scan the barcod",
+        "Barcod scaner at checkout",
+        "Chek price with barcode",
+        "Scna the UPC code"
+      ],
+      "ru": [
+        "Отсканировть штрихкод",
+        "Сканер штрихкодов на кассе",
+        "Проверить цену сканиром",
+        "Отсканироваьт код UPC"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Scan the QR code",
+        "Check the price tag",
+        "Read the NFC tag",
+        "Scan the receipt",
+        "Price check at the register",
+        "Read the product label"
+      ],
+      "ru": [
+        "Отсканировать QR-код",
+        "Проверить ценник",
+        "Считать NFC-метку",
+        "Отсканировать чек",
+        "Проверка цены на кассе",
+        "Прочитать этикетку товара"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Scan the label before buying",
+        "Barcode check on the shelf",
+        "Inventory scan with the scanner"
+      ],
+      "ru": [
+        "Отсканировать этикетку перед покупкой",
+        "Проверить штрихкод на полке",
+        "Инвентаризация сканером"
+      ]
+    },
+    "test": {
+      "en": [
+        "Scan to get product info",
+        "Read the barcode on the box",
+        "Quick price scan at the store"
+      ],
+      "ru": [
+        "Отсканировать для получения информации",
+        "Считать штрихкод с коробки",
+        "Быстрая проверка цены в магазине"
+      ]
+    }
+  }
+}

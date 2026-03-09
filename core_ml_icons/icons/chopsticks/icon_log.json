@@ -1,0 +1,81 @@
+{
+  "icon": "chopsticks",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bamboo",
+        "chopsticks",
+        "utensils"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy bamboo chopsticks",
+        "Get reusable bamboo utensils",
+        "Learn to use chopsticks",
+        "Eat with chopsticks tonight",
+        "Pack utensils for lunch",
+        "Get proper utensils for sushi"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Order sushi for dinner",
+        "Cook ramen at home",
+        "Go to a Japanese restaurant",
+        "Pack Asian food for lunch",
+        "Try eating with chopsticks",
+        "Buy a chopstick set",
+        "Make stir-fry tonight",
+        "Have dim sum this weekend",
+        "Cook Pad Thai for dinner",
+        "Visit a Chinese restaurant"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Sushi night!",
+        "Grab some chopsticks",
+        "Asian food run",
+        "Ramen craving"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chopsticsk for sushi",
+        "bamboo utensilss",
+        "order ramen noodels",
+        "eat with choptsicks"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Set the table with forks and knives",
+        "Grab a spoon for the soup",
+        "Order pizza for delivery",
+        "Use a fork for pasta",
+        "Get a spatula for cooking",
+        "Pick up some plastic cutlery"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Have sushi with chopsticks",
+        "Cook Asian noodles for dinner",
+        "Get bamboo reusable utensils"
+      ]
+    },
+    "test": {
+      "en": [
+        "Order Thai food for the family",
+        "Eat ramen with chopsticks",
+        "Japanese dinner tonight"
+      ]
+    }
+  }
+}

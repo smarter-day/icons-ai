@@ -1,0 +1,154 @@
+{
+  "icon": "sim-card",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "hard drive",
+        "hardware",
+        "portable",
+        "storage",
+        "technology",
+        "tiny"
+      ],
+      "ru": [
+        "жёсткий диск",
+        "оборудование",
+        "портативный",
+        "хранение",
+        "технология",
+        "крошечный"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "SIM card hard drive comparison tiny storage",
+        "mobile hard drive like SIM for data",
+        "SIM card hardware component of phone",
+        "phone hardware includes SIM card slot",
+        "portable SIM card taken between devices",
+        "portable tiny card for mobile network",
+        "SIM card storage for contact data",
+        "SIM card storing network credentials",
+        "SIM card technology for mobile networks",
+        "latest eSIM technology on device",
+        "tiny SIM card with gold chip contacts",
+        "tiny nano SIM card in tray"
+      ],
+      "ru": [
+        "SIM-карта маленькое хранилище как жёсткий диск",
+        "мобильный накопитель как SIM для данных",
+        "SIM-карта как компонент оборудования телефона",
+        "оборудование телефона включает слот SIM",
+        "портативная SIM-карта между устройствами",
+        "портативная крошечная карта для мобильной сети",
+        "SIM-карта хранит данные контактов",
+        "SIM-карта хранит учётные данные сети",
+        "технология SIM-карты для мобильных сетей",
+        "технология eSIM на устройстве",
+        "крошечная SIM-карта с золотыми контактами",
+        "маленькая нано SIM в лотке"
+      ]
+    },
+    "regular": {
+      "en": [
+        "SIM card with gold chip contacts",
+        "nano SIM card inserted in phone tray",
+        "SIM card slot on side of smartphone",
+        "removing SIM card with ejector pin",
+        "dual SIM phone with two card slots",
+        "eSIM virtual SIM replacing physical card",
+        "SIM card from mobile carrier",
+        "SIM card unlocked for international travel",
+        "SIM card icon for connectivity settings",
+        "prepaid SIM card from convenience store"
+      ],
+      "ru": [
+        "SIM-карта с золотыми чип-контактами",
+        "нано-SIM вставлена в лоток телефона",
+        "слот SIM-карты на боку смартфона",
+        "извлечение SIM-карты булавкой",
+        "телефон с двумя SIM-картами",
+        "виртуальная eSIM заменяет физическую карту",
+        "SIM-карта от мобильного оператора",
+        "SIM-карта разблокирована для международных поездок",
+        "иконка SIM-карты для настроек подключения",
+        "предоплаченная SIM-карта из магазина"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a SIM card icon for the mobile settings",
+        "add a SIM card symbol to the connectivity section",
+        "show a SIM card for the network settings feature",
+        "use the SIM card icon for the carrier selector"
+      ],
+      "ru": [
+        "мне нужна иконка SIM-карты для мобильных настроек",
+        "добавь символ SIM-карты в раздел подключения",
+        "покажи SIM-карту для функции сетевых настроек",
+        "используй иконку SIM-карты для выбора оператора"
+      ]
+    },
+    "typo": {
+      "en": [
+        "nano SIM crad inserted in phone tray",
+        "SIM crad slot on side of smartphone",
+        "removign SIM card with ejector pin",
+        "dual SIM phoen with two card slots"
+      ],
+      "ru": [
+        "нано-SIM вставелна в лоток телефона",
+        "слот SIM-катры на боку смартфона",
+        "извлечение SIM-катры булавкой",
+        "телефон с двуямя SIM-картами"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "SD card for camera photo storage",
+        "microSD card for phone additional storage",
+        "credit card with chip and signature",
+        "USB drive memory stick in laptop port",
+        "NFC chip for contactless payment",
+        "ID card with photo and barcode"
+      ],
+      "ru": [
+        "SD-карта для хранения фото камеры",
+        "microSD-карта для хранения телефона",
+        "кредитная карта с чипом и подписью",
+        "USB-накопитель в порту ноутбука",
+        "NFC-чип для бесконтактной оплаты",
+        "удостоверение личности с фото и штрихкодом"
+      ]
+    },
+    "valid": {
+      "en": [
+        "SIM card with gold chip contacts",
+        "nano SIM card in phone tray",
+        "SIM card for mobile network"
+      ],
+      "ru": [
+        "SIM-карта с золотыми контактами чипа",
+        "нано-SIM в лотке телефона",
+        "SIM-карта для мобильной сети"
+      ]
+    },
+    "test": {
+      "en": [
+        "SIM card icon for connectivity settings",
+        "dual SIM phone slot",
+        "eSIM replacing physical SIM card"
+      ],
+      "ru": [
+        "иконка SIM-карты для настроек подключения",
+        "слот двух SIM-карт",
+        "eSIM заменяет физическую SIM"
+      ]
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "icon": "burger",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bacon",
+        "beef",
+        "burger",
+        "burger king",
+        "cheeseburger",
+        "fast food",
+        "grill",
+        "ground beef",
+        "mcdonalds",
+        "sandwich"
+      ],
+      "ru": [
+        "бекон",
+        "говядина",
+        "бургер",
+        "бургер кинг",
+        "чизбургер",
+        "фастфуд",
+        "гриль",
+        "говяжий фарш",
+        "макдональдс",
+        "сэндвич"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Bacon burger for lunch",
+        "Beef patty for the grill tonight",
+        "Best burger spot in town",
+        "Burger King drive-through run",
+        "Cheeseburger with extra pickles",
+        "Fast food run on the way home",
+        "Grill burgers for the backyard party",
+        "Season the ground beef for burgers",
+        "McDonald's order for the kids",
+        "Sandwich for lunch today",
+        "Crispy bacon strips for the breakfast plate",
+        "Beef burgers on the menu tonight",
+        "Try the new burger at that place downtown",
+        "Burger King order for the road trip",
+        "Cheeseburger craving after the gym",
+        "Fast food stop before the movie",
+        "Grill cleaned and ready for the cookout",
+        "Thaw the ground beef for dinner tonight",
+        "McDonald's coffee run this morning",
+        "Packed a sandwich for the hike"
+      ],
+      "ru": [
+        "Бекон-бургер на обед",
+        "Говяжья котлета для гриля вечером",
+        "Лучшее место для бургеров в городе",
+        "Поездка в Burger King через драйв-тру",
+        "Чизбургер с дополнительными огурцами",
+        "Фастфуд по дороге домой",
+        "Жарить бургеры на вечеринке во дворе",
+        "Приправить говяжий фарш для бургеров",
+        "Заказ в McDonald's для детей",
+        "Сэндвич на обед сегодня",
+        "Хрустящий бекон на завтрак",
+        "Говяжьи бургеры в меню на вечер",
+        "Попробовать новый бургер в том заведении в центре",
+        "Заказ в Бургер Кинг в дорогу",
+        "Захотелось чизбургер после зала",
+        "Быстрое кафе перед кино",
+        "Гриль вычищен и готов к барбекю",
+        "Разморозить говяжий фарш для ужина",
+        "Кофе в Макдоналдс утром",
+        "Взял сэндвич с собой в поход"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Double patty burger with fries",
+        "Burger night on Friday",
+        "Smash burger recipe to try",
+        "Veggie burger for dinner",
+        "Order a burger delivery",
+        "Burger bar menu for the party",
+        "Stack the burger with all the toppings",
+        "Weekend BBQ burgers on the grill",
+        "Classic American cheeseburger",
+        "Halal burger place nearby"
+      ],
+      "ru": [
+        "Двойной бургер с картошкой фри",
+        "Вечер бургеров в пятницу",
+        "Рецепт смэш-бургера попробовать",
+        "Вегетарианский бургер на ужин",
+        "Заказать доставку бургера",
+        "Меню бургер-бара для вечеринки",
+        "Бургер со всеми топпингами",
+        "Бургеры на гриле на выходных",
+        "Классический американский чизбургер",
+        "Халяльное бургерное место поблизости"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "in the mood for a big juicy burger",
+        "just grabbing a quick burger",
+        "burger and fries kind of day",
+        "could go for a cheeseburger rn"
+      ],
+      "ru": [
+        "хочется большого сочного бургера",
+        "просто зайду за быстрым бургером",
+        "день для бургера с картошкой",
+        "прямо сейчас съел бы чизбургер"
+      ]
+    },
+    "typo": {
+      "en": [
+        "burguer with extra cheese",
+        "beaf patty on the grill",
+        "cheseburger from the drive through",
+        "hamburguer for lunch today"
+      ],
+      "ru": [
+        "бургар с дополнительным сыром",
+        "котлета из говядни на гриле",
+        "чизбугер из драйв-тру",
+        "гамбургур на обед сегодня"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Wrapped tortilla with beans and rice",
+        "Hot dog at the stand after the game",
+        "Club sandwich with cold cuts",
+        "Brat on a bun with mustard",
+        "Wrap it in a tortilla not a bun",
+        "Gyro in a pita bread"
+      ],
+      "ru": [
+        "Тортилья с фасолью и рисом",
+        "Хот-дог у стойки после игры",
+        "Клаб-сэндвич с мясной нарезкой",
+        "Колбаска в булочке с горчицей",
+        "Завернуть в тортилью а не в булку",
+        "Гирос в питте"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Burger joint for dinner tonight",
+        "Grill up some burgers this weekend",
+        "Best cheeseburger recipe"
+      ],
+      "ru": [
+        "Бургерная на ужин сегодня",
+        "Жарить бургеры в эти выходные",
+        "Лучший рецепт чизбургера"
+      ]
+    },
+    "test": {
+      "en": [
+        "Late night burger run",
+        "Backyard burger cookout",
+        "Quarter pounder with everything"
+      ],
+      "ru": [
+        "Ночной набег за бургером",
+        "Жарка бургеров во дворе",
+        "Четвертьфунтовик со всем"
+      ]
+    }
+  }
+}

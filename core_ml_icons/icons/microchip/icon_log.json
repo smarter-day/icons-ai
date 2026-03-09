@@ -1,0 +1,142 @@
+{
+  "icon": "microchip",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cpu",
+        "hardware",
+        "processor",
+        "technology"
+      ],
+      "ru": [
+        "процессор",
+        "оборудование",
+        "процессор",
+        "технологии"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "CPU chip on motherboard",
+        "CPU performance benchmark",
+        "hardware component microchip",
+        "hardware upgrade processor",
+        "processor speed for gaming",
+        "multi-core processor chip",
+        "technology inside a computer",
+        "emerging technology chip"
+      ],
+      "ru": [
+        "чип процессора на материнской плате",
+        "тест производительности CPU",
+        "компонент оборудования микросхема",
+        "апгрейд аппаратного обеспечения процессор",
+        "скорость процессора для игр",
+        "многоядерный процессорный чип",
+        "технологии внутри компьютера",
+        "передовой технологический чип"
+      ]
+    },
+    "regular": {
+      "en": [
+        "integrated circuit chip on green PCB",
+        "CPU die with pins on motherboard socket",
+        "microprocessor with printed circuit traces",
+        "AI chip for machine learning tasks",
+        "nanometer semiconductor microchip",
+        "RFID microchip for tracking",
+        "brain implant microchip concept",
+        "silicon wafer with microchip dies",
+        "tiny chip powering smart devices",
+        "chip shortage affecting electronics supply"
+      ],
+      "ru": [
+        "интегральная схема на зелёной плате PCB",
+        "кристалл CPU с контактами в сокете материнской платы",
+        "микропроцессор с печатными проводниками",
+        "чип искусственного интеллекта для машинного обучения",
+        "полупроводниковый микрочип нанометрового масштаба",
+        "RFID микросхема для отслеживания",
+        "концепция мозгового имплантата микрочипа",
+        "кремниевая пластина с кристаллами микросхем",
+        "крошечный чип питающий умные устройства",
+        "дефицит чипов влияющий на поставки электроники"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a microchip icon for the hardware section",
+        "add a CPU chip symbol to the tech specifications",
+        "show a processor icon for the performance screen",
+        "use the microchip icon for the AI features tab"
+      ],
+      "ru": [
+        "Мне нужна иконка микросхемы для раздела оборудования",
+        "добавить символ чипа CPU в технические характеристики",
+        "показать иконку процессора для экрана производительности",
+        "использовать иконку микросхемы для вкладки функций ИИ"
+      ]
+    },
+    "typo": {
+      "en": [
+        "microchp processor",
+        "CPu chip hardware",
+        "processer upgrade",
+        "tecnology chip"
+      ],
+      "ru": [
+        "микросхмеа процессор",
+        "процессро CPU",
+        "аппартное обеспечение чип",
+        "технолгии микросхема"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "RAM memory DIMM stick module",
+        "hard drive HDD for data storage",
+        "graphics card GPU chip",
+        "circuit board with many components",
+        "USB drive portable storage",
+        "smartphone processor chip inside device"
+      ],
+      "ru": [
+        "планка памяти ОЗУ DIMM",
+        "жёсткий диск HDD для хранения данных",
+        "чип видеокарты GPU",
+        "плата с множеством компонентов",
+        "USB накопитель портативное хранение",
+        "чип процессора смартфона внутри устройства"
+      ]
+    },
+    "valid": {
+      "en": [
+        "microchip CPU processor icon",
+        "integrated circuit chip",
+        "hardware processor chip"
+      ],
+      "ru": [
+        "иконка микросхемы процессора CPU",
+        "интегральная схема чип",
+        "чип процессора оборудования"
+      ]
+    },
+    "test": {
+      "en": [
+        "microchip icon",
+        "CPU chip hardware",
+        "processor technology chip"
+      ],
+      "ru": [
+        "иконка микросхемы",
+        "чип CPU оборудование",
+        "чип технологии процессора"
+      ]
+    }
+  }
+}

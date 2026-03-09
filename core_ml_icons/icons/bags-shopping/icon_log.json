@@ -1,0 +1,166 @@
+{
+  "icon": "bags-shopping",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bag",
+        "buy",
+        "checkout",
+        "hotel",
+        "order",
+        "shopping",
+        "shopping bags",
+        "store"
+      ],
+      "ru": [
+        "сумка",
+        "купить",
+        "касса",
+        "отель",
+        "заказ",
+        "шопинг",
+        "пакеты для покупок",
+        "магазин"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "pack a bag for the trip",
+        "buy some things at the mall",
+        "proceed to checkout",
+        "pack bags for the hotel",
+        "place an order online",
+        "shopping trip this weekend",
+        "grab some shopping bags",
+        "head to the store",
+        "leave the bag at the front desk",
+        "buy a gift for someone special",
+        "self-checkout is faster today",
+        "check into the hotel with all the bags",
+        "track the order delivery status",
+        "afternoon shopping with friends",
+        "reuse the shopping bags from last time",
+        "pop into the store on the way back"
+      ],
+      "ru": [
+        "собрать сумку в дорогу",
+        "купить кое-что в торговом центре",
+        "перейти к оплате",
+        "упаковать вещи для отеля",
+        "оформить заказ онлайн",
+        "шопинг в эти выходные",
+        "взять пакеты для покупок",
+        "отправиться в магазин",
+        "оставить сумку на стойке регистрации",
+        "купить подарок кому-нибудь особенному",
+        "самообслуживание на кассе быстрее",
+        "заселиться в отель со всеми сумками",
+        "отследить статус доставки заказа",
+        "послеобеденный шопинг с друзьями",
+        "использовать пакеты от прошлого раза",
+        "зайти в магазин по дороге обратно"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Go on a shopping spree",
+        "Pack bags before the flight",
+        "Shopping run before the trip",
+        "Order items for delivery",
+        "Check out at the register",
+        "Mall shopping this afternoon",
+        "Stock up on supplies",
+        "Pick up the online order",
+        "Retail therapy evening",
+        "Buy gifts for everyone"
+      ],
+      "ru": [
+        "Устроить шопинг-марафон",
+        "Упаковать сумки перед вылетом",
+        "Поход за покупками перед поездкой",
+        "Заказать товары с доставкой",
+        "Пройти через кассу",
+        "Шопинг в торговом центре сегодня днём",
+        "Запастись всем необходимым",
+        "Забрать онлайн-заказ",
+        "Вечер шопинга",
+        "Купить подарки всем"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need to do some serious shopping",
+        "Let's hit the shops this weekend",
+        "Got to pack my bags for the trip",
+        "Time to go on a little shopping spree"
+      ],
+      "ru": [
+        "Мне нужно как следует пошопиться",
+        "Давай сходим по магазинам в выходные",
+        "Надо собрать вещи в поездку",
+        "Пора устроить небольшой шопинг-марафон"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Shoping bags for the trip",
+        "Pack the bgas for vacation",
+        "Chekout at the store",
+        "Shoping at the mall"
+      ],
+      "ru": [
+        "Пакеты для шоппига в поездку",
+        "Собарть сумки в отпуск",
+        "Чекаут в магазне",
+        "Шопинк в торговом центре"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Pick up groceries on the way home",
+        "Weekly grocery shop",
+        "Buy household essentials",
+        "Grab a few things from the supermarket",
+        "Quick grocery trip",
+        "Restock the kitchen staples"
+      ],
+      "ru": [
+        "Купить продукты по дороге домой",
+        "Еженедельная закупка продуктов",
+        "Купить товары для дома",
+        "Взять пару вещей из супермаркета",
+        "Быстрый поход за продуктами",
+        "Пополнить запасы на кухне"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Packing bags for the weekend trip",
+        "Big shopping haul today",
+        "Shopping spree at the outlet"
+      ],
+      "ru": [
+        "Упаковать сумки на выходные",
+        "Большой шопинг сегодня",
+        "Шопинг в аутлете"
+      ]
+    },
+    "test": {
+      "en": [
+        "Carry bags back from the mall",
+        "Trip essentials shopping",
+        "Grab all the shopping bags"
+      ],
+      "ru": [
+        "Нести пакеты из торгового центра",
+        "Закупиться всем для поездки",
+        "Взять все пакеты с покупками"
+      ]
+    }
+  }
+}

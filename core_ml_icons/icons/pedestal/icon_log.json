@@ -1,0 +1,130 @@
+{
+  "icon": "pedestal",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "electricity",
+        "reading"
+      ],
+      "ru": [
+        "электричество",
+        "чтение"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "electricity pedestal charging station",
+        "pedestal outlet for power",
+        "reading lamp on a pedestal",
+        "floor-standing reading light"
+      ],
+      "ru": [
+        "пьедестал зарядной станции электричества",
+        "пьедестал розетки для питания",
+        "лампа для чтения на пьедестале",
+        "торшер для чтения"
+      ]
+    },
+    "regular": {
+      "en": [
+        "floor-standing pedestal with electric outlet",
+        "pedestal charging station in public space",
+        "reading pedestal with built-in light",
+        "podium or pedestal stand for display",
+        "electric pedestal for EV charging",
+        "display pedestal in a museum",
+        "lectern or reading stand",
+        "trophy pedestal for award display",
+        "art gallery pedestal for sculpture",
+        "information kiosk pedestal"
+      ],
+      "ru": [
+        "напольный пьедестал с электрической розеткой",
+        "зарядная станция пьедестал в общественном пространстве",
+        "пьедестал для чтения со встроенным светом",
+        "подиум или пьедестал-стенд для дисплея",
+        "электрический пьедестал для зарядки EV",
+        "выставочный пьедестал в музее",
+        "аналой или стенд для чтения",
+        "трофейный пьедестал для показа наград",
+        "пьедестал художественной галереи для скульптуры",
+        "пьедестал информационного киоска"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pedestal icon for the charging station",
+        "add a pedestal symbol to the public utilities section",
+        "show a pedestal for the reading station feature",
+        "use the pedestal icon for the display stand screen"
+      ],
+      "ru": [
+        "Мне нужна иконка пьедестала для зарядной станции",
+        "добавить символ пьедестала в раздел общественных услуг",
+        "показать пьедестал для функции читальной станции",
+        "использовать иконку пьедестала для экрана стенда дисплея"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pesdetal charging",
+        "readign pedestal",
+        "electriicty pedestal",
+        "pedesatl stand"
+      ],
+      "ru": [
+        "пьдестал зарядка",
+        "чтение пьедстал",
+        "электрчество пьедестал",
+        "подиму стенд"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "wall-mounted outlet without pedestal",
+        "lamp post or street light",
+        "bookshelf for storing books",
+        "standing desk adjustable height",
+        "trophy cup without pedestal base",
+        "information sign board"
+      ],
+      "ru": [
+        "настенная розетка без пьедестала",
+        "столб лампы или уличный фонарь",
+        "книжная полка для хранения книг",
+        "стол с регулировкой высоты стоя",
+        "кубок трофея без пьедестального основания",
+        "информационный щит"
+      ]
+    },
+    "valid": {
+      "en": [
+        "pedestal charging station icon",
+        "reading pedestal stand",
+        "electric pedestal outlet"
+      ],
+      "ru": [
+        "иконка зарядной станции пьедестала",
+        "читальный стенд-пьедестал",
+        "электрическая розетка пьедестала"
+      ]
+    },
+    "test": {
+      "en": [
+        "pedestal icon",
+        "electricity pedestal stand",
+        "reading pedestal"
+      ],
+      "ru": [
+        "иконка пьедестала",
+        "пьедестал стенд электричества",
+        "читальный пьедестал"
+      ]
+    }
+  }
+}

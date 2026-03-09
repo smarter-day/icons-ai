@@ -1,0 +1,87 @@
+{
+  "icon": "face-exhaling",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "breath",
+        "exhale",
+        "exhaustion",
+        "relief",
+        "sigh"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Take a deep breath before starting",
+        "Breathe slowly to calm down",
+        "Exhale and release the tension",
+        "Exhale deeply after exercise",
+        "Recover from exhaustion",
+        "Manage work exhaustion",
+        "Feel relief after finishing the task",
+        "Sigh with relief",
+        "Let out a long sigh",
+        "Sigh after a stressful day"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Take a deep breath to relax",
+        "Exhale after a stressful meeting",
+        "Feel relieved after the exam",
+        "Breathe deeply before the presentation",
+        "Take a breather after the sprint",
+        "Feel the exhaustion after a long day",
+        "Sigh with relief when it's done",
+        "Do breathing exercises to calm down",
+        "Take a moment to breathe and recover",
+        "Relax after finally finishing the work"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Finally done",
+        "Take a breather",
+        "Big sigh of relief",
+        "Exhausted but done"
+      ]
+    },
+    "typo": {
+      "en": [
+        "take a deap breath",
+        "feel relif after finishing",
+        "exhaustoin from work",
+        "big sigh of releif"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Cry from stress",
+        "Laugh out loud",
+        "Feel dizzy after spinning",
+        "Feel nervous before speaking",
+        "Take a nap when exhausted",
+        "Meditate to reduce stress"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Take a deep breath to relax",
+        "Feel relieved after finishing",
+        "Exhale after the stressful day"
+      ]
+    },
+    "test": {
+      "en": [
+        "Sigh with relief when done",
+        "Recover from exhaustion",
+        "Breathe deeply to calm down"
+      ]
+    }
+  }
+}

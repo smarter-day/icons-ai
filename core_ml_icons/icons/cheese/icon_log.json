@@ -1,0 +1,166 @@
+{
+  "icon": "cheese",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cheddar",
+        "curd",
+        "gouda",
+        "melt",
+        "parmesan",
+        "sandwich",
+        "swiss",
+        "wedge"
+      ],
+      "ru": [
+        "чеддер",
+        "творог",
+        "гауда",
+        "плавить",
+        "пармезан",
+        "сэндвич",
+        "швейцарский",
+        "клин"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Cheddar cheese for the burger",
+        "Sharp cheddar in the cheese board",
+        "Curd cheese for the recipe",
+        "Fresh curd at the farmers market",
+        "Gouda slice for the sandwich",
+        "Smoked gouda from the deli",
+        "Melt cheese on the toast",
+        "Melt the gouda for the sauce",
+        "Parmesan grated over the pasta",
+        "Fresh parmesan block at the store",
+        "Sandwich with cheese and ham",
+        "Cheese sandwich for the lunch box",
+        "Swiss cheese for the deli order",
+        "Swiss slices on the burger",
+        "Cheese wedge on the charcuterie board",
+        "Wedge of brie for the party platter"
+      ],
+      "ru": [
+        "Чеддер для бургера",
+        "Острый чеддер на сырной доске",
+        "Творожный сыр для рецепта",
+        "Свежий творог на фермерском рынке",
+        "Кусочек гауды для сэндвича",
+        "Копчёная гауда из деликатесного отдела",
+        "Расплавить сыр на тосте",
+        "Расплавить гауду для соуса",
+        "Пармезан тёртый над пастой",
+        "Блок свежего пармезана",
+        "Сэндвич с сыром и ветчиной",
+        "Сырный сэндвич для ланч-бокса",
+        "Швейцарский сыр для деликатесного заказа",
+        "Ломтики швейцарского на бургере",
+        "Клин сыра на доске шаркутери",
+        "Клин бри для праздничной тарелки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Add cheese to the shopping list",
+        "Cheese board for the dinner party",
+        "Grilled cheese on sourdough",
+        "Pick up a block of cheddar",
+        "Cheese tasting at the market",
+        "Extra cheese on the pizza tonight",
+        "Cream cheese for the bagel",
+        "Cheese sauce for the nachos",
+        "Cheese platter with crackers",
+        "Aged cheese for the charcuterie"
+      ],
+      "ru": [
+        "Добавить сыр в список покупок",
+        "Сырная доска для ужина",
+        "Жареный сыр на хлебе на закваске",
+        "Купить блок чеддера",
+        "Дегустация сыров на рынке",
+        "Дополнительный сыр на пицце",
+        "Крем-сыр для бейгла",
+        "Сырный соус для начос",
+        "Сырная тарелка с крекерами",
+        "Выдержанный сыр для шаркутери"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "need more cheese on everything honestly",
+        "grabbed a wedge of brie at the store",
+        "cheese board is the move for tonight",
+        "can't have a burger without extra cheese"
+      ],
+      "ru": [
+        "больше сыра на всём это правда",
+        "взял клин бри в магазине",
+        "сырная доска — это решение на вечер",
+        "бургер без дополнительного сыра не бургер"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chedar cheese for the borger",
+        "grilled chesee on sourduogh",
+        "cheesse board for the dinener party",
+        "parmesann grated over the psta"
+      ],
+      "ru": [
+        "чедер для бургера",
+        "жареный сыр на хлебе на закваске",
+        "сырная дсока для ужина",
+        "тёртый пармезан над пастой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Swiss cheese with the distinctive holes",
+        "Butter spread on the toast instead",
+        "Cream cheese vs regular cheese",
+        "Yogurt as a dairy alternative",
+        "Milk carton in the fridge",
+        "Crackers without any cheese topping"
+      ],
+      "ru": [
+        "Швейцарский сыр с дырками",
+        "Масло намазать на тост вместо сыра",
+        "Крем-сыр или обычный блок сыра",
+        "Йогурт как молочная альтернатива",
+        "Пакет молока в холодильнике",
+        "Крекеры без сырного топпинга"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Cheese board for the dinner party",
+        "Grated parmesan over the pasta",
+        "Pick up some cheddar at the store"
+      ],
+      "ru": [
+        "Сырная доска для ужина",
+        "Тёртый пармезан над пастой",
+        "Купить чеддер в магазине"
+      ]
+    },
+    "test": {
+      "en": [
+        "Extra cheese on the pizza",
+        "Cheese platter with crackers",
+        "Melt swiss on the burger"
+      ],
+      "ru": [
+        "Дополнительный сыр на пицце",
+        "Сырная тарелка с крекерами",
+        "Расплавить швейцарский на бургере"
+      ]
+    }
+  }
+}

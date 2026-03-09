@@ -1,0 +1,99 @@
+{
+  "icon": "droplet",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "blood",
+        "cold",
+        "color",
+        "comic",
+        "drop",
+        "droplet",
+        "raindrop",
+        "sweat",
+        "waterdrop"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "blood droplet from a finger prick",
+        "blood drop for the medical test",
+        "cold water droplet on the glass",
+        "cold droplet falling from the tap",
+        "color dropper picking a color",
+        "color droplet in the design tool",
+        "comic sweat drop on the face",
+        "comic droplet symbol of surprise",
+        "drop of water on the leaf",
+        "drop falling from the faucet",
+        "droplet of water on the surface",
+        "single droplet in the air",
+        "raindrop falling from the sky",
+        "raindrop hitting the puddle",
+        "sweat droplet on the forehead",
+        "sweat drop after a workout",
+        "waterdrop on the window pane",
+        "waterdrop rolling down the glass"
+      ]
+    },
+    "regular": {
+      "en": [
+        "single water droplet falling",
+        "raindrop hitting the puddle",
+        "sweat droplet after a hard workout",
+        "blood drop for a medical test",
+        "water drop on a green leaf",
+        "color picker droplet in the design app",
+        "dew droplet on the morning grass",
+        "droplet icon for water or hydration",
+        "teardrop falling from the eye",
+        "ink droplet falling into the water"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a droplet icon for the hydration tracker",
+        "add a water drop to the weather section",
+        "show a droplet for the color picker tool",
+        "use the drop icon for the blood test feature"
+      ]
+    },
+    "typo": {
+      "en": [
+        "raindorp falling from sky",
+        "watre droplet on glass",
+        "sweatt drop after workout",
+        "blod drop for test"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "rain cloud with drops falling below",
+        "wave of water crashing on shore",
+        "ice cube melting into water",
+        "bucket filling with water",
+        "swimming pool with clear water",
+        "river flowing through the valley"
+      ]
+    },
+    "valid": {
+      "en": [
+        "water droplet falling",
+        "raindrop on the glass",
+        "droplet for hydration"
+      ]
+    },
+    "test": {
+      "en": [
+        "droplet icon",
+        "water drop symbol",
+        "raindrop droplet"
+      ]
+    }
+  }
+}

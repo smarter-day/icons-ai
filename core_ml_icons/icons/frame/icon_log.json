@@ -1,0 +1,87 @@
+{
+  "icon": "frame",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "artboard",
+        "crop",
+        "grid",
+        "group",
+        "viewbox"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Set up the artboard in the design tool",
+        "Resize the artboard",
+        "Crop the image to the frame",
+        "Crop the design to size",
+        "Use a grid for layout alignment",
+        "Set up a grid in Figma",
+        "Group the elements together",
+        "Group layers in the design",
+        "Set the viewbox dimensions",
+        "Adjust the SVG viewbox"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Create a new artboard in the design tool",
+        "Frame the content for the layout",
+        "Set up the design canvas",
+        "Arrange elements within the frame",
+        "Group UI components together",
+        "Use a frame for the app screen layout",
+        "Set up a frame for the presentation slide",
+        "Resize the design frame",
+        "Nest frames in the design file",
+        "Export the frame as an image"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "New frame",
+        "Design frame",
+        "Set the canvas",
+        "Artboard ready"
+      ]
+    },
+    "typo": {
+      "en": [
+        "set up the artboadr",
+        "creat a new desgin frame",
+        "grup the elements",
+        "adjsut the viewbx"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Crop the photo",
+        "Add a photo frame on the wall",
+        "Use a border on the document",
+        "Draw a rectangle in the design",
+        "Set the page margins",
+        "Use a grid for the spreadsheet"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Set up the artboard in the design tool",
+        "Create a new design frame",
+        "Group elements in the frame"
+      ]
+    },
+    "test": {
+      "en": [
+        "Resize the design frame",
+        "Export the frame as an image",
+        "Set up a frame for the app screen"
+      ]
+    }
+  }
+}

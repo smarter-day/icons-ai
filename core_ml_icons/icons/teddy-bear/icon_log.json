@@ -1,0 +1,148 @@
+{
+  "icon": "teddy-bear",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "plaything",
+        "plush",
+        "stuffed",
+        "teddy bear",
+        "toy"
+      ],
+      "ru": [
+        "игрушка",
+        "плюшевый",
+        "набивной",
+        "плюшевый мишка",
+        "игрушка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "plaything for children teddy bear",
+        "kid plaything stuffed animal",
+        "plush bear soft stuffed",
+        "plush toy huggable animal",
+        "stuffed animal bear shelf",
+        "stuffed bear child gift",
+        "teddy bear comfort cuddle",
+        "classic teddy bear childhood",
+        "toy bear plush childhood",
+        "toy store teddy bear display"
+      ],
+      "ru": [
+        "игрушка для детей плюшевый мишка",
+        "детская игрушка мягкое животное",
+        "плюшевый медведь мягкий набивной",
+        "мягкая игрушка обнимашка животное",
+        "набивной медведь полка",
+        "набивной мишка подарок ребёнку",
+        "плюшевый мишка утешение объятия",
+        "классический плюшевый мишка детство",
+        "игрушечный медведь плюш детство",
+        "витрина плюшевых мишек в магазине игрушек"
+      ]
+    },
+    "regular": {
+      "en": [
+        "classic brown stuffed teddy bear",
+        "child hugging favorite teddy bear",
+        "vintage collector teddy bear antique",
+        "teddy bear in backpack strap",
+        "oversized giant teddy bear gift",
+        "bedtime teddy bear comfort object",
+        "hospital teddy bear donation charity",
+        "handmade knitted teddy bear craft",
+        "teddy bear hospital repair torn seam",
+        "baby shower teddy bear decoration"
+      ],
+      "ru": [
+        "классический коричневый набивной плюшевый мишка",
+        "ребёнок обнимает любимого плюшевого мишку",
+        "винтажный коллекционный плюшевый мишка антиквариат",
+        "плюшевый мишка в кармане рюкзака",
+        "гигантский плюшевый мишка подарок",
+        "плюшевый мишка перед сном объект утешения",
+        "пожертвование плюшевых мишек больнице благотворительность",
+        "вязаный плюшевый мишка ручной работы",
+        "починка плюшевого мишки в больнице оторвался шов",
+        "украшение плюшевым мишкой на детском празднике"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a teddy bear icon for the kids section",
+        "add a stuffed animal symbol to the toys category",
+        "show a teddy bear for the children's gift feature",
+        "use the teddy bear icon for the comfort objects section"
+      ],
+      "ru": [
+        "нужна иконка плюшевого мишки для детского раздела",
+        "добавь символ мягкой игрушки в категорию игрушек",
+        "покажи плюшевого мишку для функции детских подарков",
+        "используй иконку плюшевого мишки для раздела предметов утешения"
+      ]
+    },
+    "typo": {
+      "en": [
+        "teddy bera stuffed",
+        "plsuh bear toy",
+        "stufffed animal bear",
+        "childs teddy ber"
+      ],
+      "ru": [
+        "плюшевый мишак набивной",
+        "плшевый медведь игрушка",
+        "набивное животное медведь",
+        "детский плюшевый мишка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "doll fashion toy plastic",
+        "robot toy electronic action figure",
+        "puppet hand theater toy",
+        "lego block building toy",
+        "plush rabbit stuffed bunny",
+        "toy car small vehicle miniature"
+      ],
+      "ru": [
+        "кукла модная игрушка пластик",
+        "робот игрушка электронный персонаж",
+        "кукла рукавичка театральная игрушка",
+        "лего кубик строительная игрушка",
+        "плюшевый кролик мягкий зайчик",
+        "игрушечная машинка маленькое транспортное средство"
+      ]
+    },
+    "valid": {
+      "en": [
+        "teddy bear stuffed toy",
+        "plush bear childhood icon",
+        "classic teddy bear"
+      ],
+      "ru": [
+        "плюшевый мишка набивная игрушка",
+        "плюшевый медведь детство иконка",
+        "классический плюшевый мишка"
+      ]
+    },
+    "test": {
+      "en": [
+        "teddy bear icon toy",
+        "stuffed bear plush",
+        "teddy bear children"
+      ],
+      "ru": [
+        "иконка плюшевого мишки",
+        "набивной медведь плюш",
+        "плюшевый мишка дети"
+      ]
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "icon": "traffic-light",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "direction",
+        "go",
+        "light",
+        "road",
+        "signal",
+        "slow",
+        "stop",
+        "traffic",
+        "travel",
+        "vertical traffic light"
+      ],
+      "ru": [
+        "направление",
+        "ехать",
+        "свет",
+        "дорога",
+        "сигнал",
+        "медленно",
+        "стоп",
+        "движение",
+        "поездка",
+        "вертикальный светофор"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "direction from traffic light signal",
+        "traffic light direction arrow",
+        "go signal green traffic light",
+        "go when traffic light green",
+        "traffic light red amber green",
+        "street light traffic signal",
+        "road traffic light intersection",
+        "traffic light at road junction",
+        "signal traffic light pedestrian",
+        "traffic light signal stop go",
+        "slow down yellow traffic light",
+        "slow caution amber light",
+        "stop red traffic light",
+        "stop at red traffic light",
+        "traffic jam traffic light queue",
+        "city traffic light control",
+        "travel route traffic light",
+        "traffic light along travel route",
+        "vertical traffic light pole",
+        "vertical mounted traffic signal"
+      ],
+      "ru": [
+        "направление сигнала светофора",
+        "стрелка направления светофора",
+        "зелёный сигнал светофора ехать",
+        "ехать когда светофор зелёный",
+        "светофор красный жёлтый зелёный",
+        "уличный светофор сигнал",
+        "дорожный светофор перекрёсток",
+        "светофор на дорожном развязке",
+        "сигнал светофора пешеходный",
+        "сигнал светофора стоп ехать",
+        "замедлиться жёлтый светофор",
+        "осторожно янтарный сигнал",
+        "стоп красный светофор",
+        "остановиться на красный",
+        "пробка очередь у светофора",
+        "городской светофор управление",
+        "маршрут поездки светофор",
+        "светофор вдоль маршрута",
+        "вертикальный столб светофора",
+        "вертикально установленный светофор"
+      ]
+    },
+    "regular": {
+      "en": [
+        "three light traffic signal red yellow green",
+        "pedestrian walk don't walk signal",
+        "smart traffic light adaptive timing",
+        "traffic light camera intersection",
+        "red light running citation",
+        "traffic light at highway on-ramp",
+        "flashing yellow caution traffic light",
+        "traffic light power outage four-way stop",
+        "countdown pedestrian traffic signal",
+        "traffic light facing oncoming cars"
+      ],
+      "ru": [
+        "трёхцветный светофор красный жёлтый зелёный",
+        "пешеходный сигнал идти не идти",
+        "умный светофор адаптивный тайминг",
+        "камера светофора перекрёсток",
+        "штраф за проезд на красный свет",
+        "светофор на въезде на шоссе",
+        "мигающий жёлтый предупредительный светофор",
+        "отключение светофора четырёхстороннее движение",
+        "обратный отсчёт пешеходного светофора",
+        "светофор обращённый к встречным машинам"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a traffic light icon for the road section",
+        "add a signal symbol to the intersection feature",
+        "show a traffic light for the commute planner",
+        "use the traffic-light icon for the stop-go indicator"
+      ],
+      "ru": [
+        "нужна иконка светофора для дорожного раздела",
+        "добавь символ сигнала к функции перекрёстка",
+        "покажи светофор для планировщика поездок",
+        "используй иконку светофора для индикатора стоп-ехать"
+      ]
+    },
+    "typo": {
+      "en": [
+        "traffci light signal",
+        "red lgiht stop traffic",
+        "greeen go traffic light",
+        "signla road intersection"
+      ],
+      "ru": [
+        "светофор сигнал дорога",
+        "красный стоп светофор",
+        "зелёный ехать светофор",
+        "сигнал перекрёсток"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "traffic cone orange road warning",
+        "stop sign red octagon",
+        "road sign speed limit",
+        "pedestrian crossing zebra stripes",
+        "roundabout circle road junction",
+        "railroad crossing signal gate"
+      ],
+      "ru": [
+        "дорожный конус оранжевый предупреждение",
+        "знак стоп красный восьмиугольник",
+        "дорожный знак ограничение скорости",
+        "пешеходный переход зебра полосы",
+        "круговое движение развязка",
+        "железнодорожный переезд сигнал шлагбаум"
+      ]
+    },
+    "valid": {
+      "en": [
+        "traffic light signal icon",
+        "red green light stop go",
+        "road traffic signal"
+      ],
+      "ru": [
+        "иконка светофора сигнал",
+        "красный зелёный стоп ехать",
+        "дорожный светофор"
+      ]
+    },
+    "test": {
+      "en": [
+        "traffic light icon",
+        "stop go signal road",
+        "traffic signal symbol"
+      ],
+      "ru": [
+        "иконка светофора",
+        "стоп ехать сигнал дорога",
+        "символ дорожного сигнала"
+      ]
+    }
+  }
+}

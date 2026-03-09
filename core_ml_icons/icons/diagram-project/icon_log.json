@@ -1,0 +1,87 @@
+{
+  "icon": "diagram-project",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "chart",
+        "graph",
+        "network",
+        "pert",
+        "statistics"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Build a project chart",
+        "Review the project chart with the team",
+        "Create a bar graph for the report",
+        "Read the graph results",
+        "Map out the network diagram",
+        "Design the network topology",
+        "Use a PERT chart for planning",
+        "Create a PERT diagram for the project",
+        "Analyze project statistics",
+        "Share statistics in the presentation"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Create a project flow diagram",
+        "Map the dependencies between tasks",
+        "Plan the project phases",
+        "Build a network chart for the project",
+        "Review the project diagram with the team",
+        "Use a PERT chart for scheduling",
+        "Visualize the project timeline",
+        "Draw the task dependency chart",
+        "Plan milestones on the diagram",
+        "Update the project workflow diagram"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Map the project",
+        "Draw the workflow",
+        "Project diagram",
+        "Task flow chart"
+      ]
+    },
+    "typo": {
+      "en": [
+        "creat a project charrt",
+        "plan the prject flow",
+        "netwrok diagram",
+        "pert chartt for planning"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Create a pie chart for the budget",
+        "Make a Gantt chart for the schedule",
+        "Draw a Venn diagram",
+        "Build a bar chart for statistics",
+        "Make a line graph of the trend",
+        "Create a spreadsheet table"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Map the project dependencies",
+        "Create a project flow diagram",
+        "Build a network chart"
+      ]
+    },
+    "test": {
+      "en": [
+        "Plan the project phases with a diagram",
+        "Draw the task dependency chart",
+        "Use PERT for project scheduling"
+      ]
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "icon": "mailbox",
+  "rows": {
+    "train_en": 75,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "archive",
+        "closed",
+        "closed mailbox with lowered flag",
+        "envelope",
+        "letter",
+        "lowered",
+        "mail",
+        "mailbox",
+        "newsletter",
+        "offer",
+        "post office",
+        "postal",
+        "postbox",
+        "postcard",
+        "send",
+        "stamp",
+        "usps"
+      ],
+      "ru": [
+        "архив",
+        "закрытый",
+        "закрытый почтовый ящик с опущенным флажком",
+        "конверт",
+        "письмо",
+        "опущенный",
+        "почта",
+        "почтовый ящик",
+        "рассылка",
+        "предложение",
+        "почтовое отделение",
+        "почтовый",
+        "почтовый ящик на улице",
+        "открытка",
+        "отправить",
+        "марка",
+        "usps"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "archive old messages in mailbox",
+        "email archive folder",
+        "closed mailbox door shut",
+        "closed lid on a physical mailbox",
+        "closed mailbox with lowered flag empty",
+        "lowered flag on closed mailbox",
+        "envelope delivered to mailbox",
+        "sealed envelope in the slot",
+        "letter dropped in the mailbox",
+        "handwritten letter sent by mail",
+        "lowered flag means no outgoing mail",
+        "flag lowered on roadside mailbox",
+        "mail delivered to front door",
+        "daily mail pickup and delivery",
+        "mailbox at the end of driveway",
+        "residential mailbox with flag",
+        "newsletter subscription delivered",
+        "email newsletter in inbox",
+        "special offer delivered by mail",
+        "promotional offer in mailbox",
+        "post office mailbox cluster",
+        "post office sorting mail",
+        "postal service delivery box",
+        "postal worker filling mailbox",
+        "postbox on street corner",
+        "red postbox for outgoing mail",
+        "postcard from vacation destination",
+        "picture postcard in mailbox",
+        "send a package through the mailbox",
+        "send letters and postcards",
+        "stamp for mailing a letter",
+        "postage stamp on envelope",
+        "USPS mailbox blue collection box",
+        "USPS residential delivery"
+      ],
+      "ru": [
+        "архивировать старые сообщения в почтовом ящике",
+        "папка архива электронной почты",
+        "закрытая дверца почтового ящика",
+        "закрытая крышка физического почтового ящика",
+        "закрытый почтовый ящик с опущенным флажком пустой",
+        "опущенный флажок на закрытом ящике",
+        "конверт доставлен в почтовый ящик",
+        "запечатанный конверт в щели",
+        "письмо опущено в почтовый ящик",
+        "рукописное письмо отправленное почтой",
+        "опущенный флажок означает нет исходящей почты",
+        "опущенный флажок на придорожном ящике",
+        "почта доставлена к входной двери",
+        "ежедневная выборка и доставка почты",
+        "почтовый ящик в конце дорожки",
+        "жилой ящик с флажком",
+        "доставленная рассылка по подписке",
+        "email-рассылка в почтовом ящике",
+        "специальное предложение доставленное почтой",
+        "рекламное предложение в ящике",
+        "кластер ящиков на почте",
+        "почтовое отделение сортирует почту",
+        "ящик почтовой службы",
+        "почтальон заполняющий ящик",
+        "почтовый ящик на углу улицы",
+        "красный ящик для исходящей почты",
+        "открытка из места отдыха",
+        "иллюстрированная открытка в ящике",
+        "отправить посылку через почтовый ящик",
+        "отправлять письма и открытки",
+        "марка для отправки письма",
+        "почтовая марка на конверте",
+        "синий ящик USPS для сбора почты",
+        "жилая доставка USPS"
+      ]
+    },
+    "regular": {
+      "en": [
+        "residential mailbox at the end of a driveway",
+        "classic postbox with a raised and lowered flag",
+        "cluster of apartment mailboxes in a lobby",
+        "checking the mailbox for letters and bills",
+        "USPS blue collection box on street corner",
+        "physical mailbox for receiving postal deliveries",
+        "mail slot in a front door",
+        "P.O. box at a local post office",
+        "mailbox stuffed with envelopes and catalogs",
+        "neighborhood mailbox on a wooden post"
+      ],
+      "ru": [
+        "жилой почтовый ящик в конце дорожки",
+        "классический ящик с поднятым и опущенным флажком",
+        "кластер почтовых ящиков квартир в вестибюле",
+        "проверять почтовый ящик на письма и счета",
+        "синий ящик сбора USPS на углу улицы",
+        "физический почтовый ящик для получения почтовых отправлений",
+        "почтовая прорезь в парадной двери",
+        "абонентский ящик на местной почте",
+        "почтовый ящик набитый конвертами и каталогами",
+        "почтовый ящик в посёлке на деревянном столбике"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a mailbox icon for the mail section",
+        "add a postbox symbol to the messages feature",
+        "show a mailbox for the postal tracking screen",
+        "use the mailbox icon for the email archive"
+      ],
+      "ru": [
+        "Мне нужна иконка почтового ящика для раздела почты",
+        "добавить символ ящика в функцию сообщений",
+        "показать почтовый ящик для экрана отслеживания посылок",
+        "использовать иконку почтового ящика для архива email"
+      ]
+    },
+    "typo": {
+      "en": [
+        "mailboc full of letters",
+        "posatl delivery box",
+        "envelop in mailbox",
+        "newlsetter mailbox"
+      ],
+      "ru": [
+        "почтовы ящик",
+        "кноверт в ящике",
+        "почтовй ящик улица",
+        "рассылак ящик"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "open email inbox in an email app",
+        "envelope icon for composing an email",
+        "inbox tray for receiving documents",
+        "outbox tray for sending items",
+        "letter sealed with wax stamp",
+        "telegram message notification"
+      ],
+      "ru": [
+        "открытый входящий ящик в email-приложении",
+        "иконка конверта для написания email",
+        "лоток для входящих документов",
+        "лоток для исходящих документов",
+        "письмо запечатанное сургучной печатью",
+        "уведомление telegram сообщения"
+      ]
+    },
+    "valid": {
+      "en": [
+        "residential mailbox with flag",
+        "postbox for receiving mail",
+        "closed mailbox at driveway"
+      ],
+      "ru": [
+        "жилой почтовый ящик с флажком",
+        "почтовый ящик для получения почты",
+        "закрытый ящик у дорожки"
+      ]
+    },
+    "test": {
+      "en": [
+        "mailbox icon for mail section",
+        "physical postbox with flag",
+        "USPS style mailbox"
+      ],
+      "ru": [
+        "иконка почтового ящика",
+        "физический ящик с флажком",
+        "почтовый ящик в стиле USPS"
+      ]
+    }
+  }
+}

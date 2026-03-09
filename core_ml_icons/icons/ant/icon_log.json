@@ -1,0 +1,148 @@
+{
+  "icon": "ant",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ant",
+        "anthill",
+        "bug",
+        "crawl",
+        "insect"
+      ],
+      "ru": [
+        "муравей",
+        "муравейник",
+        "баг",
+        "ползать",
+        "насекомое"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Spray for ants",
+        "Check for insects in the kitchen",
+        "File a bug report",
+        "Find and fix the bug",
+        "Track down the issue in the code",
+        "Ant trail spotted near the window",
+        "Anthill discovered in the backyard",
+        "Software bug needs urgent fix",
+        "Baby starting to crawl this week",
+        "Insect repellent for the camping trip"
+      ],
+      "ru": [
+        "Распылить средство от муравьёв",
+        "Проверить кухню на наличие насекомых",
+        "Оставить баг-репорт",
+        "Найти и исправить баг",
+        "Найти проблему в коде",
+        "Нашёл колею муравьёв у окна",
+        "Муравейник обнаружен во дворе",
+        "Срочно устранить баг в программе",
+        "Малыш начинает ползать на этой неделе",
+        "Репеллент от насекомых для похода"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Exterminate the ants",
+        "Set ant traps",
+        "Inspect for pests",
+        "Code review for bugs",
+        "Nest of ants in the garden",
+        "There are ants everywhere",
+        "Something is crawling in the kitchen",
+        "I need to fix that annoying bug",
+        "Got to deal with the ant problem",
+        "Fxi the bug"
+      ],
+      "ru": [
+        "Уничтожить муравьёв",
+        "Поставить ловушки от муравьёв",
+        "Осмотреть квартиру на наличие вредителей",
+        "Проверить код на баги",
+        "Муравейник в саду",
+        "Муравьи везде",
+        "Что-то ползает на кухне",
+        "Надо исправить этот надоедливый баг",
+        "Надо разобраться с муравьями",
+        "Испарвить баг"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Calle pest contorl",
+        "Reprot a bug",
+        "Ant infestaton",
+        "Fix software error"
+      ],
+      "ru": [
+        "Вызавть дезинфекторов",
+        "Зарепортить баг",
+        "Нашествние муравьёв",
+        "Исправить ошибку в коде"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Garden maintenance",
+        "Clean the kitchen",
+        "Nature walk",
+        "Spray the plants"
+      ],
+      "ru": [
+        "Обслуживание сада",
+        "Убрать на кухне",
+        "Прогулка на природе",
+        "Опрыскать растения"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Check the crawl space",
+        "ant problem at home",
+        "anthill in the garden",
+        "bug in production",
+        "something crawling in the pantry",
+        "insect infestation"
+      ],
+      "ru": [
+        "Проверить подвал",
+        "проблема с муравьями дома",
+        "муравейник в саду",
+        "баг в продакшене",
+        "что-то ползает в кладовке",
+        "нашествие насекомых"
+      ]
+    },
+    "valid": {
+      "en": [
+        "There's a bug I need to track down",
+        "Check the basement for insects",
+        "Log the issue in the tracker"
+      ],
+      "ru": [
+        "Надо найти баг который мешает работе",
+        "Проверить подвал на наличие насекомых",
+        "Записать проблему в трекер"
+      ]
+    },
+    "test": {
+      "en": [
+        "Something keeps crawling in the pantry",
+        "Trace the bug to its source",
+        "Get rid of the critters"
+      ],
+      "ru": [
+        "Что-то лезет в кладовку",
+        "Найти источник бага",
+        "Избавиться от незваных гостей"
+      ]
+    }
+  }
+}

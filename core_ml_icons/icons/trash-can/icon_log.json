@@ -1,0 +1,148 @@
+{
+  "icon": "trash-can",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "delete",
+        "garbage",
+        "hide",
+        "remove",
+        "trash-o"
+      ],
+      "ru": [
+        "удалить",
+        "мусор",
+        "скрыть",
+        "убрать",
+        "корзина-контур"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "delete trash can bin",
+        "trash can delete button",
+        "garbage trash can outdoor",
+        "garbage can full of waste",
+        "hide in trash can archive",
+        "hide item trash can",
+        "remove trash can permanently",
+        "remove from trash can",
+        "trash-o outline icon delete",
+        "trash can outline style"
+      ],
+      "ru": [
+        "удалить мусорное ведро",
+        "кнопка удаления мусорное ведро",
+        "уличное мусорное ведро",
+        "переполненное мусорное ведро",
+        "скрыть в корзине архив",
+        "скрыть элемент в корзине",
+        "убрать из корзины окончательно",
+        "убрать из мусорного ведра",
+        "контурная иконка корзины удаление",
+        "контурный стиль мусорного ведра"
+      ]
+    },
+    "regular": {
+      "en": [
+        "metal trash can with lid outside",
+        "office trash can under desk",
+        "pedal-operated trash can kitchen",
+        "outdoor public trash can park",
+        "trash can overflowing garbage",
+        "trash can liner plastic bag",
+        "smart trash can auto-open lid",
+        "mini desktop trash can decoration",
+        "recycling bin next to trash can",
+        "trash can with fire hazard warning"
+      ],
+      "ru": [
+        "металлическое мусорное ведро с крышкой снаружи",
+        "офисное ведро под столом",
+        "педальное мусорное ведро кухня",
+        "уличная общественная урна в парке",
+        "переполненное мусорное ведро",
+        "мешок для мусора в ведре",
+        "умное мусорное ведро автооткрытие",
+        "мини-настольное ведро декоративное",
+        "корзина переработки рядом с мусорным ведром",
+        "мусорное ведро предупреждение о пожаре"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a trash-can icon for the delete confirmation",
+        "add a garbage can symbol to the clear all feature",
+        "show a trash can for the remove permanently option",
+        "use the trash-can icon for the bin management"
+      ],
+      "ru": [
+        "нужна иконка мусорного ведра для подтверждения удаления",
+        "добавь символ мусорного ведра к функции очистки всего",
+        "покажи мусорное ведро для опции окончательного удаления",
+        "используй иконку мусорного ведра для управления корзиной"
+      ]
+    },
+    "typo": {
+      "en": [
+        "trashcan garabge bin",
+        "garbge can outdoor",
+        "deletee trash can",
+        "remvoe trash bin"
+      ],
+      "ru": [
+        "мусорное ведро удалить",
+        "уличная урна мусор",
+        "удалить мусорное ведро",
+        "убрать мусорная корзина"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "trash icon without lid simpler",
+        "recycle bin recycling symbol",
+        "bin storage container open",
+        "laundry basket clothes hamper",
+        "bucket open container handle",
+        "archive store box away"
+      ],
+      "ru": [
+        "иконка мусора без крышки проще",
+        "корзина переработки символ",
+        "открытый контейнер для хранения",
+        "бельевая корзина корзина для одежды",
+        "ведро открытый контейнер ручка",
+        "архив хранить коробка"
+      ]
+    },
+    "valid": {
+      "en": [
+        "trash can delete icon",
+        "garbage can symbol",
+        "remove trash can button"
+      ],
+      "ru": [
+        "иконка мусорного ведра удаление",
+        "символ мусорного ведра",
+        "кнопка удаления корзина"
+      ]
+    },
+    "test": {
+      "en": [
+        "trash-can icon",
+        "garbage can symbol",
+        "bin delete icon"
+      ],
+      "ru": [
+        "иконка мусорного ведра",
+        "символ урны мусора",
+        "иконка корзины удаление"
+      ]
+    }
+  }
+}

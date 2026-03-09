@@ -1,0 +1,166 @@
+{
+  "icon": "sushi",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "fish",
+        "nigiri",
+        "nori",
+        "raw",
+        "rice",
+        "salmon",
+        "seafood",
+        "tuna"
+      ],
+      "ru": [
+        "рыба",
+        "нигири",
+        "нори",
+        "сырой",
+        "рис",
+        "лосось",
+        "морепродукты",
+        "тунец"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "fish slice on sushi rice",
+        "fresh fish sashimi style",
+        "nigiri sushi topping selection",
+        "nigiri with salmon on top",
+        "nori seaweed wrap sushi",
+        "nori sheet for rolling",
+        "raw fish sashimi dish",
+        "raw seafood preparation",
+        "sushi rice seasoned vinegar",
+        "sticky rice for sushi",
+        "salmon nigiri bright orange",
+        "fresh salmon on sushi",
+        "seafood platter sushi variety",
+        "seafood fresh at market",
+        "tuna nigiri dark red",
+        "bluefin tuna sushi grade"
+      ],
+      "ru": [
+        "ломтик рыбы на суши-рисе",
+        "свежая рыба в стиле сашими",
+        "нигири суши выбор топпингов",
+        "нигири с лососем сверху",
+        "обёртка из водорослей нори суши",
+        "лист нори для скручивания",
+        "сырая рыба блюдо сашими",
+        "приготовление сырых морепродуктов",
+        "суши-рис приправленный уксусом",
+        "клейкий рис для суши",
+        "нигири с лососем ярко-оранжевый",
+        "свежий лосось на суши",
+        "ассорти морепродуктов суши",
+        "свежие морепродукты на рынке",
+        "нигири с тунцом тёмно-красный",
+        "тунец голубой высший сорт суши"
+      ]
+    },
+    "regular": {
+      "en": [
+        "hand pressed nigiri sushi on rice",
+        "salmon sushi with wasabi ginger",
+        "sushi bar chef preparing nigiri",
+        "premium sushi platter omakase",
+        "tuna and salmon mixed nigiri plate",
+        "soy sauce dipping for nigiri",
+        "sushi grade fish market selection",
+        "sushi restaurant counter display",
+        "golden ratio rice to fish in nigiri",
+        "nori seaweed base for rice"
+      ],
+      "ru": [
+        "нигири суши рис спрессованный вручную",
+        "суши с лососем с васаби и имбирём",
+        "шеф-повар за суши-стойкой готовит нигири",
+        "ассорти суши премиум омакасе",
+        "тарелка нигири с тунцом и лососем",
+        "соевый соус для нигири",
+        "рыба высшего сорта для суши на рынке",
+        "витрина суши-ресторана",
+        "соотношение риса и рыбы в нигири",
+        "основа из водорослей нори для риса"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sushi icon for the Japanese food category",
+        "add a nigiri symbol to the restaurant menu",
+        "show sushi for the raw seafood section",
+        "use the sushi icon for the Japanese cuisine type"
+      ],
+      "ru": [
+        "нужна иконка суши для категории японской еды",
+        "добавь символ нигири в меню ресторана",
+        "покажи суши для раздела сырых морепродуктов",
+        "используй иконку суши для типа японской кухни"
+      ]
+    },
+    "typo": {
+      "en": [
+        "suhsi nigiri salmon",
+        "suhi tuna rice",
+        "nori suhsi roll",
+        "seaffood sushi"
+      ],
+      "ru": [
+        "суши нигири лосось",
+        "суши тунец рис",
+        "нори суши ролл",
+        "морепрдукты суши"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "sushi roll maki wrapped in seaweed",
+        "sashimi sliced fish no rice",
+        "ramen noodle soup Japanese",
+        "tempura fried shrimp battered",
+        "gyoza dumpling pan fried",
+        "miso soup bowl Japanese"
+      ],
+      "ru": [
+        "суши-ролл маки завёрнутый в нори",
+        "сашими нарезанная рыба без риса",
+        "рамен лапша суп японский",
+        "темпура жареные креветки в кляре",
+        "гёдза пельмени жареные на сковороде",
+        "суп мисо чашка японский"
+      ]
+    },
+    "valid": {
+      "en": [
+        "nigiri sushi with salmon",
+        "fish on rice sushi icon",
+        "Japanese sushi platter"
+      ],
+      "ru": [
+        "нигири суши с лососем",
+        "рыба на рисе иконка суши",
+        "японская тарелка суши"
+      ]
+    },
+    "test": {
+      "en": [
+        "sushi nigiri icon",
+        "raw fish rice symbol",
+        "sushi restaurant icon"
+      ],
+      "ru": [
+        "иконка суши нигири",
+        "символ сырой рыбы с рисом",
+        "иконка суши-ресторана"
+      ]
+    }
+  }
+}

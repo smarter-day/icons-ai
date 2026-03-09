@@ -1,0 +1,87 @@
+{
+  "icon": "couch",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "chair",
+        "cushion",
+        "furniture",
+        "relax",
+        "sofa"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy a comfortable chair",
+        "Sit in the chair after work",
+        "Replace the old cushions",
+        "Fluff the sofa cushions",
+        "Buy new furniture for the living room",
+        "Rearrange the furniture",
+        "Relax after a long day",
+        "Find time to relax this weekend",
+        "Pick a new sofa for the apartment",
+        "Clean the sofa upholstery"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Watch TV on the couch",
+        "Buy a new sofa for the living room",
+        "Rearrange the living room furniture",
+        "Take a nap on the couch",
+        "Clean the couch cushions",
+        "Order a couch online",
+        "Find a sectional sofa that fits",
+        "Relax on the sofa after work",
+        "Set up the living room",
+        "Get a couch cover to protect it"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Couch time",
+        "Sofa nap",
+        "Relax on the couch",
+        "Lazy day in"
+      ]
+    },
+    "typo": {
+      "en": [
+        "realx on the couch",
+        "buy a new soaf",
+        "clena the cusions",
+        "furnituer for living room"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy an office chair for the desk",
+        "Set up a bed in the guest room",
+        "Get a recliner chair",
+        "Buy a dining table and chairs",
+        "Place a rug in the living room",
+        "Hang curtains in the living room"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Relax on the couch after work",
+        "Buy a new sofa",
+        "Clean the couch cushions"
+      ]
+    },
+    "test": {
+      "en": [
+        "Watch a movie on the couch",
+        "Take a nap on the sofa",
+        "Rearrange the living room furniture"
+      ]
+    }
+  }
+}

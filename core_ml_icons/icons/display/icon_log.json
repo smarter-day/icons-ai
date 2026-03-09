@@ -1,0 +1,84 @@
+{
+  "icon": "display",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Screen",
+        "computer",
+        "desktop",
+        "imac"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Adjust the screen brightness",
+        "Replace the cracked screen",
+        "Connect a computer to the display",
+        "Set up dual computer screens",
+        "Set up a clean desktop workspace",
+        "Organize the desktop",
+        "Buy a new iMac for the studio",
+        "Set up the iMac on the desk"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Adjust the display resolution",
+        "Clean the computer screen",
+        "Connect to an external display",
+        "Mirror the screen to the TV",
+        "Change the wallpaper on the screen",
+        "Set up dual displays for work",
+        "Adjust the screen refresh rate",
+        "Fix the flickering screen",
+        "Buy a widescreen monitor",
+        "Calibrate the display colors"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "New screen day",
+        "Screen setup",
+        "Dual monitors",
+        "Fix the display"
+      ]
+    },
+    "typo": {
+      "en": [
+        "adujst the scren brightness",
+        "by a new monitr",
+        "conect to external displaly",
+        "set up duel screens"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy a new laptop screen",
+        "Fix the phone display",
+        "Set up a projector for the room",
+        "Connect the TV to the PC",
+        "Use a tablet as a second screen",
+        "Fix the broken desktop monitor"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Adjust the display settings",
+        "Clean the computer screen",
+        "Connect to an external display"
+      ]
+    },
+    "test": {
+      "en": [
+        "Set up dual display screens",
+        "Calibrate the display colors",
+        "Fix the flickering screen"
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "icon": "hockey-mask",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "halloween",
+        "ice",
+        "nhl",
+        "protection",
+        "sport"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Wear a hockey mask for Halloween",
+        "Get the Jason hockey mask costume",
+        "Skate on ice at the rink",
+        "Book ice time for practice",
+        "Watch the NHL playoffs",
+        "Follow the NHL season",
+        "Wear protection gear for hockey",
+        "Buy face protection for hockey",
+        "Try an ice sport this winter",
+        "Sign up for a sport league"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Wear a hockey goalie mask",
+        "Buy protective gear for hockey",
+        "Watch the NHL game tonight",
+        "Use a hockey mask as a Halloween costume",
+        "Play goalie in the hockey game",
+        "Order a custom hockey mask",
+        "Practice hockey with proper protection",
+        "Attend an NHL game live",
+        "Buy hockey safety equipment",
+        "Train as a hockey goaltender"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Hockey game!",
+        "Goalie gear",
+        "Halloween mask",
+        "NHL tonight"
+      ]
+    },
+    "typo": {
+      "en": [
+        "ware a hocky mask",
+        "wacth the nhl gamee",
+        "buy protectoin gear",
+        "hocky goalie massk"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Wear a football helmet",
+        "Use a face shield for protection",
+        "Wear a ski helmet on the slopes",
+        "Put on a motorcycle helmet",
+        "Wear a boxing headguard",
+        "Use a Halloween pumpkin mask"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Wear a hockey goalie mask",
+        "Watch the NHL game",
+        "Buy protective gear for hockey"
+      ]
+    },
+    "test": {
+      "en": [
+        "Play goalie with a hockey mask",
+        "Use a hockey mask for Halloween",
+        "Attend an NHL game live"
+      ]
+    }
+  }
+}

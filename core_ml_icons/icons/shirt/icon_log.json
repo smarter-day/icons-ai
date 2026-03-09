@@ -1,0 +1,160 @@
+{
+  "icon": "shirt",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "clothing",
+        "fashion",
+        "garment",
+        "shirt",
+        "short sleeve",
+        "t-shirt",
+        "tshirt"
+      ],
+      "ru": [
+        "одежда",
+        "мода",
+        "предмет одежды",
+        "рубашка",
+        "короткий рукав",
+        "футболка",
+        "футболка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "clothing item hung in wardrobe",
+        "folded clothing on store shelf",
+        "fashion shirt from designer collection",
+        "fashion clothing brand t-shirt",
+        "cotton garment folded in drawer",
+        "garment labeled with size and care",
+        "casual shirt for everyday wear",
+        "button-down shirt for smart casual",
+        "short sleeve shirt for summer",
+        "short sleeve casual top",
+        "t-shirt with logo print on chest",
+        "plain white t-shirt basic wardrobe",
+        "tshirt folded in clothing drawer",
+        "crew neck tshirt in solid color"
+      ],
+      "ru": [
+        "предмет одежды на вешалке в гардеробе",
+        "сложенная одежда на полке магазина",
+        "модная рубашка из дизайнерской коллекции",
+        "брендовая футболка модной одежды",
+        "хлопковая вещь сложена в ящике",
+        "предмет одежды с размером и уходом",
+        "повседневная рубашка для ежедневной носки",
+        "рубашка на пуговицах для smart casual",
+        "рубашка с коротким рукавом на лето",
+        "повседневный топ с коротким рукавом",
+        "футболка с принтом логотипа на груди",
+        "простая белая футболка базовый гардероб",
+        "футболка сложена в ящике одежды",
+        "футболка с круглым вырезом однотонная"
+      ]
+    },
+    "regular": {
+      "en": [
+        "plain white t-shirt hanging on hanger",
+        "graphic tee with print on front",
+        "polo shirt with collar and buttons",
+        "dress shirt with long sleeves and cuffs",
+        "vintage band t-shirt from concert",
+        "sports jersey shirt for team",
+        "linen shirt for beach vacation",
+        "shirt folded and packaged for shipping",
+        "custom embroidered company shirt",
+        "children's school uniform shirt"
+      ],
+      "ru": [
+        "простая белая футболка на вешалке",
+        "принтованная футболка с рисунком спереди",
+        "поло с воротником и пуговицами",
+        "классическая рубашка с длинными рукавами и манжетами",
+        "винтажная концертная футболка",
+        "спортивная игровая майка команды",
+        "льняная рубашка для пляжного отдыха",
+        "рубашка сложена и упакована для отправки",
+        "корпоративная рубашка с вышивкой на заказ",
+        "школьная форменная рубашка"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a shirt icon for the clothing store app",
+        "add a t-shirt symbol to the wardrobe section",
+        "show a shirt for the fashion category",
+        "use the shirt icon for the clothing type selector"
+      ],
+      "ru": [
+        "мне нужна иконка рубашки для приложения магазина одежды",
+        "добавь символ футболки в раздел гардероба",
+        "покажи рубашку для категории моды",
+        "используй иконку рубашки для выбора типа одежды"
+      ]
+    },
+    "typo": {
+      "en": [
+        "plain white t-shrit hanging on hanger",
+        "graphci tee with print on front",
+        "polo shrit with collar and buttons",
+        "vinatge band t-shirt from concert"
+      ],
+      "ru": [
+        "простая белая фукболка на вешалке",
+        "принтованная фулболка с рисунком",
+        "поол с воротником и пуговицами",
+        "винтажная кончертная футболка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "trousers pants folded on shelf",
+        "jacket coat hanging on hook",
+        "dress on hanger in boutique window",
+        "sweater pullover knit garment",
+        "hoodie sweatshirt with front pocket",
+        "vest sleeveless garment over shirt"
+      ],
+      "ru": [
+        "брюки сложены на полке",
+        "пиджак-пальто на крючке",
+        "платье на вешалке в витрине бутика",
+        "свитер вязаный предмет одежды",
+        "худи кофта с капюшоном и карманом",
+        "жилет без рукавов поверх рубашки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "plain t-shirt hanging on hanger",
+        "short sleeve shirt for summer",
+        "shirt icon for clothing app"
+      ],
+      "ru": [
+        "простая футболка на вешалке",
+        "рубашка с коротким рукавом на лето",
+        "иконка рубашки для приложения одежды"
+      ]
+    },
+    "test": {
+      "en": [
+        "white t-shirt basic wardrobe item",
+        "graphic tee with print",
+        "shirt for fashion category"
+      ],
+      "ru": [
+        "белая футболка базовый гардероб",
+        "принтованная футболка с рисунком",
+        "рубашка для категории моды"
+      ]
+    }
+  }
+}

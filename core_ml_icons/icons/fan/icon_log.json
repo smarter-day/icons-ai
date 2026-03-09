@@ -1,0 +1,90 @@
+{
+  "icon": "fan",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ac",
+        "air conditioning",
+        "blade",
+        "blower",
+        "cool",
+        "hot"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Turn on the AC to cool down",
+        "Set the AC temperature",
+        "Turn on the air conditioning",
+        "Service the air conditioning unit",
+        "Clean the fan blade",
+        "Replace a broken blade",
+        "Use the blower to cool the room",
+        "Set the blower speed",
+        "Cool the room down with the fan",
+        "Cool off in the hot weather",
+        "Stay cool when it's hot outside",
+        "Cool down on a hot day"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Turn on the ceiling fan",
+        "Set the fan to high speed",
+        "Buy a portable fan for summer",
+        "Cool the bedroom with a fan",
+        "Clean the fan blades",
+        "Fix the noisy fan",
+        "Turn on the AC for the heat wave",
+        "Use a desk fan while working",
+        "Set up the fan in the living room",
+        "Replace the old fan"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Turn on the fan",
+        "So hot today",
+        "Cool the room",
+        "AC on"
+      ]
+    },
+    "typo": {
+      "en": [
+        "trun on the ceeling fan",
+        "set the ac tempratrue",
+        "clen the fan blaeds",
+        "buy a portble fan"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Turn on the heater in winter",
+        "Open the window for fresh air",
+        "Use the air purifier",
+        "Set up the humidifier",
+        "Install a ventilation system",
+        "Run the exhaust fan in the bathroom"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Turn on the ceiling fan",
+        "Cool the room with the fan",
+        "Set the AC temperature"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy a portable fan for summer",
+        "Clean the fan blades",
+        "Fix the noisy fan"
+      ]
+    }
+  }
+}

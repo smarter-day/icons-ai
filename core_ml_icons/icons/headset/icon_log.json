@@ -1,0 +1,90 @@
+{
+  "icon": "headset",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "audio",
+        "gaming",
+        "listen",
+        "microphone",
+        "sound",
+        "support"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Plug in audio for the call",
+        "Buy good audio equipment",
+        "Use the headset for gaming",
+        "Play games with the headset on",
+        "Listen to music with the headset",
+        "Listen to the meeting recording",
+        "Use the microphone for the call",
+        "Mute the microphone",
+        "Hear the sound clearly",
+        "Adjust the sound volume",
+        "Contact customer support",
+        "Work in customer support"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Use the headset for a video call",
+        "Buy a gaming headset",
+        "Connect the headset to the computer",
+        "Use headset for the customer support shift",
+        "Listen to music while working",
+        "Join the online meeting with headset",
+        "Adjust the headset microphone",
+        "Use a noise-canceling headset",
+        "Set up the headset for the podcast",
+        "Charge the wireless headset"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Headset on",
+        "Join the call",
+        "Gaming time",
+        "Support shift"
+      ]
+    },
+    "typo": {
+      "en": [
+        "use the headste for call",
+        "buy a gamign headset",
+        "lsiten with headphones",
+        "connet headset to pc"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Listen with earbuds",
+        "Use speakers for the meeting",
+        "Use a standalone microphone",
+        "Wear noise-canceling headphones",
+        "Use a Bluetooth earpiece",
+        "Connect to a speakerphone"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Use the headset for a video call",
+        "Buy a gaming headset",
+        "Use headset for customer support"
+      ]
+    },
+    "test": {
+      "en": [
+        "Connect the headset to the computer",
+        "Adjust the headset microphone",
+        "Use a noise-canceling headset"
+      ]
+    }
+  }
+}

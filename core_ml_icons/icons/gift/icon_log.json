@@ -1,0 +1,108 @@
+{
+  "icon": "gift",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "box",
+        "celebration",
+        "christmas",
+        "generosity",
+        "gift",
+        "giving",
+        "holiday",
+        "party",
+        "present",
+        "wrapped",
+        "wrapped gift",
+        "xmas"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "gift box with a bow on top",
+        "surprise inside the gift box",
+        "gift for the celebration event",
+        "gift at the birthday celebration",
+        "christmas gift under the tree",
+        "christmas gift wrapped in red paper",
+        "act of generosity as a gift",
+        "generosity shown through giving a gift",
+        "wrapped gift for the birthday",
+        "gift given to a close friend",
+        "giving a gift to loved ones",
+        "giving gifts at the holiday season",
+        "holiday gift exchange party",
+        "gift for the holiday season",
+        "party gift for the guest",
+        "birthday party gift bag",
+        "present wrapped in colorful paper",
+        "surprise present for the event",
+        "wrapped gift with colorful ribbon",
+        "beautifully wrapped gift box",
+        "wrapped gift ready for the party",
+        "wrapped gift under the christmas tree",
+        "xmas gift for the family",
+        "xmas gift wrapped in festive paper"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wrapped gift box with a colorful ribbon and bow",
+        "birthday gift bag with tissue paper",
+        "christmas present under the tree",
+        "gift exchange at the office holiday party",
+        "surprise gift wrapped for the occasion",
+        "gift tag attached to the wrapped box",
+        "festive gift basket for the holiday",
+        "unwrapping a birthday gift with excitement",
+        "gift emoji on the celebration message",
+        "generous gift given to a close friend"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a gift icon for the birthday feature",
+        "add a present symbol to the holiday section",
+        "show a gift for the reward animation",
+        "use the gift icon for the giving feature"
+      ]
+    },
+    "typo": {
+      "en": [
+        "birthdya gift wrapped",
+        "chrsitmas present under tree",
+        "holidy gift exchange",
+        "wraped gift box"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "birthday cake with candles on top",
+        "shopping bag with handles from the store",
+        "prize ribbon badge for first place",
+        "envelope with a surprise letter inside",
+        "balloon tied to a gift bag",
+        "treasure chest filled with rewards"
+      ]
+    },
+    "valid": {
+      "en": [
+        "wrapped gift box with ribbon",
+        "christmas present under the tree",
+        "birthday gift for a friend"
+      ]
+    },
+    "test": {
+      "en": [
+        "gift icon",
+        "wrapped present symbol",
+        "gift for holiday"
+      ]
+    }
+  }
+}

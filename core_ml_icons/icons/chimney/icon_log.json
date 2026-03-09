@@ -1,0 +1,90 @@
+{
+  "icon": "chimney",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "brick",
+        "exhaust",
+        "fireplace",
+        "house",
+        "roof",
+        "vent"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Clean the brick chimney",
+        "Repair cracked bricks on the chimney",
+        "Clear the exhaust pipe",
+        "Fix the exhaust blockage",
+        "Light the fireplace tonight",
+        "Clean the fireplace ash",
+        "Inspect the chimney on the house",
+        "Paint the house chimney",
+        "Check the chimney on the roof",
+        "Seal the roof chimney flashing",
+        "Clear the chimney vent",
+        "Inspect the vent cap"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Hire a chimney sweep",
+        "Schedule chimney inspection before winter",
+        "Clean out the accumulated soot",
+        "Get the chimney professionally checked",
+        "Fix the broken chimney cap",
+        "Clear a bird nest from the chimney",
+        "Install a chimney liner",
+        "Reseal the chimney flashing",
+        "Check chimney for cracks",
+        "Have the flue cleaned"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Clean that chimney",
+        "Chimney needs sweeping",
+        "Get the fireplace going",
+        "Chimney's blocked again"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chimey sweep appointment",
+        "fireplce cleaning",
+        "cimney inspection",
+        "exhuast vent blocked"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Fix the roof tiles after the storm",
+        "Paint the exterior house walls",
+        "Repair the attic insulation",
+        "Replace cracked roof shingles",
+        "Install a wood burning stove indoors",
+        "Fix the leaking skylight"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Schedule annual chimney cleaning",
+        "Check if the chimney is blocked",
+        "Book a chimney sweep appointment"
+      ]
+    },
+    "test": {
+      "en": [
+        "Get the chimney swept before winter",
+        "Repair the chimney flue",
+        "Chimney maintenance needed"
+      ]
+    }
+  }
+}

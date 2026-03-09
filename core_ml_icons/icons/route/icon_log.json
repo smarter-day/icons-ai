@@ -1,0 +1,136 @@
+{
+  "icon": "route",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "directions",
+        "navigation",
+        "travel"
+      ],
+      "ru": [
+        "направления",
+        "навигация",
+        "путешествие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "turn-by-turn directions on navigation app",
+        "driving directions to the destination",
+        "navigation route highlighted on map",
+        "navigation path from A to B",
+        "travel route planned for road trip",
+        "travel path between two cities"
+      ],
+      "ru": [
+        "пошаговые направления в навигационном приложении",
+        "указания маршрута до пункта назначения",
+        "маршрут навигации выделен на карте",
+        "навигационный путь от A до B",
+        "маршрут путешествия для автотура",
+        "путь между двумя городами"
+      ]
+    },
+    "regular": {
+      "en": [
+        "GPS route with waypoints between start and end",
+        "optimal route suggested by navigation app",
+        "route with multiple stops along the way",
+        "alternate route avoiding traffic congestion",
+        "hiking route marked on topographic map",
+        "delivery route optimized for multiple addresses",
+        "cycling route avoiding busy main roads",
+        "ferry route across the water between ports",
+        "route recalculating after missed turn",
+        "scenic route option versus fastest route"
+      ],
+      "ru": [
+        "GPS-маршрут с путевыми точками от старта до финиша",
+        "оптимальный маршрут предложен навигационным приложением",
+        "маршрут с несколькими остановками по пути",
+        "альтернативный маршрут в обход пробок",
+        "туристический маршрут на топографической карте",
+        "маршрут доставки оптимизирован для нескольких адресов",
+        "велосипедный маршрут в обход оживлённых дорог",
+        "паромный маршрут через воду между портами",
+        "пересчёт маршрута после пропущенного поворота",
+        "живописный маршрут против самого быстрого"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a route icon for the navigation screen",
+        "add a directions symbol to the map feature",
+        "show a route path for the trip planner",
+        "use the route icon for the directions panel"
+      ],
+      "ru": [
+        "мне нужна иконка маршрута для экрана навигации",
+        "добавь символ направлений для функции карты",
+        "покажи путь маршрута для планировщика поездки",
+        "используй иконку маршрута для панели навигации"
+      ]
+    },
+    "typo": {
+      "en": [
+        "GPS ruote with waypoints on map",
+        "navigaiton route highlighted on map",
+        "tavel route planned for road trip",
+        "altenrate route avoiding traffic"
+      ],
+      "ru": [
+        "GPS-маршурт с точками на карте",
+        "маршрут навигацки выделен на карте",
+        "маршурт путешествия для автотура",
+        "альтерантивный маршрут в обход пробок"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "road icon showing straight highway path",
+        "map with location pins dropped on landmarks",
+        "compass rose showing cardinal directions",
+        "GPS location dot on street map",
+        "waypoint flag marker on hiking trail",
+        "turn-by-turn voice guidance in car"
+      ],
+      "ru": [
+        "иконка дороги с прямым шоссе",
+        "карта с булавками на достопримечательностях",
+        "роза ветров с основными направлениями",
+        "точка GPS-местоположения на карте улиц",
+        "флажок контрольной точки на туристической тропе",
+        "голосовые пошаговые указания в автомобиле"
+      ]
+    },
+    "valid": {
+      "en": [
+        "GPS route with waypoints from A to B",
+        "navigation route highlighted on map",
+        "directions path for travel planning"
+      ],
+      "ru": [
+        "GPS-маршрут с точками от A до B",
+        "маршрут навигации выделен на карте",
+        "путь направлений для планирования поездки"
+      ]
+    },
+    "test": {
+      "en": [
+        "route icon for navigation app",
+        "optimal route from start to destination",
+        "travel route with multiple stops"
+      ],
+      "ru": [
+        "иконка маршрута для навигационного приложения",
+        "оптимальный маршрут от старта до финиша",
+        "маршрут путешествия с несколькими остановками"
+      ]
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "icon": "magnifying-glass",
+  "rows": {
+    "train_en": 66,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bigger",
+        "enlarge",
+        "equipment",
+        "find",
+        "glass",
+        "inspection",
+        "magnifier",
+        "magnify",
+        "magnifying",
+        "magnifying glass tilted left",
+        "preview",
+        "search",
+        "tool",
+        "zoom"
+      ],
+      "ru": [
+        "больше",
+        "увеличить",
+        "оборудование",
+        "найти",
+        "стекло",
+        "инспекция",
+        "лупа",
+        "увеличивать",
+        "увеличивающий",
+        "лупа наклонённая влево",
+        "предпросмотр",
+        "поиск",
+        "инструмент",
+        "зум"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bigger text for easier reading",
+        "bigger view of the document",
+        "enlarge the image for detail",
+        "enlarge text on screen",
+        "optical equipment for examination",
+        "inspection equipment for quality control",
+        "find a file in the system",
+        "find text within a document",
+        "glass lens for zooming in",
+        "glass loop for close examination",
+        "inspection of fine details",
+        "quality inspection tool",
+        "magnifier for reading small text",
+        "magnifier app on phone",
+        "magnify the image details",
+        "magnify a section of the map",
+        "magnifying lens for microscope",
+        "magnifying view for accessibility",
+        "magnifying glass tilted left search",
+        "magnifying glass tilted for UI search bar",
+        "preview content before opening",
+        "quick preview of a file",
+        "search the database for results",
+        "search bar in an app",
+        "tool for zooming into content",
+        "handheld magnifying tool",
+        "zoom into the photo details",
+        "zoom level adjustment"
+      ],
+      "ru": [
+        "текст крупнее для более удобного чтения",
+        "более крупный вид документа",
+        "увеличить изображение для детального просмотра",
+        "увеличить текст на экране",
+        "оптическое оборудование для осмотра",
+        "оборудование для контроля качества",
+        "найти файл в системе",
+        "найти текст в документе",
+        "стеклянная линза для приближения",
+        "стеклянная лупа для внимательного осмотра",
+        "инспекция мелких деталей",
+        "инструмент контроля качества",
+        "лупа для чтения мелкого текста",
+        "приложение лупа на телефоне",
+        "увеличить детали изображения",
+        "увеличить участок карты",
+        "увеличивающая линза для доступности",
+        "увеличивающий вид для удобства",
+        "лупа наклонённая влево для поиска",
+        "лупа наклонённая для строки поиска",
+        "предпросмотр содержимого перед открытием",
+        "быстрый предпросмотр файла",
+        "поиск в базе данных",
+        "строка поиска в приложении",
+        "инструмент для приближения контента",
+        "ручной инструмент лупа",
+        "приблизить детали фото",
+        "регулировка уровня зума"
+      ]
+    },
+    "regular": {
+      "en": [
+        "circular lens with handle for examining objects",
+        "search icon commonly used in app toolbars",
+        "zoom in button for map or photo",
+        "detective holding magnifying glass",
+        "forensic investigator using magnifier",
+        "jeweler's loupe for gemstone inspection",
+        "accessibility feature to enlarge screen content",
+        "find and replace function in text editor",
+        "quality control inspection with magnifier",
+        "SEO or analytics search research tool"
+      ],
+      "ru": [
+        "круглая линза с ручкой для осмотра предметов",
+        "иконка поиска часто используемая в панелях приложений",
+        "кнопка приближения для карты или фото",
+        "детектив держащий лупу",
+        "судебный следователь использующий лупу",
+        "ювелирная лупа для осмотра драгоценных камней",
+        "функция доступности для увеличения содержимого экрана",
+        "функция найти и заменить в текстовом редакторе",
+        "контроль качества с лупой",
+        "инструмент поиска для SEO или аналитики"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a magnifying glass icon for the search bar",
+        "add a zoom icon to the image viewer",
+        "show a magnifier for the find feature",
+        "use the magnifying glass for the inspection module"
+      ],
+      "ru": [
+        "Мне нужна иконка лупы для строки поиска",
+        "добавить иконку зума в просмотрщик изображений",
+        "показать лупу для функции поиска",
+        "использовать иконку лупы для модуля инспекции"
+      ]
+    },
+    "typo": {
+      "en": [
+        "magnifyin glass",
+        "serach icon",
+        "zomm in button",
+        "magnfier tool"
+      ],
+      "ru": [
+        "лупа для поикса",
+        "зум кнопак",
+        "увелечить изображение",
+        "лупа инструемнт"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "binoculars for long-distance viewing",
+        "microscope for laboratory examination",
+        "telescope for stargazing",
+        "eyeglasses for correcting vision",
+        "camera lens with zoom ring",
+        "spotlight shining on a stage"
+      ],
+      "ru": [
+        "бинокль для наблюдения на расстоянии",
+        "микроскоп для лабораторного осмотра",
+        "телескоп для наблюдения за звёздами",
+        "очки для коррекции зрения",
+        "объектив камеры с кольцом зума",
+        "прожектор светящий на сцену"
+      ]
+    },
+    "valid": {
+      "en": [
+        "magnifying glass for search",
+        "zoom in with magnifier",
+        "search icon with lens"
+      ],
+      "ru": [
+        "лупа для поиска",
+        "приблизить с помощью лупы",
+        "иконка поиска с линзой"
+      ]
+    },
+    "test": {
+      "en": [
+        "magnifying glass search icon",
+        "enlarge view with zoom tool",
+        "find feature magnifier"
+      ],
+      "ru": [
+        "иконка поиска лупа",
+        "увеличить вид с инструментом зума",
+        "лупа для функции поиска"
+      ]
+    }
+  }
+}

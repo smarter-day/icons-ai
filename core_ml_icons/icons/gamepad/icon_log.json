@@ -1,0 +1,90 @@
+{
+  "icon": "gamepad",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "arcade",
+        "controller",
+        "d-pad",
+        "joystick",
+        "video",
+        "video game"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Visit the arcade",
+        "Play at the arcade with coins",
+        "Buy a new game controller",
+        "Pair the controller to the console",
+        "Use the d-pad for movement",
+        "Press the d-pad to navigate",
+        "Use the joystick to aim",
+        "Calibrate the joystick",
+        "Stream video game footage",
+        "Record a video game session",
+        "Play the video game all night",
+        "Buy a new video game"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Play video games after work",
+        "Buy a new game controller",
+        "Set up the gaming console",
+        "Play multiplayer with friends online",
+        "Download a new video game",
+        "Charge the controller battery",
+        "Stream gameplay on Twitch",
+        "Beat the final boss in the game",
+        "Try the new game release",
+        "Play a co-op game with family"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Game on!",
+        "Play a video game",
+        "Controller charged",
+        "Gaming session"
+      ]
+    },
+    "typo": {
+      "en": [
+        "play viedo games",
+        "buy a new controler",
+        "set up the gamign console",
+        "dowload a new gaem"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Play a board game instead",
+        "Use the keyboard for PC gaming",
+        "Play a card game with friends",
+        "Use the mouse for a PC game",
+        "Play a mobile game on the phone",
+        "Use a joystick for flight simulation"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Play video games after work",
+        "Buy a new game controller",
+        "Set up the gaming console"
+      ]
+    },
+    "test": {
+      "en": [
+        "Download a new video game",
+        "Play multiplayer with friends",
+        "Beat the final boss"
+      ]
+    }
+  }
+}

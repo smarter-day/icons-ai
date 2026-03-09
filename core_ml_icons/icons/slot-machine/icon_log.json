@@ -1,0 +1,160 @@
+{
+  "icon": "slot-machine",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "gamble",
+        "gambling",
+        "game",
+        "lucky",
+        "slot",
+        "slot machine",
+        "vegas"
+      ],
+      "ru": [
+        "азартная игра",
+        "азарт",
+        "игра",
+        "удача",
+        "слот",
+        "слот-машина",
+        "Вегас"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "gamble at slot machine in casino",
+        "gamble coins in slot machine",
+        "gambling addiction symbolized by slot machine",
+        "gambling entertainment at casino floor",
+        "game of chance on slot machine",
+        "fun game in casino arcade",
+        "lucky spin on slot machine wheels",
+        "feel lucky hitting jackpot on slot",
+        "slot machine lever pulled for spin",
+        "slot symbol spinning reels",
+        "slot machine flashing lights jackpot",
+        "classic fruit slot machine",
+        "vegas casino wall of slot machines",
+        "Las Vegas slot machine floor"
+      ],
+      "ru": [
+        "азартная игра на слот-машине в казино",
+        "бросать монеты в слот-машину",
+        "игровая зависимость как символ слот-машины",
+        "азартные развлечения на казино",
+        "игра случая на слот-машине",
+        "весёлая игра в казино-аркаде",
+        "счастливое вращение барабанов слот-машины",
+        "чувствовать удачу выиграть джекпот",
+        "тянуть рычаг слот-машины для вращения",
+        "символ слота вращающиеся барабаны",
+        "мигающие огни джекпота слот-машины",
+        "классическая слот-машина с фруктами",
+        "стена слот-машин казино Вегаса",
+        "зал слот-машин Лас-Вегаса"
+      ]
+    },
+    "regular": {
+      "en": [
+        "classic one-armed bandit slot machine",
+        "slot machine spinning three reels",
+        "jackpot lights flashing on slot machine",
+        "fruit symbols on slot machine reels",
+        "casino floor lined with slot machines",
+        "slot machine lever pulled down",
+        "digital video slot machine screen",
+        "lucky sevens landing on all three reels",
+        "mobile slot machine game app",
+        "slot machine icon for gaming or luck"
+      ],
+      "ru": [
+        "классический однорукий бандит",
+        "слот-машина вращает три барабана",
+        "мигающие огни джекпота",
+        "символы фруктов на барабанах",
+        "зал казино со слот-машинами",
+        "рычаг слот-машины нажат вниз",
+        "экран цифровой видео слот-машины",
+        "счастливые семёрки на всех трёх барабанах",
+        "мобильное приложение слот-машины",
+        "иконка слот-машины для игр или удачи"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a slot machine icon for the casino game app",
+        "add a slot symbol to the gambling section",
+        "show a slot machine for the luck or game feature",
+        "use the slot-machine icon for the Vegas theme"
+      ],
+      "ru": [
+        "мне нужна иконка слот-машины для приложения казино",
+        "добавь символ слота в раздел азартных игр",
+        "покажи слот-машину для функции удачи или игры",
+        "используй иконку слот-машины для темы Вегаса"
+      ]
+    },
+    "typo": {
+      "en": [
+        "clasic one-armed bandit slot machin",
+        "jackpot ligths flashing on slot",
+        "frutis symbols on slot machine reels",
+        "luckey sevens landing on all three"
+      ],
+      "ru": [
+        "классческий однорукий бандит",
+        "мигающие огин джекпота",
+        "символы фрукотв на барабанах",
+        "счастливые сеёмрки на барабанах"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "poker card hand on green felt table",
+        "roulette wheel spinning in casino",
+        "dice showing random numbers thrown",
+        "lottery ticket scratch card",
+        "jackpot coins pouring from machine",
+        "casino chips stack on gaming table"
+      ],
+      "ru": [
+        "покерная рука на зелёном сукне",
+        "колесо рулетки вращается в казино",
+        "кубики показывают случайные числа",
+        "лотерейный стирающийся билет",
+        "монеты джекпота высыпаются из машины",
+        "стопка фишек казино на игровом столе"
+      ]
+    },
+    "valid": {
+      "en": [
+        "slot machine with spinning reels",
+        "casino slot machine jackpot lights",
+        "lucky slot machine icon for game"
+      ],
+      "ru": [
+        "слот-машина с вращающимися барабанами",
+        "огни джекпота казино",
+        "иконка счастливой слот-машины"
+      ]
+    },
+    "test": {
+      "en": [
+        "one-armed bandit slot machine",
+        "fruit symbols on slot reels",
+        "Vegas casino slot game icon"
+      ],
+      "ru": [
+        "однорукий бандит слот-машина",
+        "символы фруктов на барабанах",
+        "иконка игры казино Вегаса"
+      ]
+    }
+  }
+}

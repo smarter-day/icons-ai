@@ -1,0 +1,190 @@
+{
+  "icon": "satellite-dish",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "SETI",
+        "antenna",
+        "communications",
+        "dish",
+        "hardware",
+        "radar",
+        "receiver",
+        "satellite",
+        "satellite antenna",
+        "saucer",
+        "signal",
+        "space"
+      ],
+      "ru": [
+        "SETI",
+        "антенна",
+        "связь",
+        "тарелка",
+        "оборудование",
+        "радар",
+        "приёмник",
+        "спутник",
+        "спутниковая антенна",
+        "блюдце",
+        "сигнал",
+        "космос"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "SETI dish listening for alien signals",
+        "SETI array of large radio dishes",
+        "dish antenna pointing at satellite",
+        "large parabolic antenna dish",
+        "communications dish relay station",
+        "satellite communications dish on rooftop",
+        "parabolic dish receiver for TV signal",
+        "dish pointing at sky for reception",
+        "hardware dish assembly for broadcast",
+        "satellite dish hardware installation",
+        "radar dish rotating at airport",
+        "radar dish scanning for aircraft",
+        "TV signal receiver dish on roof",
+        "receiver dish aligned to satellite",
+        "satellite dish on house exterior",
+        "satellite dish for TV subscription",
+        "satellite antenna farm in desert",
+        "satellite antenna pointed at sky",
+        "flying saucer shaped satellite dish",
+        "saucer-like dish pointing at stars",
+        "signal received by parabolic dish",
+        "strong signal from satellite dish",
+        "space communications dish array",
+        "deep space network dish for exploration"
+      ],
+      "ru": [
+        "тарелка SETI слушает сигналы пришельцев",
+        "массив больших радиотелескопов SETI",
+        "антенна тарелки направлена на спутник",
+        "большая параболическая антенна",
+        "ретрансляционная станция спутниковой связи",
+        "тарелка спутниковой связи на крыше",
+        "параболическая тарелка для приёма ТВ-сигнала",
+        "тарелка смотрит в небо для приёма",
+        "сборка тарелки для вещания",
+        "установка спутниковой тарелки",
+        "вращающийся радар в аэропорту",
+        "радарная тарелка сканирует воздушные суда",
+        "тарелка-приёмник ТВ-сигнала на крыше",
+        "тарелка-приёмник направлена на спутник",
+        "спутниковая тарелка на доме снаружи",
+        "спутниковая тарелка для подписки на ТВ",
+        "поле спутниковых антенн в пустыне",
+        "спутниковая антенна направлена в небо",
+        "спутниковая тарелка в форме летающей тарелки",
+        "тарелка смотрит на звёзды",
+        "сигнал принят параболической тарелкой",
+        "сильный сигнал от спутниковой тарелки",
+        "массив тарелок для космической связи",
+        "тарелка сети дальнего космоса"
+      ]
+    },
+    "regular": {
+      "en": [
+        "parabolic satellite dish on rooftop",
+        "large radio telescope dish at observatory",
+        "backyard satellite dish for TV reception",
+        "rotating radar dish at weather station",
+        "SETI array of dish antennas in field",
+        "dish antenna receiving GPS satellite signal",
+        "satellite dish installation on apartment building",
+        "dish network signal loss in heavy rain",
+        "military radar dish scanning horizon",
+        "deep space network giant dish in desert"
+      ],
+      "ru": [
+        "параболическая спутниковая тарелка на крыше",
+        "большой радиотелескоп в обсерватории",
+        "тарелка для приёма ТВ во дворе",
+        "вращающийся радар на метеостанции",
+        "массив антенн SETI на поле",
+        "антенна тарелки принимает GPS-сигнал",
+        "установка спутниковой тарелки на жилом доме",
+        "потеря сигнала тарелки в сильный дождь",
+        "военная радарная тарелка сканирует горизонт",
+        "гигантская тарелка сети дальнего космоса в пустыне"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a satellite dish icon for the TV or signal app",
+        "add a dish antenna symbol to the communications section",
+        "show a satellite dish for the signal strength feature",
+        "use the dish icon for the broadcast or reception screen"
+      ],
+      "ru": [
+        "мне нужна иконка спутниковой тарелки для ТВ или приложения связи",
+        "добавь символ антенны в раздел коммуникаций",
+        "покажи спутниковую тарелку для функции силы сигнала",
+        "используй иконку тарелки для экрана вещания или приёма"
+      ]
+    },
+    "typo": {
+      "en": [
+        "parabolc satellite dish on rooftop",
+        "large radio telescoep dish",
+        "backyrad satellite dish for TV",
+        "rotatng radar dish at weather station"
+      ],
+      "ru": [
+        "параболическая спутниковая тарлека на крыше",
+        "большой радиотелсекоп",
+        "тарелка для приёма ТВ на улице",
+        "вращающийся радра на метеостанции"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "satellite orbiting Earth with solar panels",
+        "radio tower broadcasting signal in city",
+        "wifi router with antenna for home network",
+        "telescope pointing at stars in observatory",
+        "radar screen showing blips on circular display",
+        "rooftop antenna for over-the-air TV signal"
+      ],
+      "ru": [
+        "спутник на орбите с солнечными панелями",
+        "радиовышка транслирует сигнал в городе",
+        "Wi-Fi роутер с антенной для домашней сети",
+        "телескоп смотрит на звёзды в обсерватории",
+        "экран радара с метками на круговом дисплее",
+        "антенна на крыше для эфирного телевидения"
+      ]
+    },
+    "valid": {
+      "en": [
+        "parabolic satellite dish on rooftop",
+        "radio telescope dish at observatory",
+        "satellite dish receiving TV signal"
+      ],
+      "ru": [
+        "параболическая спутниковая тарелка на крыше",
+        "радиотелескоп в обсерватории",
+        "спутниковая тарелка принимает ТВ-сигнал"
+      ]
+    },
+    "test": {
+      "en": [
+        "satellite dish pointing at sky",
+        "rotating radar dish at airport",
+        "SETI dish listening for alien signals"
+      ],
+      "ru": [
+        "спутниковая тарелка смотрит в небо",
+        "вращающийся радар в аэропорту",
+        "тарелка SETI ищет сигналы пришельцев"
+      ]
+    }
+  }
+}

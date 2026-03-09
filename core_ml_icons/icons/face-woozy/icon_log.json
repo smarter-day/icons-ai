@@ -1,0 +1,87 @@
+{
+  "icon": "face-woozy",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "dizzy",
+        "drunk",
+        "exhaustion",
+        "intoxicated",
+        "tipsy"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Feel dizzy after spinning around",
+        "Dizzy from the heat",
+        "Avoid drinking until drunk",
+        "Feel drunk after one too many",
+        "Overcome exhaustion from overworking",
+        "Deal with exhaustion after the trip",
+        "Feel intoxicated after drinking",
+        "Stay safe when intoxicated",
+        "Feel tipsy after a glass of wine",
+        "Know when you're tipsy"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Feel dizzy after standing up too fast",
+        "Rest when feeling woozy",
+        "Drink water when feeling dizzy",
+        "Avoid alcohol to stay sober",
+        "Rest after feeling exhausted",
+        "Recover from a dizzy spell",
+        "Feel lightheaded after exercise",
+        "Take a break when feeling unwell",
+        "Sit down when feeling woozy",
+        "Tell someone if you feel dizzy"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Feeling woozy",
+        "Too much to drink",
+        "Spinning head",
+        "Need to sit down"
+      ]
+    },
+    "typo": {
+      "en": [
+        "feeling dizzy and woozy",
+        "too muhc to drink",
+        "feel intocixated",
+        "drnik water if dizzy"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Feel nervous before a speech",
+        "Feel tired and need a nap",
+        "Laugh until you cry",
+        "Feel relieved after hard work",
+        "Feel frustrated at the situation",
+        "Feel sleepy after a big meal"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Feel dizzy and need to sit down",
+        "Rest when feeling woozy",
+        "Drink water when lightheaded"
+      ]
+    },
+    "test": {
+      "en": [
+        "Recover from a dizzy spell",
+        "Feel unwell after overdrinking",
+        "Take a break when feeling woozy"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "icon": "watch-apple",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "apps",
+        "digital",
+        "fitness",
+        "smartwatch"
+      ],
+      "ru": [
+        "приложения",
+        "цифровой",
+        "фитнес",
+        "смарт-часы"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Apple Watch apps installed",
+        "Apple Watch app selection",
+        "digital Apple Watch display",
+        "digital watch face Apple",
+        "fitness Apple Watch workout",
+        "Apple Watch fitness tracking",
+        "smartwatch Apple Watch wrist",
+        "Apple Watch smartwatch features"
+      ],
+      "ru": [
+        "Apple Watch приложения установленные",
+        "выбор приложений Apple Watch",
+        "цифровой дисплей Apple Watch",
+        "цифровой циферблат Apple",
+        "Apple Watch фитнес тренировка",
+        "Apple Watch отслеживание фитнеса",
+        "смарт-часы Apple Watch запястье",
+        "функции смарт-часов Apple Watch"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Apple Watch on wrist fitness",
+        "Apple Watch digital crown rotate",
+        "Apple Watch health ECG reading",
+        "Apple Watch notification tap",
+        "Apple Watch face complications",
+        "Apple Watch charging magnetic",
+        "Apple Watch app grid view",
+        "Apple Watch fall detection",
+        "Apple Watch sleep tracking",
+        "Apple Watch waterproof swimming"
+      ],
+      "ru": [
+        "Apple Watch на запястье фитнес",
+        "цифровая корона Apple Watch вращение",
+        "ЭКГ здоровье Apple Watch показания",
+        "уведомление Apple Watch касание",
+        "осложнения циферблата Apple Watch",
+        "зарядка Apple Watch магнитная",
+        "сетка приложений Apple Watch",
+        "обнаружение падения Apple Watch",
+        "отслеживание сна Apple Watch",
+        "водонепроницаемое Apple Watch плавание"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an Apple Watch icon for the smartwatch section",
+        "add a smartwatch symbol to the fitness feature",
+        "show an Apple Watch for the wearables category",
+        "use the watch-apple icon for the health tracking"
+      ],
+      "ru": [
+        "нужна иконка Apple Watch для раздела смарт-часов",
+        "добавь символ смарт-часов к фитнес-функции",
+        "покажи Apple Watch для категории носимых устройств",
+        "используй иконку Apple Watch для отслеживания здоровья"
+      ]
+    },
+    "typo": {
+      "en": [
+        "aple watch smartwatch",
+        "appel watch fitness",
+        "smratwatch apple apps",
+        "digtal apple watch"
+      ],
+      "ru": [
+        "Apple Watch смарт-часы",
+        "фитнес Apple Watch",
+        "смарт-часы Apple приложения",
+        "цифровые Apple Watch"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "watch fitness non-Apple",
+        "watch smart non-Apple",
+        "smartphone phone Apple",
+        "iPad tablet Apple",
+        "AirPods earbuds wireless",
+        "digital watch traditional LCD"
+      ],
+      "ru": [
+        "фитнес-часы не Apple",
+        "смарт-часы не Apple",
+        "смартфон телефон Apple",
+        "iPad планшет Apple",
+        "AirPods наушники беспроводные",
+        "цифровые часы традиционный ЖК"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Apple Watch smartwatch icon",
+        "fitness watch Apple symbol",
+        "digital Apple Watch"
+      ],
+      "ru": [
+        "иконка Apple Watch смарт-часы",
+        "символ Apple Watch фитнес",
+        "цифровые Apple Watch"
+      ]
+    },
+    "test": {
+      "en": [
+        "watch-apple icon",
+        "Apple Watch symbol",
+        "smartwatch Apple"
+      ],
+      "ru": [
+        "иконка Apple Watch",
+        "символ Apple Watch",
+        "смарт-часы Apple"
+      ]
+    }
+  }
+}

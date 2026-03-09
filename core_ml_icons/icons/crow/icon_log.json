@@ -1,0 +1,84 @@
+{
+  "icon": "crow",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bird",
+        "fauna",
+        "halloween",
+        "holiday"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Watch a bird perch on the fence",
+        "Spot a bird in the yard",
+        "Learn about local fauna",
+        "Observe fauna in the park",
+        "Decorate for halloween",
+        "Buy halloween decorations",
+        "Plan for the holiday",
+        "Celebrate the holiday with family"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Spot a crow on the rooftop",
+        "Listen to crows cawing outside",
+        "Decorate the yard for Halloween",
+        "Set up spooky decorations",
+        "Photograph the crow in the park",
+        "Watch birds from the window",
+        "See crows gathering in the trees",
+        "Put out a scarecrow in the garden",
+        "Watch the crows fly at sunset",
+        "Learn about crow behavior"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Halloween vibes",
+        "Spooky bird",
+        "Crows everywhere",
+        "Creepy crow"
+      ]
+    },
+    "typo": {
+      "en": [
+        "haloween decorations",
+        "spot a crwo in the yard",
+        "spooky halowwen bird",
+        "crows on the rooftpo"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Feed pigeons in the park",
+        "Watch a dove flying",
+        "Spot an eagle in the sky",
+        "Hear an owl hoot at night",
+        "Watch seagulls at the beach",
+        "Observe a parrot in the tree"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Spot a crow in the park",
+        "Decorate for Halloween",
+        "Listen to crows cawing"
+      ]
+    },
+    "test": {
+      "en": [
+        "Watch crows gather in the yard",
+        "Set up Halloween decorations",
+        "Photograph the crow at sunset"
+      ]
+    }
+  }
+}

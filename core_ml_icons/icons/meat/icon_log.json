@@ -1,0 +1,166 @@
+{
+  "icon": "meat",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "beef",
+        "bone",
+        "ham",
+        "meat",
+        "meat on bone",
+        "mutton",
+        "pork",
+        "veal"
+      ],
+      "ru": [
+        "говядина",
+        "кость",
+        "ветчина",
+        "мясо",
+        "мясо на кости",
+        "баранина",
+        "свинина",
+        "телятина"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "beef steak on the grill",
+        "beef burger patty for cooking",
+        "meat on a bone drumstick",
+        "bone-in meat roast",
+        "ham slice for sandwich",
+        "glazed ham on holiday table",
+        "meat on bone BBQ style",
+        "grilled meat on bone",
+        "classic meat on bone cartoon",
+        "cartoon turkey leg meat",
+        "mutton leg roast",
+        "grilled mutton chops",
+        "pork rib on the grill",
+        "pulled pork from slow cooker",
+        "veal cutlet with herbs",
+        "veal in cream sauce"
+      ],
+      "ru": [
+        "стейк говядины на гриле",
+        "котлета из говядины для приготовления",
+        "мясо на кости куриная ножка",
+        "жаркое на кости",
+        "ломтик ветчины для сэндвича",
+        "глазированная ветчина на праздничном столе",
+        "мясо на кости в стиле BBQ",
+        "мясо на кости на гриле",
+        "классическое мясо на кости в мультяшном стиле",
+        "мультяшная ножка индейки",
+        "жаркое из бараньей ноги",
+        "бараньи котлеты на гриле",
+        "свиные рёбра на гриле",
+        "тушёная свинина из мультиварки",
+        "телячья котлета с травами",
+        "телятина в сливочном соусе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "cartoon turkey leg or chicken drumstick",
+        "BBQ grilled meat on the bone",
+        "steak with bone for dinner",
+        "caveman-style giant meat on bone",
+        "food icon for meat and protein category",
+        "roasted meat bone from the oven",
+        "deli counter display of various meats",
+        "butcher shop meat selection",
+        "red meat icon for carnivore diet",
+        "meat thermometer checking doneness"
+      ],
+      "ru": [
+        "мультяшная ножка индейки или куриная голень",
+        "мясо на кости на гриле BBQ",
+        "стейк на кости для ужина",
+        "огромное мясо на кости в стиле пещерного человека",
+        "иконка еды для категории мяса и протеина",
+        "жареное мясо на кости из духовки",
+        "витрина гастрономического прилавка с различным мясом",
+        "выбор мяса в мясном магазине",
+        "иконка красного мяса для диеты хищника",
+        "термометр для мяса проверяющий готовность"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a meat icon for the food category",
+        "add a bone-in meat symbol to the BBQ section",
+        "show a meat icon for the protein tracker",
+        "use the meat on bone icon for the recipe app"
+      ],
+      "ru": [
+        "Мне нужна иконка мяса для категории еды",
+        "добавить символ мяса на кости в раздел BBQ",
+        "показать иконку мяса для трекера протеина",
+        "использовать иконку мяса на кости для приложения рецептов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "beff steak",
+        "mett on bone",
+        "hamm slice",
+        "prok rib"
+      ],
+      "ru": [
+        "говядния стейк",
+        "мяос на кости",
+        "ветчниа",
+        "свнина ребро"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "fish fillet on a plate",
+        "vegetarian protein tofu block",
+        "chicken breast without bone",
+        "hot dog sausage in bun",
+        "cheese wedge for dairy category",
+        "egg as protein food icon"
+      ],
+      "ru": [
+        "рыбное филе на тарелке",
+        "тофу блок вегетарианского протеина",
+        "куриная грудка без кости",
+        "сосиска в булочке хот-дог",
+        "кусок сыра для категории молочных",
+        "яйцо как иконка белковой пищи"
+      ]
+    },
+    "valid": {
+      "en": [
+        "meat on the bone icon",
+        "BBQ meat drumstick",
+        "beef and bone food symbol"
+      ],
+      "ru": [
+        "иконка мяса на кости",
+        "мясная ножка BBQ",
+        "символ еды говядина и кость"
+      ]
+    },
+    "test": {
+      "en": [
+        "meat icon for food",
+        "grilled meat on bone",
+        "turkey leg meat symbol"
+      ],
+      "ru": [
+        "иконка мяса для еды",
+        "мясо на кости на гриле",
+        "символ ножки индейки"
+      ]
+    }
+  }
+}

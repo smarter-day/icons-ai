@@ -1,0 +1,154 @@
+{
+  "icon": "motorcycle",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bike",
+        "machine",
+        "motorcycle",
+        "racing",
+        "transportation",
+        "vehicle"
+      ],
+      "ru": [
+        "байк",
+        "машина",
+        "мотоцикл",
+        "гонки",
+        "транспорт",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "dirt bike off-road riding",
+        "motorbike on highway",
+        "powerful machine with two wheels",
+        "engine machine for road riding",
+        "motorcycle parked on street",
+        "classic Harley-Davidson motorcycle",
+        "motorcycle racing on track",
+        "MotoGP racing bike at speed",
+        "transportation by motorcycle",
+        "daily transportation bike",
+        "vehicle registration for motorcycle",
+        "two-wheeled vehicle on road"
+      ],
+      "ru": [
+        "внедорожный мотоцикл езда по бездорожью",
+        "мотоцикл на шоссе",
+        "мощная машина на двух колёсах",
+        "двигательная машина для езды по дороге",
+        "мотоцикл припаркованный на улице",
+        "классический мотоцикл Harley-Davidson",
+        "мотоцикл на гонках на треке",
+        "гоночный байк MotoGP на скорости",
+        "транспорт на мотоцикле",
+        "ежедневный транспорт байк",
+        "регистрация транспортного средства для мотоцикла",
+        "двухколёсное транспортное средство"
+      ]
+    },
+    "regular": {
+      "en": [
+        "classic cruiser motorcycle on open road",
+        "sport motorcycle leaning into a curve",
+        "Harley-Davidson chopper style bike",
+        "motorcycle helmet and riding gear",
+        "delivery motorcycle with saddlebags",
+        "vintage cafe racer motorcycle",
+        "off-road dirt bike jumping",
+        "motorcycle icon for transportation apps",
+        "biker riding motorcycle at sunset",
+        "motorcycle parked at diner"
+      ],
+      "ru": [
+        "классический мотоцикл-круизер на открытой дороге",
+        "спортивный мотоцикл кренящийся в повороте",
+        "мотоцикл-чоппер в стиле Harley-Davidson",
+        "мотоциклетный шлем и снаряжение для езды",
+        "мотоцикл доставки с боковыми сумками",
+        "винтажный мотоцикл кафе-рейсер",
+        "внедорожный мотоцикл прыгающий",
+        "иконка мотоцикла для транспортных приложений",
+        "байкер едущий на мотоцикле на закате",
+        "мотоцикл припаркованный у закусочной"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a motorcycle icon for the vehicle section",
+        "add a motorbike symbol to the transport category",
+        "show a motorcycle for the racing app",
+        "use the motorcycle icon for the two-wheel transport"
+      ],
+      "ru": [
+        "Мне нужна иконка мотоцикла для раздела транспортных средств",
+        "добавить символ мотоцикла в категорию транспорта",
+        "показать мотоцикл для гоночного приложения",
+        "использовать иконку мотоцикла для двухколёсного транспорта"
+      ]
+    },
+    "typo": {
+      "en": [
+        "motorcylce racing",
+        "motorbkie vehicle",
+        "mcotorcycle bike",
+        "racign motorcycle"
+      ],
+      "ru": [
+        "мотоцлик гонки",
+        "мотоцкил транспорт",
+        "бкай мотоцикл",
+        "гонак мотоцикл"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "bicycle pedal-powered without engine",
+        "car four-wheeled motor vehicle",
+        "moped small motorized scooter",
+        "quad bike four-wheeled ATV",
+        "truck large cargo vehicle",
+        "electric scooter city commuter"
+      ],
+      "ru": [
+        "велосипед на педальном приводе без мотора",
+        "автомобиль четырёхколёсное моторное средство",
+        "мопед маленький моторный скутер",
+        "квадроцикл четырёхколёсный ATV",
+        "грузовик большое грузовое средство",
+        "электрический скутер для городских поездок"
+      ]
+    },
+    "valid": {
+      "en": [
+        "motorcycle on the road",
+        "motorbike for transportation",
+        "classic motorcycle icon"
+      ],
+      "ru": [
+        "мотоцикл на дороге",
+        "мотоцикл для транспорта",
+        "иконка классического мотоцикла"
+      ]
+    },
+    "test": {
+      "en": [
+        "motorcycle icon",
+        "racing motorcycle bike",
+        "two-wheel vehicle motorbike"
+      ],
+      "ru": [
+        "иконка мотоцикла",
+        "гоночный мотоцикл байк",
+        "двухколёсное средство мотоцикл"
+      ]
+    }
+  }
+}

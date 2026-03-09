@@ -1,0 +1,90 @@
+{
+  "icon": "clouds-sun",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cloudy",
+        "day",
+        "moonlight",
+        "overcast",
+        "sky",
+        "summer"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "It's going to be cloudy today",
+        "Dress for a cloudy day",
+        "Enjoy the day despite the clouds",
+        "Plan the day around the weather",
+        "Walk under the moonlight tonight",
+        "Enjoy the moonlight after dinner",
+        "Overcast sky this morning",
+        "Overcast but warm today",
+        "Look at the beautiful sky",
+        "Photograph the dramatic sky",
+        "Summer clouds rolling in",
+        "Enjoy a warm cloudy summer day"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Plan outdoor activities despite clouds",
+        "Pack sunscreen for a cloudy summer day",
+        "Take a walk under the cloudy sky",
+        "Check if it will clear up later",
+        "Plan a BBQ despite the overcast sky",
+        "Go to the beach on a cloudy day",
+        "Keep an umbrella handy today",
+        "Enjoy mild summer weather",
+        "Play outside while it's not raining",
+        "Take photos of the dramatic clouds"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Bit cloudy today",
+        "Summer clouds",
+        "Overcast again",
+        "Gloomy sky"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cloudey summer day",
+        "overacst sky today",
+        "suumer clouds outside",
+        "cloudy sumemr weather"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Sunny and completely clear all day",
+        "Heavy rain forecast for today",
+        "Thunderstorm tonight",
+        "Partly cloudy with some sun breaks",
+        "Cold and foggy morning",
+        "Snow day today"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Cloudy summer day ahead",
+        "Overcast sky for the picnic",
+        "Check the sky before heading out"
+      ]
+    },
+    "test": {
+      "en": [
+        "Plan around the cloudy weather",
+        "Summer day with cloud cover",
+        "Overcast but warm outside"
+      ]
+    }
+  }
+}

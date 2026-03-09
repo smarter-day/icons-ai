@@ -1,0 +1,108 @@
+{
+  "icon": "knife-kitchen",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "chef",
+        "cooking",
+        "cut",
+        "equipment",
+        "halloween",
+        "hocho",
+        "kitchen knife",
+        "knife",
+        "sharp",
+        "slice",
+        "tool",
+        "weapon"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "chef knife in the kitchen",
+        "chef using a knife to chop",
+        "cooking knife on the cutting board",
+        "knife for cooking prep",
+        "cut vegetables with a kitchen knife",
+        "knife used to cut ingredients",
+        "kitchen equipment knife",
+        "knife as cooking equipment",
+        "halloween knife prop costume",
+        "knife used in halloween costume",
+        "hocho Japanese kitchen knife",
+        "hocho chef knife for sushi",
+        "kitchen knife for chopping",
+        "kitchen knife on the magnetic rack",
+        "sharp knife on the cutting board",
+        "knife sharpened for the kitchen",
+        "sharp kitchen knife blade",
+        "sharp edge on the chef knife",
+        "slice bread with the knife",
+        "knife slicing through vegetables",
+        "kitchen tool knife",
+        "tool used in cooking",
+        "knife used as a weapon",
+        "weapon knife in the halloween costume"
+      ]
+    },
+    "regular": {
+      "en": [
+        "sharp chef's knife on the cutting board",
+        "kitchen knife chopping vegetables",
+        "knife rack mounted on the kitchen wall",
+        "slicing bread with a serrated knife",
+        "Japanese hocho knife for sushi preparation",
+        "knife sharpened before cooking",
+        "kitchen knife set stored in a block",
+        "chef preparing food with a sharp knife",
+        "paring knife for peeling fruit",
+        "carving knife at the dinner table"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a knife icon for the cooking app",
+        "add a kitchen knife to the recipe tools section",
+        "show a knife for the chef category",
+        "use the knife icon for the meal prep feature"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chefs knfie in kitchen",
+        "kicthen knife cutting",
+        "sharpe knife blade",
+        "slceing vegetables"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "woodcutting axe with a wooden handle",
+        "kitchen scissors cutting herbs",
+        "meat cleaver on the butcher's block",
+        "sword with an ornate hilt",
+        "pizza cutter rolling across the dough",
+        "peeler stripping the vegetable skin"
+      ]
+    },
+    "valid": {
+      "en": [
+        "sharp kitchen knife on cutting board",
+        "chef knife for cooking",
+        "kitchen knife for slicing"
+      ]
+    },
+    "test": {
+      "en": [
+        "kitchen knife icon",
+        "knife symbol for cooking",
+        "chef knife"
+      ]
+    }
+  }
+}

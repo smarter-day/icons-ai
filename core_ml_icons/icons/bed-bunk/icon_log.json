@@ -1,0 +1,160 @@
+{
+  "icon": "bed-bunk",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "lodging",
+        "mattress",
+        "rest",
+        "siblings",
+        "sleep",
+        "sleepover",
+        "travel"
+      ],
+      "ru": [
+        "проживание",
+        "матрас",
+        "отдых",
+        "братья и сёстры",
+        "сон",
+        "ночёвка",
+        "путешествие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "book lodging for the trip",
+        "buy a new mattress",
+        "rest after a long day",
+        "siblings sharing a room",
+        "get some sleep tonight",
+        "kids sleepover this weekend",
+        "book bunk beds at the hostel",
+        "Lodging reservation for three nights",
+        "Mattress topper for extra comfort",
+        "Rest day after the long hike",
+        "Siblings bunk bed setup in their room",
+        "Sleep early before the early flight",
+        "Sleepover bag packed for the weekend",
+        "Travel hostel with bunk beds booked"
+      ],
+      "ru": [
+        "забронировать жильё для поездки",
+        "купить новый матрас",
+        "отдохнуть после долгого дня",
+        "братья и сёстры делят комнату",
+        "выспаться сегодня ночью",
+        "ночёвка детей в эти выходные",
+        "забронировать двухъярусную кровать в хостеле",
+        "Бронирование жилья на три ночи",
+        "Наматрасник для большего комфорта",
+        "Отдых после долгого похода",
+        "Двухъярусная кровать для комнаты братьев",
+        "Лечь спать пораньше перед ранним вылетом",
+        "Сумка для ночёвки у друга собрана",
+        "Хостел с двухъярусными кроватями забронирован"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Book a bunk bed at the hostel",
+        "Set up bunk beds in the kids' room",
+        "Reserve a bunk for the camping trip",
+        "Kids sleepover with bunk beds",
+        "Assemble the new bunk bed",
+        "Sleep schedule for the bunk room",
+        "Hostel booking for the trip",
+        "Share a room with bunk beds",
+        "Bedtime routine for the kids",
+        "Bunk bed safety check"
+      ],
+      "ru": [
+        "Забронировать двухъярусную кровать в хостеле",
+        "Поставить двухъярусные кровати в детской",
+        "Зарезервировать полку для похода",
+        "Ночёвка детей с двухъярусными кроватями",
+        "Собрать новую двухъярусную кровать",
+        "Режим сна в комнате с двухъярусными кроватями",
+        "Бронирование хостела для поездки",
+        "Делить комнату с двухъярусными кроватями",
+        "Укладывать детей спать",
+        "Проверка безопасности двухъярусной кровати"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "We need bunk beds for the kids' room",
+        "I always wanted bunk beds as a kid",
+        "The hostel only has bunk beds available",
+        "Let's set up for the sleepover tonight"
+      ],
+      "ru": [
+        "Нам нужны двухъярусные кровати в детскую",
+        "В детстве я всегда мечтал о двухъярусной кровати",
+        "В хостеле только двухъярусные кровати",
+        "Давай подготовимся к ночёвке сегодня вечером"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Book a bunk beed at the hostel",
+        "Kids sleepovre this weekend",
+        "Asemble the bunk bed",
+        "Bunk bedds for siblings"
+      ],
+      "ru": [
+        "Двухъярусная кравать в хостеле",
+        "Ночёвака детей в эти выходные",
+        "Сабрать двухярусную кровать",
+        "Двухъярусые кравати для братьев"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Book a hotel room for the night",
+        "Sleep on the couch",
+        "Set up a camping tent",
+        "Book an Airbnb for the trip",
+        "Take a nap on the couch",
+        "Reserve a cabin for the weekend"
+      ],
+      "ru": [
+        "Забронировать номер в отеле",
+        "Поспать на диване",
+        "Поставить палатку в кемпинге",
+        "Забронировать Airbnb для поездки",
+        "Вздремнуть на диване",
+        "Забронировать домик на выходные"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Book bunk beds at the hostel",
+        "Sleepover setup for the kids",
+        "Bunk bed assembly tomorrow"
+      ],
+      "ru": [
+        "Забронировать двухъярусную кровать в хостеле",
+        "Подготовить ночёвку для детей",
+        "Собрать двухъярусную кровать завтра"
+      ]
+    },
+    "test": {
+      "en": [
+        "Kids sharing a bunk bed room",
+        "Hostel bunk reservation",
+        "Set up bunk beds for guests"
+      ],
+      "ru": [
+        "Дети делят комнату с двухъярусными кроватями",
+        "Бронирование полки в хостеле",
+        "Расставить двухъярусные кровати для гостей"
+      ]
+    }
+  }
+}

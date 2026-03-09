@@ -1,0 +1,154 @@
+{
+  "icon": "sunset",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "dusk",
+        "night",
+        "nighttime",
+        "sun",
+        "sun down",
+        "sunset"
+      ],
+      "ru": [
+        "сумерки",
+        "ночь",
+        "ночное время",
+        "солнце",
+        "солнце садится",
+        "закат"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "dusk falling evening colors",
+        "dusk twilight last light",
+        "night begins at sunset",
+        "night sky after sunset",
+        "nighttime starts with sunset",
+        "nighttime curfew sunset reminder",
+        "sun setting over horizon",
+        "sun paints sky orange",
+        "sun going down evening",
+        "sun down end of workday",
+        "sunset on beach romantic",
+        "beautiful sunset colors red"
+      ],
+      "ru": [
+        "сумерки вечерние краски",
+        "сумерки последний свет",
+        "ночь начинается с заката",
+        "ночное небо после заката",
+        "ночное время начинается с заката",
+        "напоминание о комендантском часе на закат",
+        "солнце садится за горизонт",
+        "солнце красит небо в оранжевый",
+        "солнце опускается вечером",
+        "солнце садится конец рабочего дня",
+        "закат на пляже романтический",
+        "красивые цвета заката красный"
+      ]
+    },
+    "regular": {
+      "en": [
+        "sun sinking below horizon orange sky",
+        "golden hour sunset photography",
+        "sunset notification end of day reminder",
+        "sunset silhouette person on hill",
+        "dramatic sunset clouds lit up",
+        "beach sunset reflection on water",
+        "sunset time in weather app",
+        "evening routine sunset wind down",
+        "sunset drive road trip golden",
+        "mountain sunset alpenglow effect"
+      ],
+      "ru": [
+        "солнце опускается за горизонт оранжевое небо",
+        "закат золотой час фотографии",
+        "уведомление заката напоминание о конце дня",
+        "силуэт человека на холме закат",
+        "драматический закат освещённые облака",
+        "закат отражение на воде пляж",
+        "время заката в приложении погоды",
+        "вечерний распорядок закат успокоение",
+        "закат в дороге золотой",
+        "горный закат альпенглоу эффект"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sunset icon for the evening routine",
+        "add a dusk symbol to the end-of-day reminder",
+        "show a sunset for the evening schedule",
+        "use the sunset icon for the nighttime mode trigger"
+      ],
+      "ru": [
+        "нужна иконка заката для вечернего распорядка",
+        "добавь символ сумерек к напоминанию о конце дня",
+        "покажи закат для вечернего расписания",
+        "используй иконку заката для запуска ночного режима"
+      ]
+    },
+    "typo": {
+      "en": [
+        "sunsett beach evening",
+        "dusck twilight sky",
+        "evning sunset view",
+        "sun dwon reminder"
+      ],
+      "ru": [
+        "закат пляж вечер",
+        "сумерки ночное небо",
+        "вечерний закат вид",
+        "солнце садится напоминание"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "sunrise sun above horizon morning",
+        "full moon night sky",
+        "twilight zone ambiguous light",
+        "night mode dark screen",
+        "dusk sky stars appearing",
+        "campfire evening outdoor"
+      ],
+      "ru": [
+        "восход солнце над горизонтом утро",
+        "полнолуние ночное небо",
+        "сумеречная зона неоднозначный свет",
+        "ночной режим тёмный экран",
+        "сумерки появляются звёзды",
+        "вечерний костёр на природе"
+      ]
+    },
+    "valid": {
+      "en": [
+        "sunset evening icon",
+        "sun going down dusk",
+        "sunset end of day symbol"
+      ],
+      "ru": [
+        "иконка заката вечер",
+        "солнце садится сумерки",
+        "закат конец дня символ"
+      ]
+    },
+    "test": {
+      "en": [
+        "sunset icon dusk",
+        "nightfall sun down",
+        "evening sunset weather"
+      ],
+      "ru": [
+        "иконка заката сумерки",
+        "наступление ночи солнце садится",
+        "закат вечер погода"
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "icon": "light-ceiling",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bright",
+        "furniture",
+        "light",
+        "overhead"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Turn on the bright ceiling light",
+        "Dim the bright lights",
+        "Replace the ceiling light fixture",
+        "Buy new furniture for the room",
+        "Turn on the light in the room",
+        "Fix the light that won't turn on",
+        "Install an overhead light fixture",
+        "Adjust the overhead brightness"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Replace the ceiling light bulb",
+        "Install a new ceiling light fixture",
+        "Dim the lights for dinner",
+        "Turn on the overhead light",
+        "Buy a LED ceiling light",
+        "Fix the flickering ceiling light",
+        "Add a dimmer switch for the ceiling light",
+        "Paint the room before replacing the light",
+        "Set up smart ceiling lights",
+        "Choose the right light temperature"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Turn on the light",
+        "New ceiling light",
+        "Fix the light",
+        "Dim the lights"
+      ]
+    },
+    "typo": {
+      "en": [
+        "replcae the celing light bulb",
+        "instlal a new ceeling light",
+        "trun on the overhad light",
+        "fix the flickerign light"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Turn on a floor lamp",
+        "Use a desk lamp for reading",
+        "Turn on the night light",
+        "Install outdoor lighting",
+        "Put up Christmas string lights",
+        "Use a flashlight in the dark"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Replace the ceiling light bulb",
+        "Install a new ceiling light fixture",
+        "Turn on the overhead light"
+      ]
+    },
+    "test": {
+      "en": [
+        "Dim the lights for dinner",
+        "Add a dimmer switch",
+        "Set up smart ceiling lights"
+      ]
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "icon": "crown",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "award",
+        "clothing",
+        "crown",
+        "favorite",
+        "king",
+        "queen",
+        "royal",
+        "tiara",
+        "vip"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "award crown for the champion",
+        "crown given as an award for excellence",
+        "crown as a royal clothing accessory",
+        "crown worn as a clothing item",
+        "gold crown worn by the king",
+        "jeweled crown on museum display",
+        "crown the favorite item in the list",
+        "crown symbol for a favorite choice",
+        "king's crown with jewels on the rim",
+        "king wearing the crown on the throne",
+        "queen's crown at the coronation",
+        "crown placed on the queen's head",
+        "royal crown symbol for the monarchy",
+        "royal crown worn by the monarch",
+        "sparkling tiara crown at the pageant",
+        "tiara crown for the princess",
+        "VIP crown for premium members",
+        "crown symbol for VIP status"
+      ]
+    },
+    "regular": {
+      "en": [
+        "gold crown with red jewels on the rim",
+        "king wearing a royal crown on the throne",
+        "queen's crown displayed at the coronation ceremony",
+        "crown symbol for the top-rated item",
+        "jeweled tiara worn at the beauty pageant",
+        "crown badge for the best review on the platform",
+        "paper crown from the birthday party",
+        "VIP badge with a crown for premium users",
+        "royal crown displayed in the history museum",
+        "three-pointed crown as a royal symbol"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a crown icon for the premium user tier",
+        "add a crown symbol to the leaderboard top position",
+        "show a crown for the VIP section",
+        "use the king's crown for the royal category"
+      ]
+    },
+    "typo": {
+      "en": [
+        "kigns crown on the throne",
+        "royyal crown symbol",
+        "jewled tiara crown",
+        "queeen's crown"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "gold medal hanging from a ribbon at the olympics",
+        "golden trophy cup for the tournament champion",
+        "award ribbon badge for first place at the fair",
+        "party hat with polka dots at the birthday",
+        "wizard hat with stars and a wide brim",
+        "graduation cap tossed in the air"
+      ]
+    },
+    "valid": {
+      "en": [
+        "gold crown for the king",
+        "royal crown symbol",
+        "VIP crown for premium users"
+      ]
+    },
+    "test": {
+      "en": [
+        "crown icon",
+        "king queen crown symbol",
+        "jeweled royal crown"
+      ]
+    }
+  }
+}

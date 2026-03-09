@@ -1,0 +1,142 @@
+{
+  "icon": "trailer",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "carry",
+        "haul",
+        "moving",
+        "travel"
+      ],
+      "ru": [
+        "перевозить",
+        "тянуть",
+        "переезд",
+        "путешествие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "carry load trailer hitched",
+        "carry goods trailer freight",
+        "haul trailer heavy load",
+        "haul truck and trailer combo",
+        "moving trailer rental truck",
+        "moving furniture in trailer",
+        "travel trailer camper tow",
+        "road trip travel trailer"
+      ],
+      "ru": [
+        "прицеп везёт груз прикреплённый",
+        "перевозка товаров прицеп грузовик",
+        "буксировка тяжёлого прицепа",
+        "грузовик и прицеп в комплекте",
+        "аренда прицепа для переезда",
+        "перевозка мебели в прицепе",
+        "туристический прицеп кемпер буксировка",
+        "дорожное путешествие с прицепом"
+      ]
+    },
+    "regular": {
+      "en": [
+        "semi truck with long cargo trailer",
+        "flatbed trailer carrying equipment",
+        "camper trailer attached to SUV",
+        "horse trailer towing vehicle",
+        "enclosed trailer for moving furniture",
+        "boat trailer launching at ramp",
+        "car transport trailer multiple vehicles",
+        "utility trailer home depot rental",
+        "trailer hitch ball mount",
+        "trailer brake lights signal"
+      ],
+      "ru": [
+        "грузовик с длинным грузовым прицепом",
+        "платформенный прицеп везёт оборудование",
+        "туристический прицеп прикреплён к внедорожнику",
+        "коневоз буксировочный автомобиль",
+        "закрытый прицеп для перевозки мебели",
+        "лодочный прицеп спуск на воду",
+        "автовоз прицеп несколько машин",
+        "грузовой прицеп аренда хозяйственного магазина",
+        "тягово-сцепное устройство шаровая головка",
+        "стоп-сигналы прицепа"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a trailer icon for the moving section",
+        "add a haul symbol to the transport category",
+        "show a trailer for the road trip planning",
+        "use the trailer icon for the cargo feature"
+      ],
+      "ru": [
+        "нужна иконка прицепа для раздела переезда",
+        "добавь символ буксировки в транспортную категорию",
+        "покажи прицеп для планирования дорожного путешествия",
+        "используй иконку прицепа для функции грузоперевозки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "trailre hitch moving",
+        "movign trailer rental",
+        "haul tailer cargo",
+        "travle trailer camper"
+      ],
+      "ru": [
+        "сцепка прицепа переезд",
+        "аренда прицепа переезд",
+        "буксировка прицепа груз",
+        "туристический прицеп дорога"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "truck semi large vehicle",
+        "van cargo delivery vehicle",
+        "RV motorhome self-propelled",
+        "boat on water vessel",
+        "shipping container large box",
+        "pickup truck bed cargo"
+      ],
+      "ru": [
+        "грузовик большое транспортное средство",
+        "фургон грузовой доставка",
+        "дом на колёсах самоходный",
+        "лодка водное судно",
+        "контейнер для перевозки большая коробка",
+        "пикап кузов груз"
+      ]
+    },
+    "valid": {
+      "en": [
+        "trailer hitch tow icon",
+        "moving trailer cargo",
+        "travel trailer camper"
+      ],
+      "ru": [
+        "иконка прицепа буксировка",
+        "грузовой прицеп переезд",
+        "туристический прицеп кемпер"
+      ]
+    },
+    "test": {
+      "en": [
+        "trailer icon haul",
+        "moving trailer symbol",
+        "cargo trailer transport"
+      ],
+      "ru": [
+        "иконка прицепа буксировка",
+        "символ прицепа переезда",
+        "грузовой прицеп транспорт"
+      ]
+    }
+  }
+}

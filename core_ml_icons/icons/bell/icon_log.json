@@ -1,0 +1,96 @@
+{
+  "icon": "bell",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "alarm",
+        "alert",
+        "bel",
+        "bell",
+        "chime",
+        "notification",
+        "reminder",
+        "request"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "alarm bell ringing at dawn",
+        "set an alarm bell for the morning",
+        "bell alert for a new warning",
+        "system alert sounded by bell",
+        "bel sound signal icon",
+        "bel ring for the service desk",
+        "hanging church bell with clapper",
+        "brass bell at the hotel front desk",
+        "door chime bell ringing",
+        "chime bell sound at the entrance",
+        "notification bell with unread badge",
+        "bell icon for push notifications",
+        "set a reminder with the bell",
+        "bell reminder for an upcoming appointment",
+        "ring the bell to request service",
+        "service request bell at the counter"
+      ]
+    },
+    "regular": {
+      "en": [
+        "notification bell with a small badge count",
+        "ringing bell for an incoming message alert",
+        "church bell with a clapper inside the dome",
+        "front desk service bell waiting to be rung",
+        "muted bell icon with notification turned off",
+        "app header bell icon with unread message count",
+        "alarm bell ringing loudly in the morning",
+        "sleigh bells for holiday decoration",
+        "cowbell hanging around the animal's neck",
+        "small brass bell at the hotel reception desk"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a bell icon for push notifications in my app",
+        "add a notification bell to the top of the screen",
+        "show a bell when there is a new reminder",
+        "use the bell icon for the alert settings menu"
+      ]
+    },
+    "typo": {
+      "en": [
+        "notifcation bell icon",
+        "alrm bell ringing at dawn",
+        "bell chimng at the entrance",
+        "remidner bell for the meeting"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "alarm clock with two bells ringing on top",
+        "megaphone broadcasting an announcement",
+        "ceiling-mounted loudspeaker in a public space",
+        "phone vibrating and ringing on the table",
+        "emergency siren with a flashing red light",
+        "referee whistle blown during the game"
+      ]
+    },
+    "valid": {
+      "en": [
+        "notification bell for app alerts",
+        "ringing bell for new messages",
+        "alarm bell sound icon"
+      ]
+    },
+    "test": {
+      "en": [
+        "bell notification icon",
+        "alert bell for system warnings",
+        "chime bell sound symbol"
+      ]
+    }
+  }
+}

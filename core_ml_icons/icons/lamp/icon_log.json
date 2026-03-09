@@ -1,0 +1,81 @@
+{
+  "icon": "lamp",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bright",
+        "furniture",
+        "light"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bright lamp lighting the room",
+        "bright light from the lamp",
+        "lamp as a furniture piece",
+        "furniture lamp in the living room",
+        "lamp providing light at night",
+        "light from the reading lamp"
+      ]
+    },
+    "regular": {
+      "en": [
+        "floor lamp standing in the living room corner",
+        "desk lamp lighting the work surface",
+        "table lamp with a fabric shade",
+        "reading lamp beside the bed",
+        "adjustable lamp for the home office",
+        "lamp turned on at dusk",
+        "vintage lamp with a warm glow",
+        "lamp icon for the lighting control",
+        "lamp shade casting soft light",
+        "smart lamp controlled from the phone"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a lamp icon for the smart home app",
+        "add a lamp symbol to the lighting controls",
+        "show a lamp for the room ambiance feature",
+        "use the lamp icon for the reading mode"
+      ]
+    },
+    "typo": {
+      "en": [
+        "desk lmap lighting",
+        "flooor lamp corner",
+        "bight lamp shade",
+        "furniutre lamp"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "ceiling light fixture with bulbs",
+        "light bulb with glowing filament",
+        "candle flame on the table",
+        "flashlight beam in the dark",
+        "lantern hanging at the entrance",
+        "street light on the pole at night"
+      ]
+    },
+    "valid": {
+      "en": [
+        "desk lamp lighting the room",
+        "reading lamp by the bed",
+        "lamp for light control"
+      ]
+    },
+    "test": {
+      "en": [
+        "lamp icon",
+        "lamp symbol for light",
+        "floor lamp furniture"
+      ]
+    }
+  }
+}

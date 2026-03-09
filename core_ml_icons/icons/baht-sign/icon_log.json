@@ -1,0 +1,124 @@
+{
+  "icon": "baht-sign",
+  "rows": {
+    "train_en": 27,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "currency"
+      ],
+      "ru": [
+        "валюта"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "exchange currency for the trip",
+        "Thai baht conversion for the vacation"
+      ],
+      "ru": [
+        "обменять валюту для поездки",
+        "Конвертация тайского бата для отпуска"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Check the Thai baht exchange rate",
+        "Convert dollars to baht",
+        "Pay in local currency",
+        "Find the best currency exchange",
+        "Exchange money before the trip to Thailand",
+        "Calculate baht to USD",
+        "Get Thai baht at the airport",
+        "Currency conversion for travel",
+        "Check today's baht rate",
+        "Send money in baht"
+      ],
+      "ru": [
+        "Проверить курс тайского бата",
+        "Конвертировать доллары в баты",
+        "Оплатить в местной валюте",
+        "Найти лучший обменник",
+        "Обменять деньги перед поездкой в Таиланд",
+        "Перевести баты в доллары",
+        "Получить тайские баты в аэропорту",
+        "Конвертация валюты для путешествия",
+        "Проверить сегодняшний курс бата",
+        "Перевести деньги в батах"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Need to get some baht before I go",
+        "What's the exchange rate for baht?",
+        "I need to sort out my currency for Thailand",
+        "Got to exchange some money for the trip"
+      ],
+      "ru": [
+        "Нужно получить баты перед поездкой",
+        "Какой курс обмена бата?",
+        "Надо разобраться с валютой для Таиланда",
+        "Нужно обменять деньги перед поездкой"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Exchane currancy for the trip",
+        "Check the bhat exchange rate",
+        "Covert to local curency",
+        "Get Thai bahht at airport"
+      ],
+      "ru": [
+        "Обменять валюту для поедзки",
+        "Проверить курс баhта",
+        "Конвертировать в местнуу валюту",
+        "Получить тайские баты в аэропоурте"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Check the dollar exchange rate",
+        "Convert to euros",
+        "USD to GBP conversion",
+        "Send money abroad",
+        "Pay with foreign currency",
+        "Check today's USD rate"
+      ],
+      "ru": [
+        "Проверить курс доллара",
+        "Конвертировать в евро",
+        "Перевод долларов в фунты",
+        "Отправить деньги за рубеж",
+        "Оплатить иностранной валютой",
+        "Проверить сегодняшний курс доллара"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Currency exchange for Bangkok trip",
+        "Check the baht rate today",
+        "Pay in baht at the market"
+      ],
+      "ru": [
+        "Обменять валюту для поездки в Бангкок",
+        "Проверить курс бата сегодня",
+        "Оплатить батами на рынке"
+      ]
+    },
+    "test": {
+      "en": [
+        "Top up baht before departure",
+        "Baht conversion calculator",
+        "Local currency for Thailand"
+      ],
+      "ru": [
+        "Пополнить баты перед вылетом",
+        "Калькулятор конвертации батов",
+        "Местная валюта для Таиланда"
+      ]
+    }
+  }
+}

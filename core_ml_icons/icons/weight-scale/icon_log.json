@@ -1,0 +1,142 @@
+{
+  "icon": "weight-scale",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "health",
+        "measurement",
+        "scale",
+        "weight"
+      ],
+      "ru": [
+        "здоровье",
+        "измерение",
+        "весы",
+        "вес"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "health monitoring device",
+        "personal health tracker",
+        "body measurement tool",
+        "precise measurement device",
+        "bathroom scale display",
+        "kitchen scale reading",
+        "weight tracking app",
+        "body weight indicator"
+      ],
+      "ru": [
+        "устройство мониторинга здоровья",
+        "персональный трекер здоровья",
+        "инструмент измерения тела",
+        "точный прибор измерения",
+        "показания напольных весов",
+        "показания кухонных весов",
+        "приложение отслеживания веса",
+        "индикатор массы тела"
+      ]
+    },
+    "regular": {
+      "en": [
+        "digital bathroom scale display",
+        "body weight measurement device",
+        "fitness tracking scale",
+        "kitchen food scale balance",
+        "doctor's office weighing scale",
+        "BMI measurement tool",
+        "diet progress weight tracker",
+        "analog scale with needle",
+        "medical grade weighing device",
+        "luggage weight scale airport"
+      ],
+      "ru": [
+        "цифровые напольные весы",
+        "устройство измерения массы тела",
+        "весы для фитнес-трекинга",
+        "кухонные весы для продуктов",
+        "медицинские весы в кабинете врача",
+        "инструмент измерения ИМТ",
+        "трекер прогресса диеты по весу",
+        "аналоговые весы со стрелкой",
+        "медицинские весы высокой точности",
+        "весы для багажа в аэропорту"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a weight scale icon for the health tracker",
+        "add a scale symbol to the fitness section",
+        "show a weight icon for the body metrics screen",
+        "use the scale icon for the diet tracking feature"
+      ],
+      "ru": [
+        "мне нужна иконка весов для трекера здоровья",
+        "добавь символ весов в раздел фитнеса",
+        "покажи иконку веса для экрана метрик тела",
+        "используй иконку весов для функции отслеживания диеты"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wieght scale measurement",
+        "weigth tracker health",
+        "scael body measurement",
+        "helath weight monitor"
+      ],
+      "ru": [
+        "вес изменение весы",
+        "масса тела трекер здоровье",
+        "измерние тела весы",
+        "здровье мониторинг веса"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "measuring tape around waist",
+        "body temperature thermometer reading",
+        "BMI index chart health metric",
+        "ruler with measurement markings",
+        "calorie counter nutrition label",
+        "blood pressure monitor cuff"
+      ],
+      "ru": [
+        "сантиметровая лента вокруг талии",
+        "показание термометра температуры тела",
+        "диаграмма ИМТ метрика здоровья",
+        "линейка с делениями измерения",
+        "счётчик калорий этикетка питания",
+        "манжета монитора артериального давления"
+      ]
+    },
+    "valid": {
+      "en": [
+        "bathroom scale for body weight",
+        "digital scale measurement display",
+        "health weight tracking device"
+      ],
+      "ru": [
+        "напольные весы для массы тела",
+        "цифровые весы с дисплеем",
+        "устройство отслеживания веса здоровья"
+      ]
+    },
+    "test": {
+      "en": [
+        "body weight scale",
+        "fitness measurement scale",
+        "weight monitoring health device"
+      ],
+      "ru": [
+        "весы для массы тела",
+        "весы для измерения в фитнесе",
+        "устройство мониторинга веса"
+      ]
+    }
+  }
+}

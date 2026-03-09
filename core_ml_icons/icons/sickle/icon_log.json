@@ -1,0 +1,160 @@
+{
+  "icon": "sickle",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "blade",
+        "d&d",
+        "dnd",
+        "dungeons & dragons",
+        "equipment",
+        "fantasy",
+        "weapon"
+      ],
+      "ru": [
+        "лезвие",
+        "d&d",
+        "dnd",
+        "Dungeons & Dragons",
+        "снаряжение",
+        "фэнтези",
+        "оружие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "curved blade on wooden handle",
+        "sharp blade for cutting grain",
+        "d&d druid weapon sickle",
+        "d&d harvesting tool as weapon",
+        "dnd character equipped with sickle",
+        "dnd inventory sickle item",
+        "Dungeons and Dragons farming weapon",
+        "D&D sickle used by druid class",
+        "equipment sickle for agricultural use",
+        "ancient equipment for harvesting",
+        "fantasy sickle weapon in game",
+        "curved fantasy weapon",
+        "weapon sickle in RPG combat",
+        "melee weapon sickle attack"
+      ],
+      "ru": [
+        "изогнутое лезвие на деревянной ручке",
+        "острое лезвие для жатвы зерна",
+        "оружие друида серп в D&D",
+        "серп как орудие жатвы в D&D",
+        "персонаж dnd снаряжён серпом",
+        "предмет инвентаря серп в dnd",
+        "сельскохозяйственное оружие в Dungeons and Dragons",
+        "серп используется классом друида",
+        "сельскохозяйственный серп",
+        "древнее орудие для жатвы",
+        "фэнтезийный серп-оружие в игре",
+        "изогнутое фэнтезийное оружие",
+        "серп в ближнем бою RPG",
+        "атака серпом ближнего боя"
+      ]
+    },
+    "regular": {
+      "en": [
+        "curved sickle blade for harvesting grain",
+        "Soviet hammer and sickle symbol",
+        "D&D sickle weapon for druid class",
+        "medieval sickle used for cutting crops",
+        "fantasy game sickle melee weapon",
+        "grim reaper holding sickle scythe",
+        "agricultural sickle hanging in barn",
+        "sickle moon crescent shape",
+        "RPG inventory item sickle weapon",
+        "harvest festival sickle decoration"
+      ],
+      "ru": [
+        "изогнутый серп для жатвы зерна",
+        "советский символ серп и молот",
+        "серп D&D для класса друида",
+        "средневековый серп для срезания урожая",
+        "серп ближнего боя в фэнтезийной игре",
+        "Жнец держит серп-косу",
+        "сельскохозяйственный серп в амбаре",
+        "серп полумесяц форма луны",
+        "предмет инвентаря серп в RPG",
+        "декорация серпа на праздник урожая"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sickle icon for my RPG game inventory",
+        "add a sickle symbol to the D&D weapons section",
+        "show a sickle for the fantasy melee weapons",
+        "use the sickle icon for the harvest or farming feature"
+      ],
+      "ru": [
+        "мне нужна иконка серпа для инвентаря RPG",
+        "добавь символ серпа в раздел оружия D&D",
+        "покажи серп для фэнтезийного ближнего боя",
+        "используй иконку серпа для функции жатвы или фермерства"
+      ]
+    },
+    "typo": {
+      "en": [
+        "curvde sickle blade for harvesting grain",
+        "D&D sikcle weapon for druid class",
+        "fantsy game sickle melee weapon",
+        "agriculutral sickle hanging in barn"
+      ],
+      "ru": [
+        "изогнутый сепр для жатвы зерна",
+        "серп D&D для класса дриуда",
+        "серп ближнего боя в фэнтезийной игер",
+        "сельскохозяйственный серп в амбре"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "scythe long handle curved blade for mowing",
+        "sword straight long blade for combat",
+        "axe with wooden handle and metal head",
+        "dagger short knife for close combat",
+        "hammer tool for striking nails",
+        "pitchfork farm tool for hay"
+      ],
+      "ru": [
+        "коса с длинной ручкой для кошения",
+        "меч с прямым длинным лезвием для боя",
+        "топор с деревянной рукоятью и металлическим лезвием",
+        "кинжал короткий нож для ближнего боя",
+        "молоток для забивания гвоздей",
+        "вилы сельскохозяйственный инструмент для сена"
+      ]
+    },
+    "valid": {
+      "en": [
+        "curved sickle blade for harvesting",
+        "D&D sickle weapon for druid",
+        "fantasy melee weapon sickle"
+      ],
+      "ru": [
+        "изогнутый серп для жатвы",
+        "серп D&D для класса друида",
+        "серп ближнего боя в фэнтези"
+      ]
+    },
+    "test": {
+      "en": [
+        "sickle harvesting tool icon",
+        "Soviet hammer and sickle symbol",
+        "RPG sickle melee weapon item"
+      ],
+      "ru": [
+        "иконка серпа",
+        "советский символ серп и молот",
+        "серп ближнего боя в RPG"
+      ]
+    }
+  }
+}

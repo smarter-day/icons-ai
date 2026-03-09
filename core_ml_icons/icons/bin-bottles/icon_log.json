@@ -1,0 +1,142 @@
+{
+  "icon": "bin-bottles",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "collect",
+        "jug",
+        "plastics",
+        "recycle"
+      ],
+      "ru": [
+        "собирать",
+        "кувшин",
+        "пластик",
+        "перерабатывать"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "collect plastic bottles for recycling",
+        "throw away the empty jug",
+        "sort the plastics for recycling",
+        "recycle the bottles",
+        "start collecting bottles around the house",
+        "wash out the plastic jug before recycling",
+        "rinse all plastics before the bin",
+        "bring bottles to the recycling centre"
+      ],
+      "ru": [
+        "собрать пластиковые бутылки для переработки",
+        "выбросить пустой кувшин",
+        "отсортировать пластик для переработки",
+        "сдать бутылки в переработку",
+        "начать собирать бутылки по дому",
+        "промыть пластиковый кувшин перед переработкой",
+        "ополоснуть весь пластик перед контейнером",
+        "отнести бутылки в пункт приёма"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Take out the recycling",
+        "Put plastic bottles in the bin",
+        "Sort recyclables before collection day",
+        "Drop off plastic bottles at the recycling point",
+        "Empty the bottle bin",
+        "Recycle all the plastic jugs",
+        "Separate plastics from general waste",
+        "Prepare bottles for recycling pickup",
+        "Check which plastics can be recycled",
+        "Put the recycling out tonight"
+      ],
+      "ru": [
+        "Вынести переработку",
+        "Положить пластиковые бутылки в контейнер",
+        "Рассортировать вторсырьё перед вывозом",
+        "Сдать пластиковые бутылки в пункт приёма",
+        "Опустошить контейнер для бутылок",
+        "Сдать все пластиковые кувшины",
+        "Отделить пластик от смешанных отходов",
+        "Подготовить бутылки к вывозу на переработку",
+        "Проверить какой пластик принимают",
+        "Вынести переработку сегодня вечером"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need to deal with all these bottles",
+        "The bottle bin is full — take it out",
+        "Let's sort the recycling today",
+        "Don't forget to put the bottles out"
+      ],
+      "ru": [
+        "Надо разобраться со всеми этими бутылками",
+        "Контейнер для бутылок полон — вынести",
+        "Давай рассортируем переработку сегодня",
+        "Не забудь выставить бутылки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Recyle the bottels",
+        "Sort plastcs for recycling",
+        "Takre out the recyling",
+        "Putt the bottles in the bni"
+      ],
+      "ru": [
+        "Переробтать бутылки",
+        "Рассотировать пластик",
+        "Вынесьти перерботку",
+        "Поклажить бутылки в контайнер"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Take out the general recycling",
+        "Sort paper and cardboard for recycling",
+        "Put the rubbish out tonight",
+        "Empty the kitchen bin",
+        "Recycling pickup tomorrow",
+        "Sort all the recycling"
+      ],
+      "ru": [
+        "Вынести смешанное вторсырьё",
+        "Отсортировать бумагу и картон",
+        "Вынести мусор сегодня вечером",
+        "Опустошить кухонное ведро",
+        "Вывоз вторсырья завтра",
+        "Рассортировать всё вторсырьё"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Recycle plastic bottles today",
+        "Sort the bottles for collection",
+        "Drop off plastic containers at recycling"
+      ],
+      "ru": [
+        "Сдать пластиковые бутылки сегодня",
+        "Рассортировать бутылки для вывоза",
+        "Сдать пластиковые контейнеры в переработку"
+      ]
+    },
+    "test": {
+      "en": [
+        "Empty the bottle recycling bin",
+        "Put plastic jugs in the recycling",
+        "Prepare recycling for collection"
+      ],
+      "ru": [
+        "Опустошить контейнер для бутылок",
+        "Положить пластиковые кувшины в переработку",
+        "Подготовить вторсырьё к вывозу"
+      ]
+    }
+  }
+}

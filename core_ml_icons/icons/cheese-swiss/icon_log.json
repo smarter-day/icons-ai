@@ -1,0 +1,178 @@
+{
+  "icon": "cheese-swiss",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cheddar",
+        "cheese",
+        "cheese wedge",
+        "curd",
+        "gouda",
+        "melt",
+        "parmesan",
+        "sandwich",
+        "swiss",
+        "wedge"
+      ],
+      "ru": [
+        "чеддер",
+        "сыр",
+        "клин сыра",
+        "творог",
+        "гауда",
+        "плавить",
+        "пармезан",
+        "сэндвич",
+        "швейцарский",
+        "клин"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Cheddar vs swiss for the sandwich",
+        "Cheddar alternative is the swiss wedge",
+        "Cheese variety: swiss for the fondue",
+        "Cheese selection featuring swiss",
+        "Cheese wedge with the distinctive holes",
+        "Swiss cheese wedge for the board",
+        "Curd-style swiss for the recipe",
+        "Curd cheese Swiss variety",
+        "Gouda or swiss for the burger",
+        "Gouda-swiss blend on the board",
+        "Melt swiss cheese on the patty",
+        "Melted swiss on the open sandwich",
+        "Parmesan or swiss grated over pasta",
+        "Swiss vs parmesan comparison",
+        "Swiss cheese sandwich at the deli",
+        "Classic BLT with swiss cheese",
+        "Swiss cheese fondue recipe",
+        "Swiss slices for the cheeseburger",
+        "Wedge of swiss with holes for the board",
+        "Swiss wedge from the artisan cheese shop"
+      ],
+      "ru": [
+        "Чеддер или швейцарский для сэндвича",
+        "Альтернатива чеддеру — клин швейцарского",
+        "Сорт сыра: швейцарский для фондю",
+        "Подборка сыров с швейцарским",
+        "Клин сыра с характерными дырками",
+        "Клин швейцарского для доски",
+        "Творожный швейцарский для рецепта",
+        "Творожный сыр сорта Swiss",
+        "Гауда или швейцарский для бургера",
+        "Смесь гауда-швейцарский на доске",
+        "Расплавить швейцарский на котлете",
+        "Расплавленный швейцарский на сэндвиче",
+        "Пармезан или швейцарский над пастой",
+        "Сравнение швейцарского и пармезана",
+        "Сэндвич со швейцарским в деликатесном",
+        "Классический BLT со швейцарским",
+        "Рецепт швейцарского фондю",
+        "Ломтики швейцарского для чизбургера",
+        "Клин швейцарского с дырками для доски",
+        "Швейцарский клин из сырной лавки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Swiss cheese fondue for the winter dinner",
+        "Swiss slices on the Reuben sandwich",
+        "Swiss and ham toastie for lunch",
+        "Melted swiss on the mushroom burger",
+        "Swiss cheese at the deli counter",
+        "Artisan swiss wedge for the cheese board",
+        "Buy swiss cheese for the fondue pot",
+        "Swiss cheese dip for the pretzels",
+        "Classic swiss on the club sandwich",
+        "Swiss and egg on the breakfast bagel"
+      ],
+      "ru": [
+        "Швейцарское фондю для зимнего ужина",
+        "Ломтики швейцарского на сэндвиче Рубен",
+        "Тост с швейцарским и ветчиной",
+        "Расплавленный швейцарский на бургере с грибами",
+        "Швейцарский у стойки деликатесов",
+        "Артизанальный клин швейцарского для доски",
+        "Купить швейцарский для фондю",
+        "Соус из швейцарского для крендельков",
+        "Классический швейцарский в клаб-сэндвиче",
+        "Швейцарский с яйцом на бранч-бейгле"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "got the swiss with the big holes",
+        "swiss makes the best fondue honestly",
+        "always get swiss on my deli order",
+        "nothing beats melted swiss on a burger"
+      ],
+      "ru": [
+        "взял швейцарский с большими дырками",
+        "швейцарский делает лучшее фондю честно",
+        "всегда беру швейцарский в деликатесном",
+        "ничто не сравнится с расплавленным швейцарским"
+      ]
+    },
+    "typo": {
+      "en": [
+        "swis cheese fondeu for the winter diner",
+        "swisse slices on the ruben sandwitch",
+        "artissan swiss wedge for the cheesse board",
+        "melted swise on the musroom buger"
+      ],
+      "ru": [
+        "швейцарское фондю для зимнего ужна",
+        "швейцарский на сэндвиче рубен",
+        "клин швейцарского для сырной доски",
+        "расплавленный швейцарский на бургере"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Regular cheddar not the holey swiss",
+        "Brie wedge at room temperature",
+        "Gouda block without the holes",
+        "Parmesan grated over the pasta",
+        "Camembert for the fondue instead",
+        "Feta crumbled on the Greek salad"
+      ],
+      "ru": [
+        "Обычный чеддер а не дырчатый швейцарский",
+        "Клин бри комнатной температуры",
+        "Блок гауды без дырок",
+        "Тёртый пармезан над пастой",
+        "Камамбер для фондю вместо",
+        "Фета раскрошенная на греческом салате"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Swiss fondue for the dinner party",
+        "Melted swiss on the burger tonight",
+        "Swiss cheese wedge for the board"
+      ],
+      "ru": [
+        "Швейцарское фондю для ужина",
+        "Расплавленный швейцарский на бургере",
+        "Клин швейцарского для доски"
+      ]
+    },
+    "test": {
+      "en": [
+        "Swiss slices on the sandwich",
+        "Swiss cheese at the deli counter",
+        "Classic swiss and ham toastie"
+      ],
+      "ru": [
+        "Ломтики швейцарского на сэндвиче",
+        "Швейцарский у стойки деликатесов",
+        "Классический тост с швейцарским и ветчиной"
+      ]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "icon": "sliders",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "adjust",
+        "configuration",
+        "modify",
+        "settings",
+        "sliders",
+        "toggle"
+      ],
+      "ru": [
+        "регулировать",
+        "конфигурация",
+        "изменить",
+        "настройки",
+        "ползунки",
+        "переключатель"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "adjust multiple parameters with sliders",
+        "adjust audio sliders for equalizer",
+        "configuration panel with multiple sliders",
+        "configuration sliders for app settings",
+        "modify settings using vertical sliders",
+        "modify multiple values with sliders",
+        "settings panel with several slider controls",
+        "settings sliders for customization",
+        "multiple sliders for fine-tuning app",
+        "equalizer-style sliders",
+        "toggle multiple sliders simultaneously",
+        "toggle sliders for each option"
+      ],
+      "ru": [
+        "регулировать несколько параметров ползунками",
+        "регулировать аудиоползунки эквалайзера",
+        "панель конфигурации с несколькими ползунками",
+        "ползунки конфигурации в настройках",
+        "изменить настройки вертикальными ползунками",
+        "изменить несколько значений ползунками",
+        "панель настроек с несколькими ползунками",
+        "ползунки настроек для кастомизации",
+        "несколько ползунков для точной настройки",
+        "ползунки в стиле эквалайзера",
+        "переключать несколько ползунков одновременно",
+        "переключать ползунки для каждого параметра"
+      ]
+    },
+    "regular": {
+      "en": [
+        "multiple sliders panel for audio equalizer",
+        "settings page with three adjustment sliders",
+        "filter panel with price and rating sliders",
+        "photo editor sliders for brightness contrast",
+        "advanced settings with vertical sliders",
+        "sliders icon for customization panel",
+        "music app equalizer with frequency sliders",
+        "dashboard with multiple control sliders",
+        "three-way configuration sliders",
+        "color adjustment sliders HSLA"
+      ],
+      "ru": [
+        "панель нескольких ползунков для аудиоэквалайзера",
+        "страница настроек с тремя регулировочными ползунками",
+        "панель фильтров с ползунками цены и рейтинга",
+        "редактор фото с ползунками яркости и контраста",
+        "расширенные настройки с вертикальными ползунками",
+        "иконка ползунков для панели кастомизации",
+        "эквалайзер музыкального приложения с ползунками частот",
+        "панель с несколькими управляющими ползунками",
+        "трёхсторонняя конфигурация ползунков",
+        "ползунки регулировки цвета HSLA"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sliders icon for the advanced settings panel",
+        "add sliders symbol to the audio equalizer feature",
+        "show sliders for the filter customization screen",
+        "use the sliders icon for the configuration dashboard"
+      ],
+      "ru": [
+        "мне нужна иконка ползунков для панели расширенных настроек",
+        "добавь символ ползунков в функцию аудиоэквалайзера",
+        "покажи ползунки для экрана кастомизации фильтров",
+        "используй иконку ползунков для конфигурационной панели"
+      ]
+    },
+    "typo": {
+      "en": [
+        "multipel sliders panel for equalizer",
+        "settigns page with three sliders",
+        "filtre panel with price sliders",
+        "colro adjustment sliders HSLA"
+      ],
+      "ru": [
+        "панель неколских ползунков для эквалайзера",
+        "страница нстроек с тремя ползунками",
+        "панель флитьров с ценовыми ползунками",
+        "ползунки регулировки цевта"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "single slider one control handle",
+        "toggle switch binary on off state",
+        "settings gear icon for configuration",
+        "knob dial for audio fine tuning",
+        "checkbox list multiple options",
+        "dropdown menu selection list"
+      ],
+      "ru": [
+        "один ползунок одна ручка управления",
+        "переключатель бинарное состояние",
+        "шестерёнка настроек для конфигурации",
+        "поворотная ручка для точной настройки звука",
+        "список флажков несколько опций",
+        "выпадающий список выбора"
+      ]
+    },
+    "valid": {
+      "en": [
+        "multiple sliders for app settings",
+        "equalizer-style sliders panel",
+        "three sliders configuration icon"
+      ],
+      "ru": [
+        "несколько ползунков для настроек",
+        "панель ползунков эквалайзера",
+        "иконка конфигурации трёх ползунков"
+      ]
+    },
+    "test": {
+      "en": [
+        "sliders icon for audio equalizer",
+        "settings panel with multiple controls",
+        "filter sliders for customization"
+      ],
+      "ru": [
+        "иконка ползунков для аудиоэквалайзера",
+        "панель настроек с несколькими элементами",
+        "ползунки фильтров для кастомизации"
+      ]
+    }
+  }
+}

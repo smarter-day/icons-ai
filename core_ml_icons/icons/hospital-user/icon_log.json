@@ -1,0 +1,81 @@
+{
+  "icon": "hospital-user",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "doctor",
+        "patient",
+        "primary care"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "See the doctor for a checkup",
+        "Schedule an appointment with the doctor",
+        "Register as a new patient",
+        "Check patient records",
+        "Visit primary care for a routine checkup",
+        "Find a primary care physician"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Book an appointment with the doctor",
+        "Visit the family doctor",
+        "Get a referral from the primary care doctor",
+        "Check in as a patient at the clinic",
+        "Review patient health history",
+        "Get a physical exam",
+        "See the doctor about the symptoms",
+        "Register at the new clinic",
+        "Follow up with the primary care doctor",
+        "Schedule a telehealth appointment"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Doctor visit",
+        "See the doc",
+        "Patient checkup",
+        "Primary care"
+      ]
+    },
+    "typo": {
+      "en": [
+        "book an appointemnt with doctr",
+        "vist the famly doctor",
+        "get a referrl from doctor",
+        "se the doctor about symtoms"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Go to the emergency room",
+        "Visit the specialist",
+        "Check into the hospital",
+        "Call the nurse station",
+        "See the dentist",
+        "Visit the pharmacy"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Book a doctor appointment",
+        "Visit the primary care physician",
+        "Follow up with the doctor"
+      ]
+    },
+    "test": {
+      "en": [
+        "Get a physical exam",
+        "Register as a new patient",
+        "Schedule a telehealth appointment"
+      ]
+    }
+  }
+}

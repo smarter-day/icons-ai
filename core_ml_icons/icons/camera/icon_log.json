@@ -1,0 +1,166 @@
+{
+  "icon": "camera",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "image",
+        "img",
+        "lens",
+        "photo",
+        "picture",
+        "record",
+        "shutter",
+        "video"
+      ],
+      "ru": [
+        "изображение",
+        "картинка",
+        "объектив",
+        "фото",
+        "снимок",
+        "запись",
+        "затвор",
+        "видео"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Image capture for the project",
+        "Image file from the photoshoot",
+        "Clean the camera lens before shooting",
+        "Photo session for the portfolio",
+        "Take a picture of the receipt",
+        "Record the event on camera",
+        "Press the shutter for the shot",
+        "Video camera setup for the stream",
+        "Image file renamed and organized in folders",
+        "IMG format converted to JPEG",
+        "Lens filter attached for the outdoor shoot",
+        "Photo album printed for the family",
+        "Picture taken from the mountain top",
+        "Record the lecture for review later",
+        "Shutter speed adjusted for the action shot",
+        "Video recording setup for the concert tonight"
+      ],
+      "ru": [
+        "Захват изображения для проекта",
+        "Файл изображения с фотосессии",
+        "Протереть объектив камеры перед съёмкой",
+        "Фотосессия для портфолио",
+        "Сфотографировать чек",
+        "Записать событие на камеру",
+        "Нажать затвор для снимка",
+        "Настройка видеокамеры для стрима",
+        "Файл изображения переименован и упорядочен",
+        "IMG формат конвертирован в JPEG",
+        "Фильтр для объектива установлен для съёмки",
+        "Фотоальбом распечатан для семьи",
+        "Фото сделано с вершины горы",
+        "Записать лекцию для последующего просмотра",
+        "Выдержка затвора настроена для экшн-кадра",
+        "Настройка видеозаписи для концерта сегодня"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Take photos at the wedding",
+        "Camera roll backup before the trip",
+        "Set up the camera for the shoot",
+        "Portrait mode on the phone camera",
+        "Camera battery check before the event",
+        "Zoom in with the telephoto lens",
+        "Night mode photos of the city",
+        "Camera settings for low light",
+        "Action camera for the hike",
+        "Selfie for the event album"
+      ],
+      "ru": [
+        "Фотографировать на свадьбе",
+        "Резервная копия фото перед поездкой",
+        "Настроить камеру для съёмки",
+        "Режим портрета на камере телефона",
+        "Проверить заряд батареи камеры перед мероприятием",
+        "Приблизить с телефото-объективом",
+        "Ночные фото города",
+        "Настройки камеры для слабого освещения",
+        "Экшн-камера для похода",
+        "Селфи для альбома мероприятия"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "grab the camera before we leave",
+        "camera roll is almost full",
+        "get a quick photo here",
+        "don't forget to take pictures"
+      ],
+      "ru": [
+        "возьми камеру перед выходом",
+        "галерея почти заполнена",
+        "сделай быстрое фото здесь",
+        "не забудь сфотографировать"
+      ]
+    },
+    "typo": {
+      "en": [
+        "camara settings for low light",
+        "take phtos at the event",
+        "shuter speed for the shot",
+        "caemra backup before the trip"
+      ],
+      "ru": [
+        "натройки камеры для слабого света",
+        "сделать фотки на мероприятии",
+        "скорость затвро для снимка",
+        "резервная копия камеры перед поездкой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Screen recording on the laptop",
+        "Video call setup with the webcam",
+        "Screenshot of the app bug",
+        "Photo album from the vacation",
+        "Scan the document to PDF",
+        "Security camera check for the property"
+      ],
+      "ru": [
+        "Запись экрана на ноутбуке",
+        "Настройка видеозвонка с веб-камерой",
+        "Скриншот бага в приложении",
+        "Фотоальбом с отпуска",
+        "Сканировать документ в PDF",
+        "Проверка камеры безопасности для помещения"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Bring the camera to the event",
+        "Camera setup for the product shoot",
+        "Take photos at the family gathering"
+      ],
+      "ru": [
+        "Взять камеру на мероприятие",
+        "Настройка камеры для съёмки товара",
+        "Фотографировать на семейном собрании"
+      ]
+    },
+    "test": {
+      "en": [
+        "Quick photo before leaving",
+        "Camera check before the trip",
+        "Portrait session this weekend"
+      ],
+      "ru": [
+        "Быстрое фото перед выходом",
+        "Проверка камеры перед поездкой",
+        "Фотосессия-портрет в эти выходные"
+      ]
+    }
+  }
+}

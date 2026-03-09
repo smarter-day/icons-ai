@@ -1,0 +1,90 @@
+{
+  "icon": "flower",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "blossom",
+        "daffodil",
+        "flower",
+        "nature",
+        "spring",
+        "summer"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cherry blossom in spring",
+        "blossom opening on the flower tree",
+        "yellow daffodil in the spring garden",
+        "daffodil blooming after winter",
+        "flower blooming in the garden",
+        "single flower with colorful petals",
+        "flower in the nature meadow",
+        "nature flower growing wild",
+        "spring flower garden in full bloom",
+        "flower garden in spring",
+        "summer flower field in full bloom",
+        "summer sunflower in the garden"
+      ]
+    },
+    "regular": {
+      "en": [
+        "single flower with colorful petals",
+        "spring flower garden in full bloom",
+        "yellow daffodil nodding in the breeze",
+        "bouquet of mixed flowers for the occasion",
+        "wild flower growing by the meadow path",
+        "flower petal falling in the summer breeze",
+        "flower planted in the window box",
+        "flower pressed between the book pages",
+        "sunflower facing toward the morning light",
+        "cherry blossom flower on the tree branch"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a flower icon for the garden app",
+        "add a flower symbol to the spring section",
+        "show a flower for the nature category",
+        "use the flower icon for the florist feature"
+      ]
+    },
+    "typo": {
+      "en": [
+        "flwer in the garden",
+        "blosoom in spring",
+        "daffodil blooming in summre",
+        "gardn flower growing wild"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "green leaf on the tree branch",
+        "potted plant on the windowsill",
+        "thorny rose on the Valentine's stem",
+        "tulip opening in the spring garden",
+        "daisy with white petals and yellow center",
+        "lotus flower floating on the pond"
+      ]
+    },
+    "valid": {
+      "en": [
+        "flower with petals in the garden",
+        "spring flower blooming symbol",
+        "daffodil flower icon"
+      ]
+    },
+    "test": {
+      "en": [
+        "flower icon for nature",
+        "flower symbol for spring",
+        "blooming flower"
+      ]
+    }
+  }
+}

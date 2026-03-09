@@ -1,0 +1,90 @@
+{
+  "icon": "kitchen-set",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "chef",
+        "cook",
+        "kitchen",
+        "pan",
+        "pot",
+        "skillet"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Cook like a professional chef",
+        "Watch a chef demonstrate",
+        "Cook a new recipe tonight",
+        "Learn to cook at home",
+        "Organize the kitchen drawers",
+        "Clean the kitchen counters",
+        "Buy a non-stick pan",
+        "Season the pan before use",
+        "Boil water in the pot",
+        "Make soup in the pot",
+        "Sear meat in the skillet",
+        "Cook eggs in the skillet"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Cook dinner in the kitchen",
+        "Buy a new pot and pan set",
+        "Season the cast iron skillet",
+        "Organize kitchen utensils",
+        "Cook a stir-fry in the wok",
+        "Boil pasta in a large pot",
+        "Fry eggs in the skillet",
+        "Replace old pots and pans",
+        "Clean the kitchen after cooking",
+        "Set up the kitchen for meal prep"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Cook dinner!",
+        "New pan set",
+        "Kitchen time",
+        "Meal prep"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cook dinnre in the kitchn",
+        "buy a new pot and pna set",
+        "seasson the casst iron",
+        "organizee kicthen utensilss"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Wear a chef hat for the event",
+        "Use the microwave to heat food",
+        "Use the oven to bake",
+        "Set up the dining table",
+        "Use a blender for smoothies",
+        "Buy kitchen appliances"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Cook dinner in the kitchen",
+        "Buy a new pot and pan set",
+        "Season the cast iron skillet"
+      ]
+    },
+    "test": {
+      "en": [
+        "Organize kitchen utensils",
+        "Boil pasta in a large pot",
+        "Clean the kitchen after cooking"
+      ]
+    }
+  }
+}

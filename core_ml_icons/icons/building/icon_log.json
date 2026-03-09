@@ -1,0 +1,172 @@
+{
+  "icon": "building",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "apartment",
+        "building",
+        "business",
+        "city",
+        "company",
+        "office",
+        "office building",
+        "urban",
+        "work"
+      ],
+      "ru": [
+        "квартира",
+        "здание",
+        "бизнес",
+        "город",
+        "компания",
+        "офис",
+        "офисное здание",
+        "городской",
+        "работа"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "view the apartment building",
+        "inspect the building",
+        "head to the business office",
+        "city building permit",
+        "company headquarters visit",
+        "go to the office building",
+        "office building maintenance",
+        "urban building project",
+        "work at the downtown building",
+        "Apartment building lease signed today",
+        "Building permit application submitted",
+        "Business address registered in the system",
+        "City hall appointment for the permit",
+        "Company directory updated with new address",
+        "Office rent negotiation with the landlord",
+        "Office building fire drill this week",
+        "Urban zoning review for the project",
+        "Work commute to the downtown building"
+      ],
+      "ru": [
+        "осмотреть жилой дом",
+        "осмотреть здание",
+        "ехать в деловой офис",
+        "разрешение на строительство в городе",
+        "визит в штаб-квартиру компании",
+        "ехать в офисное здание",
+        "техническое обслуживание офисного здания",
+        "городской строительный проект",
+        "работать в здании в центре города",
+        "Договор аренды жилого дома подписан сегодня",
+        "Заявление на разрешение на строительство подано",
+        "Рабочий адрес зарегистрирован в системе",
+        "Запись в мэрию за разрешением",
+        "Корпоративный справочник обновлён с новым адресом",
+        "Переговоры об аренде офиса с арендодателем",
+        "Пожарная тревога в офисном здании на этой неделе",
+        "Пересмотр городского зонирования для проекта",
+        "Дорога на работу в центр города"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Head to the office building",
+        "Company headquarters meeting",
+        "Building inspection scheduled",
+        "Office building maintenance check",
+        "City building permit application",
+        "Visit the business downtown",
+        "New office building tour",
+        "Work commute to the building",
+        "Corporate building security badge",
+        "Building renovation project"
+      ],
+      "ru": [
+        "Ехать в офисное здание",
+        "Встреча в штаб-квартире компании",
+        "Запланированная инспекция здания",
+        "Проверка технического обслуживания офисного здания",
+        "Подача заявки на разрешение на строительство в городе",
+        "Посетить бизнес в центре города",
+        "Экскурсия по новому офисному зданию",
+        "Добраться до работы",
+        "Пропуск безопасности корпоративного здания",
+        "Проект реновации здания"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need to go to the office today",
+        "The building is right downtown",
+        "Company meeting at headquarters",
+        "Let's meet at the office building"
+      ],
+      "ru": [
+        "Мне нужно ехать в офис сегодня",
+        "Здание прямо в центре города",
+        "Встреча компании в штаб-квартире",
+        "Встретимся в офисном здании"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Haed to the offce bildng",
+        "Cmpany HQ meting",
+        "Buildng inspecton schduled",
+        "Ofice bildng maintnance chek"
+      ],
+      "ru": [
+        "Ехать в офс зданние",
+        "Встреча в штб-квартире компании",
+        "Запланирваная инспекция зданя",
+        "Техобслужвание офисного здания"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Find an apartment to rent",
+        "City hall visit",
+        "Factory tour",
+        "Shopping mall visit",
+        "Bank visit",
+        "Hospital building"
+      ],
+      "ru": [
+        "Найти квартиру в аренду",
+        "Посетить мэрию",
+        "Экскурсия по заводу",
+        "Посещение торгового центра",
+        "Визит в банк",
+        "Больничное здание"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Office building meeting today",
+        "Company headquarters inspection",
+        "Building permit application for the city"
+      ],
+      "ru": [
+        "Встреча в офисном здании сегодня",
+        "Инспекция штаб-квартиры компании",
+        "Подача заявки на разрешение на строительство"
+      ]
+    },
+    "test": {
+      "en": [
+        "Head to the downtown office building",
+        "Corporate building badge renewal",
+        "City building permit update"
+      ],
+      "ru": [
+        "Ехать в офисное здание в центре города",
+        "Продление пропуска в корпоративное здание",
+        "Обновление разрешения на строительство в городе"
+      ]
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "icon": "baby-carriage",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "buggy",
+        "carrier",
+        "infant",
+        "push",
+        "stroller",
+        "transportation",
+        "walk",
+        "wheels"
+      ],
+      "ru": [
+        "коляска",
+        "переноска",
+        "младенец",
+        "толкать",
+        "коляска",
+        "транспорт",
+        "прогулка",
+        "колёса"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "take the buggy out",
+        "use the baby carrier",
+        "infant outing",
+        "push the stroller around the block",
+        "fold the stroller",
+        "infant transportation for the trip",
+        "walk with the pram",
+        "replace the stroller wheels",
+        "Buggy wheel needs repair",
+        "Baby carrier on the hiking trail",
+        "Infant nap time stroll in the park",
+        "Push the pram around the neighbourhood",
+        "Stroller rain cover purchase",
+        "Baby transportation for the city trip",
+        "Walk with the baby in the carriage",
+        "New wheels for the stroller"
+      ],
+      "ru": [
+        "взять коляску на прогулку",
+        "использовать слинг-переноску",
+        "прогулка с грудничком",
+        "везти коляску вокруг квартала",
+        "сложить коляску",
+        "транспортировка малыша в поездке",
+        "прогулка с коляской",
+        "заменить колёса на коляске",
+        "Починить колесо детской коляски",
+        "Слинг для похода с малышом",
+        "Прогулка с коляской во время дневного сна",
+        "Прогулка с колясочкой по кварталу",
+        "Купить дождевик для коляски",
+        "Транспортировка малыша в поездке по городу",
+        "Прогулка с ребёнком в коляске",
+        "Новые колёса для детской коляски"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Take baby for a walk in the stroller",
+        "Buy a new stroller",
+        "Morning walk with the buggy",
+        "Fold and pack the stroller",
+        "Research best baby carriages",
+        "Take the pram to the park",
+        "Walk in the park with the baby",
+        "Stroller maintenance check",
+        "Order new stroller wheels",
+        "Compare stroller models"
+      ],
+      "ru": [
+        "Погулять с малышом в коляске",
+        "Купить новую коляску",
+        "Утренняя прогулка с коляской",
+        "Сложить и упаковать коляску",
+        "Изучить лучшие детские коляски",
+        "Пойти с коляской в парк",
+        "Прогулка по парку с малышом",
+        "Техническое обслуживание коляски",
+        "Заказать новые колёса для коляски",
+        "Сравнить модели колясок"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Take the little one out for some fresh air",
+        "Go for a walk with the baby today",
+        "Need to get a new stroller",
+        "Baby walk before nap time"
+      ],
+      "ru": [
+        "Вывезти малыша на свежий воздух",
+        "Сегодня погулять с малышом",
+        "Надо купить новую коляску",
+        "Прогулка с малышом перед сном"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Strollar check",
+        "Puchchair maintenace",
+        "Buggie for the baby",
+        "Parm for the walk"
+      ],
+      "ru": [
+        "Прогулка на каляске",
+        "Кафляска для малыша",
+        "Техобслуживание каляски",
+        "Вечерняя прогулука"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy baby clothes",
+        "Walk the dog",
+        "Afternoon jog",
+        "Grocery run",
+        "Family outing",
+        "Check baby's schedule"
+      ],
+      "ru": [
+        "Купить одежду для малыша",
+        "Погулять с собакой",
+        "Послеобеденная пробежка",
+        "Поход в магазин",
+        "Семейная прогулка",
+        "Проверить расписание малыша"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Take a walk around the neighborhood",
+        "Grab the stroller before heading out",
+        "Sign up for a stroller-friendly route"
+      ],
+      "ru": [
+        "Прогулка по окрестностям",
+        "Взять коляску перед выходом",
+        "Записаться на маршрут для колясок"
+      ]
+    },
+    "test": {
+      "en": [
+        "Afternoon outing with the baby",
+        "Bring the carriage to the repair shop",
+        "Pack the stroller for the trip"
+      ],
+      "ru": [
+        "Дневная прогулка с малышом",
+        "Отвезти коляску в ремонт",
+        "Упаковать коляску в поездку"
+      ]
+    }
+  }
+}

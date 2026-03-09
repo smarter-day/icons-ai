@@ -1,0 +1,184 @@
+{
+  "icon": "broom",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "broom",
+        "clean",
+        "cleaning",
+        "firebolt",
+        "fly",
+        "halloween",
+        "nimbus 2000",
+        "quidditch",
+        "sweep",
+        "sweeping",
+        "witch"
+      ],
+      "ru": [
+        "метла",
+        "чистый",
+        "уборка",
+        "Firebolt",
+        "летать",
+        "хэллоуин",
+        "Nimbus 2000",
+        "квиддич",
+        "подметать",
+        "подметание",
+        "ведьма"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "sweep with the broom",
+        "clean the house today",
+        "cleaning day this Saturday",
+        "Firebolt broom for Harry Potter theme",
+        "fly on a broomstick costume",
+        "witch on broom decoration for Halloween",
+        "Nimbus 2000 costume prop",
+        "quidditch match viewing party",
+        "sweep the floor",
+        "sweeping the porch",
+        "witch with broom costume",
+        "New broom for the kitchen and hallway",
+        "Spring clean the whole house this week",
+        "Saturday morning cleaning session",
+        "Firebolt replica on display in the room",
+        "Witch flying on a broom costume idea",
+        "Halloween broom decoration done",
+        "Nimbus 2000 prop for the HP party",
+        "Quidditch costume accessories list",
+        "Sweep the leaves from the garden path",
+        "Sweeping up after the renovation work",
+        "Witch's broom prop for the stage show"
+      ],
+      "ru": [
+        "подмести метлой",
+        "убрать дом сегодня",
+        "день уборки в эту субботу",
+        "метла Firebolt для темы Гарри Поттера",
+        "костюм с полётом на метле",
+        "украшение ведьма на метле на Хэллоуин",
+        "реквизит Nimbus 2000 для костюма",
+        "просмотровая вечеринка матча по квиддичу",
+        "подмести пол",
+        "подметание крыльца",
+        "костюм ведьмы с метлой",
+        "Новая метла для кухни и коридора",
+        "Генеральная уборка всего дома весной",
+        "Субботняя утренняя уборка",
+        "Реплика Огненного болта на витрине в комнате",
+        "Идея костюма ведьмы на метле",
+        "Хэллоуинское украшение метлой готово",
+        "Реквизит Nimbus 2000 для вечеринки по ГП",
+        "Список аксессуаров для костюма квиддич",
+        "Подмести опавшие листья с садовой дорожки",
+        "Уборка после ремонта",
+        "Метла ведьмы как реквизит для сцены"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Sweep the kitchen floor",
+        "Clean the house top to bottom",
+        "Buy a new broom for the hallway",
+        "Sweep the front porch",
+        "Cleaning day — start with the floors",
+        "Halloween broom decoration",
+        "Witch costume with broom",
+        "Sweep up after the party",
+        "Broom closet organization",
+        "Deep clean the floors this weekend"
+      ],
+      "ru": [
+        "Подмести кухонный пол",
+        "Убрать дом от начала до конца",
+        "Купить новую метлу для коридора",
+        "Подмести крыльцо",
+        "День уборки — начать с полов",
+        "Украшение с метлой на Хэллоуин",
+        "Костюм ведьмы с метлой",
+        "Подмести после вечеринки",
+        "Организация кладовки с метлой",
+        "Генеральная уборка полов в эти выходные"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "The floor is a mess — need to sweep",
+        "Let's do a proper clean this weekend",
+        "My broom is worn out — need a new one",
+        "Halloween decorations need a witch and broom"
+      ],
+      "ru": [
+        "На полу беспорядок — надо подмести",
+        "Давайте устроим нормальную уборку в выходные",
+        "Метла совсем изношена — нужна новая",
+        "Для украшений на Хэллоуин нужны ведьма и метла"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Seeep the kitchn flor",
+        "Clen the hous top to bttom",
+        "Buy a new brom for the hallwey",
+        "Witch costum with brom"
+      ],
+      "ru": [
+        "Падмести кухонный пол",
+        "Убарть дом от начала до конца",
+        "Купить новую метлу для коридра",
+        "Костюм ведьмы с метолй"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Mop the floors",
+        "Vacuum the carpet",
+        "Clean the bathroom",
+        "Dust the shelves",
+        "Take out the trash",
+        "General house cleaning"
+      ],
+      "ru": [
+        "Помыть полы шваброй",
+        "Пропылесосить ковёр",
+        "Убрать ванную",
+        "Вытереть пыль с полок",
+        "Вынести мусор",
+        "Генеральная уборка дома"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Sweep the kitchen floor tonight",
+        "Halloween witch broom decoration",
+        "Saturday cleaning with the broom"
+      ],
+      "ru": [
+        "Подмести кухонный пол сегодня вечером",
+        "Украшение с ведьмой на метле на Хэллоуин",
+        "Уборка метлой в субботу"
+      ]
+    },
+    "test": {
+      "en": [
+        "Sweep up the leaves on the porch",
+        "Witch costume with broom prop",
+        "Clean the floors after the party"
+      ],
+      "ru": [
+        "Подмести листья на крыльце",
+        "Реквизит ведьмы с метлой для костюма",
+        "Убрать полы после вечеринки"
+      ]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "icon": "piano",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "grand piano",
+        "instrument",
+        "keyboard",
+        "keys",
+        "midi",
+        "music"
+      ],
+      "ru": [
+        "рояль",
+        "инструмент",
+        "клавиатура",
+        "клавиши",
+        "midi",
+        "музыка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "grand piano concert hall",
+        "grand piano recital performance",
+        "musical instrument piano",
+        "classic instrument piano",
+        "piano keyboard practice",
+        "keyboard instrument learning",
+        "piano keys black and white",
+        "eighty-eight piano keys",
+        "MIDI keyboard piano input",
+        "record MIDI piano notes",
+        "music played on piano",
+        "piano music composition"
+      ],
+      "ru": [
+        "рояль в концертном зале",
+        "выступление на рояле",
+        "музыкальный инструмент фортепиано",
+        "классический инструмент фортепиано",
+        "практика игры на фортепиано",
+        "обучение клавишному инструменту",
+        "чёрные и белые клавиши фортепиано",
+        "восемьдесят восемь клавиш фортепиано",
+        "ввод MIDI клавиатуры фортепиано",
+        "запись MIDI нот фортепиано",
+        "музыка сыгранная на фортепиано",
+        "сочинение музыки для фортепиано"
+      ]
+    },
+    "regular": {
+      "en": [
+        "baby grand piano in music room",
+        "upright piano against the wall",
+        "piano keyboard icon for music app",
+        "concert grand piano on stage",
+        "learning to play piano keys",
+        "digital piano with weighted keys",
+        "piano recital music performance",
+        "sheet music on piano stand",
+        "piano teacher and student lesson",
+        "piano keys close-up for music"
+      ],
+      "ru": [
+        "кабинетный рояль в музыкальной комнате",
+        "вертикальное пианино у стены",
+        "иконка клавиатуры пианино для музыкального приложения",
+        "концертный рояль на сцене",
+        "учиться играть на клавишах пианино",
+        "цифровое пианино с взвешенными клавишами",
+        "музыкальное выступление на рояле",
+        "ноты на подставке пианино",
+        "урок с учителем и учеником фортепиано",
+        "крупный план клавиш фортепиано для музыки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a piano icon for the music instruments section",
+        "add a piano keys symbol to the music app",
+        "show a piano for the keyboard instrument filter",
+        "use the piano icon for the classical music feature"
+      ],
+      "ru": [
+        "Мне нужна иконка фортепиано для раздела музыкальных инструментов",
+        "добавить символ клавиш пианино в музыкальное приложение",
+        "показать фортепиано для фильтра клавишных инструментов",
+        "использовать иконку фортепиано для функции классической музыки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "paino keys music",
+        "grnad piano",
+        "keyborad instrument",
+        "pian music"
+      ],
+      "ru": [
+        "фортеипано клавиши",
+        "рояь концерт",
+        "клавиатра инструмент",
+        "фортепино музыка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "guitar stringed instrument",
+        "violin bowed string instrument",
+        "drum kit percussion instrument",
+        "organ pipe with keyboard",
+        "accordion with bellows",
+        "synthesizer electronic keyboard"
+      ],
+      "ru": [
+        "гитара струнный инструмент",
+        "скрипка смычковый инструмент",
+        "барабанная установка ударный инструмент",
+        "орган с трубами и клавиатурой",
+        "аккордеон с мехами",
+        "синтезатор электронная клавиатура"
+      ]
+    },
+    "valid": {
+      "en": [
+        "piano instrument icon",
+        "piano keys music",
+        "grand piano for music app"
+      ],
+      "ru": [
+        "иконка инструмента фортепиано",
+        "клавиши фортепиано музыка",
+        "рояль для музыкального приложения"
+      ]
+    },
+    "test": {
+      "en": [
+        "piano icon",
+        "piano keyboard instrument",
+        "grand piano music"
+      ],
+      "ru": [
+        "иконка фортепиано",
+        "клавишный инструмент фортепиано",
+        "рояль музыка"
+      ]
+    }
+  }
+}

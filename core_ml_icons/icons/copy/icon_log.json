@@ -1,0 +1,87 @@
+{
+  "icon": "copy",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "clone",
+        "duplicate",
+        "file",
+        "paper",
+        "paste"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Clone the repository",
+        "Clone the existing template",
+        "Duplicate the document",
+        "Duplicate the layer in the design",
+        "Copy the file to another folder",
+        "Attach the file to the email",
+        "Print on paper",
+        "Scan the paper document",
+        "Copy and paste the text",
+        "Paste the copied content"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Copy the text from the document",
+        "Paste the link into the message",
+        "Duplicate the file before editing",
+        "Make a backup copy of the document",
+        "Copy the template for a new project",
+        "Clone the design for a new version",
+        "Copy the code snippet",
+        "Paste the address into the form",
+        "Duplicate the spreadsheet",
+        "Make a copy of the contract"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Copy that",
+        "Duplicate it",
+        "Just copy-paste",
+        "Make a copy"
+      ]
+    },
+    "typo": {
+      "en": [
+        "coppy the text",
+        "duplciate the file",
+        "paste the copeid text",
+        "mak a copy of the doc"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Move the file to the new folder",
+        "Cut and paste the paragraph",
+        "Share the document with the team",
+        "Delete the original file",
+        "Archive the old version",
+        "Export the document as PDF"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Copy the document",
+        "Duplicate the file",
+        "Paste the copied text"
+      ]
+    },
+    "test": {
+      "en": [
+        "Make a backup copy",
+        "Clone the template",
+        "Copy and paste the content"
+      ]
+    }
+  }
+}

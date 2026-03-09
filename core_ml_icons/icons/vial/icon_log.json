@@ -1,0 +1,178 @@
+{
+  "icon": "vial",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ampule",
+        "chemist",
+        "chemistry",
+        "experiment",
+        "knowledge",
+        "lab",
+        "sample",
+        "science",
+        "test",
+        "test tube"
+      ],
+      "ru": [
+        "ампула",
+        "химик",
+        "химия",
+        "эксперимент",
+        "знание",
+        "лаборатория",
+        "образец",
+        "наука",
+        "тест",
+        "пробирка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "ampule glass vial medicine",
+        "ampule sealed vial injection",
+        "chemist vial chemical analysis",
+        "chemist lab vial work",
+        "chemistry vial liquid color",
+        "chemistry experiment vial",
+        "experiment vial lab test",
+        "experiment vial reaction",
+        "knowledge lab vial science",
+        "knowledge gained from vial test",
+        "lab vial sample analysis",
+        "lab vial rack collection",
+        "sample vial blood test",
+        "sample collection vial",
+        "science vial experiment result",
+        "science lab vial chemistry",
+        "test vial diagnostic lab",
+        "test vial result check",
+        "test tube vial glass",
+        "test tube holder vial rack"
+      ],
+      "ru": [
+        "стеклянная ампула лекарство",
+        "запаянная ампула инъекция",
+        "химик ампула химический анализ",
+        "химик работа с ампулой",
+        "цветная жидкость в ампуле химия",
+        "химический эксперимент ампула",
+        "ампула лаборатории тест эксперимент",
+        "реакция в ампуле эксперимент",
+        "знание лаборатория ампула наука",
+        "знание из лабораторного теста",
+        "образец в ампуле анализ",
+        "стойка ампул лаборатория",
+        "ампула анализа крови образец",
+        "сбор образца ампула",
+        "результат эксперимента науки ампула",
+        "лаборатория науки ампула химия",
+        "диагностическая ампула лаборатории",
+        "результат теста ампулы проверка",
+        "стеклянная пробирка ампула",
+        "держатель пробирок стойка ампул"
+      ]
+    },
+    "regular": {
+      "en": [
+        "glass vial with colored liquid sample",
+        "lab vial rack multiple samples",
+        "medicine vial injection pharmaceutical",
+        "vaccine vial needle syringe",
+        "chemistry vial boiling experiment",
+        "blood sample collection vial",
+        "vial label contents identifier",
+        "single vial on lab bench",
+        "vial stopper rubber cap",
+        "clinical trial vial numbered"
+      ],
+      "ru": [
+        "стеклянная ампула с цветным образцом",
+        "стойка ампул несколько образцов",
+        "медицинская ампула инъекция фармацевтика",
+        "ампула вакцины игла шприц",
+        "ампула кипящего эксперимента химия",
+        "ампула сбора крови образец",
+        "этикетка ампулы содержимое идентификатор",
+        "одна ампула на лабораторном столе",
+        "пробка ампулы резиновая крышка",
+        "пронумерованная ампула клинических испытаний"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a vial icon for the lab section",
+        "add a test tube symbol to the science feature",
+        "show a vial for the chemistry experiment",
+        "use the vial icon for the sample collection"
+      ],
+      "ru": [
+        "нужна иконка ампулы для лабораторного раздела",
+        "добавь символ пробирки к научной функции",
+        "покажи ампулу для химического эксперимента",
+        "используй иконку ампулы для сбора образцов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "viall lab sample",
+        "amuple medicine vial",
+        "labroatory vial test",
+        "chemitry vial liquid"
+      ],
+      "ru": [
+        "ампула лаборатория образец",
+        "медицинская ампула",
+        "лаборатория ампула тест",
+        "химия ампула жидкость"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "vials multiple tubes rack",
+        "flask round bottom chemistry",
+        "beaker glass container",
+        "syringe injection needle",
+        "bottle medicine closed",
+        "microscope slide specimen"
+      ],
+      "ru": [
+        "несколько ампул стойка",
+        "круглодонная колба химия",
+        "стакан стеклянный контейнер",
+        "шприц инъекция игла",
+        "флакон лекарство закрытый",
+        "предметное стекло микроскопа образец"
+      ]
+    },
+    "valid": {
+      "en": [
+        "lab vial test tube icon",
+        "chemistry vial sample symbol",
+        "science vial experiment"
+      ],
+      "ru": [
+        "иконка пробирки лаборатории",
+        "символ ампулы образца химии",
+        "наука ампула эксперимент"
+      ]
+    },
+    "test": {
+      "en": [
+        "vial icon lab",
+        "test tube symbol",
+        "chemistry vial sample"
+      ],
+      "ru": [
+        "иконка ампулы лаборатория",
+        "символ пробирки",
+        "ампула химия образец"
+      ]
+    }
+  }
+}

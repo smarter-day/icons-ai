@@ -1,0 +1,136 @@
+{
+  "icon": "screencast",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "airplay",
+        "share",
+        "stream"
+      ],
+      "ru": [
+        "airplay",
+        "поделиться",
+        "трансляция"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "airplay mirroring to Apple TV",
+        "airplay streaming video to big screen",
+        "share screen to projector wirelessly",
+        "share display content to TV",
+        "stream screen to Chromecast device",
+        "stream presentation to conference room"
+      ],
+      "ru": [
+        "airplay зеркалирование на Apple TV",
+        "airplay потоковое видео на большой экран",
+        "поделиться экраном с проектором по Wi-Fi",
+        "поделиться содержимым экрана на ТВ",
+        "трансляция экрана на Chromecast",
+        "трансляция презентации в переговорную"
+      ]
+    },
+    "regular": {
+      "en": [
+        "cast icon showing screen mirroring to TV",
+        "wireless screencast from laptop to monitor",
+        "Chromecast symbol for streaming screen",
+        "AirPlay icon on iPhone for TV mirroring",
+        "screen sharing icon in video call toolbar",
+        "cast button sending presentation to projector",
+        "screencasting gaming content to stream",
+        "phone screen cast to large display",
+        "wireless display sharing icon in settings",
+        "screencast notification during video call"
+      ],
+      "ru": [
+        "иконка трансляции зеркалирования на ТВ",
+        "беспроводная трансляция с ноутбука на монитор",
+        "символ Chromecast для трансляции экрана",
+        "иконка AirPlay на iPhone для зеркалирования",
+        "иконка совместного показа экрана на панели видеозвонка",
+        "кнопка трансляции презентации на проектор",
+        "трансляция игрового контента для стриминга",
+        "трансляция экрана телефона на большой дисплей",
+        "иконка беспроводного общего экрана в настройках",
+        "уведомление о трансляции экрана во время звонка"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a screencast icon for the screen sharing feature",
+        "add an airplay symbol to the media controls",
+        "show a cast icon for the wireless display section",
+        "use the screencast icon for the stream to TV button"
+      ],
+      "ru": [
+        "мне нужна иконка трансляции для функции демонстрации экрана",
+        "добавь символ airplay в медиаконтролы",
+        "покажи иконку трансляции для раздела беспроводного дисплея",
+        "используй иконку трансляции для кнопки вещания на ТВ"
+      ]
+    },
+    "typo": {
+      "en": [
+        "airply mirroring to Apple TV",
+        "wirless screencast from laptop to monitor",
+        "Chomecast symbol for streaming screen",
+        "sreen sharing icon in video toolbar"
+      ],
+      "ru": [
+        "airpaly зеркалирование на Apple TV",
+        "беспроводная трансяция с ноутбука",
+        "символ Chromcast для трансляции",
+        "иконка общго экрана в инструментах видео"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "projector beaming content to wall screen",
+        "HDMI cable connecting laptop to monitor",
+        "Bluetooth speaker pairing symbol",
+        "wifi network connection symbol",
+        "video call screen sharing layout",
+        "picture-in-picture mode floating small screen"
+      ],
+      "ru": [
+        "проектор транслирует контент на экран стены",
+        "HDMI кабель соединяет ноутбук с монитором",
+        "символ сопряжения Bluetooth-колонки",
+        "символ подключения к сети Wi-Fi",
+        "совместный показ экрана в видеозвонке",
+        "режим картинка-в-картинке с маленьким экраном"
+      ]
+    },
+    "valid": {
+      "en": [
+        "screencast icon for wireless display sharing",
+        "AirPlay symbol for screen mirroring",
+        "cast button streaming to TV or projector"
+      ],
+      "ru": [
+        "иконка трансляции для беспроводного экрана",
+        "символ AirPlay для зеркалирования",
+        "кнопка трансляции на ТВ или проектор"
+      ]
+    },
+    "test": {
+      "en": [
+        "screen sharing cast icon in toolbar",
+        "wireless screencast to Chromecast device",
+        "airplay mirroring to large display"
+      ],
+      "ru": [
+        "иконка демонстрации экрана в панели инструментов",
+        "беспроводная трансляция на Chromecast",
+        "зеркалирование на большой дисплей по AirPlay"
+      ]
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "icon": "boombox",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Portable Stereo",
+        "cassette",
+        "jambox",
+        "john cusack",
+        "music",
+        "radio",
+        "say anything"
+      ],
+      "ru": [
+        "Portable Stereo",
+        "кассета",
+        "jambox",
+        "Джон Кьюсак",
+        "музыка",
+        "радио",
+        "Say Anything"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bring the portable stereo to the beach",
+        "make a cassette mixtape",
+        "set up the jambox for the party",
+        "john cusack movie marathon",
+        "play music at the event",
+        "listen to the radio",
+        "say anything movie night",
+        "Portable stereo for the backyard BBQ",
+        "Cassette deck repair appointment",
+        "Jambox paired with the phone",
+        "John Cusack 80s film festival night",
+        "Background music playlist for the store",
+        "Morning radio show on the commute",
+        "Say Anything rewatch with friends tonight"
+      ],
+      "ru": [
+        "взять портативную колонку на пляж",
+        "сделать кассету-микстейп",
+        "настроить jambox для вечеринки",
+        "марафон фильмов с Джоном Кьюсаком",
+        "включить музыку на мероприятии",
+        "послушать радио",
+        "вечер фильма Say Anything",
+        "Портативная стереосистема для барбекю во дворе",
+        "Ремонт кассетного деки",
+        "Джембокс подключён к телефону",
+        "Фестиваль фильмов 80-х с Джоном Кьюсаком",
+        "Фоновый музыкальный плейлист для магазина",
+        "Утреннее радиошоу в дороге",
+        "Пересмотреть «Скажи что-нибудь» с друзьями"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Play music at the outdoor party",
+        "Bring the boombox to the beach",
+        "Set up speakers for the event",
+        "Blast music in the backyard",
+        "Cassette tape collection",
+        "Play the radio in the morning",
+        "Take the portable speaker on the hike",
+        "Set up the sound system for the party",
+        "Music for the block party",
+        "Play old school tunes"
+      ],
+      "ru": [
+        "Включить музыку на вечеринке на улице",
+        "Взять магнитолу на пляж",
+        "Настроить колонки для мероприятия",
+        "Громкая музыка во дворе",
+        "Коллекция кассет",
+        "Включить радио утром",
+        "Взять портативную колонку в поход",
+        "Настроить звуковую систему для вечеринки",
+        "Музыка для квартальной вечеринки",
+        "Слушать старую школу"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "We need some music at this party",
+        "I wish I had a boombox right now",
+        "Let's blast some music in the backyard",
+        "Nothing like old school boombox vibes"
+      ],
+      "ru": [
+        "На этой вечеринке нужна музыка",
+        "Хочу магнитолу прямо сейчас",
+        "Давайте врубим музыку во дворе",
+        "Ничто не сравнится с атмосферой старой магнитолы"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Bring the boombox to the bech",
+        "Play muisic at the praty",
+        "Cassete tape collectoin",
+        "Blast muisic in the backyrd"
+      ],
+      "ru": [
+        "Взять магнитолу на пляж",
+        "Включть мзыку на вечерниве",
+        "Коллекця кассет",
+        "Громкая музыкa во двореe"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Set up the speaker system",
+        "Connect bluetooth speaker",
+        "Play music from the phone",
+        "Turn on the TV sound",
+        "Radio app on the phone",
+        "Vinyl record collection"
+      ],
+      "ru": [
+        "Настроить акустическую систему",
+        "Подключить Bluetooth-колонку",
+        "Включить музыку с телефона",
+        "Включить звук телевизора",
+        "Радиоприложение на телефоне",
+        "Коллекция виниловых пластинок"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Boombox for the backyard party",
+        "Bring the portable stereo to the picnic",
+        "Old school cassette tape music night"
+      ],
+      "ru": [
+        "Магнитола для вечеринки во дворе",
+        "Взять портативную колонку на пикник",
+        "Вечер с кассетной музыкой в стиле ретро"
+      ]
+    },
+    "test": {
+      "en": [
+        "Set up the boombox at the beach",
+        "Party music with the portable stereo",
+        "Blast tunes in the backyard tonight"
+      ],
+      "ru": [
+        "Поставить магнитолу на пляже",
+        "Вечеринка с портативной колонкой",
+        "Врубить музыку во дворе сегодня вечером"
+      ]
+    }
+  }
+}

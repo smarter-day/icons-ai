@@ -1,0 +1,188 @@
+{
+  "icon": "sack-dollar",
+  "rows": {
+    "train_en": 59,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bag",
+        "burlap",
+        "cash",
+        "dollar",
+        "investment",
+        "money",
+        "money bag",
+        "moneybag",
+        "premium",
+        "robber",
+        "salary",
+        "santa",
+        "usd"
+      ],
+      "ru": [
+        "мешок",
+        "мешковина",
+        "наличные",
+        "доллар",
+        "инвестиция",
+        "деньги",
+        "мешок денег",
+        "мешок с деньгами",
+        "премиум",
+        "грабитель",
+        "зарплата",
+        "Санта",
+        "USD"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "money bag with dollar sign on side",
+        "burlap bag stuffed with cash",
+        "cash-filled dollar bag tied at top",
+        "cash bag icon for financial apps",
+        "dollar sign on a bulging money bag",
+        "dollar amount in a tied sack",
+        "investment returns shown as money bag",
+        "investment growth symbolized by dollar sack",
+        "money bag representing savings or earnings",
+        "pile of money bags in vault",
+        "money bag icon for premium feature",
+        "moneybag emoji for wealth symbol",
+        "premium tier shown with gold money bag",
+        "premium plan with dollar bag icon",
+        "robber fleeing with dollar-sign sack",
+        "cartoon robber with striped money bag",
+        "salary payment symbolized by dollar sack",
+        "salary day money bag notification",
+        "Santa sack filled with dollar bills",
+        "Santa bag overflowing with cash",
+        "USD dollar bag for US currency",
+        "usd money bag in finance tracker"
+      ],
+      "ru": [
+        "мешок денег со знаком доллара на боку",
+        "мешок из мешковины набитый наличными",
+        "мешок с наличными завязан сверху",
+        "иконка мешка с деньгами для финансовых приложений",
+        "знак доллара на раздутом мешке денег",
+        "сумма в долларах в завязанном мешке",
+        "инвестиционная прибыль в виде мешка денег",
+        "рост инвестиций в виде мешка с долларами",
+        "мешок денег как символ сбережений или заработка",
+        "стопка мешков денег в хранилище",
+        "иконка мешка денег для премиум-функций",
+        "эмодзи мешка денег символ богатства",
+        "премиум-уровень с золотым мешком денег",
+        "план премиум с иконкой мешка долларов",
+        "грабитель бежит с мешком со знаком доллара",
+        "мультяшный грабитель с полосатым мешком денег",
+        "выплата зарплаты в виде мешка долларов",
+        "уведомление о зарплате мешок денег",
+        "мешок Санты набит долларовыми купюрами",
+        "мешок Санты переполнен наличными",
+        "мешок долларов для валюты США",
+        "мешок USD в финансовом трекере"
+      ]
+    },
+    "regular": {
+      "en": [
+        "green money bag with dollar sign symbol",
+        "overflowing bag of cash with dollar sign",
+        "wealth symbol money bag in finance app",
+        "dollar sack representing investment returns",
+        "money bag icon for premium paid tier",
+        "salary notification with dollar bag graphic",
+        "cartoon robber clutching a dollar-sign money bag",
+        "Santa Claus dollar-bag overflowing with riches",
+        "bank vault with stacked money bags",
+        "budget goal visualized as a filled money bag"
+      ],
+      "ru": [
+        "зелёный мешок денег со знаком доллара",
+        "переполненный мешок наличных со знаком доллара",
+        "символ богатства мешок денег в финансовом приложении",
+        "мешок долларов как инвестиционная прибыль",
+        "иконка мешка денег для платного премиум-уровня",
+        "уведомление о зарплате с мешком долларов",
+        "мультяшный грабитель с мешком со знаком доллара",
+        "мешок долларов Санты переполнен богатством",
+        "банковское хранилище со стопками мешков денег",
+        "цель бюджета в виде наполненного мешка денег"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a money bag dollar icon for the finance app",
+        "add a sack-dollar symbol to the earnings section",
+        "show a dollar money bag for the premium feature",
+        "use the sack-dollar icon for the investment tracker"
+      ],
+      "ru": [
+        "мне нужна иконка мешка долларов для финансового приложения",
+        "добавь символ мешка с долларом в раздел заработков",
+        "покажи мешок долларов для премиум-функции",
+        "используй иконку мешка долларов для трекера инвестиций"
+      ]
+    },
+    "typo": {
+      "en": [
+        "greeen money bag with dollar sign",
+        "overfowing bag of cash with dollar",
+        "salay notification with dollar bag",
+        "dollare sack for investment returns"
+      ],
+      "ru": [
+        "зелёный мешок денег со значком доллара",
+        "переполненный мешок налчиных с долларом",
+        "уведомление о зарплтае с мешком долларов",
+        "мешок доллара для инвестиционной прибыли"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "coin stack pile representing savings",
+        "piggy bank for accumulating savings",
+        "wallet with dollar bills and credit card",
+        "gold bar brick for investment value",
+        "safe vault locked with combination dial",
+        "credit card payment terminal at checkout"
+      ],
+      "ru": [
+        "стопка монет как символ сбережений",
+        "копилка-свинка для накоплений",
+        "кошелёк с долларами и кредитной картой",
+        "слиток золота для инвестиционной ценности",
+        "сейф с кодовым замком",
+        "платёжный терминал кредитной карты"
+      ]
+    },
+    "valid": {
+      "en": [
+        "green money bag with dollar sign",
+        "dollar sack for salary or earnings",
+        "premium money bag icon in finance app"
+      ],
+      "ru": [
+        "зелёный мешок денег со знаком доллара",
+        "мешок долларов для зарплаты или заработков",
+        "иконка премиум мешка денег в финансовом приложении"
+      ]
+    },
+    "test": {
+      "en": [
+        "overflowing dollar money bag icon",
+        "sack-dollar for investment tracker",
+        "money bag symbol for financial feature"
+      ],
+      "ru": [
+        "переполненная иконка мешка долларов",
+        "мешок долларов для трекера инвестиций",
+        "символ мешка денег для финансовой функции"
+      ]
+    }
+  }
+}

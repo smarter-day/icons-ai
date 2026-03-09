@@ -1,0 +1,93 @@
+{
+  "icon": "hospital",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "building",
+        "covid-19",
+        "doctor",
+        "emergency room",
+        "hospital",
+        "medical center",
+        "medicine"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "hospital building in the city",
+        "building with a red cross hospital",
+        "hospital during the covid-19 pandemic",
+        "covid-19 patients in the hospital",
+        "doctor at the hospital",
+        "doctor working in the hospital ward",
+        "emergency room at the hospital",
+        "emergency room visit at night",
+        "hospital icon on the map",
+        "hospital building symbol",
+        "medical center hospital",
+        "medical center building",
+        "medicine dispensed at the hospital",
+        "hospital medicine cabinet"
+      ]
+    },
+    "regular": {
+      "en": [
+        "large hospital building with a red cross",
+        "emergency room entrance at the hospital",
+        "hospital ward with patients and nurses",
+        "hospital on the city map pin",
+        "ambulance arriving at the hospital",
+        "hospital reception desk with staff",
+        "hospital icon for the health app",
+        "children's hospital in the neighborhood",
+        "hospital operating room for surgery",
+        "hospital bed in the patient room"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a hospital icon for the health map",
+        "add a hospital symbol to the emergency section",
+        "show a hospital for the nearest clinic feature",
+        "use the hospital icon for the medical center page"
+      ]
+    },
+    "typo": {
+      "en": [
+        "hospitl building",
+        "emregency room visit",
+        "hosiptal on the map",
+        "docter at hospital"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "pharmacy with a green cross sign",
+        "clinic office building for appointments",
+        "ambulance with sirens on the road",
+        "first aid kit with red cross",
+        "doctor's stethoscope on the desk",
+        "church building with a steeple"
+      ]
+    },
+    "valid": {
+      "en": [
+        "hospital building with red cross",
+        "emergency room at hospital",
+        "hospital on the map"
+      ]
+    },
+    "test": {
+      "en": [
+        "hospital icon",
+        "hospital building symbol",
+        "medical center hospital"
+      ]
+    }
+  }
+}

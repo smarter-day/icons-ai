@@ -1,0 +1,148 @@
+{
+  "icon": "booth-curtain",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "changing room",
+        "election",
+        "vote",
+        "voting",
+        "voting booth"
+      ],
+      "ru": [
+        "примерочная",
+        "выборы",
+        "голос",
+        "голосование",
+        "кабина для голосования"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "use the changing room at the store",
+        "vote in the election",
+        "cast my vote today",
+        "voting reminder for election day",
+        "go to the voting booth",
+        "find a changing room at the gym",
+        "check the election results online",
+        "remember to vote before polls close",
+        "set a voting day reminder",
+        "locate the nearest voting booth"
+      ],
+      "ru": [
+        "воспользоваться примерочной в магазине",
+        "проголосовать на выборах",
+        "отдать свой голос сегодня",
+        "напоминание о голосовании в день выборов",
+        "пойти к кабине для голосования",
+        "найти примерочную в спортзале",
+        "проверить результаты выборов онлайн",
+        "не забыть проголосовать до закрытия участков",
+        "поставить напоминание на день голосования",
+        "найти ближайшую кабину для голосования"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Vote in the local election",
+        "Register to vote before the deadline",
+        "Find the nearest polling station",
+        "Election day reminder",
+        "Cast my ballot today",
+        "Early voting this week",
+        "Check voter registration status",
+        "Mail-in ballot submission",
+        "Primary election voting",
+        "Get an absentee ballot"
+      ],
+      "ru": [
+        "Проголосовать на местных выборах",
+        "Зарегистрироваться для голосования до дедлайна",
+        "Найти ближайший избирательный участок",
+        "Напоминание о дне выборов",
+        "Проголосовать сегодня",
+        "Досрочное голосование на этой неделе",
+        "Проверить статус регистрации избирателя",
+        "Отправить бюллетень по почте",
+        "Голосование на праймериз",
+        "Получить открепительный талон"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Don't forget to vote tomorrow",
+        "Have you voted yet?",
+        "Election day is coming up",
+        "I need to find my polling station"
+      ],
+      "ru": [
+        "Не забудь проголосовать завтра",
+        "Ты уже проголосовал?",
+        "Выборы не за горами",
+        "Нужно найти свой избирательный участок"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Voet in the local electon",
+        "Rgister to vote befroe deadline",
+        "Fnd the neerest polling staion",
+        "Casst my ballott today"
+      ],
+      "ru": [
+        "Проголосвать на местных выбарах",
+        "Зарегестрироваться для голосаваниея",
+        "Найте ближаший избиратлеьный участок",
+        "Отдать свой голос сегдоня"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Try on clothes in the fitting room",
+        "Election campaign planning",
+        "Political debate watching",
+        "Register for the event",
+        "Jury duty summons",
+        "Survey participation"
+      ],
+      "ru": [
+        "Примерить одежду в раздевалке",
+        "Планирование предвыборной кампании",
+        "Смотреть политические дебаты",
+        "Зарегистрироваться на мероприятие",
+        "Повестка в суд присяжных",
+        "Участие в опросе"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Vote in the upcoming election",
+        "Find the polling booth location",
+        "Cast my ballot on election day"
+      ],
+      "ru": [
+        "Проголосовать на предстоящих выборах",
+        "Найти место расположения избирательного участка",
+        "Отдать голос в день выборов"
+      ]
+    },
+    "test": {
+      "en": [
+        "Election day — go vote",
+        "Check voting registration status",
+        "Early voting this weekend"
+      ],
+      "ru": [
+        "День выборов — идти голосовать",
+        "Проверить статус регистрации избирателя",
+        "Досрочное голосование в эти выходные"
+      ]
+    }
+  }
+}

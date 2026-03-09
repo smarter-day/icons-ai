@@ -1,0 +1,96 @@
+{
+  "icon": "hammer-brush",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "art",
+        "fix",
+        "hammer",
+        "maintenance",
+        "paint",
+        "remodel",
+        "repair",
+        "tool"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Use art tools for the project",
+        "Create art with tools",
+        "Fix and paint the wall",
+        "Fix the surface before painting",
+        "Use a hammer to prep the surface",
+        "Hammer down loose nails before painting",
+        "Do regular maintenance on the home",
+        "Schedule home maintenance",
+        "Paint the living room walls",
+        "Apply a fresh coat of paint",
+        "Remodel the kitchen",
+        "Plan the bathroom remodel",
+        "Repair and repaint the fence",
+        "Repair the damaged wall",
+        "Pick the right tool for painting",
+        "Buy the right tools for the project"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Renovate the living room",
+        "Paint the walls and fix the trim",
+        "Repair and paint the fence",
+        "Do a home improvement project",
+        "Buy paint and tools for the renovation",
+        "Prep the wall before painting",
+        "Touch up the paint in the hallway",
+        "Fix cracks and repaint the wall",
+        "Hire a handyman for repairs",
+        "Remodel the bathroom"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Home reno",
+        "Fix and paint",
+        "DIY project",
+        "Handyman time"
+      ]
+    },
+    "typo": {
+      "en": [
+        "renovte the livign room",
+        "paint the wallls",
+        "fix and repiant the fence",
+        "home imporvement project"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use only a hammer for nailing",
+        "Use only a paintbrush for art",
+        "Hire a plumber for pipe repair",
+        "Use a screwdriver to fix screws",
+        "Sweep the floor with a broom",
+        "Use a roller to paint the ceiling"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Renovate and repaint the living room",
+        "Repair and paint the fence",
+        "Do a home improvement project"
+      ]
+    },
+    "test": {
+      "en": [
+        "Prep the wall before painting",
+        "Fix cracks and repaint",
+        "Buy paint and tools for the renovation"
+      ]
+    }
+  }
+}

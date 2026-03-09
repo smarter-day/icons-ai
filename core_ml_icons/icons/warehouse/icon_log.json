@@ -1,0 +1,148 @@
+{
+  "icon": "warehouse",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "building",
+        "capacity",
+        "garage",
+        "inventory",
+        "storage"
+      ],
+      "ru": [
+        "здание",
+        "вместимость",
+        "гараж",
+        "инвентарь",
+        "хранение"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "warehouse building large industrial",
+        "building warehouse storage",
+        "warehouse capacity full stock",
+        "warehouse at capacity inventory",
+        "garage warehouse large storage",
+        "warehouse garage door",
+        "warehouse inventory management",
+        "inventory warehouse tracking",
+        "warehouse storage shelves",
+        "storage warehouse distribution"
+      ],
+      "ru": [
+        "здание склада большое промышленное",
+        "склад здание хранение",
+        "вместимость склада полный запас",
+        "склад максимальная вместимость инвентарь",
+        "гараж склад большое хранилище",
+        "складские гаражные ворота",
+        "управление инвентарём склада",
+        "инвентарь склад отслеживание",
+        "стеллажи хранения склада",
+        "склад распределение хранение"
+      ]
+    },
+    "regular": {
+      "en": [
+        "large warehouse with loading docks",
+        "Amazon fulfillment warehouse",
+        "warehouse shelves stacked high",
+        "forklift in warehouse aisle",
+        "warehouse management system",
+        "cold storage warehouse refrigerated",
+        "warehouse distribution center hub",
+        "empty warehouse space for lease",
+        "warehouse safety floor markings",
+        "self-storage warehouse units small"
+      ],
+      "ru": [
+        "большой склад с погрузочными доками",
+        "склад выполнения заказов Amazon",
+        "стеллажи склада высоко сложены",
+        "погрузчик в проходе склада",
+        "система управления складом",
+        "холодильный склад охлаждение",
+        "распределительный центр склада хаб",
+        "пустое складское помещение в аренду",
+        "маркировка пола склада безопасность",
+        "единицы хранения самосклада небольшие"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a warehouse icon for the inventory section",
+        "add a storage building symbol to the logistics feature",
+        "show a warehouse for the stock management",
+        "use the warehouse icon for the distribution center"
+      ],
+      "ru": [
+        "нужна иконка склада для раздела инвентаря",
+        "добавь символ складского здания к логистической функции",
+        "покажи склад для управления запасами",
+        "используй иконку склада для распределительного центра"
+      ]
+    },
+    "typo": {
+      "en": [
+        "warehosue storage building",
+        "inventoy warehouse stock",
+        "capcaity warehouse full",
+        "gargae warehouse large"
+      ],
+      "ru": [
+        "склад хранение здание",
+        "инвентарь склад запас",
+        "вместимость склада полная",
+        "гараж склад большой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "store retail shop front",
+        "factory industrial manufacturing",
+        "garage home personal storage",
+        "office building corporate workspace",
+        "barn farm agricultural storage",
+        "shipping container large box"
+      ],
+      "ru": [
+        "магазин розничная торговля витрина",
+        "завод промышленное производство",
+        "гараж домашнее личное хранилище",
+        "офисное здание корпоративное",
+        "амбар ферма сельскохозяйственное хранилище",
+        "контейнер для перевозки большая коробка"
+      ]
+    },
+    "valid": {
+      "en": [
+        "warehouse storage building icon",
+        "inventory warehouse symbol",
+        "large storage facility"
+      ],
+      "ru": [
+        "иконка склада здание хранения",
+        "символ склада инвентаря",
+        "крупный склад"
+      ]
+    },
+    "test": {
+      "en": [
+        "warehouse icon building",
+        "storage facility symbol",
+        "inventory warehouse"
+      ],
+      "ru": [
+        "иконка склада здание",
+        "символ склада хранение",
+        "инвентарь склад"
+      ]
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "icon": "popcorn",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bucket",
+        "butter",
+        "corn",
+        "junk food",
+        "kernels",
+        "movie",
+        "popcor",
+        "popcorn",
+        "snack",
+        "theater"
+      ],
+      "ru": [
+        "ведро",
+        "масло",
+        "кукуруза",
+        "джанк-фуд",
+        "зёрна",
+        "кино",
+        "попкор",
+        "попкорн",
+        "закуска",
+        "кинотеатр"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "popcorn bucket at the cinema",
+        "large bucket of salted popcorn",
+        "buttery popcorn fresh from the microwave",
+        "extra butter on movie popcorn",
+        "corn kernels popped in hot oil",
+        "corn-based movie snack",
+        "classic junk food at the movies",
+        "junk food for watching films",
+        "unpopped kernels at the bottom of the bag",
+        "popped kernels in a red bucket",
+        "movie night popcorn snack",
+        "movie theater popcorn smell",
+        "popcor snack for film night",
+        "hot popcor straight from the machine",
+        "popcorn in a striped bag",
+        "hot buttered popcorn",
+        "snack food for cinema trips",
+        "light snack to munch during movies",
+        "theater concession stand popcorn",
+        "movie theater classic treat"
+      ],
+      "ru": [
+        "ведро попкорна в кинотеатре",
+        "большое ведро солёного попкорна",
+        "масляный попкорн из микроволновки",
+        "дополнительное масло на попкорне",
+        "кукурузные зёрна, взорванные в масле",
+        "кукурузная закуска для кино",
+        "классический джанк-фуд в кинотеатре",
+        "джанк-фуд для просмотра фильмов",
+        "невзорванные зёрна на дне пакета",
+        "взорванные зёрна в красном ведре",
+        "закуска попкорн на вечере кино",
+        "запах попкорна в кинотеатре",
+        "попкор на киновечере",
+        "горячий попкор прямо из машины",
+        "попкорн в полосатом пакете",
+        "горячий попкорн с маслом",
+        "закуска для похода в кино",
+        "лёгкий перекус во время фильма",
+        "попкорн в буфете кинотеатра",
+        "классическое угощение в кино"
+      ]
+    },
+    "regular": {
+      "en": [
+        "classic red and white striped popcorn bucket",
+        "freshly popped corn with butter drizzle",
+        "cinema snack served in paper bag",
+        "microwave popcorn bag puffed up",
+        "salted caramel popcorn for movie nights",
+        "concession stand popcorn with extra butter",
+        "fluffy white popped corn kernels",
+        "sweet kettle corn variety at the fair",
+        "overflowing bucket of movie theater popcorn",
+        "childhood snack food memories at the cinema"
+      ],
+      "ru": [
+        "классическое красно-белое полосатое ведро попкорна",
+        "свежеприготовленный попкорн с растопленным маслом",
+        "закуска для кино в бумажном пакете",
+        "надувшийся пакет микроволнового попкорна",
+        "солёный карамельный попкорн для киновечера",
+        "попкорн из буфета с дополнительным маслом",
+        "пушистые белые взорванные зёрна кукурузы",
+        "сладкий кеттл-корн на ярмарке",
+        "переполненное ведро попкорна из кинотеатра",
+        "воспоминания детства о попкорне в кино"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a popcorn icon for my movie night app",
+        "add a popcorn symbol to the snacks category",
+        "show a popcorn bucket for the cinema section",
+        "use the popcorn icon for entertainment features"
+      ],
+      "ru": [
+        "мне нужна иконка попкорна для приложения киновечера",
+        "добавь символ попкорна в раздел закусок",
+        "покажи ведро попкорна для раздела кино",
+        "используй иконку попкорна для развлекательных функций"
+      ]
+    },
+    "typo": {
+      "en": [
+        "popocorn movie snack",
+        "popcron bucket at the theater",
+        "popcorn theaer snack",
+        "buttery popcrn for movies"
+      ],
+      "ru": [
+        "попокорн закуска для кино",
+        "попкрон ведро в кинотеатре",
+        "попкорн кинотатр закуска",
+        "масляный попкрн на вечере"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "cotton candy swirled on a stick at the fair",
+        "soft pretzel with salt at the concession stand",
+        "hot dog in a bun at the stadium",
+        "nachos with cheese dip at the game",
+        "candy bar wrapped in colorful packaging",
+        "soda cup with lid and straw for cold drinks"
+      ],
+      "ru": [
+        "сладкая вата на палочке на ярмарке",
+        "мягкий крендель с солью у буфета",
+        "хот-дог в булочке на стадионе",
+        "начос с сырным дипом на матче",
+        "плитка конфет в красочной упаковке",
+        "стакан газировки с крышкой и трубочкой"
+      ]
+    },
+    "valid": {
+      "en": [
+        "popcorn bucket at the movie theater",
+        "buttered popcorn snack for cinema",
+        "bag of freshly popped popcorn"
+      ],
+      "ru": [
+        "ведро попкорна в кинотеатре",
+        "попкорн с маслом для кино",
+        "пакет свежего попкорна"
+      ]
+    },
+    "test": {
+      "en": [
+        "freshly popped popcorn kernels in a bucket",
+        "movie night popcorn treat",
+        "classic cinema snack popcorn"
+      ],
+      "ru": [
+        "свежие взорванные зёрна попкорна в ведре",
+        "попкорн для киновечера",
+        "классическая кинозакуска попкорн"
+      ]
+    }
+  }
+}

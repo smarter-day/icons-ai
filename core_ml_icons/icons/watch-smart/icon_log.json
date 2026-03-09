@@ -1,0 +1,136 @@
+{
+  "icon": "watch-smart",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "apps",
+        "fitness",
+        "time"
+      ],
+      "ru": [
+        "приложения",
+        "фитнес",
+        "время"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "smartwatch apps installed wrist",
+        "apps running on smart watch",
+        "smartwatch fitness activity tracking",
+        "fitness smartwatch daily goals",
+        "time smartwatch digital face",
+        "smartwatch display current time"
+      ],
+      "ru": [
+        "смарт-часы приложения запястье",
+        "приложения работают на смарт-часах",
+        "смарт-часы фитнес отслеживание активности",
+        "фитнес смарт-часы ежедневные цели",
+        "время смарт-часы цифровой циферблат",
+        "отображение текущего времени смарт-часы"
+      ]
+    },
+    "regular": {
+      "en": [
+        "generic smartwatch with digital face",
+        "smartwatch notifications on wrist",
+        "smartwatch health monitoring sensor",
+        "smartwatch voice assistant command",
+        "smartwatch paired with phone",
+        "smartwatch band interchangeable",
+        "smartwatch always on display",
+        "smartwatch GPS outdoor activity",
+        "smartwatch payment contactless",
+        "smartwatch battery saver mode"
+      ],
+      "ru": [
+        "универсальные смарт-часы с цифровым циферблатом",
+        "уведомления смарт-часов на запястье",
+        "датчик мониторинга здоровья смарт-часов",
+        "голосовой помощник смарт-часов команда",
+        "смарт-часы в паре с телефоном",
+        "сменный ремешок смарт-часов",
+        "смарт-часы постоянно включённый дисплей",
+        "GPS смарт-часы уличная активность",
+        "бесконтактная оплата смарт-часов",
+        "режим экономии батареи смарт-часов"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a smart watch icon for the wearables section",
+        "add a smartwatch symbol to the device category",
+        "show a smart watch for the connected devices",
+        "use the watch-smart icon for the wearable tech"
+      ],
+      "ru": [
+        "нужна иконка смарт-часов для раздела носимых устройств",
+        "добавь символ смарт-часов в категорию устройств",
+        "покажи смарт-часы для подключённых устройств",
+        "используй иконку смарт-часов для носимых технологий"
+      ]
+    },
+    "typo": {
+      "en": [
+        "smarwatch apps time",
+        "watcch smart fitness",
+        "smrat watch device",
+        "fintess smartwatch"
+      ],
+      "ru": [
+        "смарт-часы приложения время",
+        "смарт-часы фитнес",
+        "умные часы устройство",
+        "фитнес смарт-часы"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "watch apple brand specific",
+        "watch fitness sport specific",
+        "phone smartphone mobile",
+        "analog watch traditional",
+        "bracelet jewelry wrist",
+        "ring smart wearable finger"
+      ],
+      "ru": [
+        "Apple Watch конкретный бренд",
+        "фитнес-часы спорт конкретный",
+        "телефон смартфон мобильный",
+        "аналоговые часы традиционные",
+        "браслет украшение запястье",
+        "умное кольцо носимое палец"
+      ]
+    },
+    "valid": {
+      "en": [
+        "smartwatch generic icon",
+        "smart watch symbol",
+        "wearable smartwatch"
+      ],
+      "ru": [
+        "иконка универсальных смарт-часов",
+        "символ смарт-часов",
+        "носимые смарт-часы"
+      ]
+    },
+    "test": {
+      "en": [
+        "watch-smart icon",
+        "smartwatch symbol",
+        "generic smart watch"
+      ],
+      "ru": [
+        "иконка смарт-часов",
+        "символ смарт-часов",
+        "универсальные смарт-часы"
+      ]
+    }
+  }
+}

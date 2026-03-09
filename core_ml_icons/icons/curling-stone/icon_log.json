@@ -1,0 +1,93 @@
+{
+  "icon": "curling-stone",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "curling stone",
+        "game",
+        "ice",
+        "olympics",
+        "rock",
+        "sport",
+        "stone"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Throw the curling stone on the ice",
+        "Practice the curling stone slide",
+        "Play a new game this weekend",
+        "Find a new game to try",
+        "Book ice time at the rink",
+        "Skate on the ice",
+        "Watch the winter Olympics",
+        "Follow the Olympics events",
+        "Roll the rock down the ice",
+        "Slide the rock to the target",
+        "Try a winter sport",
+        "Sign up for a winter sport class",
+        "Smooth the stone before delivery",
+        "Aim the stone at the target"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Watch curling at the Olympics",
+        "Try curling for the first time",
+        "Join a curling league",
+        "Book a curling session at the rink",
+        "Learn the rules of curling",
+        "Sweep the ice in front of the stone",
+        "Aim for the center of the target",
+        "Practice the curling delivery",
+        "Watch the curling team strategy",
+        "Go curling with friends"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Try curling!",
+        "Ice sport fun",
+        "Olympic curling",
+        "Throw the stone"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wach curling at hte olympics",
+        "try curlign for first time",
+        "book a curlng session",
+        "sweap the iec"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Go ice skating at the rink",
+        "Play ice hockey with friends",
+        "Try bobsled at the winter games",
+        "Ski down the mountain slope",
+        "Go snowboarding this winter",
+        "Watch figure skating at the Olympics"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Try curling at the ice rink",
+        "Watch curling at the Olympics",
+        "Join a curling league"
+      ]
+    },
+    "test": {
+      "en": [
+        "Book a curling session",
+        "Practice the curling delivery",
+        "Watch the curling competition"
+      ]
+    }
+  }
+}

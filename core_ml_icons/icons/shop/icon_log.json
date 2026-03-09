@@ -1,0 +1,160 @@
+{
+  "icon": "shop",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bodega",
+        "building",
+        "buy",
+        "market",
+        "purchase",
+        "shopping",
+        "store"
+      ],
+      "ru": [
+        "бодега",
+        "здание",
+        "купить",
+        "рынок",
+        "покупка",
+        "шоппинг",
+        "магазин"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bodega corner shop open late night",
+        "bodega with deli sandwiches and snacks",
+        "storefront building with shop sign",
+        "brick building shop on main street",
+        "buy items at the local shop",
+        "buy groceries at convenience store",
+        "open-air market with vendor stalls",
+        "fresh produce market in town square",
+        "purchase tickets at box office shop",
+        "purchase items with contactless pay",
+        "shopping at the mall with bags",
+        "weekend shopping trip downtown",
+        "store window display with sale signs",
+        "grocery store entrance with cart"
+      ],
+      "ru": [
+        "угловой магазин открыт поздно ночью",
+        "бодега с бутербродами и закусками",
+        "витрина здания с вывеской магазина",
+        "кирпичное здание магазина на главной улице",
+        "купить товары в местном магазине",
+        "купить продукты в удобном магазине",
+        "открытый рынок с прилавками продавцов",
+        "рынок свежих продуктов на главной площади",
+        "купить билеты в кассе",
+        "купить товары бесконтактной оплатой",
+        "шоппинг в торговом центре с сумками",
+        "выходной поход за покупками в центр",
+        "витрина магазина со знаками распродажи",
+        "вход в продуктовый магазин с тележкой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "small retail shop with sign above door",
+        "convenience store open 24 hours",
+        "boutique fashion shop in city center",
+        "hardware store with tools in window",
+        "online shop icon for e-commerce website",
+        "shopping cart filled with items",
+        "shop front with awning and display window",
+        "farmer's market outdoor shop stalls",
+        "gift shop at museum or tourist site",
+        "pop-up shop temporary retail stall"
+      ],
+      "ru": [
+        "небольшой розничный магазин с вывеской над дверью",
+        "круглосуточный магазин convenience store",
+        "бутик модной одежды в центре города",
+        "хозяйственный магазин с инструментами в витрине",
+        "иконка интернет-магазина для сайта e-commerce",
+        "корзина для покупок наполнена товарами",
+        "витрина магазина с маркизой и дисплеем",
+        "уличный рынок фермерских продуктов",
+        "сувенирный магазин в музее или у достопримечательности",
+        "временный pop-up магазин"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a shop icon for the e-commerce feature",
+        "add a store symbol to the marketplace section",
+        "show a shop for the buy now button",
+        "use the shop icon for the retail category"
+      ],
+      "ru": [
+        "мне нужна иконка магазина для функции e-commerce",
+        "добавь символ магазина в раздел маркетплейса",
+        "покажи магазин для кнопки купить сейчас",
+        "используй иконку магазина для категории розничной торговли"
+      ]
+    },
+    "typo": {
+      "en": [
+        "small reatil shop with sign above door",
+        "convienence store open 24 hours",
+        "boutiqe fashion shop in city center",
+        "shoppng cart filled with items"
+      ],
+      "ru": [
+        "небольшой розничны магазин с вывеской",
+        "круглосуточный магзаин",
+        "бутик модной оджеды в центре",
+        "корзина для покупк с товарами"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "shopping cart icon without store building",
+        "warehouse building for bulk storage",
+        "bank building with columns and sign",
+        "restaurant building with tables inside",
+        "office building with glass facade",
+        "delivery box for online order arrival"
+      ],
+      "ru": [
+        "иконка корзины покупок без здания",
+        "складское здание для оптового хранения",
+        "банк с колоннами и вывеской",
+        "ресторан со столиками внутри",
+        "офисное здание со стеклянным фасадом",
+        "коробка доставки для прихода онлайн-заказа"
+      ]
+    },
+    "valid": {
+      "en": [
+        "shop storefront building icon",
+        "buy items at local store",
+        "shopping icon for e-commerce app"
+      ],
+      "ru": [
+        "иконка витрины магазина",
+        "купить товары в местном магазине",
+        "иконка шоппинга для e-commerce"
+      ]
+    },
+    "test": {
+      "en": [
+        "convenience store open 24 hours",
+        "shop icon for online marketplace",
+        "retail shop with display window"
+      ],
+      "ru": [
+        "круглосуточный магазин",
+        "иконка магазина для онлайн-маркетплейса",
+        "магазин с витриной"
+      ]
+    }
+  }
+}

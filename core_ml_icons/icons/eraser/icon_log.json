@@ -1,0 +1,84 @@
+{
+  "icon": "eraser",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "art",
+        "delete",
+        "remove",
+        "rubber"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Use an eraser in art class",
+        "Draw and erase in the sketchbook",
+        "Delete the file from the folder",
+        "Delete old messages",
+        "Remove the mistake from the drawing",
+        "Remove the sticker from the surface",
+        "Use a rubber eraser on pencil marks",
+        "Buy a new rubber eraser"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Erase a pencil mark on paper",
+        "Use the eraser tool in Photoshop",
+        "Delete old files from the computer",
+        "Erase mistakes in the sketchbook",
+        "Buy a good eraser for drawing",
+        "Remove pencil lines after inking",
+        "Use the digital eraser in the app",
+        "Clear the whiteboard with an eraser",
+        "Erase notes from the chalkboard",
+        "Remove unwanted lines from the drawing"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Erase that",
+        "Delete the mistake",
+        "Clean it up",
+        "Remove it"
+      ]
+    },
+    "typo": {
+      "en": [
+        "erase a pencil mrk",
+        "delet the flie",
+        "use the erasre tool",
+        "remov the mistake"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Cross out a mistake with a pen",
+        "Use correction fluid to fix the error",
+        "Strike through old text",
+        "Undo the last action in the app",
+        "Cut out the section from the paper",
+        "Cover the text with a sticker"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Erase pencil marks on paper",
+        "Clear the whiteboard",
+        "Use the eraser in the drawing app"
+      ]
+    },
+    "test": {
+      "en": [
+        "Delete old files",
+        "Remove mistakes from the sketch",
+        "Use the digital eraser tool"
+      ]
+    }
+  }
+}

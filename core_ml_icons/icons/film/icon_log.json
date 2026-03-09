@@ -1,0 +1,93 @@
+{
+  "icon": "film",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cinema",
+        "film",
+        "film frames",
+        "frames",
+        "movie",
+        "strip",
+        "video"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Go to the cinema tonight",
+        "Buy tickets at the cinema",
+        "Watch a film at home",
+        "Recommend a good film",
+        "Look at the film frames on the strip",
+        "Edit the film frames",
+        "Count the frames per second",
+        "Edit frames in the video",
+        "Watch the movie at the premiere",
+        "See the movie trailer",
+        "Scan the old film strip",
+        "Find a 35mm film strip",
+        "Edit the video clip",
+        "Record a video for the project"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Watch a movie at the cinema",
+        "Stream a film tonight",
+        "Edit the video project",
+        "Watch the new film release",
+        "Buy a movie ticket online",
+        "Choose a film to watch",
+        "Review the film footage",
+        "Watch a classic film",
+        "Download a movie for offline watching",
+        "Recommend a film to a friend"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Movie night!",
+        "Watch a film",
+        "Cinema run",
+        "What film tonight?"
+      ]
+    },
+    "typo": {
+      "en": [
+        "go to the ciinema",
+        "wathc a flim tonight",
+        "buy movei tickets",
+        "straeam a film"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Record on a film canister",
+        "Watch a documentary series",
+        "Listen to a movie soundtrack",
+        "Read a movie script",
+        "Develop a roll of film",
+        "Shoot a video with the camera"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Watch a movie at the cinema",
+        "Stream a film tonight",
+        "Edit the video footage"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy a movie ticket online",
+        "Recommend a film to a friend",
+        "Choose what film to watch"
+      ]
+    }
+  }
+}

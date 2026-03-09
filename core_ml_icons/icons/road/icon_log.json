@@ -1,0 +1,166 @@
+{
+  "icon": "road",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "highway",
+        "map",
+        "motorway",
+        "pavement",
+        "road",
+        "route",
+        "street",
+        "travel"
+      ],
+      "ru": [
+        "шоссе",
+        "карта",
+        "автострада",
+        "тротуар",
+        "дорога",
+        "маршрут",
+        "улица",
+        "путешествие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "highway stretching to the horizon",
+        "highway overpass with multiple lanes",
+        "map showing road network in city",
+        "road map for trip planning",
+        "motorway with speed limit signs",
+        "motorway junction with exit ramp",
+        "cracked pavement on old road",
+        "pavement markings and lane dividers",
+        "road leading through mountain pass",
+        "empty road in desert landscape",
+        "scenic route along coastal road",
+        "route marked on road atlas",
+        "street level view of urban road",
+        "street signs at intersection",
+        "travel by car on open road",
+        "travel route across the country"
+      ],
+      "ru": [
+        "шоссе уходит к горизонту",
+        "шоссе с эстакадой и несколькими полосами",
+        "карта с дорожной сетью города",
+        "дорожная карта для планирования поездки",
+        "автострада со знаками ограничения скорости",
+        "развязка автострады с съездом",
+        "потрескавшееся покрытие старой дороги",
+        "разметка тротуара и разделители полос",
+        "дорога ведёт через горный перевал",
+        "пустая дорога в пустынном пейзаже",
+        "живописный маршрут вдоль прибрежной дороги",
+        "маршрут отмечен на дорожном атласе",
+        "вид на уровне улицы городской дороги",
+        "уличные знаки на перекрёстке",
+        "поездка на машине по открытой дороге",
+        "маршрут путешествия по стране"
+      ]
+    },
+    "regular": {
+      "en": [
+        "straight two-lane road vanishing to horizon",
+        "winding mountain road with guardrails",
+        "highway with dashed center line and shoulders",
+        "aerial view of road intersection and overpasses",
+        "road sign indicating upcoming exit",
+        "country road flanked by trees in autumn",
+        "urban street with traffic lights and crosswalk",
+        "desert highway with no traffic for miles",
+        "road map with highlighted travel route",
+        "construction zone on road with orange cones"
+      ],
+      "ru": [
+        "прямая двухполосная дорога уходит к горизонту",
+        "извилистая горная дорога с отбойниками",
+        "шоссе с пунктирной осевой и обочинами",
+        "вид сверху на развязку с эстакадами",
+        "дорожный знак указывает на предстоящий съезд",
+        "сельская дорога, обрамлённая осенними деревьями",
+        "городская улица со светофорами и пешеходным переходом",
+        "пустынное шоссе без машин на много миль",
+        "дорожная карта с выделенным маршрутом",
+        "зона дорожных работ с оранжевыми конусами"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a road icon for the navigation app",
+        "add a highway symbol to the travel section",
+        "show a road for the route planning feature",
+        "use the road icon for the directions screen"
+      ],
+      "ru": [
+        "мне нужна иконка дороги для навигационного приложения",
+        "добавь символ шоссе в раздел путешествий",
+        "покажи дорогу для функции планирования маршрута",
+        "используй иконку дороги для экрана навигации"
+      ]
+    },
+    "typo": {
+      "en": [
+        "higwhay stretching to the horizon",
+        "winding moutain road with guardrails",
+        "road mpa for trip planning",
+        "strete signs at intersection"
+      ],
+      "ru": [
+        "шоссе тянется к горзиоунту",
+        "извилистая горная дроога с отбойниками",
+        "дорожная катра для планирования поездки",
+        "уличные знакии на перекрёстке"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "navigation arrow pointing to destination on map",
+        "train tracks with railroad crossing sign",
+        "bicycle path with cyclist symbol",
+        "bridge spanning river with traffic on top",
+        "footpath through park with benches",
+        "tunnel entrance in mountain with headlights"
+      ],
+      "ru": [
+        "стрелка навигации указывает на пункт назначения",
+        "железнодорожные пути со знаком переезда",
+        "велосипедная дорожка с символом велосипедиста",
+        "мост через реку с движением наверху",
+        "пешеходная дорожка через парк со скамейками",
+        "въезд в туннель в горе с фарами"
+      ]
+    },
+    "valid": {
+      "en": [
+        "straight highway road to the horizon",
+        "road map for travel route planning",
+        "two-lane road with center line markings"
+      ],
+      "ru": [
+        "прямое шоссе до горизонта",
+        "дорожная карта для планирования маршрута",
+        "двухполосная дорога с осевой разметкой"
+      ]
+    },
+    "test": {
+      "en": [
+        "winding road through mountain landscape",
+        "highway icon for navigation app",
+        "empty road stretching into distance"
+      ],
+      "ru": [
+        "извилистая дорога через горный пейзаж",
+        "иконка шоссе для навигационного приложения",
+        "пустая дорога уходит вдаль"
+      ]
+    }
+  }
+}

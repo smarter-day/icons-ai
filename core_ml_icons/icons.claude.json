@@ -1,0 +1,6105 @@
+{
+  "meta": {
+    "source_list": "",
+    "source_icons_yml": "",
+    "icons_count": 515,
+    "missing_in_icons_yml_count": 0,
+    "generated_by": "search_terms_from_icons_yml"
+  },
+  "icons": [
+    {
+      "icon_name": "abacus",
+      "search_terms": [
+        "abacus",
+        "addition",
+        "ancient",
+        "arithmetic",
+        "calculation",
+        "calculator",
+        "counting",
+        "hexadecimal",
+        "math",
+        "subtraction"
+      ]
+    },
+    {
+      "icon_name": "airplay",
+      "search_terms": [
+        "apple",
+        "connect",
+        "mirror",
+        "share",
+        "signal",
+        "stream",
+        "video"
+      ]
+    },
+    {
+      "icon_name": "alarm-clock",
+      "search_terms": [
+        "alarm",
+        "alarm clock",
+        "clock",
+        "date",
+        "late",
+        "pending",
+        "reminder",
+        "sleep",
+        "snooze",
+        "timer",
+        "timestamp",
+        "watch"
+      ]
+    },
+    {
+      "icon_name": "album",
+      "search_terms": [
+        "computer",
+        "computer disk",
+        "disk",
+        "library",
+        "minidisk",
+        "music",
+        "optical",
+        "record",
+        "song",
+        "vinyl"
+      ]
+    },
+    {
+      "icon_name": "ant",
+      "search_terms": [
+        "ant",
+        "anthill",
+        "bug",
+        "crawl",
+        "insect"
+      ]
+    },
+    {
+      "icon_name": "apartment",
+      "search_terms": [
+        "apartment",
+        "building",
+        "city",
+        "condo",
+        "condominium",
+        "flat"
+      ]
+    },
+    {
+      "icon_name": "baby",
+      "search_terms": [
+        "uer",
+        "users-people"
+      ]
+    },
+    {
+      "icon_name": "baby-carriage",
+      "search_terms": [
+        "buggy",
+        "carrier",
+        "infant",
+        "push",
+        "stroller",
+        "transportation",
+        "walk",
+        "wheels"
+      ]
+    },
+    {
+      "icon_name": "bacon",
+      "search_terms": [
+        "bacon",
+        "blt",
+        "breakfast",
+        "food",
+        "ham",
+        "lard",
+        "meat",
+        "pancetta",
+        "pork",
+        "rasher"
+      ]
+    },
+    {
+      "icon_name": "badge-dollar",
+      "search_terms": [
+        "coupon",
+        "deal",
+        "discount",
+        "guarantee",
+        "investment",
+        "money",
+        "salary",
+        "save",
+        "usd"
+      ]
+    },
+    {
+      "icon_name": "badminton",
+      "search_terms": [
+        "badminton",
+        "birdie",
+        "game",
+        "racquet",
+        "shuttlecock"
+      ]
+    },
+    {
+      "icon_name": "bag-shopping",
+      "search_terms": [
+        "buy",
+        "checkout",
+        "grocery",
+        "payment",
+        "purchase"
+      ]
+    },
+    {
+      "icon_name": "bagel",
+      "search_terms": [
+        "bagel",
+        "bakery",
+        "breakfast",
+        "cream cheese",
+        "schmear",
+        "toast"
+      ]
+    },
+    {
+      "icon_name": "bags-shopping",
+      "search_terms": [
+        "bag",
+        "buy",
+        "checkout",
+        "hotel",
+        "order",
+        "shopping",
+        "shopping bags",
+        "store"
+      ]
+    },
+    {
+      "icon_name": "baguette",
+      "search_terms": [
+        "baguette",
+        "bread",
+        "french",
+        "loaf",
+        "sourdough"
+      ]
+    },
+    {
+      "icon_name": "baht-sign",
+      "search_terms": [
+        "currency"
+      ]
+    },
+    {
+      "icon_name": "balloons",
+      "search_terms": [
+        "birthday",
+        "celebrate",
+        "celebration",
+        "helium",
+        "party",
+        "pop",
+        "up"
+      ]
+    },
+    {
+      "icon_name": "barcode",
+      "search_terms": [
+        "info",
+        "laser",
+        "price",
+        "scan",
+        "upc"
+      ]
+    },
+    {
+      "icon_name": "baseball",
+      "search_terms": [
+        "ball",
+        "baseball",
+        "foul",
+        "glove",
+        "hardball",
+        "league",
+        "leather",
+        "mlb",
+        "softball",
+        "sport",
+        "underarm"
+      ]
+    },
+    {
+      "icon_name": "basket-shopping",
+      "search_terms": [
+        "buy",
+        "checkout",
+        "grocery",
+        "payment",
+        "purchase"
+      ]
+    },
+    {
+      "icon_name": "bat",
+      "search_terms": [
+        "animal",
+        "batman",
+        "bruce wayne",
+        "flying",
+        "gotham",
+        "halloween",
+        "mammal",
+        "vampire",
+        "wings"
+      ]
+    },
+    {
+      "icon_name": "bath",
+      "search_terms": [
+        "bath",
+        "bathtub",
+        "clean",
+        "shower",
+        "tub",
+        "wash"
+      ]
+    },
+    {
+      "icon_name": "battery-bolt",
+      "search_terms": [
+        "charge",
+        "power",
+        "status"
+      ]
+    },
+    {
+      "icon_name": "bed-bunk",
+      "search_terms": [
+        "lodging",
+        "mattress",
+        "rest",
+        "siblings",
+        "sleep",
+        "sleepover",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "bell-ring",
+      "search_terms": [
+        "Ringing Bell",
+        "alarm",
+        "alert",
+        "chime",
+        "notification",
+        "reminder",
+        "request"
+      ]
+    },
+    {
+      "icon_name": "bell-school",
+      "search_terms": [
+        "alert",
+        "chime",
+        "class",
+        "notification",
+        "reminder"
+      ]
+    },
+    {
+      "icon_name": "bells",
+      "search_terms": [
+        "alert",
+        "christmas",
+        "holiday",
+        "notification",
+        "reminder",
+        "request",
+        "xmas"
+      ]
+    },
+    {
+      "icon_name": "bench-tree",
+      "search_terms": [
+        "bench",
+        "outside",
+        "park",
+        "picnic",
+        "tree"
+      ]
+    },
+    {
+      "icon_name": "bicycle",
+      "search_terms": [
+        "bicycle",
+        "bike",
+        "gears",
+        "pedal",
+        "transportation",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "billboard",
+      "search_terms": [
+        "advertising",
+        "promotion",
+        "sign",
+        "signboard",
+        "slogan poster"
+      ]
+    },
+    {
+      "icon_name": "bin-bottles",
+      "search_terms": [
+        "collect",
+        "jug",
+        "plastics",
+        "recycle"
+      ]
+    },
+    {
+      "icon_name": "bin-recycle",
+      "search_terms": [
+        "collect",
+        "jug",
+        "plastics",
+        "recycle"
+      ]
+    },
+    {
+      "icon_name": "binoculars",
+      "search_terms": [
+        "glasses",
+        "inspection",
+        "magnifier",
+        "magnify",
+        "scenic",
+        "spyglass",
+        "view"
+      ]
+    },
+    {
+      "icon_name": "bird",
+      "search_terms": [
+        "avian",
+        "bird",
+        "feather",
+        "fowl",
+        "tweet",
+        "wing"
+      ]
+    },
+    {
+      "icon_name": "blender",
+      "search_terms": [
+        "cocktail",
+        "milkshake",
+        "mixer",
+        "puree",
+        "smoothie"
+      ]
+    },
+    {
+      "icon_name": "bluetooth",
+      "search_terms": [
+        "signal"
+      ]
+    },
+    {
+      "icon_name": "bolt",
+      "search_terms": [
+        "charge",
+        "danger",
+        "electric",
+        "electricity",
+        "flash",
+        "high voltage",
+        "lightning",
+        "voltage",
+        "weather",
+        "zap"
+      ]
+    },
+    {
+      "icon_name": "bone",
+      "search_terms": [
+        "bone",
+        "calcium",
+        "dog",
+        "skeletal",
+        "skeleton",
+        "tibia"
+      ]
+    },
+    {
+      "icon_name": "book-sparkles",
+      "search_terms": [
+        "Dungeons & Dragons",
+        "d&d",
+        "dark arts",
+        "dnd",
+        "documentation",
+        "evil",
+        "fantasy",
+        "halloween",
+        "holiday",
+        "library",
+        "mage",
+        "magic",
+        "read",
+        "research",
+        "sorcery",
+        "voodoo",
+        "witch",
+        "wizard"
+      ]
+    },
+    {
+      "icon_name": "boombox",
+      "search_terms": [
+        "Portable Stereo",
+        "cassette",
+        "jambox",
+        "john cusack",
+        "music",
+        "radio",
+        "say anything"
+      ]
+    },
+    {
+      "icon_name": "boot",
+      "search_terms": [
+        "backpacking",
+        "boot",
+        "camping",
+        "clothing",
+        "foot",
+        "hiking",
+        "hiking boot",
+        "shoe",
+        "sturdy"
+      ]
+    },
+    {
+      "icon_name": "booth-curtain",
+      "search_terms": [
+        "changing room",
+        "election",
+        "vote",
+        "voting",
+        "voting booth"
+      ]
+    },
+    {
+      "icon_name": "bottle-water",
+      "search_terms": [
+        "h2o",
+        "plastic",
+        "water"
+      ]
+    },
+    {
+      "icon_name": "bowl-food",
+      "search_terms": [
+        "catfood",
+        "dogfood",
+        "food",
+        "rice"
+      ]
+    },
+    {
+      "icon_name": "bowl-rice",
+      "search_terms": [
+        "boiled",
+        "cooked",
+        "cooked rice",
+        "rice",
+        "steamed"
+      ]
+    },
+    {
+      "icon_name": "box",
+      "search_terms": [
+        "archive",
+        "box",
+        "container",
+        "package",
+        "parcel",
+        "storage"
+      ]
+    },
+    {
+      "icon_name": "box-open",
+      "search_terms": [
+        "archive",
+        "container",
+        "package",
+        "storage",
+        "unpack"
+      ]
+    },
+    {
+      "icon_name": "boxes-packing",
+      "search_terms": [
+        "archive",
+        "box",
+        "package",
+        "storage",
+        "supplies"
+      ]
+    },
+    {
+      "icon_name": "braille",
+      "search_terms": [
+        "alphabet",
+        "blind",
+        "dots",
+        "raised",
+        "vision"
+      ]
+    },
+    {
+      "icon_name": "brain-circuit",
+      "search_terms": [
+        "ai",
+        "android",
+        "artificial intelligence",
+        "brain",
+        "genius",
+        "knowledge",
+        "scholar"
+      ]
+    },
+    {
+      "icon_name": "bread-loaf",
+      "search_terms": [
+        "bake",
+        "bakery",
+        "baking",
+        "bread",
+        "dough",
+        "flour",
+        "gluten",
+        "grain",
+        "loaf",
+        "sandwich",
+        "sourdough",
+        "toast",
+        "wheat",
+        "yeast"
+      ]
+    },
+    {
+      "icon_name": "bread-slice",
+      "search_terms": [
+        "bake",
+        "bakery",
+        "baking",
+        "dough",
+        "flour",
+        "gluten",
+        "grain",
+        "sandwich",
+        "sourdough",
+        "toast",
+        "wheat",
+        "yeast"
+      ]
+    },
+    {
+      "icon_name": "briefcase",
+      "search_terms": [
+        "bag",
+        "briefcas",
+        "briefcase",
+        "business",
+        "luggage",
+        "offer",
+        "office",
+        "portfolio",
+        "work"
+      ]
+    },
+    {
+      "icon_name": "briefcase-medical",
+      "search_terms": [
+        "doctor",
+        "emt",
+        "first aid",
+        "health"
+      ]
+    },
+    {
+      "icon_name": "broom",
+      "search_terms": [
+        "broom",
+        "clean",
+        "cleaning",
+        "firebolt",
+        "fly",
+        "halloween",
+        "nimbus 2000",
+        "quidditch",
+        "sweep",
+        "sweeping",
+        "witch"
+      ]
+    },
+    {
+      "icon_name": "broom-wide",
+      "search_terms": [
+        "broom",
+        "brush",
+        "clean",
+        "clear",
+        "delete",
+        "dust",
+        "erase",
+        "remove",
+        "sweep",
+        "witch"
+      ]
+    },
+    {
+      "icon_name": "browser",
+      "search_terms": [
+        "Desktop Window",
+        "app",
+        "application",
+        "desktop",
+        "explorer",
+        "internet",
+        "web",
+        "website",
+        "www"
+      ]
+    },
+    {
+      "icon_name": "bucket",
+      "search_terms": [
+        "bucket",
+        "pail",
+        "sandcastle"
+      ]
+    },
+    {
+      "icon_name": "bug",
+      "search_terms": [
+        "beetle",
+        "error",
+        "glitch",
+        "insect",
+        "repair",
+        "report"
+      ]
+    },
+    {
+      "icon_name": "building",
+      "search_terms": [
+        "apartment",
+        "building",
+        "business",
+        "city",
+        "company",
+        "office",
+        "office building",
+        "urban",
+        "work"
+      ]
+    },
+    {
+      "icon_name": "buildings",
+      "search_terms": [
+        "apartment",
+        "business",
+        "city",
+        "company",
+        "office",
+        "urban",
+        "work"
+      ]
+    },
+    {
+      "icon_name": "bullseye",
+      "search_terms": [
+        "archery",
+        "goal",
+        "objective",
+        "strategy",
+        "target"
+      ]
+    },
+    {
+      "icon_name": "bullseye-pointer",
+      "search_terms": [
+        "archery",
+        "goal",
+        "objective",
+        "strategy",
+        "target"
+      ]
+    },
+    {
+      "icon_name": "burger",
+      "search_terms": [
+        "bacon",
+        "beef",
+        "burger",
+        "burger king",
+        "cheeseburger",
+        "fast food",
+        "grill",
+        "ground beef",
+        "mcdonalds",
+        "sandwich"
+      ]
+    },
+    {
+      "icon_name": "burrito",
+      "search_terms": [
+        "beans",
+        "breakfast",
+        "burrito",
+        "chimichanga",
+        "mexican",
+        "salsa",
+        "taco",
+        "tortilla",
+        "wrap"
+      ]
+    },
+    {
+      "icon_name": "bus",
+      "search_terms": [
+        "bus",
+        "oncoming",
+        "oncoming bus",
+        "public transportation",
+        "transportation",
+        "travel",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "butter",
+      "search_terms": [
+        "butter",
+        "dairy",
+        "margarine",
+        "spread"
+      ]
+    },
+    {
+      "icon_name": "cabinet-filing",
+      "search_terms": [
+        "archive",
+        "cabinet",
+        "file",
+        "file cabinet",
+        "files",
+        "filing",
+        "records",
+        "register",
+        "storage"
+      ]
+    },
+    {
+      "icon_name": "cable-car",
+      "search_terms": [
+        "aerial tramway",
+        "cable",
+        "gondola",
+        "lift",
+        "mountain",
+        "mountain cableway",
+        "tram",
+        "tramway",
+        "trolley"
+      ]
+    },
+    {
+      "icon_name": "cake-candles",
+      "search_terms": [
+        "anniversary",
+        "bakery",
+        "birthday",
+        "birthday cake",
+        "cake",
+        "candles",
+        "celebration",
+        "dessert",
+        "frosting",
+        "holiday",
+        "party",
+        "pastry",
+        "sweet"
+      ]
+    },
+    {
+      "icon_name": "cake-slice",
+      "search_terms": [
+        "birthday",
+        "cake",
+        "dessert",
+        "frosting",
+        "icing"
+      ]
+    },
+    {
+      "icon_name": "calculator",
+      "search_terms": [
+        "Pocket Calculator",
+        "abacus",
+        "addition",
+        "arithmetic",
+        "counting",
+        "math",
+        "multiplication",
+        "subtraction"
+      ]
+    },
+    {
+      "icon_name": "calendar",
+      "search_terms": [
+        "calendar",
+        "calendar-o",
+        "date",
+        "day",
+        "event",
+        "month",
+        "schedule",
+        "tear-off calendar",
+        "time",
+        "when",
+        "year"
+      ]
+    },
+    {
+      "icon_name": "camera",
+      "search_terms": [
+        "image",
+        "img",
+        "lens",
+        "photo",
+        "picture",
+        "record",
+        "shutter",
+        "video"
+      ]
+    },
+    {
+      "icon_name": "can-food",
+      "search_terms": [
+        "canned",
+        "ration",
+        "soup",
+        "tin"
+      ]
+    },
+    {
+      "icon_name": "candy-cane",
+      "search_terms": [
+        "candy",
+        "christmas",
+        "holiday",
+        "mint",
+        "peppermint",
+        "striped",
+        "xmas"
+      ]
+    },
+    {
+      "icon_name": "cannon",
+      "search_terms": [
+        "artillery",
+        "cannonball",
+        "gun powder",
+        "munition",
+        "ordnance",
+        "projectile",
+        "weapon"
+      ]
+    },
+    {
+      "icon_name": "car",
+      "search_terms": [
+        "auto",
+        "automobile",
+        "car",
+        "oncoming",
+        "oncoming automobile",
+        "sedan",
+        "transportation",
+        "travel",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "car-battery",
+      "search_terms": [
+        "auto",
+        "electric",
+        "mechanic",
+        "power"
+      ]
+    },
+    {
+      "icon_name": "caravan",
+      "search_terms": [
+        "camper",
+        "motor home",
+        "rv",
+        "trailer",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "cards-blank",
+      "search_terms": [
+        "card",
+        "magic the gathering",
+        "mtg",
+        "playing card",
+        "pokemon"
+      ]
+    },
+    {
+      "icon_name": "carpool",
+      "search_terms": [
+        "auto",
+        "automobile",
+        "car",
+        "caravan",
+        "carpool",
+        "oncoming",
+        "oncoming automobile",
+        "passengers",
+        "rideshare",
+        "sedan",
+        "transportation",
+        "travel",
+        "vanpool",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "cart-flatbed",
+      "search_terms": [
+        "carry",
+        "inventory",
+        "shipping",
+        "transport"
+      ]
+    },
+    {
+      "icon_name": "cart-shopping",
+      "search_terms": [
+        "buy",
+        "cart",
+        "checkout",
+        "grocery",
+        "payment",
+        "purchase",
+        "shopping",
+        "shopping cart",
+        "trolley"
+      ]
+    },
+    {
+      "icon_name": "cash-register",
+      "search_terms": [
+        "buy",
+        "cha-ching",
+        "change",
+        "checkout",
+        "commerce",
+        "leaerboard",
+        "machine",
+        "pay",
+        "payment",
+        "purchase",
+        "store"
+      ]
+    },
+    {
+      "icon_name": "cat",
+      "search_terms": [
+        "cat",
+        "feline",
+        "halloween",
+        "holiday",
+        "kitten",
+        "kitty",
+        "meow",
+        "pet"
+      ]
+    },
+    {
+      "icon_name": "cauldron",
+      "search_terms": [
+        "boil",
+        "bubble",
+        "cooking",
+        "halloween",
+        "holiday",
+        "magic",
+        "pot",
+        "sorcery",
+        "toil",
+        "trouble",
+        "witch",
+        "wizard"
+      ]
+    },
+    {
+      "icon_name": "cent-sign",
+      "search_terms": [
+        "Cent Sign",
+        "currency"
+      ]
+    },
+    {
+      "icon_name": "chair",
+      "search_terms": [
+        "chair",
+        "furniture",
+        "seat",
+        "sit"
+      ]
+    },
+    {
+      "icon_name": "chair-office",
+      "search_terms": [
+        "ergonomic",
+        "furniture",
+        "seat"
+      ]
+    },
+    {
+      "icon_name": "chalkboard",
+      "search_terms": [
+        "blackboard",
+        "learning",
+        "school",
+        "teaching",
+        "whiteboard",
+        "writing"
+      ]
+    },
+    {
+      "icon_name": "chalkboard-user",
+      "search_terms": [
+        "blackboard",
+        "instructor",
+        "learning",
+        "professor",
+        "school",
+        "uer",
+        "whiteboard",
+        "writing"
+      ]
+    },
+    {
+      "icon_name": "champagne-glasses",
+      "search_terms": [
+        "alcohol",
+        "bar",
+        "beverage",
+        "celebrate",
+        "celebration",
+        "champagne",
+        "clink",
+        "clinking glasses",
+        "drink",
+        "glass",
+        "holiday",
+        "new year's eve",
+        "party",
+        "toast"
+      ]
+    },
+    {
+      "icon_name": "charging-station",
+      "search_terms": [
+        "car charger",
+        "charge",
+        "charging",
+        "electric",
+        "ev",
+        "tesla",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "chart-gantt",
+      "search_terms": [
+        "chart",
+        "graph",
+        "performance",
+        "statistics",
+        "track",
+        "trend"
+      ]
+    },
+    {
+      "icon_name": "chart-pie",
+      "search_terms": [
+        "analytics",
+        "chart",
+        "diagram",
+        "graph",
+        "performance",
+        "pie",
+        "revenue",
+        "statistics"
+      ]
+    },
+    {
+      "icon_name": "cheese",
+      "search_terms": [
+        "cheddar",
+        "curd",
+        "gouda",
+        "melt",
+        "parmesan",
+        "sandwich",
+        "swiss",
+        "wedge"
+      ]
+    },
+    {
+      "icon_name": "cheese-swiss",
+      "search_terms": [
+        "cheddar",
+        "cheese",
+        "cheese wedge",
+        "curd",
+        "gouda",
+        "melt",
+        "parmesan",
+        "sandwich",
+        "swiss",
+        "wedge"
+      ]
+    },
+    {
+      "icon_name": "chess-board",
+      "search_terms": [
+        "board",
+        "checkmate",
+        "game",
+        "strategy"
+      ]
+    },
+    {
+      "icon_name": "chf-sign",
+      "search_terms": [
+        "Swiss",
+        "currency",
+        "franc",
+        "money"
+      ]
+    },
+    {
+      "icon_name": "chimney",
+      "search_terms": [
+        "brick",
+        "exhaust",
+        "fireplace",
+        "house",
+        "roof",
+        "vent"
+      ]
+    },
+    {
+      "icon_name": "chopsticks",
+      "search_terms": [
+        "bamboo",
+        "chopsticks",
+        "utensils"
+      ]
+    },
+    {
+      "icon_name": "clapperboard",
+      "search_terms": [
+        "camera",
+        "clapper",
+        "clapper board",
+        "director",
+        "film",
+        "movie",
+        "record"
+      ]
+    },
+    {
+      "icon_name": "clipboard-list",
+      "search_terms": [
+        "cheatsheet",
+        "checklist",
+        "completed",
+        "done",
+        "finished",
+        "intinerary",
+        "ol",
+        "schedule",
+        "summary",
+        "survey",
+        "tick",
+        "todo",
+        "ul",
+        "wishlist"
+      ]
+    },
+    {
+      "icon_name": "clock",
+      "search_terms": [
+        "00",
+        "4",
+        "4:00",
+        "clock",
+        "date",
+        "four",
+        "four o’clock",
+        "hour",
+        "late",
+        "minute",
+        "o'clock",
+        "o’clock",
+        "pending",
+        "schedule",
+        "ticking",
+        "time",
+        "timer",
+        "timestamp",
+        "watch"
+      ]
+    },
+    {
+      "icon_name": "clothes-hanger",
+      "search_terms": [
+        "clothing",
+        "dry cleaner",
+        "hang",
+        "wire"
+      ]
+    },
+    {
+      "icon_name": "cloud-meatball",
+      "search_terms": [
+        "FLDSMDFR",
+        "food",
+        "spaghetti",
+        "storm"
+      ]
+    },
+    {
+      "icon_name": "cloud-music",
+      "search_terms": [
+        "download",
+        "music",
+        "spotify",
+        "streaming"
+      ]
+    },
+    {
+      "icon_name": "cloud-sun",
+      "search_terms": [
+        "clear",
+        "cloud",
+        "day",
+        "daytime",
+        "fall",
+        "outdoors",
+        "overcast",
+        "partly cloudy",
+        "sun",
+        "sun behind cloud"
+      ]
+    },
+    {
+      "icon_name": "clouds-sun",
+      "search_terms": [
+        "cloudy",
+        "day",
+        "moonlight",
+        "overcast",
+        "sky",
+        "summer"
+      ]
+    },
+    {
+      "icon_name": "code",
+      "search_terms": [
+        "brackets",
+        "code",
+        "development",
+        "html",
+        "mysql",
+        "sql"
+      ]
+    },
+    {
+      "icon_name": "coffee-pot",
+      "search_terms": [
+        "beverage",
+        "breakfast",
+        "brew",
+        "cafe",
+        "carafe",
+        "drink",
+        "morning"
+      ]
+    },
+    {
+      "icon_name": "coins",
+      "search_terms": [
+        "currency",
+        "dime",
+        "financial",
+        "gold",
+        "money",
+        "penny",
+        "premium"
+      ]
+    },
+    {
+      "icon_name": "command",
+      "search_terms": [
+        "Place of Interest Sign",
+        "apple key",
+        "loop"
+      ]
+    },
+    {
+      "icon_name": "compact-disc",
+      "search_terms": [
+        "Optical Disc Icon",
+        "album",
+        "blu-ray",
+        "bluray",
+        "cd",
+        "computer",
+        "disc",
+        "disk",
+        "dvd",
+        "media",
+        "movie",
+        "music",
+        "optical",
+        "optical disk",
+        "record",
+        "video",
+        "vinyl"
+      ]
+    },
+    {
+      "icon_name": "compass",
+      "search_terms": [
+        "compass",
+        "directions",
+        "directory",
+        "location",
+        "magnetic",
+        "menu",
+        "navigation",
+        "orienteering",
+        "safari",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "compass-drafting",
+      "search_terms": [
+        "design",
+        "map",
+        "mechanical drawing",
+        "plot",
+        "plotting"
+      ]
+    },
+    {
+      "icon_name": "computer",
+      "search_terms": [
+        "computer",
+        "desktop",
+        "display",
+        "monitor",
+        "tower"
+      ]
+    },
+    {
+      "icon_name": "computer-mouse",
+      "search_terms": [
+        "click",
+        "computer",
+        "computer mouse",
+        "cursor",
+        "input",
+        "peripheral"
+      ]
+    },
+    {
+      "icon_name": "container-storage",
+      "search_terms": [
+        "archive",
+        "box",
+        "crate",
+        "intermodal",
+        "inventory",
+        "shipping",
+        "warehouse"
+      ]
+    },
+    {
+      "icon_name": "conveyor-belt",
+      "search_terms": [
+        "carousel",
+        "inventory",
+        "manufacture",
+        "packaging",
+        "shipping"
+      ]
+    },
+    {
+      "icon_name": "cookie",
+      "search_terms": [
+        "baked good",
+        "chips",
+        "chocolate",
+        "cookie",
+        "dessert",
+        "eat",
+        "snack",
+        "sweet",
+        "treat"
+      ]
+    },
+    {
+      "icon_name": "cookie-bite",
+      "search_terms": [
+        "baked good",
+        "bitten",
+        "chips",
+        "chocolate",
+        "eat",
+        "snack",
+        "sweet",
+        "treat"
+      ]
+    },
+    {
+      "icon_name": "copy",
+      "search_terms": [
+        "clone",
+        "duplicate",
+        "file",
+        "files-o",
+        "paper",
+        "paste"
+      ]
+    },
+    {
+      "icon_name": "couch",
+      "search_terms": [
+        "chair",
+        "cushion",
+        "furniture",
+        "relax",
+        "sofa"
+      ]
+    },
+    {
+      "icon_name": "cow",
+      "search_terms": [
+        "agriculture",
+        "animal",
+        "beef",
+        "bovine",
+        "co",
+        "cow",
+        "farm",
+        "fauna",
+        "livestock",
+        "mammal",
+        "milk",
+        "moo"
+      ]
+    },
+    {
+      "icon_name": "crab",
+      "search_terms": [
+        "cancer",
+        "claws",
+        "crabmeat",
+        "crustacean",
+        "seafood",
+        "shellfish",
+        "zodiac"
+      ]
+    },
+    {
+      "icon_name": "croissant",
+      "search_terms": [
+        "bakery",
+        "bread",
+        "breakfast",
+        "brioche",
+        "butter",
+        "crescent",
+        "croissant",
+        "dough",
+        "food",
+        "french",
+        "gluten",
+        "pastry",
+        "roll"
+      ]
+    },
+    {
+      "icon_name": "crop",
+      "search_terms": [
+        "design",
+        "frame",
+        "mask",
+        "modify",
+        "resize",
+        "shrink"
+      ]
+    },
+    {
+      "icon_name": "crosshairs",
+      "search_terms": [
+        "aim",
+        "bullseye",
+        "gpd",
+        "picker",
+        "position"
+      ]
+    },
+    {
+      "icon_name": "crow",
+      "search_terms": [
+        "bird",
+        "bullfrog",
+        "fauna",
+        "halloween",
+        "holiday",
+        "toad"
+      ]
+    },
+    {
+      "icon_name": "cup-togo",
+      "search_terms": [
+        "beverage",
+        "breakfast",
+        "cafe",
+        "drink",
+        "latte",
+        "morning",
+        "mug",
+        "starbucks",
+        "takeout",
+        "tea",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "curling-stone",
+      "search_terms": [
+        "curling stone",
+        "game",
+        "ice",
+        "olympics",
+        "rock",
+        "sport",
+        "stone"
+      ]
+    },
+    {
+      "icon_name": "dagger",
+      "search_terms": [
+        "Dungeons & Dragons",
+        "blade",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "melee attack",
+        "rogue",
+        "sting",
+        "weapon"
+      ]
+    },
+    {
+      "icon_name": "database",
+      "search_terms": [
+        "computer",
+        "development",
+        "directory",
+        "memory",
+        "mysql",
+        "sql",
+        "storage"
+      ]
+    },
+    {
+      "icon_name": "deer",
+      "search_terms": [
+        "animal",
+        "antlers",
+        "blitzen",
+        "comet",
+        "cupid",
+        "dancer",
+        "dasher",
+        "dee",
+        "deer",
+        "donner",
+        "fauna",
+        "mammal",
+        "prancer",
+        "reindeer",
+        "vixen"
+      ]
+    },
+    {
+      "icon_name": "desktop",
+      "search_terms": [
+        "computer",
+        "cpu",
+        "demo",
+        "desktop",
+        "desktop computer",
+        "device",
+        "imac",
+        "machine",
+        "monitor",
+        "pc",
+        "screen"
+      ]
+    },
+    {
+      "icon_name": "diagram-project",
+      "search_terms": [
+        "chart",
+        "graph",
+        "network",
+        "pert",
+        "statistics"
+      ]
+    },
+    {
+      "icon_name": "diagram-venn",
+      "search_terms": [
+        "chart",
+        "intersection",
+        "logic",
+        "overlap"
+      ]
+    },
+    {
+      "icon_name": "dial",
+      "search_terms": [
+        "dial",
+        "level"
+      ]
+    },
+    {
+      "icon_name": "dice",
+      "search_terms": [
+        "chance",
+        "dice",
+        "die",
+        "gambling",
+        "game",
+        "game die",
+        "roll"
+      ]
+    },
+    {
+      "icon_name": "diploma",
+      "search_terms": [
+        "award",
+        "certificate",
+        "college",
+        "education",
+        "graduate",
+        "graduation",
+        "scholar",
+        "university"
+      ]
+    },
+    {
+      "icon_name": "display",
+      "search_terms": [
+        "Screen",
+        "computer",
+        "desktop",
+        "imac"
+      ]
+    },
+    {
+      "icon_name": "dog",
+      "search_terms": [
+        "animal",
+        "canine",
+        "dog",
+        "fauna",
+        "mammal",
+        "pet",
+        "pooch",
+        "puppy",
+        "woof"
+      ]
+    },
+    {
+      "icon_name": "dog-leashed",
+      "search_terms": [
+        "accessibility",
+        "animal",
+        "blind",
+        "canine",
+        "fauna",
+        "guide",
+        "guide dog",
+        "mammal",
+        "pet",
+        "pooch",
+        "puppy",
+        "walk",
+        "woof"
+      ]
+    },
+    {
+      "icon_name": "dollar-sign",
+      "search_terms": [
+        "Dollar Sign",
+        "coupon",
+        "currency",
+        "dollar",
+        "heavy dollar sign",
+        "investment",
+        "money",
+        "premium",
+        "revenue",
+        "salary"
+      ]
+    },
+    {
+      "icon_name": "dolly",
+      "search_terms": [
+        "carry",
+        "shipping",
+        "transport"
+      ]
+    },
+    {
+      "icon_name": "dolphin",
+      "search_terms": [
+        "aquarium",
+        "dolphin",
+        "fish",
+        "flipper",
+        "mammal",
+        "marine",
+        "maritime",
+        "porpoise"
+      ]
+    },
+    {
+      "icon_name": "door-closed",
+      "search_terms": [
+        "doo",
+        "door",
+        "enter",
+        "exit",
+        "locked",
+        "privacy"
+      ]
+    },
+    {
+      "icon_name": "dove",
+      "search_terms": [
+        "bird",
+        "dove",
+        "fauna",
+        "fly",
+        "flying",
+        "peace",
+        "war"
+      ]
+    },
+    {
+      "icon_name": "drone",
+      "search_terms": [
+        "aerial",
+        "big brother",
+        "surveillance",
+        "uav",
+        "unmanned",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "dryer",
+      "search_terms": [
+        "clean",
+        "clothes",
+        "laundromat",
+        "laundry",
+        "washing machine"
+      ]
+    },
+    {
+      "icon_name": "duck",
+      "search_terms": [
+        "bath",
+        "bird",
+        "duck",
+        "fauna",
+        "quack",
+        "rubber"
+      ]
+    },
+    {
+      "icon_name": "dumbbell",
+      "search_terms": [
+        "exercise",
+        "gym",
+        "strength",
+        "weight",
+        "weight-lifting",
+        "workout"
+      ]
+    },
+    {
+      "icon_name": "egg",
+      "search_terms": [
+        "breakfast",
+        "chicken",
+        "easter",
+        "egg",
+        "food",
+        "shell",
+        "yolk"
+      ]
+    },
+    {
+      "icon_name": "egg-fried",
+      "search_terms": [
+        "breakfast",
+        "chicken",
+        "yolk"
+      ]
+    },
+    {
+      "icon_name": "elephant",
+      "search_terms": [
+        "animal",
+        "dumbo",
+        "elephan",
+        "elephant",
+        "fauna",
+        "mammal",
+        "pachyderm",
+        "trunk"
+      ]
+    },
+    {
+      "icon_name": "elevator",
+      "search_terms": [
+        "accessibility",
+        "elevator",
+        "hoist",
+        "lift",
+        "uer",
+        "users-people"
+      ]
+    },
+    {
+      "icon_name": "envelope",
+      "search_terms": [
+        "Back of Envelope",
+        "e-mail",
+        "email",
+        "envelope",
+        "letter",
+        "mail",
+        "message",
+        "newsletter",
+        "notification",
+        "offer",
+        "support"
+      ]
+    },
+    {
+      "icon_name": "eraser",
+      "search_terms": [
+        "art",
+        "delete",
+        "remove",
+        "rubber"
+      ]
+    },
+    {
+      "icon_name": "ethernet",
+      "search_terms": [
+        "cable",
+        "cat 5",
+        "cat 6",
+        "connection",
+        "hardware",
+        "internet",
+        "network",
+        "wired"
+      ]
+    },
+    {
+      "icon_name": "euro-sign",
+      "search_terms": [
+        "Euro Sign",
+        "currency"
+      ]
+    },
+    {
+      "icon_name": "expand",
+      "search_terms": [
+        "arrows",
+        "bigger",
+        "enlarge",
+        "expand",
+        "fullscreen",
+        "maximize",
+        "resize",
+        "scale",
+        "size",
+        "viewfinder"
+      ]
+    },
+    {
+      "icon_name": "face-exhaling",
+      "search_terms": [
+        "breath",
+        "exhale",
+        "exhaustion",
+        "relief",
+        "sigh"
+      ]
+    },
+    {
+      "icon_name": "face-woozy",
+      "search_terms": [
+        "disgust",
+        "dizzy",
+        "drunk",
+        "exhaustion",
+        "intoxicated",
+        "tipsy",
+        "uneven eyes",
+        "wasckiness",
+        "wavy mouth",
+        "woozy face"
+      ]
+    },
+    {
+      "icon_name": "falafel",
+      "search_terms": [
+        "chickpea",
+        "falafel",
+        "garbanzo",
+        "meatball"
+      ]
+    },
+    {
+      "icon_name": "family",
+      "search_terms": [
+        "adults",
+        "child",
+        "famil",
+        "family",
+        "folk",
+        "kid",
+        "parent",
+        "together",
+        "uer"
+      ]
+    },
+    {
+      "icon_name": "fan",
+      "search_terms": [
+        "ac",
+        "air conditioning",
+        "blade",
+        "blower",
+        "cool",
+        "hot"
+      ]
+    },
+    {
+      "icon_name": "faucet",
+      "search_terms": [
+        "covid-19",
+        "drinking",
+        "drip",
+        "house",
+        "hygiene",
+        "kitchen",
+        "potable",
+        "potable water",
+        "sanitation",
+        "sink",
+        "water"
+      ]
+    },
+    {
+      "icon_name": "fax",
+      "search_terms": [
+        "Fax Icon",
+        "business",
+        "communicate",
+        "copy",
+        "facsimile",
+        "fax",
+        "fax machine",
+        "send"
+      ]
+    },
+    {
+      "icon_name": "ferris-wheel",
+      "search_terms": [
+        "amusement park",
+        "fair",
+        "ferris",
+        "ferris wheel",
+        "ride",
+        "theme park",
+        "wheel"
+      ]
+    },
+    {
+      "icon_name": "file",
+      "search_terms": [
+        "Empty Document",
+        "cv",
+        "document",
+        "new",
+        "page",
+        "page facing up",
+        "pdf",
+        "resume"
+      ]
+    },
+    {
+      "icon_name": "film",
+      "search_terms": [
+        "cinema",
+        "film",
+        "film frames",
+        "frames",
+        "movie",
+        "strip",
+        "video"
+      ]
+    },
+    {
+      "icon_name": "film-canister",
+      "search_terms": [
+        "110",
+        "35mm",
+        "darkroom",
+        "develop",
+        "image",
+        "photo",
+        "photography",
+        "retro",
+        "vintage"
+      ]
+    },
+    {
+      "icon_name": "fish",
+      "search_terms": [
+        "Pisces",
+        "fauna",
+        "fish",
+        "gold",
+        "seafood",
+        "swimming",
+        "zodiac"
+      ]
+    },
+    {
+      "icon_name": "flag-checkered",
+      "search_terms": [
+        "checkered",
+        "chequered",
+        "chequered flag",
+        "finish",
+        "notice",
+        "notification",
+        "notify",
+        "pole",
+        "racing",
+        "report",
+        "start",
+        "symbol",
+        "win"
+      ]
+    },
+    {
+      "icon_name": "flashlight",
+      "search_terms": [
+        "camping",
+        "electric",
+        "equipment",
+        "flashlight",
+        "hide and seek",
+        "lamp",
+        "light",
+        "tool",
+        "torch"
+      ]
+    },
+    {
+      "icon_name": "flask",
+      "search_terms": [
+        "beaker",
+        "chemicals",
+        "experiment",
+        "experimental",
+        "knowledge",
+        "labs",
+        "liquid",
+        "potion",
+        "science",
+        "vial"
+      ]
+    },
+    {
+      "icon_name": "flatbread",
+      "search_terms": [
+        "arepa",
+        "flatbread",
+        "lavash",
+        "naan",
+        "pita"
+      ]
+    },
+    {
+      "icon_name": "flatbread-stuffed",
+      "search_terms": [
+        "chickpea",
+        "falafel",
+        "garbanzo",
+        "gyro",
+        "kebab",
+        "pita",
+        "sandwich"
+      ]
+    },
+    {
+      "icon_name": "floppy-disk",
+      "search_terms": [
+        "Black Hard Shell Floppy Disk",
+        "computer",
+        "disk",
+        "download",
+        "floppy",
+        "floppy disk",
+        "floppy-o"
+      ]
+    },
+    {
+      "icon_name": "fork",
+      "search_terms": [
+        "cutlery",
+        "dining",
+        "food",
+        "fork",
+        "silverware"
+      ]
+    },
+    {
+      "icon_name": "fork-knife",
+      "search_terms": [
+        "cutlery",
+        "dining",
+        "dinner",
+        "eat",
+        "food",
+        "fork",
+        "knife",
+        "restaurant"
+      ]
+    },
+    {
+      "icon_name": "forklift",
+      "search_terms": [
+        "archive",
+        "inventory",
+        "lorry",
+        "maintenance",
+        "pallet",
+        "shipping",
+        "tractor",
+        "warehouse"
+      ]
+    },
+    {
+      "icon_name": "frame",
+      "search_terms": [
+        "artboard",
+        "crop",
+        "grid",
+        "group",
+        "viewbox"
+      ]
+    },
+    {
+      "icon_name": "french-fries",
+      "search_terms": [
+        "chips",
+        "fast food",
+        "french",
+        "french fries",
+        "fried",
+        "fries",
+        "ketchup",
+        "potato",
+        "poutine"
+      ]
+    },
+    {
+      "icon_name": "frog",
+      "search_terms": [
+        "amphibian",
+        "bullfrog",
+        "fauna",
+        "hop",
+        "kermit",
+        "kiss",
+        "prince",
+        "ribbit",
+        "toad",
+        "wart"
+      ]
+    },
+    {
+      "icon_name": "futbol",
+      "search_terms": [
+        "ball",
+        "football",
+        "mls",
+        "soccer",
+        "soccer ball"
+      ]
+    },
+    {
+      "icon_name": "game-board",
+      "search_terms": [
+        "checkers",
+        "chess",
+        "gaming",
+        "grid",
+        "tabletop"
+      ]
+    },
+    {
+      "icon_name": "gamepad",
+      "search_terms": [
+        "arcade",
+        "controller",
+        "d-pad",
+        "joystick",
+        "playstore",
+        "video",
+        "video game"
+      ]
+    },
+    {
+      "icon_name": "garage",
+      "search_terms": [
+        "auto",
+        "car",
+        "door",
+        "storage",
+        "structure",
+        "warehouse"
+      ]
+    },
+    {
+      "icon_name": "gauge",
+      "search_terms": [
+        "dashboard",
+        "fast",
+        "odometer",
+        "speed",
+        "speedometer"
+      ]
+    },
+    {
+      "icon_name": "gear",
+      "search_terms": [
+        "cog",
+        "cogwheel",
+        "configuration",
+        "gear",
+        "mechanical",
+        "modify",
+        "settings",
+        "sprocket",
+        "tool",
+        "wheel"
+      ]
+    },
+    {
+      "icon_name": "gif",
+      "search_terms": [
+        "animation",
+        "img"
+      ]
+    },
+    {
+      "icon_name": "gingerbread-man",
+      "search_terms": [
+        "cookie",
+        "decoration",
+        "frosting",
+        "holiday"
+      ]
+    },
+    {
+      "icon_name": "glasses",
+      "search_terms": [
+        "hipster",
+        "nerd",
+        "reading",
+        "sight",
+        "spectacles",
+        "vision"
+      ]
+    },
+    {
+      "icon_name": "globe-pointer",
+      "search_terms": [
+        "World Wide Web",
+        "cyberspace",
+        "find",
+        "globe",
+        "internet",
+        "link",
+        "net",
+        "search",
+        "website",
+        "www"
+      ]
+    },
+    {
+      "icon_name": "goal-net",
+      "search_terms": [
+        "goal",
+        "goal net",
+        "hockey",
+        "lacrosse",
+        "net",
+        "penalty",
+        "soccer"
+      ]
+    },
+    {
+      "icon_name": "golf-club",
+      "search_terms": [
+        "caddy",
+        "eagle",
+        "putt",
+        "tee"
+      ]
+    },
+    {
+      "icon_name": "grill",
+      "search_terms": [
+        "barbecue",
+        "barbeque",
+        "bbq",
+        "burger",
+        "charcoal",
+        "cook",
+        "cookout",
+        "hot",
+        "smoke"
+      ]
+    },
+    {
+      "icon_name": "guitar-electric",
+      "search_terms": [
+        "axe",
+        "guitar",
+        "instrument",
+        "music",
+        "rock",
+        "rock and roll",
+        "song",
+        "strings"
+      ]
+    },
+    {
+      "icon_name": "gun",
+      "search_terms": [
+        "firearm",
+        "pistol",
+        "weapon"
+      ]
+    },
+    {
+      "icon_name": "hammer",
+      "search_terms": [
+        "admin",
+        "configuration",
+        "equipment",
+        "fix",
+        "hammer",
+        "maintenance",
+        "modify",
+        "recovery",
+        "repair",
+        "settings",
+        "tool"
+      ]
+    },
+    {
+      "icon_name": "hammer-brush",
+      "search_terms": [
+        "admin",
+        "art",
+        "bristles",
+        "configuration",
+        "equipment",
+        "fix",
+        "hammer",
+        "maintenance",
+        "modify",
+        "paint",
+        "recovery",
+        "remodel",
+        "repair",
+        "settings",
+        "tool"
+      ]
+    },
+    {
+      "icon_name": "hand-heart",
+      "search_terms": [
+        "care",
+        "charity",
+        "donate",
+        "help",
+        "palm",
+        "wishlist"
+      ]
+    },
+    {
+      "icon_name": "hand-holding",
+      "search_terms": [
+        "carry",
+        "lift"
+      ]
+    },
+    {
+      "icon_name": "hand-pointer",
+      "search_terms": [
+        "arrow",
+        "cursor",
+        "select"
+      ]
+    },
+    {
+      "icon_name": "hands-bubbles",
+      "search_terms": [
+        "covid-19",
+        "hygiene",
+        "soap",
+        "wash"
+      ]
+    },
+    {
+      "icon_name": "hands-holding",
+      "search_terms": [
+        "carry",
+        "hold",
+        "lift"
+      ]
+    },
+    {
+      "icon_name": "hard-drive",
+      "search_terms": [
+        "Hard Disk",
+        "cpu",
+        "hard drive",
+        "harddrive",
+        "machine",
+        "save",
+        "storage"
+      ]
+    },
+    {
+      "icon_name": "hat-chef",
+      "search_terms": [
+        "cook",
+        "cuisine",
+        "culinary",
+        "dining",
+        "kitchen"
+      ]
+    },
+    {
+      "icon_name": "heading",
+      "search_terms": [
+        "format",
+        "header",
+        "text",
+        "title"
+      ]
+    },
+    {
+      "icon_name": "headset",
+      "search_terms": [
+        "audio",
+        "gamer",
+        "gaming",
+        "listen",
+        "live chat",
+        "microphone",
+        "shot caller",
+        "sound",
+        "support",
+        "telemarketer"
+      ]
+    },
+    {
+      "icon_name": "heart-pulse",
+      "search_terms": [
+        "ekg",
+        "electrocardiogram",
+        "health",
+        "lifeline",
+        "vital signs"
+      ]
+    },
+    {
+      "icon_name": "helmet-battle",
+      "search_terms": [
+        "Dungeons & Dragons",
+        "armor",
+        "clothing",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "hat",
+        "knight",
+        "paladin"
+      ]
+    },
+    {
+      "icon_name": "hockey-mask",
+      "search_terms": [
+        "clothing",
+        "friday",
+        "halloween",
+        "ice",
+        "jason",
+        "nhl",
+        "protection",
+        "sport",
+        "thirteenth"
+      ]
+    },
+    {
+      "icon_name": "hockey-puck",
+      "search_terms": [
+        "ice",
+        "nhl",
+        "sport"
+      ]
+    },
+    {
+      "icon_name": "hockey-sticks",
+      "search_terms": [
+        "ice",
+        "nhl",
+        "sport"
+      ]
+    },
+    {
+      "icon_name": "hood-cloak",
+      "search_terms": [
+        "Dungeons & Dragons",
+        "clothing",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "hat",
+        "rogue",
+        "stealth"
+      ]
+    },
+    {
+      "icon_name": "horse",
+      "search_terms": [
+        "equestrian",
+        "equus",
+        "fauna",
+        "horse",
+        "mammmal",
+        "mare",
+        "neigh",
+        "pony",
+        "racehorse",
+        "racing"
+      ]
+    },
+    {
+      "icon_name": "horse-saddle",
+      "search_terms": [
+        "cowboy",
+        "equus",
+        "fauna",
+        "mammmal",
+        "mare",
+        "neigh",
+        "pony",
+        "rodeo",
+        "western"
+      ]
+    },
+    {
+      "icon_name": "hose-reel",
+      "search_terms": [
+        "fire",
+        "irrigation",
+        "water"
+      ]
+    },
+    {
+      "icon_name": "hospital-user",
+      "search_terms": [
+        "covid-19",
+        "doctor",
+        "network",
+        "patient",
+        "primary care",
+        "uer"
+      ]
+    },
+    {
+      "icon_name": "hospitals",
+      "search_terms": [
+        "emergency",
+        "insurance",
+        "network"
+      ]
+    },
+    {
+      "icon_name": "hotdog",
+      "search_terms": [
+        "bun",
+        "chili",
+        "frankfurt",
+        "frankfurter",
+        "hot dog",
+        "hotdog",
+        "kosher",
+        "polish",
+        "sandwich",
+        "sausage",
+        "vienna",
+        "weiner"
+      ]
+    },
+    {
+      "icon_name": "hotel",
+      "search_terms": [
+        "building",
+        "hotel",
+        "inn",
+        "lodging",
+        "motel",
+        "resort",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "house",
+      "search_terms": [
+        "abode",
+        "building",
+        "home",
+        "house",
+        "main",
+        "residence"
+      ]
+    },
+    {
+      "icon_name": "hryvnia-sign",
+      "search_terms": [
+        "Hryvnia Sign",
+        "currency"
+      ]
+    },
+    {
+      "icon_name": "ice-skate",
+      "search_terms": [
+        "blade",
+        "clothing",
+        "figure skating",
+        "hockey",
+        "ice",
+        "ice skate",
+        "seasonal",
+        "shoe",
+        "skate"
+      ]
+    },
+    {
+      "icon_name": "image",
+      "search_terms": [
+        "album",
+        "img",
+        "landscape",
+        "photo",
+        "picture"
+      ]
+    },
+    {
+      "icon_name": "inbox",
+      "search_terms": [
+        "archive",
+        "desk",
+        "email",
+        "mail",
+        "message"
+      ]
+    },
+    {
+      "icon_name": "industry",
+      "search_terms": [
+        "building",
+        "factory",
+        "industrial",
+        "manufacturing",
+        "mill",
+        "warehouse"
+      ]
+    },
+    {
+      "icon_name": "jar",
+      "search_terms": [
+        "jam",
+        "jelly",
+        "storage"
+      ]
+    },
+    {
+      "icon_name": "jar-wheat",
+      "search_terms": [
+        "flour",
+        "storage"
+      ]
+    },
+    {
+      "icon_name": "joystick",
+      "search_terms": [
+        "arcade",
+        "atari",
+        "controller",
+        "game",
+        "joystick",
+        "playstore",
+        "retro",
+        "video game",
+        "vintage"
+      ]
+    },
+    {
+      "icon_name": "jug-bottle",
+      "search_terms": [
+        "collect",
+        "container",
+        "jug",
+        "plastics",
+        "recycle"
+      ]
+    },
+    {
+      "icon_name": "jug-detergent",
+      "search_terms": [
+        "detergent",
+        "laundry",
+        "soap",
+        "wash"
+      ]
+    },
+    {
+      "icon_name": "kazoo",
+      "search_terms": [
+        "buzz",
+        "instrument",
+        "membranophone",
+        "mirliton",
+        "music"
+      ]
+    },
+    {
+      "icon_name": "keyboard",
+      "search_terms": [
+        "accessory",
+        "computer",
+        "edit",
+        "input",
+        "keyboard",
+        "text",
+        "type",
+        "write"
+      ]
+    },
+    {
+      "icon_name": "kit-medical",
+      "search_terms": [
+        "emergency",
+        "emt",
+        "health",
+        "medical",
+        "rescue"
+      ]
+    },
+    {
+      "icon_name": "kitchen-set",
+      "search_terms": [
+        "chef",
+        "cook",
+        "cup",
+        "kitchen",
+        "pan",
+        "pot",
+        "skillet"
+      ]
+    },
+    {
+      "icon_name": "knife",
+      "search_terms": [
+        "cut",
+        "cutlery",
+        "dining",
+        "equipment",
+        "silverware",
+        "tool"
+      ]
+    },
+    {
+      "icon_name": "laptop",
+      "search_terms": [
+        "computer",
+        "cpu",
+        "dell",
+        "demo",
+        "device",
+        "fabook",
+        "fb",
+        "laptop",
+        "mac",
+        "macbook",
+        "machine",
+        "pc",
+        "personal"
+      ]
+    },
+    {
+      "icon_name": "lasso-sparkles",
+      "search_terms": [
+        "automatic",
+        "cowboy",
+        "magic",
+        "select"
+      ]
+    },
+    {
+      "icon_name": "light-ceiling",
+      "search_terms": [
+        "bright",
+        "furniture",
+        "light",
+        "overhead"
+      ]
+    },
+    {
+      "icon_name": "lightbulb",
+      "search_terms": [
+        "bulb",
+        "comic",
+        "electric",
+        "energy",
+        "idea",
+        "innovation",
+        "inspiration",
+        "light",
+        "light bulb",
+        "mechanical"
+      ]
+    },
+    {
+      "icon_name": "lights-holiday",
+      "search_terms": [
+        "bulb",
+        "christmas",
+        "decoration",
+        "holiday",
+        "string",
+        "xmas"
+      ]
+    },
+    {
+      "icon_name": "lira-sign",
+      "search_terms": [
+        "Lira Sign",
+        "currency"
+      ]
+    },
+    {
+      "icon_name": "list-check",
+      "search_terms": [
+        "bullet",
+        "cheatsheet",
+        "checklist",
+        "downloading",
+        "downloads",
+        "enable",
+        "loading",
+        "progress",
+        "project management",
+        "settings",
+        "summary",
+        "to do",
+        "validate",
+        "working"
+      ]
+    },
+    {
+      "icon_name": "litecoin-sign",
+      "search_terms": [
+        "currency"
+      ]
+    },
+    {
+      "icon_name": "loader",
+      "search_terms": [
+        "loading",
+        "pending",
+        "progress"
+      ]
+    },
+    {
+      "icon_name": "location-crosshairs",
+      "search_terms": [
+        "address",
+        "coordinate",
+        "direction",
+        "gps",
+        "location",
+        "map",
+        "navigation",
+        "place",
+        "where"
+      ]
+    },
+    {
+      "icon_name": "location-dot",
+      "search_terms": [
+        "address",
+        "coordinates",
+        "destination",
+        "gps",
+        "localize",
+        "location",
+        "map",
+        "navigation",
+        "paper",
+        "pin",
+        "place",
+        "point of interest",
+        "position",
+        "route",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "loveseat",
+      "search_terms": [
+        "chair",
+        "couch",
+        "cushion",
+        "furniture",
+        "relax",
+        "sofa"
+      ]
+    },
+    {
+      "icon_name": "mace",
+      "search_terms": [
+        "Dungeons & Dragons",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "melee attack",
+        "weapon",
+        "windu"
+      ]
+    },
+    {
+      "icon_name": "magnet",
+      "search_terms": [
+        "Attract",
+        "attraction",
+        "horseshoe",
+        "lodestone",
+        "magnet",
+        "magnetic",
+        "tool"
+      ]
+    },
+    {
+      "icon_name": "magnifying-glass",
+      "search_terms": [
+        "bigger",
+        "enlarge",
+        "equipment",
+        "find",
+        "glass",
+        "inspection",
+        "magnifier",
+        "magnify",
+        "magnifying",
+        "magnifying glass tilted left",
+        "preview",
+        "search",
+        "tool",
+        "zoom"
+      ]
+    },
+    {
+      "icon_name": "mailbox",
+      "search_terms": [
+        "archive",
+        "closed",
+        "closed mailbox with lowered flag",
+        "envelope",
+        "letter",
+        "lowered",
+        "mail",
+        "mailbox",
+        "newsletter",
+        "offer",
+        "post office",
+        "postal",
+        "postbox",
+        "postcard",
+        "send",
+        "stamp",
+        "usps"
+      ]
+    },
+    {
+      "icon_name": "mandolin",
+      "search_terms": [
+        "Dungeons & Dragons",
+        "bard",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "guitar",
+        "instrument",
+        "lute",
+        "music",
+        "song",
+        "strings"
+      ]
+    },
+    {
+      "icon_name": "manhole",
+      "search_terms": [
+        "grate",
+        "sewer"
+      ]
+    },
+    {
+      "icon_name": "map",
+      "search_terms": [
+        "address",
+        "coordinates",
+        "destination",
+        "gps",
+        "localize",
+        "location",
+        "map",
+        "navigation",
+        "paper",
+        "pin",
+        "place",
+        "point of interest",
+        "position",
+        "route",
+        "travel",
+        "world",
+        "world map"
+      ]
+    },
+    {
+      "icon_name": "map-location",
+      "search_terms": [
+        "address",
+        "coordinates",
+        "destination",
+        "gps",
+        "localize",
+        "location",
+        "map",
+        "navigation",
+        "paper",
+        "pin",
+        "place",
+        "point of interest",
+        "position",
+        "route",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "map-pin",
+      "search_terms": [
+        "address",
+        "agree",
+        "coordinates",
+        "destination",
+        "gps",
+        "localize",
+        "location",
+        "map",
+        "marker",
+        "navigation",
+        "pin",
+        "place",
+        "position",
+        "pushpin",
+        "round pushpin",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "marker",
+      "search_terms": [
+        "design",
+        "edit",
+        "modify",
+        "sharpie",
+        "update",
+        "write"
+      ]
+    },
+    {
+      "icon_name": "mask-ventilator",
+      "search_terms": [
+        "breath",
+        "gas",
+        "mask",
+        "oxygen",
+        "respirator",
+        "ventilator"
+      ]
+    },
+    {
+      "icon_name": "masks-theater",
+      "search_terms": [
+        "art",
+        "comedy",
+        "mask",
+        "perform",
+        "performing",
+        "performing arts",
+        "theater",
+        "theatre",
+        "tragedy"
+      ]
+    },
+    {
+      "icon_name": "maximize",
+      "search_terms": [
+        "arrows",
+        "bigger",
+        "enlarge",
+        "expand",
+        "fullscreen",
+        "maximize",
+        "resize",
+        "scale",
+        "size"
+      ]
+    },
+    {
+      "icon_name": "meat",
+      "search_terms": [
+        "beef",
+        "bone",
+        "ham",
+        "meat",
+        "meat on bone",
+        "mutton",
+        "pork",
+        "veal"
+      ]
+    },
+    {
+      "icon_name": "memory",
+      "search_terms": [
+        "DIMM",
+        "RAM",
+        "hardware",
+        "storage",
+        "technology"
+      ]
+    },
+    {
+      "icon_name": "meter",
+      "search_terms": [
+        "electricity",
+        "transmission",
+        "utilities"
+      ]
+    },
+    {
+      "icon_name": "microchip",
+      "search_terms": [
+        "cpu",
+        "hardware",
+        "processor",
+        "technology"
+      ]
+    },
+    {
+      "icon_name": "microphone",
+      "search_terms": [
+        "address",
+        "audio",
+        "information",
+        "podcast",
+        "public",
+        "record",
+        "sing",
+        "sound",
+        "talking",
+        "voice"
+      ]
+    },
+    {
+      "icon_name": "microscope",
+      "search_terms": [
+        "covid-19",
+        "electron",
+        "knowledge",
+        "lens",
+        "microscope",
+        "optics",
+        "science",
+        "shrink",
+        "testing",
+        "tool"
+      ]
+    },
+    {
+      "icon_name": "minimize",
+      "search_terms": [
+        "collapse",
+        "fullscreen",
+        "minimize",
+        "move",
+        "resize",
+        "shrink",
+        "smaller"
+      ]
+    },
+    {
+      "icon_name": "mobile",
+      "search_terms": [
+        "android",
+        "call",
+        "cell",
+        "cell phone",
+        "device",
+        "mobile",
+        "mobile phone",
+        "number",
+        "phone",
+        "screen",
+        "telephone",
+        "text"
+      ]
+    },
+    {
+      "icon_name": "money-bill",
+      "search_terms": [
+        "buy",
+        "cash",
+        "checkout",
+        "coupon",
+        "investment",
+        "money",
+        "payment",
+        "premium",
+        "price",
+        "purchase",
+        "revenue",
+        "salary"
+      ]
+    },
+    {
+      "icon_name": "money-check",
+      "search_terms": [
+        "bank check",
+        "buy",
+        "checkout",
+        "cheque",
+        "money",
+        "payment",
+        "price",
+        "purchase",
+        "salary"
+      ]
+    },
+    {
+      "icon_name": "monkey",
+      "search_terms": [
+        "animal",
+        "banana",
+        "fauna",
+        "mammal",
+        "monke",
+        "monkey",
+        "tail"
+      ]
+    },
+    {
+      "icon_name": "moped",
+      "search_terms": [
+        "delivery",
+        "motorbike",
+        "scooter"
+      ]
+    },
+    {
+      "icon_name": "mortar-pestle",
+      "search_terms": [
+        "crush",
+        "culinary",
+        "grind",
+        "medical",
+        "mix",
+        "pharmacy",
+        "prescription",
+        "spices"
+      ]
+    },
+    {
+      "icon_name": "mosquito",
+      "search_terms": [
+        "bite",
+        "bug",
+        "mosquito",
+        "west nile"
+      ]
+    },
+    {
+      "icon_name": "motorcycle",
+      "search_terms": [
+        "bike",
+        "machine",
+        "motorcycle",
+        "racing",
+        "transportation",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "mouse-field",
+      "search_terms": [
+        "cheese",
+        "mickey",
+        "minnie",
+        "rat",
+        "rodent",
+        "squeak"
+      ]
+    },
+    {
+      "icon_name": "mp3-player",
+      "search_terms": [
+        "audio",
+        "handheld",
+        "ipod",
+        "itunes",
+        "music",
+        "zune"
+      ]
+    },
+    {
+      "icon_name": "music-note",
+      "search_terms": [
+        "lyrics",
+        "melody",
+        "note",
+        "sing",
+        "sound"
+      ]
+    },
+    {
+      "icon_name": "nfc",
+      "search_terms": [
+        "connect",
+        "data",
+        "near field communication",
+        "nfc",
+        "scan",
+        "signal",
+        "transfer",
+        "wireless"
+      ]
+    },
+    {
+      "icon_name": "note-medical",
+      "search_terms": [
+        "memo",
+        "sticky note"
+      ]
+    },
+    {
+      "icon_name": "notebook",
+      "search_terms": [
+        "daybook",
+        "diary",
+        "journal",
+        "noteboo",
+        "notebook",
+        "notepad",
+        "sketch"
+      ]
+    },
+    {
+      "icon_name": "object-group",
+      "search_terms": [
+        "combine",
+        "copy",
+        "design",
+        "merge",
+        "select"
+      ]
+    },
+    {
+      "icon_name": "oil-well",
+      "search_terms": [
+        "drill",
+        "oil",
+        "rig"
+      ]
+    },
+    {
+      "icon_name": "ornament",
+      "search_terms": [
+        "christmas",
+        "decoration",
+        "holiday",
+        "xmas"
+      ]
+    },
+    {
+      "icon_name": "outlet",
+      "search_terms": [
+        "electricity",
+        "energy",
+        "plug",
+        "power"
+      ]
+    },
+    {
+      "icon_name": "oven",
+      "search_terms": [
+        "bake",
+        "broiler",
+        "convection",
+        "cook",
+        "kitchen",
+        "stove"
+      ]
+    },
+    {
+      "icon_name": "paint-roller",
+      "search_terms": [
+        "acrylic",
+        "art",
+        "brush",
+        "color",
+        "fill",
+        "maintenance",
+        "paint",
+        "pigment",
+        "watercolor"
+      ]
+    },
+    {
+      "icon_name": "paintbrush",
+      "search_terms": [
+        "acrylic",
+        "art",
+        "brush",
+        "color",
+        "fill",
+        "modify",
+        "paint",
+        "paintbrush",
+        "painting",
+        "pigment",
+        "watercolor"
+      ]
+    },
+    {
+      "icon_name": "paintbrush-pencil",
+      "search_terms": [
+        "art",
+        "creative",
+        "modify"
+      ]
+    },
+    {
+      "icon_name": "palette",
+      "search_terms": [
+        "acrylic",
+        "art",
+        "artist palette",
+        "brush",
+        "color",
+        "fill",
+        "museum",
+        "paint",
+        "painting",
+        "palette",
+        "pigment",
+        "watercolor"
+      ]
+    },
+    {
+      "icon_name": "pallet",
+      "search_terms": [
+        "archive",
+        "box",
+        "inventory",
+        "shipping",
+        "warehouse"
+      ]
+    },
+    {
+      "icon_name": "pallet-box",
+      "search_terms": [
+        "inventory",
+        "package",
+        "shipping"
+      ]
+    },
+    {
+      "icon_name": "pan-food",
+      "search_terms": [
+        "casserole",
+        "paella",
+        "pan",
+        "shallow",
+        "stew"
+      ]
+    },
+    {
+      "icon_name": "pan-frying",
+      "search_terms": [
+        "breakfast",
+        "cook",
+        "egg",
+        "fry"
+      ]
+    },
+    {
+      "icon_name": "paper-plane",
+      "search_terms": [
+        "air",
+        "float",
+        "fold",
+        "mail",
+        "paper",
+        "send"
+      ]
+    },
+    {
+      "icon_name": "paperclip",
+      "search_terms": [
+        "attach",
+        "attachment",
+        "connect",
+        "link",
+        "papercli",
+        "paperclip"
+      ]
+    },
+    {
+      "icon_name": "paragraph",
+      "search_terms": [
+        "Pilcrow Sign",
+        "edit",
+        "format",
+        "text",
+        "writing"
+      ]
+    },
+    {
+      "icon_name": "party-horn",
+      "search_terms": [
+        "celebrate",
+        "celebration",
+        "confetti",
+        "party",
+        "party popper",
+        "popper",
+        "tada",
+        "trumpet"
+      ]
+    },
+    {
+      "icon_name": "passport",
+      "search_terms": [
+        "document",
+        "id",
+        "identification",
+        "issued",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "paste",
+      "search_terms": [
+        "clipboard",
+        "copy",
+        "document",
+        "paper"
+      ]
+    },
+    {
+      "icon_name": "paw",
+      "search_terms": [
+        "animal",
+        "cat",
+        "dog",
+        "pet",
+        "print"
+      ]
+    },
+    {
+      "icon_name": "pedestal",
+      "search_terms": [
+        "electricity",
+        "reading"
+      ]
+    },
+    {
+      "icon_name": "pen",
+      "search_terms": [
+        "ballpoint",
+        "design",
+        "edit",
+        "modify",
+        "pen",
+        "update",
+        "write"
+      ]
+    },
+    {
+      "icon_name": "pen-paintbrush",
+      "search_terms": [
+        "art",
+        "design",
+        "modify",
+        "paint",
+        "pencil",
+        "write"
+      ]
+    },
+    {
+      "icon_name": "pen-ruler",
+      "search_terms": [
+        "design",
+        "draft",
+        "draw",
+        "maintenance",
+        "modify",
+        "pencil"
+      ]
+    },
+    {
+      "icon_name": "people",
+      "search_terms": [
+        "couple",
+        "hand",
+        "hold",
+        "holding hands",
+        "man",
+        "together",
+        "uer",
+        "users-people",
+        "woman",
+        "woman and man holding hands"
+      ]
+    },
+    {
+      "icon_name": "person-hiking",
+      "search_terms": [
+        "autumn",
+        "fall",
+        "follow",
+        "hike",
+        "mountain",
+        "outdoors",
+        "summer",
+        "uer",
+        "walk"
+      ]
+    },
+    {
+      "icon_name": "person-seat",
+      "search_terms": [
+        "airplane",
+        "aisle",
+        "chair",
+        "recline",
+        "seat",
+        "travel",
+        "uer"
+      ]
+    },
+    {
+      "icon_name": "person-walking",
+      "search_terms": [
+        "crosswalk",
+        "exercise",
+        "follow",
+        "hike",
+        "move",
+        "person walking",
+        "uer",
+        "walk",
+        "walking",
+        "workout"
+      ]
+    },
+    {
+      "icon_name": "peso-sign",
+      "search_terms": [
+        "Peso Sign",
+        "currency"
+      ]
+    },
+    {
+      "icon_name": "piano",
+      "search_terms": [
+        "grand piano",
+        "instrument",
+        "keyboard",
+        "keys",
+        "midi",
+        "music"
+      ]
+    },
+    {
+      "icon_name": "pickaxe",
+      "search_terms": [
+        "axe",
+        "climb",
+        "ice",
+        "mine",
+        "mining",
+        "mountaineering",
+        "rock"
+      ]
+    },
+    {
+      "icon_name": "pie",
+      "search_terms": [
+        "apple",
+        "bakery",
+        "cake",
+        "crust",
+        "dessert",
+        "filling",
+        "fruit",
+        "meat",
+        "pastry",
+        "pie",
+        "pumpkin",
+        "tart"
+      ]
+    },
+    {
+      "icon_name": "pig",
+      "search_terms": [
+        "agriculture",
+        "animal",
+        "farm",
+        "fauna",
+        "mammal",
+        "oink",
+        "pig",
+        "sow"
+      ]
+    },
+    {
+      "icon_name": "piggy-bank",
+      "search_terms": [
+        "bank",
+        "salary",
+        "save",
+        "savings"
+      ]
+    },
+    {
+      "icon_name": "pinball",
+      "search_terms": [
+        "arcade",
+        "fun",
+        "game",
+        "pinball"
+      ]
+    },
+    {
+      "icon_name": "pizza",
+      "search_terms": [
+        "cheese",
+        "chicago",
+        "italian",
+        "mozzarella",
+        "new york",
+        "pepperoni",
+        "pie",
+        "pizza",
+        "slice",
+        "teenage mutant ninja turtles",
+        "tomato"
+      ]
+    },
+    {
+      "icon_name": "plane",
+      "search_terms": [
+        "airplane",
+        "airport",
+        "destination",
+        "fly",
+        "location",
+        "mode",
+        "travel",
+        "trip"
+      ]
+    },
+    {
+      "icon_name": "plate-utensils",
+      "search_terms": [
+        "dinner",
+        "food",
+        "fork",
+        "knife",
+        "plate"
+      ]
+    },
+    {
+      "icon_name": "plate-wheat",
+      "search_terms": [
+        "bowl",
+        "hunger",
+        "rations",
+        "wheat"
+      ]
+    },
+    {
+      "icon_name": "play",
+      "search_terms": [
+        "arrow",
+        "audio",
+        "music",
+        "play",
+        "play button",
+        "playing",
+        "right",
+        "sound",
+        "start",
+        "triangle",
+        "video"
+      ]
+    },
+    {
+      "icon_name": "plug",
+      "search_terms": [
+        "connect",
+        "electric",
+        "electric plug",
+        "electricity",
+        "online",
+        "plug",
+        "power"
+      ]
+    },
+    {
+      "icon_name": "police-box",
+      "search_terms": [
+        "doctor who",
+        "tardis",
+        "time and relative dimension in space",
+        "time machine",
+        "time travel"
+      ]
+    },
+    {
+      "icon_name": "popcorn",
+      "search_terms": [
+        "bucket",
+        "butter",
+        "corn",
+        "junk food",
+        "kernels",
+        "movie",
+        "popcor",
+        "popcorn",
+        "snack",
+        "theater"
+      ]
+    },
+    {
+      "icon_name": "popsicle",
+      "search_terms": [
+        "dessert",
+        "frozen",
+        "ice lolly",
+        "lollipop",
+        "lolly",
+        "popsicle",
+        "sweet"
+      ]
+    },
+    {
+      "icon_name": "pot-food",
+      "search_terms": [
+        "food",
+        "pot",
+        "soup",
+        "stew"
+      ]
+    },
+    {
+      "icon_name": "power-off",
+      "search_terms": [
+        "Power Symbol",
+        "cancel",
+        "computer",
+        "on",
+        "reboot",
+        "restart"
+      ]
+    },
+    {
+      "icon_name": "projector",
+      "search_terms": [
+        "cinema",
+        "keynote",
+        "movie",
+        "powerpoint",
+        "presentation",
+        "shadow puppets",
+        "slides"
+      ]
+    },
+    {
+      "icon_name": "puzzle",
+      "search_terms": [
+        "add-on",
+        "addon",
+        "clue",
+        "game",
+        "interlocking",
+        "jigsaw",
+        "piece",
+        "puzzle",
+        "puzzle piece",
+        "section"
+      ]
+    },
+    {
+      "icon_name": "qrcode",
+      "search_terms": [
+        "barcode",
+        "info",
+        "information",
+        "qr",
+        "qr-code",
+        "scan"
+      ]
+    },
+    {
+      "icon_name": "rabbit",
+      "search_terms": [
+        "animal",
+        "bunny",
+        "fast",
+        "fauna",
+        "hare",
+        "mammal",
+        "pet",
+        "rabbit",
+        "speed",
+        "wabbit"
+      ]
+    },
+    {
+      "icon_name": "raccoon",
+      "search_terms": [
+        "mammal",
+        "mask",
+        "panda",
+        "paw",
+        "raccoon",
+        "tail",
+        "trash"
+      ]
+    },
+    {
+      "icon_name": "racquet",
+      "search_terms": [
+        "badminton",
+        "racket",
+        "squash",
+        "tennis"
+      ]
+    },
+    {
+      "icon_name": "ramp-loading",
+      "search_terms": [
+        "inventory",
+        "moving",
+        "shipping",
+        "storage",
+        "warehouse"
+      ]
+    },
+    {
+      "icon_name": "receipt",
+      "search_terms": [
+        "accounting",
+        "bookkeeping",
+        "check",
+        "coupon",
+        "evidence",
+        "invoice",
+        "money",
+        "pay",
+        "proof",
+        "receipt",
+        "table"
+      ]
+    },
+    {
+      "icon_name": "recycle",
+      "search_terms": [
+        "Recycling Symbol For Generic Materials",
+        "Universal Recycling Symbol",
+        "Waste",
+        "compost",
+        "garbage",
+        "recycle",
+        "recycling symbol",
+        "reuse",
+        "trash"
+      ]
+    },
+    {
+      "icon_name": "reel",
+      "search_terms": [
+        "needle",
+        "sewing",
+        "spool",
+        "string",
+        "thread",
+        "wire"
+      ]
+    },
+    {
+      "icon_name": "reflect-both",
+      "search_terms": [
+        "edit",
+        "exchange",
+        "flip",
+        "horizontal",
+        "inverse",
+        "invert",
+        "mirror",
+        "negative",
+        "reflect",
+        "swap",
+        "target",
+        "tool",
+        "vertical"
+      ]
+    },
+    {
+      "icon_name": "reply",
+      "search_terms": [
+        "mail",
+        "message",
+        "respond"
+      ]
+    },
+    {
+      "icon_name": "road",
+      "search_terms": [
+        "highway",
+        "map",
+        "motorway",
+        "pavement",
+        "road",
+        "route",
+        "street",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "robot",
+      "search_terms": [
+        "android",
+        "automate",
+        "computer",
+        "cyborg",
+        "face",
+        "monster",
+        "robot"
+      ]
+    },
+    {
+      "icon_name": "route",
+      "search_terms": [
+        "directions",
+        "navigation",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "ruble-sign",
+      "search_terms": [
+        "Ruble Sign",
+        "currency"
+      ]
+    },
+    {
+      "icon_name": "rug",
+      "search_terms": [
+        "blanket",
+        "carpet",
+        "rug",
+        "textile"
+      ]
+    },
+    {
+      "icon_name": "ruler",
+      "search_terms": [
+        "design",
+        "draft",
+        "length",
+        "measure",
+        "planning",
+        "ruler",
+        "straight edge",
+        "straight ruler"
+      ]
+    },
+    {
+      "icon_name": "rupee-sign",
+      "search_terms": [
+        "Rupee Sign",
+        "currency"
+      ]
+    },
+    {
+      "icon_name": "rupiah-sign",
+      "search_terms": [
+        "currency"
+      ]
+    },
+    {
+      "icon_name": "rv",
+      "search_terms": [
+        "camping",
+        "cousin eddie",
+        "recreational",
+        "travel",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "sack",
+      "search_terms": [
+        "bag",
+        "burlap",
+        "money",
+        "salary",
+        "santa"
+      ]
+    },
+    {
+      "icon_name": "sack-dollar",
+      "search_terms": [
+        "bag",
+        "burlap",
+        "cash",
+        "dollar",
+        "investment",
+        "money",
+        "money bag",
+        "moneybag",
+        "premium",
+        "robber",
+        "salary",
+        "santa",
+        "usd"
+      ]
+    },
+    {
+      "icon_name": "salad",
+      "search_terms": [
+        "bowl",
+        "food",
+        "green",
+        "green salad",
+        "health",
+        "lettuce",
+        "salad",
+        "spinach",
+        "vegan",
+        "vegetable",
+        "vegetarian"
+      ]
+    },
+    {
+      "icon_name": "sandwich",
+      "search_terms": [
+        "bread",
+        "deli",
+        "grilled cheese",
+        "sandwich",
+        "toast"
+      ]
+    },
+    {
+      "icon_name": "satellite",
+      "search_terms": [
+        "communications",
+        "hardware",
+        "orbit",
+        "satellite",
+        "space"
+      ]
+    },
+    {
+      "icon_name": "satellite-dish",
+      "search_terms": [
+        "SETI",
+        "antenna",
+        "communications",
+        "dish",
+        "hardware",
+        "radar",
+        "receiver",
+        "satellite",
+        "satellite antenna",
+        "saucer",
+        "signal",
+        "space"
+      ]
+    },
+    {
+      "icon_name": "sausage",
+      "search_terms": [
+        "bratwurst",
+        "breakfast",
+        "chorizo",
+        "frankfurt",
+        "frankfurter",
+        "hot dog",
+        "hotdog",
+        "kielbasa",
+        "kosher",
+        "pepperoni",
+        "polish",
+        "vienna",
+        "weiner"
+      ]
+    },
+    {
+      "icon_name": "scanner-image",
+      "search_terms": [
+        "copy",
+        "device",
+        "digitize",
+        "image",
+        "img",
+        "import"
+      ]
+    },
+    {
+      "icon_name": "school",
+      "search_terms": [
+        "building",
+        "education",
+        "learn",
+        "school",
+        "student",
+        "teacher"
+      ]
+    },
+    {
+      "icon_name": "scissors",
+      "search_terms": [
+        "Black Safety Scissors",
+        "White Scissors",
+        "clip",
+        "cutting",
+        "equipment",
+        "modify",
+        "scissors",
+        "snip",
+        "tool"
+      ]
+    },
+    {
+      "icon_name": "screencast",
+      "search_terms": [
+        "airplay",
+        "share",
+        "stream"
+      ]
+    },
+    {
+      "icon_name": "screwdriver",
+      "search_terms": [
+        "admin",
+        "configuration",
+        "equipment",
+        "fix",
+        "maintenance",
+        "mechanic",
+        "modify",
+        "repair",
+        "screw",
+        "screwdriver",
+        "settings",
+        "tool"
+      ]
+    },
+    {
+      "icon_name": "screwdriver-wrench",
+      "search_terms": [
+        "admin",
+        "configuration",
+        "equipment",
+        "fix",
+        "maintenance",
+        "modify",
+        "repair",
+        "screwdriver",
+        "settings",
+        "tools",
+        "wrench"
+      ]
+    },
+    {
+      "icon_name": "scroll",
+      "search_terms": [
+        "Dungeons & Dragons",
+        "announcement",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "paper",
+        "scholar",
+        "script",
+        "scroll"
+      ]
+    },
+    {
+      "icon_name": "scrubber",
+      "search_terms": [
+        "circle",
+        "dot",
+        "toggle"
+      ]
+    },
+    {
+      "icon_name": "sd-card",
+      "search_terms": [
+        "image",
+        "img",
+        "memory",
+        "photo",
+        "save"
+      ]
+    },
+    {
+      "icon_name": "sensor",
+      "search_terms": [
+        "alarm",
+        "alert",
+        "carbon monoxide",
+        "detector",
+        "fire",
+        "smoke"
+      ]
+    },
+    {
+      "icon_name": "shapes",
+      "search_terms": [
+        "blocks",
+        "build",
+        "circle",
+        "square",
+        "triangle"
+      ]
+    },
+    {
+      "icon_name": "share-all",
+      "search_terms": [
+        "forward",
+        "save",
+        "send",
+        "social"
+      ]
+    },
+    {
+      "icon_name": "share-nodes",
+      "search_terms": [
+        "forward",
+        "save",
+        "send",
+        "social"
+      ]
+    },
+    {
+      "icon_name": "sheep",
+      "search_terms": [
+        "agriculture",
+        "animal",
+        "ewe",
+        "farming",
+        "fauna",
+        "female",
+        "mammal",
+        "sheep",
+        "wool",
+        "yarn"
+      ]
+    },
+    {
+      "icon_name": "sheet-plastic",
+      "search_terms": [
+        "plastic",
+        "plastic wrap",
+        "protect",
+        "tarp",
+        "tarpaulin",
+        "waterproof"
+      ]
+    },
+    {
+      "icon_name": "shelves",
+      "search_terms": [
+        "archive",
+        "box",
+        "shipping",
+        "warehouse"
+      ]
+    },
+    {
+      "icon_name": "shield-cat",
+      "search_terms": [
+        "animal",
+        "feline",
+        "pet",
+        "protect",
+        "safety",
+        "veterinary"
+      ]
+    },
+    {
+      "icon_name": "shield-dog",
+      "search_terms": [
+        "animal",
+        "canine",
+        "pet",
+        "protect",
+        "safety",
+        "veterinary"
+      ]
+    },
+    {
+      "icon_name": "shirt",
+      "search_terms": [
+        "clothing",
+        "fashion",
+        "garment",
+        "shirt",
+        "short sleeve",
+        "t-shirt",
+        "tshirt"
+      ]
+    },
+    {
+      "icon_name": "shirt-running",
+      "search_terms": [
+        "athletics",
+        "running",
+        "running shirt",
+        "sash",
+        "shirt",
+        "tank top"
+      ]
+    },
+    {
+      "icon_name": "shish-kebab",
+      "search_terms": [
+        "grill",
+        "kabob",
+        "kebob",
+        "meat",
+        "shawarma",
+        "skewer",
+        "souvlaki"
+      ]
+    },
+    {
+      "icon_name": "shop",
+      "search_terms": [
+        "bodega",
+        "building",
+        "buy",
+        "market",
+        "purchase",
+        "shopping",
+        "store"
+      ]
+    },
+    {
+      "icon_name": "shower",
+      "search_terms": [
+        "bath",
+        "clean",
+        "faucet",
+        "shower",
+        "water"
+      ]
+    },
+    {
+      "icon_name": "shrimp",
+      "search_terms": [
+        "allergy",
+        "crustacean",
+        "prawn",
+        "seafood",
+        "shellfish",
+        "shrimp",
+        "tail"
+      ]
+    },
+    {
+      "icon_name": "shuffle",
+      "search_terms": [
+        "arrow",
+        "arrows",
+        "crossed",
+        "shuffle",
+        "shuffle tracks button",
+        "sort",
+        "swap",
+        "switch",
+        "transfer"
+      ]
+    },
+    {
+      "icon_name": "shuttle-space",
+      "search_terms": [
+        "astronaut",
+        "machine",
+        "nasa",
+        "rocket",
+        "space",
+        "transportation"
+      ]
+    },
+    {
+      "icon_name": "shuttlecock",
+      "search_terms": [
+        "badminton",
+        "birdie",
+        "feather",
+        "sport"
+      ]
+    },
+    {
+      "icon_name": "sickle",
+      "search_terms": [
+        "blade",
+        "d&d",
+        "dnd",
+        "dungeons & dragons",
+        "equipment",
+        "fantasy",
+        "weapon"
+      ]
+    },
+    {
+      "icon_name": "signal",
+      "search_terms": [
+        "antenna",
+        "antenna bars",
+        "bar",
+        "bars",
+        "cell",
+        "graph",
+        "mobile",
+        "online",
+        "phone",
+        "reception",
+        "status"
+      ]
+    },
+    {
+      "icon_name": "sim-card",
+      "search_terms": [
+        "hard drive",
+        "hardware",
+        "portable",
+        "storage",
+        "technology",
+        "tiny"
+      ]
+    },
+    {
+      "icon_name": "sink",
+      "search_terms": [
+        "bathroom",
+        "covid-19",
+        "faucet",
+        "kitchen",
+        "wash"
+      ]
+    },
+    {
+      "icon_name": "skull-cow",
+      "search_terms": [
+        "barren",
+        "cowboy",
+        "dead",
+        "desert",
+        "horns",
+        "old west",
+        "skeleton",
+        "western"
+      ]
+    },
+    {
+      "icon_name": "sleigh",
+      "search_terms": [
+        "christmas",
+        "claus",
+        "fly",
+        "holiday",
+        "santa",
+        "sled",
+        "snow",
+        "xmas"
+      ]
+    },
+    {
+      "icon_name": "slider",
+      "search_terms": [
+        "adjust",
+        "configuration",
+        "modify",
+        "settings",
+        "toggle"
+      ]
+    },
+    {
+      "icon_name": "sliders",
+      "search_terms": [
+        "adjust",
+        "configuration",
+        "modify",
+        "settings",
+        "sliders",
+        "toggle"
+      ]
+    },
+    {
+      "icon_name": "slot-machine",
+      "search_terms": [
+        "gamble",
+        "gambling",
+        "game",
+        "lucky",
+        "slot",
+        "slot machine",
+        "vegas"
+      ]
+    },
+    {
+      "icon_name": "snake",
+      "search_terms": [
+        "Ophiuchus",
+        "bearer",
+        "cobra",
+        "fauna",
+        "reptile",
+        "serpent",
+        "slither",
+        "snake",
+        "zodiac"
+      ]
+    },
+    {
+      "icon_name": "snow-blowing",
+      "search_terms": [
+        "blizzard",
+        "precipitation",
+        "storm",
+        "winter"
+      ]
+    },
+    {
+      "icon_name": "soap",
+      "search_terms": [
+        "bar",
+        "bathing",
+        "bubbles",
+        "clean",
+        "cleaning",
+        "covid-19",
+        "hygiene",
+        "lather",
+        "soap",
+        "soapdish",
+        "wash"
+      ]
+    },
+    {
+      "icon_name": "socks",
+      "search_terms": [
+        "business socks",
+        "business time",
+        "clothing",
+        "feet",
+        "flight of the conchords",
+        "socks",
+        "stocking",
+        "wednesday"
+      ]
+    },
+    {
+      "icon_name": "sparkles",
+      "search_terms": [
+        "*",
+        "glitter",
+        "magic",
+        "new",
+        "sparkle",
+        "sparkles",
+        "special",
+        "star",
+        "twinkle"
+      ]
+    },
+    {
+      "icon_name": "spinner",
+      "search_terms": [
+        "circle",
+        "loading",
+        "pending",
+        "progress"
+      ]
+    },
+    {
+      "icon_name": "spoon",
+      "search_terms": [
+        "cutlery",
+        "dining",
+        "scoop",
+        "silverware",
+        "spoon",
+        "tableware"
+      ]
+    },
+    {
+      "icon_name": "sportsball",
+      "search_terms": [
+        "baseball",
+        "basketball",
+        "football",
+        "sports",
+        "sportsball"
+      ]
+    },
+    {
+      "icon_name": "spray-can",
+      "search_terms": [
+        "Paint",
+        "aerosol",
+        "design",
+        "graffiti",
+        "tag"
+      ]
+    },
+    {
+      "icon_name": "sprinkler-ceiling",
+      "search_terms": [
+        "emergency",
+        "fire",
+        "water"
+      ]
+    },
+    {
+      "icon_name": "squirrel",
+      "search_terms": [
+        "animal",
+        "chipmunk",
+        "mammal",
+        "marmot",
+        "rat",
+        "rodent",
+        "tree"
+      ]
+    },
+    {
+      "icon_name": "stairs",
+      "search_terms": [
+        "exit",
+        "steps",
+        "up"
+      ]
+    },
+    {
+      "icon_name": "stamp",
+      "search_terms": [
+        "art",
+        "certificate",
+        "imprint",
+        "rubber",
+        "seal"
+      ]
+    },
+    {
+      "icon_name": "stapler",
+      "search_terms": [
+        "desktop",
+        "milton",
+        "office",
+        "paperclip",
+        "staple"
+      ]
+    },
+    {
+      "icon_name": "star-christmas",
+      "search_terms": [
+        "bethlehem",
+        "christmas",
+        "holiday",
+        "north",
+        "xmas"
+      ]
+    },
+    {
+      "icon_name": "starship",
+      "search_terms": [
+        "engage",
+        "enterprise",
+        "james t kirk",
+        "jean-luc picard",
+        "make it so",
+        "ncc-1701",
+        "spacecraft",
+        "spaceship",
+        "star trek"
+      ]
+    },
+    {
+      "icon_name": "steak",
+      "search_terms": [
+        "beef",
+        "chop",
+        "cut of meat",
+        "grill",
+        "lambchop",
+        "meat",
+        "porkchop",
+        "sirloin",
+        "steak"
+      ]
+    },
+    {
+      "icon_name": "steering-wheel",
+      "search_terms": [
+        "auto",
+        "car",
+        "direction",
+        "driving",
+        "navigation"
+      ]
+    },
+    {
+      "icon_name": "sterling-sign",
+      "search_terms": [
+        "Pound Sign",
+        "currency"
+      ]
+    },
+    {
+      "icon_name": "stocking",
+      "search_terms": [
+        "christmas",
+        "clothing",
+        "decoration",
+        "gift",
+        "holiday",
+        "present",
+        "sock",
+        "tradition",
+        "xmas"
+      ]
+    },
+    {
+      "icon_name": "store",
+      "search_terms": [
+        "bodega",
+        "building",
+        "buy",
+        "market",
+        "purchase",
+        "shopping",
+        "store"
+      ]
+    },
+    {
+      "icon_name": "street-view",
+      "search_terms": [
+        "directions",
+        "location",
+        "map",
+        "navigation",
+        "uer"
+      ]
+    },
+    {
+      "icon_name": "stretcher",
+      "search_terms": [
+        "ambulance",
+        "bed",
+        "emergency",
+        "er",
+        "patient"
+      ]
+    },
+    {
+      "icon_name": "stroopwafel",
+      "search_terms": [
+        "caramel",
+        "cookie",
+        "dessert",
+        "sweets",
+        "waffle"
+      ]
+    },
+    {
+      "icon_name": "subtitles",
+      "search_terms": [
+        "caption",
+        "closed captions",
+        "description",
+        "film",
+        "language",
+        "movie",
+        "text",
+        "translation"
+      ]
+    },
+    {
+      "icon_name": "suitcase",
+      "search_terms": [
+        "baggage",
+        "luggage",
+        "move",
+        "packing",
+        "suitcase",
+        "travel",
+        "trip"
+      ]
+    },
+    {
+      "icon_name": "sun",
+      "search_terms": [
+        "bright",
+        "brighten",
+        "contrast",
+        "day",
+        "lighter",
+        "rays",
+        "sol",
+        "solar",
+        "star",
+        "sun",
+        "sunny",
+        "weather"
+      ]
+    },
+    {
+      "icon_name": "sun-cloud",
+      "search_terms": [
+        "cloud",
+        "day",
+        "lighter",
+        "sol",
+        "solar",
+        "star",
+        "sun",
+        "sun behind small cloud",
+        "weather"
+      ]
+    },
+    {
+      "icon_name": "sunrise",
+      "search_terms": [
+        "dawn",
+        "day",
+        "daybreak",
+        "daylight",
+        "daytime",
+        "morning",
+        "sun",
+        "sun up",
+        "sunrise"
+      ]
+    },
+    {
+      "icon_name": "sunset",
+      "search_terms": [
+        "dusk",
+        "night",
+        "nighttime",
+        "sun",
+        "sun down",
+        "sunset"
+      ]
+    },
+    {
+      "icon_name": "sushi",
+      "search_terms": [
+        "fish",
+        "nigiri",
+        "nori",
+        "raw",
+        "rice",
+        "salmon",
+        "seafood",
+        "tuna"
+      ]
+    },
+    {
+      "icon_name": "sushi-roll",
+      "search_terms": [
+        "fish",
+        "maki",
+        "nori",
+        "raw",
+        "rice",
+        "salmon",
+        "seafood",
+        "seaweed",
+        "tuna"
+      ]
+    },
+    {
+      "icon_name": "swap",
+      "search_terms": [
+        "arrows",
+        "change",
+        "merge",
+        "move",
+        "route",
+        "transfer"
+      ]
+    },
+    {
+      "icon_name": "swatchbook",
+      "search_terms": [
+        "Pantone",
+        "color",
+        "design",
+        "hue",
+        "palette"
+      ]
+    },
+    {
+      "icon_name": "table-columns",
+      "search_terms": [
+        "browser",
+        "category",
+        "dashboard",
+        "organize",
+        "panes",
+        "split"
+      ]
+    },
+    {
+      "icon_name": "table-rows",
+      "search_terms": [
+        "cell",
+        "spreadsheet",
+        "table"
+      ]
+    },
+    {
+      "icon_name": "tablet",
+      "search_terms": [
+        "device",
+        "kindle",
+        "screen"
+      ]
+    },
+    {
+      "icon_name": "tablets",
+      "search_terms": [
+        "drugs",
+        "medicine",
+        "pills",
+        "prescription"
+      ]
+    },
+    {
+      "icon_name": "taco",
+      "search_terms": [
+        "corn",
+        "maize",
+        "mexican",
+        "salsa",
+        "taco",
+        "tortilla"
+      ]
+    },
+    {
+      "icon_name": "tag",
+      "search_terms": [
+        "discount",
+        "labe",
+        "label",
+        "price",
+        "shopping"
+      ]
+    },
+    {
+      "icon_name": "tank-water",
+      "search_terms": [
+        "hydration",
+        "storage",
+        "water"
+      ]
+    },
+    {
+      "icon_name": "tape",
+      "search_terms": [
+        "design",
+        "package",
+        "sticky"
+      ]
+    },
+    {
+      "icon_name": "taxi",
+      "search_terms": [
+        "cab",
+        "cabbie",
+        "car",
+        "car service",
+        "lyft",
+        "machine",
+        "oncoming",
+        "oncoming taxi",
+        "taxi",
+        "transportation",
+        "travel",
+        "uber",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "teddy-bear",
+      "search_terms": [
+        "plaything",
+        "plush",
+        "stuffed",
+        "teddy bear",
+        "toy"
+      ]
+    },
+    {
+      "icon_name": "tennis-ball",
+      "search_terms": [
+        "ball",
+        "racket",
+        "racquet",
+        "sport",
+        "tennis",
+        "us open"
+      ]
+    },
+    {
+      "icon_name": "terminal",
+      "search_terms": [
+        "code",
+        "coding",
+        "command",
+        "console",
+        "development",
+        "prompt",
+        "terminal"
+      ]
+    },
+    {
+      "icon_name": "thought-bubble",
+      "search_terms": [
+        "Right Thought Bubble",
+        "balloon",
+        "bubble",
+        "comic",
+        "dream",
+        "idea",
+        "imagination",
+        "think",
+        "thought",
+        "thought balloon"
+      ]
+    },
+    {
+      "icon_name": "thumbtack",
+      "search_terms": [
+        "Black Pushpin",
+        "coordinates",
+        "location",
+        "marker",
+        "pin",
+        "pushpin",
+        "thumb-tack"
+      ]
+    },
+    {
+      "icon_name": "ticket-airline",
+      "search_terms": [
+        "airplane",
+        "arrival",
+        "boarding pass",
+        "departure",
+        "ticket",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "timeline",
+      "search_terms": [
+        "chronological",
+        "deadline",
+        "history",
+        "linear"
+      ]
+    },
+    {
+      "icon_name": "timer",
+      "search_terms": [
+        "clock",
+        "countdown",
+        "pending",
+        "stopwatch",
+        "timer",
+        "timer clock",
+        "waiting"
+      ]
+    },
+    {
+      "icon_name": "tire",
+      "search_terms": [
+        "auto",
+        "car",
+        "rim",
+        "rubber",
+        "wheel"
+      ]
+    },
+    {
+      "icon_name": "tire-rugged",
+      "search_terms": [
+        "auto",
+        "car",
+        "offroad",
+        "rim",
+        "rubber",
+        "wheel"
+      ]
+    },
+    {
+      "icon_name": "toggle-off",
+      "search_terms": [
+        "button",
+        "off",
+        "on",
+        "switch"
+      ]
+    },
+    {
+      "icon_name": "toggle-on",
+      "search_terms": [
+        "button",
+        "off",
+        "on",
+        "switch"
+      ]
+    },
+    {
+      "icon_name": "toilet",
+      "search_terms": [
+        "bathroom",
+        "flush",
+        "john",
+        "loo",
+        "pee",
+        "plumbing",
+        "poop",
+        "porcelain",
+        "potty",
+        "restroom",
+        "throne",
+        "toile",
+        "toilet",
+        "washroom",
+        "waste",
+        "wc"
+      ]
+    },
+    {
+      "icon_name": "toilet-paper",
+      "search_terms": [
+        "bathroom",
+        "covid-19",
+        "halloween",
+        "holiday",
+        "lavatory",
+        "paper towels",
+        "prank",
+        "privy",
+        "restroom",
+        "roll",
+        "roll of paper",
+        "toilet",
+        "toilet paper",
+        "wipe"
+      ]
+    },
+    {
+      "icon_name": "toilet-portable",
+      "search_terms": [
+        "outhouse",
+        "toilet"
+      ]
+    },
+    {
+      "icon_name": "toolbox",
+      "search_terms": [
+        "admin",
+        "chest",
+        "configuration",
+        "container",
+        "equipment",
+        "fix",
+        "maintenance",
+        "mechanic",
+        "modify",
+        "repair",
+        "settings",
+        "tool",
+        "toolbox",
+        "tools"
+      ]
+    },
+    {
+      "icon_name": "tower-broadcast",
+      "search_terms": [
+        "airwaves",
+        "antenna",
+        "communication",
+        "emergency",
+        "radio",
+        "reception",
+        "signal",
+        "waves"
+      ]
+    },
+    {
+      "icon_name": "tower-cell",
+      "search_terms": [
+        "airwaves",
+        "antenna",
+        "communication",
+        "radio",
+        "reception",
+        "signal",
+        "waves"
+      ]
+    },
+    {
+      "icon_name": "traffic-cone",
+      "search_terms": [
+        "alert",
+        "construction",
+        "maintenance",
+        "road"
+      ]
+    },
+    {
+      "icon_name": "traffic-light",
+      "search_terms": [
+        "direction",
+        "go",
+        "light",
+        "road",
+        "signal",
+        "slow",
+        "stop",
+        "traffic",
+        "travel",
+        "vertical traffic light"
+      ]
+    },
+    {
+      "icon_name": "trailer",
+      "search_terms": [
+        "carry",
+        "haul",
+        "moving",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "train-subway",
+      "search_terms": [
+        "machine",
+        "railway",
+        "train",
+        "transportation",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "train-track",
+      "search_terms": [
+        "rail",
+        "railroad",
+        "tracks",
+        "train"
+      ]
+    },
+    {
+      "icon_name": "transporter",
+      "search_terms": [
+        "move",
+        "teleport",
+        "transfer",
+        "translocate",
+        "travel"
+      ]
+    },
+    {
+      "icon_name": "trash",
+      "search_terms": [
+        "delete",
+        "garbage",
+        "hide",
+        "remove"
+      ]
+    },
+    {
+      "icon_name": "trash-can",
+      "search_terms": [
+        "delete",
+        "garbage",
+        "hide",
+        "remove",
+        "trash-o"
+      ]
+    },
+    {
+      "icon_name": "treasure-chest",
+      "search_terms": [
+        "Dungeons & Dragons",
+        "booty",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "gold",
+        "hidden",
+        "loot",
+        "premium",
+        "reward",
+        "trap"
+      ]
+    },
+    {
+      "icon_name": "tree-city",
+      "search_terms": [
+        "building",
+        "city",
+        "urban"
+      ]
+    },
+    {
+      "icon_name": "tricycle-adult",
+      "search_terms": [
+        "adaptive",
+        "bicycle",
+        "bike",
+        "peddle",
+        "seat",
+        "trike"
+      ]
+    },
+    {
+      "icon_name": "trophy",
+      "search_terms": [
+        "achievement",
+        "award",
+        "cup",
+        "game",
+        "prize",
+        "trophy",
+        "winner"
+      ]
+    },
+    {
+      "icon_name": "truck-moving",
+      "search_terms": [
+        "cargo",
+        "inventory",
+        "rental",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "truck-pickup",
+      "search_terms": [
+        "cargo",
+        "maintenance",
+        "pick-up",
+        "pickup",
+        "pickup truck",
+        "truck",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "truck-ramp",
+      "search_terms": [
+        "box",
+        "cargo",
+        "delivery",
+        "inventory",
+        "moving",
+        "rental",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "turkey",
+      "search_terms": [
+        "bird",
+        "chicken",
+        "meal",
+        "meat",
+        "poultry",
+        "seasonal",
+        "thanksgiving"
+      ]
+    },
+    {
+      "icon_name": "turntable",
+      "search_terms": [
+        "album",
+        "music",
+        "phonograph",
+        "record",
+        "record player",
+        "vinyl"
+      ]
+    },
+    {
+      "icon_name": "turtle",
+      "search_terms": [
+        "cowabunga",
+        "donatello",
+        "fauna",
+        "leonardo",
+        "michaelangelo",
+        "raphael",
+        "reptile",
+        "shell",
+        "slow",
+        "terrapin",
+        "tortoise",
+        "turtle"
+      ]
+    },
+    {
+      "icon_name": "tv",
+      "search_terms": [
+        "computer",
+        "display",
+        "monitor",
+        "television"
+      ]
+    },
+    {
+      "icon_name": "usb-drive",
+      "search_terms": [
+        "access codes",
+        "device",
+        "flashdrive",
+        "goober",
+        "ssd",
+        "storage",
+        "thumbdrive"
+      ]
+    },
+    {
+      "icon_name": "user-doctor",
+      "search_terms": [
+        "covid-19",
+        "health",
+        "job",
+        "medical",
+        "nurse",
+        "occupation",
+        "physician",
+        "profile",
+        "surgeon",
+        "uer",
+        "worker"
+      ]
+    },
+    {
+      "icon_name": "user-large",
+      "search_terms": [
+        "adult",
+        "bust",
+        "bust in silhouette",
+        "default",
+        "employee",
+        "gender-neutral",
+        "person",
+        "profile",
+        "silhouette",
+        "uer",
+        "unspecified gender",
+        "username",
+        "users-people"
+      ]
+    },
+    {
+      "icon_name": "users",
+      "search_terms": [
+        "employee",
+        "together",
+        "uer",
+        "users-people"
+      ]
+    },
+    {
+      "icon_name": "utensils",
+      "search_terms": [
+        "cooking",
+        "cutlery",
+        "dining",
+        "dinner",
+        "eat",
+        "food",
+        "fork",
+        "fork and knife",
+        "knife",
+        "restaurant"
+      ]
+    },
+    {
+      "icon_name": "utility-pole",
+      "search_terms": [
+        "phone",
+        "power",
+        "transmission"
+      ]
+    },
+    {
+      "icon_name": "vacuum",
+      "search_terms": [
+        "cleaning",
+        "dyson",
+        "floor",
+        "suck",
+        "suction"
+      ]
+    },
+    {
+      "icon_name": "vacuum-robot",
+      "search_terms": [
+        "cleaning",
+        "floor",
+        "roomba",
+        "suck",
+        "suction"
+      ]
+    },
+    {
+      "icon_name": "value-absolute",
+      "search_terms": [
+        "Math"
+      ]
+    },
+    {
+      "icon_name": "van-shuttle",
+      "search_terms": [
+        "airport",
+        "bus",
+        "minibus",
+        "public-transportation",
+        "transportation",
+        "travel",
+        "vehicle"
+      ]
+    },
+    {
+      "icon_name": "vault",
+      "search_terms": [
+        "bank",
+        "important",
+        "investment",
+        "lock",
+        "money",
+        "premium",
+        "privacy",
+        "safe",
+        "salary"
+      ]
+    },
+    {
+      "icon_name": "vest-patches",
+      "search_terms": [
+        "biker",
+        "fashion",
+        "style"
+      ]
+    },
+    {
+      "icon_name": "vial",
+      "search_terms": [
+        "ampule",
+        "chemist",
+        "chemistry",
+        "experiment",
+        "knowledge",
+        "lab",
+        "sample",
+        "science",
+        "test",
+        "test tube"
+      ]
+    },
+    {
+      "icon_name": "vials",
+      "search_terms": [
+        "ampule",
+        "experiment",
+        "knowledge",
+        "lab",
+        "sample",
+        "science",
+        "test",
+        "test tube"
+      ]
+    },
+    {
+      "icon_name": "video",
+      "search_terms": [
+        "camera",
+        "film",
+        "movie",
+        "record",
+        "video-camera"
+      ]
+    },
+    {
+      "icon_name": "virus",
+      "search_terms": [
+        "bug",
+        "coronavirus",
+        "covid-19",
+        "flu",
+        "health",
+        "infection",
+        "pandemic",
+        "sick",
+        "vaccine",
+        "viral"
+      ]
+    },
+    {
+      "icon_name": "walker",
+      "search_terms": [
+        "accessibility",
+        "assistance",
+        "disabled",
+        "wheelchair"
+      ]
+    },
+    {
+      "icon_name": "walkie-talkie",
+      "search_terms": [
+        "communication",
+        "copy",
+        "intercom",
+        "over",
+        "portable",
+        "radio",
+        "two way radio"
+      ]
+    },
+    {
+      "icon_name": "wallet",
+      "search_terms": [
+        "billfold",
+        "cash",
+        "currency",
+        "money",
+        "salary"
+      ]
+    },
+    {
+      "icon_name": "wand",
+      "search_terms": [
+        "Dungeons & Dragons",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "halloween",
+        "holiday",
+        "magic",
+        "weapon"
+      ]
+    },
+    {
+      "icon_name": "wand-magic",
+      "search_terms": [
+        "autocomplete",
+        "automatic",
+        "mage",
+        "magic",
+        "spell",
+        "wand",
+        "witch",
+        "wizard"
+      ]
+    },
+    {
+      "icon_name": "warehouse",
+      "search_terms": [
+        "building",
+        "capacity",
+        "garage",
+        "inventory",
+        "storage"
+      ]
+    },
+    {
+      "icon_name": "warehouse-full",
+      "search_terms": [
+        "building",
+        "capacity",
+        "garage",
+        "inventory",
+        "storage"
+      ]
+    },
+    {
+      "icon_name": "washing-machine",
+      "search_terms": [
+        "clean",
+        "clothes",
+        "laundromat",
+        "laundry",
+        "washing machine"
+      ]
+    },
+    {
+      "icon_name": "watch-apple",
+      "search_terms": [
+        "apps",
+        "digital",
+        "fitness",
+        "smartwatch"
+      ]
+    },
+    {
+      "icon_name": "watch-fitness",
+      "search_terms": [
+        "Fitbit",
+        "alert",
+        "apple watch",
+        "clock",
+        "pedometer",
+        "time",
+        "wristwatch"
+      ]
+    },
+    {
+      "icon_name": "watch-smart",
+      "search_terms": [
+        "apps",
+        "fitness",
+        "time"
+      ]
+    },
+    {
+      "icon_name": "webhook",
+      "search_terms": [
+        "api",
+        "automate",
+        "callback",
+        "code",
+        "communication",
+        "http",
+        "infastructure",
+        "json",
+        "message"
+      ]
+    },
+    {
+      "icon_name": "weight-scale",
+      "search_terms": [
+        "health",
+        "measurement",
+        "scale",
+        "weight"
+      ]
+    },
+    {
+      "icon_name": "wheelchair",
+      "search_terms": [
+        "disabled",
+        "uer",
+        "users-people"
+      ]
+    },
+    {
+      "icon_name": "wifi",
+      "search_terms": [
+        "connection",
+        "hotspot",
+        "internet",
+        "network",
+        "signal",
+        "wireless",
+        "www"
+      ]
+    },
+    {
+      "icon_name": "window",
+      "search_terms": [
+        "browser",
+        "computer",
+        "development"
+      ]
+    },
+    {
+      "icon_name": "wine-glass",
+      "search_terms": [
+        "alcohol",
+        "bar",
+        "beverage",
+        "cabernet",
+        "drink",
+        "glass",
+        "grapes",
+        "merlot",
+        "sauvignon",
+        "wine",
+        "wine glass"
+      ]
+    },
+    {
+      "icon_name": "won-sign",
+      "search_terms": [
+        "Won Sign",
+        "currency"
+      ]
+    },
+    {
+      "icon_name": "wreath",
+      "search_terms": [
+        "christmas",
+        "decoration",
+        "door",
+        "holiday",
+        "welcome",
+        "xmas"
+      ]
+    },
+    {
+      "icon_name": "wrench",
+      "search_terms": [
+        "configuration",
+        "construction",
+        "equipment",
+        "fix",
+        "mechanic",
+        "modify",
+        "plumbing",
+        "settings",
+        "spanner",
+        "tool",
+        "update",
+        "wrench"
+      ]
+    },
+    {
+      "icon_name": "x-ray",
+      "search_terms": [
+        "health",
+        "medical",
+        "radiological images",
+        "radiology",
+        "skeleton"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+text,label
+doctor,hospital-user
+patient,hospital-user
+primary care,hospital-user
+See the doctor for a checkup,hospital-user
+Schedule an appointment with the doctor,hospital-user
+Register as a new patient,hospital-user
+Check patient records,hospital-user
+Visit primary care for a routine checkup,hospital-user
+Find a primary care physician,hospital-user
+Book an appointment with the doctor,hospital-user
+Visit the family doctor,hospital-user
+Get a referral from the primary care doctor,hospital-user
+Check in as a patient at the clinic,hospital-user
+Review patient health history,hospital-user
+Get a physical exam,hospital-user
+See the doctor about the symptoms,hospital-user
+Register at the new clinic,hospital-user
+Follow up with the primary care doctor,hospital-user
+Schedule a telehealth appointment,hospital-user
+Doctor visit,hospital-user
+See the doc,hospital-user
+Patient checkup,hospital-user
+Primary care,hospital-user
+book an appointemnt with doctr,hospital-user
+vist the famly doctor,hospital-user
+get a referrl from doctor,hospital-user
+se the doctor about symtoms,hospital-user
+Go to the emergency room,hospital-user
+Visit the specialist,hospital-user
+Check into the hospital,hospital-user
+Call the nurse station,hospital-user
+See the dentist,hospital-user
+Visit the pharmacy,hospital-user

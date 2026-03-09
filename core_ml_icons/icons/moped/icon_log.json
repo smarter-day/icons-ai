@@ -1,0 +1,136 @@
+{
+  "icon": "moped",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "delivery",
+        "motorbike",
+        "scooter"
+      ],
+      "ru": [
+        "доставка",
+        "мотоцикл",
+        "скутер"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "food delivery on moped scooter",
+        "courier delivery by moped",
+        "motorbike for city commute",
+        "lightweight motorbike",
+        "scooter parked on street",
+        "electric scooter for urban travel"
+      ],
+      "ru": [
+        "доставка еды на мопеде-скутере",
+        "курьерская доставка на мопеде",
+        "мотоцикл для городских поездок",
+        "лёгкий мотоцикл",
+        "скутер припаркованный на улице",
+        "электрический скутер для городских поездок"
+      ]
+    },
+    "regular": {
+      "en": [
+        "small two-wheeled motor scooter",
+        "food delivery driver on moped",
+        "urban commuter scooter in city",
+        "moped with cargo box on back",
+        "electric moped for eco-friendly travel",
+        "scooter weaving through traffic",
+        "vespa-style motorized scooter",
+        "delivery app icon using moped",
+        "moped parked outside restaurant",
+        "affordable city transport scooter"
+      ],
+      "ru": [
+        "маленький двухколёсный моторный скутер",
+        "курьер доставки еды на мопеде",
+        "скутер для городских поездок",
+        "мопед с грузовым ящиком сзади",
+        "электрический мопед для экологичных поездок",
+        "скутер лавирующий в пробке",
+        "моторный скутер в стиле vespa",
+        "иконка приложения доставки с мопедом",
+        "мопед припаркованный у ресторана",
+        "доступный городской транспорт скутер"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a moped icon for the delivery tracking screen",
+        "add a scooter symbol to the transport category",
+        "show a moped for the food delivery feature",
+        "use the scooter icon for the city mobility section"
+      ],
+      "ru": [
+        "Мне нужна иконка мопеда для экрана отслеживания доставки",
+        "добавить символ скутера в категорию транспорта",
+        "показать мопед для функции доставки еды",
+        "использовать иконку скутера для раздела городской мобильности"
+      ]
+    },
+    "typo": {
+      "en": [
+        "moepd delivery",
+        "scootr city",
+        "delivrey moped",
+        "motrobike scooter"
+      ],
+      "ru": [
+        "мопде доставка",
+        "скутер гоорд",
+        "доставак на мопеде",
+        "мотицкл скутер"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "motorcycle with large engine for highway",
+        "bicycle pedal-powered two-wheeler",
+        "electric skateboard for commuting",
+        "delivery truck for large packages",
+        "food delivery bicycle with cargo bag",
+        "tuk-tuk three-wheeled vehicle"
+      ],
+      "ru": [
+        "мотоцикл с большим двигателем для шоссе",
+        "велосипед на педальном приводе двухколёсный",
+        "электрический скейтборд для поездок",
+        "грузовик доставки для крупных посылок",
+        "велосипед доставки еды с грузовой сумкой",
+        "тук-тук трёхколёсное транспортное средство"
+      ]
+    },
+    "valid": {
+      "en": [
+        "moped scooter for delivery",
+        "small motorized scooter",
+        "urban moped icon"
+      ],
+      "ru": [
+        "мопед-скутер для доставки",
+        "маленький моторный скутер",
+        "иконка городского мопеда"
+      ]
+    },
+    "test": {
+      "en": [
+        "moped icon",
+        "scooter delivery vehicle",
+        "motorbike scooter"
+      ],
+      "ru": [
+        "иконка мопеда",
+        "скутер для доставки",
+        "мотоцикл скутер"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "icon": "racquet",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "badminton",
+        "racket",
+        "squash",
+        "tennis"
+      ],
+      "ru": [
+        "бадминтон",
+        "ракетка",
+        "сквош",
+        "теннис"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "badminton racket hitting a shuttlecock",
+        "badminton court match with lightweight racket",
+        "tennis racket with tight string grid",
+        "racket sport equipment for court games",
+        "squash racket on indoor court",
+        "squash match hitting rubber ball",
+        "tennis match serving with a racket",
+        "tennis racket and yellow ball"
+      ],
+      "ru": [
+        "ракетка для бадминтона ударяет по воланчику",
+        "матч по бадминтону с лёгкой ракеткой",
+        "теннисная ракетка с туго натянутой струнной сеткой",
+        "инвентарь для ракетных видов спорта",
+        "ракетка для сквоша на закрытом корте",
+        "матч по сквошу с резиновым мячом",
+        "теннисный матч подача ракеткой",
+        "теннисная ракетка и жёлтый мяч"
+      ]
+    },
+    "regular": {
+      "en": [
+        "oval tennis racket with string grid and long handle",
+        "badminton racket lighter than tennis version",
+        "squash racket with smaller head and stiff frame",
+        "racket sports equipment laid out on court",
+        "tennis player swinging racket at serve",
+        "carbon fiber racket for professional match",
+        "stringing a tennis racket with synthetic gut",
+        "ping pong paddle beside a white ball",
+        "padel racket with solid perforated face",
+        "pickleball paddle short handle wide face"
+      ],
+      "ru": [
+        "овальная теннисная ракетка с сеткой струн и длинной ручкой",
+        "ракетка для бадминтона легче теннисной",
+        "ракетка для сквоша с меньшей головкой и жёстким корпусом",
+        "инвентарь для ракетных видов спорта на корте",
+        "теннисист замахивается ракеткой на подаче",
+        "ракетка из углеродного волокна для профессионального матча",
+        "натяжка теннисной ракетки синтетической струной",
+        "ракетка для пинг-понга рядом с белым шариком",
+        "ракетка для падела с перфорированной поверхностью",
+        "ракетка для пиклбола с короткой ручкой и широким полотном"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a racquet icon for the sports activity section",
+        "add a tennis racket symbol to the outdoor sports feature",
+        "show a racquet for the badminton or squash category",
+        "use the racket icon for court sports selection"
+      ],
+      "ru": [
+        "мне нужна иконка ракетки для раздела спортивных активностей",
+        "добавь символ теннисной ракетки в функцию уличного спорта",
+        "покажи ракетку для категории бадминтона или сквоша",
+        "используй иконку ракетки для выбора ракетных видов спорта"
+      ]
+    },
+    "typo": {
+      "en": [
+        "tenis racket with string grid",
+        "badmitnon racket for court game",
+        "squash racekt on indoor court",
+        "raquet sport equipment for games"
+      ],
+      "ru": [
+        "теннисая ракетка с сеткой струн",
+        "ракетка для бадмитона",
+        "ракетка для сквоща на корте",
+        "ракетка для ракетного спорта"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "baseball bat swinging at pitched ball",
+        "golf club driver for long distance shot",
+        "cricket bat flat blade hitting leather ball",
+        "hockey stick curved blade on ice",
+        "table tennis bat beside white ping pong ball",
+        "shuttlecock feathered birdie for badminton"
+      ],
+      "ru": [
+        "бита для бейсбола ударяет по мячу",
+        "клюшка для гольфа драйвер для дальнего удара",
+        "крикетная бита ударяет кожаный мяч",
+        "хоккейная клюшка с изогнутым лезвием на льду",
+        "ракетка для пинг-понга рядом с белым шариком",
+        "воланчик с перьями для бадминтона"
+      ]
+    },
+    "valid": {
+      "en": [
+        "tennis racket with string grid and handle",
+        "badminton racket for court match",
+        "racquet sport equipment for playing"
+      ],
+      "ru": [
+        "теннисная ракетка с сеткой струн и ручкой",
+        "ракетка для бадминтона на корте",
+        "ракетка для занятий спортом"
+      ]
+    },
+    "test": {
+      "en": [
+        "oval racket for tennis or badminton",
+        "squash racket on indoor court",
+        "carbon fiber tennis racquet for match play"
+      ],
+      "ru": [
+        "овальная ракетка для тенниса или бадминтона",
+        "ракетка для сквоша на закрытом корте",
+        "теннисная ракетка из углеродного волокна"
+      ]
+    }
+  }
+}

@@ -1,0 +1,4 @@
+text,label
+Build a Gantt chart for the project,chart-gantt
+Add task dependencies to the schedule,chart-gantt
+Monthly project timeline review,chart-gantt

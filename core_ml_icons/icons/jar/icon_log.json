@@ -1,0 +1,81 @@
+{
+  "icon": "jar",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "jam",
+        "jelly",
+        "storage"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Make homemade jam",
+        "Buy strawberry jam at the store",
+        "Make grape jelly",
+        "Spread jelly on toast",
+        "Use a jar for food storage",
+        "Store leftovers in a jar"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Open the jar of jam",
+        "Make homemade fruit jam",
+        "Buy a jar of peanut butter",
+        "Store herbs in a glass jar",
+        "Seal a jar for canning",
+        "Buy a mason jar set",
+        "Make preserves in a jar",
+        "Store dry goods in jars",
+        "Use a jar to store change",
+        "Gift a jar of homemade jam"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Open the jar",
+        "Jar of jam",
+        "Mason jar",
+        "Store in a jar"
+      ]
+    },
+    "typo": {
+      "en": [
+        "open the jra of jam",
+        "make homemad fuit jam",
+        "stoer herbs in a glas jar",
+        "seall a jar for canning"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Store flour in a jar with wheat",
+        "Use a bottle for storing liquids",
+        "Put leftovers in a plastic container",
+        "Use a can for food storage",
+        "Store food in a Tupperware box",
+        "Use a ceramic pot for cooking"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Open the jar of jam",
+        "Make homemade fruit jam",
+        "Store herbs in a glass jar"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy a mason jar set",
+        "Make preserves in a jar",
+        "Gift a jar of homemade jam"
+      ]
+    }
+  }
+}

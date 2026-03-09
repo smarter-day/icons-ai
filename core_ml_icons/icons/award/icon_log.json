@@ -1,0 +1,96 @@
+{
+  "icon": "award",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "guarantee",
+        "honor",
+        "praise",
+        "prize",
+        "recognition",
+        "ribbon",
+        "trophy",
+        "warranty"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "product guarantee seal",
+        "money-back guarantee badge",
+        "honor ribbon for top student",
+        "highest honor award ceremony",
+        "team praise recognition badge",
+        "praise for outstanding work",
+        "first prize ribbon at the fair",
+        "grand prize winner badge",
+        "employee recognition award",
+        "recognition badge for outstanding work",
+        "blue ribbon award for first place",
+        "ribbon badge pinned to jacket",
+        "gold trophy for tournament winner",
+        "trophy award on the podium",
+        "warranty guarantee symbol",
+        "extended warranty seal badge"
+      ]
+    },
+    "regular": {
+      "en": [
+        "ribbon badge with circular medal center",
+        "first place award ribbon at the county fair",
+        "best-in-class recognition seal",
+        "achievement badge with star and ribbon",
+        "competition winner prize ribbon",
+        "employee of the month award icon",
+        "gold medal with decorative ribbon hanging",
+        "honor roll recognition badge",
+        "outstanding performance award ceremony",
+        "blue ribbon for the best exhibit"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an award icon for the achievements page",
+        "add a prize ribbon to the leaderboard section",
+        "show an award badge when the user completes a challenge",
+        "use the recognition icon for the top performer category"
+      ]
+    },
+    "typo": {
+      "en": [
+        "guaranee badge",
+        "tropy for first place",
+        "recogniton ribbon",
+        "achivment award"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "graduation diploma with university seal and ribbon",
+        "gold olympic medal on a lanyard",
+        "certificate of achievement with official signatures",
+        "winner podium with numbered positions",
+        "star rating displayed for a product review",
+        "numbered rank badge on a leaderboard"
+      ]
+    },
+    "valid": {
+      "en": [
+        "first place prize ribbon award",
+        "recognition badge for top achievement",
+        "warranty guarantee seal symbol"
+      ]
+    },
+    "test": {
+      "en": [
+        "award ribbon for winner",
+        "honor recognition badge",
+        "trophy prize symbol"
+      ]
+    }
+  }
+}

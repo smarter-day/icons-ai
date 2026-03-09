@@ -1,0 +1,172 @@
+{
+  "icon": "car",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "auto",
+        "automobile",
+        "car",
+        "oncoming",
+        "oncoming automobile",
+        "sedan",
+        "transportation",
+        "travel",
+        "vehicle"
+      ],
+      "ru": [
+        "авто",
+        "автомобиль",
+        "машина",
+        "встречный",
+        "встречный автомобиль",
+        "седан",
+        "транспорт",
+        "поездка",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Auto service appointment this week",
+        "Automobile insurance renewal",
+        "Car wash before the weekend",
+        "Oncoming traffic on the highway",
+        "Watch for the oncoming automobile",
+        "Sedan rental for the road trip",
+        "Transportation by car to the airport",
+        "Travel by car across the country",
+        "Vehicle registration renewal",
+        "Auto parts store for the repair kit",
+        "Automobile show tickets for the weekend",
+        "Car insurance claim filed this morning",
+        "Oncoming traffic slowed at the intersection",
+        "Watch for the oncoming automobile in the lane",
+        "Sedan washed and detailed for the trip",
+        "Transportation app booked for the airport run",
+        "Travel by car to the countryside this weekend",
+        "Vehicle safety check before the long drive"
+      ],
+      "ru": [
+        "Запись на автосервис на этой неделе",
+        "Продление страховки автомобиля",
+        "Помыть машину перед выходными",
+        "Встречный транспорт на шоссе",
+        "Следить за встречным автомобилем",
+        "Аренда седана для поездки",
+        "Добраться на машине до аэропорта",
+        "Поехать на машине через страну",
+        "Продление регистрации транспортного средства",
+        "Магазин автозапчастей для ремонтного набора",
+        "Билеты на автосалон в выходные",
+        "Страховой случай по автомобилю заявлен утром",
+        "Встречный поток замедлился на перекрёстке",
+        "Следить за встречным автомобилем в полосе",
+        "Седан вымыт и приведён в порядок для поездки",
+        "Транспортное приложение для аэропорта забронировано",
+        "Поездка на машине за город в выходные",
+        "Технический осмотр перед дальней поездкой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Drive to the airport early",
+        "Car oil change overdue",
+        "Pick up the kids from school by car",
+        "Park the car in the garage",
+        "Road trip playlist ready",
+        "Car insurance premium check",
+        "Fill up the gas tank",
+        "Carpool to the office today",
+        "New car test drive appointment",
+        "Car tyre pressure check"
+      ],
+      "ru": [
+        "Рано выехать на машине в аэропорт",
+        "Просрочена замена масла в машине",
+        "Забрать детей из школы на машине",
+        "Поставить машину в гараж",
+        "Плейлист для поездки готов",
+        "Проверить стоимость страховки",
+        "Заправить бак",
+        "Поехать в офис совместно на машине",
+        "Тест-драйв новой машины",
+        "Проверить давление в шинах"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "taking the car today",
+        "stuck in traffic again",
+        "car needs a wash badly",
+        "left the keys in the car"
+      ],
+      "ru": [
+        "сегодня еду на машине",
+        "снова застрял в пробке",
+        "машина срочно нуждается в мойке",
+        "оставил ключи в машине"
+      ]
+    },
+    "typo": {
+      "en": [
+        "car servcie appoitment this week",
+        "vehcile registration renewall",
+        "fil up the gas tnak",
+        "car insurence check"
+      ],
+      "ru": [
+        "запись на автосрвис на этой неделе",
+        "продление регистраци транспортного средства",
+        "заправить бак машины",
+        "проверка страховки автомблия"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Taxi to the airport instead of driving",
+        "Truck delivery to the warehouse",
+        "City bus route to the station",
+        "Ride-share pickup outside the hotel",
+        "Bicycle commute to the office",
+        "Motorbike service appointment"
+      ],
+      "ru": [
+        "Такси в аэропорт вместо езды на машине",
+        "Грузовик доставки на склад",
+        "Маршрут городского автобуса до станции",
+        "Подача райдшеринга у отеля",
+        "Поездка на велосипеде в офис",
+        "Запись на сервис мотоцикла"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Car service appointment tomorrow",
+        "Drive to the event this evening",
+        "Car pool arrangement for the week"
+      ],
+      "ru": [
+        "Запись на автосервис завтра",
+        "Поехать на машине на мероприятие вечером",
+        "Договориться о совместных поездках на неделю"
+      ]
+    },
+    "test": {
+      "en": [
+        "Road trip by car this weekend",
+        "Car parked in the underground lot",
+        "Quick car wash before the meeting"
+      ],
+      "ru": [
+        "Поездка на машине в эти выходные",
+        "Машина припаркована на подземной стоянке",
+        "Быстрая мойка машины перед встречей"
+      ]
+    }
+  }
+}

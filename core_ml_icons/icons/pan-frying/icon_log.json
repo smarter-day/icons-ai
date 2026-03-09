@@ -1,0 +1,142 @@
+{
+  "icon": "pan-frying",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "breakfast",
+        "cook",
+        "egg",
+        "fry"
+      ],
+      "ru": [
+        "завтрак",
+        "готовить",
+        "яйцо",
+        "жарить"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "breakfast eggs in frying pan",
+        "quick morning breakfast fry",
+        "cook sunny side up egg",
+        "cook bacon and eggs",
+        "egg frying in pan",
+        "over-easy egg in skillet",
+        "fry vegetables in pan",
+        "fry fish fillet"
+      ],
+      "ru": [
+        "яйца на завтрак на сковороде",
+        "быстрая утренняя жарка на завтрак",
+        "приготовить яичницу-глазунью",
+        "приготовить бекон и яйца",
+        "яйцо жарится на сковороде",
+        "яйцо перевёрнутое на сковороде",
+        "жарить овощи на сковороде",
+        "жарить рыбное филе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "frying pan with egg sizzling",
+        "skillet with breakfast food",
+        "egg in frying pan sunny side up",
+        "cooking breakfast in non-stick pan",
+        "sauté pan for quick frying",
+        "stovetop pan for morning fry-up",
+        "pan with butter and egg frying",
+        "cast iron skillet for egg frying",
+        "cooking icon for breakfast meal",
+        "frying pan with food bubbling"
+      ],
+      "ru": [
+        "сковорода с шипящим яйцом",
+        "сковорода с едой на завтрак",
+        "яйцо на сковороде глазунья",
+        "приготовление завтрака на антипригарной сковороде",
+        "сковорода для быстрой жарки",
+        "сковорода на плите для утренней жарки",
+        "сковорода с маслом и жарящимся яйцом",
+        "чугунная сковорода для жарки яиц",
+        "иконка приготовления для завтрака",
+        "сковорода с пузырящейся едой"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a frying pan icon for the breakfast recipe",
+        "add an egg in pan symbol to the cooking section",
+        "show a frying pan for the breakfast menu",
+        "use the pan icon for the morning cook screen"
+      ],
+      "ru": [
+        "Мне нужна иконка сковороды для рецепта завтрака",
+        "добавить символ яйца на сковороде в раздел приготовления",
+        "показать сковороду для меню завтрака",
+        "использовать иконку сковороды для экрана утренней готовки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "friyng pan egg",
+        "breakafst cook",
+        "eeg frying",
+        "pan fryng"
+      ],
+      "ru": [
+        "жаркая сковрода яйцо",
+        "утрений завтрак",
+        "яицо жарить",
+        "сковрода жарить"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "casserole dish for oven baking",
+        "pot with lid for boiling",
+        "wok for high-heat stir-fry",
+        "grill for barbecue cooking",
+        "toaster for making toast",
+        "deep fryer basket for french fries"
+      ],
+      "ru": [
+        "блюдо для запекания в духовке",
+        "кастрюля с крышкой для кипячения",
+        "вок для жарки на сильном огне",
+        "гриль для приготовления барбекю",
+        "тостер для приготовления тостов",
+        "корзина фритюрницы для картошки фри"
+      ]
+    },
+    "valid": {
+      "en": [
+        "frying pan with egg icon",
+        "breakfast cooking pan",
+        "egg fry in skillet"
+      ],
+      "ru": [
+        "иконка сковороды с яйцом",
+        "сковорода для приготовления завтрака",
+        "яйцо жарится на сковороде"
+      ]
+    },
+    "test": {
+      "en": [
+        "pan frying icon",
+        "fry egg in pan",
+        "breakfast cooking pan"
+      ],
+      "ru": [
+        "иконка жарки на сковороде",
+        "жарить яйцо на сковороде",
+        "сковорода приготовления завтрака"
+      ]
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "icon": "knife",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cut",
+        "cutlery",
+        "dining",
+        "equipment",
+        "silverware",
+        "tool"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Cut the vegetables with the knife",
+        "Cut the steak",
+        "Buy a complete cutlery set",
+        "Set the cutlery on the table",
+        "Set the table for dining",
+        "Book a dining experience",
+        "Buy the right equipment for cooking",
+        "Use sharp equipment",
+        "Polish the silverware",
+        "Wash the silverware after dinner",
+        "Use a knife as a cooking tool",
+        "Sharpen the knife tool"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Sharpen the kitchen knife",
+        "Use a chef's knife for chopping",
+        "Buy a new knife set",
+        "Slice bread with a bread knife",
+        "Cut vegetables for the stir-fry",
+        "Use a paring knife for peeling",
+        "Wash knives by hand",
+        "Store knives on a magnetic strip",
+        "Use a steak knife at dinner",
+        "Learn proper knife technique"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Sharpen the knife",
+        "Chop it up",
+        "New knife set",
+        "Slice and dice"
+      ]
+    },
+    "typo": {
+      "en": [
+        "sharpne the kitchn knife",
+        "use a chefs knofe",
+        "buy a new knive set",
+        "sliice bread wiht knife"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Set the table with fork and knife together",
+        "Use a spoon to stir the soup",
+        "Use scissors to cut wrapping paper",
+        "Use a peeler instead of a knife",
+        "Chop with a cleaver",
+        "Use a mandoline slicer"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Sharpen the kitchen knife",
+        "Use a chef's knife for chopping",
+        "Buy a new knife set"
+      ]
+    },
+    "test": {
+      "en": [
+        "Slice bread with a bread knife",
+        "Wash knives by hand",
+        "Learn proper knife technique"
+      ]
+    }
+  }
+}

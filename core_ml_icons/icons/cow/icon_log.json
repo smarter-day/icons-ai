@@ -1,0 +1,105 @@
+{
+  "icon": "cow",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "agriculture",
+        "animal",
+        "beef",
+        "bovine",
+        "cow",
+        "farm",
+        "fauna",
+        "livestock",
+        "mammal",
+        "milk",
+        "moo"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Visit an agriculture fair",
+        "Learn about modern agriculture",
+        "See the farm animals",
+        "Feed the animals at the farm",
+        "Buy beef at the butcher",
+        "Cook a beef steak for dinner",
+        "Learn about bovine farming",
+        "Bovine health check",
+        "See the cows in the field",
+        "Pet the cow at the farm",
+        "Visit the local farm",
+        "Take kids to the farm",
+        "Spot wildlife and fauna",
+        "Learn about local fauna",
+        "Buy livestock at the auction",
+        "Care for livestock",
+        "See the large mammals at the farm",
+        "Feed the mammals",
+        "Buy fresh milk at the farm",
+        "Pick up milk from the store",
+        "Hear the cow moo",
+        "Imitate a cow moo"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Visit a dairy farm",
+        "Buy fresh milk from the farm",
+        "Cook beef burgers for the BBQ",
+        "Take kids to a petting zoo",
+        "Learn about dairy farming",
+        "Watch cows graze in the field",
+        "Buy grass-fed beef at the market",
+        "Visit a ranch this weekend",
+        "Make a beef stew for dinner",
+        "Feed cows at the farm"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Farm visit!",
+        "Got milk?",
+        "Moo!",
+        "Beef for dinner"
+      ]
+    },
+    "typo": {
+      "en": [
+        "visitt the dairy fam",
+        "buy freesh milk",
+        "cook beeef burger",
+        "see the cows int he field"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Feed pigs at the farm",
+        "Ride a horse at the stable",
+        "See the goats at the petting zoo",
+        "Visit a sheep farm",
+        "Buy chicken at the butcher",
+        "Watch deer graze in the meadow"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Visit a dairy farm",
+        "Buy fresh milk",
+        "Cook beef for dinner"
+      ]
+    },
+    "test": {
+      "en": [
+        "Take kids to a farm",
+        "Buy grass-fed beef",
+        "Watch cows in the field"
+      ]
+    }
+  }
+}

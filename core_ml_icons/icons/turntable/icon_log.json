@@ -1,0 +1,154 @@
+{
+  "icon": "turntable",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "album",
+        "music",
+        "phonograph",
+        "record",
+        "record player",
+        "vinyl"
+      ],
+      "ru": [
+        "альбом",
+        "музыка",
+        "фонограф",
+        "пластинка",
+        "проигрыватель",
+        "винил"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "album spinning on turntable",
+        "vinyl album turntable play",
+        "music turntable DJ set",
+        "music on turntable needle",
+        "phonograph antique turntable",
+        "old phonograph turntable horn",
+        "record spinning turntable platter",
+        "record drop on turntable",
+        "record player needle playing",
+        "vintage record player cabinet",
+        "vinyl record turntable sound",
+        "vinyl collection turntable"
+      ],
+      "ru": [
+        "альбом крутится на проигрывателе",
+        "виниловый альбом проигрыватель воспроизведение",
+        "диджейский проигрыватель музыка",
+        "музыка на проигрывателе игла",
+        "антикварный фонограф проигрыватель",
+        "старый фонограф с раструбом",
+        "пластинка крутится вертушка",
+        "пластинка на вертушке",
+        "игла проигрывателя воспроизводит",
+        "старинный проигрыватель в шкафу",
+        "виниловая пластинка звук проигрывателя",
+        "коллекция винила вертушка"
+      ]
+    },
+    "regular": {
+      "en": [
+        "vintage vinyl record player turntable",
+        "DJ scratching on turntable",
+        "audiophile high-end turntable setup",
+        "belt-drive turntable needle drop",
+        "turntable needle on vinyl groove",
+        "dust cover open turntable",
+        "turntable bluetooth speaker combo",
+        "record collector new turntable",
+        "retro turntable living room decor",
+        "direct drive turntable DJ use"
+      ],
+      "ru": [
+        "винтажный проигрыватель виниловых пластинок",
+        "диджей скретчинг на вертушке",
+        "аудиофильский проигрыватель высшего класса",
+        "ременной привод проигрывателя игла",
+        "игла проигрывателя в канавке пластинки",
+        "открытая пылезащитная крышка проигрывателя",
+        "проигрыватель с Bluetooth-колонкой",
+        "новый проигрыватель коллекционера пластинок",
+        "ретро-проигрыватель декор гостиной",
+        "проигрыватель с прямым приводом для диджея"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a turntable icon for the music section",
+        "add a vinyl player symbol to the audio feature",
+        "show a turntable for the retro music category",
+        "use the turntable icon for the DJ mode"
+      ],
+      "ru": [
+        "нужна иконка проигрывателя для музыкального раздела",
+        "добавь символ проигрывателя винила в аудиофункцию",
+        "покажи проигрыватель для категории ретро-музыки",
+        "используй иконку проигрывателя для режима диджея"
+      ]
+    },
+    "typo": {
+      "en": [
+        "tuntable vinyl record",
+        "recrod player vintage",
+        "vnyl turntable music",
+        "phongraph antique"
+      ],
+      "ru": [
+        "вертушка виниловая пластинка",
+        "проигрыватель пластинок винтажный",
+        "винил проигрыватель музыка",
+        "фонограф антиквариат"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "CD player disc optical",
+        "cassette player tape walkman",
+        "radio speaker music broadcast",
+        "music note sound audio",
+        "headphones listening audio",
+        "speaker box music system"
+      ],
+      "ru": [
+        "CD-плеер диск оптический",
+        "кассетный плеер лента плеер",
+        "радиодинамик музыкальная трансляция",
+        "нота звук аудио",
+        "наушники прослушивание аудио",
+        "колонка музыкальная система"
+      ]
+    },
+    "valid": {
+      "en": [
+        "turntable vinyl record player",
+        "DJ turntable music icon",
+        "record player spinning"
+      ],
+      "ru": [
+        "проигрыватель виниловых пластинок",
+        "иконка диджейской вертушки",
+        "проигрыватель пластинок вращение"
+      ]
+    },
+    "test": {
+      "en": [
+        "turntable icon music",
+        "vinyl player symbol",
+        "record player turntable"
+      ],
+      "ru": [
+        "иконка проигрывателя музыка",
+        "символ виниловой вертушки",
+        "проигрыватель пластинок"
+      ]
+    }
+  }
+}

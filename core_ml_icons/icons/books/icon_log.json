@@ -1,0 +1,102 @@
+{
+  "icon": "books",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "book",
+        "books",
+        "diary",
+        "documentation",
+        "journal",
+        "knowledge",
+        "library",
+        "read",
+        "research",
+        "scholar"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "stack of books on the reading desk",
+        "books neatly arranged on shelf",
+        "pile of books for the course",
+        "books from the library collection",
+        "diary and journal books together",
+        "books including a personal diary",
+        "documentation books for the developer",
+        "technical books for API documentation",
+        "academic journal books on the shelf",
+        "research journal books in the library",
+        "books filled with knowledge",
+        "knowledge gained from reading books",
+        "library shelf full of books",
+        "library books available to borrow",
+        "read multiple books this month",
+        "books to read on the weekend",
+        "research books for the thesis",
+        "books used in academic research",
+        "scholar surrounded by stacks of books",
+        "scholarly books for academic study"
+      ]
+    },
+    "regular": {
+      "en": [
+        "multiple books stacked on a reading desk",
+        "colorful row of books on the library shelf",
+        "student surrounded by stacks of textbooks",
+        "pile of books ready for the course",
+        "books from different genres on the nightstand",
+        "academic books for thesis research",
+        "library catalog for browsing book collections",
+        "books on finance and self-improvement",
+        "three leather-bound books in a row",
+        "reading several books at the same time"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a books icon for the reading list feature",
+        "add a stack of books to the library section",
+        "show books for the knowledge base category",
+        "use the books icon for the curriculum page"
+      ]
+    },
+    "typo": {
+      "en": [
+        "stck of books on the desk",
+        "librarey books to borrow",
+        "resaerch books for study",
+        "knoweldge books on the shelf"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "single hardcover book with a decorative cover",
+        "leather bookmark with a tassel in the novel",
+        "built-in bookshelf covering the entire wall",
+        "open book with pages spread wide",
+        "e-reader device loaded with digital titles",
+        "ancient scroll with wax seal"
+      ]
+    },
+    "valid": {
+      "en": [
+        "stack of books for the library",
+        "multiple books for research",
+        "knowledge books on the shelf"
+      ]
+    },
+    "test": {
+      "en": [
+        "books icon for reading",
+        "library books collection",
+        "books for study"
+      ]
+    }
+  }
+}

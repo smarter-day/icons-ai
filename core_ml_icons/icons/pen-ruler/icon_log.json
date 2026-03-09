@@ -1,0 +1,154 @@
+{
+  "icon": "pen-ruler",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "design",
+        "draft",
+        "draw",
+        "maintenance",
+        "modify",
+        "pencil"
+      ],
+      "ru": [
+        "дизайн",
+        "чертёж",
+        "рисовать",
+        "обслуживание",
+        "изменить",
+        "карандаш"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "design tool with pen and ruler",
+        "design precision drawing",
+        "draft architectural blueprint",
+        "draft technical drawing",
+        "draw straight line with ruler",
+        "draw with precision tools",
+        "maintenance planning with pen ruler",
+        "maintenance schedule drafting",
+        "modify technical draft document",
+        "modify design with ruler",
+        "pencil and ruler precision work",
+        "pencil ruler for measurement"
+      ],
+      "ru": [
+        "инструмент дизайна с ручкой и линейкой",
+        "точный чертёж дизайна",
+        "архитектурный чертёж",
+        "техническое черчение",
+        "нарисовать прямую линию линейкой",
+        "рисовать точными инструментами",
+        "планирование обслуживания с ручкой и линейкой",
+        "составление плана обслуживания",
+        "изменить технический чертёж документа",
+        "изменить дизайн линейкой",
+        "точная работа карандашом и линейкой",
+        "карандаш линейка для измерения"
+      ]
+    },
+    "regular": {
+      "en": [
+        "ruler and pen crossed for design work",
+        "architect's tools pen and ruler",
+        "technical drawing with ruler pencil",
+        "precision measurement design icon",
+        "drafting tools for blueprint creation",
+        "CAD design pen and ruler symbol",
+        "engineering design tools icon",
+        "floor plan drafting pen ruler",
+        "graphic design precision tools",
+        "construction planning pen and ruler"
+      ],
+      "ru": [
+        "скрещенные линейка и ручка для дизайна",
+        "инструменты архитектора ручка и линейка",
+        "техническое черчение с линейкой и карандашом",
+        "иконка точного измерения дизайна",
+        "инструменты черчения для создания чертежа",
+        "символ ручки и линейки CAD дизайна",
+        "иконка инструментов инженерного дизайна",
+        "черчение плана этажа ручкой и линейкой",
+        "точные инструменты графического дизайна",
+        "ручка и линейка для планирования строительства"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pen and ruler icon for the design tools",
+        "add a drafting symbol to the blueprint section",
+        "show a pen ruler for the technical drawing feature",
+        "use the pen-ruler icon for the precision design screen"
+      ],
+      "ru": [
+        "Мне нужна иконка ручки и линейки для инструментов дизайна",
+        "добавить символ черчения в раздел чертежей",
+        "показать ручку-линейку для функции технического чертежа",
+        "использовать иконку ручки-линейки для экрана точного дизайна"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pne ruler design",
+        "draftign tools",
+        "ruller pen draw",
+        "pencli ruler"
+      ],
+      "ru": [
+        "ручка линека дизайн",
+        "инструменты чертжа",
+        "линейка ручка рисовтаь",
+        "карандш линейка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "compass for drawing circles",
+        "protractor for measuring angles",
+        "T-square for straight lines",
+        "set square for right angles",
+        "measuring tape for dimensions",
+        "level tool for horizontal check"
+      ],
+      "ru": [
+        "циркуль для рисования кругов",
+        "транспортир для измерения углов",
+        "угольник-линейка для прямых линий",
+        "угольник для прямых углов",
+        "рулетка для измерения",
+        "уровень для проверки горизонтальности"
+      ]
+    },
+    "valid": {
+      "en": [
+        "pen and ruler for design drafting",
+        "technical drawing tool icon",
+        "precision design pen ruler"
+      ],
+      "ru": [
+        "ручка и линейка для черчения дизайна",
+        "иконка инструмента технического чертежа",
+        "точный дизайн ручка линейка"
+      ]
+    },
+    "test": {
+      "en": [
+        "pen ruler icon",
+        "design drafting tools",
+        "technical drawing pen and ruler"
+      ],
+      "ru": [
+        "иконка ручки и линейки",
+        "инструменты черчения дизайна",
+        "техническое черчение ручкой и линейкой"
+      ]
+    }
+  }
+}

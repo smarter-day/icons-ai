@@ -1,0 +1,148 @@
+{
+  "icon": "paw",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "animal",
+        "cat",
+        "dog",
+        "pet",
+        "print"
+      ],
+      "ru": [
+        "животное",
+        "кот",
+        "собака",
+        "питомец",
+        "отпечаток"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "animal footprint paw mark",
+        "wild animal paw track",
+        "cat paw print on paper",
+        "cat paw mark on surface",
+        "dog paw print for pet app",
+        "dog footprint paw",
+        "pet adoption icon paw",
+        "my pet left a paw print",
+        "paw print decoration for pet lover",
+        "paw shaped print stamp"
+      ],
+      "ru": [
+        "след лапы животного",
+        "след лапы дикого животного",
+        "отпечаток кошачьей лапы на бумаге",
+        "след кошачьей лапы на поверхности",
+        "отпечаток собачьей лапы для приложения питомцев",
+        "след ноги собаки лапа",
+        "иконка усыновления питомца лапа",
+        "мой питомец оставил след лапы",
+        "украшение в виде следа лапы для любителей питомцев",
+        "штамп в форме лапы"
+      ]
+    },
+    "regular": {
+      "en": [
+        "dog or cat paw print on ground",
+        "pet store icon with paw symbol",
+        "animal rescue paw print logo",
+        "fur baby paw print keepsake",
+        "muddy dog paw mark on floor",
+        "veterinary clinic paw icon",
+        "pet tracker with paw print",
+        "wildlife tracking with paw print",
+        "bear claw paw print in snow",
+        "paw print heart for pet lover"
+      ],
+      "ru": [
+        "отпечаток лапы собаки или кошки на земле",
+        "иконка зоомагазина с символом лапы",
+        "логотип лапы приюта для животных",
+        "сувенир с отпечатком лапы питомца",
+        "грязный след лапы собаки на полу",
+        "иконка ветеринарной клиники лапа",
+        "трекер питомца с отпечатком лапы",
+        "отслеживание дикой природы по следу лапы",
+        "след медвежьей лапы в снегу",
+        "след лапы с сердечком для любителей животных"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a paw print icon for the pet tracker",
+        "add a paw symbol to the animal category",
+        "show a paw for the dog and cat section",
+        "use the paw icon for the pet adoption feature"
+      ],
+      "ru": [
+        "Мне нужна иконка следа лапы для трекера питомца",
+        "добавить символ лапы в категорию животных",
+        "показать лапу для раздела собак и кошек",
+        "использовать иконку лапы для функции усыновления питомца"
+      ]
+    },
+    "typo": {
+      "en": [
+        "paw prnt animal",
+        "dgo paw",
+        "aniimal paw",
+        "catp paw print"
+      ],
+      "ru": [
+        "след лапы жиовтное",
+        "собака лапка",
+        "животнок лапа",
+        "кошкаа след лапы"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "dog face emoji animal head",
+        "cat face with whiskers",
+        "bone for dog treat",
+        "pet collar or leash",
+        "animal footprint showing toes",
+        "bird claw or talon print"
+      ],
+      "ru": [
+        "морда собаки эмодзи голова животного",
+        "морда кошки с усами",
+        "кость для угощения собаки",
+        "ошейник или поводок питомца",
+        "след животного с пальцами",
+        "птичья лапа или коготь след"
+      ]
+    },
+    "valid": {
+      "en": [
+        "paw print for pet app",
+        "dog or cat paw icon",
+        "animal paw print symbol"
+      ],
+      "ru": [
+        "след лапы для приложения питомцев",
+        "иконка лапы собаки или кошки",
+        "символ следа лапы животного"
+      ]
+    },
+    "test": {
+      "en": [
+        "paw icon",
+        "pet paw print",
+        "dog cat animal paw"
+      ],
+      "ru": [
+        "иконка лапы",
+        "след лапы питомца",
+        "лапа собаки кошки животного"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "icon": "engine",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "car",
+        "engine"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "car engine under the hood",
+        "car engine warning light",
+        "engine running in the vehicle",
+        "engine power symbol"
+      ]
+    },
+    "regular": {
+      "en": [
+        "car engine under the open hood",
+        "engine warning light on the dashboard",
+        "powerful engine roaring at startup",
+        "engine maintenance at the garage",
+        "diesel engine of the truck",
+        "engine cylinder block in the shop",
+        "electric engine of the EV",
+        "engine oil check before the trip",
+        "turbocharged engine for performance",
+        "engine icon for the car settings"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an engine icon for the car diagnostics app",
+        "add an engine symbol to the vehicle section",
+        "show an engine for the car maintenance feature",
+        "use the engine icon for the power settings"
+      ]
+    },
+    "typo": {
+      "en": [
+        "car enigne warning light",
+        "egnine under the hood",
+        "enigne oil check",
+        "car engien power"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "car wheel and tire on the road",
+        "steering wheel in the cockpit",
+        "fuel gauge showing low tank",
+        "gear shift lever in the car",
+        "exhaust pipe emitting smoke",
+        "battery icon for the electric car"
+      ]
+    },
+    "valid": {
+      "en": [
+        "car engine under the hood",
+        "engine warning light",
+        "engine maintenance symbol"
+      ]
+    },
+    "test": {
+      "en": [
+        "engine icon",
+        "car engine symbol",
+        "engine for vehicle"
+      ]
+    }
+  }
+}

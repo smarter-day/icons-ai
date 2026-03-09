@@ -1,0 +1,102 @@
+{
+  "icon": "cloud-sun",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "clear",
+        "cloud",
+        "day",
+        "daytime",
+        "fall",
+        "outdoors",
+        "overcast",
+        "partly cloudy",
+        "sun",
+        "sun behind cloud"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Enjoy clear weather today",
+        "Clear skies for the picnic",
+        "Clouds rolling in this afternoon",
+        "Watch the clouds pass by",
+        "Have a great day outside",
+        "Plan activities for the day",
+        "Enjoy the daytime sunshine",
+        "Go out during daytime hours",
+        "Take kids out on a fall day",
+        "Enjoy the cool fall weather",
+        "Take the kids to play outdoors",
+        "Plan an outdoor activity",
+        "Overcast but still warm outside",
+        "Dress for overcast weather",
+        "Partly cloudy morning ahead",
+        "Partly cloudy but pleasant",
+        "Enjoy the sun between clouds",
+        "Sun is out today",
+        "Sun peeking behind the clouds",
+        "Enjoy sun behind cloud weather"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Check the weather before going out",
+        "Plan a picnic for a partly cloudy day",
+        "Take a walk in mild weather",
+        "Wear sunscreen even on a cloudy day",
+        "Pack a light jacket for the day",
+        "Check if it will rain today",
+        "Go for a run in mild weather",
+        "Enjoy the mild sunny day",
+        "Do outdoor chores today",
+        "Plan a bike ride for later"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Nice-ish day out",
+        "Little bit cloudy",
+        "Sunny with some clouds",
+        "Not bad weather today"
+      ]
+    },
+    "typo": {
+      "en": [
+        "partly clouyd day",
+        "check the wheter outside",
+        "cloudy but suny",
+        "go outdors today"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Heavy rain expected all day",
+        "Full sunshine and no clouds",
+        "Thunderstorm warning issued",
+        "Wear a raincoat today",
+        "Bring an umbrella for the day",
+        "Snow expected this afternoon"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Partly cloudy day ahead",
+        "Check weather for outdoor plans",
+        "Nice day with some clouds"
+      ]
+    },
+    "test": {
+      "en": [
+        "Take a walk on a partly cloudy day",
+        "Mild weather for outdoor activities",
+        "Enjoy cloud-and-sun weather"
+      ]
+    }
+  }
+}

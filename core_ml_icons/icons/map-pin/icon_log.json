@@ -1,0 +1,214 @@
+{
+  "icon": "map-pin",
+  "rows": {
+    "train_en": 72,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "address",
+        "agree",
+        "coordinates",
+        "destination",
+        "gps",
+        "localize",
+        "location",
+        "map",
+        "marker",
+        "navigation",
+        "pin",
+        "place",
+        "position",
+        "pushpin",
+        "round pushpin",
+        "travel"
+      ],
+      "ru": [
+        "адрес",
+        "согласен",
+        "координаты",
+        "пункт назначения",
+        "gps",
+        "локализация",
+        "местоположение",
+        "карта",
+        "маркер",
+        "навигация",
+        "булавка",
+        "место",
+        "позиция",
+        "кнопка-булавка",
+        "круглая кнопка",
+        "путешествие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "home address pinned on map",
+        "delivery address map pin",
+        "agree to meet at this pin",
+        "agreed location marked with pin",
+        "exact coordinates pin on map",
+        "map pin at GPS coordinates",
+        "destination pin for navigation",
+        "pin the destination on map",
+        "GPS pin showing location",
+        "GPS-based pin placement",
+        "localize with a push pin",
+        "localize on map using pin",
+        "drop location pin on map",
+        "location pin for current place",
+        "map with a push pin marker",
+        "map pin icon for marking spots",
+        "custom map marker pin",
+        "place marker pin on route",
+        "navigation pin for waypoint",
+        "navigation route pin",
+        "pin dropped at a destination",
+        "red pin marking important place",
+        "favorite place with a map pin",
+        "meeting place pinned",
+        "current position pin on map",
+        "GPS position pin marker",
+        "pushpin on a corkboard map",
+        "office pushpin for pinning notes",
+        "round pushpin icon in app",
+        "round pin button for selecting location",
+        "travel destination pin on map",
+        "travel route with pins"
+      ],
+      "ru": [
+        "домашний адрес прикреплён на карте",
+        "булавка карты для адреса доставки",
+        "согласиться встретиться у этой булавки",
+        "согласованное место отмечено булавкой",
+        "точные координаты булавки на карте",
+        "булавка карты по GPS координатам",
+        "булавка пункта назначения для навигации",
+        "закрепить пункт назначения на карте",
+        "GPS булавка показывающая местоположение",
+        "размещение булавки по GPS",
+        "локализовать с помощью кнопки-булавки",
+        "локализовать на карте с булавкой",
+        "бросить булавку местоположения на карту",
+        "булавка местоположения текущего места",
+        "карта с маркером кнопки-булавки",
+        "иконка булавки карты для отметки мест",
+        "пользовательский маркер булавки на карте",
+        "маркер места на маршруте",
+        "булавка навигации для путевой точки",
+        "булавка маршрута навигации",
+        "булавка упала у пункта назначения",
+        "красная булавка отмечающая важное место",
+        "любимое место с булавкой карты",
+        "место встречи закреплено",
+        "булавка текущей позиции на карте",
+        "маркер GPS позиции булавка",
+        "кнопка-булавка на пробковой доске карты",
+        "офисная кнопка для закрепления заметок",
+        "иконка круглой кнопки в приложении",
+        "круглая кнопка для выбора места",
+        "булавка пункта назначения путешествия",
+        "маршрут путешествия с булавками"
+      ]
+    },
+    "regular": {
+      "en": [
+        "red push pin dropped on a map to mark a spot",
+        "classic teardrop pin with rounded top marking location",
+        "map pin icon in a navigation or maps app",
+        "pin marker for a saved favorite place",
+        "waypoint pin on a road trip route",
+        "pinned location shared with friends",
+        "drop a pin for meeting location",
+        "hotel pin on travel map",
+        "multi-stop route with several pins",
+        "custom color-coded map pin"
+      ],
+      "ru": [
+        "красная кнопка-булавка упала на карту чтобы отметить место",
+        "классическая каплевидная булавка с округлой головкой отмечающая место",
+        "иконка булавки карты в навигационном приложении",
+        "маркер булавки для сохранённого любимого места",
+        "булавка путевой точки на маршруте поездки",
+        "закреплённое место поделился с друзьями",
+        "бросить булавку для места встречи",
+        "булавка отеля на карте путешествия",
+        "маршрут с несколькими остановками и булавками",
+        "пользовательская цветная булавка карты"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a map pin for the location picker",
+        "add a pushpin icon to the saved places list",
+        "show a map pin for the destination input",
+        "use the pin icon for marking locations on the map"
+      ],
+      "ru": [
+        "Мне нужна булавка карты для выбора места",
+        "добавить иконку кнопки в список сохранённых мест",
+        "показать булавку карты для ввода пункта назначения",
+        "использовать иконку булавки для отметки мест на карте"
+      ]
+    },
+    "typo": {
+      "en": [
+        "map pni dropped",
+        "pushpin locatoin",
+        "destiantion pin",
+        "naviagtion pin"
+      ],
+      "ru": [
+        "булавак карты",
+        "кнопка-булавак",
+        "местоположениа булавка",
+        "маршурт с булавками"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "teardrop location dot without a pin stem",
+        "GPS crosshairs reticle for targeting",
+        "location dot with filled solid circle",
+        "map showing a route line without pins",
+        "thumbtack pinning paper to a board",
+        "bookmark icon saving a web page"
+      ],
+      "ru": [
+        "каплевидная точка местоположения без стержня булавки",
+        "GPS прицел для наведения",
+        "точка местоположения с закрашенным кружком",
+        "карта показывающая линию маршрута без булавок",
+        "кнопка прикрепляющая бумагу к доске",
+        "иконка закладки сохраняющей веб-страницу"
+      ]
+    },
+    "valid": {
+      "en": [
+        "map pin marking a location",
+        "pushpin dropped on map",
+        "navigation pin for destination"
+      ],
+      "ru": [
+        "булавка карты отмечающая место",
+        "кнопка упала на карту",
+        "булавка навигации для пункта назначения"
+      ]
+    },
+    "test": {
+      "en": [
+        "map pin icon",
+        "red pushpin on map",
+        "location pin marker"
+      ],
+      "ru": [
+        "иконка булавки карты",
+        "красная кнопка на карте",
+        "маркер булавки местоположения"
+      ]
+    }
+  }
+}

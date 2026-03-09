@@ -1,0 +1,196 @@
+{
+  "icon": "user-large",
+  "rows": {
+    "train_en": 63,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "adult",
+        "bust",
+        "bust in silhouette",
+        "default",
+        "employee",
+        "gender-neutral",
+        "person",
+        "profile",
+        "silhouette",
+        "uer",
+        "unspecified gender",
+        "username",
+        "users-people"
+      ],
+      "ru": [
+        "взрослый",
+        "бюст",
+        "бюст в силуэте",
+        "по умолчанию",
+        "сотрудник",
+        "гендерно-нейтральный",
+        "человек",
+        "профиль",
+        "силуэт",
+        "пользователь",
+        "неопределённый пол",
+        "имя пользователя",
+        "пользователи"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "adult user profile icon",
+        "adult person account",
+        "bust silhouette user profile",
+        "bust person icon default",
+        "bust in silhouette profile picture",
+        "default bust profile",
+        "default user profile placeholder",
+        "default avatar icon",
+        "employee user account record",
+        "employee profile badge",
+        "gender-neutral person icon",
+        "gender-neutral user avatar",
+        "person user profile icon",
+        "person silhouette account",
+        "profile user large icon",
+        "large user profile picture",
+        "silhouette person user gray",
+        "silhouette avatar placeholder",
+        "user icon large profile",
+        "user account large button",
+        "unspecified gender person icon",
+        "neutral person profile",
+        "username user large display",
+        "username badge profile",
+        "users people group icon",
+        "multiple users people list"
+      ],
+      "ru": [
+        "взрослый профиль пользователя иконка",
+        "аккаунт взрослого человека",
+        "бюст силуэт профиль пользователя",
+        "бюст иконка человека по умолчанию",
+        "бюст в силуэте фото профиля",
+        "профиль по умолчанию бюст",
+        "заполнитель профиля пользователя по умолчанию",
+        "аватар по умолчанию иконка",
+        "аккаунт сотрудника запись",
+        "значок профиля сотрудника",
+        "гендерно-нейтральная иконка человека",
+        "гендерно-нейтральный аватар пользователя",
+        "иконка профиля человека пользователя",
+        "аккаунт силуэта человека",
+        "большая иконка профиля пользователя",
+        "большая картинка профиля",
+        "серый силуэт человека пользователя",
+        "аватар силуэт заполнитель",
+        "большая иконка пользователя профиль",
+        "большая кнопка аккаунта пользователя",
+        "иконка нейтрального пола человека",
+        "нейтральный профиль человека",
+        "имя пользователя большой дисплей",
+        "значок имени пользователя профиль",
+        "группа иконок пользователей",
+        "список нескольких пользователей"
+      ]
+    },
+    "regular": {
+      "en": [
+        "default user avatar profile picture",
+        "user account icon in navigation bar",
+        "generic person placeholder profile",
+        "my profile large user icon",
+        "login screen user icon large",
+        "user badge employee name",
+        "contact list user person icon",
+        "user settings account icon",
+        "anonymous user silhouette gray",
+        "app user icon top right corner"
+      ],
+      "ru": [
+        "аватар по умолчанию картинка профиля",
+        "иконка аккаунта в навигационной панели",
+        "универсальный заполнитель профиля человека",
+        "мой профиль большая иконка пользователя",
+        "экран входа большая иконка пользователя",
+        "значок сотрудника имя пользователя",
+        "список контактов иконка человека",
+        "настройки пользователя иконка аккаунта",
+        "анонимный пользователь серый силуэт",
+        "иконка пользователя приложения правый верхний угол"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a user icon for the profile section",
+        "add a person symbol to the account feature",
+        "show a default user for the login screen",
+        "use the user-large icon for the profile avatar"
+      ],
+      "ru": [
+        "нужна иконка пользователя для раздела профиля",
+        "добавь символ человека к функции аккаунта",
+        "покажи пользователя по умолчанию для экрана входа",
+        "используй большую иконку пользователя для аватара профиля"
+      ]
+    },
+    "typo": {
+      "en": [
+        "uesr profile icon large",
+        "persn profile silhouette",
+        "defualt user avatar",
+        "emloyee user account"
+      ],
+      "ru": [
+        "профиль пользователя иконка",
+        "силуэт человека профиль",
+        "аватар по умолчанию пользователь",
+        "аккаунт сотрудника пользователь"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "user group multiple people",
+        "user circle round frame",
+        "user shield protected account",
+        "user plus add new person",
+        "user check verified account",
+        "user doctor medical profile"
+      ],
+      "ru": [
+        "группа пользователей несколько людей",
+        "пользователь круг круглая рамка",
+        "пользователь щит защищённый аккаунт",
+        "пользователь плюс добавить человека",
+        "пользователь галочка подтверждённый аккаунт",
+        "врач-пользователь медицинский профиль"
+      ]
+    },
+    "valid": {
+      "en": [
+        "user profile icon default",
+        "person silhouette account",
+        "large user avatar"
+      ],
+      "ru": [
+        "иконка профиля пользователя по умолчанию",
+        "силуэт человека аккаунт",
+        "большой аватар пользователя"
+      ]
+    },
+    "test": {
+      "en": [
+        "user-large icon",
+        "person profile symbol",
+        "default user silhouette"
+      ],
+      "ru": [
+        "большая иконка пользователя",
+        "символ профиля человека",
+        "силуэт пользователя по умолчанию"
+      ]
+    }
+  }
+}

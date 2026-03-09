@@ -1,0 +1,84 @@
+{
+  "icon": "gingerbread-man",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cookie",
+        "decoration",
+        "frosting",
+        "holiday"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Bake gingerbread cookies",
+        "Decorate gingerbread man cookies",
+        "Put up holiday decorations",
+        "Buy Christmas decorations",
+        "Add frosting to the gingerbread",
+        "Pipe frosting on the cookie",
+        "Celebrate the holiday season",
+        "Plan holiday activities"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Bake gingerbread men for Christmas",
+        "Decorate gingerbread cookies with frosting",
+        "Make a gingerbread house",
+        "Give gingerbread cookies as gifts",
+        "Bake holiday cookies with the kids",
+        "Use cookie cutters for the gingerbread",
+        "Make gingerbread men for the school party",
+        "Decorate gingerbread with icing",
+        "Bake cookies for the holiday swap",
+        "Pack gingerbread cookies in a tin"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Bake gingerbread!",
+        "Holiday baking",
+        "Gingerbread time",
+        "Christmas cookies"
+      ]
+    },
+    "typo": {
+      "en": [
+        "bake gingerberd men",
+        "decorate gingerbeard cookies",
+        "make a gingerbread hous",
+        "holdiay bakign"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Bake regular sugar cookies",
+        "Decorate a Christmas cake",
+        "Make a holiday pie",
+        "Bake chocolate chip cookies",
+        "Make a snowman out of felt",
+        "Hang Christmas ornaments on the tree"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Bake gingerbread men for Christmas",
+        "Decorate gingerbread with frosting",
+        "Make a gingerbread house"
+      ]
+    },
+    "test": {
+      "en": [
+        "Give gingerbread cookies as gifts",
+        "Bake holiday cookies with the kids",
+        "Pack gingerbread cookies in a tin"
+      ]
+    }
+  }
+}

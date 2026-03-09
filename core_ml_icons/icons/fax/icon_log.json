@@ -1,0 +1,90 @@
+{
+  "icon": "fax",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "business",
+        "communicate",
+        "facsimile",
+        "fax",
+        "fax machine",
+        "send"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Send a business document by fax",
+        "Receive a business fax",
+        "Communicate via fax at the office",
+        "Use fax to communicate",
+        "Send a facsimile of the contract",
+        "Receive a facsimile",
+        "Send documents by fax",
+        "Use the fax machine at work",
+        "Set up the fax machine",
+        "Fix the fax machine paper jam",
+        "Send the signed form by fax",
+        "Send the report by fax"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Send a document by fax",
+        "Receive a fax from the client",
+        "Set up the fax machine at the office",
+        "Send the signed contract by fax",
+        "Check the fax inbox",
+        "Fax the insurance form",
+        "Send medical records by fax",
+        "Use the all-in-one printer to fax",
+        "Send a legal document by fax",
+        "Confirm the fax was received"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Fax it over",
+        "Send by fax",
+        "Fax the form",
+        "Old school fax"
+      ]
+    },
+    "typo": {
+      "en": [
+        "sned the documnet by fax",
+        "recieve a fax",
+        "fax the sigend contract",
+        "set up the fax machien"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Send a document by email",
+        "Scan and email the contract",
+        "Send a text message",
+        "Mail the letter by post",
+        "Share the document via cloud",
+        "Print and hand-deliver the form"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Send a document by fax",
+        "Set up the fax machine",
+        "Fax the signed contract"
+      ]
+    },
+    "test": {
+      "en": [
+        "Send medical records by fax",
+        "Check the fax inbox",
+        "Confirm the fax was received"
+      ]
+    }
+  }
+}

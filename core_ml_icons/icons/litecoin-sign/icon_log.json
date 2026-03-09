@@ -1,0 +1,75 @@
+{
+  "icon": "litecoin-sign",
+  "rows": {
+    "train_en": 27,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "currency"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy Litecoin cryptocurrency",
+        "Check Litecoin price"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy Litecoin on the exchange",
+        "Check the Litecoin price",
+        "Transfer Litecoin to the wallet",
+        "Invest in Litecoin",
+        "Trade Litecoin for Bitcoin",
+        "Set up a Litecoin wallet",
+        "Sell Litecoin on the exchange",
+        "Track Litecoin portfolio",
+        "Convert Litecoin to dollars",
+        "Learn about Litecoin cryptocurrency"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Buy Litecoin",
+        "Crypto trade",
+        "LTC price check",
+        "Litecoin wallet"
+      ]
+    },
+    "typo": {
+      "en": [
+        "buy litcoin on exchagne",
+        "chekc liteocin price",
+        "transefr litecoin to walelt",
+        "invets in litecoin"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy Bitcoin instead",
+        "Trade Ethereum",
+        "Use a regular bank currency",
+        "Exchange for US dollars",
+        "Invest in Dogecoin",
+        "Use a stablecoin"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Buy Litecoin on the exchange",
+        "Check the Litecoin price",
+        "Transfer Litecoin to the wallet"
+      ]
+    },
+    "test": {
+      "en": [
+        "Invest in Litecoin",
+        "Set up a Litecoin wallet",
+        "Convert Litecoin to dollars"
+      ]
+    }
+  }
+}

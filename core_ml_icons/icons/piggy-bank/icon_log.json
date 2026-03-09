@@ -1,0 +1,142 @@
+{
+  "icon": "piggy-bank",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bank",
+        "salary",
+        "save",
+        "savings"
+      ],
+      "ru": [
+        "банк",
+        "зарплата",
+        "откладывать",
+        "сбережения"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bank savings piggy bank",
+        "bank account savings icon",
+        "put salary into savings",
+        "save part of salary",
+        "save money in piggy bank",
+        "save coins in a jar",
+        "long-term savings goal piggy bank",
+        "personal savings fund"
+      ],
+      "ru": [
+        "сбережения копилки в банке",
+        "иконка банковских сбережений",
+        "откладывать зарплату в сбережения",
+        "сохранить часть зарплаты",
+        "откладывать деньги в копилку",
+        "откладывать монеты в банке",
+        "долгосрочная цель сбережений копилка",
+        "фонд личных сбережений"
+      ]
+    },
+    "regular": {
+      "en": [
+        "ceramic pig-shaped piggy bank",
+        "insert coin into piggy bank slot",
+        "save money for future goals",
+        "children's piggy bank for allowance",
+        "pink piggy bank for savings",
+        "break the piggy bank to use savings",
+        "savings account balance icon",
+        "financial goal saving money jar",
+        "retirement savings piggy bank",
+        "personal finance savings icon"
+      ],
+      "ru": [
+        "керамическая копилка в форме свиньи",
+        "вставить монету в щель копилки",
+        "откладывать деньги для будущих целей",
+        "детская копилка для карманных денег",
+        "розовая копилка для сбережений",
+        "разбить копилку чтобы воспользоваться сбережениями",
+        "иконка баланса сберегательного счёта",
+        "банка для накопления финансовой цели",
+        "копилка пенсионных накоплений",
+        "иконка личных финансов сбережений"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a piggy bank icon for the savings feature",
+        "add a savings icon to the financial section",
+        "show a piggy bank for the budget savings screen",
+        "use the piggy bank icon for the salary savings goal"
+      ],
+      "ru": [
+        "Мне нужна иконка копилки для функции сбережений",
+        "добавить иконку сбережений в финансовый раздел",
+        "показать копилку для экрана бюджетных сбережений",
+        "использовать иконку копилки для цели сбережений зарплаты"
+      ]
+    },
+    "typo": {
+      "en": [
+        "piggy bnak savings",
+        "savigns piggy bank",
+        "piggey bank",
+        "savigs goal"
+      ],
+      "ru": [
+        "копилка банк сберженеия",
+        "сбережния копилка",
+        "копилак сбережения",
+        "накопление цел"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "money bill cash payment",
+        "credit card digital payment",
+        "wallet for holding money",
+        "safe box for valuables",
+        "bank building for financial services",
+        "coin stack for small currency"
+      ],
+      "ru": [
+        "денежная купюра наличная оплата",
+        "кредитная карта цифровая оплата",
+        "кошелёк для хранения денег",
+        "сейф для ценностей",
+        "здание банка для финансовых услуг",
+        "стопка монет для мелкой валюты"
+      ]
+    },
+    "valid": {
+      "en": [
+        "piggy bank for saving money",
+        "ceramic pig savings icon",
+        "save money piggy bank"
+      ],
+      "ru": [
+        "копилка для экономии денег",
+        "иконка керамической свиньи-копилки",
+        "откладывать деньги в копилку"
+      ]
+    },
+    "test": {
+      "en": [
+        "piggy bank icon",
+        "savings money pig",
+        "bank save salary"
+      ],
+      "ru": [
+        "иконка копилки",
+        "копилка сбережения деньги",
+        "банк откладывать зарплату"
+      ]
+    }
+  }
+}

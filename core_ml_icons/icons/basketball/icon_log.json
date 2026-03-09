@@ -1,0 +1,90 @@
+{
+  "icon": "basketball",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ball",
+        "basketball",
+        "dribble",
+        "dunk",
+        "hoop",
+        "nba"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "orange ball with curved black seams",
+        "ball used in a basketball match",
+        "basketball game on the court",
+        "basketball rolling on hardwood floor",
+        "dribble the ball past the defender",
+        "fast dribbling move down the lane",
+        "slam dunk through the hoop",
+        "dunk the ball with two hands",
+        "ball through the hoop for two points",
+        "metal hoop hanging from the backboard",
+        "watching the NBA finals on TV",
+        "NBA team uniform with player number"
+      ]
+    },
+    "regular": {
+      "en": [
+        "orange basketball with black curved seam lines",
+        "player dribbling down the basketball court",
+        "slam dunk over the defensive player",
+        "basketball bouncing on hardwood floor",
+        "shooting a free throw toward the basket",
+        "NBA professional basketball playoff game",
+        "basketball net swishing after a score",
+        "outdoor basketball hoop on asphalt court",
+        "pickup game of basketball at the park",
+        "basketball spinning on top of a fingertip"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a basketball icon for my sports app",
+        "add a ball icon to the NBA scores section",
+        "show a basketball for the team category",
+        "use the hoop icon for the sports news feed"
+      ]
+    },
+    "typo": {
+      "en": [
+        "basektball court",
+        "dribling the ball down court",
+        "dunk thrugh the hoop",
+        "basketbll game tonight"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "black and white soccer ball on grass field",
+        "white volleyball being spiked over the net",
+        "yellow tennis ball on red clay court",
+        "American football with white laces",
+        "baseball with red stitching on white leather",
+        "rugby ball with a pointed oval shape"
+      ]
+    },
+    "valid": {
+      "en": [
+        "basketball with curved black seam lines",
+        "NBA basketball for sports app",
+        "hoop for basketball scoring"
+      ]
+    },
+    "test": {
+      "en": [
+        "orange basketball symbol",
+        "basketball dribbling icon",
+        "slam dunk basketball"
+      ]
+    }
+  }
+}

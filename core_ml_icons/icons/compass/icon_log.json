@@ -1,0 +1,102 @@
+{
+  "icon": "compass",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "compass",
+        "directions",
+        "directory",
+        "location",
+        "magnetic",
+        "menu",
+        "navigation",
+        "orienteering",
+        "safari",
+        "travel"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Use a compass to navigate the trail",
+        "Find direction with a compass",
+        "Get directions to the venue",
+        "Ask for directions in the city",
+        "Search the directory for the address",
+        "Browse the business directory",
+        "Share my current location",
+        "Find my location on the map",
+        "Check the magnetic north",
+        "Use a magnetic compass for hiking",
+        "Open the app menu",
+        "Find the right option in the menu",
+        "Use the navigation app",
+        "Navigation for the road trip",
+        "Try orienteering in the park",
+        "Join an orienteering event",
+        "Open Safari on my Mac",
+        "Browse the web in Safari",
+        "Plan the travel route",
+        "Navigate during travel abroad"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Find the way to the new restaurant",
+        "Navigate through the hiking trail",
+        "Get directions for the commute",
+        "Use the compass app on the phone",
+        "Plan a route for the road trip",
+        "Find north on the trail map",
+        "Navigate in a new city",
+        "Download an offline map for hiking",
+        "Orient yourself on the trail",
+        "Follow the compass heading"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Which way is north?",
+        "Need directions",
+        "Find the way",
+        "Navigation help"
+      ]
+    },
+    "typo": {
+      "en": [
+        "use a compas to navigate",
+        "get directoins to the place",
+        "navgation for the hike",
+        "find my locaion"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use a drafting compass to draw a circle",
+        "Draw a perfect circle with a drafting tool",
+        "Use GPS tracker on phone",
+        "Check the map for altitude",
+        "Read a topographic map",
+        "Use a ruler to measure distances on the map"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Navigate with a compass",
+        "Get directions to the destination",
+        "Find the trail with the compass"
+      ]
+    },
+    "test": {
+      "en": [
+        "Orient yourself on the hiking trail",
+        "Navigate in an unfamiliar city",
+        "Use compass for outdoor navigation"
+      ]
+    }
+  }
+}

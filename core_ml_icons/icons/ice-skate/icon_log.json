@@ -1,0 +1,93 @@
+{
+  "icon": "ice-skate",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "figure skating",
+        "hockey",
+        "ice",
+        "ice skate",
+        "seasonal",
+        "shoe",
+        "skate"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Watch figure skating at the Olympics",
+        "Practice figure skating moves",
+        "Play hockey on the ice",
+        "Buy hockey ice skates",
+        "Book ice time at the rink",
+        "Skate on the outdoor ice rink",
+        "Learn to ice skate",
+        "Rent ice skates at the rink",
+        "Enjoy a seasonal activity in winter",
+        "Ice skate as a seasonal activity",
+        "Buy ice skate shoes",
+        "Get the right shoe size for skates",
+        "Glide on the ice with skates",
+        "Practice stopping on skates"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Go ice skating at the rink",
+        "Rent ice skates at the venue",
+        "Take ice skating lessons",
+        "Buy ice skates for the winter",
+        "Skate on the outdoor rink",
+        "Watch figure skating competition",
+        "Practice hockey skating",
+        "Ice skate with the family",
+        "Sharpen the ice skate blades",
+        "Pack warm clothes for ice skating"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Ice skating!",
+        "Hit the rink",
+        "Winter skate",
+        "Figure skating"
+      ]
+    },
+    "typo": {
+      "en": [
+        "go ice skatign at the rnik",
+        "rent ice skatse",
+        "take ice skaitng lessons",
+        "wach figure skatign"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Go skiing on the mountain",
+        "Try snowboarding this winter",
+        "Play ice hockey without skates",
+        "Go roller skating instead",
+        "Wear snow boots for winter",
+        "Go curling on the ice"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Go ice skating at the rink",
+        "Take ice skating lessons",
+        "Watch figure skating competition"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy ice skates for winter",
+        "Skate on the outdoor rink",
+        "Ice skate with the family"
+      ]
+    }
+  }
+}

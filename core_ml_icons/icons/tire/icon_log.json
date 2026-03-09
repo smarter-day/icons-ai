@@ -1,0 +1,148 @@
+{
+  "icon": "tire",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "auto",
+        "car",
+        "rim",
+        "rubber",
+        "wheel"
+      ],
+      "ru": [
+        "авто",
+        "машина",
+        "диск",
+        "резина",
+        "колесо"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "auto tire flat on road",
+        "tire change auto service",
+        "car tire black rubber",
+        "car tire tread pattern",
+        "rim tire alloy wheel",
+        "chrome rim on car",
+        "rubber tire durable material",
+        "rubber tire grip road",
+        "car wheel tire assembly",
+        "spare wheel tire boot"
+      ],
+      "ru": [
+        "пробитая шина авто на дороге",
+        "замена шины сервис авто",
+        "автомобильная шина чёрная резина",
+        "протектор автомобильной шины рисунок",
+        "диск шина легкосплавное колесо",
+        "хромированный диск на автомобиле",
+        "резиновая шина прочный материал",
+        "резиновая шина сцепление с дорогой",
+        "колесо автомобиля в сборе",
+        "запасное колесо шина в багажнике"
+      ]
+    },
+    "regular": {
+      "en": [
+        "black rubber car tire with tread",
+        "flat tire on roadside emergency",
+        "tire rotation service at garage",
+        "winter snow tire studded",
+        "tire pressure check PSI",
+        "all season tire highway driving",
+        "tire tread depth wear indicator",
+        "spare tire donut compact",
+        "off-road monster truck tire",
+        "recycle old tire repurpose"
+      ],
+      "ru": [
+        "чёрная резиновая автомобильная шина с протектором",
+        "пробитая шина экстренная ситуация на обочине",
+        "ротация шин сервис в гараже",
+        "зимняя шина с шипами",
+        "проверка давления в шинах PSI",
+        "всесезонная шина езда по шоссе",
+        "глубина протектора индикатор износа",
+        "запасное колесо компакт-тип докатка",
+        "внедорожная шина монстер-трака",
+        "утилизация старых шин повторное использование"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a tire icon for the auto service section",
+        "add a wheel symbol to the car maintenance feature",
+        "show a tire for the vehicle checklist",
+        "use the tire icon for the road safety category"
+      ],
+      "ru": [
+        "нужна иконка шины для раздела автосервиса",
+        "добавь символ колеса к функции обслуживания авто",
+        "покажи шину для контрольного списка транспортного средства",
+        "используй иконку шины для категории безопасности на дороге"
+      ]
+    },
+    "typo": {
+      "en": [
+        "falt tire car",
+        "tyre rubber black",
+        "weel tire assembly",
+        "auto tyre change"
+      ],
+      "ru": [
+        "пробитая шина авто",
+        "шина резина чёрная",
+        "колесо в сборе шина",
+        "замена шины авто"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "steering wheel car control",
+        "car engine hood open",
+        "brake disc rotor stopping",
+        "axle car chassis part",
+        "hubcap wheel cover decorative",
+        "bicycle tire thin wheel"
+      ],
+      "ru": [
+        "руль управление автомобилем",
+        "двигатель авто открытый капот",
+        "тормозной диск ротор остановка",
+        "ось шасси автомобиля",
+        "колпак колеса декоративный",
+        "велосипедная шина тонкое колесо"
+      ]
+    },
+    "valid": {
+      "en": [
+        "car tire wheel icon",
+        "rubber tire symbol",
+        "auto tire service"
+      ],
+      "ru": [
+        "иконка шины колеса авто",
+        "символ резиновой шины",
+        "сервис шин авто"
+      ]
+    },
+    "test": {
+      "en": [
+        "tire icon car",
+        "wheel tire rubber",
+        "auto tire symbol"
+      ],
+      "ru": [
+        "иконка шины авто",
+        "колесо шина резина",
+        "символ шины авто"
+      ]
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "icon": "dumbbell",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "exercise",
+        "gym",
+        "strength",
+        "weight",
+        "weight-lifting",
+        "workout"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Do exercise in the morning",
+        "Follow the exercise plan",
+        "Go to the gym today",
+        "Sign up for the gym",
+        "Build strength with resistance training",
+        "Improve core strength",
+        "Lift weights at the gym",
+        "Buy a set of weights",
+        "Practice weight-lifting technique",
+        "Enter a weight-lifting competition",
+        "Plan the weekly workout",
+        "Complete the workout routine"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Go to the gym",
+        "Lift weights in the morning",
+        "Do a full body workout",
+        "Buy dumbbells for the home gym",
+        "Follow a strength training program",
+        "Work out with a personal trainer",
+        "Complete the leg day workout",
+        "Build muscle with weight training",
+        "Rest between workout sets",
+        "Track gym progress"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Gym time!",
+        "Lift some weights",
+        "Workout today",
+        "Hit the gym"
+      ]
+    },
+    "typo": {
+      "en": [
+        "go to the gmy",
+        "lift wieghts",
+        "do a workoout",
+        "strenght training"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Go for a morning run",
+        "Do yoga for flexibility",
+        "Ride the exercise bike",
+        "Swim laps at the pool",
+        "Play tennis for cardio",
+        "Do push-ups at home"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Go to the gym",
+        "Lift weights in the morning",
+        "Follow a strength training program"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy dumbbells for home",
+        "Complete the workout routine",
+        "Build muscle with weight training"
+      ]
+    }
+  }
+}

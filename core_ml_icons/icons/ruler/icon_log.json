@@ -1,0 +1,166 @@
+{
+  "icon": "ruler",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "design",
+        "draft",
+        "length",
+        "measure",
+        "planning",
+        "ruler",
+        "straight edge",
+        "straight ruler"
+      ],
+      "ru": [
+        "дизайн",
+        "чертёж",
+        "длина",
+        "измерение",
+        "планирование",
+        "линейка",
+        "прямое ребро",
+        "прямая линейка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "design tool ruler for laying out elements",
+        "graphic design ruler in canvas",
+        "technical draft with ruler for precise lines",
+        "draft blueprint using ruler",
+        "measure length with a ruler",
+        "length measured in centimeters on ruler",
+        "measure distance with metric ruler",
+        "measure width of printed page",
+        "planning layout with ruler and grid",
+        "planning room dimensions with ruler",
+        "wooden ruler on school desk",
+        "12-inch plastic ruler for homework",
+        "straight edge ruler for cutting mat",
+        "straight edge guide for knife cutting",
+        "straight ruler drawing parallel lines",
+        "straight ruler aligned on paper"
+      ],
+      "ru": [
+        "инструмент дизайна линейка для разметки",
+        "линейка в холсте графического дизайна",
+        "технический чертёж с линейкой для точных линий",
+        "чертёж плана с линейкой",
+        "измерить длину линейкой",
+        "длина измерена в сантиметрах на линейке",
+        "измерить расстояние метрической линейкой",
+        "измерить ширину печатной страницы",
+        "планировка с линейкой и сеткой",
+        "планировка комнаты с линейкой",
+        "деревянная линейка на школьной парте",
+        "30-сантиметровая пластиковая линейка для домашней работы",
+        "прямолинейка для коврика для резки",
+        "прямое ребро для резки ножом",
+        "прямая линейка для параллельных линий",
+        "прямая линейка на бумаге"
+      ]
+    },
+    "regular": {
+      "en": [
+        "30 cm wooden ruler with millimeter markings",
+        "metal straight-edge ruler for precision cutting",
+        "digital ruler on screen for measuring elements",
+        "drafting table with ruler and compass",
+        "architect's scale ruler for blueprints",
+        "ruler held against paper to draw straight line",
+        "ruler with cm and inch markings on both sides",
+        "school ruler with transparent plastic",
+        "ruler icon in design software toolbar",
+        "tailor's ruler for measuring fabric"
+      ],
+      "ru": [
+        "30-сантиметровая деревянная линейка с миллиметровыми делениями",
+        "металлическая прямолинейка для точной резки",
+        "цифровая линейка на экране для измерения элементов",
+        "чертёжный стол с линейкой и циркулем",
+        "масштабная линейка архитектора для чертежей",
+        "линейка приложена к бумаге для прямой линии",
+        "линейка с делениями в см и дюймах с обеих сторон",
+        "школьная линейка из прозрачного пластика",
+        "иконка линейки на панели инструментов дизайна",
+        "портновская линейка для измерения ткани"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a ruler icon for the design tools panel",
+        "add a measure symbol to the drawing feature",
+        "show a ruler for the planning and layout screen",
+        "use the ruler icon for the precision tools section"
+      ],
+      "ru": [
+        "мне нужна иконка линейки для панели инструментов дизайна",
+        "добавь символ измерения в функцию рисования",
+        "покажи линейку для экрана планирования и вёрстки",
+        "используй иконку линейки для раздела точных инструментов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "30 cm wooden rulre with mm markings",
+        "metal stright-edge ruler for cutting",
+        "drafitng table with ruler and compass",
+        "rulre icon in design software toolbar"
+      ],
+      "ru": [
+        "деревянная линейкя с миллиметровыми делениями",
+        "металличская прямолинейка для резки",
+        "чертёжный столь с линейкой и циркулем",
+        "иконка линейкки в панели дизайна"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "tape measure pulled from yellow housing",
+        "protractor semicircle for measuring angles",
+        "compass drawing circle on paper",
+        "set square triangle for right angles",
+        "pencil drawing freehand sketch",
+        "grid paper with graph lines for plotting"
+      ],
+      "ru": [
+        "рулетка извлечена из жёлтого корпуса",
+        "транспортир полукруг для измерения углов",
+        "циркуль рисует окружность на бумаге",
+        "угольник треугольник для прямых углов",
+        "карандаш рисует эскиз от руки",
+        "миллиметровая бумага с линиями сетки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "wooden ruler with centimeter markings",
+        "straight edge ruler for precision design",
+        "ruler icon in drawing tools panel"
+      ],
+      "ru": [
+        "деревянная линейка с сантиметровыми делениями",
+        "прямолинейка для точного дизайна",
+        "иконка линейки в панели инструментов"
+      ]
+    },
+    "test": {
+      "en": [
+        "30 cm ruler for measuring length",
+        "metal ruler as straight edge guide",
+        "ruler tool in graphic design software"
+      ],
+      "ru": [
+        "30-сантиметровая линейка для измерения длины",
+        "металлическая линейка как прямолинейка",
+        "инструмент линейки в графическом редакторе"
+      ]
+    }
+  }
+}

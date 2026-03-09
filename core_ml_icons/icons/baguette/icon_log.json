@@ -1,0 +1,148 @@
+{
+  "icon": "baguette",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "baguette",
+        "bread",
+        "french",
+        "loaf",
+        "sourdough"
+      ],
+      "ru": [
+        "багет",
+        "хлеб",
+        "французский",
+        "буханка",
+        "хлеб на закваске"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "pick up a baguette on the way home",
+        "buy some fresh bread",
+        "french bread for dinner",
+        "grab a loaf from the bakery",
+        "try the sourdough at that new place",
+        "Warm baguette from the bakery",
+        "Bread basket for the dinner table",
+        "French cuisine cooking class this weekend",
+        "Whole loaf for the week's sandwiches",
+        "Sourdough starter recipe to try"
+      ],
+      "ru": [
+        "взять багет по дороге домой",
+        "купить свежий хлеб",
+        "французский хлеб к ужину",
+        "взять буханку в пекарне",
+        "попробовать хлеб на закваске в том новом месте",
+        "Тёплый багет из булочной",
+        "Хлебная корзина к ужину",
+        "Кулинарный класс по французской кухне в выходные",
+        "Целая буханка для бутербродов на неделю",
+        "Рецепт закваски для хлеба"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Get a fresh baguette from the bakery",
+        "Baguette for the cheese board",
+        "Pick up some sourdough bread",
+        "Grab a loaf for the soup",
+        "French bread with dinner tonight",
+        "Slice up the baguette for guests",
+        "Order artisan bread online",
+        "Fresh bread for the weekend",
+        "Baguette and wine night",
+        "Bread run before the party"
+      ],
+      "ru": [
+        "Купить свежий багет в пекарне",
+        "Багет для сырной тарелки",
+        "Купить хлеб на закваске",
+        "Взять буханку к супу",
+        "Французский хлеб к ужину сегодня",
+        "Нарезать багет для гостей",
+        "Заказать ремесленный хлеб онлайн",
+        "Свежий хлеб на выходные",
+        "Вечер с багетом и вином",
+        "Купить хлеб перед вечеринкой"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I really want some fresh bread tonight",
+        "Let's grab a baguette on the way",
+        "Nothing beats a warm baguette from the bakery",
+        "I could go for some crusty bread right now"
+      ],
+      "ru": [
+        "Очень хочу свежего хлеба сегодня вечером",
+        "Давай возьмём багет по дороге",
+        "Нет ничего лучше тёплого багета из пекарни",
+        "Что-то хочется хрустящего хлеба прямо сейчас"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Baguete from the bakery",
+        "Pick up some bred",
+        "Grab a sourdogh loaf",
+        "Frenh bread tonight"
+      ],
+      "ru": [
+        "Багет из пакарни",
+        "Купить свежий хлеп",
+        "Взять буханку на заквасе",
+        "Французкий хлеб на вечер"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Pick up a bagel from the bakery",
+        "Get some croissants for breakfast",
+        "Buy a cake from the patisserie",
+        "Toast for breakfast",
+        "Crackers and cheese platter",
+        "Whole wheat sandwich bread"
+      ],
+      "ru": [
+        "Купить бейгл в пекарне",
+        "Взять круассаны на завтрак",
+        "Купить торт в кондитерской",
+        "Тост на завтрак",
+        "Тарелка с крекерами и сыром",
+        "Хлеб для сэндвичей из цельнозерновой муки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Baguette for the picnic",
+        "Fresh sourdough loaf this morning",
+        "Crusty bread for the stew"
+      ],
+      "ru": [
+        "Багет для пикника",
+        "Свежая буханка на закваске с утра",
+        "Хрустящий хлеб к рагу"
+      ]
+    },
+    "test": {
+      "en": [
+        "A warm loaf from the corner bakery",
+        "French bread with the pasta",
+        "Grab bread before dinner"
+      ],
+      "ru": [
+        "Тёплая буханка из соседней пекарни",
+        "Французский хлеб с пастой",
+        "Купить хлеб перед ужином"
+      ]
+    }
+  }
+}

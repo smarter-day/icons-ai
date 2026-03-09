@@ -1,0 +1,172 @@
+{
+  "icon": "masks-theater",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "art",
+        "comedy",
+        "mask",
+        "perform",
+        "performing",
+        "performing arts",
+        "theater",
+        "theatre",
+        "tragedy"
+      ],
+      "ru": [
+        "искусство",
+        "комедия",
+        "маска",
+        "выступать",
+        "выступление",
+        "исполнительское искусство",
+        "театр",
+        "театр",
+        "трагедия"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "performing art gallery installation",
+        "visual art and theater combined",
+        "comedy show with laughing mask",
+        "comedy and drama theater masks",
+        "theater mask worn by actor",
+        "Greek drama theater mask",
+        "perform on stage with masks",
+        "perform in front of live audience",
+        "performing arts center schedule",
+        "performing arts festival",
+        "performing arts masks comedy and tragedy",
+        "performing arts symbol masks",
+        "theater masks hanging on wall",
+        "Broadway theater iconic masks",
+        "theatre production masks decor",
+        "theatre performance symbol",
+        "tragedy mask with downturned mouth",
+        "Greek tragedy mask dramatic"
+      ],
+      "ru": [
+        "инсталляция галереи исполнительского искусства",
+        "изобразительное и театральное искусство",
+        "комедийное шоу со смеющейся маской",
+        "маски театра комедии и драмы",
+        "театральная маска надетая актёром",
+        "греческая театральная маска",
+        "выступать на сцене в масках",
+        "выступать перед живой аудиторией",
+        "расписание центра исполнительских искусств",
+        "фестиваль исполнительских искусств",
+        "маски исполнительских искусств комедии и трагедии",
+        "символ маски исполнительских искусств",
+        "театральные маски на стене",
+        "иконические маски Бродвейского театра",
+        "декор масок театральной постановки",
+        "символ театрального представления",
+        "маска трагедии с опущенными углами рта",
+        "драматическая греческая маска трагедии"
+      ]
+    },
+    "regular": {
+      "en": [
+        "comedy and tragedy masks side by side",
+        "classic Greek theater drama masks",
+        "happy and sad faces of theatrical masks",
+        "Broadway drama masks symbol",
+        "smiling and frowning mask pair",
+        "theater department logo with masks",
+        "drama club masks for performance",
+        "Melpomene and Thalia theater masks",
+        "actor behind theatrical face mask",
+        "film and theater arts program symbol"
+      ],
+      "ru": [
+        "маски комедии и трагедии рядом",
+        "классические греческие театральные маски",
+        "счастливое и грустное лица театральных масок",
+        "символ масок Бродвейской драмы",
+        "пара улыбающейся и хмурящейся масок",
+        "логотип театрального отдела с масками",
+        "маски театрального кружка для выступления",
+        "театральные маски Мельпомены и Талии",
+        "актёр за театральной маской",
+        "символ программы кино и театрального искусства"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need theater masks icon for the arts section",
+        "add drama masks to the entertainment category",
+        "show comedy and tragedy masks for the theater app",
+        "use the theater masks icon for performing arts"
+      ],
+      "ru": [
+        "Мне нужна иконка театральных масок для раздела искусств",
+        "добавить маски драмы в категорию развлечений",
+        "показать маски комедии и трагедии для театрального приложения",
+        "использовать иконку театральных масок для исполнительских искусств"
+      ]
+    },
+    "typo": {
+      "en": [
+        "theather masks",
+        "comdy and tragedy masks",
+        "perfoming arts masks",
+        "teatre masks"
+      ],
+      "ru": [
+        "театр маски комедиа",
+        "трагедяи маска",
+        "исполниетельское искусство",
+        "масик театра"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "medical respirator ventilator mask",
+        "Halloween costume face mask",
+        "masquerade ball ornate mask",
+        "surgical face mask for infection control",
+        "ski mask for cold weather",
+        "scuba diving mask and snorkel"
+      ],
+      "ru": [
+        "медицинский респиратор вентилятор",
+        "карнавальная маска для Хэллоуина",
+        "украшенная маска для маскарада",
+        "хирургическая маска для контроля инфекций",
+        "горнолыжная маска от холода",
+        "маска для подводного плавания с трубкой"
+      ]
+    },
+    "valid": {
+      "en": [
+        "comedy and tragedy theater masks",
+        "performing arts masks symbol",
+        "drama masks icon"
+      ],
+      "ru": [
+        "маски театра комедии и трагедии",
+        "символ масок исполнительских искусств",
+        "иконка масок драмы"
+      ]
+    },
+    "test": {
+      "en": [
+        "theater masks icon",
+        "Greek drama masks symbol",
+        "comedy tragedy masks"
+      ],
+      "ru": [
+        "иконка театральных масок",
+        "символ греческих масок драмы",
+        "маски комедии и трагедии"
+      ]
+    }
+  }
+}

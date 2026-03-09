@@ -1,0 +1,102 @@
+{
+  "icon": "book",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "book",
+        "diary",
+        "documentation",
+        "journal",
+        "knowledge",
+        "library",
+        "notebook",
+        "read",
+        "research",
+        "scholar"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "hardcover book with a decorative cover",
+        "book icon for a reading app",
+        "personal diary with a lock and key",
+        "daily diary entry written by hand",
+        "technical documentation in book format",
+        "API documentation reference book",
+        "leather-bound journal for daily notes",
+        "daily journal writing habit",
+        "book representing knowledge and learning",
+        "knowledge base reference book",
+        "library book sitting on the shelf",
+        "library catalog for searching books",
+        "lined notebook for class notes",
+        "spiral notebook open on the desk",
+        "read a book in the evening",
+        "reading a thick novel by lamplight",
+        "research book for academic study",
+        "book used in scientific research",
+        "scholar reading ancient texts",
+        "scholarly book for academic reference"
+      ]
+    },
+    "regular": {
+      "en": [
+        "closed hardcover book with a bookmark",
+        "thick novel open on the reading desk",
+        "children's picture book with a colorful cover",
+        "student writing in a spiral notebook",
+        "stack of textbooks on a library shelf",
+        "leather-bound journal for personal writing",
+        "recipe book propped open in the kitchen",
+        "ancient manuscript in the library archive",
+        "reference book opened for academic research",
+        "e-book reader loaded with digital titles"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a book icon for the reading app library",
+        "add a journal icon to the notes section",
+        "show a book symbol for the knowledge base",
+        "use the notebook icon for the documentation page"
+      ]
+    },
+    "typo": {
+      "en": [
+        "resaerch book for study",
+        "librayr catalog search",
+        "knoweldge base reference",
+        "journl entry for today"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "leather bookmark with a tassel in the novel",
+        "folded newspaper on the breakfast table",
+        "ancient scroll unrolled on the wooden table",
+        "glossy magazine open to the fashion spread",
+        "lined notepad with a pen resting on it",
+        "digital tablet displaying an e-reader app"
+      ]
+    },
+    "valid": {
+      "en": [
+        "hardcover book for reading app",
+        "journal and diary writing icon",
+        "library book on the shelf"
+      ]
+    },
+    "test": {
+      "en": [
+        "reading book symbol",
+        "knowledge book icon",
+        "research notebook for study"
+      ]
+    }
+  }
+}

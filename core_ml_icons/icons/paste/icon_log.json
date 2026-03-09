@@ -1,0 +1,142 @@
+{
+  "icon": "paste",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "clipboard",
+        "copy",
+        "document",
+        "paper"
+      ],
+      "ru": [
+        "буфер обмена",
+        "копировать",
+        "документ",
+        "бумага"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "clipboard paste action",
+        "paste from clipboard",
+        "copy and paste text",
+        "copy from document paste",
+        "paste into document editor",
+        "paste document content",
+        "paste paper content on page",
+        "cut copy paste actions"
+      ],
+      "ru": [
+        "действие вставки из буфера обмена",
+        "вставить из буфера обмена",
+        "скопировать и вставить текст",
+        "скопировать из документа вставить",
+        "вставить в редактор документов",
+        "вставить содержимое документа",
+        "вставить содержимое бумаги на страницу",
+        "вырезать скопировать вставить"
+      ]
+    },
+    "regular": {
+      "en": [
+        "clipboard with paper showing paste action",
+        "copy text and paste into new field",
+        "paste command keyboard shortcut Ctrl+V",
+        "document editor paste from clipboard",
+        "clipboard icon with paste arrow",
+        "cut copy paste trio of actions",
+        "pasting code snippet from clipboard",
+        "paste image from copy buffer",
+        "paste shortcut in mobile text editor",
+        "paste action in word processor"
+      ],
+      "ru": [
+        "буфер обмена с бумагой показывающей вставку",
+        "скопировать текст и вставить в новое поле",
+        "горячая клавиша вставки Ctrl+V",
+        "редактор документов вставка из буфера",
+        "иконка буфера обмена со стрелкой вставки",
+        "тройка действий вырезать скопировать вставить",
+        "вставка фрагмента кода из буфера обмена",
+        "вставить изображение из буфера копирования",
+        "ярлык вставки в мобильном редакторе",
+        "действие вставки в текстовом процессоре"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a paste icon for the document editor",
+        "add a clipboard paste button to the toolbar",
+        "show a paste symbol for the copy-paste feature",
+        "use the paste icon for the text input action"
+      ],
+      "ru": [
+        "Мне нужна иконка вставки для редактора документов",
+        "добавить кнопку вставки из буфера на панель инструментов",
+        "показать символ вставки для функции копирования-вставки",
+        "использовать иконку вставки для действия ввода текста"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cliboard paste",
+        "copay and paste",
+        "past text document",
+        "clipbaord copy"
+      ],
+      "ru": [
+        "буфер обменаа вставка",
+        "копироваьт и вставить",
+        "встаивть текст",
+        "буфер обема копия"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "copy action to duplicate content",
+        "cut action to remove and copy",
+        "clipboard showing copied content",
+        "undo button to revert paste",
+        "find and replace text action",
+        "drag and drop without clipboard"
+      ],
+      "ru": [
+        "действие копирования для дублирования контента",
+        "действие вырезания для удаления и копирования",
+        "буфер обмена показывающий скопированный контент",
+        "кнопка отмены для отмены вставки",
+        "действие найти и заменить",
+        "перетащить и отпустить без буфера"
+      ]
+    },
+    "valid": {
+      "en": [
+        "paste from clipboard icon",
+        "copy and paste action",
+        "clipboard paste document"
+      ],
+      "ru": [
+        "иконка вставки из буфера",
+        "действие копировать и вставить",
+        "вставка документа из буфера"
+      ]
+    },
+    "test": {
+      "en": [
+        "paste icon",
+        "clipboard paste action",
+        "paste document text"
+      ],
+      "ru": [
+        "иконка вставки",
+        "действие вставки из буфера",
+        "вставить текст документа"
+      ]
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "icon": "ruble-sign",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Ruble Sign",
+        "currency"
+      ],
+      "ru": [
+        "знак рубля",
+        "валюта"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Russian Ruble Sign symbol in text",
+        "ruble sign for Russian currency",
+        "currency symbol for Russian ruble",
+        "currency exchange rate for ruble"
+      ],
+      "ru": [
+        "символ российского рубля в тексте",
+        "знак рубля для российской валюты",
+        "символ валюты для российского рубля",
+        "обменный курс рубля"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Russian ruble currency symbol with crossed leg",
+        "price tag showing amount in rubles",
+        "ruble sign in financial app for Russian market",
+        "exchange rate display from USD to RUB",
+        "bank transfer in Russian rubles",
+        "salary listed in Russian rubles per month",
+        "ruble coin or banknote symbol",
+        "Russian ruble symbol on payment screen",
+        "store price in rubles for local market",
+        "currency selector with ruble option"
+      ],
+      "ru": [
+        "символ российского рубля с горизонтальной чертой",
+        "ценник с суммой в рублях",
+        "знак рубля в финансовом приложении для России",
+        "отображение обменного курса USD/RUB",
+        "банковский перевод в российских рублях",
+        "зарплата в рублях в месяц",
+        "символ рублёвой монеты или банкноты",
+        "символ рубля на экране оплаты",
+        "цена в рублях для местного рынка",
+        "выбор валюты с опцией рубля"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a ruble sign icon for the Russian market",
+        "add a ruble symbol to the currency selector",
+        "show a ruble sign for the price in RUB",
+        "use the ruble icon for the payment screen"
+      ],
+      "ru": [
+        "мне нужна иконка знака рубля для российского рынка",
+        "добавь символ рубля в выбор валюты",
+        "покажи знак рубля для цены в рублях",
+        "используй иконку рубля для экрана оплаты"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Rusisan ruble currency symbol",
+        "ruble sgin on payment screen",
+        "currnecy exchange rate for ruble",
+        "pricetag showing amonut in rubles"
+      ],
+      "ru": [
+        "символ валюты российсокго рубля",
+        "знак рублья на экране оплаты",
+        "обменный курс рублья",
+        "ценник с сумоой в рублях"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "dollar sign currency symbol for USD",
+        "euro sign symbol for European currency",
+        "pound sterling sign for British currency",
+        "yen sign for Japanese currency",
+        "bitcoin symbol for cryptocurrency",
+        "generic currency coin stack icon"
+      ],
+      "ru": [
+        "символ доллара для валюты США",
+        "знак евро для европейской валюты",
+        "знак фунта стерлингов для британской валюты",
+        "знак иены для японской валюты",
+        "символ биткоина для криптовалюты",
+        "иконка стопки монет общей валюты"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Russian ruble sign currency symbol",
+        "ruble symbol on payment screen",
+        "currency icon for Russian ruble RUB"
+      ],
+      "ru": [
+        "символ российского рубля",
+        "знак рубля на экране оплаты",
+        "иконка валюты российский рубль"
+      ]
+    },
+    "test": {
+      "en": [
+        "ruble sign for Russian currency",
+        "price display in Russian rubles",
+        "ruble currency symbol in finance app"
+      ],
+      "ru": [
+        "знак рубля для российской валюты",
+        "цена в российских рублях",
+        "символ рубля в финансовом приложении"
+      ]
+    }
+  }
+}

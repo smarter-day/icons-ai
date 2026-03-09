@@ -1,0 +1,160 @@
+{
+  "icon": "watch-fitness",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Fitbit",
+        "alert",
+        "apple watch",
+        "clock",
+        "pedometer",
+        "time",
+        "wristwatch"
+      ],
+      "ru": [
+        "Fitbit",
+        "уведомление",
+        "Apple Watch",
+        "часы",
+        "шагомер",
+        "время",
+        "наручные часы"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Fitbit fitness tracker watch",
+        "Fitbit steps calories count",
+        "alert fitness watch notification",
+        "watch alert buzz wrist",
+        "Apple Watch fitness tracking",
+        "fitness apple watch workout",
+        "clock fitness watch time display",
+        "fitness watch clock face",
+        "pedometer watch step count",
+        "fitness watch pedometer daily",
+        "time fitness watch display",
+        "watch time fitness display",
+        "wristwatch fitness tracking daily",
+        "fitness wristwatch sport"
+      ],
+      "ru": [
+        "Fitbit фитнес трекер часы",
+        "Fitbit шаги калории подсчёт",
+        "уведомление фитнес часы",
+        "часы уведомление вибрация запястье",
+        "Apple Watch фитнес отслеживание",
+        "Apple Watch тренировка фитнес",
+        "часы циферблат фитнес",
+        "фитнес-часы циферблат отображение",
+        "шагомер фитнес часы количество шагов",
+        "фитнес-часы шагомер ежедневный",
+        "время фитнес часы отображение",
+        "часы время отображение фитнес",
+        "наручные часы фитнес ежедневное отслеживание",
+        "фитнес наручные часы спорт"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Fitbit fitness tracker on wrist",
+        "fitness watch heart rate monitor",
+        "step count pedometer wristwatch",
+        "fitness watch GPS route tracking",
+        "smartwatch workout mode active",
+        "fitness band sleep quality",
+        "fitness watch calories burned",
+        "running watch pace distance",
+        "fitness watch waterproof swim",
+        "fitness watch charging dock"
+      ],
+      "ru": [
+        "Fitbit фитнес-трекер на запястье",
+        "фитнес-часы монитор сердечного ритма",
+        "шагомер наручные часы подсчёт шагов",
+        "GPS-трек маршрут фитнес-часы",
+        "смарт-часы режим тренировки активный",
+        "фитнес-браслет качество сна",
+        "сожжённые калории фитнес-часы",
+        "беговые часы темп расстояние",
+        "водонепроницаемые фитнес-часы плавание",
+        "зарядная станция фитнес-часов"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a fitness watch icon for the health section",
+        "add a Fitbit symbol to the activity tracking feature",
+        "show a fitness watch for the workout category",
+        "use the watch-fitness icon for the step counter"
+      ],
+      "ru": [
+        "нужна иконка фитнес-часов для раздела здоровья",
+        "добавь символ Fitbit к функции отслеживания активности",
+        "покажи фитнес-часы для категории тренировок",
+        "используй иконку фитнес-часов для шагомера"
+      ]
+    },
+    "typo": {
+      "en": [
+        "fitbi fitness watch",
+        "ftiness tracker watch",
+        "pedmoeter fitness watch",
+        "wriswatch fitness sport"
+      ],
+      "ru": [
+        "Fitbit фитнес часы",
+        "фитнес трекер часы",
+        "шагомер фитнес часы",
+        "наручные часы фитнес"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Apple Watch smartwatch brand",
+        "analog clock traditional hands",
+        "smartphone health app fitness",
+        "heart rate monitor chest",
+        "GPS device navigation outdoor",
+        "running shoe fitness exercise"
+      ],
+      "ru": [
+        "Apple Watch смарт-часы бренд",
+        "аналоговые часы традиционные стрелки",
+        "смартфон приложение здоровья фитнес",
+        "монитор сердечного ритма грудной",
+        "GPS устройство навигация улица",
+        "кроссовки бег фитнес упражнение"
+      ]
+    },
+    "valid": {
+      "en": [
+        "fitness watch Fitbit icon",
+        "pedometer wristwatch symbol",
+        "workout tracker watch"
+      ],
+      "ru": [
+        "иконка фитнес-часов Fitbit",
+        "символ шагомера наручные часы",
+        "трекер тренировок часы"
+      ]
+    },
+    "test": {
+      "en": [
+        "watch-fitness icon",
+        "fitness tracker symbol",
+        "Fitbit watch"
+      ],
+      "ru": [
+        "иконка фитнес-часов",
+        "символ трекера фитнеса",
+        "Fitbit часы"
+      ]
+    }
+  }
+}

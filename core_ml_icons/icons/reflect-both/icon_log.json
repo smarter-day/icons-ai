@@ -1,0 +1,196 @@
+{
+  "icon": "reflect-both",
+  "rows": {
+    "train_en": 63,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "edit",
+        "exchange",
+        "flip",
+        "horizontal",
+        "inverse",
+        "invert",
+        "mirror",
+        "negative",
+        "reflect",
+        "swap",
+        "target",
+        "tool",
+        "vertical"
+      ],
+      "ru": [
+        "редактировать",
+        "обмен",
+        "отразить",
+        "горизонтальный",
+        "инверсия",
+        "инвертировать",
+        "зеркало",
+        "негатив",
+        "отражение",
+        "поменять",
+        "цель",
+        "инструмент",
+        "вертикальный"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "edit tool for flipping image both axes",
+        "image edit with reflect on both sides",
+        "exchange left and right sides of image",
+        "exchange axis to mirror layout",
+        "flip image horizontally and vertically",
+        "flip both axes in photo editor",
+        "horizontal axis reflection in design tool",
+        "horizontal mirror line in vector editor",
+        "inverse transform on both dimensions",
+        "inverse mapping for symmetrical design",
+        "invert both axes of an image",
+        "invert and reflect symmetrically",
+        "mirror effect applied to both sides",
+        "mirror image along center axes",
+        "negative space created by both-axis reflection",
+        "negative image flip on canvas",
+        "reflect object across both center lines",
+        "reflect both horizontally and vertically",
+        "swap x and y axis orientation",
+        "swap image direction on both axes",
+        "target symmetry using reflect both tool",
+        "target center point for dual reflection",
+        "design tool for creating symmetrical layouts",
+        "tool for mirroring objects both ways",
+        "vertical and horizontal reflection combined",
+        "vertical axis flip in graphic editor"
+      ],
+      "ru": [
+        "инструмент редактирования для отражения по обеим осям",
+        "редактирование с отражением с обеих сторон",
+        "поменять местами левую и правую части изображения",
+        "обмен осями для зеркального отображения",
+        "отразить изображение по горизонтали и вертикали",
+        "перевернуть по обеим осям в редакторе фото",
+        "горизонтальная ось отражения в инструменте дизайна",
+        "горизонтальная линия зеркала в векторном редакторе",
+        "инверсное преобразование по обоим измерениям",
+        "инверсное отображение для симметричного дизайна",
+        "инвертировать обе оси изображения",
+        "инвертировать и отразить симметрично",
+        "эффект зеркала применён к обеим сторонам",
+        "зеркальное изображение вдоль центральных осей",
+        "негативное пространство от отражения по обеим осям",
+        "перевёрнутое изображение на холсте",
+        "отразить объект через обе центральные линии",
+        "отражение по горизонтали и вертикали",
+        "поменять ориентацию осей x и y",
+        "поменять направление по обеим осям",
+        "симметрия цели с инструментом двойного отражения",
+        "центральная точка для двойного отражения",
+        "инструмент создания симметричных макетов",
+        "инструмент для зеркального отображения в обоих направлениях",
+        "комбинированное вертикальное и горизонтальное отражение",
+        "вертикальное зеркало в графическом редакторе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "reflect both axes button in vector design software",
+        "mirroring object symmetrically across center point",
+        "flip horizontal and vertical combined transform",
+        "creating butterfly symmetry by reflecting both sides",
+        "design tool creating a four-way symmetric pattern",
+        "negative image created by full axis inversion",
+        "swap image orientation on both x and y axes",
+        "mandala design tool reflecting in all four quadrants",
+        "photo editor reflect both option for symmetry art",
+        "icon design using both-axis reflection for balance"
+      ],
+      "ru": [
+        "кнопка отражения по обеим осям в векторном ПО",
+        "симметричное зеркальное отображение объекта через центральную точку",
+        "комбинированное преобразование по горизонтали и вертикали",
+        "создание симметрии бабочки отражением с обеих сторон",
+        "инструмент для четырёхсторонней симметрии",
+        "негативное изображение полной инверсии осей",
+        "смена ориентации по осям x и y",
+        "инструмент мандалы с отражением в четырёх квадрантах",
+        "опция отражения по обеим осям для арт-симметрии",
+        "дизайн иконки с двуосевым отражением для баланса"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a reflect-both icon for the image editor toolbar",
+        "add a dual mirror symbol to the design tools panel",
+        "show a reflect-both for the symmetry feature",
+        "use the reflect icon for the axis flip transform"
+      ],
+      "ru": [
+        "мне нужна иконка двойного отражения для панели инструментов редактора",
+        "добавь символ двойного зеркала на панель инструментов дизайна",
+        "покажи двойное отражение для функции симметрии",
+        "используй иконку отражения для трансформации по оси"
+      ]
+    },
+    "typo": {
+      "en": [
+        "relect both axes in design tool",
+        "mirro image along center axes",
+        "fliip horizontal and vertical combined",
+        "swpa x and y axis orientation"
+      ],
+      "ru": [
+        "отрзаить по обеим осям в редакторе",
+        "зрекало по центральным осям",
+        "переворот по горизонтали и вертикали",
+        "поменять оси x и y"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "flip horizontal mirror left to right only",
+        "flip vertical mirror top to bottom only",
+        "rotate 90 degrees clockwise around center",
+        "scale transform resizing object uniformly",
+        "skew transform tilting object along axis",
+        "crop tool removing edges of image"
+      ],
+      "ru": [
+        "горизонтальное зеркало только слева направо",
+        "вертикальное зеркало только сверху вниз",
+        "поворот на 90 градусов по часовой стрелке",
+        "масштабирование объекта равномерно",
+        "наклонная трансформация объекта по оси",
+        "инструмент обрезки удаляет края изображения"
+      ]
+    },
+    "valid": {
+      "en": [
+        "reflect both axes in image editor",
+        "mirror object symmetrically on both sides",
+        "flip horizontal and vertical combined transform"
+      ],
+      "ru": [
+        "отражение по обеим осям в редакторе",
+        "зеркальное отображение с обеих сторон",
+        "комбинированный переворот по горизонтали и вертикали"
+      ]
+    },
+    "test": {
+      "en": [
+        "both-axis reflection in design tool",
+        "mirror image across x and y center lines",
+        "four-way symmetry using reflect both"
+      ],
+      "ru": [
+        "отражение по обеим осям в дизайне",
+        "зеркало по центральным линиям x и y",
+        "четырёхсторонняя симметрия через двойное отражение"
+      ]
+    }
+  }
+}

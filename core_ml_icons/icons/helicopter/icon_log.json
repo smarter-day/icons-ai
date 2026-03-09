@@ -1,0 +1,96 @@
+{
+  "icon": "helicopter",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "airwolf",
+        "apache",
+        "chopper",
+        "flight",
+        "fly",
+        "helicopter",
+        "travel",
+        "vehicle"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "airwolf helicopter from the TV show",
+        "airwolf attack helicopter in action",
+        "apache military helicopter in flight",
+        "Apache attack helicopter hovering",
+        "news chopper overhead at the scene",
+        "police chopper searching the area",
+        "helicopter flight over the city",
+        "short flight by helicopter to the island",
+        "fly by helicopter to the resort",
+        "helicopter fly low over the valley",
+        "helicopter hovering in the air",
+        "helicopter landing on the helipad",
+        "travel by helicopter to the resort",
+        "helicopter travel for VIP guests",
+        "helicopter as a vehicle for air transport",
+        "rotary vehicle helicopter"
+      ]
+    },
+    "regular": {
+      "en": [
+        "helicopter hovering above the city skyline",
+        "medical rescue helicopter landing on rooftop",
+        "news helicopter circling overhead",
+        "military Apache attack helicopter",
+        "helicopter tour over the mountain range",
+        "police helicopter searching at night",
+        "helicopter landing on an offshore platform",
+        "private helicopter for VIP transport",
+        "helicopter blades spinning at full speed",
+        "coast guard rescue helicopter in action"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a helicopter icon for the air transport section",
+        "add a chopper symbol to the flight tracker",
+        "show a helicopter for the rescue operations feature",
+        "use the helicopter icon for the aerial tour booking"
+      ]
+    },
+    "typo": {
+      "en": [
+        "helicotper hovering",
+        "choppr circling overhead",
+        "militray helicopter",
+        "hleicopter landing pad"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "commercial airplane flying at cruising altitude",
+        "quadcopter drone with camera hovering",
+        "hot air balloon floating over the valley",
+        "rocket ship launching into space",
+        "small propeller plane on the runway",
+        "paraglider soaring on the thermal updraft"
+      ]
+    },
+    "valid": {
+      "en": [
+        "helicopter hovering in the air",
+        "rescue helicopter on rooftop pad",
+        "military helicopter in flight"
+      ]
+    },
+    "test": {
+      "en": [
+        "helicopter icon",
+        "chopper symbol for flight",
+        "helicopter air transport"
+      ]
+    }
+  }
+}

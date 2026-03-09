@@ -1,0 +1,148 @@
+{
+  "icon": "boxes-packing",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "archive",
+        "box",
+        "package",
+        "storage",
+        "supplies"
+      ],
+      "ru": [
+        "архив",
+        "коробка",
+        "посылка",
+        "хранение",
+        "материалы"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "archive files in packing boxes",
+        "get packing boxes",
+        "pack packages for shipping",
+        "packing boxes for storage",
+        "get packing supplies",
+        "Archive room supplies packed in boxes",
+        "Box count for the moving company",
+        "Package goods for the warehouse dispatch",
+        "Storage boxes stacked in the garage",
+        "Packing tape and bubble wrap to buy"
+      ],
+      "ru": [
+        "архивировать файлы в упаковочных коробках",
+        "взять упаковочные коробки",
+        "упаковать посылки для отправки",
+        "упаковочные коробки для хранения",
+        "взять упаковочные материалы",
+        "Расходники архивной комнаты упакованы в коробки",
+        "Количество коробок для транспортной компании",
+        "Упаковать товары для отправки на склад",
+        "Коробки для хранения сложены в гараже",
+        "Купить скотч и пупырчатую плёнку"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Pack multiple boxes for the move",
+        "Get packing boxes from the store",
+        "Organize items into packing boxes",
+        "Stack and label packing boxes",
+        "Buy packing tape and boxes",
+        "Pack up the entire apartment",
+        "Load the packing boxes into the truck",
+        "Boxes ready for moving day",
+        "Pack and ship multiple orders",
+        "Organize belongings in packing boxes"
+      ],
+      "ru": [
+        "Упаковать несколько коробок для переезда",
+        "Взять упаковочные коробки в магазине",
+        "Организовать вещи по упаковочным коробкам",
+        "Сложить и подписать упаковочные коробки",
+        "Купить упаковочную ленту и коробки",
+        "Упаковать всю квартиру",
+        "Загрузить коробки в грузовик",
+        "Коробки готовы к дню переезда",
+        "Упаковать и отправить несколько заказов",
+        "Организовать вещи в упаковочных коробках"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "We have so many boxes to pack",
+        "Let's start packing everything up",
+        "I need more packing boxes",
+        "The place is covered in packing boxes"
+      ],
+      "ru": [
+        "Столько коробок нужно упаковать",
+        "Давайте начнём всё упаковывать",
+        "Нужно ещё упаковочных коробок",
+        "Везде упаковочные коробки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Pck multple boxes for the mve",
+        "Get packng boxes form the store",
+        "Oranize itmes into packng boxes",
+        "Boxse redy for movng day"
+      ],
+      "ru": [
+        "Упакавать несколько коробок для переезда",
+        "Взять упакачные коробки из магазина",
+        "Оргнизовать вещи по коробкам",
+        "Коробки готовы к дню переезда"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Ship a single package",
+        "Unpack after moving",
+        "Store items in the warehouse",
+        "Buy a storage unit",
+        "Organize the garage shelves",
+        "Moving truck rental"
+      ],
+      "ru": [
+        "Отправить одну посылку",
+        "Распаковать после переезда",
+        "Арендовать склад",
+        "Купить место для хранения",
+        "Организовать полки в гараже",
+        "Заказать грузовик для переезда"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Pack all the boxes for moving day",
+        "Get packing supplies for the move",
+        "Stack packing boxes in the living room"
+      ],
+      "ru": [
+        "Упаковать все коробки к дню переезда",
+        "Взять упаковочные материалы для переезда",
+        "Сложить коробки в гостиной"
+      ]
+    },
+    "test": {
+      "en": [
+        "Moving boxes all packed up",
+        "Packing boxes ready for the truck",
+        "Pack up supplies for shipment"
+      ],
+      "ru": [
+        "Все переездные коробки упакованы",
+        "Коробки готовы для грузовика",
+        "Упаковать материалы для отправки"
+      ]
+    }
+  }
+}

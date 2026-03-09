@@ -1,0 +1,84 @@
+{
+  "icon": "image",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "album",
+        "landscape",
+        "photo",
+        "picture"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Create a photo album",
+        "Browse the photo album",
+        "Take a landscape photo",
+        "Edit the landscape shot",
+        "Take a photo at the event",
+        "Edit the photo before sharing",
+        "Print the picture",
+        "Frame the picture for the wall"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Take a photo with the camera",
+        "Edit the image in Lightroom",
+        "Share a photo on social media",
+        "Print a photo for the album",
+        "Set a photo as the wallpaper",
+        "Crop the image for the post",
+        "Upload a photo to the profile",
+        "Browse vacation photos",
+        "Back up photos to the cloud",
+        "Create a photo collage"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Take a photo",
+        "Nice picture",
+        "Edit the image",
+        "Share the photo"
+      ]
+    },
+    "typo": {
+      "en": [
+        "take a potho at the event",
+        "edit the imge in lightroom",
+        "shrae a photo on social medai",
+        "pritn a pictuer"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Record a video instead",
+        "Draw an illustration",
+        "Scan a document",
+        "Create an animated GIF",
+        "Take a screenshot",
+        "Download an icon from the web"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Take a photo at the event",
+        "Edit the image before sharing",
+        "Print a photo for the album"
+      ]
+    },
+    "test": {
+      "en": [
+        "Share a photo on social media",
+        "Back up photos to the cloud",
+        "Create a photo collage"
+      ]
+    }
+  }
+}

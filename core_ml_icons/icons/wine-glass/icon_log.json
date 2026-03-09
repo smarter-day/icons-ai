@@ -1,0 +1,184 @@
+{
+  "icon": "wine-glass",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "alcohol",
+        "bar",
+        "beverage",
+        "cabernet",
+        "drink",
+        "glass",
+        "grapes",
+        "merlot",
+        "sauvignon",
+        "wine",
+        "wine glass"
+      ],
+      "ru": [
+        "алкоголь",
+        "бар",
+        "напиток",
+        "каберне",
+        "выпить",
+        "бокал",
+        "виноград",
+        "мерло",
+        "совиньон",
+        "вино",
+        "бокал вина"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "fine alcohol selection",
+        "alcohol beverage menu",
+        "upscale bar lounge",
+        "wine bar counter",
+        "refreshing beverage choice",
+        "cold beverage glass",
+        "full-bodied cabernet sauvignon",
+        "cabernet red wine",
+        "evening drink relaxation",
+        "casual drink with friends",
+        "crystal wine glass stem",
+        "glass half full",
+        "purple grapes vineyard",
+        "grapes for winemaking",
+        "smooth merlot bottle",
+        "dark merlot red",
+        "crisp sauvignon blanc",
+        "sauvignon white wine",
+        "red wine pour glass",
+        "wine tasting event",
+        "wine glass on table",
+        "tall wine glass shape"
+      ],
+      "ru": [
+        "отборный алкоголь",
+        "меню алкогольных напитков",
+        "фешенебельный бар-лаунж",
+        "стойка винного бара",
+        "освежающий выбор напитка",
+        "стакан с холодным напитком",
+        "насыщенное каберне совиньон",
+        "красное вино каберне",
+        "вечерний отдых с напитком",
+        "непринуждённый выпить с друзьями",
+        "ножка хрустального бокала",
+        "бокал наполовину полон",
+        "виноградник с фиолетовым виноградом",
+        "виноград для виноделия",
+        "бутылка нежного мерло",
+        "тёмно-красное мерло",
+        "хрустящее совиньон блан",
+        "белое вино совиньон",
+        "разлив красного вина в бокал",
+        "дегустация вина",
+        "бокал вина на столе",
+        "форма высокого бокала"
+      ]
+    },
+    "regular": {
+      "en": [
+        "elegant stemmed wine glass",
+        "red wine swirling in glass",
+        "white wine chardonnay pour",
+        "sommelier wine tasting ceremony",
+        "vineyard dinner wine pairing",
+        "restaurant wine menu selection",
+        "wine glass clinking toast",
+        "sparkling rosé in stemware",
+        "half-empty wine glass",
+        "wine cellar glass collection"
+      ],
+      "ru": [
+        "элегантный бокал вина с ножкой",
+        "красное вино закручивается в бокале",
+        "налив белого вина шардоне",
+        "церемония дегустации вина сомелье",
+        "ужин в винограднике с подбором вина",
+        "выбор из меню вин ресторана",
+        "бокалы чокаются в тосте",
+        "игристое розе в бокале",
+        "наполовину пустой бокал вина",
+        "коллекция бокалов в винном погребе"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a wine glass icon for the restaurant section",
+        "add a wine symbol to the drinks menu",
+        "show a wine glass for the dinner event category",
+        "use the glass icon for the beverage tracker"
+      ],
+      "ru": [
+        "мне нужна иконка бокала вина для раздела ресторана",
+        "добавь символ вина в меню напитков",
+        "покажи бокал вина для категории вечерних мероприятий",
+        "используй иконку бокала для трекера напитков"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wine glas red merlot",
+        "wnie glass beverage bar",
+        "alcohlo wine glass drink",
+        "grapevine wiine glass pour"
+      ],
+      "ru": [
+        "вино бокал красное мерол",
+        "вниo бокал напиток бар",
+        "алхоголь бокал вина",
+        "виноград боакл вина налить"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "frothy beer mug with handle",
+        "martini cocktail glass with olive",
+        "champagne flute bubbling",
+        "whiskey glass on the rocks",
+        "coffee mug hot beverage",
+        "juice glass with straw fruit"
+      ],
+      "ru": [
+        "пенная пивная кружка с ручкой",
+        "бокал мартини с оливкой",
+        "флейта шампанского с пузырьками",
+        "стакан виски со льдом",
+        "кружка горячего кофе",
+        "стакан сока с трубочкой фрукт"
+      ]
+    },
+    "valid": {
+      "en": [
+        "wine glass for red or white wine",
+        "stemmed glass with wine pour",
+        "elegant wine glass beverage icon"
+      ],
+      "ru": [
+        "бокал вина для красного или белого вина",
+        "бокал с ножкой с налитым вином",
+        "иконка элегантного бокала вина"
+      ]
+    },
+    "test": {
+      "en": [
+        "red wine glass icon",
+        "stemmed wine glass beverage",
+        "wine glass restaurant symbol"
+      ],
+      "ru": [
+        "иконка бокала красного вина",
+        "бокал вина с ножкой напиток",
+        "символ бокала вина ресторан"
+      ]
+    }
+  }
+}

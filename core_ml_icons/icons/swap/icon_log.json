@@ -1,0 +1,154 @@
+{
+  "icon": "swap",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "arrows",
+        "change",
+        "merge",
+        "move",
+        "route",
+        "transfer"
+      ],
+      "ru": [
+        "стрелки",
+        "замена",
+        "слияние",
+        "перемещение",
+        "маршрут",
+        "перенос"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "swap arrows pointing opposite directions",
+        "two arrows swap icon",
+        "change order swap positions",
+        "change and swap items",
+        "merge two streams into one",
+        "merge lanes traffic arrows",
+        "move item from one place to another",
+        "move and swap columns",
+        "route changed alternate path",
+        "swap route navigation",
+        "transfer funds between accounts",
+        "data transfer swap"
+      ],
+      "ru": [
+        "стрелки замены в противоположных направлениях",
+        "иконка двух стрелок замены",
+        "изменить порядок поменять местами",
+        "замена позиций элементов",
+        "слить два потока в один",
+        "слияние полос движения стрелки",
+        "переместить элемент из одного места в другое",
+        "перемещение и замена столбцов",
+        "маршрут изменён альтернативный путь",
+        "замена маршрута навигация",
+        "перевести средства между счетами",
+        "перенос данных замена"
+      ]
+    },
+    "regular": {
+      "en": [
+        "swap two items left and right arrows",
+        "currency exchange swap rates",
+        "swap team members in lineup",
+        "photo editor swap foreground background",
+        "swap SIM card between phones",
+        "language swap source and target",
+        "swap columns in spreadsheet",
+        "toggle swap between two views",
+        "drag and drop swap positions",
+        "swap filter options A and B"
+      ],
+      "ru": [
+        "замена двух элементов левая и правая стрелки",
+        "обмен валют своп курсы",
+        "замена игроков в составе",
+        "фоторедактор замена переднего и заднего плана",
+        "замена SIM-карты между телефонами",
+        "замена языка источник и цель",
+        "замена столбцов в таблице",
+        "переключение между двумя видами",
+        "перетащить и заменить позиции",
+        "замена параметров фильтра A и B"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a swap icon for the currency exchange feature",
+        "add a swap symbol to the transfer screen",
+        "show swap arrows for the toggle view",
+        "use the swap icon for the reorder action"
+      ],
+      "ru": [
+        "нужна иконка замены для функции обмена валют",
+        "добавь символ замены на экран переноса",
+        "покажи стрелки замены для переключения вида",
+        "используй иконку замены для действия перегруппировки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "swpa arrows icon",
+        "curency swap exchange",
+        "tranfer swap items",
+        "merg and swap"
+      ],
+      "ru": [
+        "замена стрелки иконка",
+        "обмен валют своп",
+        "перенос замена элементов",
+        "слияние и замена"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "refresh reload circular arrow",
+        "undo redo back forward arrows",
+        "shuffle random order arrows",
+        "sync synchronize two devices",
+        "repeat loop arrows cycle",
+        "transfer money send receive"
+      ],
+      "ru": [
+        "обновить перезагрузить круговая стрелка",
+        "отменить повторить назад вперёд стрелки",
+        "перемешать случайный порядок стрелки",
+        "синхронизировать два устройства",
+        "повтор цикл стрелки",
+        "перевести деньги отправить получить"
+      ]
+    },
+    "valid": {
+      "en": [
+        "swap arrows exchange icon",
+        "transfer swap symbol",
+        "change positions swap"
+      ],
+      "ru": [
+        "иконка стрелок обмена",
+        "символ переноса замены",
+        "поменять местами замена"
+      ]
+    },
+    "test": {
+      "en": [
+        "swap icon two arrows",
+        "exchange swap symbol",
+        "move swap items"
+      ],
+      "ru": [
+        "иконка замены две стрелки",
+        "символ обмена замены",
+        "перемещение замена элементов"
+      ]
+    }
+  }
+}

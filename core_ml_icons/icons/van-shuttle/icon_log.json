@@ -1,0 +1,160 @@
+{
+  "icon": "van-shuttle",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "airport",
+        "bus",
+        "minibus",
+        "public-transportation",
+        "transportation",
+        "travel",
+        "vehicle"
+      ],
+      "ru": [
+        "аэропорт",
+        "автобус",
+        "минибус",
+        "общественный транспорт",
+        "транспорт",
+        "путешествие",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "airport shuttle van transfer",
+        "airport van pickup hotel",
+        "bus shuttle van route",
+        "bus shuttle route minivan",
+        "minibus shuttle group travel",
+        "minibus van passenger",
+        "public transportation shuttle van",
+        "van public transit route",
+        "transportation shuttle van service",
+        "shuttle van transportation fleet",
+        "travel shuttle van group",
+        "van travel trip shuttle",
+        "vehicle shuttle van seats",
+        "van vehicle passenger seats"
+      ],
+      "ru": [
+        "шаттл-фургон трансфер аэропорт",
+        "шаттл-фургон отель аэропорт",
+        "маршрут шаттл-фургона автобус",
+        "маршрутный шаттл минивэн",
+        "минибус шаттл групповая поездка",
+        "пассажирский минибус фургон",
+        "шаттл-фургон общественного транспорта",
+        "маршрут общественного транзита фургон",
+        "шаттл-сервис транспортный фургон",
+        "парк шаттл-фургонов транспорт",
+        "групповая поездка шаттл-фургон",
+        "фургон путешествие шаттл",
+        "сиденья транспортного шаттл-фургона",
+        "пассажирский фургон сиденья"
+      ]
+    },
+    "regular": {
+      "en": [
+        "hotel airport shuttle van service",
+        "school bus shuttle minivan",
+        "corporate shuttle van employees",
+        "wheelchair accessible shuttle van",
+        "theme park shuttle van route",
+        "cruise terminal shuttle van",
+        "stadium shuttle van event",
+        "shuttle van rental group travel",
+        "electric shuttle van fleet",
+        "medical transport shuttle van"
+      ],
+      "ru": [
+        "шаттл-сервис отель аэропорт",
+        "школьный автобус шаттл минивэн",
+        "корпоративный шаттл фургон сотрудники",
+        "шаттл-фургон для инвалидных колясок",
+        "маршрут шаттла в тематическом парке",
+        "шаттл-фургон в круизный терминал",
+        "шаттл-фургон на стадион мероприятие",
+        "аренда шаттл-фургона для группы",
+        "электрический шаттл-фургон парк",
+        "медицинский транспорт шаттл-фургон"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a van shuttle icon for the airport transfer",
+        "add a minibus symbol to the transportation section",
+        "show a shuttle van for the group travel feature",
+        "use the van-shuttle icon for the public transit"
+      ],
+      "ru": [
+        "нужна иконка шаттл-фургона для трансфера аэропорт",
+        "добавь символ минибуса в транспортный раздел",
+        "покажи шаттл-фургон для функции групповых поездок",
+        "используй иконку шаттл-фургона для общественного транзита"
+      ]
+    },
+    "typo": {
+      "en": [
+        "airprot shuttle van",
+        "shuutle van group",
+        "minibsu van transit",
+        "transporation shuttle"
+      ],
+      "ru": [
+        "шаттл-фургон аэропорт",
+        "шаттл-фургон группа",
+        "минибус фургон транзит",
+        "транспорт шаттл"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "bus large public transit",
+        "taxi cab passenger vehicle",
+        "minivan family vehicle seats",
+        "airport car service private",
+        "train commuter rail transit",
+        "cable car tram city"
+      ],
+      "ru": [
+        "автобус большой общественный транзит",
+        "такси пассажирское транспортное средство",
+        "минивэн семейный автомобиль сиденья",
+        "частный автосервис аэропорт",
+        "поезд пригородный рельсовый транзит",
+        "трамвай канатная машина город"
+      ]
+    },
+    "valid": {
+      "en": [
+        "airport shuttle van icon",
+        "minibus transit symbol",
+        "van shuttle transport"
+      ],
+      "ru": [
+        "иконка шаттл-фургона аэропорт",
+        "символ минибуса транзита",
+        "транспорт шаттл-фургон"
+      ]
+    },
+    "test": {
+      "en": [
+        "van-shuttle icon",
+        "shuttle van symbol",
+        "airport bus van"
+      ],
+      "ru": [
+        "иконка шаттл-фургона",
+        "символ шаттл-вэна",
+        "аэропорт автобус фургон"
+      ]
+    }
+  }
+}

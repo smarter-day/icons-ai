@@ -1,0 +1,93 @@
+{
+  "icon": "family",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "adults",
+        "child",
+        "family",
+        "folk",
+        "kid",
+        "parent",
+        "together"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Plan an outing for the adults",
+        "Adults-only dinner reservation",
+        "Take the child to school",
+        "Read a bedtime story to the child",
+        "Plan a family vacation",
+        "Spend time with the family",
+        "Hang out with the folk at home",
+        "Visit the folk this weekend",
+        "Plan activities for the kids",
+        "Take the kids to the park",
+        "Help the parent with errands",
+        "Call the parent on their birthday",
+        "Do something together as a family",
+        "Cook dinner together"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Plan a family dinner",
+        "Take the kids to the park",
+        "Go on a family road trip",
+        "Visit the grandparents",
+        "Watch a movie together as a family",
+        "Cook a meal together",
+        "Schedule family time on the weekend",
+        "Play a board game with the family",
+        "Take family photos",
+        "Plan a family vacation"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Family night!",
+        "Family time",
+        "With the family",
+        "Family fun day"
+      ]
+    },
+    "typo": {
+      "en": [
+        "famly dinner tonight",
+        "take the kds to the park",
+        "plan a familly vacation",
+        "wach movie togehter"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Go out with friends",
+        "Plan a solo trip",
+        "Hang out with coworkers",
+        "Have a couples date night",
+        "Organize a class reunion",
+        "Meet new neighbors"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Plan a family dinner",
+        "Go on a family vacation",
+        "Spend time together as a family"
+      ]
+    },
+    "test": {
+      "en": [
+        "Take the kids to the park",
+        "Watch a movie with the family",
+        "Cook a meal together"
+      ]
+    }
+  }
+}

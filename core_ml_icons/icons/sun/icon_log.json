@@ -1,0 +1,190 @@
+{
+  "icon": "sun",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bright",
+        "brighten",
+        "contrast",
+        "day",
+        "lighter",
+        "rays",
+        "sol",
+        "solar",
+        "star",
+        "sun",
+        "sunny",
+        "weather"
+      ],
+      "ru": [
+        "яркий",
+        "осветлить",
+        "контраст",
+        "день",
+        "светлее",
+        "лучи",
+        "солнце-исп",
+        "солнечный",
+        "звезда",
+        "солнце",
+        "солнечный",
+        "погода"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bright summer sun shining",
+        "bright sunny beach day",
+        "brighten screen display setting",
+        "brighten photo editing",
+        "contrast and brightness slider",
+        "sun contrast adjustment",
+        "sunny day clear sky",
+        "day begins sunrise sun",
+        "lighter mode sun icon",
+        "screen lighter sun button",
+        "sun rays spreading outward",
+        "warm rays sun afternoon",
+        "sol solar system center",
+        "Spanish sol sun symbol",
+        "solar energy panels sun",
+        "solar power sustainable",
+        "star at center of solar system",
+        "sun is a star in space",
+        "sun symbol in weather app",
+        "sun out today weather forecast",
+        "sunny weather icon bright day",
+        "sunny and warm forecast",
+        "weather sun clear forecast",
+        "weather icon sunny day"
+      ],
+      "ru": [
+        "яркое летнее солнце сияет",
+        "яркий солнечный пляжный день",
+        "яркость экрана настройка",
+        "осветление фото редактирование",
+        "ползунок контраст и яркость",
+        "регулировка контраста солнцем",
+        "солнечный день чистое небо",
+        "день начинается восходом солнца",
+        "режим посветлее иконка солнца",
+        "кнопка яркости экрана солнце",
+        "лучи солнца расходятся наружу",
+        "тёплые лучи послеполуденное солнце",
+        "испанское слово sol символ солнца",
+        "центр солнечной системы sol",
+        "солнечные панели энергия",
+        "солнечная энергия возобновляемая",
+        "звезда в центре солнечной системы",
+        "солнце — это звезда в космосе",
+        "символ солнца в приложении погоды",
+        "прогноз погоды солнечно",
+        "солнечная погода иконка ясный день",
+        "прогноз солнечно и тепло",
+        "иконка погоды ясный солнечный день",
+        "прогноз солнечная погода"
+      ]
+    },
+    "regular": {
+      "en": [
+        "yellow sun with eight radiating rays",
+        "bright morning sun over horizon",
+        "sun icon in weather app clear day",
+        "solar energy icon for renewable power",
+        "screen brightness adjust sun symbol",
+        "sun reflected on calm ocean water",
+        "cartoon sun smiling face illustration",
+        "UV index high sun warning",
+        "sun behind tree casting long shadow",
+        "autumn sun lower in sky angle"
+      ],
+      "ru": [
+        "жёлтое солнце с восемью лучами",
+        "яркое утреннее солнце над горизонтом",
+        "иконка солнца в приложении погоды ясный день",
+        "иконка солнечной энергии возобновляемая",
+        "регулировка яркости экрана символ солнца",
+        "солнечное отражение на спокойной воде",
+        "мультяшное улыбающееся солнце",
+        "высокий УФ-индекс предупреждение",
+        "солнце за деревом длинная тень",
+        "осеннее солнце низкий угол"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sun icon for the weather widget",
+        "add a brightness sun symbol to the display settings",
+        "show a sun for the clear weather type",
+        "use the sun icon for the daytime mode toggle"
+      ],
+      "ru": [
+        "нужна иконка солнца для виджета погоды",
+        "добавь символ яркости солнца в настройки дисплея",
+        "покажи солнце для типа ясной погоды",
+        "используй иконку солнца для переключения дневного режима"
+      ]
+    },
+    "typo": {
+      "en": [
+        "suny weather day",
+        "brigt sun rays",
+        "weahter sun clear",
+        "sloar energy sun"
+      ],
+      "ru": [
+        "солнечная погдоа",
+        "яркие лучи солнца",
+        "погода солнченая",
+        "солнечная энрегия"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "moon crescent night sky",
+        "cloud overcast sky grey",
+        "rainbow arching after rain",
+        "star night sky twinkling",
+        "sunrise sun half below horizon",
+        "lightbulb idea bright light"
+      ],
+      "ru": [
+        "лунный серп ночное небо",
+        "облако пасмурное серое небо",
+        "радуга после дождя дугой",
+        "звезда мерцающая ночное небо",
+        "восход солнца наполовину за горизонтом",
+        "лампочка идея яркий свет"
+      ]
+    },
+    "valid": {
+      "en": [
+        "sun weather icon clear day",
+        "bright sun rays symbol",
+        "solar sun icon"
+      ],
+      "ru": [
+        "иконка солнца ясная погода",
+        "символ ярких лучей солнца",
+        "символ солнца"
+      ]
+    },
+    "test": {
+      "en": [
+        "sun icon sunny weather",
+        "brightness sun symbol",
+        "daylight sun"
+      ],
+      "ru": [
+        "иконка солнца солнечная погода",
+        "символ яркости солнца",
+        "дневной свет солнце"
+      ]
+    }
+  }
+}

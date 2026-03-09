@@ -1,0 +1,87 @@
+{
+  "icon": "computer",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "computer",
+        "desktop",
+        "display",
+        "monitor",
+        "tower"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy a new computer",
+        "Fix the computer at home",
+        "Set up the desktop computer",
+        "Clean the desktop workspace",
+        "Adjust the display brightness",
+        "Replace the broken display",
+        "Buy a better monitor",
+        "Clean the monitor screen",
+        "Upgrade the computer tower",
+        "Repair the tower PC"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Set up the home office computer",
+        "Buy a new desktop PC",
+        "Upgrade the RAM on the computer",
+        "Clean the dust from the computer",
+        "Back up the computer files",
+        "Install a new program on the PC",
+        "Repair the computer",
+        "Update the computer software",
+        "Connect the monitor to the PC",
+        "Replace the old computer"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "New computer day",
+        "Fix my PC",
+        "Desktop setup",
+        "Computer upgrade"
+      ]
+    },
+    "typo": {
+      "en": [
+        "set up the dekstop",
+        "by a new compter",
+        "fix the monitr screen",
+        "upgrade the computre"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy a new laptop",
+        "Set up a tablet for work",
+        "Connect a keyboard to the laptop",
+        "Install software on the phone",
+        "Use a gaming console instead",
+        "Set up a server rack"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Set up the desktop computer",
+        "Buy a new PC for work",
+        "Repair the home computer"
+      ]
+    },
+    "test": {
+      "en": [
+        "Upgrade the computer hardware",
+        "Set up the office desktop",
+        "Install software on the computer"
+      ]
+    }
+  }
+}

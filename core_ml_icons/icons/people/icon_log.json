@@ -1,0 +1,172 @@
+{
+  "icon": "people",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "couple",
+        "hand",
+        "hold",
+        "holding hands",
+        "man",
+        "together",
+        "users-people",
+        "woman",
+        "woman and man holding hands"
+      ],
+      "ru": [
+        "пара",
+        "рука",
+        "держать",
+        "держаться за руки",
+        "мужчина",
+        "вместе",
+        "пользователи",
+        "женщина",
+        "мужчина и женщина держатся за руки"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "couple walking together",
+        "romantic couple silhouette",
+        "hold hands with partner",
+        "hand in hand walking",
+        "hold each other close",
+        "holding on together",
+        "holding hands in park",
+        "couple holding hands icon",
+        "man and woman together",
+        "man figure in group",
+        "people together in community",
+        "team together icon",
+        "multiple users group icon",
+        "users people list",
+        "woman silhouette in pair",
+        "woman and man side by side",
+        "woman and man holding hands emoji",
+        "couple holding hands symbol"
+      ],
+      "ru": [
+        "пара идущая вместе",
+        "силуэт романтической пары",
+        "держать руку партнёра",
+        "рука в руке на прогулке",
+        "держаться крепко вместе",
+        "держаться вместе",
+        "держаться за руки в парке",
+        "иконка пары держащейся за руки",
+        "мужчина и женщина вместе",
+        "фигура мужчины в группе",
+        "люди вместе в сообществе",
+        "иконка команды вместе",
+        "иконка группы нескольких пользователей",
+        "список пользователей людей",
+        "силуэт женщины в паре",
+        "женщина и мужчина бок о бок",
+        "эмодзи мужчины и женщины держащихся за руки",
+        "символ пары держащейся за руки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "two people standing side by side",
+        "couple holding hands silhouette",
+        "group of people community icon",
+        "users or friends together symbol",
+        "man and woman pair icon",
+        "partnership or relationship icon",
+        "people icon for social features",
+        "contacts or friends list icon",
+        "team members together",
+        "romantic couple hand in hand"
+      ],
+      "ru": [
+        "двое людей стоящих рядом",
+        "силуэт пары держащейся за руки",
+        "иконка группы людей сообщества",
+        "символ пользователей или друзей вместе",
+        "иконка пары мужчины и женщины",
+        "иконка партнёрства или отношений",
+        "иконка людей для социальных функций",
+        "иконка контактов или списка друзей",
+        "члены команды вместе",
+        "романтическая пара рука в руке"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a people icon for the contacts section",
+        "add a couple symbol to the relationship feature",
+        "show people holding hands for the social screen",
+        "use the people icon for the group users section"
+      ],
+      "ru": [
+        "Мне нужна иконка людей для раздела контактов",
+        "добавить символ пары в функцию отношений",
+        "показать людей держащихся за руки для социального экрана",
+        "использовать иконку людей для раздела группы пользователей"
+      ]
+    },
+    "typo": {
+      "en": [
+        "poeple together",
+        "coupel holding hands",
+        "peolpe group",
+        "holdign hands man woman"
+      ],
+      "ru": [
+        "люди вмесет",
+        "парa держится за руки",
+        "груп людей",
+        "мужчина женщна за руки"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "single person user icon alone",
+        "family with children group",
+        "handshake for business deal",
+        "crowd of many people",
+        "friends group three or more",
+        "avatar profile single user"
+      ],
+      "ru": [
+        "иконка одного человека пользователя",
+        "семья с детьми группа",
+        "рукопожатие для деловой сделки",
+        "толпа из многих людей",
+        "группа друзей трое и больше",
+        "аватар профиля одного пользователя"
+      ]
+    },
+    "valid": {
+      "en": [
+        "couple holding hands icon",
+        "people together group",
+        "man and woman pair"
+      ],
+      "ru": [
+        "иконка пары держащейся за руки",
+        "группа людей вместе",
+        "пара мужчины и женщины"
+      ]
+    },
+    "test": {
+      "en": [
+        "people icon",
+        "couple together holding hands",
+        "users group people"
+      ],
+      "ru": [
+        "иконка людей",
+        "пара вместе держится за руки",
+        "группа пользователей людей"
+      ]
+    }
+  }
+}

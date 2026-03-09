@@ -1,0 +1,160 @@
+{
+  "icon": "truck-ramp",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "box",
+        "cargo",
+        "delivery",
+        "inventory",
+        "moving",
+        "rental",
+        "vehicle"
+      ],
+      "ru": [
+        "коробка",
+        "груз",
+        "доставка",
+        "инвентарь",
+        "переезд",
+        "аренда",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "box truck ramp loading",
+        "truck ramp with boxes",
+        "cargo truck ramp unload",
+        "cargo on truck ramp",
+        "delivery truck ramp lowered",
+        "ramp truck delivery service",
+        "inventory truck ramp warehouse",
+        "inventory unload truck ramp",
+        "moving truck ramp furniture",
+        "truck ramp moving day",
+        "rental truck with ramp Uhaul",
+        "truck ramp rental included",
+        "vehicle with ramp extended",
+        "ramp truck vehicle loading dock"
+      ],
+      "ru": [
+        "грузовик с аппарелем загрузка коробки",
+        "коробки на аппарели грузовика",
+        "грузовик аппарель разгрузка",
+        "груз на аппарели грузовика",
+        "аппарель грузовика доставки опущена",
+        "аппарель грузовик сервис доставки",
+        "аппарель грузовика склад инвентарь",
+        "разгрузка инвентаря по аппарели",
+        "аппарель грузовика переезд мебель",
+        "грузовик аппарель день переезда",
+        "аренда грузовика с аппарелью Uhaul",
+        "аппарель входит в аренду грузовика",
+        "транспортное средство с выдвинутой аппарелью",
+        "аппарель грузовика погрузочная платформа"
+      ]
+    },
+    "regular": {
+      "en": [
+        "box truck with hydraulic ramp lowered",
+        "movers rolling furniture down ramp",
+        "delivery truck ramp at loading dock",
+        "rental truck ramp included service",
+        "furniture dolly down truck ramp",
+        "truck ramp locking mechanism",
+        "truck ramp angle steep loading",
+        "heavy appliance down truck ramp",
+        "truck ramp wet weather warning",
+        "warehouse truck ramp offloading"
+      ],
+      "ru": [
+        "грузовик с гидравлическим аппарелем опущенным",
+        "грузчики скатывают мебель по аппарели",
+        "аппарель грузовика на погрузочной платформе",
+        "аппарель включена в аренду грузовика",
+        "тележка для мебели по аппарели грузовика",
+        "механизм фиксации аппарели",
+        "угол наклона аппарели крутой загрузка",
+        "тяжёлый прибор по аппарели грузовика",
+        "предупреждение о скользкой аппарели в сырую погоду",
+        "разгрузка со склада по аппарели"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a truck-ramp icon for the moving feature",
+        "add a delivery ramp symbol to the logistics section",
+        "show a truck with ramp for the loading category",
+        "use the truck-ramp icon for the cargo delivery"
+      ],
+      "ru": [
+        "нужна иконка грузовика с аппарелью для функции переезда",
+        "добавь символ аппарели доставки в логистический раздел",
+        "покажи грузовик с аппарелью для категории загрузки",
+        "используй иконку грузовика с аппарелью для доставки груза"
+      ]
+    },
+    "typo": {
+      "en": [
+        "trcuk ramp loading",
+        "movign truck ramp down",
+        "carogo truck ramp",
+        "delivrey truck ramp"
+      ],
+      "ru": [
+        "грузовик аппарель загрузка",
+        "грузовик аппарель переезд",
+        "груз аппарель грузовик",
+        "доставка аппарель грузовик"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "moving truck no ramp plain",
+        "forklift pallet warehouse",
+        "loading dock platform fixed",
+        "conveyor belt loading",
+        "crane lift heavy load",
+        "hand truck dolly small"
+      ],
+      "ru": [
+        "грузовик переезда без аппарели",
+        "погрузчик паллет склад",
+        "стационарная погрузочная платформа",
+        "конвейерная лента погрузка",
+        "кран подъём тяжёлого груза",
+        "ручная тележка небольшая"
+      ]
+    },
+    "valid": {
+      "en": [
+        "truck with ramp loading icon",
+        "delivery ramp truck symbol",
+        "moving truck ramp"
+      ],
+      "ru": [
+        "иконка грузовика с аппарелью",
+        "символ аппарели грузовика доставки",
+        "грузовик переезда аппарель"
+      ]
+    },
+    "test": {
+      "en": [
+        "truck-ramp icon",
+        "ramp truck delivery",
+        "loading ramp vehicle"
+      ],
+      "ru": [
+        "иконка грузовика с аппарелью",
+        "аппарель грузовик доставка",
+        "аппарель транспортное средство"
+      ]
+    }
+  }
+}

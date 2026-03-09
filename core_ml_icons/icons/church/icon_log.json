@@ -1,0 +1,96 @@
+{
+  "icon": "church",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Christian",
+        "building",
+        "cathedral",
+        "chapel",
+        "church",
+        "community",
+        "cross",
+        "religion"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Christian church building in the neighborhood",
+        "Christian community gathering at church",
+        "church building with a steeple",
+        "historic building used for worship",
+        "cathedral with gothic arched windows",
+        "cathedral in the city center",
+        "small chapel in the countryside",
+        "chapel for quiet prayer",
+        "church on Sunday morning",
+        "attend church service on the weekend",
+        "church community gathering for events",
+        "community center in the church hall",
+        "church with a cross on top",
+        "cross on top of the church steeple",
+        "religion building of worship",
+        "church as a religion landmark"
+      ]
+    },
+    "regular": {
+      "en": [
+        "church building with a tall steeple and cross",
+        "stone cathedral with gothic arched windows",
+        "small white chapel in the countryside",
+        "Sunday church service for the community",
+        "church bells ringing on a Sunday morning",
+        "wedding ceremony held in the historic church",
+        "stained glass windows of the cathedral",
+        "church community gathering for holiday events",
+        "historic old church in the town square",
+        "church spire visible above the rooftops"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a church icon for the religious events section",
+        "add a chapel symbol to the places of worship map",
+        "show a church for the community events page",
+        "use the cathedral icon for the religious site map"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cathdral gothic windows",
+        "chruch service on Sunday",
+        "chapell in the countryside",
+        "comunity church event"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "mosque with a crescent moon and minaret",
+        "Hindu temple with an ornate carved spire",
+        "synagogue with a Star of David",
+        "Buddhist temple with a curved roof",
+        "monastery on the hilltop",
+        "prayer hall interior with an altar"
+      ]
+    },
+    "valid": {
+      "en": [
+        "church with steeple and cross",
+        "cathedral in the city",
+        "chapel for Sunday service"
+      ]
+    },
+    "test": {
+      "en": [
+        "church icon",
+        "church building symbol",
+        "chapel for worship"
+      ]
+    }
+  }
+}

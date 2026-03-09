@@ -1,0 +1,160 @@
+{
+  "icon": "suitcase",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "baggage",
+        "luggage",
+        "move",
+        "packing",
+        "suitcase",
+        "travel",
+        "trip"
+      ],
+      "ru": [
+        "багаж",
+        "чемодан",
+        "переезд",
+        "упаковка",
+        "чемодан",
+        "путешествие",
+        "поездка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "baggage claim at airport",
+        "carry on baggage size limit",
+        "rolling luggage at airport terminal",
+        "luggage tag with name",
+        "move belongings packing boxes",
+        "moving to new city with suitcase",
+        "packing list for vacation",
+        "packing suitcase for trip",
+        "hard shell suitcase rolling",
+        "suitcase with combination lock",
+        "travel suitcase packed for trip",
+        "business travel suitcase",
+        "trip prep packing checklist",
+        "road trip essentials in suitcase"
+      ],
+      "ru": [
+        "выдача багажа в аэропорту",
+        "ограничение размера ручной клади",
+        "чемодан на колёсах в аэропорту",
+        "багажная бирка с именем",
+        "переезд упаковка вещей",
+        "переезд в новый город с чемоданом",
+        "список вещей для отпуска",
+        "сборка чемодана для поездки",
+        "жёсткий чемодан с колёсами",
+        "чемодан с кодовым замком",
+        "туристический чемодан собранный",
+        "деловой чемодан для командировки",
+        "подготовка к поездке чеклист упаковки",
+        "необходимое для путешествия в чемодане"
+      ]
+    },
+    "regular": {
+      "en": [
+        "rolling suitcase with telescoping handle",
+        "checked luggage at airline counter",
+        "overstuffed suitcase hard to close",
+        "vintage hard shell travel suitcase",
+        "lightweight carry-on cabin bag",
+        "suitcase with TSA approved lock",
+        "backpacker hostel suitcase and backpack",
+        "hotel bell hop carrying luggage",
+        "lost luggage claim at airport",
+        "packing cubes inside open suitcase"
+      ],
+      "ru": [
+        "чемодан на колёсах с выдвижной ручкой",
+        "сданный багаж у стойки авиакомпании",
+        "переполненный чемодан тяжело закрыть",
+        "винтажный жёсткий дорожный чемодан",
+        "лёгкая ручная кладь в салон самолёта",
+        "чемодан с одобренным TSA замком",
+        "рюкзак и чемодан в хостеле",
+        "носильщик отеля несёт багаж",
+        "потерянный багаж претензия в аэропорту",
+        "органайзеры внутри открытого чемодана"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a suitcase icon for the travel category",
+        "add a luggage symbol to the trip planner",
+        "show a suitcase for the packing list feature",
+        "use the suitcase icon for the journey section"
+      ],
+      "ru": [
+        "нужна иконка чемодана для категории путешествий",
+        "добавь символ багажа в планировщик поездок",
+        "покажи чемодан для функции списка вещей",
+        "используй иконку чемодана для раздела путешествий"
+      ]
+    },
+    "typo": {
+      "en": [
+        "suticase for travel",
+        "luggae baggage claim",
+        "trvel suitcase packing",
+        "bagage carousel"
+      ],
+      "ru": [
+        "чемодан для путешествя",
+        "выдача багажа аэропрт",
+        "сборка чемодана поздка",
+        "карусель багажа"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "backpack hiking gear travel",
+        "briefcase business professional bag",
+        "duffel bag gym sports bag",
+        "purse handbag fashion accessory",
+        "shopping bag handles retail",
+        "cardboard moving box packing"
+      ],
+      "ru": [
+        "рюкзак туристическое снаряжение путешествие",
+        "портфель деловой профессиональная сумка",
+        "спортивная сумка дафл тренажёр",
+        "дамская сумочка модный аксессуар",
+        "пакет с ручками розничная торговля",
+        "картонная коробка для переезда упаковка"
+      ]
+    },
+    "valid": {
+      "en": [
+        "rolling suitcase travel icon",
+        "luggage for trip packing",
+        "suitcase baggage symbol"
+      ],
+      "ru": [
+        "иконка дорожного чемодана",
+        "багаж для поездки упаковка",
+        "символ чемодана"
+      ]
+    },
+    "test": {
+      "en": [
+        "travel suitcase icon",
+        "packing luggage symbol",
+        "suitcase for vacation"
+      ],
+      "ru": [
+        "иконка туристического чемодана",
+        "символ упаковки багажа",
+        "чемодан для отпуска"
+      ]
+    }
+  }
+}

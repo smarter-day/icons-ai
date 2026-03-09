@@ -1,0 +1,160 @@
+{
+  "icon": "cannon",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "artillery",
+        "cannonball",
+        "gun powder",
+        "munition",
+        "ordnance",
+        "projectile",
+        "weapon"
+      ],
+      "ru": [
+        "артиллерия",
+        "ядро",
+        "порох",
+        "боеприпасы",
+        "боеприпас",
+        "снаряд",
+        "оружие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Artillery demonstration at the museum",
+        "Cannonball dive at the pool",
+        "Gun powder storage precautions",
+        "Munition supply check",
+        "Ordnance survey on the field",
+        "Projectile physics experiment",
+        "Weapon display at the historical exhibit",
+        "Artillery museum exhibit this weekend",
+        "Cannonball pool jump competition today",
+        "Gun powder safety regulations review",
+        "Munition count for the historical reenactment",
+        "Ordnance map reference for the mission",
+        "Projectile trajectory calculation for class",
+        "Weapon safety briefing for the group"
+      ],
+      "ru": [
+        "Демонстрация артиллерии в музее",
+        "Прыжок пушечным ядром в бассейне",
+        "Меры предосторожности при хранении пороха",
+        "Проверка запасов боеприпасов",
+        "Артиллерийская разведка на поле",
+        "Эксперимент по физике снарядов",
+        "Выставка оружия на историческом стенде",
+        "Артиллерийская выставка в музее в выходные",
+        "Конкурс по прыжкам в воду бомбочка сегодня",
+        "Ознакомиться с правилами безопасного хранения пороха",
+        "Подсчёт боеприпасов для исторической реконструкции",
+        "Карта-схема поля для миссии",
+        "Расчёт траектории снаряда для урока",
+        "Инструктаж по безопасному обращению с оружием"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Historical cannon at the fortress",
+        "Cannon fire ceremony at the event",
+        "Antique cannon for the museum exhibit",
+        "Ship's cannon on the pirate display",
+        "Cannon sound effect in the game",
+        "Civil War cannon reenactment",
+        "Cannonball drop at New Year",
+        "Medieval siege weapon replica",
+        "Cannon props for the photo shoot",
+        "Fort cannon restoration project"
+      ],
+      "ru": [
+        "Исторические пушки в крепости",
+        "Церемония пушечного залпа на мероприятии",
+        "Антикварная пушка для музейной выставки",
+        "Пушка корабля на пиратской экспозиции",
+        "Звуковой эффект пушки в игре",
+        "Реконструкция Гражданской войны с пушками",
+        "Выстрел из пушки на Новый год",
+        "Реплика средневекового осадного оружия",
+        "Реквизит-пушка для фотосессии",
+        "Реставрация пушки в форте"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "fired like a cannonball",
+        "that old cannon in the park",
+        "boom like a cannon at midnight",
+        "cannonball into the pool"
+      ],
+      "ru": [
+        "вылетел как пушечное ядро",
+        "та старая пушка в парке",
+        "бабахнуть как пушка в полночь",
+        "прыжок пушечным ядром в бассейн"
+      ]
+    },
+    "typo": {
+      "en": [
+        "hisstorical cannonn at the fort",
+        "cannonbal dive at the pool",
+        "antiuqe cannon for the musem",
+        "civil war cannom reenactment"
+      ],
+      "ru": [
+        "историческая пушека в форте",
+        "прыжок пушечным ядром в басейн",
+        "антикврная пушка для музея",
+        "реконструция гражданской войны с пушкой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Fireworks rocket launch at midnight",
+        "Water gun toy for the pool party",
+        "Rocket launch at the science fair",
+        "Bomb defuse puzzle game",
+        "Bow and arrow archery session",
+        "Slingshot target practice in the backyard"
+      ],
+      "ru": [
+        "Запуск ракеты фейерверка в полночь",
+        "Водный пистолет для вечеринки у бассейна",
+        "Запуск ракеты на научной ярмарке",
+        "Головоломка по обезвреживанию бомбы",
+        "Стрельба из лука",
+        "Тренировка с рогаткой во дворе"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Cannon at the historical fort tour",
+        "Cannonball dive competition at the pool",
+        "Museum display of antique artillery"
+      ],
+      "ru": [
+        "Пушка на экскурсии по историческому форту",
+        "Соревнование по прыжкам пушечным ядром",
+        "Музейная экспозиция антикварной артиллерии"
+      ]
+    },
+    "test": {
+      "en": [
+        "Old cannon at the castle",
+        "Cannon fire at the ceremony",
+        "Civil War cannon exhibit"
+      ],
+      "ru": [
+        "Старая пушка в замке",
+        "Пушечный выстрел на церемонии",
+        "Экспонат пушки времён Гражданской войны"
+      ]
+    }
+  }
+}

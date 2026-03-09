@@ -1,0 +1,148 @@
+{
+  "icon": "basket-shopping",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "buy",
+        "checkout",
+        "grocery",
+        "payment",
+        "purchase"
+      ],
+      "ru": [
+        "купить",
+        "касса",
+        "продукты",
+        "оплата",
+        "покупка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "buy items at the market",
+        "head to checkout",
+        "grocery basket full",
+        "payment at checkout",
+        "add items to the basket",
+        "Buy the weekly essentials today",
+        "Checkout line moving slow today",
+        "Grocery run before the weekend",
+        "Payment declined — check the card",
+        "Purchase complete and basket cleared"
+      ],
+      "ru": [
+        "купить товары на рынке",
+        "пройти на кассу",
+        "полная корзина продуктов",
+        "оплата на кассе",
+        "добавить товары в корзину",
+        "Купить всё необходимое на неделю",
+        "Очередь на кассе движется медленно",
+        "Поход за продуктами перед выходными",
+        "Платёж отклонён — проверить карту",
+        "Покупка завершена корзина очищена"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Add items to the shopping basket",
+        "Fill up the basket at the store",
+        "Check what's in the basket",
+        "Grocery shopping with the basket",
+        "Put the basket back after shopping",
+        "Grab a basket at the entrance",
+        "Basket shopping at the farmers market",
+        "Check out with a full basket",
+        "Fill the basket before checkout",
+        "Pick up a basket at the store"
+      ],
+      "ru": [
+        "Добавить товары в корзину",
+        "Наполнить корзину в магазине",
+        "Проверить что в корзине",
+        "Поход за продуктами с корзиной",
+        "Поставить корзину после покупок",
+        "Взять корзину у входа",
+        "Шопинг с корзиной на фермерском рынке",
+        "Пройти кассу с полной корзиной",
+        "Наполнить корзину перед кассой",
+        "Взять корзину в магазине"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I've got a basket full of stuff already",
+        "Let's just grab a basket and go",
+        "My basket is overflowing",
+        "Grab a basket — we only need a few things"
+      ],
+      "ru": [
+        "У меня уже полная корзина",
+        "Давай возьмём корзину и пойдём",
+        "Корзина переполнена",
+        "Возьмём корзину — нужно немного вещей"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Add to the bsket",
+        "Groccery basket at the store",
+        "Chekout with a full baskt",
+        "Grocrey shoping baskt"
+      ],
+      "ru": [
+        "Добавть в корзну",
+        "Продуктавая корзина в магазине",
+        "Касса с полной корзнной",
+        "Продуктовый шопинк с корзиной"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Go grocery shopping",
+        "Shopping spree at the mall",
+        "Pack shopping bags for the trip",
+        "Weekly grocery run",
+        "Retail therapy at the outlet",
+        "Fill the shopping bag with essentials"
+      ],
+      "ru": [
+        "Пойти за продуктами",
+        "Шопинг-марафон в торговом центре",
+        "Упаковать сумки для поездки",
+        "Еженедельный поход за продуктами",
+        "Шопинг в аутлете",
+        "Наполнить сумку основными товарами"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Basket ready for the farmers market",
+        "Fill the basket with fresh produce",
+        "Shopping basket at the supermarket"
+      ],
+      "ru": [
+        "Корзина готова для фермерского рынка",
+        "Наполнить корзину свежими продуктами",
+        "Корзина для покупок в супермаркете"
+      ]
+    },
+    "test": {
+      "en": [
+        "Grab a basket on the way in",
+        "Checkout with the full basket",
+        "Market basket haul this morning"
+      ],
+      "ru": [
+        "Взять корзину у входа",
+        "Пройти кассу с полной корзиной",
+        "Большая корзина с рынка утром"
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "icon": "door-closed",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "door",
+        "enter",
+        "exit",
+        "locked",
+        "privacy"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Close the door behind you",
+        "Install a new door",
+        "Enter the building through the door",
+        "Hold the door open",
+        "Exit through the back door",
+        "Use the emergency exit",
+        "Check if the door is locked",
+        "Lock the door before leaving",
+        "Keep the door closed for privacy",
+        "Respect the closed door"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Lock the front door before leaving",
+        "Close the office door for a meeting",
+        "Install a new door lock",
+        "Replace the worn door handle",
+        "Check that the door is locked",
+        "Keep the bedroom door closed",
+        "Use the back door to exit",
+        "Install a smart door lock",
+        "Knock before entering the closed door",
+        "Keep the door shut to save heat"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Lock the door",
+        "Close the door",
+        "Door's closed",
+        "Privacy please"
+      ]
+    },
+    "typo": {
+      "en": [
+        "lok the front dorr",
+        "clsoe the door behnd you",
+        "chek if door is lokced",
+        "instal a new door lok"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Open the door to let guests in",
+        "Leave the door ajar",
+        "Open the window for fresh air",
+        "Install a window lock",
+        "Use the revolving door at the office",
+        "Unlock the gate to the yard"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Lock the front door",
+        "Close the office door for privacy",
+        "Check that the door is locked"
+      ]
+    },
+    "test": {
+      "en": [
+        "Install a new door lock",
+        "Keep the door closed during the meeting",
+        "Use the back door to exit"
+      ]
+    }
+  }
+}

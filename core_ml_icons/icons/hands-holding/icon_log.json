@@ -1,0 +1,81 @@
+{
+  "icon": "hands-holding",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "carry",
+        "hold",
+        "lift"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Carry the item with both hands",
+        "Carry groceries with both hands",
+        "Hold the baby with care",
+        "Hold the fragile item gently",
+        "Lift the box together",
+        "Lift the sofa with help"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Hold the newborn baby",
+        "Carry the large box together",
+        "Support a friend in need",
+        "Hold the dish with both hands",
+        "Lift the furniture with a partner",
+        "Carry the heavy equipment",
+        "Hold the gift with both hands",
+        "Pass the item carefully",
+        "Hold the door open with both hands",
+        "Lift the mattress upstairs"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Hold it together",
+        "Both hands needed",
+        "Carry together",
+        "Lift with help"
+      ]
+    },
+    "typo": {
+      "en": [
+        "holdd with boht hands",
+        "carrey the large boks",
+        "lfit the furniutre together",
+        "supprot a freind"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Carry with one hand only",
+        "Use a cart to transport goods",
+        "Use a crane to lift heavy items",
+        "Ask for help lifting",
+        "Use a dolly to move boxes",
+        "Put the item on a trolley"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Hold the newborn with both hands",
+        "Carry the large box together",
+        "Lift the furniture with a partner"
+      ]
+    },
+    "test": {
+      "en": [
+        "Support a friend in need",
+        "Pass the fragile item carefully",
+        "Lift the mattress upstairs"
+      ]
+    }
+  }
+}

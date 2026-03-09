@@ -1,0 +1,178 @@
+{
+  "icon": "rabbit",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "animal",
+        "bunny",
+        "fast",
+        "fauna",
+        "hare",
+        "mammal",
+        "pet",
+        "rabbit",
+        "speed",
+        "wabbit"
+      ],
+      "ru": [
+        "животное",
+        "зайчик",
+        "быстрый",
+        "фауна",
+        "заяц",
+        "млекопитающее",
+        "питомец",
+        "кролик",
+        "скорость",
+        "вабит"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "woodland animal with long ears",
+        "small animal hopping in the garden",
+        "Easter bunny carrying a basket of eggs",
+        "fluffy bunny soft toy for children",
+        "fast as a rabbit in a race",
+        "lightning fast speed symbol",
+        "local fauna of meadows and fields",
+        "wild fauna of the forest",
+        "wild hare running across the field",
+        "hare and tortoise fable race",
+        "furry mammal with long hind legs",
+        "small mammal kept as a house pet",
+        "pet rabbit nibbling on a carrot",
+        "pet bunny in a hutch",
+        "white rabbit with pink eyes",
+        "rabbit ears poking out of a hat",
+        "speed indicator like a running rabbit",
+        "high speed mode rabbit icon",
+        "wabbit season hunting cartoon",
+        "elmer fudd chasing wabbit"
+      ],
+      "ru": [
+        "лесное животное с длинными ушами",
+        "маленькое животное прыгает в саду",
+        "пасхальный зайчик с корзинкой яиц",
+        "пушистый зайчик мягкая игрушка для детей",
+        "быстрый как кролик в гонке",
+        "символ молниеносной скорости",
+        "местная фауна лугов и полей",
+        "дикая фауна леса",
+        "дикий заяц бежит по полю",
+        "гонка зайца и черепахи из басни",
+        "пушистое млекопитающее с длинными задними лапами",
+        "маленькое домашнее млекопитающее",
+        "домашний кролик грызёт морковку",
+        "кролик-питомец в клетке",
+        "белый кролик с розовыми глазами",
+        "заячьи уши торчат из шляпы",
+        "индикатор скорости в виде бегущего кролика",
+        "режим высокой скорости иконка кролика",
+        "охотничий сезон на вабита мультфильм",
+        "Элмер Фадд гонится за вабитом"
+      ]
+    },
+    "regular": {
+      "en": [
+        "white rabbit with long floppy ears",
+        "Easter bunny hopping with colorful eggs",
+        "wild hare sprinting across open field",
+        "fluffy pet rabbit sitting in grass",
+        "rabbit symbol for speed and quick processing",
+        "cartoon bunny with big eyes and pink nose",
+        "rabbit pulling out of a magician's hat",
+        "cottontail rabbit nibbling garden vegetables",
+        "rabbit warren underground burrow system",
+        "speed dial set to rabbit mode for fast playback"
+      ],
+      "ru": [
+        "белый кролик с длинными висячими ушами",
+        "пасхальный зайчик скачет с разноцветными яйцами",
+        "дикий заяц мчится по открытому полю",
+        "пушистый домашний кролик сидит в траве",
+        "символ кролика для скорости и быстрой обработки",
+        "мультяшный зайчик с большими глазами и розовым носом",
+        "кролик вылезает из шляпы фокусника",
+        "дикий кролик грызёт огородные овощи",
+        "кроличья нора с подземной системой ходов",
+        "регулятор скорости в режиме кролика для быстрого воспроизведения"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a rabbit icon for the speed settings feature",
+        "add a bunny symbol to the pet care section",
+        "show a rabbit for the Easter event category",
+        "use the hare icon for the fast processing mode"
+      ],
+      "ru": [
+        "мне нужна иконка кролика для настроек скорости",
+        "добавь символ зайчика в раздел ухода за питомцами",
+        "покажи кролика для категории пасхальных событий",
+        "используй иконку зайца для режима быстрой обработки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "fluffy rabit with long ears",
+        "Easter buny with colorful eggs",
+        "wild hare spritning across field",
+        "pet rabibt nibbling a carrot"
+      ],
+      "ru": [
+        "пушистый крлоик с длинными ушами",
+        "пасхальный заяйчик с яйцами",
+        "дикий заяц мчситя по полю",
+        "домашний кроилк грызёт морковку"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "squirrel gathering nuts in autumn park",
+        "hamster running on a wheel in a cage",
+        "mouse nibbling cheese in the kitchen",
+        "cat curled up sleeping on a sofa",
+        "fox running through the snowy forest",
+        "deer grazing peacefully in a meadow"
+      ],
+      "ru": [
+        "белка собирает орехи в осеннем парке",
+        "хомяк бежит в колесе в клетке",
+        "мышь грызёт сыр на кухне",
+        "кошка свернулась спать на диване",
+        "лиса бежит по заснеженному лесу",
+        "олень пасётся на лугу"
+      ]
+    },
+    "valid": {
+      "en": [
+        "white rabbit with long floppy ears",
+        "pet bunny nibbling on a carrot",
+        "rabbit symbol for speed and fast mode"
+      ],
+      "ru": [
+        "белый кролик с длинными висячими ушами",
+        "домашний зайчик грызёт морковку",
+        "символ кролика для скорости"
+      ]
+    },
+    "test": {
+      "en": [
+        "fluffy Easter bunny with big ears",
+        "wild hare running fast across the field",
+        "rabbit icon for quick processing speed"
+      ],
+      "ru": [
+        "пушистый пасхальный зайчик с большими ушами",
+        "дикий заяц быстро бежит по полю",
+        "иконка кролика для быстрой обработки"
+      ]
+    }
+  }
+}

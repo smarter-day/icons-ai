@@ -1,0 +1,148 @@
+{
+  "icon": "pallet",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "archive",
+        "box",
+        "inventory",
+        "shipping",
+        "warehouse"
+      ],
+      "ru": [
+        "архив",
+        "коробка",
+        "инвентарь",
+        "доставка",
+        "склад"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "archive items stacked on pallet",
+        "storage archive on wooden pallet",
+        "cardboard boxes stacked on pallet",
+        "boxes loaded on shipping pallet",
+        "inventory pallet in warehouse",
+        "pallet of inventory to count",
+        "shipping pallet loaded for freight",
+        "pallet wrapped for shipping",
+        "warehouse floor pallet storage",
+        "forklift carrying pallet in warehouse"
+      ],
+      "ru": [
+        "архивные предметы уложенные на поддон",
+        "архив хранения на деревянном поддоне",
+        "картонные коробки уложенные на поддон",
+        "коробки загруженные на отгрузочный поддон",
+        "поддон инвентаря на складе",
+        "поддон инвентаря для подсчёта",
+        "отгрузочный поддон загруженный для грузоперевозки",
+        "поддон обёрнутый для отправки",
+        "хранение поддонов на полу склада",
+        "погрузчик несущий поддон на складе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wooden shipping pallet on warehouse floor",
+        "forklift moving loaded pallet",
+        "stack of boxes on a wooden pallet",
+        "shrink-wrapped pallet ready for shipment",
+        "logistics supply chain pallet icon",
+        "pallet racking in distribution center",
+        "manual pallet jack lifting pallet",
+        "empty wooden pallet for recycling",
+        "freight truck loading pallets",
+        "inventory management pallet scan"
+      ],
+      "ru": [
+        "деревянный отгрузочный поддон на полу склада",
+        "погрузчик перемещающий загруженный поддон",
+        "стопка коробок на деревянном поддоне",
+        "поддон обёрнутый стрейч-плёнкой готовый к отправке",
+        "иконка поддона логистической цепочки поставок",
+        "стеллаж для поддонов в распределительном центре",
+        "ручная тележка для поддонов поднимающая поддон",
+        "пустой деревянный поддон для переработки",
+        "грузовик загружающий поддоны",
+        "сканирование поддона управления запасами"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pallet icon for the warehouse management",
+        "add a shipping pallet to the logistics section",
+        "show a pallet for the inventory tracking feature",
+        "use the pallet icon for the freight shipping screen"
+      ],
+      "ru": [
+        "Мне нужна иконка поддона для управления складом",
+        "добавить отгрузочный поддон в раздел логистики",
+        "показать поддон для функции отслеживания запасов",
+        "использовать иконку поддона для экрана грузовых перевозок"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pallet warehous",
+        "shiping pallet",
+        "invnetory pallet",
+        "warehuse pallet"
+      ],
+      "ru": [
+        "поддон склда",
+        "отгрзуочный поддон",
+        "инветарь поддон",
+        "скалд поддон"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "cardboard box without pallet",
+        "shipping container for ocean freight",
+        "warehouse shelf racking unit",
+        "crate wooden box for goods",
+        "dolly or hand truck for moving",
+        "conveyor belt for packages"
+      ],
+      "ru": [
+        "картонная коробка без поддона",
+        "морской грузовой контейнер",
+        "стеллажная секция склада",
+        "деревянный ящик-ящик для товаров",
+        "тележка или ручная тачка для перемещения",
+        "конвейерная лента для посылок"
+      ]
+    },
+    "valid": {
+      "en": [
+        "wooden pallet in warehouse",
+        "shipping pallet with boxes",
+        "inventory pallet icon"
+      ],
+      "ru": [
+        "деревянный поддон на складе",
+        "отгрузочный поддон с коробками",
+        "иконка поддона инвентаря"
+      ]
+    },
+    "test": {
+      "en": [
+        "pallet icon",
+        "warehouse shipping pallet",
+        "forklift pallet storage"
+      ],
+      "ru": [
+        "иконка поддона",
+        "складской отгрузочный поддон",
+        "поддон для погрузчика"
+      ]
+    }
+  }
+}

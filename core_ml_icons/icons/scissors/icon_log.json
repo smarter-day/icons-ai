@@ -1,0 +1,172 @@
+{
+  "icon": "scissors",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Black Safety Scissors",
+        "White Scissors",
+        "clip",
+        "cutting",
+        "equipment",
+        "modify",
+        "scissors",
+        "snip",
+        "tool"
+      ],
+      "ru": [
+        "чёрные ножницы",
+        "белые ножницы",
+        "клип",
+        "резка",
+        "инструмент",
+        "изменить",
+        "ножницы",
+        "стрижка",
+        "инструмент"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Black Safety Scissors for school craft",
+        "safety scissors with rounded blade tip",
+        "White Scissors for paper crafts",
+        "white-handled scissors for cutting",
+        "clip coupon with scissors along dotted line",
+        "clip art paper with scissors",
+        "cutting paper with sharp scissors",
+        "cutting fabric along sewing pattern",
+        "equipment for arts and crafts table",
+        "school equipment scissors and glue",
+        "modify shape by cutting with scissors",
+        "modify text clip in editing",
+        "scissors for cutting paper in class",
+        "scissors in craft supply kit",
+        "snip thread end after sewing",
+        "snip corner of envelope to open",
+        "tool for cutting ribbon and wrapping",
+        "barber tool for snipping hair"
+      ],
+      "ru": [
+        "чёрные безопасные ножницы для школьного творчества",
+        "безопасные ножницы с закруглёнными лезвиями",
+        "белые ножницы для работы с бумагой",
+        "ножницы с белыми ручками для резки",
+        "вырезать купон по пунктирной линии ножницами",
+        "вырезать бумагу ножницами",
+        "резка бумаги острыми ножницами",
+        "резка ткани по выкройке",
+        "инструмент для стола с творческим оборудованием",
+        "школьное оборудование ножницы и клей",
+        "изменить форму вырезанием ножницами",
+        "клип для редактирования",
+        "ножницы для резки бумаги на уроке",
+        "ножницы в наборе для творчества",
+        "остричь конец нитки после шитья",
+        "отрезать уголок конверта чтобы открыть",
+        "инструмент для резки ленты и упаковки",
+        "парикмахерский инструмент для стрижки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "pair of scissors with two blade handles",
+        "hair cutting scissors at barbershop",
+        "fabric scissors for seamstress work",
+        "scissors icon for cut action in editor",
+        "child-safe scissors with blunt tip",
+        "precision scissors for paper crafting",
+        "kitchen shears for cutting poultry",
+        "nail scissors for trimming fingernails",
+        "embroidery scissors with stork design",
+        "scissors cutting ribbon at grand opening"
+      ],
+      "ru": [
+        "ножницы с двумя лезвиями и ручками",
+        "ножницы для стрижки волос в барбершопе",
+        "ножницы по ткани для швеи",
+        "иконка ножниц для действия вырезания в редакторе",
+        "безопасные ножницы для детей с тупым кончиком",
+        "точные ножницы для бумажного творчества",
+        "кухонные ножницы для разделки птицы",
+        "ногтевые ножницы для обрезки ногтей",
+        "ножницы для вышивки в форме аиста",
+        "разрезание ленты ножницами на торжественном открытии"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a scissors icon for the cut and paste feature",
+        "add scissors to the editing toolbar",
+        "show scissors for the clip action button",
+        "use the scissors icon for the snip tool"
+      ],
+      "ru": [
+        "мне нужна иконка ножниц для функции вырезки и вставки",
+        "добавь ножницы на панель инструментов редактирования",
+        "покажи ножницы для кнопки действия вырезания",
+        "используй иконку ножниц для инструмента обрезки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pair of sissors with two blade handles",
+        "hair cuting scissors at barbershop",
+        "chidl-safe scissors with blunt tip",
+        "scisors icon for cut action in editor"
+      ],
+      "ru": [
+        "ножнциы с двумя лезвиями",
+        "ножницы для стрижки волос в барбешропе",
+        "безопасные ножинцы для детей",
+        "иконка ножниц для вырезания в редакторе"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "knife blade for cutting food on board",
+        "box cutter utility knife for cardboard",
+        "razor blade for shaving or precision cutting",
+        "stapler binding paper sheets together",
+        "tape dispenser with sticky clear tape",
+        "hole punch making circles in paper"
+      ],
+      "ru": [
+        "нож для резки еды на доске",
+        "канцелярский нож для картона",
+        "бритва для бритья или точной резки",
+        "степлер для скрепления листов",
+        "диспенсер скотча с прозрачной лентой",
+        "дырокол делает отверстия в бумаге"
+      ]
+    },
+    "valid": {
+      "en": [
+        "scissors cutting paper in half",
+        "scissors icon for cut action in editor",
+        "safety scissors for school crafts"
+      ],
+      "ru": [
+        "ножницы режут бумагу пополам",
+        "иконка ножниц для вырезания в редакторе",
+        "безопасные ножницы для школьного творчества"
+      ]
+    },
+    "test": {
+      "en": [
+        "pair of scissors with sharp blades",
+        "hair scissors at barbershop",
+        "scissors symbol for cut and paste"
+      ],
+      "ru": [
+        "ножницы с острыми лезвиями",
+        "ножницы для стрижки в барбешропе",
+        "символ ножниц для вырезки и вставки"
+      ]
+    }
+  }
+}

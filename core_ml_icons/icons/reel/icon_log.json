@@ -1,0 +1,154 @@
+{
+  "icon": "reel",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "needle",
+        "sewing",
+        "spool",
+        "string",
+        "thread",
+        "wire"
+      ],
+      "ru": [
+        "игла",
+        "шитьё",
+        "катушка",
+        "нить",
+        "нитка",
+        "проволока"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "sewing needle threaded with cotton",
+        "needle and thread for hand stitching",
+        "sewing machine bobbin and reel",
+        "sewing thread on a wooden reel",
+        "spool of thread on sewing machine",
+        "empty spool for winding thread",
+        "string wound tightly on a reel",
+        "string reel for kite flying",
+        "thread reel beside a pincushion",
+        "colorful thread reel for embroidery",
+        "wire reel for electrical cable",
+        "copper wire reel in hardware store"
+      ],
+      "ru": [
+        "швейная игла с ниткой",
+        "игла и нить для ручного шитья",
+        "шпулька швейной машины и катушка",
+        "катушка ниток на деревянной шпуле",
+        "катушка ниток на швейной машине",
+        "пустая катушка для намотки нитки",
+        "нить плотно намотана на катушку",
+        "катушка нити для запуска воздушного змея",
+        "катушка ниток рядом с игольницей",
+        "цветная катушка для вышивки",
+        "катушка проволоки для электрического кабеля",
+        "катушка медной проволоки в хозмаге"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wooden spool with colorful thread wound around it",
+        "sewing thread reel beside scissors and needle",
+        "industrial reel of electrical wire in warehouse",
+        "bobbin reel for sewing machine lower thread",
+        "fishing line reel with fine thread",
+        "garden hose reel wound tightly on frame",
+        "cable reel for extension cord storage",
+        "embroidery floss wound on cardboard reel",
+        "antique wooden thread spool on craft table",
+        "tailor shop with rows of thread reels"
+      ],
+      "ru": [
+        "деревянная катушка с намотанной цветной нитью",
+        "катушка ниток рядом с ножницами и иглой",
+        "промышленная катушка электропровода на складе",
+        "шпулька швейной машины с нижней нитью",
+        "катушка лески с тонкой нитью",
+        "катушка садового шланга плотно намотана",
+        "кабельная катушка для хранения удлинителя",
+        "мулине для вышивки намотано на картонную катушку",
+        "антикварная деревянная катушка на столе рукодельницы",
+        "швейная мастерская с рядами катушек ниток"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a reel icon for the sewing and crafts section",
+        "add a thread spool symbol to the tailoring feature",
+        "show a reel for the embroidery tools category",
+        "use the spool icon for the thread color picker"
+      ],
+      "ru": [
+        "мне нужна иконка катушки для раздела шитья и рукоделия",
+        "добавь символ катушки ниток в функцию кройки и шитья",
+        "покажи катушку для категории инструментов вышивки",
+        "используй иконку шпульки для выбора цвета нитки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wooden spoll of colorful thread",
+        "sewing therad reel beside scissors",
+        "cable reel for eletrical wire",
+        "bobbin reel for sewing machien"
+      ],
+      "ru": [
+        "деревянная шпулька с цветной нтиью",
+        "катушка ниток для шитяь рядом с ножницами",
+        "кабельная катушка для электропровдоа",
+        "шпулька швеной машины"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "film reel for projecting movie in cinema",
+        "fishing rod with spinning reel attached",
+        "tape measure pulled from metal casing",
+        "ball of yarn for knitting projects",
+        "spindle of yarn on spinning wheel",
+        "ink ribbon cartridge for typewriter"
+      ],
+      "ru": [
+        "кинобобина для проекции фильма в кинотеатре",
+        "удочка с закреплённой катушкой для лески",
+        "рулетка извлечена из металлического корпуса",
+        "клубок пряжи для вязания",
+        "веретено с пряжей на прялке",
+        "красящая лента-картридж для пишущей машинки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "wooden spool of thread for sewing",
+        "reel of wire in hardware store",
+        "colorful thread reel for embroidery"
+      ],
+      "ru": [
+        "деревянная катушка ниток для шитья",
+        "катушка проволоки в хозяйственном магазине",
+        "цветная катушка для вышивки"
+      ]
+    },
+    "test": {
+      "en": [
+        "sewing thread reel beside needle",
+        "industrial cable reel in warehouse",
+        "bobbin reel for sewing machine"
+      ],
+      "ru": [
+        "катушка ниток для шитья рядом с иглой",
+        "промышленная кабельная катушка на складе",
+        "шпулька швейной машины"
+      ]
+    }
+  }
+}

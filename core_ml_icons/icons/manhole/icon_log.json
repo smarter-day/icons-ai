@@ -1,0 +1,130 @@
+{
+  "icon": "manhole",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "grate",
+        "sewer"
+      ],
+      "ru": [
+        "решётка",
+        "канализация"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "metal grate on street surface",
+        "drain grate covering manhole",
+        "sewer system underground access",
+        "sewer manhole cover in city"
+      ],
+      "ru": [
+        "металлическая решётка на поверхности улицы",
+        "дренажная решётка закрывающая люк",
+        "подземный доступ к канализационной системе",
+        "люк канализации в городе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "circular iron manhole cover on road",
+        "city street infrastructure access point",
+        "underground utility access hatch",
+        "sewer inspection cover with pattern",
+        "heavy cast iron manhole lid",
+        "workers lifting a manhole cover",
+        "storm drain grate on sidewalk",
+        "urban infrastructure maintenance hatch",
+        "sewage system entry point",
+        "round metal disc covering underground pipes"
+      ],
+      "ru": [
+        "круглая чугунная крышка люка на дороге",
+        "точка доступа к городской уличной инфраструктуре",
+        "люк доступа к подземным коммуникациям",
+        "крышка смотрового колодца с узором",
+        "тяжёлая чугунная крышка люка",
+        "рабочие поднимают крышку люка",
+        "решётка ливневой канализации на тротуаре",
+        "люк для обслуживания городской инфраструктуры",
+        "точка входа в систему канализации",
+        "круглый металлический диск закрывающий подземные трубы"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a manhole icon for the utility map",
+        "add a sewer cover symbol to the infrastructure section",
+        "show a manhole grate for the city map feature",
+        "use the manhole icon for underground access points"
+      ],
+      "ru": [
+        "Мне нужна иконка люка для карты коммунальных услуг",
+        "добавить символ крышки канализации в раздел инфраструктуры",
+        "показать решётку люка для функции городской карты",
+        "использовать иконку люка для точек подземного доступа"
+      ]
+    },
+    "typo": {
+      "en": [
+        "manhoel cover",
+        "sewre grate",
+        "mnahhole lid",
+        "sewer manholle"
+      ],
+      "ru": [
+        "крышка люак",
+        "решётак канализации",
+        "канализацоинный люк",
+        "крышак люка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "storm drain for rainwater runoff",
+        "utility vault with access door",
+        "fire hydrant on city sidewalk",
+        "underground parking entrance ramp",
+        "subway entrance stairs underground",
+        "water meter cover in pavement"
+      ],
+      "ru": [
+        "ливневая канализация для стока дождевой воды",
+        "технический колодец с дверцей доступа",
+        "пожарный гидрант на городском тротуаре",
+        "въезд на подземную парковку",
+        "лестница входа в метро под землю",
+        "крышка водомера в тротуаре"
+      ]
+    },
+    "valid": {
+      "en": [
+        "manhole cover on city street",
+        "sewer access grate",
+        "round iron manhole lid"
+      ],
+      "ru": [
+        "крышка люка на городской улице",
+        "решётка доступа к канализации",
+        "круглая чугунная крышка люка"
+      ]
+    },
+    "test": {
+      "en": [
+        "manhole grate icon",
+        "sewer cover street",
+        "underground access manhole"
+      ],
+      "ru": [
+        "иконка решётки люка",
+        "крышка канализации на улице",
+        "люк подземного доступа"
+      ]
+    }
+  }
+}

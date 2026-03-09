@@ -1,0 +1,93 @@
+{
+  "icon": "coins",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "currency",
+        "dime",
+        "financial",
+        "gold",
+        "money",
+        "penny",
+        "premium"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Exchange currency at the airport",
+        "Check the currency exchange rate",
+        "Find a dime on the sidewalk",
+        "Save every dime",
+        "Review financial reports",
+        "Plan the financial budget",
+        "Buy gold coins as an investment",
+        "Check gold prices today",
+        "Save money for vacation",
+        "Track daily money spending",
+        "Find a lucky penny",
+        "Count the pennies in the jar",
+        "Upgrade to premium membership",
+        "Get premium access to the app"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Save loose change in a jar",
+        "Count coins from the piggy bank",
+        "Pay for parking with coins",
+        "Sort coins by denomination",
+        "Deposit coins at the bank",
+        "Give kids their weekly allowance",
+        "Check the change from the store",
+        "Roll coins to deposit at the bank",
+        "Save up coins for something special",
+        "Collect foreign coins from travels"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Counting my coins",
+        "Save every penny",
+        "Check my change",
+        "Piggy bank time"
+      ]
+    },
+    "typo": {
+      "en": [
+        "save som money",
+        "exchagne currency for trip",
+        "count the conis",
+        "finanical planning session"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use a credit card for payment",
+        "Transfer money via the bank app",
+        "Check account balance",
+        "Invest in the stock market",
+        "Pay with cash at the register",
+        "Get a discount coupon"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Save loose change",
+        "Count coins in the jar",
+        "Exchange currency for travel"
+      ]
+    },
+    "test": {
+      "en": [
+        "Deposit coins at the bank",
+        "Save money each week",
+        "Check the change from shopping"
+      ]
+    }
+  }
+}

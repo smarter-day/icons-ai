@@ -1,0 +1,130 @@
+{
+  "icon": "baby",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "uer",
+        "users-people"
+      ],
+      "ru": [
+        "uer",
+        "пользователи"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "take care of the baby",
+        "plan for the newborn",
+        "Baby shower gift ideas",
+        "Newborn sleep schedule this week"
+      ],
+      "ru": [
+        "позаботиться о малыше",
+        "подготовиться к появлению новорождённого",
+        "Идеи подарков на детский душ",
+        "Режим сна новорождённого на этой неделе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Feed the baby",
+        "Change baby's diaper",
+        "Baby's doctor appointment",
+        "Rock the baby to sleep",
+        "Pack the diaper bag",
+        "Newborn checkup",
+        "Babyproof the house",
+        "Order baby formula",
+        "Take baby photos",
+        "Set up baby monitor"
+      ],
+      "ru": [
+        "Покормить малыша",
+        "Поменять подгузник",
+        "Визит к педиатру",
+        "Укачать малыша",
+        "Собрать сумку с подгузниками",
+        "Плановый осмотр новорождённого",
+        "Обезопасить дом для малыша",
+        "Заказать детскую смесь",
+        "Сфотографировать малыша",
+        "Настроить радионяню"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "The baby needs a bath tonight",
+        "Don't forget to feed the little one",
+        "Time for baby's nap routine",
+        "Get stuff ready for the newborn"
+      ],
+      "ru": [
+        "Малышу нужна ванночка сегодня вечером",
+        "Не забыть покормить малыша",
+        "Время дневного сна малыша",
+        "Подготовить всё для новорождённого"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Fede the baby",
+        "Babi's doctor visit",
+        "Chnage the diaper",
+        "Newbron checkup"
+      ],
+      "ru": [
+        "Покормит малыша",
+        "Визит к педатору",
+        "Памянять подгузник",
+        "Новарождённый осмотр"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy kids toys",
+        "Visit the pediatrician",
+        "Take stroller for a walk",
+        "Family photo session",
+        "Child's birthday party",
+        "Pregnancy appointment"
+      ],
+      "ru": [
+        "Купить игрушки для детей",
+        "Записаться к педиатру",
+        "Прогулка с коляской",
+        "Семейная фотосессия",
+        "День рождения ребёнка",
+        "Визит к гинекологу"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Baby shower gift ideas",
+        "Check in on the newborn",
+        "Stock up on baby supplies"
+      ],
+      "ru": [
+        "Идеи подарков на baby shower",
+        "Проверить как дела у новорождённого",
+        "Закупить товары для малыша"
+      ]
+    },
+    "test": {
+      "en": [
+        "Sort through baby clothes",
+        "Set up the crib",
+        "First week with the baby"
+      ],
+      "ru": [
+        "Разобрать детскую одежду",
+        "Собрать кроватку",
+        "Первая неделя с малышом"
+      ]
+    }
+  }
+}

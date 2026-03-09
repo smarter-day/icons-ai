@@ -1,0 +1,93 @@
+{
+  "icon": "cloud",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "atmosphere",
+        "cloud",
+        "fog",
+        "overcast",
+        "save",
+        "upload",
+        "weather"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cloud floating in the earth's atmosphere",
+        "atmosphere layer with white clouds",
+        "fluffy white cloud in the sky",
+        "cloud passing slowly overhead",
+        "morning fog and low cloud cover",
+        "foggy cloud at dawn",
+        "overcast sky with dark clouds all day",
+        "overcast cloud cover blocking the sun",
+        "save your files to the cloud",
+        "save to cloud storage automatically",
+        "upload photos to cloud storage",
+        "cloud upload in progress",
+        "cloud weather forecast icon",
+        "weather app showing cloudy skies"
+      ]
+    },
+    "regular": {
+      "en": [
+        "fluffy white cloud floating in the blue sky",
+        "dark storm cloud building on the horizon",
+        "cloud storage icon for saving files",
+        "upload data to the cloud service",
+        "overcast sky covered with gray clouds",
+        "morning fog with low cloud cover",
+        "single cloud passing over the bright sun",
+        "cloud computing server symbol",
+        "weather forecast showing cloudy conditions",
+        "cloud syncing data across all devices"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a cloud icon for the file storage feature",
+        "add a cloud symbol to the upload button",
+        "show a cloud for the weather section",
+        "use the cloud icon for the sync status"
+      ]
+    },
+    "typo": {
+      "en": [
+        "clod storage upload",
+        "overacst sky today",
+        "uploaed photos to cloud",
+        "weatehr showing cloud"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "storm cloud with a lightning bolt striking",
+        "rain cloud with drops falling below",
+        "bright sun with radiating yellow rays",
+        "smoke rising from the chimney",
+        "fog rolling in from the sea",
+        "cloud with snowflakes falling underneath"
+      ]
+    },
+    "valid": {
+      "en": [
+        "white cloud in the sky",
+        "cloud storage for saving files",
+        "overcast weather cloud"
+      ]
+    },
+    "test": {
+      "en": [
+        "cloud icon for weather",
+        "upload to cloud storage",
+        "fluffy cloud symbol"
+      ]
+    }
+  }
+}

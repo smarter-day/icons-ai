@@ -1,0 +1,202 @@
+{
+  "icon": "toilet-paper",
+  "rows": {
+    "train_en": 66,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bathroom",
+        "covid-19",
+        "halloween",
+        "holiday",
+        "lavatory",
+        "paper towels",
+        "prank",
+        "privy",
+        "restroom",
+        "roll",
+        "roll of paper",
+        "toilet",
+        "toilet paper",
+        "wipe"
+      ],
+      "ru": [
+        "ванная",
+        "COVID-19",
+        "хэллоуин",
+        "праздник",
+        "туалет",
+        "бумажные полотенца",
+        "розыгрыш",
+        "отхожее место",
+        "уборная",
+        "рулон",
+        "рулон бумаги",
+        "туалет",
+        "туалетная бумага",
+        "вытереть"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bathroom toilet paper on holder",
+        "bathroom roll of paper essential",
+        "covid-19 toilet paper shortage panic",
+        "pandemic toilet paper hoarding",
+        "halloween toilet paper prank trees",
+        "TP-ing house halloween night",
+        "holiday decorations toilet paper craft",
+        "holiday paper roll ornament",
+        "lavatory toilet paper supply",
+        "lavatory paper roll dispenser",
+        "paper towels versus toilet paper",
+        "paper towels for kitchen",
+        "prank toilet paper under door",
+        "office toilet paper prank",
+        "privy outhouse toilet paper roll",
+        "privy paper supply",
+        "restroom toilet paper stall",
+        "public restroom paper supply",
+        "roll of toilet paper empty",
+        "toilet paper roll on holder",
+        "roll of paper for printing",
+        "large paper roll craft",
+        "toilet paper essential supply",
+        "buy toilet paper grocery",
+        "toilet paper brand quilted soft",
+        "premium toilet paper",
+        "wipe toilet paper hygiene",
+        "wipe hands paper towel"
+      ],
+      "ru": [
+        "туалетная бумага в ванной на держателе",
+        "рулон бумаги необходимость в ванной",
+        "дефицит туалетной бумаги COVID-19",
+        "ажиотажная скупка туалетной бумаги пандемия",
+        "розыгрыш хэллоуин туалетная бумага деревья",
+        "облепить дом бумагой хэллоуин",
+        "поделки из туалетной бумаги праздник",
+        "украшение из рулона бумаги",
+        "туалет запас туалетной бумаги",
+        "диспенсер рулона бумаги в туалете",
+        "бумажные полотенца против туалетной бумаги",
+        "бумажные полотенца для кухни",
+        "розыгрыш туалетная бумага под дверью",
+        "офисный розыгрыш туалетная бумага",
+        "деревенский туалет рулон бумаги",
+        "запас бумаги в туалете",
+        "туалетная бумага в кабинке уборной",
+        "запас бумаги в общественном туалете",
+        "пустой рулон туалетной бумаги",
+        "рулон туалетной бумаги на держателе",
+        "рулон бумаги для печати",
+        "большой рулон бумаги для творчества",
+        "туалетная бумага необходимый запас",
+        "купить туалетную бумагу в магазине",
+        "бренд туалетной бумаги стёганая мягкая",
+        "премиум туалетная бумага",
+        "вытереть туалетной бумагой гигиена",
+        "вытереть руки бумажным полотенцем"
+      ]
+    },
+    "regular": {
+      "en": [
+        "toilet paper roll on bathroom holder",
+        "stacked toilet paper bulk buy",
+        "toilet paper running low warning",
+        "soft quilted toilet paper brand",
+        "toilet paper holder empty change roll",
+        "extra toilet paper under sink storage",
+        "two-ply toilet paper tearable",
+        "pandemic store shelves empty toilet paper",
+        "toilet paper origami hotel fold",
+        "recycled eco-friendly toilet paper"
+      ],
+      "ru": [
+        "рулон туалетной бумаги на держателе",
+        "штабель туалетной бумаги оптовая покупка",
+        "предупреждение о заканчивающейся туалетной бумаге",
+        "мягкая стёганая туалетная бумага бренд",
+        "держатель пустой сменить рулон",
+        "запас туалетной бумаги под раковиной",
+        "двухслойная туалетная бумага отрывная",
+        "пустые полки магазина пандемия туалетная бумага",
+        "оригами из туалетной бумаги складка в отеле",
+        "переработанная экологичная туалетная бумага"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a toilet paper icon for the bathroom supplies",
+        "add a paper roll symbol to the grocery list",
+        "show toilet paper for the restroom category",
+        "use the toilet-paper icon for the hygiene section"
+      ],
+      "ru": [
+        "нужна иконка туалетной бумаги для ванных принадлежностей",
+        "добавь символ рулона бумаги в список покупок",
+        "покажи туалетную бумагу для категории туалета",
+        "используй иконку туалетной бумаги для раздела гигиены"
+      ]
+    },
+    "typo": {
+      "en": [
+        "toielt paper roll",
+        "bathoom paper supply",
+        "TP toielt paper",
+        "restoom paper stall"
+      ],
+      "ru": [
+        "туалтеная бумага рулон",
+        "запас бумаги ванной",
+        "туалетная бумага запас",
+        "бумага в уборной"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "paper towel kitchen roll absorbent",
+        "tissue box facial kleenex",
+        "napkin cloth dinner table",
+        "wet wipe baby sanitizer",
+        "toilet roll holder dispenser",
+        "handkerchief cloth pocket"
+      ],
+      "ru": [
+        "бумажное полотенце кухонный рулон впитывающий",
+        "коробка салфеток клинекс",
+        "салфетка ткань обеденный стол",
+        "влажная салфетка детский антисептик",
+        "держатель туалетного рулона диспенсер",
+        "носовой платок карманный"
+      ]
+    },
+    "valid": {
+      "en": [
+        "toilet paper roll icon",
+        "bathroom paper supply",
+        "restroom paper roll"
+      ],
+      "ru": [
+        "иконка рулона туалетной бумаги",
+        "запас бумаги в ванной",
+        "рулон бумаги туалет"
+      ]
+    },
+    "test": {
+      "en": [
+        "toilet paper icon",
+        "paper roll bathroom",
+        "TP roll symbol"
+      ],
+      "ru": [
+        "иконка туалетной бумаги",
+        "рулон бумаги ванная",
+        "символ туалетной бумаги"
+      ]
+    }
+  }
+}

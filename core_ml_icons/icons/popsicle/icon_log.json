@@ -1,0 +1,160 @@
+{
+  "icon": "popsicle",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "dessert",
+        "frozen",
+        "ice lolly",
+        "lollipop",
+        "lolly",
+        "popsicle",
+        "sweet"
+      ],
+      "ru": [
+        "десерт",
+        "замороженное",
+        "мороженое на палочке",
+        "леденец",
+        "леденец",
+        "эскимо",
+        "сладкое"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "frozen dessert on a wooden stick",
+        "summer dessert treat for kids",
+        "frozen treat on a stick for hot days",
+        "frozen fruit bar on a summer afternoon",
+        "strawberry ice lolly melting in the sun",
+        "fruit-flavored ice lolly for kids",
+        "frozen lollipop ice cream bar",
+        "colorful lollipop frozen treat",
+        "orange lolly dripping in the heat",
+        "icy lolly on a stick outside",
+        "popsicle melting in summer sun",
+        "rainbow popsicle with layered flavors",
+        "sweet frozen confection on a stick",
+        "sweet icy treat on a summer day"
+      ],
+      "ru": [
+        "замороженный десерт на деревянной палочке",
+        "летнее угощение для детей на палочке",
+        "замороженное лакомство на палочке в жару",
+        "замороженный фруктовый батончик летом",
+        "клубничное мороженое на палочке тает на солнце",
+        "фруктовое мороженое на палочке для детей",
+        "замороженный леденец-эскимо",
+        "красочный замороженный леденец",
+        "апельсиновый леденец капает в жару",
+        "ледяной леденец на палочке на улице",
+        "эскимо тает под летним солнцем",
+        "радужное мороженое с разными вкусами",
+        "сладкое замороженное лакомство на палочке",
+        "сладкое ледяное угощение летним днём"
+      ]
+    },
+    "regular": {
+      "en": [
+        "colorful frozen treat on a wooden stick",
+        "strawberry popsicle dripping in the heat",
+        "classic summertime ice pop dessert",
+        "fruit-flavored frozen bar wrapped in wrapper",
+        "grape popsicle leaving purple stains on fingers",
+        "kids' favorite summer cooling treat",
+        "layered rainbow frozen ice bar",
+        "creamy vanilla ice pop on a stick",
+        "melting popsicle on a warm afternoon",
+        "assorted frozen lollies in various flavors"
+      ],
+      "ru": [
+        "красочное замороженное лакомство на деревянной палочке",
+        "клубничное эскимо капает в жару",
+        "классический летний десерт-лёд",
+        "фруктовый замороженный батончик в упаковке",
+        "виноградное эскимо оставляет фиолетовые следы",
+        "любимое летнее охлаждение для детей",
+        "многослойный радужный замороженный батончик",
+        "сливочное ванильное мороженое на палочке",
+        "тающее эскимо в тёплый полдень",
+        "ассорти замороженных леденцов разных вкусов"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a popsicle icon for the summer treats section",
+        "add a frozen lolly symbol to the dessert menu",
+        "show a popsicle for the kids' snacks feature",
+        "use the ice lolly icon for frozen desserts"
+      ],
+      "ru": [
+        "мне нужна иконка эскимо для раздела летних угощений",
+        "добавь символ замороженного леденца в меню десертов",
+        "покажи эскимо для функции детских закусок",
+        "используй иконку мороженого на палочке для замороженных десертов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "popsicle meltign in summer heat",
+        "forzen treat on a wooden stick",
+        "icy lolly on a stikc outside",
+        "froze dessert bar for kids"
+      ],
+      "ru": [
+        "эскимо тает летем в жару",
+        "замроженное лакомство на палочке",
+        "ледяной леденц на палочке",
+        "заморженный батончик для детей"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "soft serve ice cream swirled in a cone",
+        "scoop of chocolate ice cream in a waffle cone",
+        "hard candy lollipop on a paper stick",
+        "frozen yogurt cup with rainbow sprinkles",
+        "candy cane with red and white stripes",
+        "gelato served in a small paper cup"
+      ],
+      "ru": [
+        "мягкое мороженое завитком в вафельном рожке",
+        "шарик шоколадного мороженого в вафельном рожке",
+        "твёрдый леденец на бумажной палочке",
+        "замороженный йогурт в стаканчике с посыпкой",
+        "леденцовая трость в красно-белую полоску",
+        "джелато в маленьком бумажном стаканчике"
+      ]
+    },
+    "valid": {
+      "en": [
+        "frozen popsicle on a wooden stick",
+        "colorful ice lolly on a hot day",
+        "summer frozen treat on a stick"
+      ],
+      "ru": [
+        "замороженное эскимо на деревянной палочке",
+        "красочный леденец в жаркий день",
+        "летнее замороженное лакомство на палочке"
+      ]
+    },
+    "test": {
+      "en": [
+        "popsicle melting in the summer heat",
+        "fruit-flavored frozen bar on a stick",
+        "icy lolly for kids on a summer day"
+      ],
+      "ru": [
+        "эскимо тает в летнюю жару",
+        "фруктовый замороженный батончик на палочке",
+        "ледяной леденец для детей летом"
+      ]
+    }
+  }
+}

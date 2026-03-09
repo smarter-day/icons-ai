@@ -1,0 +1,172 @@
+{
+  "icon": "bat",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "animal",
+        "batman",
+        "bruce wayne",
+        "flying",
+        "gotham",
+        "halloween",
+        "mammal",
+        "vampire",
+        "wings"
+      ],
+      "ru": [
+        "животное",
+        "бэтмен",
+        "брюс уэйн",
+        "полёт",
+        "готэм",
+        "хэллоуин",
+        "млекопитающее",
+        "вампир",
+        "крылья"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "spot a wild animal",
+        "batman themed party",
+        "bruce wayne halloween costume",
+        "watch bats flying at dusk",
+        "gotham city tour",
+        "halloween bat decorations",
+        "nocturnal mammal sighting",
+        "vampire bat trivia",
+        "creature with wings at night",
+        "Wildlife animal documentary to watch",
+        "Batman comic book collection sort",
+        "Bruce Wayne character arc analysis",
+        "Flying bat seen near the cave at dusk",
+        "Gotham nightlife tour option",
+        "Halloween bat mobile hanging decoration",
+        "Mammal behavior study for class",
+        "Vampire myth documentary night",
+        "Wings spread wide in the night sky"
+      ],
+      "ru": [
+        "увидеть дикое животное",
+        "вечеринка в стиле Бэтмена",
+        "костюм Брюса Уэйна на Хэллоуин",
+        "наблюдать летящих летучих мышей в сумерках",
+        "тур по Готэму",
+        "украшения с летучими мышами на Хэллоуин",
+        "встреча с ночным млекопитающим",
+        "факты о летучих мышах-вампирах",
+        "существо с крыльями ночью",
+        "Посмотреть документальный фильм о дикой природе",
+        "Разобрать коллекцию комиксов о Бэтмене",
+        "Анализ образа Брюса Уэйна",
+        "Летучая мышь замечена у пещеры в сумерках",
+        "Ночная экскурсия по Готэму",
+        "Хэллоуинское украшение летучие мыши на потолок",
+        "Изучение поведения млекопитающих для класса",
+        "Документальный вечер о вампирских мифах",
+        "Крылья широко раскрыты в ночном небе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Set up Halloween bat decorations",
+        "Visit the bat cave at the nature reserve",
+        "Bat watching tour at sunset",
+        "Halloween party with bat theme",
+        "Buy bat costume for Halloween",
+        "Nocturnal animal exhibit at the zoo",
+        "Watch bats at the bridge at dusk",
+        "Batman marathon tonight",
+        "Decorate the house for Halloween",
+        "Research bat species for the project"
+      ],
+      "ru": [
+        "Поставить украшения с летучими мышами на Хэллоуин",
+        "Посетить пещеру летучих мышей в заповеднике",
+        "Экскурсия по наблюдению за летучими мышами на закате",
+        "Вечеринка на Хэллоуин в стиле летучих мышей",
+        "Купить костюм летучей мыши на Хэллоуин",
+        "Выставка ночных животных в зоопарке",
+        "Наблюдение за летучими мышами у моста на закате",
+        "Марафон фильмов о Бэтмене",
+        "Украсить дом к Хэллоуину",
+        "Изучить виды летучих мышей для проекта"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I love watching bats fly at night",
+        "We should do a bat-themed Halloween this year",
+        "Have you ever seen bats up close?",
+        "Let's watch the bats come out at sunset"
+      ],
+      "ru": [
+        "Люблю наблюдать за летучими мышами ночью",
+        "В этот Хэллоуин сделаем тему с летучими мышами",
+        "Вы когда-нибудь видели летучих мышей вблизи?",
+        "Давай посмотрим как вылетают летучие мыши на закате"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Hallowen bat decoratons",
+        "Batman themd party",
+        "Bat watcing at dusk",
+        "Vampir bat costume"
+      ],
+      "ru": [
+        "Украшения с летучими мышами на Хелоуин",
+        "Вечеринка в стиле Бэтмна",
+        "Наблюдать за летучиму мышами",
+        "Костюм вампра"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Bird watching at the nature reserve",
+        "Eagle soaring overhead",
+        "Dragonfly near the pond",
+        "Halloween spider decorations",
+        "Owl spotting at night",
+        "Flying squirrel exhibit"
+      ],
+      "ru": [
+        "Наблюдение за птицами в заповеднике",
+        "Орёл парит в небе",
+        "Стрекоза у пруда",
+        "Украшения с пауками на Хэллоуин",
+        "Наблюдение за совами ночью",
+        "Выставка летяг"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Halloween bat decorations for the party",
+        "Watch bats at sunset tonight",
+        "Bat cave nature tour"
+      ],
+      "ru": [
+        "Украшения с летучими мышами для вечеринки",
+        "Смотреть за летучими мышами на закате",
+        "Тур в пещеру летучих мышей"
+      ]
+    },
+    "test": {
+      "en": [
+        "Batman costume for Halloween",
+        "Nocturnal creature exhibit",
+        "Hang bat decorations outside"
+      ],
+      "ru": [
+        "Костюм Бэтмена на Хэллоуин",
+        "Выставка ночных животных",
+        "Повесить украшения с летучими мышами снаружи"
+      ]
+    }
+  }
+}

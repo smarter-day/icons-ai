@@ -1,0 +1,90 @@
+{
+  "icon": "person-meditating",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "calm",
+        "contemplate",
+        "meditate",
+        "peace",
+        "relax",
+        "yoga"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "calm person meditating quietly",
+        "find calm through daily meditation",
+        "contemplate in a seated meditation pose",
+        "quiet contemplation in meditation",
+        "meditate in the lotus position",
+        "meditating person with eyes closed",
+        "peace found through daily meditation",
+        "meditate for inner peace",
+        "relax and meditate before bed",
+        "meditation to relax the mind",
+        "yoga meditation in a seated pose",
+        "yoga and meditation practice"
+      ]
+    },
+    "regular": {
+      "en": [
+        "person sitting cross-legged in meditation",
+        "meditating figure in the lotus position",
+        "yoga practitioner in silent meditation",
+        "morning meditation for mental clarity",
+        "person breathing deeply in a calm pose",
+        "mindfulness meditation session at sunrise",
+        "meditation app icon with a seated figure",
+        "calm and centered meditation practice",
+        "stress relief through guided meditation",
+        "person meditating on a yoga mat"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a meditation icon for the wellness app",
+        "add a yoga pose to the mindfulness section",
+        "show a meditating figure for the calm feature",
+        "use the meditation icon for the relaxation timer"
+      ]
+    },
+    "typo": {
+      "en": [
+        "mediatte in lotus position",
+        "yoag meditation pose",
+        "contmeplate in silence",
+        "mintfulness meditation"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "person doing push-ups on the exercise mat",
+        "person stretching hamstrings before a run",
+        "person seated and working at a desk",
+        "person doing a warrior yoga pose standing",
+        "person lying down for a nap",
+        "person praying with hands clasped together"
+      ]
+    },
+    "valid": {
+      "en": [
+        "person meditating in lotus position",
+        "yoga meditation seated pose",
+        "calm meditation figure"
+      ]
+    },
+    "test": {
+      "en": [
+        "meditation icon",
+        "meditating person symbol",
+        "yoga meditation pose"
+      ]
+    }
+  }
+}

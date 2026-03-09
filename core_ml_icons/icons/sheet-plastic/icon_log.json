@@ -1,0 +1,154 @@
+{
+  "icon": "sheet-plastic",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "plastic",
+        "plastic wrap",
+        "protect",
+        "tarp",
+        "tarpaulin",
+        "waterproof"
+      ],
+      "ru": [
+        "пластик",
+        "пищевая плёнка",
+        "защитить",
+        "тент",
+        "брезент",
+        "водонепроницаемый"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "plastic sheet covering furniture",
+        "clear plastic sheet on floor",
+        "plastic wrap covering food bowl",
+        "plastic wrap sealing leftovers",
+        "protect furniture with plastic sheet",
+        "protect floor from paint splatter",
+        "blue tarp covering woodpile outside",
+        "tarp over camping equipment",
+        "tarpaulin covering boat in winter",
+        "tarpaulin on construction site",
+        "waterproof plastic tarp on roof",
+        "waterproof sheet for outdoor storage"
+      ],
+      "ru": [
+        "пластиковый лист накрывает мебель",
+        "прозрачный пластиковый лист на полу",
+        "пищевая плёнка накрывает миску с едой",
+        "пищевая плёнка запечатывает остатки еды",
+        "защитить мебель пластиковым листом",
+        "защитить пол от брызг краски",
+        "синий тент накрывает поленницу на улице",
+        "тент над туристическим снаряжением",
+        "брезент накрывает лодку зимой",
+        "брезент на строительной площадке",
+        "водонепроницаемый пластиковый тент на крыше",
+        "водонепроницаемый лист для хранения на улице"
+      ]
+    },
+    "regular": {
+      "en": [
+        "clear plastic sheet protecting furniture from paint",
+        "blue tarpaulin covering outdoor equipment",
+        "plastic wrap sealing food container",
+        "waterproof tarp over camping tent",
+        "construction site covered with plastic sheet",
+        "greenhouse plastic film on metal frame",
+        "moving blanket under plastic wrap on sofa",
+        "plastic sheet lining garden pond",
+        "protective plastic sheeting on window",
+        "heavy-duty tarp for landscaping project"
+      ],
+      "ru": [
+        "прозрачный пластиковый лист защищает мебель от краски",
+        "синий брезент накрывает уличное оборудование",
+        "пищевая плёнка запечатывает контейнер с едой",
+        "водонепроницаемый тент над туристической палаткой",
+        "строительная площадка накрыта пластиковым листом",
+        "плёнка теплицы на металлическом каркасе",
+        "переездное одеяло под пластиковой плёнкой на диване",
+        "пластиковый лист выстилает садовый пруд",
+        "защитная пластиковая плёнка на окне",
+        "прочный брезент для ландшафтного проекта"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a plastic sheet icon for the protection tools",
+        "add a tarp symbol to the outdoor storage section",
+        "show a plastic wrap for the food storage feature",
+        "use the sheet-plastic icon for the waterproof cover option"
+      ],
+      "ru": [
+        "мне нужна иконка пластикового листа для защитных инструментов",
+        "добавь символ тента в раздел уличного хранения",
+        "покажи пищевую плёнку для функции хранения продуктов",
+        "используй иконку пластикового листа для водонепроницаемого покрытия"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cler plastic sheet protecting furniture",
+        "blue tarpualin covering equipment",
+        "plasirc wrap sealing food container",
+        "waterproff tarp over camping tent"
+      ],
+      "ru": [
+        "прозрачный пластикоый лист защищает мебель",
+        "синий брезент накрывает оборудавние",
+        "пищевая плёнак запечатывает контейнер",
+        "водонепроницаемй тент над палаткой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "bubble wrap cushioning fragile items",
+        "aluminum foil wrapping food for storage",
+        "canvas drop cloth for painting",
+        "rubber mat for non-slip floor surface",
+        "cling film stretched over bowl",
+        "kraft paper wrapping parcel for shipping"
+      ],
+      "ru": [
+        "воздушно-пузырьковая пленка для хрупких предметов",
+        "алюминиевая фольга оборачивает еду",
+        "холщовое покрывало для покраски",
+        "резиновый коврик для нескользящего пола",
+        "пищевая плёнка натянута на миску",
+        "крафтовая бумага оборачивает посылку"
+      ]
+    },
+    "valid": {
+      "en": [
+        "plastic sheet covering furniture",
+        "waterproof tarp for outdoor use",
+        "plastic wrap protecting from damage"
+      ],
+      "ru": [
+        "пластиковый лист накрывает мебель",
+        "водонепроницаемый тент для улицы",
+        "пластиковая плёнка защищает от повреждений"
+      ]
+    },
+    "test": {
+      "en": [
+        "blue tarpaulin covering equipment",
+        "clear plastic wrap for food",
+        "plastic sheet for construction site"
+      ],
+      "ru": [
+        "синий брезент накрывает оборудование",
+        "прозрачная плёнка для еды",
+        "пластиковый лист для стройплощадки"
+      ]
+    }
+  }
+}

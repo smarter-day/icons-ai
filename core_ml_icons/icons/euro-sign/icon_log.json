@@ -1,0 +1,78 @@
+{
+  "icon": "euro-sign",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Euro Sign",
+        "currency"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Check the Euro exchange rate",
+        "Pay in Euro at the shop",
+        "Exchange currency at the airport",
+        "Convert currency before the trip"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Exchange money to Euros",
+        "Check the EUR exchange rate",
+        "Pay with Euros in Europe",
+        "Transfer money in Euros",
+        "Convert dollars to Euros",
+        "Budget the trip in Euros",
+        "Find the best Euro exchange rate",
+        "Pay the invoice in Euros",
+        "Check the Euro to dollar rate",
+        "Withdraw Euros from the ATM"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Euro trip budget",
+        "Convert to euros",
+        "Pay in euros",
+        "Check euro rate"
+      ]
+    },
+    "typo": {
+      "en": [
+        "exchagne to euross",
+        "pay in eruo",
+        "check eur excahnge rate",
+        "covnert to euros"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Convert to US dollars",
+        "Pay in British pounds",
+        "Check the Japanese yen rate",
+        "Exchange for Swiss francs",
+        "Pay in Thai baht",
+        "Use a credit card abroad"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Exchange money to Euros",
+        "Pay with Euros in Europe",
+        "Check the EUR exchange rate"
+      ]
+    },
+    "test": {
+      "en": [
+        "Convert dollars to Euros",
+        "Budget the trip in Euros",
+        "Withdraw Euros from the ATM"
+      ]
+    }
+  }
+}

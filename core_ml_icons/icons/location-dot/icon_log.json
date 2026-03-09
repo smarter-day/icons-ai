@@ -1,0 +1,208 @@
+{
+  "icon": "location-dot",
+  "rows": {
+    "train_en": 69,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "address",
+        "coordinates",
+        "destination",
+        "gps",
+        "localize",
+        "location",
+        "map",
+        "navigation",
+        "paper",
+        "pin",
+        "place",
+        "point of interest",
+        "position",
+        "route",
+        "travel"
+      ],
+      "ru": [
+        "адрес",
+        "координаты",
+        "пункт назначения",
+        "gps",
+        "локализация",
+        "местоположение",
+        "карта",
+        "навигация",
+        "бумага",
+        "булавка",
+        "место",
+        "достопримечательность",
+        "позиция",
+        "маршрут",
+        "путешествие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "home address marked with a dot",
+        "find an address on the street map",
+        "GPS coordinates for this spot",
+        "exact coordinates of the location dot",
+        "mark the destination on map",
+        "final destination pin dropped",
+        "GPS dot showing current position",
+        "live GPS location dot on screen",
+        "localize device position on map",
+        "localize search results nearby",
+        "drop a location pin here",
+        "current location dot on screen",
+        "map marker dropped on city",
+        "map dot for point of interest",
+        "navigation dot for the next stop",
+        "turn-by-turn navigation marker",
+        "paper map with a marked spot",
+        "printed paper map location",
+        "map pin dropped on restaurant",
+        "push pin marking on the map",
+        "favorite place marked with dot",
+        "saved place location dot",
+        "nearby point of interest dot",
+        "tourist point of interest marker",
+        "current position indicator dot",
+        "share my position with friends",
+        "route starting point dot",
+        "route endpoint location marker",
+        "travel destination marked with pin",
+        "travel itinerary location dot"
+      ],
+      "ru": [
+        "домашний адрес отмечен точкой",
+        "найти адрес на уличной карте",
+        "GPS координаты этого места",
+        "точные координаты точки местоположения",
+        "отметить пункт назначения на карте",
+        "конечный пункт назначения отмечен",
+        "точка GPS показывает текущую позицию",
+        "живая точка GPS местоположения",
+        "локализовать позицию устройства на карте",
+        "локализовать результаты поиска рядом",
+        "бросить булавку местоположения здесь",
+        "текущая точка местоположения на экране",
+        "маркер карты упал на город",
+        "точка карты для достопримечательности",
+        "точка навигации до следующей остановки",
+        "навигационный маркер пошагово",
+        "бумажная карта с отмеченным местом",
+        "распечатанная карта с местоположением",
+        "булавка карты упала на ресторан",
+        "метка булавки на карте",
+        "любимое место отмечено точкой",
+        "сохранённое место точка местоположения",
+        "ближайшая достопримечательность точка",
+        "маркер туристической достопримечательности",
+        "индикатор текущей позиции точка",
+        "поделиться позицией с друзьями",
+        "начальная точка маршрута",
+        "конечная точка маршрута",
+        "пункт назначения путешествия отмечен булавкой",
+        "точка маршрута путешествия"
+      ]
+    },
+    "regular": {
+      "en": [
+        "teardrop-shaped location marker on a map",
+        "red pin dropped at a specific address",
+        "filled circle dot showing current position",
+        "dropped pin for a meeting spot",
+        "saved location marker in a maps app",
+        "restaurant marked with a location dot",
+        "GPS dot indicating current coordinates",
+        "pinpoint on a city map for navigation",
+        "drop a pin to share your exact location",
+        "location badge on a digital address card"
+      ],
+      "ru": [
+        "каплевидный маркер местоположения на карте",
+        "красная булавка упала на конкретный адрес",
+        "закрашенный кружок показывающий текущую позицию",
+        "упавшая булавка для места встречи",
+        "маркер сохранённого местоположения в приложении карт",
+        "ресторан отмечен точкой местоположения",
+        "точка GPS указывающая текущие координаты",
+        "точная метка на городской карте для навигации",
+        "бросить булавку чтобы поделиться точным местоположением",
+        "значок местоположения на цифровой карточке адреса"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a location dot for my map screen",
+        "add a pin icon to the destination input field",
+        "show a location marker for saved places",
+        "use the location dot for the current position indicator"
+      ],
+      "ru": [
+        "Мне нужна точка местоположения для экрана карты",
+        "добавить иконку булавки в поле ввода пункта назначения",
+        "показать маркер местоположения для сохранённых мест",
+        "использовать точку местоположения для индикатора текущей позиции"
+      ]
+    },
+    "typo": {
+      "en": [
+        "locatoin dot on map",
+        "destinatoin pin dropped",
+        "naviagtion location marker",
+        "loaction pin dropped"
+      ],
+      "ru": [
+        "точка местоположениа на карте",
+        "пункт назначениа булавка",
+        "навигациа маркер",
+        "булавак на карте"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "crosshairs targeting a GPS coordinate",
+        "location crosshair reticle on map",
+        "outlined hollow location marker",
+        "location pin with question mark inside",
+        "navigation arrow pointing forward",
+        "map route line with waypoints"
+      ],
+      "ru": [
+        "прицел нацеленный на GPS координату",
+        "прицел местоположения на карте",
+        "незакрашенный контурный маркер местоположения",
+        "булавка местоположения со знаком вопроса внутри",
+        "навигационная стрелка указывающая вперёд",
+        "линия маршрута карты с путевыми точками"
+      ]
+    },
+    "valid": {
+      "en": [
+        "location dot dropped on a map",
+        "GPS pin marking a destination",
+        "map location marker dot"
+      ],
+      "ru": [
+        "точка местоположения на карте",
+        "GPS булавка отмечающая пункт назначения",
+        "маркер местоположения на карте"
+      ]
+    },
+    "test": {
+      "en": [
+        "dropped pin on map location",
+        "location dot for current position",
+        "teardrop map pin marker"
+      ],
+      "ru": [
+        "упавшая булавка на карту",
+        "точка местоположения для текущей позиции",
+        "каплевидная булавка карты"
+      ]
+    }
+  }
+}

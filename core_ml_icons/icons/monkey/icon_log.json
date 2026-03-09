@@ -1,0 +1,160 @@
+{
+  "icon": "monkey",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "animal",
+        "banana",
+        "fauna",
+        "mammal",
+        "monke",
+        "monkey",
+        "tail"
+      ],
+      "ru": [
+        "животное",
+        "банан",
+        "фауна",
+        "млекопитающее",
+        "обезьяна",
+        "обезьяна",
+        "хвост"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "wild animal swinging in trees",
+        "tropical animal in jungle",
+        "monkey eating a yellow banana",
+        "banana peel dropped by monkey",
+        "tropical fauna in rainforest",
+        "exotic fauna wildlife",
+        "primate mammal with opposable thumbs",
+        "mammal living in treetops",
+        "monke internet meme animal",
+        "cheeky monke face",
+        "monkey hanging from branch",
+        "cute cartoon monkey character",
+        "long tail of a monkey swinging",
+        "prehensile tail for gripping"
+      ],
+      "ru": [
+        "дикое животное качающееся на деревьях",
+        "тропическое животное в джунглях",
+        "обезьяна ест жёлтый банан",
+        "кожура банана брошенная обезьяной",
+        "тропическая фауна в дождевом лесу",
+        "экзотическая фауна дикой природы",
+        "примат млекопитающее с противопоставленными большими пальцами",
+        "млекопитающее живущее на верхушках деревьев",
+        "интернет-мем обезьяна",
+        "дерзкая мордочка обезьяны",
+        "обезьяна висящая на ветке",
+        "милый мультяшный персонаж обезьяна",
+        "длинный хвост качающейся обезьяны",
+        "хватательный хвост для захвата"
+      ]
+    },
+    "regular": {
+      "en": [
+        "cute cartoon monkey with banana",
+        "wild primate swinging through jungle",
+        "chimp or gorilla face illustration",
+        "monkey emoji playful animal",
+        "three wise monkeys see no evil",
+        "zoo monkey on a rope",
+        "spider monkey long limbs and tail",
+        "baby monkey clinging to mother",
+        "capuchin monkey in tropical forest",
+        "chimpanzee using a tool"
+      ],
+      "ru": [
+        "милая мультяшная обезьяна с бананом",
+        "дикий примат качающийся через джунгли",
+        "иллюстрация лица шимпанзе или гориллы",
+        "эмодзи обезьяны игривое животное",
+        "три мудрые обезьяны ничего не вижу",
+        "обезьяна в зоопарке на верёвке",
+        "паукообразная обезьяна длинные конечности и хвост",
+        "детёныш обезьяны цепляющийся за мать",
+        "капуцин в тропическом лесу",
+        "шимпанзе использующий инструмент"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a monkey icon for the jungle game",
+        "add a primate symbol to the animal category",
+        "show a monkey for the wildlife section",
+        "use the monkey icon for the fun animal picker"
+      ],
+      "ru": [
+        "Мне нужна иконка обезьяны для игры в джунглях",
+        "добавить символ примата в категорию животных",
+        "показать обезьяну для раздела дикой природы",
+        "использовать иконку обезьяны для веселого выбора животного"
+      ]
+    },
+    "typo": {
+      "en": [
+        "mokey animal",
+        "bananaa monkey",
+        "primte swinging",
+        "monky tail"
+      ],
+      "ru": [
+        "обезяна животное",
+        "банна обезьяна",
+        "прмиат деревья",
+        "хвос обезьяны"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "gorilla large ape standing upright",
+        "chimpanzee using tools in research",
+        "parrot colorful tropical bird",
+        "tiger in tropical jungle",
+        "lemur with striped tail from Madagascar",
+        "sloth hanging upside down from branch"
+      ],
+      "ru": [
+        "горилла большая обезьяна стоящая прямо",
+        "шимпанзе использующий инструменты в исследованиях",
+        "яркий тропический попугай",
+        "тигр в тропических джунглях",
+        "лемур с полосатым хвостом с Мадагаскара",
+        "ленивец висящий вниз головой на ветке"
+      ]
+    },
+    "valid": {
+      "en": [
+        "monkey swinging in jungle",
+        "cartoon monkey with banana",
+        "primate animal icon"
+      ],
+      "ru": [
+        "обезьяна качающаяся в джунглях",
+        "мультяшная обезьяна с бананом",
+        "иконка животного примата"
+      ]
+    },
+    "test": {
+      "en": [
+        "monkey animal icon",
+        "jungle monkey hanging",
+        "cute monkey character"
+      ],
+      "ru": [
+        "иконка животного обезьяна",
+        "обезьяна висящая в джунглях",
+        "милый персонаж обезьяна"
+      ]
+    }
+  }
+}

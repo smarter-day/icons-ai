@@ -1,0 +1,154 @@
+{
+  "icon": "chart-gantt",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "chart",
+        "graph",
+        "performance",
+        "statistics",
+        "track",
+        "trend"
+      ],
+      "ru": [
+        "диаграмма",
+        "график",
+        "производительность",
+        "статистика",
+        "отслеживать",
+        "тренд"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Chart progress on the project timeline",
+        "Chart all tasks in the Gantt view",
+        "Graph the project schedule visually",
+        "Graph tasks and dependencies",
+        "Performance tracking on the Gantt chart",
+        "Performance metrics across the timeline",
+        "Statistics report generated from the Gantt",
+        "Statistics on team workload over the quarter",
+        "Track project milestones on the chart",
+        "Track deadlines across the schedule",
+        "Trend line for delivery dates",
+        "Trend analysis of the sprint burndown"
+      ],
+      "ru": [
+        "График хода проекта на шкале времени",
+        "Отображение всех задач в виде Ганта",
+        "Визуализировать расписание проекта",
+        "Задачи и зависимости в графике",
+        "Отслеживание производительности на диаграмме Ганта",
+        "Метрики по временной шкале",
+        "Статистический отчёт из диаграммы Ганта",
+        "Статистика загрузки команды за квартал",
+        "Отслеживать вехи проекта на графике",
+        "Отслеживать дедлайны по расписанию",
+        "Линия тренда для дат поставки",
+        "Анализ тренда выгорания спринта"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Build the project Gantt chart in the tool",
+        "Update the Gantt chart with new deadlines",
+        "Share the Gantt chart with the team",
+        "Sprint timeline on the Gantt",
+        "Add dependencies to the project chart",
+        "Gantt chart for the product launch",
+        "Review project schedule in Gantt view",
+        "Gantt chart export for the stakeholders",
+        "Task duration blocks on the Gantt",
+        "Monthly Gantt overview for the team"
+      ],
+      "ru": [
+        "Построить диаграмму Ганта проекта",
+        "Обновить диаграмму с новыми дедлайнами",
+        "Поделиться диаграммой Ганта с командой",
+        "Шкала спринта на диаграмме Ганта",
+        "Добавить зависимости на график проекта",
+        "Диаграмма Ганта для запуска продукта",
+        "Просмотр расписания в формате Ганта",
+        "Экспорт диаграммы для стейкхолдеров",
+        "Блоки длительности задач",
+        "Ежемесячный обзор диаграммы Ганта"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "gantt is getting really messy now",
+        "need to update the project timeline",
+        "put everything into the Gantt chart",
+        "dependencies are blocking the whole schedule"
+      ],
+      "ru": [
+        "диаграмма Ганта уже совсем запуталась",
+        "нужно обновить временную шкалу",
+        "внести всё в диаграмму Ганта",
+        "зависимости блокируют всё расписание"
+      ]
+    },
+    "typo": {
+      "en": [
+        "gannt chart for the projcet timeline",
+        "update the gant chart with dealdines",
+        "add depencies to the projet chart",
+        "montly gant overveiw for the teem"
+      ],
+      "ru": [
+        "диаграмма ганта для проекта",
+        "обновить диаграмму с дедлайнами",
+        "добавить зависимоти на график",
+        "ежемесячный обзор диаграммы ганта"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Pie chart for the revenue breakdown",
+        "Bar chart for the sales comparison",
+        "Line graph for the trend analysis",
+        "Kanban board for the sprint tasks",
+        "Spreadsheet for the project data",
+        "Burndown chart for the sprint velocity"
+      ],
+      "ru": [
+        "Круговая диаграмма для разбивки доходов",
+        "Столбчатая диаграмма сравнения продаж",
+        "Линейный график для анализа трендов",
+        "Канбан-доска для задач спринта",
+        "Таблица для данных проекта",
+        "Диаграмма сгорания спринта"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Update the Gantt chart with new milestones",
+        "Share the project timeline with the team",
+        "Gantt for the product launch plan"
+      ],
+      "ru": [
+        "Обновить диаграмму Ганта с новыми вехами",
+        "Поделиться временной шкалой с командой",
+        "Ганта для плана запуска продукта"
+      ]
+    },
+    "test": {
+      "en": [
+        "Build a Gantt chart for the project",
+        "Add task dependencies to the schedule",
+        "Monthly project timeline review"
+      ],
+      "ru": [
+        "Построить диаграмму Ганта",
+        "Добавить зависимости задач в расписание",
+        "Ежемесячный обзор временной шкалы"
+      ]
+    }
+  }
+}

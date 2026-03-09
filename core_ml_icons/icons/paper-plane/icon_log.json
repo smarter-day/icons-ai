@@ -1,0 +1,154 @@
+{
+  "icon": "paper-plane",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "air",
+        "float",
+        "fold",
+        "mail",
+        "paper",
+        "send"
+      ],
+      "ru": [
+        "воздух",
+        "парить",
+        "складывать",
+        "почта",
+        "бумага",
+        "отправить"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "paper plane flying through air",
+        "air glider paper plane",
+        "float through sky paper plane",
+        "floating paper craft plane",
+        "fold origami paper plane",
+        "fold and throw paper airplane",
+        "send a message paper plane icon",
+        "mail sent via paper plane",
+        "paper folded into a plane",
+        "paper airplane from office paper",
+        "send button shaped like plane",
+        "send email with paper plane"
+      ],
+      "ru": [
+        "бумажный самолётик летящий в воздухе",
+        "бумажный самолётик-планер",
+        "парить в небе бумажный самолётик",
+        "парящий бумажный самолётик",
+        "складывать оригами бумажный самолётик",
+        "сложить и бросить бумажный самолётик",
+        "иконка отправить сообщение бумажным самолётиком",
+        "почта отправленная через бумажный самолётик",
+        "бумага сложенная в самолётик",
+        "бумажный самолётик из офисной бумаги",
+        "кнопка отправки в форме самолётика",
+        "отправить email с бумажным самолётиком"
+      ]
+    },
+    "regular": {
+      "en": [
+        "origami paper airplane in flight",
+        "send button shaped like paper plane",
+        "paper airplane folded from notebook paper",
+        "paper plane emoji for sending message",
+        "childhood paper plane tossed in classroom",
+        "paper plane icon in messaging app",
+        "paper plane as send action in chat",
+        "floating paper airplane symbol",
+        "paper plane for email submission",
+        "paper dart airplane throwing contest"
+      ],
+      "ru": [
+        "бумажный самолётик оригами в полёте",
+        "кнопка отправки в форме бумажного самолётика",
+        "бумажный самолётик сложенный из тетрадной бумаги",
+        "эмодзи бумажного самолётика для отправки сообщения",
+        "детский бумажный самолётик брошенный в классе",
+        "иконка бумажного самолётика в приложении для сообщений",
+        "бумажный самолётик как действие отправки в чате",
+        "символ парящего бумажного самолётика",
+        "бумажный самолётик для отправки email",
+        "конкурс по метанию бумажных самолётиков"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a paper plane icon for the send button",
+        "add a paper airplane to the message send feature",
+        "show a paper plane for the email compose screen",
+        "use the paper plane icon for the submit action"
+      ],
+      "ru": [
+        "Мне нужна иконка бумажного самолётика для кнопки отправки",
+        "добавить бумажный самолётик в функцию отправки сообщений",
+        "показать бумажный самолётик для экрана написания email",
+        "использовать иконку самолётика для действия отправки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "papr plane send",
+        "paper palane flight",
+        "sned paper plane",
+        "papepr airplane"
+      ],
+      "ru": [
+        "бумажнй самолётик",
+        "самолётик бмуага",
+        "отправть самолётик",
+        "бумажный самолтик"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "rocket ship for space launch",
+        "airplane jet for air travel",
+        "bird flying through sky",
+        "kite flying in the wind",
+        "message bubble for chat",
+        "envelope icon for sending email"
+      ],
+      "ru": [
+        "ракета для космического запуска",
+        "реактивный самолёт для воздушных перелётов",
+        "птица летящая в небе",
+        "воздушный змей летящий на ветру",
+        "пузырь сообщения для чата",
+        "иконка конверта для отправки email"
+      ]
+    },
+    "valid": {
+      "en": [
+        "paper plane for sending messages",
+        "origami paper airplane icon",
+        "send button paper plane"
+      ],
+      "ru": [
+        "бумажный самолётик для отправки сообщений",
+        "иконка оригами бумажного самолётика",
+        "кнопка отправки бумажный самолётик"
+      ]
+    },
+    "test": {
+      "en": [
+        "paper plane icon",
+        "send action paper airplane",
+        "origami plane in flight"
+      ],
+      "ru": [
+        "иконка бумажного самолётика",
+        "действие отправки бумажный самолётик",
+        "оригами самолётик в полёте"
+      ]
+    }
+  }
+}

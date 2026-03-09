@@ -1,0 +1,102 @@
+{
+  "icon": "desktop",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "computer",
+        "cpu",
+        "desktop",
+        "desktop computer",
+        "device",
+        "imac",
+        "machine",
+        "monitor",
+        "pc",
+        "screen"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Set up the computer at home",
+        "Repair the computer",
+        "Upgrade the CPU for better performance",
+        "Replace the CPU",
+        "Clean up the desktop",
+        "Organize the desktop icons",
+        "Buy a new desktop computer",
+        "Configure the desktop computer",
+        "Connect a new device to the network",
+        "Set up the device",
+        "Get a new iMac for the studio",
+        "Set up the iMac at work",
+        "Repair the machine",
+        "Service the machine regularly",
+        "Adjust the monitor brightness",
+        "Position the monitor ergonomically",
+        "Build a gaming PC",
+        "Set up the new PC",
+        "Clean the screen",
+        "Replace the cracked screen"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Set up the iMac on the desk",
+        "Buy a new desktop computer for work",
+        "Upgrade the RAM in the desktop",
+        "Install software on the desktop PC",
+        "Clean the monitor screen",
+        "Connect an external monitor",
+        "Back up data from the desktop",
+        "Replace the old desktop with a new one",
+        "Configure the display settings",
+        "Set up the home office desktop"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "New iMac day",
+        "Desktop upgrade",
+        "Set up the PC",
+        "New screen"
+      ]
+    },
+    "typo": {
+      "en": [
+        "set up the desktpo computer",
+        "by a new imac",
+        "clen the monitr screen",
+        "upgarde the pc"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy a new laptop for travel",
+        "Set up a tablet for the kids",
+        "Connect a keyboard to the laptop",
+        "Use a gaming console",
+        "Set up a second monitor for the laptop",
+        "Configure a server machine"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Set up the desktop computer",
+        "Buy a new iMac for the office",
+        "Configure the PC display"
+      ]
+    },
+    "test": {
+      "en": [
+        "Upgrade the desktop PC",
+        "Install software on the desktop",
+        "Clean the computer screen"
+      ]
+    }
+  }
+}

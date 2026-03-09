@@ -1,0 +1,148 @@
+{
+  "icon": "train-subway",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "machine",
+        "railway",
+        "train",
+        "transportation",
+        "vehicle"
+      ],
+      "ru": [
+        "машина",
+        "железная дорога",
+        "поезд",
+        "транспорт",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "subway machine underground train",
+        "subway train car machine",
+        "railway subway underground line",
+        "subway railway network map",
+        "subway train metro rapid",
+        "underground subway train city",
+        "transportation subway commute",
+        "subway mass transportation system",
+        "vehicle subway train carriage",
+        "subway vehicle interior seats"
+      ],
+      "ru": [
+        "подземный поезд машина метро",
+        "вагон метро машина",
+        "железная дорога метро подземная линия",
+        "карта сети метро железная дорога",
+        "скоростное метро поезд",
+        "подземный поезд городское метро",
+        "транспорт метро ежедневная поездка",
+        "система массового транспорта метро",
+        "вагон метро транспортное средство",
+        "интерьер вагона метро сиденья"
+      ]
+    },
+    "regular": {
+      "en": [
+        "subway train underground metro",
+        "NYC subway train at station",
+        "Tokyo metro rapid transit",
+        "subway map route planner",
+        "subway commuter rush hour",
+        "subway train door opening closing",
+        "subway platform waiting commuter",
+        "overnight subway train sleeper",
+        "subway train electric third rail",
+        "subway route transfer connection"
+      ],
+      "ru": [
+        "поезд метро подземный",
+        "поезд метро Нью-Йорка на станции",
+        "токийское метро скоростной транзит",
+        "карта маршрутов метро планировщик",
+        "метро час пик пассажиры",
+        "двери поезда метро открываются закрываются",
+        "ожидание на перроне метро",
+        "ночной поезд метро спальный",
+        "электрический поезд метро третий рельс",
+        "пересадка маршрута метро соединение"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a subway train icon for the transit section",
+        "add a metro symbol to the transportation feature",
+        "show a subway train for the commute planner",
+        "use the train-subway icon for the underground route"
+      ],
+      "ru": [
+        "нужна иконка поезда метро для раздела транзита",
+        "добавь символ метро к функции транспорта",
+        "покажи поезд метро для планировщика поездок",
+        "используй иконку метро для подземного маршрута"
+      ]
+    },
+    "typo": {
+      "en": [
+        "subay train metro",
+        "railwy subway train",
+        "commut subway train",
+        "tranit subway vehicle"
+      ],
+      "ru": [
+        "метро поезд подземный",
+        "железная дорога метро поезд",
+        "маршрут метро пассажиры",
+        "транспорт метро вагон"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "tram light rail street level",
+        "bus public transit route",
+        "commuter train overground rail",
+        "monorail elevated single rail",
+        "funicular cable car steep hill",
+        "high speed train bullet train"
+      ],
+      "ru": [
+        "трамвай лёгкий рельсовый транспорт",
+        "автобус общественный маршрут",
+        "пригородный поезд надземная железная дорога",
+        "монорельс надземный одиночный рельс",
+        "фуникулёр канатная машина крутой спуск",
+        "скоростной поезд синкансен"
+      ]
+    },
+    "valid": {
+      "en": [
+        "subway train metro icon",
+        "underground train symbol",
+        "city subway transit"
+      ],
+      "ru": [
+        "иконка поезда метро",
+        "символ подземного поезда",
+        "городское метро транзит"
+      ]
+    },
+    "test": {
+      "en": [
+        "subway icon transit",
+        "metro train symbol",
+        "underground train city"
+      ],
+      "ru": [
+        "иконка метро транзит",
+        "символ поезда метро",
+        "подземный поезд город"
+      ]
+    }
+  }
+}

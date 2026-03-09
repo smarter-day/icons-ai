@@ -1,0 +1,96 @@
+{
+  "icon": "cookie-bite",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "baked good",
+        "bitten",
+        "chips",
+        "chocolate",
+        "eat",
+        "snack",
+        "sweet",
+        "treat"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Take a bite out of the baked good",
+        "Half-eaten baked good on the plate",
+        "Cookie with a bitten piece",
+        "Half bitten cookie on the desk",
+        "Chocolate chips in the half-eaten cookie",
+        "Chocolate chip cookie with a bite",
+        "Bite into the chocolate cookie",
+        "Chocolate cookie half eaten",
+        "Start eating the snack",
+        "Eat just a bit of the snack",
+        "Quick snack between tasks",
+        "Nibble on a snack",
+        "Bite into something sweet",
+        "Take a small sweet bite",
+        "Give the kids a treat",
+        "Taste the treat"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Take a bite of the cookie",
+        "Leave a half-eaten cookie on the plate",
+        "Snack on a cookie while working",
+        "Eat just one cookie",
+        "Try a bite of the dessert",
+        "Nibble on a chocolate cookie",
+        "Have a cookie break at work",
+        "Share a cookie with a friend",
+        "Eat a cookie in between meetings",
+        "Bite into a fresh cookie"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Just one bite",
+        "Half a cookie",
+        "Quick nibble",
+        "Bite that cookie"
+      ]
+    },
+    "typo": {
+      "en": [
+        "half eaten cooike",
+        "bitten choclate cookie",
+        "cokie with a bite",
+        "snakc on a cookie"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Eat a whole unbitten cookie",
+        "Bake a full batch of cookies",
+        "Have a piece of cake",
+        "Eat a full brownie",
+        "Share a whole cookie",
+        "Buy a bag of cookies at the store"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Take a bite of the cookie",
+        "Half-eaten cookie on the desk",
+        "Nibble on a chocolate cookie"
+      ]
+    },
+    "test": {
+      "en": [
+        "Snack on a bitten cookie",
+        "Eat just a piece of the cookie",
+        "Cookie with one bite taken"
+      ]
+    }
+  }
+}

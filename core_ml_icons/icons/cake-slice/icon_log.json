@@ -1,0 +1,148 @@
+{
+  "icon": "cake-slice",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "birthday",
+        "cake",
+        "dessert",
+        "frosting",
+        "icing"
+      ],
+      "ru": [
+        "день рождения",
+        "торт",
+        "десерт",
+        "глазурь",
+        "айсинг"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Birthday cake slice for the guest",
+        "Cut the cake for dessert",
+        "Dessert slice after dinner",
+        "Frosting on the cake slice",
+        "Icing decoration on the slice",
+        "Order birthday cake for the party",
+        "Pick up a slice of cake to go",
+        "Try the dessert menu after lunch",
+        "Cake with thick frosting on top",
+        "Apply icing to the cupcakes now"
+      ],
+      "ru": [
+        "Кусочек торта на день рождения для гостя",
+        "Разрезать торт на десерт",
+        "Кусочек десерта после ужина",
+        "Глазурь на кусочке торта",
+        "Украшение айсингом на кусочке",
+        "Заказать торт на день рождения к вечеринке",
+        "Взять кусочек торта с собой",
+        "Попробовать меню десертов после обеда",
+        "Торт с толстым слоем глазури сверху",
+        "Нанести айсинг на кексы сейчас"
+      ]
+    },
+    "regular": {
+      "en": [
+        "One slice of chocolate cake",
+        "Cut and serve the birthday cake",
+        "Save a slice for later",
+        "Slice of cheesecake at the cafe",
+        "Piece of wedding cake to go",
+        "Leftover cake slice for breakfast",
+        "Carrot cake slice from the bakery",
+        "Single serving of layered cake",
+        "Portion the cake into slices",
+        "Last slice of the birthday cake"
+      ],
+      "ru": [
+        "Один кусочек шоколадного торта",
+        "Нарезать и подать торт на день рождения",
+        "Отложить кусочек на потом",
+        "Кусочек чизкейка в кафе",
+        "Кусочек свадебного торта с собой",
+        "Оставшийся кусочек торта на завтрак",
+        "Кусочек морковного торта из кондитерской",
+        "Одна порция слоёного торта",
+        "Нарезать торт на кусочки",
+        "Последний кусочек торта на день рождения"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "can I have just one slice",
+        "saved you the last piece of cake",
+        "that slice has the most frosting",
+        "sneaking a slice before the party"
+      ],
+      "ru": [
+        "можно мне один кусочек",
+        "сохранил тебе последний кусочек",
+        "на этом кусочке больше всего глазури",
+        "стащить кусочек до вечеринки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "slise of chocolate cake",
+        "birtday cake pice for dessert",
+        "frostting on the cake slice",
+        "desssert slice after diner"
+      ],
+      "ru": [
+        "кусочек шоколадного торрта",
+        "кусочек торта на день рождение",
+        "глазурь на кусочке торрта",
+        "кусочек десерата после ужина"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Full birthday cake with all the candles",
+        "Whole uncut cake before the party",
+        "Cupcake individual serving for one",
+        "Slice of apple pie from the bakery",
+        "Donut for dessert today",
+        "Cookie instead of a cake slice"
+      ],
+      "ru": [
+        "Целый торт со всеми свечами",
+        "Нетронутый торт до вечеринки",
+        "Индивидуальный кекс для одного",
+        "Кусочек яблочного пирога из кондитерской",
+        "Пончик на десерт сегодня",
+        "Печенье вместо кусочка торта"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Slice of celebration cake after dinner",
+        "One piece of birthday cake left",
+        "Dessert slice at the restaurant"
+      ],
+      "ru": [
+        "Кусочек праздничного торта после ужина",
+        "Последний кусочек торта на день рождения",
+        "Кусочек десерта в ресторане"
+      ]
+    },
+    "test": {
+      "en": [
+        "Cut a slice of the cake",
+        "Grab the last slice before it's gone",
+        "Frosted slice of birthday cake"
+      ],
+      "ru": [
+        "Отрезать кусочек торта",
+        "Взять последний кусочек пока не забрали",
+        "Кусочек торта с глазурью на день рождения"
+      ]
+    }
+  }
+}

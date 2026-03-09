@@ -1,0 +1,105 @@
+{
+  "icon": "heart",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ace",
+        "card",
+        "favorite",
+        "game",
+        "heart",
+        "heart suit",
+        "like",
+        "love",
+        "relationship",
+        "valentine",
+        "wishlist"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "ace of hearts card",
+        "ace heart in the card game",
+        "heart card in the deck",
+        "card with a heart suit",
+        "heart to mark a favorite",
+        "add to favorites with a heart",
+        "heart in the card game",
+        "heart suit for the game",
+        "red heart icon",
+        "heart shape symbol",
+        "heart suit in playing cards",
+        "hearts suit card game",
+        "heart like button on the post",
+        "tap heart to like the post",
+        "heart representing love",
+        "love shown with a heart",
+        "heart for a relationship",
+        "relationship shown by heart symbol",
+        "valentine heart card",
+        "heart for Valentine's Day",
+        "heart on the wishlist button",
+        "add to wishlist with a heart"
+      ]
+    },
+    "regular": {
+      "en": [
+        "red heart symbol for love",
+        "heart icon for the like button",
+        "anatomical heart with four chambers",
+        "heart emoji on the social post",
+        "heart shape cut from red paper",
+        "heart symbol on the Valentine's card",
+        "heart on the wishlist button",
+        "ace of hearts playing card",
+        "heart logo for the health app",
+        "heart rate shown with a heart icon"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a heart icon for the like button",
+        "add a heart symbol to the favorites section",
+        "show a heart for the wishlist feature",
+        "use the heart icon for the love reaction"
+      ]
+    },
+    "typo": {
+      "en": [
+        "valentien heart card",
+        "favortie heart button",
+        "hearth rate monitor",
+        "wishilst heart button"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "cluster of red hearts floating upward",
+        "love letter sealed with a kiss",
+        "engagement ring with a diamond",
+        "red rose bouquet for romance",
+        "heart rate graph on a fitness tracker",
+        "full suit of hearts playing cards"
+      ]
+    },
+    "valid": {
+      "en": [
+        "red heart for like button",
+        "heart on the wishlist",
+        "Valentine's heart symbol"
+      ]
+    },
+    "test": {
+      "en": [
+        "heart icon",
+        "heart like symbol",
+        "red heart for love"
+      ]
+    }
+  }
+}

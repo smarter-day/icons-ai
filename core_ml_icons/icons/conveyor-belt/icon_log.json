@@ -1,0 +1,87 @@
+{
+  "icon": "conveyor-belt",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "carousel",
+        "inventory",
+        "manufacture",
+        "packaging",
+        "shipping"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Watch bags on the luggage carousel",
+        "Pick up suitcase from the carousel",
+        "Update the warehouse inventory",
+        "Do a full inventory count",
+        "Tour the manufacture facility",
+        "Monitor the manufacture process",
+        "Set up the packaging line",
+        "Speed up the packaging process",
+        "Track the shipping order",
+        "Optimize shipping workflow"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Pick up luggage at the airport",
+        "Monitor the production line",
+        "Inspect items on the assembly line",
+        "Speed up the packaging process",
+        "Check goods moving through the factory",
+        "Optimize the warehouse workflow",
+        "Set up automated sorting",
+        "Track items through the assembly line",
+        "Manage the production schedule",
+        "Visit the manufacturing plant"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Watch the belt",
+        "Factory line check",
+        "Grab it off the belt",
+        "Production running"
+      ]
+    },
+    "typo": {
+      "en": [
+        "conveyro belt speed",
+        "packagin line setup",
+        "inventroy on the belt",
+        "manufcature process"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Pack boxes and send to warehouse",
+        "Ship goods in a container",
+        "Sort documents in the filing cabinet",
+        "Unload the delivery truck",
+        "Organize items on warehouse shelves",
+        "Track the package delivery"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Monitor the conveyor belt",
+        "Pick up luggage from the carousel",
+        "Check the production line speed"
+      ]
+    },
+    "test": {
+      "en": [
+        "Inspect the assembly line",
+        "Set up the packaging belt",
+        "Track items on the factory belt"
+      ]
+    }
+  }
+}

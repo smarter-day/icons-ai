@@ -1,0 +1,148 @@
+{
+  "icon": "caravan",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "camper",
+        "motor home",
+        "rv",
+        "trailer",
+        "travel"
+      ],
+      "ru": [
+        "кемпер",
+        "моторхом",
+        "дом на колёсах",
+        "трейлер",
+        "путешествие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Camper van trip this summer",
+        "Motor home rental for the vacation",
+        "RV park reservation for the weekend",
+        "Trailer hookup before departure",
+        "Road travel in the caravan",
+        "Camper van supplies shopping list",
+        "Motor home check-in at the campsite",
+        "RV awning repair before the trip",
+        "Trailer hitch installed on the tow vehicle",
+        "Travel route planned for the caravan trip"
+      ],
+      "ru": [
+        "Поездка на кемпере этим летом",
+        "Аренда моторхома на отпуск",
+        "Бронирование места в RV-парке на выходные",
+        "Подключить прицеп перед отъездом",
+        "Путешествие в фургоне-доме",
+        "Список покупок для кемпера",
+        "Регистрация дома на колёсах на кемпинге",
+        "Ремонт навеса автодома перед поездкой",
+        "Фаркоп установлен на буксирующем автомобиле",
+        "Маршрут путешествия каравана спланирован"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Book an RV for the national park trip",
+        "Caravan holiday along the coast",
+        "Pack the camper van for the weekend",
+        "Find an RV campsite nearby",
+        "Caravan service before the long trip",
+        "Motorhome route planning",
+        "Load up the trailer for the camping trip",
+        "Caravan park check-in time",
+        "Family road trip in the RV",
+        "Caravan storage after the season"
+      ],
+      "ru": [
+        "Арендовать дом на колёсах для поездки в нацпарк",
+        "Отпуск на трейлере вдоль побережья",
+        "Собрать кемпер на выходные",
+        "Найти кемпинг для дома на колёсах поблизости",
+        "Техобслуживание фургона перед долгой поездкой",
+        "Планирование маршрута на моторхоме",
+        "Загрузить прицеп для кемпинга",
+        "Время заезда на стоянку для фургонов",
+        "Семейная поездка на доме на колёсах",
+        "Хранение фургона после сезона"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "living the van life this summer",
+        "packed the RV and ready to go",
+        "caravan spots fill up fast",
+        "doing the whole trip in the camper"
+      ],
+      "ru": [
+        "ван-лайф этим летом",
+        "собрали дом на колёсах готовы ехать",
+        "места для трейлеров быстро заканчиваются",
+        "весь отпуск в кемпере"
+      ]
+    },
+    "typo": {
+      "en": [
+        "carvan holiday along the coast",
+        "rv campsite resevation",
+        "motorhome roote planning",
+        "camper van servce before the trip"
+      ],
+      "ru": [
+        "отпуск на трейлере вдоль побережья",
+        "бронирование места для дома на колёсах",
+        "планирование маршрута моторхома",
+        "техобслуживание кемпера перед поездкой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Tent camping at the national park",
+        "City bus tour of the area",
+        "Cargo trailer hitched to the car",
+        "Hotel booking for the vacation",
+        "Cabin rental in the woods",
+        "Bicycle touring route this summer"
+      ],
+      "ru": [
+        "Кемпинг в палатке в нацпарке",
+        "Городской автобусный тур по окрестностям",
+        "Грузовой прицеп прицеплен к машине",
+        "Бронирование отеля на отпуск",
+        "Аренда коттеджа в лесу",
+        "Велосипедный маршрут этим летом"
+      ]
+    },
+    "valid": {
+      "en": [
+        "RV campsite booking for the summer trip",
+        "Caravan park near the beach",
+        "Pack up the motor home for departure"
+      ],
+      "ru": [
+        "Бронирование кемпинга для летней поездки",
+        "Стоянка для домов на колёсах у пляжа",
+        "Собрать моторхом к отъезду"
+      ]
+    },
+    "test": {
+      "en": [
+        "Family caravan holiday this year",
+        "RV trip across the country",
+        "Camper van for the road trip"
+      ],
+      "ru": [
+        "Семейный отпуск в фургоне в этом году",
+        "Поездка на доме на колёсах через страну",
+        "Кемпер для дорожного путешествия"
+      ]
+    }
+  }
+}

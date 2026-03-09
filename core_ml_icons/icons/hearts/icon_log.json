@@ -1,0 +1,84 @@
+{
+  "icon": "hearts",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "favorite",
+        "hearts",
+        "love",
+        "valentine"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "hearts marking a favorite item",
+        "add to favorites with hearts",
+        "multiple hearts for the reaction",
+        "hearts floating up on a live stream",
+        "hearts expressing love",
+        "love shown with hearts",
+        "valentine hearts for February",
+        "hearts for the Valentine's Day card"
+      ]
+    },
+    "regular": {
+      "en": [
+        "multiple red hearts floating upward",
+        "hearts reaction on the social post",
+        "Valentine's Day card filled with hearts",
+        "hearts emoji for expressing love",
+        "heart confetti scattered for the celebration",
+        "double heart symbol for a strong bond",
+        "hearts pattern for the love theme",
+        "hearts on the dating app profile",
+        "animated hearts floating in the live stream",
+        "colorful hearts for the greeting card"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a hearts icon for the love feature",
+        "add hearts to the Valentine's Day section",
+        "show hearts for the favorites reaction",
+        "use the hearts icon for the like animation"
+      ]
+    },
+    "typo": {
+      "en": [
+        "valentien hearts card",
+        "favoirite hearts",
+        "hearst floating up",
+        "lve hearts reaction"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "single red heart for the like button",
+        "gold star for a favorite rating",
+        "thumbs up like on the social post",
+        "diamond ring for engagement",
+        "rose bouquet for romance",
+        "smiley face emoji for happiness"
+      ]
+    },
+    "valid": {
+      "en": [
+        "multiple hearts for Valentine's Day",
+        "hearts reaction on the post",
+        "love hearts symbol"
+      ]
+    },
+    "test": {
+      "en": [
+        "hearts icon",
+        "hearts for love",
+        "valentine hearts symbol"
+      ]
+    }
+  }
+}

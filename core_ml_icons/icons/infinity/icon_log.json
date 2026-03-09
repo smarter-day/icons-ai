@@ -1,0 +1,90 @@
+{
+  "icon": "infinity",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "eternity",
+        "forever",
+        "infinity",
+        "math",
+        "unbounded",
+        "universal"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "eternity symbol of infinity",
+        "eternity ring with infinity shape",
+        "forever represented by the infinity loop",
+        "love that lasts forever infinity symbol",
+        "infinity sign looping endlessly",
+        "infinity symbol for endless possibilities",
+        "math infinity symbol in calculus",
+        "infinity notation in mathematics",
+        "unbounded set infinity in math",
+        "infinite unbounded growth symbol",
+        "universal set symbol in mathematics",
+        "universal infinity for all things"
+      ]
+    },
+    "regular": {
+      "en": [
+        "infinity loop symbol representing endlessness",
+        "infinity sign used in mathematics notation",
+        "gold infinity necklace as a gift",
+        "infinity symbol for an unlimited subscription",
+        "infinity loop in a loading animation",
+        "infinity tattoo on the wrist",
+        "infinite loop symbol in software design",
+        "eternity ring with an infinity design",
+        "infinity symbol used in a brand logo",
+        "lemniscate infinity shape in calculus"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an infinity icon for the unlimited plan",
+        "add an infinity symbol to the eternity feature",
+        "show an infinity loop for the unlimited tier",
+        "use the infinity icon for the forever subscription"
+      ]
+    },
+    "typo": {
+      "en": [
+        "infintiy symbol loop",
+        "enternity ring design",
+        "forevr infinity loop",
+        "maths infniity notation"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "figure eight shape lying on its side",
+        "recycling loop arrows symbol",
+        "ouroboros snake eating its own tail",
+        "circular arrow indicating repeat or refresh",
+        "chain link forming a connected loop",
+        "zero or oval shape in the number system"
+      ]
+    },
+    "valid": {
+      "en": [
+        "infinity symbol for unlimited",
+        "infinity loop in mathematics",
+        "eternity infinity design"
+      ]
+    },
+    "test": {
+      "en": [
+        "infinity icon",
+        "infinity symbol math",
+        "endless loop infinity"
+      ]
+    }
+  }
+}

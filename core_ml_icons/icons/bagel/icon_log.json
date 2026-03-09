@@ -1,0 +1,154 @@
+{
+  "icon": "bagel",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bagel",
+        "bakery",
+        "breakfast",
+        "cream cheese",
+        "schmear",
+        "toast"
+      ],
+      "ru": [
+        "бейгл",
+        "пекарня",
+        "завтрак",
+        "сливочный сыр",
+        "намазка",
+        "тост"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "buy a bagel for breakfast",
+        "stop by the bakery",
+        "grab something for breakfast",
+        "get cream cheese for the bagels",
+        "bagel with schmear",
+        "toast for the morning",
+        "order an everything bagel",
+        "visit the bakery before work",
+        "prepare a quick breakfast",
+        "spread cream cheese on the bagel",
+        "add a generous schmear on top",
+        "make toast while the coffee brews"
+      ],
+      "ru": [
+        "купить бейгл на завтрак",
+        "заглянуть в пекарню",
+        "взять что-нибудь на завтрак",
+        "купить сливочный сыр для бейглов",
+        "бейгл с намазкой",
+        "тост на утро",
+        "заказать бейгл со всеми топпингами",
+        "зайти в пекарню перед работой",
+        "приготовить быстрый завтрак",
+        "намазать сливочный сыр на бейгл",
+        "добавить щедрую намазку сверху",
+        "сделать тост пока варится кофе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Pick up bagels on the way to work",
+        "Order a dozen bagels",
+        "Get bagels for the office",
+        "Make a bagel sandwich",
+        "Try that new bagel shop",
+        "Grab a toasted bagel",
+        "Bagels for Sunday brunch",
+        "Fresh bagels from the bakery",
+        "Add cream cheese to the shopping list",
+        "Bagel run before the meeting"
+      ],
+      "ru": [
+        "Купить бейглы по дороге на работу",
+        "Заказать дюжину бейглов",
+        "Взять бейглы для офиса",
+        "Сделать сэндвич с бейглом",
+        "Попробовать ту новую пекарню с бейглами",
+        "Взять поджаренный бейгл",
+        "Бейглы для воскресного бранча",
+        "Свежие бейглы из пекарни",
+        "Добавить сливочный сыр в список покупок",
+        "Забежать за бейглами перед встречей"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I could really go for a bagel right now",
+        "Let's grab some bagels for the team",
+        "Who wants a bagel with their coffee?",
+        "Nothing beats a fresh bagel in the morning"
+      ],
+      "ru": [
+        "Очень хочу бейгл прямо сейчас",
+        "Возьмём бейглы для команды",
+        "Кто хочет бейгл с кофе?",
+        "Ничто не сравнится со свежим бейглом с утра"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Begel for breakfast",
+        "Buy bagles at the store",
+        "Grab a bagle with cream chees",
+        "Bakary run tomorrow"
+      ],
+      "ru": [
+        "Бейгел на завтрак",
+        "Купить бейглы в магазне",
+        "Взять бейгл со сливочном сыром",
+        "Поход в пекрную завтра"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Toast bread for breakfast",
+        "Pick up sourdough at the store",
+        "Get a croissant from the bakery",
+        "Make avocado toast",
+        "Danish pastry order",
+        "English muffin with butter"
+      ],
+      "ru": [
+        "Поджарить хлеб на завтрак",
+        "Купить хлеб на закваске в магазине",
+        "Взять круассан в пекарне",
+        "Сделать тост с авокадо",
+        "Заказать датскую выпечку",
+        "Маффин с маслом на завтрак"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Grab a sesame bagel",
+        "Everything bagel with lox",
+        "Morning bagel run"
+      ],
+      "ru": [
+        "Взять кунжутный бейгл",
+        "Бейгл со всем посыпом и лососем",
+        "Утренний поход за бейглами"
+      ]
+    },
+    "test": {
+      "en": [
+        "Fresh bagels from the shop",
+        "Bagel with salmon for brunch",
+        "Stop for a bagel on the way in"
+      ],
+      "ru": [
+        "Свежие бейглы из магазина",
+        "Бейгл с сёмгой на бранч",
+        "Заскочить за бейглом по дороге"
+      ]
+    }
+  }
+}

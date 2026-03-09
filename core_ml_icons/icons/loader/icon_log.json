@@ -1,0 +1,136 @@
+{
+  "icon": "loader",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "loading",
+        "pending",
+        "progress"
+      ],
+      "ru": [
+        "загрузка",
+        "ожидание",
+        "прогресс"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "content is loading right now",
+        "page loading indicator",
+        "request pending approval",
+        "task pending completion",
+        "task progress bar",
+        "download progress indicator"
+      ],
+      "ru": [
+        "контент сейчас загружается",
+        "индикатор загрузки страницы",
+        "запрос ожидает подтверждения",
+        "задача ожидает завершения",
+        "полоса прогресса задачи",
+        "индикатор прогресса загрузки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "spinning circle while app is busy",
+        "animated loading spinner",
+        "waiting for data to fetch",
+        "rotating indicator showing work in progress",
+        "data syncing spinner",
+        "buffering animation for media",
+        "circular progress indicator",
+        "app loading screen animation",
+        "request processing indicator",
+        "async operation in progress"
+      ],
+      "ru": [
+        "вращающийся кружок пока приложение занято",
+        "анимированный спиннер загрузки",
+        "ожидание получения данных",
+        "вращающийся индикатор выполнения работы",
+        "спиннер синхронизации данных",
+        "анимация буферизации медиа",
+        "круговой индикатор прогресса",
+        "анимация экрана загрузки приложения",
+        "индикатор обработки запроса",
+        "асинхронная операция выполняется"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a loading spinner for my button",
+        "add a loading indicator to the fetch screen",
+        "show a pending state while the upload runs",
+        "use the loader icon while data syncs"
+      ],
+      "ru": [
+        "Мне нужен спиннер загрузки для кнопки",
+        "добавить индикатор загрузки на экран запроса",
+        "показать состояние ожидания во время загрузки файла",
+        "использовать иконку загрузки пока данные синхронизируются"
+      ]
+    },
+    "typo": {
+      "en": [
+        "loding spinner",
+        "penidng request",
+        "progres bar",
+        "loadign indicator"
+      ],
+      "ru": [
+        "загузка данных",
+        "ожиадние запроса",
+        "прогрес задачи",
+        "загрузак страницы"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "hourglass counting down time",
+        "sand timer for a countdown",
+        "horizontal progress bar filling up",
+        "battery charging level bar",
+        "stopwatch tracking elapsed time",
+        "clock face showing scheduled time"
+      ],
+      "ru": [
+        "песочные часы отсчитывают время",
+        "таймер обратного отсчёта",
+        "горизонтальная полоса прогресса заполняется",
+        "индикатор уровня заряда батареи",
+        "секундомер отсчитывает время",
+        "циферблат часов показывает запланированное время"
+      ]
+    },
+    "valid": {
+      "en": [
+        "spinning loading indicator",
+        "app loading in progress",
+        "pending task spinner"
+      ],
+      "ru": [
+        "вращающийся индикатор загрузки",
+        "приложение загружается",
+        "спиннер ожидания задачи"
+      ]
+    },
+    "test": {
+      "en": [
+        "loading circle animation",
+        "progress spinner spinning",
+        "waiting for content to load"
+      ],
+      "ru": [
+        "анимация круга загрузки",
+        "вращающийся индикатор прогресса",
+        "ожидание загрузки контента"
+      ]
+    }
+  }
+}

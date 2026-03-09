@@ -1,0 +1,148 @@
+{
+  "icon": "box-open",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "archive",
+        "container",
+        "package",
+        "storage",
+        "unpack"
+      ],
+      "ru": [
+        "архив",
+        "контейнер",
+        "посылка",
+        "хранение",
+        "распаковать"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "open the archive box",
+        "open the storage container",
+        "open the package when it arrives",
+        "unpack the storage box",
+        "unpack after the move",
+        "Open the archive and review old files",
+        "Open the shipping container at the dock",
+        "Package arrived — open and check contents",
+        "Storage unit access to unpack items",
+        "Unpack the boxes room by room"
+      ],
+      "ru": [
+        "открыть коробку с архивом",
+        "открыть контейнер для хранения",
+        "открыть посылку когда придёт",
+        "распаковать коробку из хранилища",
+        "распаковать вещи после переезда",
+        "Открыть архив и просмотреть старые файлы",
+        "Открыть грузовой контейнер на доке",
+        "Посылка пришла — открыть и проверить содержимое",
+        "Доступ к складу для распаковки вещей",
+        "Распаковывать коробки комнату за комнатой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Unpack the delivery box",
+        "Open the package from the store",
+        "Unpack after moving in",
+        "Open the storage container",
+        "Unpack boxes in the new apartment",
+        "Open the care package",
+        "Unpack the moving boxes",
+        "Go through the archived boxes",
+        "Unpack and organize the shipment",
+        "Open the parcel that arrived"
+      ],
+      "ru": [
+        "Распаковать доставленную коробку",
+        "Открыть посылку из магазина",
+        "Распаковать вещи после переезда",
+        "Открыть контейнер для хранения",
+        "Распаковать коробки в новой квартире",
+        "Открыть посылку с подарками",
+        "Распаковать коробки после переезда",
+        "Разобрать коробки из архива",
+        "Распаковать и организовать поставку",
+        "Открыть бандероль которая пришла"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I can't wait to open the package",
+        "We need to unpack all these boxes",
+        "Let's open everything up and sort it",
+        "The delivery is here — let's unpack"
+      ],
+      "ru": [
+        "Не могу дождаться когда открою посылку",
+        "Надо распаковать все эти коробки",
+        "Давайте откроем всё и разберём",
+        "Доставка пришла — распаковываем"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Unnpack the delivrey box",
+        "Open the pakage from the store",
+        "Unpak after movving in",
+        "Open the stoarge contianer"
+      ],
+      "ru": [
+        "Распкавать доставленную коробку",
+        "Открть посылку из магазина",
+        "Распковать после перезда",
+        "Открыть контайнер для хранния"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Pack the boxes for moving",
+        "Pack multiple boxes",
+        "Receive the package at the door",
+        "Archive old files",
+        "Unwrap the gift",
+        "Check the delivery status"
+      ],
+      "ru": [
+        "Упаковать коробки для переезда",
+        "Упаковать несколько коробок",
+        "Получить посылку у двери",
+        "Архивировать старые файлы",
+        "Распаковать подарок",
+        "Проверить статус доставки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Unpack the delivery that arrived",
+        "Open the moving boxes",
+        "Unpack all the boxes after moving"
+      ],
+      "ru": [
+        "Распаковать посылку которая пришла",
+        "Открыть коробки после переезда",
+        "Распаковать все коробки после переезда"
+      ]
+    },
+    "test": {
+      "en": [
+        "Open the package from the online order",
+        "Unpack the boxes in the new place",
+        "Go through the storage boxes"
+      ],
+      "ru": [
+        "Открыть посылку от онлайн-заказа",
+        "Распаковать коробки в новом месте",
+        "Разобрать коробки из хранилища"
+      ]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "icon": "bath",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bath",
+        "bathtub",
+        "clean",
+        "shower",
+        "tub",
+        "wash"
+      ],
+      "ru": [
+        "ванна",
+        "ванная",
+        "чистый",
+        "душ",
+        "купель",
+        "мыть"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "draw a bath",
+        "clean the bathtub",
+        "get clean before bed",
+        "take a shower",
+        "soak in the tub",
+        "wash up",
+        "Bath time routine for the kids",
+        "Bathtub drain needs unclogging",
+        "Clean the bathroom top to bottom",
+        "Morning shower before work",
+        "Tub faucet dripping — fix it",
+        "Wash up after the workout"
+      ],
+      "ru": [
+        "набрать ванну",
+        "убрать в ванной",
+        "помыться перед сном",
+        "принять душ",
+        "понежиться в купели",
+        "помыться",
+        "Время купания для детей",
+        "Прочистить слив в ванне",
+        "Убрать ванную комнату с потолка до пола",
+        "Утренний душ перед работой",
+        "Кран в ванне капает — починить",
+        "Помыться после тренировки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Give the baby a bath",
+        "Soak in a hot bath tonight",
+        "Draw a bath after work",
+        "Clean the bathroom tub",
+        "Bath time routine before bed",
+        "Fill the tub with warm water",
+        "Bath salts for the evening soak",
+        "Kids bath time",
+        "Deep clean the bathtub",
+        "Relax in a hot bath"
+      ],
+      "ru": [
+        "Искупать малыша",
+        "Принять горячую ванну вечером",
+        "Набрать ванну после работы",
+        "Отмыть ванну",
+        "Процедура купания перед сном",
+        "Наполнить ванну тёплой водой",
+        "Соль для ванны на вечер",
+        "Купать детей",
+        "Тщательно отмыть ванну",
+        "Расслабиться в горячей ванне"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I really need a long hot bath tonight",
+        "Time for bath time with the kids",
+        "Nothing better than a hot soak after a long day",
+        "Let's get the kids in the bath before bed"
+      ],
+      "ru": [
+        "Мне очень нужна долгая горячая ванна сегодня вечером",
+        "Пора купать детей",
+        "Ничего лучше горячей ванны после долгого дня",
+        "Надо помыть детей перед сном"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Drw a bath",
+        "Clen the bathtub",
+        "Bath salts for the evenng",
+        "Shwer before work"
+      ],
+      "ru": [
+        "Набарть ванну",
+        "Убрть в ваной",
+        "Соль для ваны на вечер",
+        "Джуш перед работой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Take a shower this morning",
+        "Clean the bathroom floor",
+        "Swimming pool session",
+        "Wash the dishes",
+        "Laundry cycle tonight",
+        "Spa treatment booking"
+      ],
+      "ru": [
+        "Принять душ утром",
+        "Помыть пол в ванной",
+        "Поход в бассейн",
+        "Помыть посуду",
+        "Постирать одежду вечером",
+        "Записаться в спа"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Hot bath with bath salts tonight",
+        "Bath time for the kids",
+        "Clean out the bathtub"
+      ],
+      "ru": [
+        "Горячая ванна с солью вечером",
+        "Купать детей",
+        "Отмыть ванну"
+      ]
+    },
+    "test": {
+      "en": [
+        "Draw a relaxing bath after work",
+        "Kids bath time routine",
+        "Soak in the tub tonight"
+      ],
+      "ru": [
+        "Набрать расслабляющую ванну после работы",
+        "Процедура купания детей",
+        "Понежиться в ванне вечером"
+      ]
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "icon": "tank-water",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "hydration",
+        "storage",
+        "water"
+      ],
+      "ru": [
+        "гидратация",
+        "хранение",
+        "вода"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "hydration water tank drinking",
+        "water tank for hydration supply",
+        "water storage tank large",
+        "storage tank holding water",
+        "water tank outdoor barrel",
+        "rainwater collection tank"
+      ],
+      "ru": [
+        "резервуар воды для гидратации",
+        "водяной бак для снабжения водой",
+        "большой водонакопительный бак",
+        "бак для хранения воды",
+        "уличный бочковой резервуар воды",
+        "резервуар для сбора дождевой воды"
+      ]
+    },
+    "regular": {
+      "en": [
+        "rooftop water storage tank",
+        "underground water tank cistern",
+        "plastic water tank for camping",
+        "water tower large community tank",
+        "fish tank aquarium water",
+        "hot water heater tank home",
+        "septic tank underground water",
+        "fire suppression water tank",
+        "water tank truck delivery",
+        "rainwater harvesting tank garden"
+      ],
+      "ru": [
+        "резервуар воды на крыше",
+        "подземная цистерна для воды",
+        "пластиковый водяной бак для кемпинга",
+        "водонапорная башня большой общественный бак",
+        "аквариум с рыбками водяной резервуар",
+        "бойлер водонагреватель дома",
+        "септик подземный резервуар воды",
+        "резервуар воды для пожаротушения",
+        "автоцистерна для воды доставка",
+        "бак для сбора дождевой воды в саду"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a water tank icon for the storage section",
+        "add a tank symbol to the water management feature",
+        "show a water tank for the resource tracking",
+        "use the tank-water icon for the hydration system"
+      ],
+      "ru": [
+        "нужна иконка бака с водой для раздела хранения",
+        "добавь символ бака к функции управления водой",
+        "покажи водяной бак для отслеживания ресурсов",
+        "используй иконку бака с водой для системы гидратации"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wter tank storage",
+        "hydation tank water",
+        "storrage water tank",
+        "watertank supply"
+      ],
+      "ru": [
+        "бак воды хранение",
+        "гидртация бак воды",
+        "резервуар для хрнения воды",
+        "водяной бак снабжение"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "water bottle personal drinking",
+        "water glass cup hydration",
+        "barrel wooden cask storage",
+        "swimming pool water outdoor",
+        "bucket water container handle",
+        "rain barrel garden water collection"
+      ],
+      "ru": [
+        "бутылка воды личная питьевая",
+        "стакан воды гидратация",
+        "деревянная бочка хранение",
+        "бассейн вода на улице",
+        "ведро контейнер для воды ручка",
+        "дождевая бочка сад сбор воды"
+      ]
+    },
+    "valid": {
+      "en": [
+        "water storage tank icon",
+        "large water tank supply",
+        "hydration tank water"
+      ],
+      "ru": [
+        "иконка бака для хранения воды",
+        "большой бак водоснабжения",
+        "бак гидратации вода"
+      ]
+    },
+    "test": {
+      "en": [
+        "water tank icon",
+        "storage tank water",
+        "tank water supply"
+      ],
+      "ru": [
+        "иконка водяного бака",
+        "бак хранения воды",
+        "резервуар водоснабжения"
+      ]
+    }
+  }
+}

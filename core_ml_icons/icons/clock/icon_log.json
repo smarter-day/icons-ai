@@ -1,0 +1,105 @@
+{
+  "icon": "clock",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "clock",
+        "date",
+        "hour",
+        "late",
+        "minute",
+        "pending",
+        "schedule",
+        "time",
+        "timer",
+        "timestamp",
+        "watch"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Check the clock on the wall",
+        "Hang a new clock in the kitchen",
+        "Check today's date",
+        "Set the date on the calendar",
+        "Work for one more hour",
+        "Take an hour-long break",
+        "Running late to the meeting",
+        "Don't be late for class",
+        "Give me five more minutes",
+        "Set a five-minute reminder",
+        "Review pending tasks",
+        "Check pending approvals",
+        "Check my schedule for today",
+        "Update the work schedule",
+        "What time is it?",
+        "Manage time better this week",
+        "Set a timer for 20 minutes",
+        "Start the cooking timer",
+        "Add a timestamp to the file",
+        "Check the timestamp on the email",
+        "Buy a new watch",
+        "Check my watch"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Set a reminder for 3pm",
+        "Check what time the meeting starts",
+        "Be on time for the appointment",
+        "Set a timer for cooking",
+        "Track how long the task takes",
+        "Schedule the event at the right time",
+        "Know when the store closes",
+        "Check the opening hours",
+        "Time myself on this task",
+        "Plan around the time zone difference"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "What time is it?",
+        "Don't be late!",
+        "Running late again",
+        "Need more time"
+      ]
+    },
+    "typo": {
+      "en": [
+        "set the clokc on the wall",
+        "check my watche",
+        "scheudle for tomorrow",
+        "timer for 20 minuets"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Set an alarm to wake up at 7am",
+        "Add event to the calendar",
+        "Set a countdown for the race",
+        "Book an appointment",
+        "Snooze the morning alarm",
+        "Set a recurring daily alarm"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Check the time for the meeting",
+        "Set a timer while cooking",
+        "Track time on the project"
+      ]
+    },
+    "test": {
+      "en": [
+        "Know when to leave for work",
+        "Set a work timer",
+        "Check what time it is now"
+      ]
+    }
+  }
+}

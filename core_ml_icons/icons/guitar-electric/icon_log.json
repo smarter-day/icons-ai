@@ -1,0 +1,93 @@
+{
+  "icon": "guitar-electric",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "guitar",
+        "instrument",
+        "music",
+        "rock",
+        "rock and roll",
+        "song",
+        "strings"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Play the guitar solo",
+        "Learn to play guitar",
+        "Tune the instrument",
+        "Buy a new instrument",
+        "Listen to live music",
+        "Play music at the event",
+        "Play rock music all night",
+        "Go to a rock concert",
+        "Play rock and roll classics",
+        "Cover a rock and roll song",
+        "Write a new song on the guitar",
+        "Record a song in the studio",
+        "Restring the guitar strings",
+        "Buy new guitar strings"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Practice guitar every day",
+        "Take guitar lessons",
+        "Learn a new guitar song",
+        "Play guitar at the open mic night",
+        "Record a guitar cover",
+        "Buy a new electric guitar",
+        "Set up guitar amp and pedals",
+        "Join a band",
+        "Play guitar at the campfire",
+        "Watch a guitar tutorial online"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Guitar practice!",
+        "Rock out",
+        "Play a riff",
+        "Jam session"
+      ]
+    },
+    "typo": {
+      "en": [
+        "practce guitar everydya",
+        "take guittar lessosn",
+        "lern a new guitr song",
+        "reocrd a guitar covre"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Play the acoustic guitar",
+        "Learn to play the piano",
+        "Practice drums in the garage",
+        "Play bass guitar in the band",
+        "Strum the ukulele",
+        "Play violin in the orchestra"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Practice guitar every day",
+        "Take guitar lessons",
+        "Play guitar at the open mic"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy a new electric guitar",
+        "Record a guitar cover",
+        "Join a band"
+      ]
+    }
+  }
+}

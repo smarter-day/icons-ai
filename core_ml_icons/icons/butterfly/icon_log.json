@@ -1,0 +1,102 @@
+{
+  "icon": "butterfly",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bug",
+        "butterfly",
+        "delicate",
+        "flutter",
+        "flying",
+        "garden",
+        "insect",
+        "moth",
+        "nature",
+        "wings"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "delicate bug with colorful wings",
+        "butterfly bug in the garden",
+        "butterfly landing on a flower petal",
+        "monarch butterfly in the meadow",
+        "delicate butterfly wings pattern",
+        "delicate insect resting on a petal",
+        "butterfly flutter in the breeze",
+        "flutter of wings in the garden",
+        "butterfly flying from flower to flower",
+        "flying butterfly in the morning sun",
+        "butterfly in the summer garden",
+        "garden butterfly visiting the roses",
+        "beautiful winged insect on a leaf",
+        "insect with colorful patterned wings",
+        "moth or butterfly at the window light",
+        "moth with large dusty wings",
+        "nature butterfly in the meadow",
+        "butterfly as a nature symbol",
+        "butterfly wings with colorful patterns",
+        "wings spread wide on the branch"
+      ]
+    },
+    "regular": {
+      "en": [
+        "monarch butterfly with orange and black wings",
+        "butterfly landing gently on a flower petal",
+        "delicate butterfly wings in the garden",
+        "colorful butterfly fluttering in the meadow",
+        "butterfly on a nature walk trail",
+        "blue morpho butterfly with iridescent wings",
+        "butterfly lifecycle from caterpillar to adult",
+        "spring butterfly emerging from the chrysalis",
+        "butterfly as a symbol of transformation",
+        "butterfly garden at the botanical museum"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a butterfly icon for the nature app",
+        "add a butterfly to the garden section",
+        "show a butterfly for the transformation feature",
+        "use the butterfly icon for the spring theme"
+      ]
+    },
+    "typo": {
+      "en": [
+        "butterfyl wings open wide",
+        "monrach butterfly in meadow",
+        "gardn butterfly on flowers",
+        "fluttring wings in the breeze"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "moth attracted to the porch light at night",
+        "dragonfly hovering over the pond surface",
+        "honeybee landing on the lavender flowers",
+        "ladybug on a green leaf in the garden",
+        "grasshopper in the summer grass",
+        "firefly glowing in the evening yard"
+      ]
+    },
+    "valid": {
+      "en": [
+        "butterfly with colorful wings",
+        "butterfly in the garden",
+        "monarch butterfly symbol"
+      ]
+    },
+    "test": {
+      "en": [
+        "butterfly icon for nature",
+        "butterfly wings fluttering",
+        "garden butterfly"
+      ]
+    }
+  }
+}

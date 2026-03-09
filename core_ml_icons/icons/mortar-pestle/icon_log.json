@@ -1,0 +1,166 @@
+{
+  "icon": "mortar-pestle",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "crush",
+        "culinary",
+        "grind",
+        "medical",
+        "mix",
+        "pharmacy",
+        "prescription",
+        "spices"
+      ],
+      "ru": [
+        "растирать",
+        "кулинарный",
+        "молоть",
+        "медицинский",
+        "смешивать",
+        "аптека",
+        "рецепт",
+        "специи"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "crush garlic in mortar and pestle",
+        "crush herbs to extract oils",
+        "culinary tool for grinding spices",
+        "culinary preparation with mortar",
+        "grind peppercorns in stone bowl",
+        "grind spices for cooking",
+        "medical compounding pharmacy tool",
+        "medical preparation grinding",
+        "mix ingredients in mortar bowl",
+        "mix herbs and spices together",
+        "pharmacy symbol mortar and pestle",
+        "pharmacy counter symbol",
+        "prescription compounding with mortar",
+        "prescription drug preparation",
+        "grind fresh spices for flavor",
+        "spice blend using mortar"
+      ],
+      "ru": [
+        "растереть чеснок в ступке с пестиком",
+        "растереть травы для извлечения масел",
+        "кулинарный инструмент для измельчения специй",
+        "кулинарная подготовка со ступкой",
+        "измельчить горошины перца в каменной чаше",
+        "молоть специи для приготовления",
+        "инструмент для приготовления лекарств в аптеке",
+        "медицинская подготовка измельчение",
+        "смешать ингредиенты в ступке",
+        "смешать травы и специи",
+        "символ аптеки ступка и пестик",
+        "символ аптечного прилавка",
+        "приготовление лекарств по рецепту в ступке",
+        "подготовка лекарств по рецепту",
+        "молоть свежие специи для вкуса",
+        "смесь специй с ступкой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "stone mortar and wooden pestle for grinding",
+        "pharmacy logo mortar and pestle symbol",
+        "chef grinding spices in a kitchen mortar",
+        "traditional medicine preparation with mortar",
+        "guacamole made with molcajete mortar",
+        "apothecary symbol for dispensing",
+        "herbal medicine crushing and mixing",
+        "crushing tablets or pills in a mortar",
+        "cooking with freshly ground spice blend",
+        "wooden pestle pounding inside stone bowl"
+      ],
+      "ru": [
+        "каменная ступка и деревянный пестик для измельчения",
+        "логотип аптеки символ ступки и пестика",
+        "шеф-повар молет специи в кухонной ступке",
+        "традиционное приготовление лекарств со ступкой",
+        "гуакамоле приготовленный в ступке молькахете",
+        "символ аптекаря для раздачи",
+        "измельчение и смешивание травяных лекарств",
+        "дробление таблеток или пилюль в ступке",
+        "приготовление со свежемолотой смесью специй",
+        "деревянный пестик толкающий внутри каменной чаши"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a mortar and pestle icon for the pharmacy section",
+        "add a pestle symbol to the cooking tools category",
+        "show a mortar icon for the spice grinder feature",
+        "use the mortar pestle for the medical preparation screen"
+      ],
+      "ru": [
+        "Мне нужна иконка ступки и пестика для раздела аптеки",
+        "добавить символ пестика в категорию кулинарных инструментов",
+        "показать иконку ступки для функции измельчения специй",
+        "использовать ступку с пестиком для экрана медицинского приготовления"
+      ]
+    },
+    "typo": {
+      "en": [
+        "mortar and pstle",
+        "grind spces",
+        "pharmcy symbol",
+        "culinayr tool"
+      ],
+      "ru": [
+        "ступка и пестки",
+        "молоть специас",
+        "аптека симовл",
+        "кулинрный инструмент"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "kitchen blender for mixing liquids",
+        "spice grinder electric machine",
+        "food processor chopping herbs",
+        "rolling pin for dough flattening",
+        "cutting board with knife for chopping",
+        "pestle alone without mortar bowl"
+      ],
+      "ru": [
+        "кухонный блендер для смешивания жидкостей",
+        "электрическая кофемолка для специй",
+        "кухонный комбайн нарезающий зелень",
+        "скалка для раскатки теста",
+        "разделочная доска с ножом для нарезки",
+        "пестик без ступки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "mortar and pestle for pharmacy",
+        "grinding spices in mortar",
+        "apothecary mortar pestle symbol"
+      ],
+      "ru": [
+        "ступка и пестик для аптеки",
+        "измельчение специй в ступке",
+        "символ ступки аптекаря"
+      ]
+    },
+    "test": {
+      "en": [
+        "mortar pestle icon",
+        "pharmacy grinding tool",
+        "spice mortar culinary"
+      ],
+      "ru": [
+        "иконка ступки пестика",
+        "инструмент измельчения в аптеке",
+        "кулинарная ступка для специй"
+      ]
+    }
+  }
+}

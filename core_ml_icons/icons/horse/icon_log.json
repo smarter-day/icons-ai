@@ -1,0 +1,93 @@
+{
+  "icon": "horse",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "equestrian",
+        "fauna",
+        "horse",
+        "mare",
+        "pony",
+        "racehorse",
+        "racing"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Take equestrian lessons",
+        "Watch the equestrian event",
+        "Observe fauna on the ranch",
+        "See fauna at the stables",
+        "Ride a horse on the trail",
+        "Feed the horse at the stable",
+        "Brush the mare after riding",
+        "Care for the mare at the farm",
+        "Ride a pony at the fair",
+        "Buy a pony for the kids",
+        "Watch the racehorse at the track",
+        "Bet on a racehorse",
+        "Watch horse racing on TV",
+        "Go to the horse racing event"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Take horse riding lessons",
+        "Visit a horse ranch",
+        "Go horseback riding on the trail",
+        "Watch the Kentucky Derby",
+        "Feed and groom the horse",
+        "Book a horseback riding tour",
+        "Attend a horse show",
+        "Take the kids to see ponies",
+        "Watch horses race at the track",
+        "Volunteer at the horse sanctuary"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Horseback riding!",
+        "Visit the stable",
+        "Race day",
+        "Horse show"
+      ]
+    },
+    "typo": {
+      "en": [
+        "take hrose riding lesosns",
+        "vist a hrose ranch",
+        "go horsebakc riding",
+        "wacth the kenutcky derby"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Ride a horse with a saddle",
+        "Visit a donkey sanctuary",
+        "See zebras at the safari",
+        "Watch cows graze at the farm",
+        "Ride a camel in the desert",
+        "See a moose in the wild"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Take horse riding lessons",
+        "Go horseback riding on the trail",
+        "Watch the horse race"
+      ]
+    },
+    "test": {
+      "en": [
+        "Visit a horse ranch",
+        "Book a horseback riding tour",
+        "Attend a horse show"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "icon": "hand",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "backhand",
+        "game",
+        "halt",
+        "palm",
+        "raised",
+        "request",
+        "roshambo",
+        "stop"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "raised backhand gesture",
+        "backhand of the raised hand",
+        "hand gesture in the game",
+        "hand in rock paper scissors game",
+        "halt hand signal raised",
+        "hand raised to halt traffic",
+        "open palm facing forward",
+        "palm of the hand raised high",
+        "raised hand to ask a question",
+        "hand raised in the classroom",
+        "hand raised as a request",
+        "request indicated by raised hand",
+        "roshambo rock paper scissors hand",
+        "roshambo game hand gesture",
+        "stop hand signal raised",
+        "hand raised to stop traffic"
+      ]
+    },
+    "regular": {
+      "en": [
+        "open hand with palm facing outward",
+        "raised hand to ask a question in class",
+        "hand signal to halt or stop",
+        "hand gesture in rock paper scissors",
+        "high five hand slap celebration",
+        "hand wave greeting gesture",
+        "hand icon for stop or wait",
+        "raised hand emoji for volunteers",
+        "palm reading at the carnival",
+        "hand scan for biometric authentication"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a hand icon for the stop gesture",
+        "add a raised hand to the volunteer section",
+        "show a hand for the pause or halt feature",
+        "use the hand icon for the request button"
+      ]
+    },
+    "typo": {
+      "en": [
+        "rasied hand gesture",
+        "hnad signal stop",
+        "paml facing forward",
+        "hault traffic signal"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "pointing finger directed at the screen",
+        "waving hand saying hello",
+        "thumbs up approval gesture",
+        "clapping hands applauding",
+        "fist raised in solidarity",
+        "peace sign with two fingers"
+      ]
+    },
+    "valid": {
+      "en": [
+        "raised hand gesture symbol",
+        "open palm facing outward",
+        "hand halt signal"
+      ]
+    },
+    "test": {
+      "en": [
+        "hand icon",
+        "raised hand symbol",
+        "stop hand gesture"
+      ]
+    }
+  }
+}

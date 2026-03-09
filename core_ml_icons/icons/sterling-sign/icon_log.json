@@ -1,0 +1,130 @@
+{
+  "icon": "sterling-sign",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Pound Sign",
+        "currency"
+      ],
+      "ru": [
+        "знак фунта",
+        "валюта"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "pound sign British currency symbol",
+        "GBP pound sign sterling",
+        "currency exchange rate display",
+        "foreign currency symbol icon"
+      ],
+      "ru": [
+        "знак фунта британский символ валюты",
+        "GBP фунт стерлингов",
+        "отображение обменного курса валют",
+        "иностранная валюта символ иконка"
+      ]
+    },
+    "regular": {
+      "en": [
+        "British pound sterling currency symbol",
+        "GBP exchange rate display",
+        "UK pound sign financial transaction",
+        "price in pounds sterling retail",
+        "currency converter pounds to euros",
+        "bank note pound denomination",
+        "London pound sign finance",
+        "pound sign on keyboard shortcut",
+        "international currency pound sterling",
+        "salary in British pounds"
+      ],
+      "ru": [
+        "символ британского фунта стерлингов",
+        "отображение курса GBP",
+        "знак фунта финансовая транзакция Великобритании",
+        "цена в фунтах стерлингов розница",
+        "конвертер валют фунты в евро",
+        "банкнота номинал фунт",
+        "знак фунта финансы Лондон",
+        "знак фунта сочетание клавиш",
+        "международная валюта фунт стерлингов",
+        "зарплата в британских фунтах"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sterling sign icon for the UK currency field",
+        "add a pound sign to the price display",
+        "show the pound sterling for the British market",
+        "use the sterling symbol for GBP transactions"
+      ],
+      "ru": [
+        "нужна иконка знака фунта для поля британской валюты",
+        "добавь знак фунта к отображению цены",
+        "покажи фунт стерлингов для британского рынка",
+        "используй символ стерлинга для транзакций GBP"
+      ]
+    },
+    "typo": {
+      "en": [
+        "poud sterling sign",
+        "britsih pound sign",
+        "curency pound GBP",
+        "streling sign UK"
+      ],
+      "ru": [
+        "знак фунта стерлнгов",
+        "британский фунт знак",
+        "валюта фунт GBP",
+        "знак стерлинга UK"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "euro sign currency European Union",
+        "dollar sign USD currency symbol",
+        "yen sign Japanese currency",
+        "franc sign Swiss currency CHF",
+        "rupee sign Indian currency",
+        "bitcoin sign cryptocurrency symbol"
+      ],
+      "ru": [
+        "знак евро валюта Европейского союза",
+        "знак доллара USD символ валюты",
+        "знак иены японская валюта",
+        "знак франка швейцарская валюта CHF",
+        "знак рупии индийская валюта",
+        "знак биткоина символ криптовалюты"
+      ]
+    },
+    "valid": {
+      "en": [
+        "British pound sterling symbol",
+        "GBP currency sign",
+        "pound sign for UK"
+      ],
+      "ru": [
+        "символ британского фунта стерлингов",
+        "знак валюты GBP",
+        "знак фунта для Великобритании"
+      ]
+    },
+    "test": {
+      "en": [
+        "sterling pound currency icon",
+        "UK pound sign",
+        "sterling sign finance"
+      ],
+      "ru": [
+        "иконка стерлинг фунт валюта",
+        "знак фунта UK",
+        "знак стерлинга финансы"
+      ]
+    }
+  }
+}

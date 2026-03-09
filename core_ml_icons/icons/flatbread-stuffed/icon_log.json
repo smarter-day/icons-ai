@@ -1,0 +1,87 @@
+{
+  "icon": "flatbread-stuffed",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "falafel",
+        "gyro",
+        "kebab",
+        "pita",
+        "sandwich"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Make a stuffed pita with falafel",
+        "Order a falafel pita wrap",
+        "Try a Greek gyro for lunch",
+        "Order a gyro at the restaurant",
+        "Get a kebab wrap for dinner",
+        "Make a homemade kebab wrap",
+        "Stuff the pita with fillings",
+        "Buy a pita wrap",
+        "Make a pita sandwich for lunch",
+        "Try a stuffed flatbread sandwich"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Order a gyro wrap for lunch",
+        "Make a stuffed pita at home",
+        "Try a kebab from the food truck",
+        "Make a falafel wrap",
+        "Fill pita bread with salad and meat",
+        "Get a Mediterranean wrap",
+        "Order a souvlaki pita",
+        "Make a chicken shawarma wrap",
+        "Pack a pita sandwich for lunch",
+        "Try a stuffed flatbread at the restaurant"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Gyro time!",
+        "Kebab wrap",
+        "Stuffed pita",
+        "Mediterranean lunch"
+      ]
+    },
+    "typo": {
+      "en": [
+        "order a gyro warp",
+        "make stuffed pitta",
+        "kebab warp for dinner",
+        "falafel pita sanwich"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Make plain flatbread without stuffing",
+        "Eat a burger with no wrapping",
+        "Order a regular sandwich on bread",
+        "Make a plain naan",
+        "Eat hummus with plain pita",
+        "Order a sub sandwich"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Order a gyro wrap for lunch",
+        "Make a stuffed pita",
+        "Try a kebab from the food truck"
+      ]
+    },
+    "test": {
+      "en": [
+        "Make a falafel wrap",
+        "Pack a pita sandwich for lunch",
+        "Order a Mediterranean wrap"
+      ]
+    }
+  }
+}

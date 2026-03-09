@@ -1,0 +1,184 @@
+{
+  "icon": "paintbrush",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "acrylic",
+        "art",
+        "brush",
+        "color",
+        "fill",
+        "modify",
+        "paint",
+        "paintbrush",
+        "painting",
+        "pigment",
+        "watercolor"
+      ],
+      "ru": [
+        "акрил",
+        "искусство",
+        "кисть",
+        "цвет",
+        "заливка",
+        "изменить",
+        "краска",
+        "кисть",
+        "рисование",
+        "пигмент",
+        "акварель"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "acrylic paint on canvas with brush",
+        "acrylic art studio brushstroke",
+        "fine art painting with brush",
+        "art class oil painting",
+        "soft brush for watercolor painting",
+        "flat brush for acrylic",
+        "add color with paintbrush",
+        "color blend using brush",
+        "fill shape with brush tool",
+        "fill background with color brush",
+        "modify image with paintbrush",
+        "modify artwork with brush stroke",
+        "paint wall or canvas with brush",
+        "oil paint applied by brush",
+        "paintbrush in artist's hand",
+        "natural hair paintbrush",
+        "portrait painting with thin brush",
+        "abstract painting large brush",
+        "pigment on bristles of brush",
+        "pigment mixed and applied",
+        "watercolor painting technique brush",
+        "wet watercolor brush stroke"
+      ],
+      "ru": [
+        "акриловая краска на холсте кистью",
+        "мазок кисти в акриловой студии",
+        "живопись кистью изящного искусства",
+        "урок по масляной живописи",
+        "мягкая кисть для акварельной живописи",
+        "плоская кисть для акрила",
+        "добавить цвет кистью",
+        "смешивание цвета кистью",
+        "заполнить фигуру инструментом кисть",
+        "заполнить фон цветовой кистью",
+        "изменить изображение кистью",
+        "изменить произведение мазком кисти",
+        "красить стену или холст кистью",
+        "масляная краска нанесённая кистью",
+        "кисть в руке художника",
+        "кисть из натурального волоса",
+        "портретная живопись тонкой кистью",
+        "абстрактная живопись большой кистью",
+        "пигмент на щетине кисти",
+        "пигмент смешанный и нанесённый",
+        "техника акварельной живописи кистью",
+        "влажный мазок акварельной кисти"
+      ]
+    },
+    "regular": {
+      "en": [
+        "artist's paintbrush with bristle tip",
+        "thin brush for detailed painting",
+        "broad flat brush for large strokes",
+        "watercolor brush loaded with pigment",
+        "digital paintbrush tool in art app",
+        "oil painter's brush on canvas",
+        "children's art brush for craft",
+        "calligraphy brush for ink writing",
+        "house painting brush for trim work",
+        "makeup brush similar to paint brush"
+      ],
+      "ru": [
+        "кисть художника с щетиной на кончике",
+        "тонкая кисть для детальной живописи",
+        "широкая плоская кисть для больших мазков",
+        "акварельная кисть нагруженная пигментом",
+        "инструмент цифровой кисти в приложении для искусства",
+        "кисть маслом на холсте",
+        "детская кисть для творчества",
+        "каллиграфическая кисть для написания чернилами",
+        "малярная кисть для отделочных работ",
+        "кисть для макияжа похожая на кисть для рисования"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a paintbrush icon for the drawing tool",
+        "add a brush symbol to the art section",
+        "show a paintbrush for the color editor",
+        "use the brush icon for the painting mode"
+      ],
+      "ru": [
+        "Мне нужна иконка кисти для инструмента рисования",
+        "добавить символ кисти в раздел искусства",
+        "показать кисть для цветового редактора",
+        "использовать иконку кисти для режима рисования"
+      ]
+    },
+    "typo": {
+      "en": [
+        "painbrush art tool",
+        "artsit brush stroke",
+        "watrecolor brush",
+        "pigmnet brush"
+      ],
+      "ru": [
+        "кист художника",
+        "мазок акварленой кисти",
+        "пигмент кисть",
+        "рсиование кистью"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "paint roller for covering large areas",
+        "pencil for sketching and drawing",
+        "marker pen for thick lines",
+        "spray can for paint coverage",
+        "palette knife for mixing colors",
+        "ink pen for writing and drawing"
+      ],
+      "ru": [
+        "валик для покрытия больших площадей",
+        "карандаш для эскизов и рисования",
+        "маркер для толстых линий",
+        "баллончик с краской для покрытия",
+        "шпатель для смешивания красок",
+        "чернильная ручка для письма и рисования"
+      ]
+    },
+    "valid": {
+      "en": [
+        "paintbrush for art and painting",
+        "artist's brush icon",
+        "brush tool for color"
+      ],
+      "ru": [
+        "кисть для искусства и рисования",
+        "иконка кисти художника",
+        "инструмент кисть для цвета"
+      ]
+    },
+    "test": {
+      "en": [
+        "paintbrush icon",
+        "art brush for painting",
+        "watercolor paintbrush tool"
+      ],
+      "ru": [
+        "иконка кисти",
+        "художественная кисть для рисования",
+        "инструмент акварельной кисти"
+      ]
+    }
+  }
+}

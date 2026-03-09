@@ -1,0 +1,90 @@
+{
+  "icon": "frog",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "amphibian",
+        "bullfrog",
+        "fauna",
+        "hop",
+        "ribbit",
+        "toad"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Learn about amphibians",
+        "See amphibians at the nature center",
+        "Hear a bullfrog at the pond",
+        "Spot a bullfrog in the wetlands",
+        "Observe local fauna",
+        "Find fauna near the pond",
+        "Watch the frog hop",
+        "Hop like a frog for fun",
+        "Hear frogs ribbit at night",
+        "Imitate a frog ribbit",
+        "Spot a toad in the garden",
+        "Move a toad out of the path"
+      ]
+    },
+    "regular": {
+      "en": [
+        "See frogs at the pond",
+        "Listen to frogs ribbit at night",
+        "Find a frog in the garden",
+        "Watch a frog jump into the water",
+        "Take the kids to see frogs",
+        "Photograph a frog in the wild",
+        "Observe frogs at the nature park",
+        "Spot a tree frog",
+        "Keep a pet frog",
+        "Learn about frog life cycles"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Ribbit ribbit",
+        "Found a frog!",
+        "Frog in the garden",
+        "Pond frog"
+      ]
+    },
+    "typo": {
+      "en": [
+        "see frosg at the pnod",
+        "litsne to frogs ribbit",
+        "find a frgo in garden",
+        "wach frog jump"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "See a salamander in the creek",
+        "Spot a lizard in the yard",
+        "Watch a turtle sunbathe",
+        "Find a snake in the grass",
+        "See a newt near the pond",
+        "Watch a chameleon change color"
+      ]
+    },
+    "valid": {
+      "en": [
+        "See frogs at the pond",
+        "Listen to frogs ribbit at night",
+        "Spot a frog in the garden"
+      ]
+    },
+    "test": {
+      "en": [
+        "Watch a frog jump into the water",
+        "Photograph a frog in the wild",
+        "Take kids to see frogs"
+      ]
+    }
+  }
+}

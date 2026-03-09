@@ -1,0 +1,166 @@
+{
+  "icon": "chart-pie",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "analytics",
+        "chart",
+        "diagram",
+        "graph",
+        "performance",
+        "pie",
+        "revenue",
+        "statistics"
+      ],
+      "ru": [
+        "аналитика",
+        "диаграмма",
+        "схема",
+        "график",
+        "производительность",
+        "круговая",
+        "выручка",
+        "статистика"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Analytics dashboard with the pie chart",
+        "Analytics breakdown in pie format",
+        "Chart the budget split as a pie",
+        "Chart categories using a pie diagram",
+        "Diagram showing revenue by region",
+        "Diagram the market share split",
+        "Graph the expense breakdown visually",
+        "Graph portions as a pie",
+        "Performance split by department",
+        "Performance pie chart for the review",
+        "Pie chart for the budget report",
+        "Pie graph to show category breakdown",
+        "Revenue distribution pie chart",
+        "Revenue share by product line",
+        "Statistics visualised as a pie chart",
+        "Statistics report with pie diagram"
+      ],
+      "ru": [
+        "Дашборд аналитики с круговой диаграммой",
+        "Разбивка аналитики в формате пирога",
+        "Изобразить разбивку бюджета как пирог",
+        "Разбить категории в виде диаграммы",
+        "Диаграмма доходов по регионам",
+        "Диаграмма раздела рынка",
+        "Визуализировать разбивку расходов",
+        "Изобразить доли в виде пирога",
+        "Разбивка производительности по отделам",
+        "Круговая диаграмма производительности",
+        "Круговая диаграмма для бюджетного отчёта",
+        "Пирог для разбивки по категориям",
+        "Круговая диаграмма распределения доходов",
+        "Доля выручки по продуктам",
+        "Статистика в виде круговой диаграммы",
+        "Отчёт со статистикой в виде пирога"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Pie chart for the quarterly report",
+        "Show market share in a pie diagram",
+        "Expense breakdown as a pie chart",
+        "Create a pie chart in the spreadsheet",
+        "Budget allocation pie chart for the team",
+        "Revenue split by region in the chart",
+        "Donut chart variant for the dashboard",
+        "Pie chart with labelled segments",
+        "Export the pie chart as an image",
+        "Colour-coded pie chart for the slides"
+      ],
+      "ru": [
+        "Круговая диаграмма для квартального отчёта",
+        "Доля рынка в круговой диаграмме",
+        "Разбивка расходов в виде пирога",
+        "Создать круговую диаграмму в таблице",
+        "Диаграмма распределения бюджета",
+        "Разбивка доходов по регионам",
+        "Кольцевая диаграмма для дашборда",
+        "Диаграмма с подписанными сегментами",
+        "Экспортировать диаграмму как изображение",
+        "Цветовая кодировка диаграммы для слайдов"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "the pie chart tells the whole story",
+        "marketing owns the biggest slice",
+        "nice pie chart for the presentation",
+        "way easier to read than a table"
+      ],
+      "ru": [
+        "круговая диаграмма рассказывает всё",
+        "маркетинг занимает наибольший кусок",
+        "красивая диаграмма для презентации",
+        "гораздо легче читать чем таблицу"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pie cahrt for the qarterly reprot",
+        "reveneu split by rigon in the chrat",
+        "budegt allcoation pie diagarm",
+        "colur coded pie caht for the sildes"
+      ],
+      "ru": [
+        "круговая диаграмма для квартальнго отчёта",
+        "разбивка доходов по регонам",
+        "диагарамма распределения бюджета",
+        "цветовая кодировка диагрммы"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Gantt chart for the project schedule",
+        "Bar chart comparing sales figures",
+        "Line graph for the trend over time",
+        "Scatter plot for the data analysis",
+        "Histogram for the age distribution",
+        "Area chart for the cumulative growth"
+      ],
+      "ru": [
+        "Диаграмма Ганта для расписания проекта",
+        "Столбчатая диаграмма сравнения продаж",
+        "Линейный график тренда",
+        "Точечная диаграмма для анализа данных",
+        "Гистограмма распределения по возрасту",
+        "Диаграмма с областями для роста"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Pie chart for the quarterly revenue report",
+        "Market share breakdown in pie format",
+        "Budget allocation pie chart for the team"
+      ],
+      "ru": [
+        "Круговая диаграмма для квартального дохода",
+        "Разбивка доли рынка в формате пирога",
+        "Диаграмма распределения бюджета"
+      ]
+    },
+    "test": {
+      "en": [
+        "Create a pie chart for the presentation",
+        "Revenue split visualised as a pie",
+        "Expense breakdown in a pie diagram"
+      ],
+      "ru": [
+        "Создать круговую диаграмму для презентации",
+        "Разбивка доходов в виде пирога",
+        "Разбивка расходов в круговой диаграмме"
+      ]
+    }
+  }
+}

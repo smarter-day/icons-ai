@@ -1,0 +1,93 @@
+{
+  "icon": "brush",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "art",
+        "bristles",
+        "color",
+        "handle",
+        "maintenance",
+        "modify",
+        "paint"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "art brush for watercolor painting",
+        "artist brush for fine art",
+        "soft bristles on the paintbrush",
+        "bristles loaded with paint",
+        "color brush for the drawing app",
+        "apply color with a brush stroke",
+        "wooden handle of the paintbrush",
+        "long handle for wall painting",
+        "maintenance brush for cleaning surfaces",
+        "brush used in regular maintenance",
+        "modify the image with a brush tool",
+        "brush to modify the color layer",
+        "paintbrush on canvas",
+        "paint applied with a wide brush"
+      ]
+    },
+    "regular": {
+      "en": [
+        "artist's paintbrush with a soft bristle tip",
+        "thick brush applying paint on canvas",
+        "watercolor brush with a pointed tip",
+        "digital brush tool in the image editor",
+        "house painter using a large wall brush",
+        "fine brush for detailed miniature painting",
+        "brush stroke texture on the background",
+        "makeup brush with a rounded fluffy head",
+        "scrubbing brush for surface maintenance",
+        "fan brush for blending colors on canvas"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a brush icon for the drawing tool",
+        "add a paintbrush symbol to the art section",
+        "show a brush for the edit toolbar",
+        "use the brush icon for the creative tools menu"
+      ]
+    },
+    "typo": {
+      "en": [
+        "paintbrsuh on canvas",
+        "bristels on the brush",
+        "artsit brush for painting",
+        "paing with a wide brush"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "ballpoint pen writing on paper",
+        "wooden pencil with an eraser on top",
+        "felt-tip marker drawing a thick line",
+        "paint roller covering the wall with color",
+        "spray paint can spraying on a surface",
+        "artist palette with colorful paint blobs"
+      ]
+    },
+    "valid": {
+      "en": [
+        "paintbrush with soft bristles",
+        "artist brush for painting",
+        "brush stroke drawing tool"
+      ]
+    },
+    "test": {
+      "en": [
+        "art paintbrush symbol",
+        "color brush for canvas",
+        "brush editing tool icon"
+      ]
+    }
+  }
+}

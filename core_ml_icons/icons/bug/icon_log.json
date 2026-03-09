@@ -1,0 +1,154 @@
+{
+  "icon": "bug",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "beetle",
+        "error",
+        "glitch",
+        "insect",
+        "repair",
+        "report"
+      ],
+      "ru": [
+        "жук",
+        "ошибка",
+        "глюк",
+        "насекомое",
+        "исправление",
+        "отчёт"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "beetle in the garden",
+        "fix the error in the code",
+        "resolve the app glitch",
+        "insect repellent for the hike",
+        "repair the bug in the system",
+        "report the bug to the dev team",
+        "Beetle identification guide for the class",
+        "Error log review before the release",
+        "App glitch after the latest update",
+        "Insect bite treatment from the camping trip",
+        "Repair the memory leak in the service",
+        "Bug report filed in the tracker"
+      ],
+      "ru": [
+        "жук в саду",
+        "исправить ошибку в коде",
+        "устранить глюк приложения",
+        "репеллент от насекомых для похода",
+        "исправить баг в системе",
+        "сообщить о баге команде разработки",
+        "Определитель жуков для урока",
+        "Просмотр журнала ошибок перед релизом",
+        "Глюк приложения после последнего обновления",
+        "Лечение укуса насекомого после похода",
+        "Устранить утечку памяти в сервисе",
+        "Отчёт о баге внесён в трекер"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Fix the bug in the app",
+        "Report a bug to the development team",
+        "Debug the failing test",
+        "Identify the root cause of the error",
+        "Resolve the UI glitch",
+        "File a bug report",
+        "Investigate the production error",
+        "Squash the critical bug before release",
+        "Code review to find the bug",
+        "Repro steps for the bug report"
+      ],
+      "ru": [
+        "Исправить баг в приложении",
+        "Сообщить о баге команде разработки",
+        "Отладить падающий тест",
+        "Найти первопричину ошибки",
+        "Устранить глюк интерфейса",
+        "Зафиксировать баг-репорт",
+        "Расследовать ошибку на проде",
+        "Устранить критический баг перед релизом",
+        "Code review для поиска бага",
+        "Шаги воспроизведения для баг-репорта"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "There's a bug in the latest build",
+        "We need to fix this before launch",
+        "Found another bug in the checkout flow",
+        "The glitch is driving users crazy"
+      ],
+      "ru": [
+        "В последнем билде есть баг",
+        "Надо исправить это до запуска",
+        "Нашёл ещё один баг в чекауте",
+        "Глюк бесит пользователей"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Fxe the bug in the app",
+        "Reprot a bug to the dev team",
+        "Debg the failng test",
+        "Fil a bug reprot"
+      ],
+      "ru": [
+        "Исправть баг в прложении",
+        "Соощить о баге коамнде разрботки",
+        "Отлдить падающй тест",
+        "Подать баг-репорт"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Ant problem at home",
+        "Insect infestation report",
+        "Fix a typo in the code",
+        "Error message in the logs",
+        "Server crash investigation",
+        "Pest control appointment"
+      ],
+      "ru": [
+        "Проблема с муравьями дома",
+        "Нашествие насекомых",
+        "Исправить опечатку в коде",
+        "Сообщение об ошибке в логах",
+        "Расследование сбоя сервера",
+        "Запись на уничтожение вредителей"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Fix the critical bug before release",
+        "File a bug report for the dev team",
+        "Debug the failing test"
+      ],
+      "ru": [
+        "Исправить критический баг до релиза",
+        "Подать баг-репорт для команды разработки",
+        "Отладить падающий тест"
+      ]
+    },
+    "test": {
+      "en": [
+        "Investigate the production bug",
+        "Resolve the UI glitch in the app",
+        "Report the error to the team"
+      ],
+      "ru": [
+        "Расследовать баг на проде",
+        "Устранить глюк интерфейса в приложении",
+        "Сообщить об ошибке команде"
+      ]
+    }
+  }
+}

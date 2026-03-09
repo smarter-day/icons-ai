@@ -1,0 +1,117 @@
+{
+  "icon": "axe",
+  "rows": {
+    "train_en": 69,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "axe",
+        "blade",
+        "chop",
+        "cut",
+        "equipment",
+        "fall",
+        "hatchet",
+        "lumberjack",
+        "outdoors",
+        "sharp",
+        "split",
+        "swing",
+        "tool",
+        "weapon",
+        "wood"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "woodchopping axe for camping",
+        "single-blade axe icon",
+        "axe blade with sharp edge",
+        "sharpened blade on hatchet head",
+        "chop firewood with an axe",
+        "chop down a tree trunk",
+        "cut through logs with a hatchet",
+        "axe used to cut branches",
+        "camping equipment including axe",
+        "forestry equipment with axe and saw",
+        "fell a tree with an axe",
+        "timber falling after axe strike",
+        "small hatchet for the hiking pack",
+        "hatchet with a hickory handle",
+        "lumberjack swinging heavy axe",
+        "lumberjack in flannel chopping logs",
+        "outdoors axe for wilderness survival",
+        "axe in the outdoor kit",
+        "sharp axe blade for splitting wood",
+        "sharpen the axe before use",
+        "split firewood with a maul axe",
+        "axe splitting a log cleanly in half",
+        "swing the axe overhead",
+        "wide swing of the lumberjack axe",
+        "axe as a basic woodcutting tool",
+        "tool belt with a hatchet",
+        "battle axe as a medieval weapon",
+        "weapon axe used by Viking warriors",
+        "axe cutting through wood grain",
+        "wood pile next to the axe"
+      ]
+    },
+    "regular": {
+      "en": [
+        "single-bit axe with a wooden handle",
+        "lumberjack chopping firewood in the forest",
+        "camping hatchet packed in a survival kit",
+        "medieval battle axe with an iron head",
+        "sharp axe blade raised overhead for a strike",
+        "axe head buried deep in a tree stump",
+        "fire axe mounted on an emergency wall bracket",
+        "Viking warrior with a double-headed axe",
+        "fireman axe for breaking down doors",
+        "splitting maul axe for log splitting"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an axe icon for my survival game",
+        "add a hatchet symbol to the camping gear section",
+        "show an axe icon for the woodcutting ability",
+        "use the axe for the lumberjack character class"
+      ]
+    },
+    "typo": {
+      "en": [
+        "lumberjak axe in the forest",
+        "hacktet with hickory handle",
+        "woodchoping with heavy axe",
+        "sharpen the blde before use"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "hunting knife with a leather belt sheath",
+        "knight's broadsword with an ornate crossguard",
+        "carpenter hammer driving a nail into wood",
+        "pickaxe breaking hard rocky ground",
+        "machete clearing jungle underbrush",
+        "chainsaw cutting through large timber"
+      ]
+    },
+    "valid": {
+      "en": [
+        "lumberjack axe for cutting wood",
+        "camping hatchet with wooden handle",
+        "axe splitting a log in two"
+      ]
+    },
+    "test": {
+      "en": [
+        "firewood chopping axe",
+        "sharp hatchet for outdoor use",
+        "wood-splitting axe blade"
+      ]
+    }
+  }
+}

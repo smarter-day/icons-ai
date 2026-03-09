@@ -1,0 +1,130 @@
+{
+  "icon": "rupee-sign",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Rupee Sign",
+        "currency"
+      ],
+      "ru": [
+        "знак рупии",
+        "валюта"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Indian Rupee Sign symbol for INR",
+        "rupee sign used in India",
+        "currency symbol for Indian rupee",
+        "currency selector with rupee option"
+      ],
+      "ru": [
+        "символ индийской рупии для INR",
+        "знак рупии используется в Индии",
+        "символ валюты индийской рупии",
+        "выбор валюты с опцией рупии"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Indian rupee symbol with two horizontal lines",
+        "price displayed in Indian rupees",
+        "rupee sign in e-commerce app for Indian market",
+        "exchange rate from USD to INR",
+        "payment in Indian rupees at checkout",
+        "salary shown in rupees per month",
+        "rupee symbol on bank statement",
+        "Indian currency rupee sign on price tag",
+        "budget tracker showing expenses in rupees",
+        "currency conversion showing rupee amount"
+      ],
+      "ru": [
+        "символ индийской рупии с двумя горизонтальными линиями",
+        "цена отображается в индийских рупиях",
+        "знак рупии в приложении электронной торговли для Индии",
+        "обменный курс USD/INR",
+        "оплата в индийских рупиях на кассе",
+        "зарплата в рупиях в месяц",
+        "символ рупии в банковской выписке",
+        "знак индийской валюты рупия на ценнике",
+        "трекер бюджета с расходами в рупиях",
+        "конвертация валюты показывает сумму в рупиях"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a rupee sign icon for the Indian market",
+        "add a rupee symbol to the currency picker",
+        "show a rupee sign for the price in INR",
+        "use the rupee icon for the payment feature"
+      ],
+      "ru": [
+        "мне нужна иконка знака рупии для индийского рынка",
+        "добавь символ рупии в выбор валюты",
+        "покажи знак рупии для цены в INR",
+        "используй иконку рупии для функции оплаты"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Inidan rupee sign currency symbol",
+        "rupee sgin for Indian market app",
+        "currnecy selector with rupee option",
+        "paymnet in Indian rupees at checkout"
+      ],
+      "ru": [
+        "символ валюты индийской рупии",
+        "знак рупии для прилжения индийского рынка",
+        "выбор валтюы с опцией рупии",
+        "оплата в индийских рупяих на кассе"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "dollar sign currency symbol for USD",
+        "euro sign symbol for European currency",
+        "ruble sign symbol for Russian currency",
+        "yen sign for Japanese currency",
+        "bitcoin symbol for cryptocurrency",
+        "pound sterling sign for British GBP"
+      ],
+      "ru": [
+        "символ доллара для валюты США",
+        "знак евро для европейской валюты",
+        "знак рубля для российской валюты",
+        "знак иены для японской валюты",
+        "символ биткоина для криптовалюты",
+        "знак фунта стерлингов для британской валюты"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Indian rupee sign currency symbol",
+        "rupee symbol on payment screen",
+        "currency icon for Indian rupee INR"
+      ],
+      "ru": [
+        "символ индийской рупии",
+        "знак рупии на экране оплаты",
+        "иконка валюты индийская рупия"
+      ]
+    },
+    "test": {
+      "en": [
+        "rupee sign for Indian currency",
+        "price in Indian rupees display",
+        "rupee currency symbol in finance app"
+      ],
+      "ru": [
+        "знак рупии для индийской валюты",
+        "цена в индийских рупиях",
+        "символ рупии в финансовом приложении"
+      ]
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "icon": "tape",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "design",
+        "package",
+        "sticky"
+      ],
+      "ru": [
+        "дизайн",
+        "упаковка",
+        "клейкий"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "design tape washi decorative",
+        "tape for design layouts",
+        "package tape for shipping box",
+        "tape to seal packages",
+        "sticky tape office desk",
+        "clear sticky tape roll"
+      ],
+      "ru": [
+        "дизайнерский скотч васи декоративный",
+        "скотч для дизайн-макетов",
+        "упаковочный скотч для коробок",
+        "скотч запечатать посылки",
+        "клейкий скотч офисный стол",
+        "прозрачный клейкий скотч рулон"
+      ]
+    },
+    "regular": {
+      "en": [
+        "clear tape dispenser office supply",
+        "packing tape brown sealing box",
+        "washi tape colorful decorative craft",
+        "masking tape painting wall edge",
+        "double sided tape invisible bond",
+        "duct tape grey heavy duty repair",
+        "tape roll on desk next to scissors",
+        "tape measure length not adhesive",
+        "medical tape bandage wound",
+        "electrical tape black insulation"
+      ],
+      "ru": [
+        "прозрачный диспенсер скотча офисные принадлежности",
+        "коричневый упаковочный скотч запечатать коробку",
+        "васи скотч цветной декоративный кружок",
+        "малярный скотч окраска края стены",
+        "двусторонний скотч невидимое склеивание",
+        "армированный скотч серый прочный ремонт",
+        "рулон скотча на столе рядом с ножницами",
+        "рулетка длина не клейкая",
+        "медицинский пластырь скотч рана",
+        "изоляционный скотч чёрный изоляция"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a tape icon for the office supplies section",
+        "add a sticky tape symbol to the packaging feature",
+        "show tape for the craft tools category",
+        "use the tape icon for the box sealing task"
+      ],
+      "ru": [
+        "нужна иконка скотча для раздела офисных принадлежностей",
+        "добавь символ клейкой ленты к функции упаковки",
+        "покажи скотч для категории инструментов для кружков",
+        "используй иконку скотча для задачи запечатывания коробок"
+      ]
+    },
+    "typo": {
+      "en": [
+        "stikcy tape office",
+        "pakage tape sealing",
+        "tpae roll clear",
+        "desgin tape washi"
+      ],
+      "ru": [
+        "клейкий скочт офис",
+        "упаковочный скотчт запечатать",
+        "рулон скчота прозрачный",
+        "декоративный скотч васи"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "glue stick adhesive craft",
+        "stapler binding papers office",
+        "scissors cutting tool blade",
+        "rubber band stretchy loop",
+        "paper clip holding sheets",
+        "string twine tying package"
+      ],
+      "ru": [
+        "клей-карандаш клеящий кружок",
+        "степлер скрепляет бумаги офис",
+        "ножницы режущий инструмент лезвие",
+        "резинка эластичная петля",
+        "скрепка удерживает листы",
+        "нитка верёвка перевязать посылку"
+      ]
+    },
+    "valid": {
+      "en": [
+        "clear tape roll office",
+        "sticky tape icon packaging",
+        "tape dispenser supply"
+      ],
+      "ru": [
+        "прозрачный рулон скотча офис",
+        "иконка клейкой ленты упаковка",
+        "диспенсер скотча"
+      ]
+    },
+    "test": {
+      "en": [
+        "tape icon sticky",
+        "packing tape seal",
+        "tape roll symbol"
+      ],
+      "ru": [
+        "иконка скотча клейкий",
+        "упаковочный скотч печать",
+        "символ рулона скотча"
+      ]
+    }
+  }
+}

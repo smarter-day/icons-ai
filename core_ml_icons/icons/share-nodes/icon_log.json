@@ -1,0 +1,142 @@
+{
+  "icon": "share-nodes",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "forward",
+        "save",
+        "send",
+        "social"
+      ],
+      "ru": [
+        "переслать",
+        "сохранить",
+        "отправить",
+        "социальный"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "forward link to another node",
+        "forward post in social network",
+        "save shared content from network",
+        "save post sent by contact",
+        "send to social network nodes",
+        "send post to followers",
+        "social network graph nodes sharing",
+        "social connections sharing content"
+      ],
+      "ru": [
+        "переслать ссылку другому узлу",
+        "переслать пост в социальной сети",
+        "сохранить контент из сети",
+        "сохранить пост от контакта",
+        "отправить в узлы соцсети",
+        "отправить пост подписчикам",
+        "граф узлов соцсети делится контентом",
+        "социальные связи делятся контентом"
+      ]
+    },
+    "regular": {
+      "en": [
+        "share nodes icon with branching arrows",
+        "social share button with connected nodes",
+        "network share graph with three dots",
+        "share content across connected platforms",
+        "node-based sharing diagram",
+        "share icon with outgoing network arrows",
+        "distribute link across social network nodes",
+        "social sharing widget with node branches",
+        "share to three network endpoints",
+        "branching share icon for social media"
+      ],
+      "ru": [
+        "иконка поделиться с ветвящимися стрелками",
+        "кнопка соцсети с соединёнными узлами",
+        "граф сети из трёх точек",
+        "распространить контент по подключённым платформам",
+        "диаграмма публикации на основе узлов",
+        "иконка публикации с исходящими стрелками сети",
+        "распространить ссылку по узлам соцсети",
+        "виджет публикации с ветвями узлов",
+        "поделиться с тремя конечными точками сети",
+        "ветвящаяся иконка публикации для соцсетей"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a share-nodes icon for the social sharing button",
+        "add a share nodes symbol to the post options",
+        "show share nodes for the network distribution feature",
+        "use the share-nodes icon for the social media toolbar"
+      ],
+      "ru": [
+        "мне нужна иконка поделиться-узлы для кнопки соцсетей",
+        "добавь символ узлов публикации в опции поста",
+        "покажи узлы публикации для функции сетевого распространения",
+        "используй иконку узлов публикации на панели соцсетей"
+      ]
+    },
+    "typo": {
+      "en": [
+        "shrae nodes icon with branching arrows",
+        "socail share button with connected nodes",
+        "netwrok share graph with three dots",
+        "distribte link across social nodes"
+      ],
+      "ru": [
+        "иконка поделитсья с ветвящимися стрелками",
+        "кнопка соцсетий с соединёнными узлами",
+        "граф сетти из трёх точек",
+        "распространить сслыку по узлам сети"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "share-all broadcasting to everyone",
+        "link icon copying URL to clipboard",
+        "repost arrow recycling existing content",
+        "like button heart for approval",
+        "comment bubble for responding to post",
+        "bookmark saving post to read later"
+      ],
+      "ru": [
+        "поделиться везде для всех",
+        "иконка ссылки для копирования URL",
+        "стрелка репоста существующего контента",
+        "кнопка лайка сердце для одобрения",
+        "пузырь комментария для ответа на пост",
+        "закладка для сохранения поста"
+      ]
+    },
+    "valid": {
+      "en": [
+        "share nodes icon for social sharing",
+        "branching share button with nodes",
+        "social network share icon"
+      ],
+      "ru": [
+        "иконка поделиться-узлы для соцсетей",
+        "ветвящаяся кнопка публикации с узлами",
+        "иконка публикации в соцсети"
+      ]
+    },
+    "test": {
+      "en": [
+        "share nodes for social media button",
+        "network graph share icon",
+        "connected nodes sharing diagram"
+      ],
+      "ru": [
+        "узлы публикации для кнопки соцсетей",
+        "иконка публикации в сетевом графе",
+        "диаграмма публикации с узлами"
+      ]
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "icon": "wand-magic",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "autocomplete",
+        "automatic",
+        "mage",
+        "magic",
+        "spell",
+        "wand",
+        "witch",
+        "wizard"
+      ],
+      "ru": [
+        "автодополнение",
+        "автоматический",
+        "маг",
+        "магия",
+        "заклинание",
+        "палочка",
+        "ведьма",
+        "волшебник"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "autocomplete wand magic suggestion",
+        "wand magic autocomplete feature",
+        "automatic magic wand generate",
+        "automatic suggestion wand",
+        "mage magic wand character",
+        "mage casting wand spell",
+        "magic wand sparkle effect",
+        "magic glow wand tip",
+        "spell wand cast magic",
+        "spell from magic wand",
+        "wand magic sparkle icon",
+        "wand with sparkles UI",
+        "witch magic wand brew",
+        "witch wand spell potion",
+        "wizard magic wand Hogwarts",
+        "wizard wand casting spell"
+      ],
+      "ru": [
+        "автодополнение волшебная палочка подсказка",
+        "волшебная палочка магия автодополнение",
+        "автоматически сгенерировать волшебная палочка",
+        "автоматическая подсказка палочка",
+        "персонаж мага волшебная палочка",
+        "маг читает заклинание палочкой",
+        "волшебная палочка эффект блеска",
+        "светящийся кончик волшебной палочки",
+        "заклинание палочкой магия",
+        "заклинание из волшебной палочки",
+        "иконка волшебной палочки блёстки",
+        "палочка с блёстками UI",
+        "ведьма волшебная палочка варево",
+        "ведьма заклинание палочкой зелье",
+        "волшебник волшебная палочка Хогвартс",
+        "волшебник читает заклинание палочкой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "magic wand with sparkles autocomplete",
+        "wizard magic wand casting",
+        "AI magic wand auto generate",
+        "magic wand icon UI action",
+        "magic wand create from nothing",
+        "wand sparkles creative tool",
+        "witch magic wand spell",
+        "Harry Potter expelliarmus wand",
+        "mage class wand fantasy RPG",
+        "magic wand undo transform"
+      ],
+      "ru": [
+        "волшебная палочка с блёстками автодополнение",
+        "волшебник палочка читает заклинание",
+        "ИИ волшебная палочка автогенерация",
+        "иконка волшебной палочки UI действие",
+        "волшебная палочка создать из ничего",
+        "творческий инструмент палочка с блёстками",
+        "ведьма волшебная палочка заклинание",
+        "Гарри Поттер экспеллиармус палочка",
+        "класс мага палочка фэнтези RPG",
+        "волшебная палочка отменить преобразование"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a wand-magic icon for the AI autocomplete",
+        "add a sparkle wand symbol to the auto-generate feature",
+        "show a magic wand for the wizard mode",
+        "use the wand-magic icon for the one-click action"
+      ],
+      "ru": [
+        "нужна иконка волшебной палочки для ИИ автодополнения",
+        "добавь символ палочки с блёстками к функции автогенерации",
+        "покажи волшебную палочку для режима волшебника",
+        "используй иконку палочки для действия одним кликом"
+      ]
+    },
+    "typo": {
+      "en": [
+        "magci wand autocomplete",
+        "wandd magic sparkle",
+        "autocmoplete wand ui",
+        "witchh magic wand"
+      ],
+      "ru": [
+        "магическая палочка автодополнение",
+        "волшебная палочка блёстки",
+        "автодополнение палочка UI",
+        "ведьма волшебная палочка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "plain wand without sparkles",
+        "lightbulb idea generate",
+        "sparkle stars effect only",
+        "gear settings auto configure",
+        "brush paint creative tool",
+        "pen writing generate content"
+      ],
+      "ru": [
+        "простая палочка без блёсток",
+        "лампочка идея генерация",
+        "только эффект блёстки звёзды",
+        "шестерня настройки автонастройка",
+        "кисть рисование творческий инструмент",
+        "ручка письмо генерация контента"
+      ]
+    },
+    "valid": {
+      "en": [
+        "wand-magic autocomplete icon",
+        "sparkle magic wand symbol",
+        "wizard wand AI"
+      ],
+      "ru": [
+        "иконка волшебной палочки автодополнение",
+        "символ блёсток волшебной палочки",
+        "волшебник палочка ИИ"
+      ]
+    },
+    "test": {
+      "en": [
+        "wand-magic icon",
+        "magic wand sparkle",
+        "autocomplete wand symbol"
+      ],
+      "ru": [
+        "иконка волшебной палочки",
+        "блёстки волшебная палочка",
+        "символ палочки автодополнение"
+      ]
+    }
+  }
+}

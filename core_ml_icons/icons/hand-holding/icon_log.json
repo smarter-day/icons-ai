@@ -1,0 +1,78 @@
+{
+  "icon": "hand-holding",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "carry",
+        "lift"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Carry the box to the new room",
+        "Carry groceries from the car",
+        "Lift the heavy bag",
+        "Lift the box onto the shelf"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Carry the groceries inside",
+        "Hold the baby safely",
+        "Lift the heavy box onto the shelf",
+        "Carry the laundry basket",
+        "Hold the door open for someone",
+        "Carry the equipment to the venue",
+        "Lift the suitcase into the overhead bin",
+        "Hand something to a colleague",
+        "Carry the tray of food",
+        "Hold the package securely"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Carry that",
+        "Hold it",
+        "Lift it up",
+        "Hand it over"
+      ]
+    },
+    "typo": {
+      "en": [
+        "carrey the groceries",
+        "lfit the heavy box",
+        "holdd the baby",
+        "caryr the laundrey"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use a dolly to move boxes",
+        "Ask for help lifting",
+        "Put the item down on the table",
+        "Use a forklift for the heavy pallet",
+        "Set the box on the conveyor belt",
+        "Use both hands to hold the item"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Carry the groceries inside",
+        "Lift the heavy box",
+        "Hold the package securely"
+      ]
+    },
+    "test": {
+      "en": [
+        "Carry the laundry basket",
+        "Hand something to a colleague",
+        "Lift the suitcase into the bin"
+      ]
+    }
+  }
+}

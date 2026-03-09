@@ -1,0 +1,180 @@
+{
+  "icon": "pizza",
+  "rows": {
+    "train_en": 55,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cheese",
+        "chicago",
+        "italian",
+        "mozzarella",
+        "new york",
+        "pepperoni",
+        "pie",
+        "pizza",
+        "slice",
+        "teenage mutant ninja turtles",
+        "tomato"
+      ],
+      "ru": [
+        "сыр",
+        "Чикаго",
+        "итальянский",
+        "моцарелла",
+        "Нью-Йорк",
+        "пепперони",
+        "пирог",
+        "пицца",
+        "кусок",
+        "черепашки-ниндзя",
+        "томат"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cheese pull pizza slice",
+        "melted cheese on pizza",
+        "Chicago deep dish pizza",
+        "Chicago style stuffed pizza",
+        "Italian pizza from wood-fired oven",
+        "authentic Italian pizza",
+        "mozzarella topping on pizza",
+        "fresh mozzarella pizza margherita",
+        "New York style pizza fold",
+        "large New York pizza slice",
+        "pepperoni pizza slice",
+        "classic pepperoni pizza",
+        "pizza pie whole round",
+        "pizza round like a pie",
+        "pizza slice triangle",
+        "single pizza slice emoji",
+        "Teenage Mutant Ninja Turtles pizza",
+        "TMNT favorite pizza",
+        "tomato sauce base pizza",
+        "fresh tomato pizza topping"
+      ],
+      "ru": [
+        "сырная растяжка кусочка пиццы",
+        "расплавленный сыр на пицце",
+        "пицца по-чикагски глубокое блюдо",
+        "чикагская пицца-запеканка",
+        "итальянская пицца из дровяной печи",
+        "аутентичная итальянская пицца",
+        "начинка из моцареллы на пицце",
+        "пицца маргарита со свежей моцареллой",
+        "складывание кусочка пиццы по-нью-йоркски",
+        "большой кусок нью-йоркской пиццы",
+        "кусочек пиццы с пепперони",
+        "классическая пицца пепперони",
+        "круглый пирог пицца целиком",
+        "пицца круглая как пирог",
+        "треугольный кусочек пиццы",
+        "один кусочек пиццы эмодзи",
+        "пицца черепашек-ниндзя",
+        "любимая пицца ТМНТ",
+        "основа пиццы из томатного соуса",
+        "свежая томатная начинка пиццы"
+      ]
+    },
+    "regular": {
+      "en": [
+        "pizza slice with pepperoni and cheese",
+        "round pizza with various toppings",
+        "wood-fired Neapolitan pizza",
+        "pizza emoji for food apps",
+        "delivery pizza in box",
+        "pizza night food icon",
+        "Italian pizza restaurant menu",
+        "Chicago deep dish pizza",
+        "New York style thin crust slice",
+        "homemade pizza from oven"
+      ],
+      "ru": [
+        "кусочек пиццы с пепперони и сыром",
+        "круглая пицца с различными начинками",
+        "неаполитанская пицца из дровяной печи",
+        "эмодзи пиццы для пищевых приложений",
+        "пицца для доставки в коробке",
+        "иконка вечера пиццы",
+        "меню итальянского ресторана пиццы",
+        "пицца Чикаго с глубоким блюдом",
+        "тонкий корж нью-йоркского стиля",
+        "домашняя пицца из духовки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pizza icon for the food ordering app",
+        "add a pizza slice to the Italian food section",
+        "show a pizza for the food delivery feature",
+        "use the pizza icon for the dinner menu"
+      ],
+      "ru": [
+        "Мне нужна иконка пиццы для приложения заказа еды",
+        "добавить кусочек пиццы в раздел итальянской еды",
+        "показать пиццу для функции доставки еды",
+        "использовать иконку пиццы для меню ужина"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pizzza slice",
+        "pepperoin pizza",
+        "chese pizza",
+        "piiza delivery"
+      ],
+      "ru": [
+        "пицца кусак",
+        "пепероини пицца",
+        "сыр пиццца",
+        "пицца доставак"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "burger with bun and patty",
+        "pasta noodles Italian food",
+        "calzone folded pizza",
+        "flatbread without toppings",
+        "pie slice dessert",
+        "taco Mexican food"
+      ],
+      "ru": [
+        "бургер с булочкой и котлетой",
+        "паста-лапша итальянская еда",
+        "кальцоне сложенная пицца",
+        "лепёшка без начинки",
+        "кусочек пирога десерт",
+        "тако мексиканская еда"
+      ]
+    },
+    "valid": {
+      "en": [
+        "pizza slice icon",
+        "pepperoni pizza food",
+        "pizza for delivery"
+      ],
+      "ru": [
+        "иконка кусочка пиццы",
+        "пицца с пепперони еда",
+        "пицца для доставки"
+      ]
+    },
+    "test": {
+      "en": [
+        "pizza icon",
+        "cheese pizza slice",
+        "Italian pizza food"
+      ],
+      "ru": [
+        "иконка пиццы",
+        "кусочек сырной пиццы",
+        "итальянская пицца еда"
+      ]
+    }
+  }
+}

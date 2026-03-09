@@ -1,0 +1,172 @@
+{
+  "icon": "cabinet-filing",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "archive",
+        "cabinet",
+        "file",
+        "file cabinet",
+        "files",
+        "filing",
+        "records",
+        "register",
+        "storage"
+      ],
+      "ru": [
+        "архив",
+        "шкаф",
+        "файл",
+        "картотека",
+        "файлы",
+        "делопроизводство",
+        "записи",
+        "реестр",
+        "хранение"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Archive old documents to the filing cabinet",
+        "Cabinet drawers are full — time to purge",
+        "File the tax documents away",
+        "File cabinet organization overhaul",
+        "Sort through old files this weekend",
+        "Filing system needs reorganization",
+        "Medical records filing update",
+        "Register new documents in the system",
+        "Storage cabinet for the office supplies",
+        "Archive contracts older than five years",
+        "Cabinet key missing — get a spare cut",
+        "File the insurance claim documents today",
+        "File cabinet overflowing — sort through it",
+        "Scan all old files before disposal",
+        "Friday filing blitz before the weekend",
+        "Medical records request from the clinic",
+        "Register all new vendor agreements",
+        "Storage cabinet inventory this afternoon"
+      ],
+      "ru": [
+        "Архивировать старые документы в шкафу",
+        "Ящики шкафа переполнены — пора чистить",
+        "Подшить налоговые документы",
+        "Переорганизовать систему хранения файлов",
+        "Разобрать старые файлы в эти выходные",
+        "Система делопроизводства нуждается в реорганизации",
+        "Обновление медицинских записей",
+        "Зарегистрировать новые документы в системе",
+        "Шкаф для хранения офисных принадлежностей",
+        "Архивировать договоры старше пяти лет",
+        "Ключ от шкафа пропал — сделать запасной",
+        "Подать страховые документы сегодня",
+        "Шкаф переполнен — разобрать",
+        "Отсканировать старые файлы перед уничтожением",
+        "Пятничная архивная работа перед выходными",
+        "Запрос медицинских записей из клиники",
+        "Зарегистрировать все новые соглашения с поставщиками",
+        "Инвентаризация шкафа для хранения после обеда"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Organize paper files in the office",
+        "Label the folders in the cabinet",
+        "Find the contract in the files",
+        "Digitize old paper documents",
+        "Office filing day on Friday",
+        "Color-code the hanging files",
+        "Pull the client file from the drawer",
+        "Tax time filing organization",
+        "Create a new folder for the project",
+        "Archive completed project files"
+      ],
+      "ru": [
+        "Организовать бумажные файлы в офисе",
+        "Подписать папки в шкафу",
+        "Найти контракт в файлах",
+        "Оцифровать старые бумажные документы",
+        "День архивирования в пятницу",
+        "Цветовое кодирование подвесных файлов",
+        "Достать файл клиента из ящика",
+        "Организация архивирования на время налогов",
+        "Создать новую папку для проекта",
+        "Архивировать завершённые файлы проекта"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "the filing cabinet is a total mess",
+        "can't find anything in these files",
+        "where did that document go",
+        "been putting off filing for weeks"
+      ],
+      "ru": [
+        "картотека в полном беспорядке",
+        "ничего не найти в этих файлах",
+        "куда делся тот документ",
+        "откладываю делопроизводство уже несколько недель"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cabinent files need organizing",
+        "fillling system is a disaster",
+        "oragnize the document archieve",
+        "find the contrcat in the draws"
+      ],
+      "ru": [
+        "файлы в шкафу нужно организовать",
+        "систима делопроизводства — катастрофа",
+        "организовать архиф документов",
+        "найти контаркт в ящиках"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Digital folder on the computer desktop",
+        "Cardboard box for storage in garage",
+        "Briefcase for business documents",
+        "Bookshelf organization for the office",
+        "Photo album storage from the event",
+        "Binder with dividers for the reports"
+      ],
+      "ru": [
+        "Цифровая папка на рабочем столе компьютера",
+        "Картонная коробка для хранения в гараже",
+        "Портфель для деловых документов",
+        "Организация книжной полки в офисе",
+        "Хранение фотоальбома с мероприятия",
+        "Папка с разделителями для отчётов"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Pull the 2023 tax records from the cabinet",
+        "Office filing system update",
+        "Archive completed project documents"
+      ],
+      "ru": [
+        "Достать налоговые записи за 2023 год из шкафа",
+        "Обновление системы делопроизводства в офисе",
+        "Архивировать документы завершённого проекта"
+      ]
+    },
+    "test": {
+      "en": [
+        "Sort through the filing cabinet",
+        "Find the old contract in storage",
+        "Label all the office folders"
+      ],
+      "ru": [
+        "Разобрать картотеку",
+        "Найти старый контракт в хранилище",
+        "Подписать все папки в офисе"
+      ]
+    }
+  }
+}

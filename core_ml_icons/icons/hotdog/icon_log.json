@@ -1,0 +1,90 @@
+{
+  "icon": "hotdog",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bun",
+        "chili",
+        "hot dog",
+        "hotdog",
+        "sausage",
+        "sandwich"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Toast the bun before serving",
+        "Buy hotdog buns at the store",
+        "Make chili dogs for the party",
+        "Top the hotdog with chili",
+        "Grill hot dogs at the BBQ",
+        "Order a hot dog at the game",
+        "Make a hotdog for lunch",
+        "Buy hotdog toppings",
+        "Grill sausages at the cookout",
+        "Buy bratwurst sausages",
+        "Make a sausage sandwich",
+        "Eat a sandwich for lunch"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Grill hotdogs at the BBQ",
+        "Buy hotdogs for the cookout",
+        "Make chili dogs at home",
+        "Get a hotdog at the baseball game",
+        "Top the hotdog with mustard and ketchup",
+        "Cook hotdogs on the stove",
+        "Make a corn dog batter",
+        "Serve hotdogs at the kids party",
+        "Order a hotdog from the food cart",
+        "Make a Chicago-style hotdog"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Hotdog time!",
+        "Grill the dogs",
+        "Chili dog",
+        "BBQ sausages"
+      ]
+    },
+    "typo": {
+      "en": [
+        "gril hotdogs at the barbeque",
+        "buy hotodgs for cookoout",
+        "make chilli dogs at home",
+        "get a hotdgo at the game"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Make a burger at the grill",
+        "Order a bratwurst at the fair",
+        "Cook a corn dog in oil",
+        "Make a breakfast sausage wrap",
+        "Grill chicken wings instead",
+        "Make a sandwich with deli meat"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Grill hotdogs at the BBQ",
+        "Make chili dogs at home",
+        "Top the hotdog with mustard"
+      ]
+    },
+    "test": {
+      "en": [
+        "Get a hotdog at the baseball game",
+        "Serve hotdogs at the party",
+        "Order a hotdog from the food cart"
+      ]
+    }
+  }
+}

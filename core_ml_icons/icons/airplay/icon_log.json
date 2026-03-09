@@ -1,0 +1,160 @@
+{
+  "icon": "airplay",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "apple",
+        "connect",
+        "mirror",
+        "share",
+        "signal",
+        "stream",
+        "video"
+      ],
+      "ru": [
+        "Apple",
+        "подключить",
+        "зеркало",
+        "поделиться",
+        "сигнал",
+        "трансляция",
+        "видео"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Show video on big screen",
+        "Connect phone to TV",
+        "Project slides wirelessly",
+        "Stream from iPad to display",
+        "Cast YouTube to TV",
+        "Mirror iPhone screen",
+        "Setup wireless display",
+        "Open AirPlay on Apple TV",
+        "Link laptop to the projector",
+        "Duplicate screen for presentation",
+        "Send photos to the big screen",
+        "Check the wireless signal strength",
+        "Start streaming the game",
+        "Watch the video on TV instead"
+      ],
+      "ru": [
+        "Показать видео на большом экране",
+        "Подключить телефон к телевизору",
+        "Показать слайды по беспроводной связи",
+        "Транслировать с iPad на экран",
+        "Включить YouTube на телевизоре",
+        "Зеркалировать экран iPhone",
+        "Настроить беспроводной дисплей",
+        "Открыть AirPlay на Apple TV",
+        "Подключить ноутбук к проектору",
+        "Дублировать экран для презентации",
+        "Отправить фото на большой экран",
+        "Проверить уровень беспроводного сигнала",
+        "Начать трансляцию матча",
+        "Посмотреть видео на телевизоре"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Beam presentation to screen",
+        "Connect to smart TV",
+        "Screen share for demo",
+        "Show the kids a movie on TV",
+        "I want to cast to the big screen",
+        "Show this on TV wirelessly",
+        "Stream my phone to the TV",
+        "Miror screen to TV",
+        "Cast presntation",
+        "Strem to projector"
+      ],
+      "ru": [
+        "Перенести презентацию на экран",
+        "Подключиться к смарт-телевизору",
+        "Поделиться экраном для демо",
+        "Показать детям фильм по телевизору",
+        "Хочу передать на большой экран",
+        "Показать это на телевизоре по Wi-Fi",
+        "Передать экран телефона на телевизор",
+        "Зеракалировать экран на ТВ",
+        "Транслирвать презентацию",
+        "Стрим на проктор"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Wirelass display setup",
+        "Video call with team",
+        "Give presentation",
+        "Watch Netflix tonight"
+      ],
+      "ru": [
+        "Беспроводное подключение к диспею",
+        "Видеозвонок с командой",
+        "Провести презентацию",
+        "Посмотреть Netflix сегодня вечером"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Send file to laptop",
+        "Connect to wifi",
+        "Join the meeting",
+        "Apple TV setup"
+      ],
+      "ru": [
+        "Отправить файл на ноутбук",
+        "Подключиться к Wi-Fi",
+        "Присоединиться к встрече",
+        "настроить Apple TV"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "connect to display",
+        "mirror my screen",
+        "share screen wirelessly",
+        "check wireless signal",
+        "stream to the TV",
+        "send video to TV"
+      ],
+      "ru": [
+        "подключить к дисплею",
+        "зеркалировать экран",
+        "поделиться экраном по беспроводной",
+        "проверить беспроводной сигнал",
+        "трансляция на телевизор",
+        "отправить видео на ТВ"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Display presentation on projector",
+        "Watch something on the big screen",
+        "Beam video to the TV"
+      ],
+      "ru": [
+        "Вывести презентацию на проектор",
+        "Посмотреть что-нибудь на большом экране",
+        "Отправить видео на телевизор"
+      ]
+    },
+    "test": {
+      "en": [
+        "Throw it up on the wall",
+        "Put it on the screen",
+        "Stream to the television"
+      ],
+      "ru": [
+        "Закинуть на экран",
+        "Вывести на дисплей",
+        "Транслировать на телевизор"
+      ]
+    }
+  }
+}

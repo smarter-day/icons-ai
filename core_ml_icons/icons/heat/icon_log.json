@@ -1,0 +1,99 @@
+{
+  "icon": "heat",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ac",
+        "air conditioner",
+        "boiler",
+        "heating",
+        "hot",
+        "sauna",
+        "spa",
+        "summer",
+        "temperature"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "AC unit set to heat mode",
+        "AC heating the room in winter",
+        "air conditioner in heating mode",
+        "air conditioner warming the house",
+        "boiler heating the hot water",
+        "boiler system for home heat",
+        "heating turned on in winter",
+        "home heating system running",
+        "hot temperature warning symbol",
+        "hot heat from the heating vent",
+        "sauna heat set to high temperature",
+        "dry heat session in the sauna",
+        "spa heated pool with warmth",
+        "spa heat for relaxation",
+        "summer heat symbol for the season",
+        "summer heat wave warning",
+        "temperature rising heat indicator",
+        "set the heat temperature on the dial"
+      ]
+    },
+    "regular": {
+      "en": [
+        "heat waves rising from the hot surface",
+        "home heating system turned on in winter",
+        "sauna temperature set to high heat",
+        "heat wave warning for the summer day",
+        "boiler providing heat to the radiator",
+        "warm air flowing from the heating vent",
+        "temperature gauge showing the hot setting",
+        "spa heated pool with steam rising",
+        "heat map showing temperature zones",
+        "radiant heat from the fireplace"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a heat icon for the thermostat app",
+        "add a heating symbol to the home controls",
+        "show a heat warning for high temperature",
+        "use the heat icon for the sauna mode"
+      ]
+    },
+    "typo": {
+      "en": [
+        "heatng turned on in winter",
+        "temerature rising fast",
+        "sauna het session",
+        "boielr heating system"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "orange flame burning in the fireplace",
+        "bright sun radiating heat in summer",
+        "thermometer showing high temperature",
+        "snowflake symbol for cold temperature",
+        "air conditioning snowflake cool mode",
+        "steam cloud rising from the hot cup"
+      ]
+    },
+    "valid": {
+      "en": [
+        "home heating in winter",
+        "sauna heat temperature",
+        "heat wave summer warning"
+      ]
+    },
+    "test": {
+      "en": [
+        "heat icon",
+        "heating symbol for thermostat",
+        "heat temperature warning"
+      ]
+    }
+  }
+}

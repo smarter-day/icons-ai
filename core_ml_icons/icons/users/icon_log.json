@@ -1,0 +1,142 @@
+{
+  "icon": "users",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "employee",
+        "together",
+        "uer",
+        "users-people"
+      ],
+      "ru": [
+        "сотрудник",
+        "вместе",
+        "пользователь",
+        "пользователи-люди"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "employees group users icon",
+        "multiple employees list",
+        "together users group community",
+        "together friends users",
+        "user group users icon",
+        "multiple users account",
+        "users people community together",
+        "users list people"
+      ],
+      "ru": [
+        "группа сотрудников иконка пользователей",
+        "список нескольких сотрудников",
+        "вместе группа пользователей сообщество",
+        "друзья пользователи вместе",
+        "группа пользователей иконка",
+        "несколько пользователей аккаунт",
+        "пользователи люди сообщество вместе",
+        "список пользователей люди"
+      ]
+    },
+    "regular": {
+      "en": [
+        "multiple users group icon",
+        "team members users list",
+        "community users together",
+        "contacts list multiple people",
+        "shared account users icon",
+        "followers users social profile",
+        "admin manage users panel",
+        "users online active count",
+        "group chat users together",
+        "organization users directory"
+      ],
+      "ru": [
+        "иконка группы нескольких пользователей",
+        "члены команды список пользователей",
+        "сообщество пользователей вместе",
+        "список контактов несколько людей",
+        "общий аккаунт иконка пользователей",
+        "подписчики пользователи социальный профиль",
+        "администратор управление пользователями панель",
+        "активные пользователи онлайн счётчик",
+        "групповой чат пользователи вместе",
+        "каталог организации пользователей"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a users icon for the team section",
+        "add a people symbol to the community feature",
+        "show users for the group management screen",
+        "use the users icon for the contacts list"
+      ],
+      "ru": [
+        "нужна иконка пользователей для раздела команды",
+        "добавь символ людей к функции сообщества",
+        "покажи пользователей для экрана управления группой",
+        "используй иконку пользователей для списка контактов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "mulitple users group",
+        "employess together team",
+        "usres people icon",
+        "communtiy users together"
+      ],
+      "ru": [
+        "несколько пользователей группа",
+        "сотрудники вместе команда",
+        "иконка пользователей люди",
+        "сообщество пользователей вместе"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "single user person profile",
+        "user add new person plus",
+        "friends list social media",
+        "crowd many people gathered",
+        "team sports group players",
+        "family group related persons"
+      ],
+      "ru": [
+        "один пользователь профиль человека",
+        "добавить нового пользователя плюс",
+        "список друзей социальные сети",
+        "толпа много людей собравшихся",
+        "спортивная команда группа игроков",
+        "семья группа родственников"
+      ]
+    },
+    "valid": {
+      "en": [
+        "users group icon",
+        "people together symbol",
+        "team users icon"
+      ],
+      "ru": [
+        "иконка группы пользователей",
+        "символ людей вместе",
+        "иконка пользователей команды"
+      ]
+    },
+    "test": {
+      "en": [
+        "users icon people",
+        "group users symbol",
+        "community users"
+      ],
+      "ru": [
+        "иконка пользователей люди",
+        "символ группы пользователей",
+        "сообщество пользователей"
+      ]
+    }
+  }
+}

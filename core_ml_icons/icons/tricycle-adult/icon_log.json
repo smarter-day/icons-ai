@@ -1,0 +1,154 @@
+{
+  "icon": "tricycle-adult",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "adaptive",
+        "bicycle",
+        "bike",
+        "peddle",
+        "seat",
+        "trike"
+      ],
+      "ru": [
+        "адаптивный",
+        "велосипед",
+        "байк",
+        "педалировать",
+        "сиденье",
+        "трёхколёсный"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "adaptive tricycle mobility aid",
+        "adaptive trike disability",
+        "adult bicycle three wheel",
+        "bicycle trike stable",
+        "adult bike tricycle cargo",
+        "bike tricycle commute",
+        "peddle adult trike exercise",
+        "peddle three wheeler",
+        "comfortable seat adult trike",
+        "seat back support trike",
+        "trike adult recreation riding",
+        "adult trike outdoor ride"
+      ],
+      "ru": [
+        "адаптивный трёхколёсный велосипед помощь",
+        "адаптивный трайк инвалидность",
+        "взрослый трёхколёсный велосипед",
+        "устойчивый трёхколёсный велосипед",
+        "грузовой трайк взрослый велосипед",
+        "трайк поездка на велосипеде",
+        "педалировать взрослый трёхколёсный упражнение",
+        "педали трёхколёсного",
+        "удобное сиденье взрослый трайк",
+        "спинка сиденья поддержка трайк",
+        "трайк взрослый отдых езда",
+        "взрослый трайк прогулка на улице"
+      ]
+    },
+    "regular": {
+      "en": [
+        "adult tricycle with basket rear",
+        "senior riding adult three-wheeler",
+        "recumbent adult trike low riding",
+        "electric assist adult tricycle",
+        "cargo adult tricycle delivery",
+        "adaptive trike for disabled adult",
+        "beach cruiser adult trike",
+        "adult trike stable balance",
+        "foldable adult tricycle storage",
+        "adult tricycle with handbrakes"
+      ],
+      "ru": [
+        "взрослый трёхколёсный велосипед с задней корзиной",
+        "пожилой человек на взрослом трёхколёсном велосипеде",
+        "лежачий взрослый трайк низкая посадка",
+        "взрослый трёхколёсный велосипед с электроприводом",
+        "грузовой взрослый трайк доставка",
+        "адаптивный трайк для взрослого с ограниченными возможностями",
+        "пляжный крейсер взрослый трайк",
+        "устойчивость взрослого трайка баланс",
+        "складной взрослый трёхколёсный велосипед хранение",
+        "взрослый трайк с ручными тормозами"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a tricycle icon for the adaptive cycling section",
+        "add a trike symbol to the senior mobility category",
+        "show an adult tricycle for the accessible transport",
+        "use the tricycle-adult icon for the three-wheel bike"
+      ],
+      "ru": [
+        "нужна иконка трёхколёсного для адаптивного велоспорта",
+        "добавь символ трайка в категорию мобильности пожилых",
+        "покажи взрослый трёхколёсный для доступного транспорта",
+        "используй иконку взрослого трайка для трёхколёсного велосипеда"
+      ]
+    },
+    "typo": {
+      "en": [
+        "adlut tricycle stable",
+        "adpative trike bike",
+        "triycle adult ride",
+        "peddl trike adult"
+      ],
+      "ru": [
+        "взрослый трёхколёсный устойчивый",
+        "адаптивный трайк велосипед",
+        "трёхколёсный взрослый езда",
+        "педали трайк взрослый"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "bicycle two wheel standard bike",
+        "wheelchair mobility device",
+        "scooter electric ride sharing",
+        "children tricycle small pedal",
+        "quadricycle four wheel pedal",
+        "cargo bike bicycle with trailer"
+      ],
+      "ru": [
+        "велосипед двухколёсный стандартный",
+        "инвалидная коляска устройство мобильности",
+        "электросамокат совместная аренда",
+        "детский трёхколёсный велосипед педали",
+        "квадрицикл четырёхколёсный педальный",
+        "грузовой велосипед с прицепом"
+      ]
+    },
+    "valid": {
+      "en": [
+        "adult tricycle stable riding",
+        "trike three wheel bike",
+        "adaptive adult tricycle"
+      ],
+      "ru": [
+        "взрослый трёхколёсный устойчивая езда",
+        "трайк трёхколёсный велосипед",
+        "адаптивный взрослый трайк"
+      ]
+    },
+    "test": {
+      "en": [
+        "adult tricycle icon",
+        "trike bike symbol",
+        "three wheel bike adult"
+      ],
+      "ru": [
+        "иконка взрослого трёхколёсного",
+        "символ трайка велосипеда",
+        "трёхколёсный велосипед взрослый"
+      ]
+    }
+  }
+}

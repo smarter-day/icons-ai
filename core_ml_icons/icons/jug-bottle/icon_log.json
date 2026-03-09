@@ -1,0 +1,87 @@
+{
+  "icon": "jug-bottle",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "collect",
+        "container",
+        "jug",
+        "plastics",
+        "recycle"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Collect empty bottles for recycling",
+        "Collect cans and bottles",
+        "Reuse the container",
+        "Buy a reusable container",
+        "Fill the jug with water",
+        "Buy a large water jug",
+        "Recycle plastics at the depot",
+        "Separate plastics for recycling",
+        "Recycle the plastic bottles",
+        "Put plastics in the recycling bin"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Recycle plastic bottles",
+        "Take bottles to the recycling center",
+        "Buy a reusable water jug",
+        "Fill the jug with drinking water",
+        "Separate plastics for recycling",
+        "Reduce plastic waste at home",
+        "Return empty bottles for deposit",
+        "Buy a BPA-free water container",
+        "Use a refillable jug instead of bottles",
+        "Collect recyclable plastics"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Recycle the bottles",
+        "Water jug",
+        "Plastic recycling",
+        "Fill the jug"
+      ]
+    },
+    "typo": {
+      "en": [
+        "recycle platsic botles",
+        "take bottes to recycilng center",
+        "buy a reusabel water jug",
+        "sepaarte plastics for recycilng"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use a detergent jug for laundry",
+        "Store jam in a glass jar",
+        "Use a metal water bottle",
+        "Fill a thermos with hot coffee",
+        "Reuse a glass bottle",
+        "Put juice in the carafe"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Recycle plastic bottles",
+        "Buy a reusable water jug",
+        "Fill the jug with drinking water"
+      ]
+    },
+    "test": {
+      "en": [
+        "Take bottles to the recycling center",
+        "Separate plastics for recycling",
+        "Return empty bottles for deposit"
+      ]
+    }
+  }
+}

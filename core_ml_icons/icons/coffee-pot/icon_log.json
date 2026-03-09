@@ -1,0 +1,93 @@
+{
+  "icon": "coffee-pot",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "beverage",
+        "breakfast",
+        "brew",
+        "cafe",
+        "carafe",
+        "drink",
+        "morning"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Make a hot beverage",
+        "Get a beverage before the meeting",
+        "Prepare a light breakfast",
+        "Have breakfast before work",
+        "Brew a fresh pot of coffee",
+        "Brew morning espresso",
+        "Visit the local cafe",
+        "Work from the cafe today",
+        "Fill the carafe with coffee",
+        "Buy a new carafe for the office",
+        "Get a hot drink to warm up",
+        "Make a warm drink before bed",
+        "Start the morning routine",
+        "Coffee first thing in the morning"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Make coffee before work",
+        "Buy coffee beans at the store",
+        "Brew a fresh pot in the office",
+        "Go to the coffee shop to work",
+        "Try a new coffee blend",
+        "Clean the coffee maker",
+        "Fill up on coffee for the morning",
+        "Get a to-go coffee",
+        "Make enough coffee for everyone",
+        "Set the coffee maker timer for morning"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Need coffee now",
+        "Morning coffee run",
+        "Brew a pot",
+        "Coffee time!"
+      ]
+    },
+    "typo": {
+      "en": [
+        "brew some cofee",
+        "mornin coffee routine",
+        "make a pot of coffe",
+        "visti the cafe today"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Make a cup of tea instead",
+        "Prepare a smoothie for breakfast",
+        "Get an energy drink",
+        "Buy a coffee capsule machine",
+        "Visit a tea shop",
+        "Brew herbal tea before bed"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Make coffee for the morning",
+        "Brew a fresh pot at the office",
+        "Get coffee before the meeting"
+      ]
+    },
+    "test": {
+      "en": [
+        "Go to the cafe to work",
+        "Fill the coffee pot",
+        "Start the morning with coffee"
+      ]
+    }
+  }
+}

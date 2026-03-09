@@ -1,0 +1,123 @@
+{
+  "icon": "campfire",
+  "rows": {
+    "train_en": 75,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Dungeons & Dragons",
+        "caliente",
+        "campaign",
+        "camping",
+        "d&d",
+        "dnd",
+        "fall",
+        "fire",
+        "flame",
+        "gathering",
+        "heat",
+        "hot",
+        "meeting",
+        "outdoors",
+        "seasonal",
+        "tent",
+        "wilderness"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Dungeons and Dragons adventurers around the campfire",
+        "D&D campaign scene with fire",
+        "caliente campfire in the desert heat",
+        "caliente fire keeping the group warm",
+        "campaign planning session around the campfire",
+        "campaign meeting gathered by the fire",
+        "camping campfire at the site",
+        "camping night by the glowing fire",
+        "d&d game played by the campfire light",
+        "d&d session with campfire ambiance",
+        "dnd dungeon master narrating by the fire",
+        "dnd campaign fire scene",
+        "fall campfire with autumn leaves around",
+        "fall evening campfire gathering",
+        "fire burning at the campsite",
+        "campfire fire crackling in the night",
+        "flame of the campfire dancing at night",
+        "campfire flame glowing orange",
+        "gathering around the campfire circle",
+        "friends gathering by the fire",
+        "heat from the campfire on a cold night",
+        "campfire heat warming the group",
+        "sit close to the hot campfire",
+        "hot campfire on the beach",
+        "meeting point set by the campfire",
+        "meeting friends at the campfire",
+        "outdoors campfire under the stars",
+        "campfire in the outdoors",
+        "seasonal campfire gathering in autumn",
+        "seasonal fire pit on the patio",
+        "tent pitched next to the campfire",
+        "campfire beside the camping tent",
+        "wilderness campfire for survival warmth",
+        "campfire deep in the wilderness"
+      ]
+    },
+    "regular": {
+      "en": [
+        "crackling campfire with glowing orange embers",
+        "friends gathered around the campfire at night",
+        "roasting marshmallows over the open campfire",
+        "campfire glowing under a starry sky",
+        "wilderness survival campfire in the forest",
+        "fall camping night with a warm fire",
+        "campfire circle for an outdoor gathering",
+        "D&D tabletop session played by firelight",
+        "smoke rising from the campfire into the night",
+        "tent pitched near a crackling campfire"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a campfire icon for the camping app",
+        "add a fire icon for the gathering feature",
+        "show a campfire for the outdoor activities section",
+        "use the campfire for the wilderness survival mode"
+      ]
+    },
+    "typo": {
+      "en": [
+        "campfier burning at the site",
+        "wildernes campfire survival",
+        "campig fire at night",
+        "gathring around the campfire"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "large bonfire at the beach celebration",
+        "stone fireplace with burning logs inside",
+        "candle flame on the dinner table",
+        "flaming torch mounted on the castle wall",
+        "fire pit in the backyard patio",
+        "burning lantern on the camping trail"
+      ]
+    },
+    "valid": {
+      "en": [
+        "campfire glowing at the campsite",
+        "friends gathered around the campfire",
+        "outdoor fire for camping night"
+      ]
+    },
+    "test": {
+      "en": [
+        "campfire icon",
+        "fire gathering outdoors",
+        "wilderness campfire"
+      ]
+    }
+  }
+}

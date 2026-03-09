@@ -1,0 +1,148 @@
+{
+  "icon": "police-box",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "doctor who",
+        "tardis",
+        "time and relative dimension in space",
+        "time machine",
+        "time travel"
+      ],
+      "ru": [
+        "Доктор Кто",
+        "тардис",
+        "время и относительные размеры в пространстве",
+        "машина времени",
+        "путешествие во времени"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Doctor Who TARDIS police box",
+        "Doctor Who sci-fi TV show",
+        "TARDIS blue police box",
+        "TARDIS time travel machine",
+        "time and relative dimension in space machine",
+        "TARDIS acronym explained",
+        "time machine blue police box",
+        "fictional time machine",
+        "time travel in TARDIS",
+        "travel through time and space"
+      ],
+      "ru": [
+        "тардис Доктора Кто телефонная будка",
+        "научно-фантастическое шоу Доктор Кто",
+        "синяя будка ТАРДИС",
+        "машина времени ТАРДИС",
+        "машина времени и относительных размеров",
+        "расшифровка ТАРДИС",
+        "синяя будка машина времени",
+        "вымышленная машина времени",
+        "путешествие во времени в ТАРДИС",
+        "путешествие в пространстве"
+      ]
+    },
+    "regular": {
+      "en": [
+        "blue British police call box TARDIS",
+        "Doctor Who iconic blue box",
+        "sci-fi time travel police box",
+        "TARDIS bigger on the inside",
+        "1960s British police phone box",
+        "Doctor Who fan icon TARDIS",
+        "time lord's vehicle police box",
+        "traveling through time in blue box",
+        "Whovian fan symbol blue police box",
+        "fictional blue telephone box for time travel"
+      ],
+      "ru": [
+        "синяя британская телефонная будка ТАРДИС",
+        "культовая синяя коробка Доктора Кто",
+        "фантастическая будка путешествия во времени",
+        "ТАРДИС больше внутри чем снаружи",
+        "британская будка 1960-х",
+        "иконка фаната Доктора Кто",
+        "транспортное средство Повелителя Времени",
+        "путешествие во времени в синей будке",
+        "символ фаната синяя телефонная будка",
+        "вымышленная будка для путешествий"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a police box icon for the sci-fi section",
+        "add a TARDIS symbol to the Doctor Who feature",
+        "show a police box for the time travel screen",
+        "use the blue box icon for the sci-fi theme"
+      ],
+      "ru": [
+        "Мне нужна иконка телефонной будки для раздела фантастики",
+        "добавить символ ТАРДИС в функцию Доктора Кто",
+        "показать будку для экрана путешествия во времени",
+        "использовать иконку синей будки для темы фантастики"
+      ]
+    },
+    "typo": {
+      "en": [
+        "polcie box tardis",
+        "doctr who tardis",
+        "tardiss time travel",
+        "time mahcine box"
+      ],
+      "ru": [
+        "будка тардис полция",
+        "Доктор Кто тардси",
+        "путешествие во времен",
+        "машина вреемни"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "rocket ship for space travel",
+        "DeLorean Back to the Future",
+        "telephone booth without police markings",
+        "spacecraft capsule",
+        "wormhole portal for space travel",
+        "magic door another dimension"
+      ],
+      "ru": [
+        "ракетный корабль для космоса",
+        "ДеЛориан Назад в будущее",
+        "телефонная будка без знаков",
+        "космическая капсула",
+        "червоточина портал",
+        "волшебная дверь в измерение"
+      ]
+    },
+    "valid": {
+      "en": [
+        "TARDIS police box icon",
+        "Doctor Who blue box",
+        "time travel police box"
+      ],
+      "ru": [
+        "иконка ТАРДИС будки",
+        "синяя будка Доктора Кто",
+        "будка путешествия во времени"
+      ]
+    },
+    "test": {
+      "en": [
+        "police box icon",
+        "TARDIS time machine",
+        "Doctor Who blue box sci-fi"
+      ],
+      "ru": [
+        "иконка телефонной будки",
+        "машина времени ТАРДИС",
+        "синяя будка Доктора Кто"
+      ]
+    }
+  }
+}

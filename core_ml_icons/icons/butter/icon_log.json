@@ -1,0 +1,142 @@
+{
+  "icon": "butter",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "butter",
+        "dairy",
+        "margarine",
+        "spread"
+      ],
+      "ru": [
+        "масло",
+        "молочные",
+        "маргарин",
+        "намазка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Butter in the baking recipe",
+        "Dairy aisle at the supermarket",
+        "Margarine as a butter substitute",
+        "Spread on the toast for breakfast",
+        "Melt the butter for the cookie recipe",
+        "Dairy products on the grocery run",
+        "Pick up margarine as a substitute",
+        "Spread something on the bagel for breakfast"
+      ],
+      "ru": [
+        "Масло в рецепте выпечки",
+        "Молочный отдел в супермаркете",
+        "Маргарин как замена сливочного масла",
+        "Намазать на тост на завтрак",
+        "Растопить масло для рецепта печенья",
+        "Молочные продукты в список покупок",
+        "Взять маргарин как замену",
+        "Намазать что-нибудь на бублик для завтрака"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Brown butter sauce for pasta",
+        "Add butter to the pan before cooking",
+        "Pick up unsalted butter at the store",
+        "Garlic butter for the bread rolls",
+        "Soften butter for the cookie dough",
+        "Butter the toast while it's hot",
+        "Compound butter with herbs for steak",
+        "Run out of butter — add to shopping list",
+        "Clarified butter for hollandaise",
+        "Peanut butter added to the smoothie"
+      ],
+      "ru": [
+        "Соус из коричневого масла для пасты",
+        "Добавить масло на сковороду перед готовкой",
+        "Купить несолёное масло в магазине",
+        "Чесночное масло для булочек",
+        "Размягчить масло для теста для печенья",
+        "Намазать масло на тост пока горячий",
+        "Составное масло с травами для стейка",
+        "Закончилось масло — добавить в список покупок",
+        "Топлёное масло для голландского соуса",
+        "Арахисовое масло в смузи"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "need butter for literally everything",
+        "don't forget the butter at the store",
+        "slather that with butter",
+        "is there butter in the fridge"
+      ],
+      "ru": [
+        "масло нужно буквально для всего",
+        "не забыть масло в магазине",
+        "намазать всё маслом",
+        "есть масло в холодильнике"
+      ]
+    },
+    "typo": {
+      "en": [
+        "bueter on the toast please",
+        "unsalted buuter for baking",
+        "add buttr to the pan",
+        "buttter chicken tonight"
+      ],
+      "ru": [
+        "маслло на тост пожалуйста",
+        "несолёное масло для выпечкки",
+        "добавить масла на сковороду",
+        "баттер чикен сегдня вечером"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Slice of cheese on the cracker",
+        "Cream cheese spread on the bagel",
+        "Bread and jam without butter",
+        "Bacon grease used instead of butter",
+        "Olive oil drizzle instead of butter",
+        "Sour cream topping not butter"
+      ],
+      "ru": [
+        "Кусочек сыра на крекере",
+        "Крем-сыр намазать на бейгл",
+        "Хлеб с джемом без масла",
+        "Жир от бекона вместо масла",
+        "Сбрызнуть оливковым маслом вместо сливочного",
+        "Сметана поверх а не масло"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Add butter to the grocery list",
+        "Melt butter for the sauce",
+        "Butter toast for breakfast"
+      ],
+      "ru": [
+        "Добавить масло в список покупок",
+        "Растопить масло для соуса",
+        "Намазать масло на тост к завтраку"
+      ]
+    },
+    "test": {
+      "en": [
+        "Out of butter — need more",
+        "Garlic butter for the rolls",
+        "Soft butter for the dough"
+      ],
+      "ru": [
+        "Закончилось масло — нужно ещё",
+        "Чесночное масло для булочек",
+        "Мягкое масло для теста"
+      ]
+    }
+  }
+}

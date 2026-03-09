@@ -1,0 +1,148 @@
+{
+  "icon": "sink",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bathroom",
+        "covid-19",
+        "faucet",
+        "kitchen",
+        "wash"
+      ],
+      "ru": [
+        "ванная",
+        "covid-19",
+        "кран",
+        "кухня",
+        "мыть"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bathroom sink with mirror above",
+        "pedestal bathroom sink basin",
+        "wash hands during covid-19 pandemic",
+        "covid-19 handwashing sink reminder",
+        "faucet running water in sink",
+        "kitchen faucet filling sink with water",
+        "kitchen sink with dish rack beside",
+        "double kitchen sink for washing",
+        "wash dishes in kitchen sink",
+        "wash hands with soap at sink"
+      ],
+      "ru": [
+        "раковина ванной с зеркалом над ней",
+        "умывальник-тумба в ванной",
+        "мыть руки во время пандемии covid-19",
+        "напоминание о мытье рук при covid-19",
+        "кран работает в раковине",
+        "кухонный кран наполняет раковину водой",
+        "кухонная раковина с сушилкой рядом",
+        "двойная кухонная раковина для мытья",
+        "мыть посуду в кухонной раковине",
+        "мыть руки с мылом у раковины"
+      ]
+    },
+    "regular": {
+      "en": [
+        "bathroom sink with faucet and drain",
+        "kitchen sink with double basin",
+        "handwashing at sink with soap",
+        "sink drain clogged with hair",
+        "undermount sink installed below counter",
+        "vessel sink bowl sitting on vanity top",
+        "stainless steel kitchen sink",
+        "outdoor utility sink for garden hose",
+        "sink icon for hygiene reminder",
+        "smart faucet touchless sink activation"
+      ],
+      "ru": [
+        "раковина ванной с краном и сливом",
+        "кухонная раковина с двойной чашей",
+        "мытьё рук у раковины с мылом",
+        "слив раковины засорён волосами",
+        "встроенная раковина под столешницей",
+        "раковина-чаша на тумбе",
+        "кухонная раковина из нержавеющей стали",
+        "уличная хозяйственная раковина для шланга",
+        "иконка раковины для напоминания о гигиене",
+        "умный бесконтактный кран раковины"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sink icon for the kitchen or bathroom section",
+        "add a sink symbol to the hygiene reminder feature",
+        "show a sink for the washing hands screen",
+        "use the sink icon for the bathroom category"
+      ],
+      "ru": [
+        "мне нужна иконка раковины для раздела кухни или ванной",
+        "добавь символ раковины в функцию напоминания о гигиене",
+        "покажи раковину для экрана мытья рук",
+        "используй иконку раковины для категории ванной"
+      ]
+    },
+    "typo": {
+      "en": [
+        "bathromo sink with faucet and drain",
+        "handwasihng at sink with soap",
+        "sink drarin clogged with hair",
+        "stailess steel kitchen sink"
+      ],
+      "ru": [
+        "раковна ванной с краном и сливом",
+        "мытьё рук у ракоины с мылом",
+        "засорённый слив ракоины",
+        "кухонная ракоина из нержавейки"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "shower head spraying water droplets",
+        "bathtub faucet filling with warm water",
+        "toilet flush handle in bathroom",
+        "soap dispenser pump beside sink",
+        "hand dryer mounted on bathroom wall",
+        "toothbrush holder on bathroom counter"
+      ],
+      "ru": [
+        "лейка душа брызгает каплями воды",
+        "кран ванны наполняет тёплой водой",
+        "ручка слива унитаза в ванной",
+        "дозатор мыла рядом с раковиной",
+        "электросушилка для рук на стене",
+        "стакан для зубных щёток на столешнице"
+      ]
+    },
+    "valid": {
+      "en": [
+        "bathroom sink with faucet",
+        "kitchen sink for washing dishes",
+        "handwashing sink hygiene symbol"
+      ],
+      "ru": [
+        "раковина ванной с краном",
+        "кухонная раковина для мытья посуды",
+        "раковина для мытья рук"
+      ]
+    },
+    "test": {
+      "en": [
+        "sink drain icon for bathroom",
+        "kitchen double sink basin",
+        "handwash reminder sink icon"
+      ],
+      "ru": [
+        "иконка слива раковины для ванной",
+        "двойная кухонная раковина",
+        "иконка напоминания о мытье рук"
+      ]
+    }
+  }
+}

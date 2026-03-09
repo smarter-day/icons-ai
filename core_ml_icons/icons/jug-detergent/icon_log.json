@@ -1,0 +1,84 @@
+{
+  "icon": "jug-detergent",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "detergent",
+        "laundry",
+        "soap",
+        "wash"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy laundry detergent",
+        "Use the right amount of detergent",
+        "Do a load of laundry",
+        "Sort the laundry before washing",
+        "Use liquid soap for washing",
+        "Buy dish soap at the store",
+        "Wash clothes in the machine",
+        "Wash by hand with soap"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy laundry detergent at the store",
+        "Use the right amount of detergent",
+        "Run the laundry with detergent",
+        "Buy eco-friendly laundry soap",
+        "Refill the detergent dispenser",
+        "Use fabric softener with detergent",
+        "Spot clean with a little detergent",
+        "Check the detergent is safe for colors",
+        "Use detergent pods for convenience",
+        "Add detergent before the laundry"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Get more detergent",
+        "Laundry time",
+        "Buy soap",
+        "Washing day"
+      ]
+    },
+    "typo": {
+      "en": [
+        "buy laudnry detergnet",
+        "use the rigt amoun of detergnet",
+        "run the laudnry",
+        "buy eco-firendly soap"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use dish soap for washing dishes",
+        "Buy hand soap for the bathroom",
+        "Use shampoo for the hair",
+        "Use a water jug for drinking water",
+        "Fill the jug with juice",
+        "Use fabric softener alone"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Buy laundry detergent",
+        "Use the right amount of detergent",
+        "Run the laundry with detergent"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy eco-friendly laundry soap",
+        "Use detergent pods for convenience",
+        "Add detergent before the laundry"
+      ]
+    }
+  }
+}

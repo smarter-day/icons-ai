@@ -1,0 +1,172 @@
+{
+  "icon": "location-crosshairs",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "address",
+        "coordinate",
+        "direction",
+        "gps",
+        "location",
+        "map",
+        "navigation",
+        "place",
+        "where"
+      ],
+      "ru": [
+        "адрес",
+        "координата",
+        "направление",
+        "gps",
+        "местоположение",
+        "карта",
+        "навигация",
+        "место",
+        "где"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "street address lookup on map",
+        "delivery address marked with crosshairs",
+        "GPS coordinate crosshair point",
+        "map coordinate targeting marker",
+        "turn-by-turn direction indicator",
+        "compass direction crosshair",
+        "GPS signal crosshair locator",
+        "live GPS targeting reticle",
+        "current location crosshair marker",
+        "share my location crosshairs",
+        "map crosshair for location",
+        "map navigation crosshairs",
+        "navigation target crosshairs",
+        "in-app navigation pointer reticle",
+        "place of interest targeted",
+        "meeting place pinpointed with crosshairs",
+        "where am I crosshair",
+        "where to go targeting indicator"
+      ],
+      "ru": [
+        "поиск адреса на карте",
+        "адрес доставки отмечен прицелом",
+        "точка координат GPS с прицелом",
+        "маркер координат на карте",
+        "пошаговое направление движения",
+        "индикатор направления компаса",
+        "прицел GPS для определения сигнала",
+        "живое прицеливание GPS",
+        "маркер текущего местоположения прицел",
+        "поделиться местоположением прицел",
+        "прицел карты для местоположения",
+        "навигационный прицел карты",
+        "навигационный прицел цели",
+        "указатель навигации в приложении",
+        "прицел места интереса",
+        "место встречи с прицелом",
+        "где я нахожусь прицел",
+        "прицел куда идти"
+      ]
+    },
+    "regular": {
+      "en": [
+        "crosshairs centered on current GPS position",
+        "targeting reticle overlaid on a map",
+        "precision location crosshair for coordinates",
+        "sniper scope style location marker",
+        "surveying crosshair for exact coordinates",
+        "locate me button with crosshair icon",
+        "geographic positioning crosshair symbol",
+        "center crosshair for map view targeting",
+        "crosshair aiming at destination on map",
+        "GPS precision targeting symbol"
+      ],
+      "ru": [
+        "прицел в центре текущей GPS позиции",
+        "прицел наведения на карту",
+        "точный прицел местоположения для координат",
+        "маркер местоположения в стиле оптического прицела",
+        "топографический прицел для точных координат",
+        "кнопка найти меня с иконкой прицела",
+        "символ географического позиционирования с прицелом",
+        "центральный прицел для прицеливания на карте",
+        "прицел наведения на пункт назначения",
+        "символ точного прицеливания GPS"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a crosshairs icon for the GPS screen",
+        "add a location crosshairs to the map feature",
+        "show a crosshair when targeting a destination",
+        "use the crosshairs icon for the locate me button"
+      ],
+      "ru": [
+        "Мне нужна иконка прицела для экрана GPS",
+        "добавить прицел местоположения к функции карты",
+        "показывать прицел при выборе пункта назначения",
+        "использовать иконку прицела для кнопки найти меня"
+      ]
+    },
+    "typo": {
+      "en": [
+        "loaction crosshairs",
+        "naviagtion crosshair",
+        "crosshars target",
+        "coordiante marker"
+      ],
+      "ru": [
+        "прицел местоположениа",
+        "навигациа прицел",
+        "кордината прицел",
+        "местополжение карта"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "red teardrop location pin dropped on map",
+        "filled circle dot showing saved destination",
+        "blue dot for current GPS position",
+        "map pin with plus sign inside",
+        "location dot marking a point of interest",
+        "pushpin stuck on a map location"
+      ],
+      "ru": [
+        "красная каплевидная булавка на карте",
+        "закрашенный кружок отмечающий пункт назначения",
+        "синяя точка текущей GPS позиции",
+        "булавка карты со знаком плюс внутри",
+        "точка местоположения отмечающая место интереса",
+        "канцелярская кнопка воткнутая в карту"
+      ]
+    },
+    "valid": {
+      "en": [
+        "crosshairs targeting a map location",
+        "GPS crosshairs for precise positioning",
+        "navigation crosshairs on map"
+      ],
+      "ru": [
+        "прицел нацелен на местоположение на карте",
+        "GPS прицел для точного позиционирования",
+        "навигационный прицел на карте"
+      ]
+    },
+    "test": {
+      "en": [
+        "location crosshairs symbol",
+        "precise GPS targeting crosshair",
+        "map crosshairs for coordinates"
+      ],
+      "ru": [
+        "символ прицела местоположения",
+        "точный прицел GPS",
+        "прицел карты для координат"
+      ]
+    }
+  }
+}

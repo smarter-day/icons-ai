@@ -1,0 +1,190 @@
+{
+  "icon": "bread-slice",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bake",
+        "bakery",
+        "baking",
+        "dough",
+        "flour",
+        "gluten",
+        "grain",
+        "sandwich",
+        "sourdough",
+        "toast",
+        "wheat",
+        "yeast"
+      ],
+      "ru": [
+        "выпекать",
+        "пекарня",
+        "выпечка",
+        "тесто",
+        "мука",
+        "глютен",
+        "зерно",
+        "сэндвич",
+        "закваска",
+        "тост",
+        "пшеница",
+        "дрожжи"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bake some sliced bread",
+        "bakery sliced bread today",
+        "baking fresh sandwich bread",
+        "sandwich bread dough",
+        "white flour bread slices",
+        "gluten-free bread slices",
+        "grain bread for the sandwiches",
+        "bread slices for the sandwich",
+        "sourdough slices for toast",
+        "toast the bread slices",
+        "wheat bread slices",
+        "yeast bread slice recipe",
+        "Bake a fresh loaf this morning",
+        "Bakery order placed for Saturday pickup",
+        "Baking bread is on the weekend list",
+        "Dough rising in the warm kitchen",
+        "Flour stock running low — restock",
+        "Gluten-free option for the dinner guests",
+        "Whole grain slices for the work lunches",
+        "Club sandwich for the lunch box",
+        "Sourdough bread order for the week",
+        "Toast the slices for the avocado toast",
+        "Whole wheat bread in the pantry",
+        "Yeast packet needed for the bread recipe"
+      ],
+      "ru": [
+        "испечь нарезанный хлеб",
+        "нарезанный хлеб из пекарни сегодня",
+        "свежий хлеб для сэндвичей",
+        "тесто для хлеба на сэндвичи",
+        "ломтики хлеба из белой муки",
+        "ломтики хлеба без глютена",
+        "зерновой хлеб для сэндвичей",
+        "ломтики хлеба для сэндвича",
+        "ломтики хлеба на закваске для тоста",
+        "поджарить ломтики хлеба",
+        "ломтики пшеничного хлеба",
+        "рецепт ломтика хлеба на дрожжах",
+        "Испечь свежую буханку сегодня утром",
+        "Заказ в пекарне сделан на субботу",
+        "Выпечка хлеба в плане на выходные",
+        "Тесто поднимается в тёплой кухне",
+        "Запасы муки заканчиваются — пополнить",
+        "Безглютеновый вариант для гостей за ужином",
+        "Цельнозерновые тосты для рабочих обедов",
+        "Клубный сэндвич в ланч-бокс",
+        "Заказ хлеба на закваске на неделю",
+        "Поджарить ломтики для тоста с авокадо",
+        "Хлеб из цельной пшеницы в кладовой",
+        "Пакет дрожжей нужен для рецепта хлеба"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Make a toast with butter",
+        "Sandwich bread for the week",
+        "Toast bread for breakfast",
+        "Slice of bread with jam",
+        "Buy sandwich bread at the store",
+        "Toasted bread with avocado",
+        "Bread slice for the French toast",
+        "White bread for the lunch box",
+        "Whole grain bread slices",
+        "Make a grilled cheese sandwich"
+      ],
+      "ru": [
+        "Поджарить хлеб с маслом",
+        "Хлеб для сэндвичей на неделю",
+        "Поджарить хлеб на завтрак",
+        "Ломтик хлеба с вареньем",
+        "Купить хлеб для сэндвичей в магазине",
+        "Тост с авокадо",
+        "Ломтик хлеба для французского тоста",
+        "Белый хлеб для ланч-бокса",
+        "Ломтики цельнозернового хлеба",
+        "Приготовить жареный бутерброд с сыром"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I'll just have a slice of toast",
+        "Do we have any bread for sandwiches?",
+        "Toast sounds good right now",
+        "Just need a slice of bread for lunch"
+      ],
+      "ru": [
+        "Просто съем ломтик тоста",
+        "Есть ли хлеб для сэндвичей?",
+        "Тост звучит хорошо прямо сейчас",
+        "Мне просто нужен ломтик хлеба на обед"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Maek a tost with butar",
+        "Sandwch bread for the week",
+        "Tost bread for brekfast",
+        "Slce of bread with jam"
+      ],
+      "ru": [
+        "Сделть тост с маслм",
+        "Хлеб для сэндвч на неделю",
+        "Поджарть хлеб на завтак",
+        "Ломтик хлеа с вареньм"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy a full loaf of bread",
+        "Pick up a baguette",
+        "Get a bagel",
+        "Crackers and cheese platter",
+        "Rice cakes for snack",
+        "Pita bread for the wrap"
+      ],
+      "ru": [
+        "Купить целую буханку хлеба",
+        "Купить багет",
+        "Взять бейгл",
+        "Крекеры с сыром",
+        "Рисовые хлебцы для перекуса",
+        "Питта для шаурмы"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Toast with butter and jam for breakfast",
+        "Sandwich bread at the store",
+        "Slice of whole grain bread"
+      ],
+      "ru": [
+        "Тост с маслом и вареньем на завтрак",
+        "Хлеб для сэндвичей в магазине",
+        "Ломтик цельнозернового хлеба"
+      ]
+    },
+    "test": {
+      "en": [
+        "Make avocado toast",
+        "Grilled cheese sandwich with bread slices",
+        "Bread slices for the lunch box"
+      ],
+      "ru": [
+        "Тост с авокадо",
+        "Жареный бутерброд с сыром",
+        "Ломтики хлеба для ланч-бокса"
+      ]
+    }
+  }
+}

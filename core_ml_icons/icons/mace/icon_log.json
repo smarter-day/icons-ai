@@ -1,0 +1,160 @@
+{
+  "icon": "mace",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Dungeons & Dragons",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "melee attack",
+        "weapon",
+        "windu"
+      ],
+      "ru": [
+        "Подземелья и Драконы",
+        "d&d",
+        "dnd",
+        "фэнтези",
+        "ближний бой",
+        "оружие",
+        "виндо"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Dungeons & Dragons character weapon choice",
+        "dungeon loot mace in D&D campaign",
+        "d&d fighter's mace for combat",
+        "d&d player equips mace",
+        "dnd melee weapon for warrior class",
+        "dnd roleplaying mace attack",
+        "fantasy medieval mace weapon",
+        "fantasy RPG battle mace",
+        "melee attack with a spiked mace",
+        "close-range melee attack weapon",
+        "heavy spiked weapon for fighting",
+        "heavy metal-headed weapon mace",
+        "Mace Windu Jedi master weapon",
+        "Mace Windu purple lightsaber reference"
+      ],
+      "ru": [
+        "выбор оружия персонажа Подземелий и Драконов",
+        "добыча булавы в кампании D&D",
+        "булава бойца d&d для боя",
+        "игрок d&d экипирует булаву",
+        "оружие ближнего боя dnd для воина",
+        "атака булавой в dnd",
+        "фэнтезийная средневековая булава",
+        "боевая булава в фэнтези RPG",
+        "атака в ближнем бою шипастой булавой",
+        "оружие для ближнего боя",
+        "тяжёлое шипастое оружие для боя",
+        "тяжёлое оружие с металлической головой",
+        "оружие Мейса Винду мастера джедаев",
+        "фиолетовый световой меч Мейса Винду"
+      ]
+    },
+    "regular": {
+      "en": [
+        "spiked club used in medieval combat",
+        "heavy metal-headed bludgeoning weapon",
+        "flanged mace for armored knight",
+        "war mace from the Middle Ages",
+        "RPG character inventory mace weapon",
+        "blunt weapon with weighted metal head",
+        "fantasy warrior mace in battle scene",
+        "dungeon crawler melee weapon mace",
+        "crusader wielding mace in combat",
+        "medieval knight armed with spiked mace"
+      ],
+      "ru": [
+        "шипастая дубина используемая в средневековом бою",
+        "тяжёлое дробящее оружие с металлической головой",
+        "фланцевая булава для рыцаря в броне",
+        "боевая булава Средних веков",
+        "булава в инвентаре персонажа RPG",
+        "тупое оружие с утяжелённой металлической головой",
+        "булава фэнтезийного воина в сцене боя",
+        "булава для ближнего боя в данжене",
+        "крестоносец с булавой в бою",
+        "средневековый рыцарь вооружённый шипастой булавой"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a mace icon for my RPG game inventory",
+        "add a weapon symbol to the melee attack button",
+        "show a mace for the dungeon fighting screen",
+        "use the mace icon for the warrior class selection"
+      ],
+      "ru": [
+        "Мне нужна иконка булавы для инвентаря моей RPG игры",
+        "добавить символ оружия на кнопку атаки в ближнем бою",
+        "показать булаву на экране боя в данжене",
+        "использовать иконку булавы для выбора класса воина"
+      ]
+    },
+    "typo": {
+      "en": [
+        "mase weapon",
+        "wepon mace",
+        "fantsy mace",
+        "mellee attack mace"
+      ],
+      "ru": [
+        "булвы оружие",
+        "фэнтзи оружие",
+        "ближни бой булава",
+        "оруже воина"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "double-edged sword for a knight",
+        "battle axe for fantasy warrior",
+        "war hammer for blacksmith or fighter",
+        "dagger for stealth attack",
+        "spear for long-range melee combat",
+        "flail with chain and spiked ball"
+      ],
+      "ru": [
+        "двуручный меч для рыцаря",
+        "боевой топор для фэнтезийного воина",
+        "боевой молот для кузнеца или бойца",
+        "кинжал для скрытной атаки",
+        "копьё для ближнего боя на расстоянии",
+        "цеп с цепью и шипастым шаром"
+      ]
+    },
+    "valid": {
+      "en": [
+        "medieval spiked mace weapon",
+        "RPG fantasy melee mace",
+        "knight's bludgeoning mace"
+      ],
+      "ru": [
+        "средневековая шипастая булава",
+        "булава для ближнего боя в RPG фэнтези",
+        "дробящая булава рыцаря"
+      ]
+    },
+    "test": {
+      "en": [
+        "mace medieval weapon",
+        "fantasy warrior spiked club",
+        "D&D melee attack mace"
+      ],
+      "ru": [
+        "средневековое оружие булава",
+        "шипастая дубина фэнтезийного воина",
+        "булава для ближнего боя D&D"
+      ]
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "icon": "reply",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "mail",
+        "message",
+        "respond"
+      ],
+      "ru": [
+        "почта",
+        "сообщение",
+        "ответить"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "reply to mail from inbox",
+        "mail reply arrow pointing left",
+        "reply to message in chat",
+        "message reply button in conversation",
+        "respond to email from colleague",
+        "respond to customer inquiry"
+      ],
+      "ru": [
+        "ответить на письмо из входящих",
+        "стрелка ответа на письмо влево",
+        "ответить на сообщение в чате",
+        "кнопка ответа в переписке",
+        "ответить на email от коллеги",
+        "ответить на запрос клиента"
+      ]
+    },
+    "regular": {
+      "en": [
+        "reply arrow curving back to sender",
+        "email reply button in mail client toolbar",
+        "reply to comment in social media thread",
+        "left-pointing reply arrow on message",
+        "reply icon beside message timestamp",
+        "customer support reply to open ticket",
+        "reply all versus reply one person",
+        "auto-reply message set up in email client",
+        "inline reply nested under original message",
+        "tap reply to respond to notification"
+      ],
+      "ru": [
+        "стрелка ответа загибается обратно к отправителю",
+        "кнопка ответа на письмо на панели почтового клиента",
+        "ответить на комментарий в ветке соцсети",
+        "стрелка ответа влево на сообщении",
+        "иконка ответа рядом с временной меткой",
+        "ответ поддержки на открытый тикет",
+        "ответить всем vs ответить одному",
+        "автоответ настроен в почтовом клиенте",
+        "встроенный ответ под исходным сообщением",
+        "нажми ответить на уведомление"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a reply icon for the messaging screen",
+        "add a reply arrow to the email client toolbar",
+        "show a reply button for the comment section",
+        "use the reply icon for the respond feature"
+      ],
+      "ru": [
+        "мне нужна иконка ответа для экрана сообщений",
+        "добавь стрелку ответа на панель почтового клиента",
+        "покажи кнопку ответа для раздела комментариев",
+        "используй иконку ответа для функции отклика"
+      ]
+    },
+    "typo": {
+      "en": [
+        "reply arwow curving back to sender",
+        "email repyl button in mail client",
+        "resopnd to customer inquiry",
+        "rpeply to message in chat"
+      ],
+      "ru": [
+        "стрелка отевта загибается к отправителю",
+        "кнопка отевта на письмо в почте",
+        "отевтить на запрос клиента",
+        "отевтить на сообщение в чате"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "forward arrow sending message to new recipient",
+        "reply-all curved arrow with two heads",
+        "share button spreading content to others",
+        "send button dispatching composed message",
+        "redirect arrow rerouting email to folder",
+        "inbox tray receiving incoming messages"
+      ],
+      "ru": [
+        "стрелка пересылки отправляет сообщение новому адресату",
+        "стрелка ответить всем с двумя головами",
+        "кнопка поделиться распространяет контент",
+        "кнопка отправить отправляет набранное сообщение",
+        "стрелка перенаправления в папку",
+        "входящий лоток получает входящие сообщения"
+      ]
+    },
+    "valid": {
+      "en": [
+        "reply arrow pointing back to sender",
+        "email reply button in mail client",
+        "reply to message in conversation thread"
+      ],
+      "ru": [
+        "стрелка ответа назад к отправителю",
+        "кнопка ответа в почтовом клиенте",
+        "ответ на сообщение в ветке переписки"
+      ]
+    },
+    "test": {
+      "en": [
+        "reply icon in messaging app",
+        "left-pointing reply arrow for email",
+        "tap reply to respond to message"
+      ],
+      "ru": [
+        "иконка ответа в приложении для сообщений",
+        "стрелка ответа влево для email",
+        "нажми ответить на сообщение"
+      ]
+    }
+  }
+}

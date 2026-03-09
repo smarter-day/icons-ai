@@ -1,0 +1,142 @@
+{
+  "icon": "ornament",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "christmas",
+        "decoration",
+        "holiday",
+        "xmas"
+      ],
+      "ru": [
+        "рождество",
+        "украшение",
+        "праздник",
+        "рождество"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Christmas ornament hanging on tree",
+        "Christmas ball decoration",
+        "holiday ornament for decorating",
+        "festive ornament collection",
+        "holiday season decoration display",
+        "holiday decor hanging ornament",
+        "xmas ornament glittery ball",
+        "xmas tree ornament assortment"
+      ],
+      "ru": [
+        "рождественское украшение на ёлке",
+        "рождественский шар-украшение",
+        "праздничное украшение для декорирования",
+        "коллекция нарядных украшений",
+        "праздничный сезон декора выставка",
+        "праздничный декор подвесное украшение",
+        "рождественский блестящий шар",
+        "ассортимент украшений рождественской ёлки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "shiny glass ball ornament on Christmas tree",
+        "colorful hanging ornament with ribbon",
+        "vintage Christmas ball decoration",
+        "personalized family ornament for tree",
+        "set of gold and silver tree ornaments",
+        "star-shaped Christmas tree topper",
+        "festive bauble for holiday season",
+        "Christmas tree with ornaments and lights",
+        "ornament storage box for holiday",
+        "hand-painted ceramic ornament"
+      ],
+      "ru": [
+        "блестящий стеклянный шар-украшение на ёлке",
+        "цветное подвесное украшение с ленточкой",
+        "винтажное рождественское украшение",
+        "персонализированное семейное украшение для ёлки",
+        "набор золотых и серебряных украшений для ёлки",
+        "украшение в форме звезды на верхушку ёлки",
+        "нарядный шарик для праздничного сезона",
+        "рождественская ёлка с украшениями и гирляндой",
+        "коробка для хранения украшений на праздник",
+        "расписное керамическое украшение вручную"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an ornament icon for the holiday section",
+        "add a Christmas ball to the decoration category",
+        "show a tree ornament for the xmas theme",
+        "use the ornament icon for the holiday decor feature"
+      ],
+      "ru": [
+        "Мне нужна иконка украшения для праздничного раздела",
+        "добавить рождественский шар в категорию украшений",
+        "показать украшение ёлки для темы рождества",
+        "использовать иконку украшения для функции праздничного декора"
+      ]
+    },
+    "typo": {
+      "en": [
+        "ornmaent Christmas",
+        "chirstmas decoration",
+        "holidya ornament",
+        "xmass ball"
+      ],
+      "ru": [
+        "украшени рождество",
+        "рождевство декор",
+        "праздничон украшение",
+        "рождесвтенский шар"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Christmas tree without ornaments",
+        "gift box wrapped in holiday paper",
+        "wreath hanging on door",
+        "candy cane holiday treat",
+        "string of lights for decoration",
+        "snowflake holiday pattern"
+      ],
+      "ru": [
+        "рождественская ёлка без украшений",
+        "подарочная коробка завёрнутая в праздничную бумагу",
+        "венок висящий на двери",
+        "леденцовая трость праздничное угощение",
+        "гирлянда из огней для украшения",
+        "праздничный узор снежинки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Christmas ornament ball on tree",
+        "holiday decoration ornament",
+        "xmas tree ornament icon"
+      ],
+      "ru": [
+        "рождественский шар-украшение на ёлке",
+        "праздничное украшение",
+        "иконка украшения рождественской ёлки"
+      ]
+    },
+    "test": {
+      "en": [
+        "ornament icon",
+        "Christmas ball decoration",
+        "holiday tree ornament"
+      ],
+      "ru": [
+        "иконка украшения",
+        "рождественское украшение шар",
+        "праздничное украшение ёлки"
+      ]
+    }
+  }
+}

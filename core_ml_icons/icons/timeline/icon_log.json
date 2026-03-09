@@ -1,0 +1,142 @@
+{
+  "icon": "timeline",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "chronological",
+        "deadline",
+        "history",
+        "linear"
+      ],
+      "ru": [
+        "хронологический",
+        "дедлайн",
+        "история",
+        "линейный"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "chronological events timeline",
+        "chronological order sorted",
+        "project deadline on timeline",
+        "deadline approaching marker",
+        "historical timeline events",
+        "history timeline century",
+        "linear timeline left to right",
+        "linear progress bar timeline"
+      ],
+      "ru": [
+        "хронологические события временная шкала",
+        "хронологический порядок сортировка",
+        "дедлайн проекта на временной шкале",
+        "приближающийся дедлайн маркер",
+        "историческая временная шкала события",
+        "история временная шкала века",
+        "линейная временная шкала слева направо",
+        "линейный прогресс-бар временная шкала"
+      ]
+    },
+    "regular": {
+      "en": [
+        "project timeline gantt chart horizontal",
+        "historical events timeline century",
+        "product roadmap release timeline",
+        "social media post timeline feed",
+        "biography life events timeline",
+        "sprint planning timeline agile",
+        "geological timeline eons epochs",
+        "company history milestone timeline",
+        "event timeline wedding planning",
+        "interactive timeline scrollable view"
+      ],
+      "ru": [
+        "горизонтальный временная шкала проекта диаграмма Ганта",
+        "исторические события временная шкала веков",
+        "дорожная карта продукта релизная шкала",
+        "лента публикаций в социальных сетях",
+        "биография события жизни временная шкала",
+        "планирование спринта временная шкала гибкий",
+        "геологическая временная шкала эпохи периоды",
+        "история компании веха временная шкала",
+        "временная шкала события планирование свадьбы",
+        "интерактивная прокручиваемая временная шкала"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a timeline icon for the project planner",
+        "add a timeline symbol to the history section",
+        "show a timeline for the roadmap feature",
+        "use the timeline icon for the event schedule"
+      ],
+      "ru": [
+        "нужна иконка временной шкалы для планировщика проекта",
+        "добавь символ временной шкалы в исторический раздел",
+        "покажи временную шкалу для функции дорожной карты",
+        "используй иконку временной шкалы для расписания событий"
+      ]
+    },
+    "typo": {
+      "en": [
+        "timleine project events",
+        "cronological order events",
+        "deadlien on timeline",
+        "histroy timeline"
+      ],
+      "ru": [
+        "временная шкала проект события",
+        "хронологческий порядок",
+        "дедлайн на временной шкале",
+        "история временая шкала"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "calendar month view days",
+        "gantt bar chart project",
+        "progress bar completion percentage",
+        "roadmap path milestones",
+        "flowchart sequential steps",
+        "clock time passing hours"
+      ],
+      "ru": [
+        "календарь месячный вид дни",
+        "диаграмма Ганта полосы проект",
+        "прогресс-бар процент выполнения",
+        "дорожная карта путь вехи",
+        "блок-схема последовательные шаги",
+        "часы время проходит"
+      ]
+    },
+    "valid": {
+      "en": [
+        "timeline project icon",
+        "chronological events symbol",
+        "history timeline"
+      ],
+      "ru": [
+        "иконка временной шкалы проекта",
+        "символ хронологических событий",
+        "история временная шкала"
+      ]
+    },
+    "test": {
+      "en": [
+        "timeline icon events",
+        "deadline timeline symbol",
+        "linear timeline progress"
+      ],
+      "ru": [
+        "иконка временной шкалы события",
+        "символ дедлайна временная шкала",
+        "линейная временная шкала"
+      ]
+    }
+  }
+}

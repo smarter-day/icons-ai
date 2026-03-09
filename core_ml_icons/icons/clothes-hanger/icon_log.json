@@ -1,0 +1,84 @@
+{
+  "icon": "clothes-hanger",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "clothing",
+        "dry cleaner",
+        "hang",
+        "wire"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Organize clothing in the wardrobe",
+        "Sort clothing by season",
+        "Drop off at the dry cleaner",
+        "Pick up from the dry cleaner",
+        "Hang the jacket up",
+        "Hang freshly washed clothes",
+        "Use wire hangers from the cleaner",
+        "Replace wire hangers with wood ones"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Organize the wardrobe",
+        "Hang up the laundry",
+        "Sort clothes by color",
+        "Pick up dry cleaning",
+        "Buy new hangers for the closet",
+        "Declutter the closet",
+        "Hang the dress for tomorrow",
+        "Pack clothes for the trip",
+        "Put away clean laundry",
+        "Rotate seasonal clothes"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Hang that up",
+        "Closet's a mess",
+        "Drop off the dry cleaning",
+        "Wardrobe sort"
+      ]
+    },
+    "typo": {
+      "en": [
+        "hang the laundrey",
+        "dry clener pickup",
+        "orgnaize the wardrobe",
+        "colthes need hanging"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Fold laundry and put it away",
+        "Iron the shirts before work",
+        "Do a load of laundry",
+        "Buy a new outfit",
+        "Pack a suitcase for travel",
+        "Donate clothes to charity"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Organize clothes on hangers",
+        "Pick up dry cleaning today",
+        "Hang up wardrobe items"
+      ]
+    },
+    "test": {
+      "en": [
+        "Sort through the closet",
+        "Hang the clean clothes",
+        "Drop clothes at dry cleaner"
+      ]
+    }
+  }
+}

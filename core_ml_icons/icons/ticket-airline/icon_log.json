@@ -1,0 +1,154 @@
+{
+  "icon": "ticket-airline",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "airplane",
+        "arrival",
+        "boarding pass",
+        "departure",
+        "ticket",
+        "travel"
+      ],
+      "ru": [
+        "самолёт",
+        "прилёт",
+        "посадочный талон",
+        "вылет",
+        "билет",
+        "путешествие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "airplane boarding pass scan",
+        "airplane ticket itinerary",
+        "flight arrival terminal gate",
+        "arrival time on ticket",
+        "boarding pass QR code scan",
+        "boarding pass printed paper",
+        "flight departure time gate",
+        "departure lounge boarding",
+        "airline ticket booked confirmed",
+        "ticket price round trip",
+        "travel ticket airline booking",
+        "international travel ticket"
+      ],
+      "ru": [
+        "посадочный талон самолёта сканирование",
+        "маршрут авиабилета",
+        "прилёт рейса терминал выход",
+        "время прилёта на билете",
+        "QR-код посадочного талона сканирование",
+        "распечатанный посадочный талон",
+        "время вылета рейса выход",
+        "зал ожидания посадка",
+        "авиабилет забронирован подтверждён",
+        "цена билета туда и обратно",
+        "туристический авиабилет бронирование",
+        "международный билет на перелёт"
+      ]
+    },
+    "regular": {
+      "en": [
+        "airline boarding pass with seat number",
+        "e-ticket QR code on phone",
+        "airport check-in ticket counter",
+        "economy class airline ticket",
+        "first class upgrade ticket",
+        "connecting flight layover ticket",
+        "budget airline cheap ticket",
+        "frequent flyer miles ticket",
+        "last minute airline ticket deal",
+        "ticket stub souvenir collection"
+      ],
+      "ru": [
+        "посадочный талон с номером места",
+        "электронный билет QR-код на телефоне",
+        "регистрация в аэропорту стойка",
+        "авиабилет экономического класса",
+        "билет на апгрейд до первого класса",
+        "пересадочный рейс билет с остановкой",
+        "бюджетная авиакомпания дешёвый билет",
+        "мили часто летающего пассажира билет",
+        "авиабилет в последнюю минуту",
+        "корешок билета коллекция сувениров"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a ticket icon for the flight booking section",
+        "add a boarding pass symbol to the travel feature",
+        "show an airline ticket for the trip planner",
+        "use the ticket-airline icon for the departure reminder"
+      ],
+      "ru": [
+        "нужна иконка билета для раздела бронирования рейсов",
+        "добавь символ посадочного талона к функции путешествий",
+        "покажи авиабилет для планировщика поездок",
+        "используй иконку авиабилета для напоминания о вылете"
+      ]
+    },
+    "typo": {
+      "en": [
+        "arplane ticket booking",
+        "boardig pass scan",
+        "deparutre flight gate",
+        "travell ticket airline"
+      ],
+      "ru": [
+        "билет самолёт бронирование",
+        "посадчоный талон сканировние",
+        "вылет рейс выход",
+        "путешевствие авиабилет"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "train ticket rail travel",
+        "bus ticket ground transport",
+        "concert event ticket stub",
+        "parking ticket fine penalty",
+        "passport travel document",
+        "baggage claim luggage tag"
+      ],
+      "ru": [
+        "железнодорожный билет поезд",
+        "билет на автобус наземный транспорт",
+        "билет на концерт мероприятие",
+        "парковочный штраф нарушение",
+        "паспорт документ для путешествий",
+        "бирка выдачи багажа"
+      ]
+    },
+    "valid": {
+      "en": [
+        "airline boarding pass icon",
+        "flight ticket symbol",
+        "airplane ticket travel"
+      ],
+      "ru": [
+        "иконка посадочного талона",
+        "символ авиабилета рейса",
+        "авиабилет путешествие"
+      ]
+    },
+    "test": {
+      "en": [
+        "airline ticket icon",
+        "boarding pass symbol",
+        "flight departure ticket"
+      ],
+      "ru": [
+        "иконка авиабилета",
+        "символ посадочного талона",
+        "билет вылета рейса"
+      ]
+    }
+  }
+}

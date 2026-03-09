@@ -1,0 +1,90 @@
+{
+  "icon": "industry",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "building",
+        "factory",
+        "industrial",
+        "manufacturing",
+        "mill",
+        "warehouse"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Visit the industrial building",
+        "Inspect the building structure",
+        "Tour the factory floor",
+        "Work at the factory",
+        "Work in an industrial zone",
+        "Move to an industrial area",
+        "Monitor the manufacturing line",
+        "Improve manufacturing efficiency",
+        "Visit the old mill",
+        "Restore the historic mill",
+        "Manage the warehouse operations",
+        "Organize the warehouse floor"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Visit the manufacturing plant",
+        "Inspect the factory equipment",
+        "Work on the production line",
+        "Manage warehouse operations",
+        "Monitor industrial output",
+        "Schedule a factory tour",
+        "Improve industrial efficiency",
+        "Order supplies for the factory",
+        "Check safety at the industrial site",
+        "Transport goods from the warehouse"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Factory tour",
+        "Industrial site",
+        "Warehouse check",
+        "Production line"
+      ]
+    },
+    "typo": {
+      "en": [
+        "viist the manufacurting plant",
+        "inspekt the factroy",
+        "work on productin line",
+        "managge warehous operations"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Visit an office building",
+        "Manage a retail store",
+        "Work from a home office",
+        "Run a small restaurant",
+        "Open a retail shop",
+        "Manage a farm operation"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Visit the manufacturing plant",
+        "Inspect the factory floor",
+        "Manage warehouse operations"
+      ]
+    },
+    "test": {
+      "en": [
+        "Work on the production line",
+        "Monitor industrial output",
+        "Schedule a factory tour"
+      ]
+    }
+  }
+}

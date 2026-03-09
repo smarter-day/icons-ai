@@ -1,0 +1,78 @@
+{
+  "icon": "gif",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "animation",
+        "img"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Add an animation to the message",
+        "Create a looping animation",
+        "Insert an img tag in the HTML",
+        "Add the img to the page"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Send a funny GIF in the chat",
+        "Find a GIF to express a reaction",
+        "Create an animated GIF",
+        "Add a GIF to the presentation",
+        "Search for a GIF on Giphy",
+        "Make a GIF from a video clip",
+        "Add a GIF sticker to the message",
+        "Use a GIF as a profile banner",
+        "Save a GIF from the internet",
+        "Compress a GIF to reduce size"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Send a GIF",
+        "Funny GIF",
+        "GIF reaction",
+        "Animated image"
+      ]
+    },
+    "typo": {
+      "en": [
+        "sned a funy GIF",
+        "find a GIf to react",
+        "cretae an animated gfi",
+        "seacrh for a gif on giphy"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Send a static image",
+        "Share a meme photo",
+        "Send a short video clip",
+        "Add a PNG image to the document",
+        "Attach a JPEG photo to the email",
+        "Use an emoji instead of a GIF"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Send a GIF in the chat",
+        "Create an animated GIF",
+        "Search for a reaction GIF"
+      ]
+    },
+    "test": {
+      "en": [
+        "Find a funny GIF",
+        "Make a GIF from a video",
+        "Add a GIF to the presentation"
+      ]
+    }
+  }
+}

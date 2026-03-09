@@ -1,0 +1,154 @@
+{
+  "icon": "box",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "archive",
+        "box",
+        "container",
+        "package",
+        "parcel",
+        "storage"
+      ],
+      "ru": [
+        "архив",
+        "коробка",
+        "контейнер",
+        "посылка",
+        "бандероль",
+        "хранение"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "archive old documents in a box",
+        "pack things in a box",
+        "organize stuff in a container",
+        "send a package",
+        "receive the parcel",
+        "put in storage",
+        "Archive files in labeled boxes",
+        "Moving boxes from the old apartment",
+        "Container for the craft supplies",
+        "Package sent via express delivery",
+        "Parcel tracking number saved",
+        "Storage box for seasonal clothing"
+      ],
+      "ru": [
+        "архивировать документы в коробке",
+        "упаковать вещи в коробку",
+        "организовать вещи в контейнере",
+        "отправить посылку",
+        "получить бандероль",
+        "положить на хранение",
+        "Архивировать файлы в подписанных коробках",
+        "Коробки для переезда со старой квартиры",
+        "Контейнер для поделочных материалов",
+        "Посылка отправлена экспресс-доставкой",
+        "Номер отслеживания посылки сохранён",
+        "Коробка для хранения сезонной одежды"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Pack boxes for the move",
+        "Label and organize storage boxes",
+        "Ship a package to a friend",
+        "Track the parcel delivery",
+        "Store seasonal items in boxes",
+        "Get boxes from the store for moving",
+        "Pack the books into boxes",
+        "Send a care package",
+        "Organize the garage with storage boxes",
+        "Find a box for the gift"
+      ],
+      "ru": [
+        "Упаковать коробки для переезда",
+        "Подписать и организовать коробки для хранения",
+        "Отправить посылку другу",
+        "Отследить доставку бандероли",
+        "Хранить сезонные вещи в коробках",
+        "Взять коробки в магазине для переезда",
+        "Упаковать книги в коробки",
+        "Отправить посылку с подарками",
+        "Организовать гараж коробками для хранения",
+        "Найти коробку для подарка"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need to pack everything into boxes",
+        "The package should arrive tomorrow",
+        "Let's get some boxes for the move",
+        "I've got so much stuff to store"
+      ],
+      "ru": [
+        "Мне нужно упаковать всё в коробки",
+        "Посылка должна прийти завтра",
+        "Давайте возьмём коробки для переезда",
+        "Столько вещей надо убрать на хранение"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Pck boxes for the mve",
+        "Lbel the strage boxes",
+        "Shipp a packge to a freind",
+        "Track the parcl delivry"
+      ],
+      "ru": [
+        "Упакавать коробки для переезда",
+        "Подпсать коробки для хранения",
+        "Отпрвить посылку другу",
+        "Отслдеить достаку бандероли"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Open the package",
+        "Pack multiple boxes for shipping",
+        "Buy a storage unit",
+        "Gift wrap the present",
+        "Unpack the delivery",
+        "Moving truck booking"
+      ],
+      "ru": [
+        "Открыть посылку",
+        "Упаковать несколько коробок для отправки",
+        "Арендовать склад",
+        "Завернуть подарок",
+        "Распаковать доставку",
+        "Заказать грузовик для переезда"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Pack boxes for the apartment move",
+        "Ship a birthday package",
+        "Organize storage boxes in the garage"
+      ],
+      "ru": [
+        "Упаковать коробки для переезда в квартиру",
+        "Отправить посылку ко дню рождения",
+        "Организовать коробки для хранения в гараже"
+      ]
+    },
+    "test": {
+      "en": [
+        "Track the parcel from the store",
+        "Get boxes ready for moving day",
+        "Store seasonal decorations in boxes"
+      ],
+      "ru": [
+        "Отследить бандероль из магазина",
+        "Подготовить коробки к дню переезда",
+        "Убрать сезонные украшения в коробки"
+      ]
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "icon": "fingerprint",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "human",
+        "id",
+        "identification",
+        "lock",
+        "privacy",
+        "smudge",
+        "touch",
+        "unique",
+        "unlock"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "human fingerprint on the surface",
+        "human fingerprint unique pattern",
+        "ID fingerprint for identification",
+        "fingerprint ID on the phone",
+        "identification by fingerprint",
+        "fingerprint identification system",
+        "fingerprint lock on the device",
+        "lock the phone with fingerprint",
+        "privacy protected by fingerprint",
+        "fingerprint for user privacy",
+        "smudge fingerprint on the glass",
+        "fingerprint smudge on the screen",
+        "touch fingerprint sensor",
+        "touch the fingerprint scanner",
+        "unique fingerprint pattern",
+        "unique fingerprint of every person",
+        "unlock with fingerprint",
+        "fingerprint to unlock the phone"
+      ]
+    },
+    "regular": {
+      "en": [
+        "fingerprint scanner on the phone",
+        "unique fingerprint pattern for identification",
+        "fingerprint unlock on the lock screen",
+        "biometric fingerprint for security",
+        "fingerprint smudge left on the glass",
+        "fingerprint reader at the office door",
+        "fingerprint ID for border control",
+        "touch ID fingerprint sensor",
+        "fingerprint captured for the database",
+        "forensic fingerprint on the evidence"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a fingerprint icon for the biometric login",
+        "add a fingerprint symbol to the security settings",
+        "show a fingerprint for the touch ID feature",
+        "use the fingerprint icon for the unlock screen"
+      ]
+    },
+    "typo": {
+      "en": [
+        "fingerpirnt scanner",
+        "biometrc fingerprint",
+        "uniqe fingerprint pattern",
+        "fingerpint unlock"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "face ID scan for biometric login",
+        "retina eye scan for identification",
+        "PIN code entry on the keypad",
+        "access card with magnetic strip",
+        "password field on the login screen",
+        "hand scan for biometric authentication"
+      ]
+    },
+    "valid": {
+      "en": [
+        "fingerprint scanner on phone",
+        "unique fingerprint pattern",
+        "fingerprint unlock"
+      ]
+    },
+    "test": {
+      "en": [
+        "fingerprint icon",
+        "fingerprint symbol for security",
+        "touch fingerprint"
+      ]
+    }
+  }
+}

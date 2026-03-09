@@ -1,0 +1,96 @@
+{
+  "icon": "flask",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "beaker",
+        "chemicals",
+        "experiment",
+        "knowledge",
+        "labs",
+        "liquid",
+        "science",
+        "vial"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Use a beaker in the lab",
+        "Clean the glass beaker",
+        "Handle chemicals safely",
+        "Store chemicals in labeled containers",
+        "Set up a science experiment",
+        "Run the chemistry experiment",
+        "Expand knowledge through science",
+        "Gain knowledge in the lab",
+        "Work at the research labs",
+        "Set up the labs for testing",
+        "Pour liquid into the flask",
+        "Measure liquid with precision",
+        "Learn basic science concepts",
+        "Apply science to real problems",
+        "Store the sample in a vial",
+        "Label the vial correctly"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Do a science experiment at home",
+        "Set up a chemistry lab",
+        "Mix chemicals for the experiment",
+        "Measure liquids in the beaker",
+        "Follow the lab safety rules",
+        "Record the results of the experiment",
+        "Pour the solution into the flask",
+        "Work on a science project",
+        "Study chemistry",
+        "Visit the science museum"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Science experiment",
+        "Lab time",
+        "Mix the chemicals",
+        "Flask and beaker"
+      ]
+    },
+    "typo": {
+      "en": [
+        "do a scince experiment",
+        "mix the chemiacls",
+        "measuer liquids in beakre",
+        "folow lab safty rules"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Cook a meal in the kitchen",
+        "Mix a cocktail at the bar",
+        "Use a test tube for the biology class",
+        "Set up the microscope",
+        "Measure ingredients for baking",
+        "Do a medical lab test"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Set up a science experiment",
+        "Mix chemicals in the flask",
+        "Record the lab results"
+      ]
+    },
+    "test": {
+      "en": [
+        "Pour liquid into the beaker",
+        "Work on the chemistry project",
+        "Follow lab safety procedures"
+      ]
+    }
+  }
+}

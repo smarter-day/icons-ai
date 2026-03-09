@@ -1,0 +1,148 @@
+{
+  "icon": "bullseye-pointer",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "archery",
+        "goal",
+        "objective",
+        "strategy",
+        "target"
+      ],
+      "ru": [
+        "стрельба из лука",
+        "цель",
+        "задача",
+        "стратегия",
+        "мишень"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Archery accuracy with pointer guidance",
+        "Goal setting with interactive pointer",
+        "Precise objective tracking with cursor",
+        "Strategy pointer for the presentation",
+        "Target selection with pointer tool",
+        "Archery range session this Saturday",
+        "Point the cursor at the goal marker",
+        "Click the objective on the dashboard",
+        "Interactive strategy map walkthrough",
+        "Tap the target to confirm selection"
+      ],
+      "ru": [
+        "Точность стрельбы с указателем",
+        "Постановка целей с интерактивным указателем",
+        "Точное отслеживание задач курсором",
+        "Указатель стратегии для презентации",
+        "Выбор цели с помощью инструмента-указателя",
+        "Занятие в тире в эту субботу",
+        "Навести курсор на маркер цели",
+        "Кликнуть по задаче на панели управления",
+        "Обзор интерактивной стратегической карты",
+        "Нажать на цель для подтверждения выбора"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Click on the exact target point",
+        "Pointer aimed at the bullseye",
+        "Interactive target selection",
+        "Drag pointer to the target location",
+        "Pinpoint the exact location on map",
+        "Cursor precisely on the goal",
+        "Point and click at the objective",
+        "Sniper-style cursor targeting",
+        "Focus pointer on the key area",
+        "Align cursor with the bullseye"
+      ],
+      "ru": [
+        "Нажать на точку мишени",
+        "Указатель направлен на яблочко",
+        "Интерактивный выбор цели",
+        "Перетащить указатель в целевую точку",
+        "Указать точное место на карте",
+        "Курсор точно на цели",
+        "Навести и кликнуть по задаче",
+        "Снайперское наведение курсора",
+        "Сфокусировать указатель на ключевой области",
+        "Выровнять курсор с мишенью"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "just click right there on target",
+        "pointer aimed exactly at it",
+        "move the cursor to the goal",
+        "tap the center of the target"
+      ],
+      "ru": [
+        "просто кликни прямо туда на цель",
+        "указатель направлен точно на неё",
+        "переместить курсор к цели",
+        "нажать в центр мишени"
+      ]
+    },
+    "typo": {
+      "en": [
+        "click the traget spot",
+        "poitner on the bullseye",
+        "cursor on the objetive",
+        "aim the poiner at the center"
+      ],
+      "ru": [
+        "нажать на точку целли",
+        "укащатель на мишени",
+        "курсор на зацаде",
+        "навести укзатель в центр"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Static target with no interaction",
+        "Goal badge without cursor overlay",
+        "Pure achievement target no pointer",
+        "Interactive drag-to-select point",
+        "Click to place a pin on the map",
+        "Clickable target vs simple goal icon"
+      ],
+      "ru": [
+        "Статичная цель без взаимодействия",
+        "Значок цели без курсора поверх",
+        "Простая мишень достижения без указателя",
+        "Интерактивное перетаскивание для выбора",
+        "Нажать чтобы поставить метку на карте",
+        "Кликабельная цель против простого значка цели"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Hover pointer over the target point",
+        "Interactive goal selection tool",
+        "Move cursor to the bullseye"
+      ],
+      "ru": [
+        "Навести указатель на целевую точку",
+        "Интерактивный инструмент выбора цели",
+        "Переместить курсор к мишени"
+      ]
+    },
+    "test": {
+      "en": [
+        "Click the precise target spot",
+        "Pointer aimed at objective",
+        "Cursor positioned on bullseye"
+      ],
+      "ru": [
+        "Нажать на точную целевую точку",
+        "Указатель направлен на задачу",
+        "Курсор расположен на мишени"
+      ]
+    }
+  }
+}

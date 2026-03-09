@@ -1,0 +1,87 @@
+{
+  "icon": "gauge",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "dashboard",
+        "fast",
+        "odometer",
+        "speed",
+        "speedometer"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Check the car dashboard",
+        "Review the analytics dashboard",
+        "Drive fast on the highway",
+        "Keep driving fast to make it on time",
+        "Read the odometer before selling",
+        "Check the odometer reading",
+        "Watch the speed on the speedometer",
+        "Drive at the right speed",
+        "Check the speedometer in the car",
+        "Monitor the speedometer"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Check the car speed",
+        "Monitor the speedometer while driving",
+        "Check tire pressure on the dashboard",
+        "Read the fuel gauge",
+        "Watch the engine temperature gauge",
+        "Review the website speed metrics",
+        "Check the app performance dashboard",
+        "Monitor CPU usage on the dashboard",
+        "Keep track of speed on the highway",
+        "Calibrate the speedometer"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Check the speed",
+        "Dashboard check",
+        "Too fast!",
+        "Speed limit"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chekc the spedometer",
+        "read the dashboadr",
+        "moniotr the speed",
+        "check odmoeter reading"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Check the fuel level indicator",
+        "Read the thermometer temperature",
+        "Monitor the battery charge level",
+        "Use a ruler to measure distance",
+        "Check the compass direction",
+        "Read the pressure gauge on the tire"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Check the speedometer while driving",
+        "Monitor the dashboard",
+        "Read the odometer"
+      ]
+    },
+    "test": {
+      "en": [
+        "Review the performance dashboard",
+        "Check the car gauges",
+        "Monitor speed on the highway"
+      ]
+    }
+  }
+}

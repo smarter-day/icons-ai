@@ -1,0 +1,99 @@
+{
+  "icon": "joint",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "blunt",
+        "cannabis",
+        "doobie",
+        "drugs",
+        "marijuana",
+        "roach",
+        "smoke",
+        "smoking",
+        "spliff"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "blunt rolled for smoking",
+        "cannabis blunt cigar",
+        "cannabis joint rolled",
+        "cannabis smoking joint",
+        "doobie joint rolled up",
+        "doobie to smoke",
+        "drugs cannabis joint",
+        "drugs rolled as a joint",
+        "marijuana joint rolled",
+        "marijuana smoke joint",
+        "roach end of the joint",
+        "roach clip for the joint",
+        "smoke from the joint",
+        "joint smoke in the air",
+        "smoking a joint",
+        "smoking cannabis joint",
+        "spliff rolled with tobacco",
+        "spliff joint"
+      ]
+    },
+    "regular": {
+      "en": [
+        "hand-rolled cannabis joint",
+        "marijuana cigarette rolled in paper",
+        "joint with a twisted end",
+        "cannabis blunt wrapped in leaf",
+        "joint smoke rising in the air",
+        "rolling a joint with rolling papers",
+        "medical cannabis joint for pain relief",
+        "joint icon for dispensary app",
+        "spliff blended with tobacco",
+        "roach end of a smoked joint"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a joint icon for the cannabis app",
+        "add a marijuana symbol to the dispensary section",
+        "show a joint for the smoke category",
+        "use the joint icon for the cannabis feature"
+      ]
+    },
+    "typo": {
+      "en": [
+        "canabis joint rolled",
+        "mariajuana smoke",
+        "spliff wiht tobacco",
+        "roach clp for joint"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "cigarette with a burning tip",
+        "smoking pipe with tobacco",
+        "cigar rolled from a tobacco leaf",
+        "vape pen producing vapor",
+        "hookah pipe on the table",
+        "electronic cigarette vaping device"
+      ]
+    },
+    "valid": {
+      "en": [
+        "cannabis joint rolled in paper",
+        "marijuana smoking joint",
+        "joint for dispensary app"
+      ]
+    },
+    "test": {
+      "en": [
+        "joint icon",
+        "cannabis joint symbol",
+        "joint for smoking"
+      ]
+    }
+  }
+}

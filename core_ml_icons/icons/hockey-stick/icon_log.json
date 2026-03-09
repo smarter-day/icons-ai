@@ -1,0 +1,96 @@
+{
+  "icon": "hockey-stick",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "game",
+        "hockey",
+        "ice",
+        "ice hockey",
+        "nhl",
+        "puck",
+        "sport",
+        "stick"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "hockey stick used in the game",
+        "ice hockey game with stick and puck",
+        "hockey stick used in the rink",
+        "hockey player holding the stick",
+        "ice hockey stick on the rink",
+        "stick used on the ice",
+        "ice hockey stick and puck",
+        "ice hockey game with the stick",
+        "NHL hockey stick for the game",
+        "NHL player swinging the stick",
+        "hockey stick hitting the puck",
+        "puck sent by the stick",
+        "hockey stick for sport",
+        "sport equipment hockey stick",
+        "stick used in hockey",
+        "hockey stick on the ice"
+      ]
+    },
+    "regular": {
+      "en": [
+        "hockey stick and puck on the ice rink",
+        "player holding a hockey stick at the faceoff",
+        "slap shot taken with the hockey stick",
+        "NHL player skating with stick and puck",
+        "goalie blocking with the stick",
+        "hockey stick tape on the blade",
+        "ice hockey team with sticks raised",
+        "hockey stick leaning against the locker",
+        "junior hockey stick for young players",
+        "street hockey played with stick and ball"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a hockey stick icon for the sports app",
+        "add a hockey stick to the winter sports section",
+        "show a stick and puck for the ice hockey category",
+        "use the hockey stick icon for the NHL scores"
+      ]
+    },
+    "typo": {
+      "en": [
+        "hocky stick on ice",
+        "iceh ockey puck",
+        "nhol player stick",
+        "hockey sticck blade"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "lacrosse stick with a mesh pocket",
+        "curling broom sweeping the ice",
+        "baseball bat swung at the plate",
+        "cricket bat used in the wicket game",
+        "golf club iron on the fairway",
+        "field hockey stick on the grass"
+      ]
+    },
+    "valid": {
+      "en": [
+        "hockey stick and puck on ice",
+        "NHL hockey stick in game",
+        "ice hockey stick"
+      ]
+    },
+    "test": {
+      "en": [
+        "hockey stick icon",
+        "hockey stick symbol",
+        "ice hockey stick"
+      ]
+    }
+  }
+}

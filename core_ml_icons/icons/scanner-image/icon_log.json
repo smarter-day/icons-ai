@@ -1,0 +1,154 @@
+{
+  "icon": "scanner-image",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "copy",
+        "device",
+        "digitize",
+        "image",
+        "img",
+        "import"
+      ],
+      "ru": [
+        "копия",
+        "устройство",
+        "оцифровать",
+        "изображение",
+        "img",
+        "импорт"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "copy document using flatbed scanner",
+        "copy receipts and invoices with scanner",
+        "scanning device in office or home",
+        "multifunction device with scanner",
+        "digitize old photos with scanner",
+        "digitize paper documents to PDF",
+        "image scan for archiving documents",
+        "scan image to edit digitally",
+        "img file created from scanner output",
+        "img scan of printed photo",
+        "import scanned image into app",
+        "import document image from scanner"
+      ],
+      "ru": [
+        "копирование документа на планшетном сканере",
+        "копирование чеков и счетов сканером",
+        "сканирующее устройство в офисе или дома",
+        "МФУ со сканером",
+        "оцифровка старых фотографий сканером",
+        "оцифровка бумажных документов в PDF",
+        "сканирование для архивирования документов",
+        "сканирование для цифрового редактирования",
+        "img-файл создан из результата сканера",
+        "img-скан печатной фотографии",
+        "импорт отсканированного изображения в приложение",
+        "импорт изображения документа со сканера"
+      ]
+    },
+    "regular": {
+      "en": [
+        "flatbed scanner digitizing paper documents",
+        "scanner lid open with photo face down on glass",
+        "multifunction printer scanner copier device",
+        "scan old photographs to digital files",
+        "document scanning app on smartphone camera",
+        "OCR scanning text from printed page",
+        "high resolution image scan for archiving",
+        "scanner connected to computer via USB",
+        "legal document scanned for digital signature",
+        "photo scanner preserving family memories"
+      ],
+      "ru": [
+        "планшетный сканер оцифровывает бумажные документы",
+        "крышка сканера открыта с фото стеклом вниз",
+        "МФУ принтер-сканер-копир",
+        "сканирование старых фотографий в цифровые файлы",
+        "приложение сканирования на камере смартфона",
+        "OCR распознавание текста с печатной страницы",
+        "высококачественное сканирование для архивирования",
+        "сканер подключён к компьютеру через USB",
+        "юридический документ отсканирован для цифровой подписи",
+        "фотосканер для сохранения семейных воспоминаний"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a scanner icon for the document digitize feature",
+        "add a scan symbol to the import documents section",
+        "show a scanner for the image capture screen",
+        "use the scanner-image icon for the OCR feature"
+      ],
+      "ru": [
+        "мне нужна иконка сканера для функции оцифровки документов",
+        "добавь символ сканирования в раздел импорта документов",
+        "покажи сканер для экрана захвата изображения",
+        "используй иконку сканера для функции OCR"
+      ]
+    },
+    "typo": {
+      "en": [
+        "flatbde scanner digitizing documents",
+        "scaner lid open with photo on glass",
+        "documet scanning app on smartphone",
+        "hihg resolution image scan for archive"
+      ],
+      "ru": [
+        "планшентый сканер оцифровывает документы",
+        "крышка скнера открыта с фото на стекле",
+        "приложение сканировния на смартфоне",
+        "высококачественное сканироввание для архива"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "printer printing page from inkjet cartridge",
+        "camera taking photo of document on desk",
+        "photocopier making duplicate of original",
+        "fax machine sending document over phone line",
+        "shredder destroying confidential paper",
+        "USB flash drive for file transfer"
+      ],
+      "ru": [
+        "принтер печатает страницу из картриджа",
+        "камера фотографирует документ на столе",
+        "ксерокс делает копию оригинала",
+        "факс отправляет документ по телефонной линии",
+        "шредер уничтожает конфиденциальные бумаги",
+        "USB-флешка для передачи файлов"
+      ]
+    },
+    "valid": {
+      "en": [
+        "flatbed scanner digitizing paper documents",
+        "scan image to import into application",
+        "document scanner for digitizing records"
+      ],
+      "ru": [
+        "планшетный сканер оцифровывает документы",
+        "сканирование изображения для импорта",
+        "сканер документов для оцифровки записей"
+      ]
+    },
+    "test": {
+      "en": [
+        "scanner device capturing paper as digital image",
+        "scan old photos to preserve memories",
+        "OCR scanner reading text from page"
+      ],
+      "ru": [
+        "сканер захватывает бумагу как цифровое изображение",
+        "сканирование старых фото для сохранения",
+        "OCR сканер считывает текст со страницы"
+      ]
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "icon": "code",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "brackets",
+        "code",
+        "development",
+        "html",
+        "mysql",
+        "sql"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Open and close brackets properly",
+        "Use correct brackets in the code",
+        "Write clean code today",
+        "Review the code before deploying",
+        "Start a new development project",
+        "Work on app development",
+        "Write HTML for the webpage",
+        "Learn HTML basics",
+        "Optimize the MySQL database",
+        "Write a MySQL query",
+        "Optimize the SQL query",
+        "Write a SQL script for the database"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Fix the bug in the app",
+        "Write code for the new feature",
+        "Review the pull request",
+        "Set up the development environment",
+        "Refactor old code",
+        "Learn a new programming language",
+        "Debug the failing tests",
+        "Write unit tests",
+        "Update the code documentation",
+        "Deploy the new version"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Time to code",
+        "Fix that bug",
+        "Dev work today",
+        "Write some code"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wriet the html code",
+        "fixe the bug in code",
+        "develoment project setup",
+        "SQL databse query"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Design the app user interface",
+        "Create a database schema diagram",
+        "Write the project documentation",
+        "Set up cloud infrastructure",
+        "Configure the server settings",
+        "Manage the codebase on GitHub"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Write code for the new feature",
+        "Fix the bug in the codebase",
+        "Review the HTML structure"
+      ]
+    },
+    "test": {
+      "en": [
+        "Start a new coding project",
+        "Debug the application",
+        "Optimize the SQL queries"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "icon": "mosquito",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bite",
+        "bug",
+        "mosquito",
+        "west nile"
+      ],
+      "ru": [
+        "укус",
+        "насекомое",
+        "комар",
+        "западный Нил"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "mosquito bite on arm",
+        "itchy bite from mosquito",
+        "bug spray to repel mosquitoes",
+        "flying bug in summer",
+        "mosquito buzzing near ear",
+        "mosquito sucking blood",
+        "west nile virus spread by mosquito",
+        "west nile disease prevention"
+      ],
+      "ru": [
+        "укус комара на руке",
+        "зудящий укус от комара",
+        "спрей от насекомых для отпугивания комаров",
+        "летающее насекомое летом",
+        "комар жужжащий у уха",
+        "комар сосущий кровь",
+        "вирус западного Нила распространяемый комаром",
+        "профилактика болезни западного Нила"
+      ]
+    },
+    "regular": {
+      "en": [
+        "mosquito insect with long legs and proboscis",
+        "mosquito repellent spray for outdoor protection",
+        "malaria-carrying mosquito in tropical region",
+        "mosquito net over a bed",
+        "itchy red bump from a mosquito bite",
+        "dengue fever spread by Aedes mosquito",
+        "mosquito season warning in summer",
+        "insect borne disease mosquito icon",
+        "blood-sucking flying insect",
+        "mosquito trap or repellent device"
+      ],
+      "ru": [
+        "комар с длинными ногами и хоботком",
+        "спрей-репеллент от комаров для защиты на улице",
+        "комар переносящий малярию в тропическом регионе",
+        "противомоскитная сетка над кроватью",
+        "зудящая красная шишка от укуса комара",
+        "лихорадка денге распространяемая комаром Аэдес",
+        "предупреждение о сезоне комаров летом",
+        "иконка комара переносящего болезни",
+        "кровососущее летающее насекомое",
+        "ловушка или устройство от комаров"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a mosquito icon for the bug repellent app",
+        "add a mosquito symbol to the disease prevention section",
+        "show a mosquito for the summer health warning",
+        "use the mosquito icon for the insect bite tracker"
+      ],
+      "ru": [
+        "Мне нужна иконка комара для приложения репеллента",
+        "добавить символ комара в раздел профилактики болезней",
+        "показать комара для летнего предупреждения о здоровье",
+        "использовать иконку комара для трекера укусов насекомых"
+      ]
+    },
+    "typo": {
+      "en": [
+        "mosquto bite",
+        "mosqiuto repellent",
+        "wets nile mosquito",
+        "bugg mosquito"
+      ],
+      "ru": [
+        "комра укус",
+        "мокситоо репеллент",
+        "западный Нли комар",
+        "насекоме комар"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "bee sting and honeybee insect",
+        "fly buzzing around food",
+        "ant carrying food on ground",
+        "spider web and spider",
+        "butterfly in garden",
+        "tick insect for Lyme disease"
+      ],
+      "ru": [
+        "ужаление пчелы и медоносная пчела",
+        "муха жужжащая вокруг еды",
+        "муравей несущий еду по земле",
+        "паутина и паук",
+        "бабочка в саду",
+        "клещ насекомое для болезни Лайма"
+      ]
+    },
+    "valid": {
+      "en": [
+        "mosquito insect icon",
+        "mosquito bite prevention",
+        "flying bug mosquito"
+      ],
+      "ru": [
+        "иконка насекомого комара",
+        "профилактика укусов комаров",
+        "летающее насекомое комар"
+      ]
+    },
+    "test": {
+      "en": [
+        "mosquito icon",
+        "insect bite mosquito",
+        "west nile mosquito symbol"
+      ],
+      "ru": [
+        "иконка комара",
+        "укус насекомого комар",
+        "символ комара западного Нила"
+      ]
+    }
+  }
+}

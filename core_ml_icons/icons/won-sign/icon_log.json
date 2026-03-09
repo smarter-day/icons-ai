@@ -1,0 +1,130 @@
+{
+  "icon": "won-sign",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Won Sign",
+        "currency"
+      ],
+      "ru": [
+        "знак вона",
+        "валюта"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Korean Won Sign symbol",
+        "KRW Won Sign payment",
+        "currency exchange rate",
+        "foreign currency symbol"
+      ],
+      "ru": [
+        "символ знака корейского вона",
+        "оплата знаком вона KRW",
+        "обменный курс валюты",
+        "символ иностранной валюты"
+      ]
+    },
+    "regular": {
+      "en": [
+        "South Korean won currency symbol",
+        "KRW Korean monetary unit sign",
+        "won payment amount display",
+        "Seoul financial currency marker",
+        "Korean economy monetary symbol",
+        "price tag in Korean won",
+        "won to dollar exchange rate",
+        "won sign on price display",
+        "Korean e-commerce currency",
+        "bank account won balance"
+      ],
+      "ru": [
+        "символ валюты южнокорейского вона",
+        "знак денежной единицы KRW",
+        "отображение суммы оплаты в вонах",
+        "маркер финансовой валюты Сеула",
+        "денежный символ экономики Кореи",
+        "ценник в корейских вонах",
+        "курс вона к доллару",
+        "знак вона на отображении цены",
+        "валюта корейской электронной торговли",
+        "баланс банковского счёта в вонах"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a won sign icon for the Korean currency section",
+        "add a won symbol to the payment options",
+        "show the won sign for Korean pricing",
+        "use the won icon for currency conversion"
+      ],
+      "ru": [
+        "мне нужна иконка знака вона для раздела корейской валюты",
+        "добавь символ вона в варианты оплаты",
+        "покажи знак вона для корейских цен",
+        "используй иконку вона для конвертации валюты"
+      ]
+    },
+    "typo": {
+      "en": [
+        "won sgin currency Korea",
+        "currnecy won sign KRW",
+        "koraen won currency symbol",
+        "won curency exchange rate"
+      ],
+      "ru": [
+        "знак вона вулюта Корея",
+        "валтюа знак вона KRW",
+        "корескяий вон символ валюты",
+        "вон обменный курс вылюта"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Japanese yen currency symbol",
+        "US dollar sign currency",
+        "Euro currency symbol",
+        "Chinese yuan renminbi sign",
+        "British pound sterling symbol",
+        "Indian rupee currency icon"
+      ],
+      "ru": [
+        "символ японской иены",
+        "знак доллара США",
+        "символ евро",
+        "знак юаня КНР жэньминьби",
+        "символ британского фунта стерлингов",
+        "иконка индийской рупии"
+      ]
+    },
+    "valid": {
+      "en": [
+        "South Korean won currency symbol",
+        "KRW Korean monetary sign",
+        "won currency payment icon"
+      ],
+      "ru": [
+        "символ валюты южнокорейского вона",
+        "знак корейской валюты KRW",
+        "иконка оплаты в вонах"
+      ]
+    },
+    "test": {
+      "en": [
+        "Korean won sign currency",
+        "won symbol payment",
+        "South Korean currency won sign"
+      ],
+      "ru": [
+        "знак корейского вона валюта",
+        "символ вона оплата",
+        "знак валюты Южной Кореи вон"
+      ]
+    }
+  }
+}

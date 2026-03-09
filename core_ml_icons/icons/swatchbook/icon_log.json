@@ -1,0 +1,148 @@
+{
+  "icon": "swatchbook",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Pantone",
+        "color",
+        "design",
+        "hue",
+        "palette"
+      ],
+      "ru": [
+        "Пантон",
+        "цвет",
+        "дизайн",
+        "оттенок",
+        "палитра"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Pantone color swatch book",
+        "Pantone matching system designer",
+        "color swatch book selection",
+        "color chip comparison book",
+        "design color reference swatchbook",
+        "design tool color swatches",
+        "hue selection swatchbook",
+        "complementary hue swatch",
+        "color palette swatchbook designer",
+        "palette fan book"
+      ],
+      "ru": [
+        "книга образцов цветов Пантон",
+        "система подбора цветов Пантон дизайнер",
+        "книга образцов цвета выбор",
+        "сравнение цветовых чипов",
+        "образцы цветов дизайн справочник",
+        "инструмент дизайна цветовые образцы",
+        "выбор оттенка книга образцов",
+        "дополнительный оттенок образец",
+        "палитра цветов книга образцов дизайнер",
+        "веерная книга палитры"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Pantone fan deck color reference",
+        "interior designer choosing paint swatches",
+        "graphic designer swatchbook on desk",
+        "fabric color swatch book for fashion",
+        "paint store color chip selection",
+        "brand color guide swatchbook",
+        "print shop Pantone matching colors",
+        "architectural finish swatch selection",
+        "digital swatchbook color palette app",
+        "wedding planner color swatch matching"
+      ],
+      "ru": [
+        "веер Пантон цветовой справочник",
+        "дизайнер интерьеров выбирает образцы краски",
+        "книга образцов графического дизайнера на столе",
+        "книга образцов ткани для моды",
+        "магазин красок выбор цветных чипов",
+        "руководство по брендовым цветам книга образцов",
+        "типография подбор цветов Пантон",
+        "выбор отделочного образца архитектуры",
+        "цифровая книга образцов приложение палитры",
+        "свадебный планировщик подбор цветовых образцов"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a swatchbook icon for the color picker",
+        "add a palette symbol to the design tools",
+        "show a swatchbook for the brand colors section",
+        "use the swatchbook icon for the theme editor"
+      ],
+      "ru": [
+        "нужна иконка книги образцов для палитры цветов",
+        "добавь символ палитры в инструменты дизайна",
+        "покажи книгу образцов для раздела цветов бренда",
+        "используй иконку книги образцов для редактора темы"
+      ]
+    },
+    "typo": {
+      "en": [
+        "swtachbook pantone",
+        "colur swatch book",
+        "desgin palette swatches",
+        "hue swatchbok"
+      ],
+      "ru": [
+        "книга образцов Пантон",
+        "кинга образцов цвета",
+        "палитра дизайн образцы",
+        "оттенок образцы"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "color palette circles on screen",
+        "paint brush on canvas creative",
+        "color wheel circular spectrum",
+        "eyedropper tool pick color",
+        "gradient smooth color transition",
+        "marker highlighter color set"
+      ],
+      "ru": [
+        "палитра цветов круги на экране",
+        "кисть на холсте творческий",
+        "цветовой круг спектр",
+        "пипетка инструмент выбрать цвет",
+        "градиент плавный переход цвета",
+        "маркер хайлайтер набор цветов"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Pantone swatchbook color reference",
+        "color swatch book designer",
+        "palette fan deck"
+      ],
+      "ru": [
+        "книга образцов Пантон цветовой справочник",
+        "книга образцов цвета дизайнера",
+        "веер палитры"
+      ]
+    },
+    "test": {
+      "en": [
+        "swatchbook icon design",
+        "color swatch palette",
+        "Pantone color book"
+      ],
+      "ru": [
+        "иконка книги образцов дизайн",
+        "образец цветовой палитры",
+        "книга цветов Пантон"
+      ]
+    }
+  }
+}

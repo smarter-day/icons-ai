@@ -1,0 +1,93 @@
+{
+  "icon": "dice",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "chance",
+        "dice",
+        "die",
+        "gambling",
+        "game",
+        "game die",
+        "roll"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Take a chance on the game",
+        "Leave it to chance",
+        "Roll the dice to move",
+        "Buy a set of dice for the game",
+        "Roll the die for your turn",
+        "Throw the die and move",
+        "Try your luck at gambling",
+        "Avoid gambling problems",
+        "Play a board game tonight",
+        "Set up the game for family night",
+        "Roll the game die for your turn",
+        "Use the game die to decide",
+        "Roll the dice at the start",
+        "Roll again for a double"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Play a board game with the family",
+        "Roll the dice for your turn",
+        "Host a game night",
+        "Buy a new board game",
+        "Set up Dungeons and Dragons",
+        "Decide who goes first by rolling",
+        "Play Yahtzee tonight",
+        "Try a new dice game",
+        "Bring dice to the camping trip",
+        "Play a casino game"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Roll the dice!",
+        "Game night",
+        "Take a chance",
+        "Board game time"
+      ]
+    },
+    "typo": {
+      "en": [
+        "rol the diec",
+        "borad game night",
+        "play with dise",
+        "gambling at the casnio"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Play a card game with friends",
+        "Spin the wheel on the game show",
+        "Play chess with a partner",
+        "Flip a coin to decide",
+        "Play dominoes",
+        "Deal cards for poker night"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Roll the dice for your turn",
+        "Host a board game night",
+        "Play Yahtzee with friends"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy a new board game",
+        "Set up the dice game",
+        "Play a dice game tonight"
+      ]
+    }
+  }
+}

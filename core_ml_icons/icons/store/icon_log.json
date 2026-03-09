@@ -1,0 +1,160 @@
+{
+  "icon": "store",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bodega",
+        "building",
+        "buy",
+        "market",
+        "purchase",
+        "shopping",
+        "store"
+      ],
+      "ru": [
+        "бодега",
+        "здание",
+        "купить",
+        "рынок",
+        "покупка",
+        "шоппинг",
+        "магазин"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bodega corner store New York",
+        "bodega cat at neighborhood store",
+        "store building exterior facade",
+        "commercial building store front",
+        "buy now button online store",
+        "buy items at store",
+        "local market fresh produce",
+        "grocery market shopping",
+        "purchase history transaction",
+        "complete purchase checkout",
+        "shopping cart full of items",
+        "shopping spree at mall",
+        "store location nearby map",
+        "convenience store open late"
+      ],
+      "ru": [
+        "бодега угловой магазин Нью-Йорк",
+        "кот в бодеге в соседнем магазине",
+        "фасад здания магазина снаружи",
+        "фасад коммерческого здания",
+        "кнопка купить сейчас онлайн-магазин",
+        "купить товары в магазине",
+        "местный рынок свежие продукты",
+        "продуктовый рынок шоппинг",
+        "история покупок транзакции",
+        "завершить покупку на кассе",
+        "тележка для покупок полная",
+        "шоппинг в торговом центре",
+        "расположение магазина поблизости на карте",
+        "круглосуточный магазин открыт допоздна"
+      ]
+    },
+    "regular": {
+      "en": [
+        "brick and mortar retail store front",
+        "grocery store aisle with shelves",
+        "online store website product listing",
+        "department store multiple floors",
+        "convenience store 24 hours open",
+        "pop-up store temporary retail space",
+        "store grand opening ribbon cutting",
+        "clothing store window display",
+        "pet store aquarium fish display",
+        "app store icon download apps"
+      ],
+      "ru": [
+        "витрина обычного розничного магазина",
+        "проход супермаркета с полками",
+        "онлайн-магазин список товаров",
+        "универмаг несколько этажей",
+        "круглосуточный магазин открыт",
+        "поп-ап магазин временное торговое пространство",
+        "торжественное открытие магазина разрезание ленточки",
+        "витрина магазина одежды",
+        "зоомагазин аквариум с рыбками",
+        "иконка магазина приложений скачать"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a store icon for the shopping section",
+        "add a market symbol to the local discovery feature",
+        "show a store for the retail category",
+        "use the store icon for the purchase history screen"
+      ],
+      "ru": [
+        "нужна иконка магазина для раздела шоппинга",
+        "добавь символ рынка к функции поиска местных мест",
+        "покажи магазин для категории розничной торговли",
+        "используй иконку магазина для экрана истории покупок"
+      ]
+    },
+    "typo": {
+      "en": [
+        "grcoery store nearby",
+        "shoping market items",
+        "purhcase at store",
+        "stoer building"
+      ],
+      "ru": [
+        "продуктовый магазин рядом",
+        "торговый рыно вещи",
+        "покупка в магзине",
+        "здание магазна"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "shopping cart with wheels wheels online",
+        "warehouse large storage building",
+        "bank building financial institution",
+        "hospital building medical facility",
+        "school building education",
+        "factory industrial building"
+      ],
+      "ru": [
+        "онлайн тележка для покупок колёса",
+        "склад большое складское здание",
+        "банковское здание финансовое учреждение",
+        "здание больницы медицинское учреждение",
+        "школьное здание образование",
+        "заводское промышленное здание"
+      ]
+    },
+    "valid": {
+      "en": [
+        "retail store building icon",
+        "shopping market symbol",
+        "store for buying items"
+      ],
+      "ru": [
+        "иконка здания розничного магазина",
+        "символ торгового рынка",
+        "магазин для покупок"
+      ]
+    },
+    "test": {
+      "en": [
+        "store icon shopping",
+        "market building symbol",
+        "convenience store icon"
+      ],
+      "ru": [
+        "иконка магазина шоппинг",
+        "символ торгового здания",
+        "иконка магазина шаговой доступности"
+      ]
+    }
+  }
+}

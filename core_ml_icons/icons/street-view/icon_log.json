@@ -1,0 +1,148 @@
+{
+  "icon": "street-view",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "directions",
+        "location",
+        "map",
+        "navigation",
+        "uer"
+      ],
+      "ru": [
+        "маршруты",
+        "местоположение",
+        "карта",
+        "навигация",
+        "пользователь"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "directions from street view",
+        "turn by turn directions walking",
+        "street view location pin dropped",
+        "360 location view",
+        "map street view panorama",
+        "street level map view",
+        "navigation street view mode",
+        "driving navigation street view",
+        "user on map street view",
+        "person icon on map"
+      ],
+      "ru": [
+        "маршруты из вида улицы",
+        "пошаговые маршруты пешком",
+        "маркер местоположения на виде улицы",
+        "панорамный вид местоположения 360",
+        "панорама карты на уровне улицы",
+        "вид карты на уровне улицы",
+        "режим навигации вид улицы",
+        "навигация вождения вид улицы",
+        "пользователь на карте вид улицы",
+        "иконка человека на карте"
+      ]
+    },
+    "regular": {
+      "en": [
+        "google maps street view pegman",
+        "360 degree panoramic street view",
+        "walking person icon dropped on map",
+        "explore neighborhood via street view",
+        "virtual tour of city street view",
+        "street view camera car capture",
+        "business interior street view",
+        "find address via street level view",
+        "pedestrian navigation street level",
+        "drag and drop person on map for street view"
+      ],
+      "ru": [
+        "Google Карты персонаж пегмэн вид улицы",
+        "панорамный вид улицы 360 градусов",
+        "иконка идущего человека на карте",
+        "изучить район через вид улицы",
+        "виртуальный тур по городу вид улицы",
+        "автомобиль с камерой для съёмки улиц",
+        "интерьер магазина вид улицы",
+        "найти адрес через вид с уровня улицы",
+        "пешеходная навигация уровень улицы",
+        "перетащить человека на карту для просмотра улицы"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a street-view icon for the map navigation",
+        "add a street view symbol to the location feature",
+        "show street view for the explore nearby option",
+        "use the street view icon for the walking mode"
+      ],
+      "ru": [
+        "нужна иконка уличного обзора для навигации по карте",
+        "добавь символ вида улицы к функции местоположения",
+        "покажи вид улицы для опции исследования окрестностей",
+        "используй иконку уличного обзора для режима пешехода"
+      ]
+    },
+    "typo": {
+      "en": [
+        "steet view navigation",
+        "streeet view map",
+        "navigaiton street view",
+        "locaiton street"
+      ],
+      "ru": [
+        "вид улицы навигция",
+        "панорма улицы карта",
+        "навигация вид улцы",
+        "местоположение улица"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "location pin dropped on map",
+        "map with route plotted",
+        "satellite aerial view from above",
+        "compass pointing north on map",
+        "navigation arrow pointing direction",
+        "person walking pedestrian symbol"
+      ],
+      "ru": [
+        "маркер местоположения на карте",
+        "карта с проложенным маршрутом",
+        "спутниковый вид сверху",
+        "компас указывает север на карте",
+        "стрелка навигации указывает направление",
+        "идущий человек пешеходный символ"
+      ]
+    },
+    "valid": {
+      "en": [
+        "street view map navigation icon",
+        "360 street view walking",
+        "person on map explore"
+      ],
+      "ru": [
+        "иконка навигации вид улицы на карте",
+        "панорама улицы пешком",
+        "человек на карте исследование"
+      ]
+    },
+    "test": {
+      "en": [
+        "street view icon map",
+        "walking navigation symbol",
+        "street level view"
+      ],
+      "ru": [
+        "иконка вид улицы карта",
+        "символ пешеходной навигации",
+        "вид с уровня улицы"
+      ]
+    }
+  }
+}

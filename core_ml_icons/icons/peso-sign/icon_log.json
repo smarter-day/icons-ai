@@ -1,0 +1,130 @@
+{
+  "icon": "peso-sign",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Peso Sign",
+        "currency"
+      ],
+      "ru": [
+        "знак песо",
+        "валюта"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Mexican peso sign currency symbol",
+        "Philippine peso currency sign",
+        "currency exchange peso rate",
+        "local currency peso symbol"
+      ],
+      "ru": [
+        "знак мексиканского песо символ валюты",
+        "знак валюты филиппинского песо",
+        "обмен валюты курс песо",
+        "символ местной валюты песо"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Philippine or Mexican peso currency sign",
+        "peso symbol in price tag",
+        "Latin American peso currency icon",
+        "exchange rate showing peso value",
+        "payment in pesos currency",
+        "price shown in Mexican pesos",
+        "financial app peso currency symbol",
+        "shopping price in Philippine pesos",
+        "peso sign for commerce app",
+        "currency converter showing peso"
+      ],
+      "ru": [
+        "знак валюты филиппинского или мексиканского песо",
+        "символ песо на ценнике",
+        "иконка валюты латиноамериканского песо",
+        "обменный курс показывающий стоимость песо",
+        "оплата в валюте песо",
+        "цена в мексиканских песо",
+        "символ валюты песо в финансовом приложении",
+        "цена в филиппинских песо",
+        "знак песо для коммерческого приложения",
+        "конвертер валют показывающий песо"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a peso sign icon for the currency section",
+        "add a peso symbol to the financial app",
+        "show a peso sign for the price display",
+        "use the peso icon for the payment screen"
+      ],
+      "ru": [
+        "Мне нужна иконка знака песо для раздела валюты",
+        "добавить символ песо в финансовое приложение",
+        "показать знак песо для отображения цены",
+        "использовать иконку песо для экрана оплаты"
+      ]
+    },
+    "typo": {
+      "en": [
+        "peos sign currency",
+        "curency peso",
+        "pesoo symbol",
+        "peso currecny sign"
+      ],
+      "ru": [
+        "знак пессо",
+        "валюта пеcо",
+        "симовл песо",
+        "песо валюта знак"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "dollar sign US currency",
+        "euro sign European currency",
+        "pound sterling British currency",
+        "yen Japanese currency symbol",
+        "rupee Indian currency sign",
+        "bitcoin cryptocurrency symbol"
+      ],
+      "ru": [
+        "знак доллара американская валюта",
+        "знак евро европейская валюта",
+        "фунт стерлингов британская валюта",
+        "иена японский символ валюты",
+        "рупия индийский знак валюты",
+        "символ криптовалюты биткоин"
+      ]
+    },
+    "valid": {
+      "en": [
+        "peso currency symbol",
+        "Mexican or Philippine peso sign",
+        "peso payment icon"
+      ],
+      "ru": [
+        "символ валюты песо",
+        "знак мексиканского или филиппинского песо",
+        "иконка оплаты песо"
+      ]
+    },
+    "test": {
+      "en": [
+        "peso sign icon",
+        "currency peso symbol",
+        "peso payment"
+      ],
+      "ru": [
+        "иконка знака песо",
+        "символ валюты песо",
+        "оплата песо"
+      ]
+    }
+  }
+}

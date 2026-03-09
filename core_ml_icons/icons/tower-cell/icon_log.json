@@ -1,0 +1,160 @@
+{
+  "icon": "tower-cell",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "airwaves",
+        "antenna",
+        "communication",
+        "radio",
+        "reception",
+        "signal",
+        "waves"
+      ],
+      "ru": [
+        "эфир",
+        "антенна",
+        "связь",
+        "радио",
+        "приём",
+        "сигнал",
+        "волны"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "airwaves cell tower 5G",
+        "cell tower airwaves mobile",
+        "cell tower antenna structure",
+        "antenna cell tower mounted",
+        "communication cell tower network",
+        "cell network communication tower",
+        "radio frequency cell tower band",
+        "cell tower radio waves",
+        "reception bars cell tower signal",
+        "cell tower reception area",
+        "signal strength cell tower bars",
+        "cell tower signal boost",
+        "waves emitting cell tower",
+        "mobile waves cell tower"
+      ],
+      "ru": [
+        "эфир сотовая вышка 5G",
+        "сотовая вышка эфир мобильный",
+        "структура сотовой вышки антенна",
+        "антенна установлена на вышке",
+        "сеть сотовой вышки связь",
+        "сотовая сеть коммуникационная башня",
+        "радиочастота сотовой вышки полоса",
+        "радиоволны сотовой вышки",
+        "полоски приёма сотовой вышки",
+        "зона приёма сотовой вышки",
+        "сила сигнала вышки полоски",
+        "усилитель сигнала сотовой вышки",
+        "волны исходят из сотовой вышки",
+        "мобильные волны сотовая вышка"
+      ]
+    },
+    "regular": {
+      "en": [
+        "cell tower with 4G 5G antennas",
+        "mobile network cell tower suburban",
+        "dead zone no cell tower coverage",
+        "cell tower on rooftop urban",
+        "remote area cell tower expansion",
+        "cell tower maintenance crew climb",
+        "disguised tree cell tower stealth",
+        "cell tower signal map coverage",
+        "indoor cell tower femtocell device",
+        "5G cell tower new installation"
+      ],
+      "ru": [
+        "сотовая вышка с антеннами 4G 5G",
+        "сотовая вышка мобильной сети пригород",
+        "мёртвая зона нет покрытия сотовой вышки",
+        "сотовая вышка на крыше городская",
+        "расширение сотовой вышки в отдалённом районе",
+        "обслуживание сотовой вышки рабочие лезут",
+        "замаскированная под дерево сотовая вышка",
+        "карта покрытия сигнала сотовой вышки",
+        "фемтосотовое устройство внутри помещения",
+        "новая установка сотовой вышки 5G"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a cell tower icon for the network status",
+        "add an antenna symbol to the connectivity section",
+        "show a cell tower for the signal strength feature",
+        "use the tower-cell icon for the mobile coverage"
+      ],
+      "ru": [
+        "нужна иконка сотовой вышки для статуса сети",
+        "добавь символ антенны в раздел подключения",
+        "покажи сотовую вышку для функции силы сигнала",
+        "используй иконку сотовой вышки для мобильного покрытия"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cel tower signal bars",
+        "sinal cell tower 5G",
+        "moble network tower",
+        "antena cell tower"
+      ],
+      "ru": [
+        "сотовая вышка полоски сигнала",
+        "сигнал сотовая вышка 5G",
+        "мобильная сеть вышка",
+        "антенна сотовая вышка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "broadcast tower radio TV signal",
+        "satellite dish curved receiver",
+        "WiFi router home network",
+        "signal bars mobile strength indicator",
+        "antenna rod single receiver",
+        "power line electricity transmission"
+      ],
+      "ru": [
+        "вещательная башня радио ТВ сигнал",
+        "спутниковая тарелка изогнутый приёмник",
+        "WiFi роутер домашняя сеть",
+        "полоски сигнала индикатор мобильной связи",
+        "одиночный стержень антенны приёмник",
+        "линия электропередачи передача электроэнергии"
+      ]
+    },
+    "valid": {
+      "en": [
+        "cell tower mobile network icon",
+        "5G antenna tower symbol",
+        "signal coverage tower"
+      ],
+      "ru": [
+        "иконка сотовой вышки мобильная сеть",
+        "символ антенной башни 5G",
+        "покрытие сигнала башня"
+      ]
+    },
+    "test": {
+      "en": [
+        "cell tower icon signal",
+        "mobile tower antenna",
+        "network coverage tower"
+      ],
+      "ru": [
+        "иконка сотовой вышки сигнал",
+        "мобильная вышка антенна",
+        "башня покрытия сети"
+      ]
+    }
+  }
+}

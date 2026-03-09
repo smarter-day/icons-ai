@@ -1,0 +1,154 @@
+{
+  "icon": "bone",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bone",
+        "calcium",
+        "dog",
+        "skeletal",
+        "skeleton",
+        "tibia"
+      ],
+      "ru": [
+        "кость",
+        "кальций",
+        "собака",
+        "скелетный",
+        "скелет",
+        "большеберцовая кость"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bone health checkup",
+        "take calcium supplements",
+        "buy dog bones",
+        "skeletal X-ray review",
+        "skeleton display for Halloween",
+        "tibia injury follow-up",
+        "Bone density scan scheduled",
+        "Calcium-rich foods for the meal plan",
+        "Dog bone treat in the shopping cart",
+        "Skeletal anatomy quiz prep for class",
+        "Skeleton costume for the Halloween party",
+        "Tibia fracture physio session booked"
+      ],
+      "ru": [
+        "обследование костей",
+        "принимать добавки с кальцием",
+        "купить кости для собаки",
+        "просмотр рентгена скелета",
+        "скелет на Хэллоуин",
+        "наблюдение после травмы большеберцовой кости",
+        "Плановое сканирование плотности костей",
+        "Продукты богатые кальцием в плане питания",
+        "Косточка для собаки в корзине покупок",
+        "Подготовка к викторине по анатомии скелета",
+        "Костюм скелета на Хэллоуин",
+        "Запись на физиотерапию по перелому большеберцовой кости"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy dog bones at the pet store",
+        "Take calcium supplements daily",
+        "Bone density scan appointment",
+        "Set up skeleton for Halloween",
+        "Fracture follow-up with doctor",
+        "Calcium-rich diet plan",
+        "Vet appointment for the dog",
+        "X-ray results for the bone",
+        "Halloween skeleton decorations",
+        "Physical therapy for bone recovery"
+      ],
+      "ru": [
+        "Купить кости для собаки в зоомагазине",
+        "Ежедневно принимать добавки с кальцием",
+        "Записаться на денситометрию",
+        "Поставить скелет на Хэллоуин",
+        "Консультация врача после перелома",
+        "Диета с высоким содержанием кальция",
+        "Запись к ветеринару для собаки",
+        "Результаты рентгена костей",
+        "Украшения в виде скелета на Хэллоуин",
+        "Физиотерапия после травмы кости"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "My dog goes crazy for bones",
+        "I need to take my calcium supplements",
+        "Let's put the skeleton out for Halloween",
+        "The doctor wants to check my bone density"
+      ],
+      "ru": [
+        "Моя собака обожает кости",
+        "Надо принять добавки с кальцием",
+        "Давай поставим скелет на Хэллоуин",
+        "Врач хочет проверить плотность костей"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Buy dgo bones at the pet stroe",
+        "Take calicum supplemens",
+        "Bone densty scan appointmnt",
+        "Skletan decoratons for Hallowen"
+      ],
+      "ru": [
+        "Купить косьти для соабки",
+        "Принять кальцей-добавки",
+        "Записатсья на денситометию",
+        "Декорации со скелтоном на Хэлоуин"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Vet appointment for the dog",
+        "Calcium milk for breakfast",
+        "Halloween skull decoration",
+        "Anatomy study session",
+        "Medical X-ray review",
+        "Pet supplies run"
+      ],
+      "ru": [
+        "Запись к ветеринару для собаки",
+        "Молоко с кальцием на завтрак",
+        "Украшение с черепом на Хэллоуин",
+        "Занятие по анатомии",
+        "Просмотр медицинского рентгена",
+        "Покупки для питомца"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Buy dog bones at the pet store",
+        "Bone density scan appointment",
+        "Calcium supplement reminder"
+      ],
+      "ru": [
+        "Купить кости для собаки в зоомагазине",
+        "Записаться на денситометрию",
+        "Напоминание о добавке кальция"
+      ]
+    },
+    "test": {
+      "en": [
+        "Halloween skeleton setup",
+        "X-ray results from the bone scan",
+        "Take calcium tablet tonight"
+      ],
+      "ru": [
+        "Установка скелета на Хэллоуин",
+        "Результаты рентгена костей",
+        "Принять таблетку кальция сегодня вечером"
+      ]
+    }
+  }
+}

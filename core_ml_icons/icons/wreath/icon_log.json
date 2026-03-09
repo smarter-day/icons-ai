@@ -1,0 +1,154 @@
+{
+  "icon": "wreath",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "christmas",
+        "decoration",
+        "door",
+        "holiday",
+        "welcome",
+        "xmas"
+      ],
+      "ru": [
+        "рождество",
+        "украшение",
+        "дверь",
+        "праздник",
+        "приветствие",
+        "рождество"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "christmas wreath ornament",
+        "christmas holiday decoration",
+        "festive decoration ring",
+        "home decoration wreath",
+        "front door wreath hanging",
+        "door knocker wreath",
+        "holiday season festivity",
+        "winter holiday symbol",
+        "welcome to our home",
+        "warm welcome gesture",
+        "xmas tree decoration",
+        "xmas season celebration"
+      ],
+      "ru": [
+        "рождественский венок украшение",
+        "рождественское праздничное украшение",
+        "праздничное кольцо украшений",
+        "венок для украшения дома",
+        "венок на входной двери",
+        "венок дверной молоток",
+        "торжественность праздничного сезона",
+        "символ зимнего праздника",
+        "добро пожаловать в наш дом",
+        "жест тёплого приветствия",
+        "украшение рождественской ёлки",
+        "празднование рождественского сезона"
+      ]
+    },
+    "regular": {
+      "en": [
+        "circular evergreen wreath with bow",
+        "holiday wreath hung on door",
+        "Christmas wreath with red berries",
+        "pine branch circular decoration",
+        "festive wreath with ribbon bow",
+        "autumn harvest wreath leaves",
+        "spring flower wreath garland",
+        "winter solstice wreath decoration",
+        "memorial wreath laying ceremony",
+        "eucalyptus wreath boho decor"
+      ],
+      "ru": [
+        "круглый вечнозелёный венок с бантом",
+        "праздничный венок на двери",
+        "рождественский венок с красными ягодами",
+        "круглое украшение из веток сосны",
+        "праздничный венок с лентой",
+        "осенний урожайный венок из листьев",
+        "весенний цветочный венок-гирлянда",
+        "зимнее украшение к солнцестоянию",
+        "траурная церемония возложения венков",
+        "бохо-декор венок из эвкалипта"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a wreath icon for the Christmas section",
+        "add a wreath symbol to the holiday decorations",
+        "show a wreath for the seasonal event category",
+        "use the wreath icon for the holiday greeting card"
+      ],
+      "ru": [
+        "мне нужна иконка венка для рождественского раздела",
+        "добавь символ венка в праздничные украшения",
+        "покажи венок для категории сезонных мероприятий",
+        "используй иконку венка для праздничной открытки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "christams wreath decoration",
+        "wreth holiday door decor",
+        "xmas wreeth circular green",
+        "holdiay wreath ornament"
+      ],
+      "ru": [
+        "рождетство венок украшение",
+        "венок праздник дверь декор",
+        "рождетво зелёный крулгый венок",
+        "прзадник украшение венок"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "decorated Christmas tree with star",
+        "holly leaves with red berries",
+        "string lights garland decoration",
+        "star ornament Christmas decoration",
+        "mistletoe sprig holiday tradition",
+        "pine cone autumn nature decor"
+      ],
+      "ru": [
+        "украшенная рождественская ёлка со звездой",
+        "листья падуба с красными ягодами",
+        "праздничная гирлянда из лампочек",
+        "звезда-украшение рождественский декор",
+        "ветка омелы рождественская традиция",
+        "шишка осеннее природное украшение"
+      ]
+    },
+    "valid": {
+      "en": [
+        "circular holiday wreath decoration",
+        "Christmas wreath hung on door",
+        "festive evergreen wreath symbol"
+      ],
+      "ru": [
+        "круглое праздничное украшение венок",
+        "рождественский венок на двери",
+        "символ праздничного вечнозелёного венка"
+      ]
+    },
+    "test": {
+      "en": [
+        "holiday wreath Christmas icon",
+        "door wreath decoration",
+        "festive wreath circle symbol"
+      ],
+      "ru": [
+        "иконка рождественского праздничного венка",
+        "украшение венок на дверь",
+        "символ круглого праздничного венка"
+      ]
+    }
+  }
+}

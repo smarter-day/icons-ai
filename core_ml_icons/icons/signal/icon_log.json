@@ -1,0 +1,180 @@
+{
+  "icon": "signal",
+  "rows": {
+    "train_en": 55,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "antenna",
+        "antenna bars",
+        "bar",
+        "bars",
+        "cell",
+        "graph",
+        "mobile",
+        "online",
+        "phone",
+        "reception",
+        "status"
+      ],
+      "ru": [
+        "антенна",
+        "полосы антенны",
+        "полоска",
+        "полосы",
+        "сотовый",
+        "график",
+        "мобильный",
+        "онлайн",
+        "телефон",
+        "приём",
+        "статус"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "antenna signal bars on phone screen",
+        "cell antenna for mobile network",
+        "four antenna bars showing full signal",
+        "signal bars indicating strength",
+        "single bar low signal reception",
+        "full bars strong signal",
+        "cell signal bar indicator",
+        "cell tower providing coverage",
+        "graph showing signal strength over time",
+        "signal strength graph in settings",
+        "mobile signal indicator in status bar",
+        "mobile network signal bars",
+        "online status green signal indicator",
+        "device online with full signal",
+        "phone signal status display",
+        "no signal on phone screen",
+        "reception bars in remote area",
+        "poor reception one bar",
+        "status bar signal strength icon",
+        "network status signal display"
+      ],
+      "ru": [
+        "полосы сигнала антенны на экране телефона",
+        "антенна для мобильной сети",
+        "четыре полосы антенны полный сигнал",
+        "полосы сигнала показывают мощность",
+        "одна полоска слабый приём сигнала",
+        "полные полосы сильный сигнал",
+        "индикатор полос сотового сигнала",
+        "вышка сотовой связи покрытие",
+        "график мощности сигнала в настройках",
+        "отображение мощности сигнала",
+        "индикатор мобильного сигнала в строке состояния",
+        "полосы сети мобильного сигнала",
+        "зелёный индикатор онлайн-статуса",
+        "устройство онлайн с полным сигналом",
+        "отображение статуса сигнала телефона",
+        "нет сигнала на экране телефона",
+        "полосы приёма в удалённом районе",
+        "слабый приём одна полоска",
+        "иконка мощности сигнала в строке состояния",
+        "отображение статуса сети"
+      ]
+    },
+    "regular": {
+      "en": [
+        "cell signal bars showing four out of four",
+        "no signal icon when out of coverage",
+        "signal strength indicator in phone status bar",
+        "one bar signal in basement or elevator",
+        "full signal bars with 5G indicator",
+        "signal icon for wifi versus cellular",
+        "signal strength app testing reception",
+        "dropped call due to poor signal bars",
+        "roaming signal indicator in foreign country",
+        "5G signal bars on smartphone screen"
+      ],
+      "ru": [
+        "полосы сотового сигнала четыре из четырёх",
+        "иконка нет сигнала вне зоны покрытия",
+        "индикатор мощности сигнала в строке состояния",
+        "одна полоска сигнала в подвале или лифте",
+        "полные полосы с индикатором 5G",
+        "иконка сигнала Wi-Fi и сотового",
+        "приложение проверки мощности сигнала",
+        "сброс вызова из-за слабого сигнала",
+        "индикатор роуминга в чужой стране",
+        "полосы 5G на экране смартфона"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a signal icon for the network status bar",
+        "add signal bars to the connectivity section",
+        "show signal strength for the mobile reception feature",
+        "use the signal icon for the cell coverage indicator"
+      ],
+      "ru": [
+        "мне нужна иконка сигнала для строки состояния сети",
+        "добавь полосы сигнала в раздел подключения",
+        "покажи мощность сигнала для функции мобильного приёма",
+        "используй иконку сигнала для индикатора покрытия"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cell siganl bars showing four of four",
+        "no singal icon when out of coverage",
+        "signal strenght indicator in status bar",
+        "dropped call due to pore signal bars"
+      ],
+      "ru": [
+        "полосы сотвого сигнала четыре из четырёх",
+        "иконка нет сигнлаа вне зоны покрытия",
+        "индикатор мощности сигналь",
+        "сброс вызова из-за плохого сигнлаа"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "wifi signal bars fan shape indicator",
+        "bluetooth connection bars icon",
+        "battery life bars showing charge level",
+        "volume bar level indicator",
+        "loading bar progress percentage",
+        "network speed meter download upload"
+      ],
+      "ru": [
+        "иконка полос Wi-Fi в форме веера",
+        "иконка полос Bluetooth",
+        "полосы заряда батареи",
+        "индикатор уровня громкости",
+        "полоса прогресса загрузки",
+        "измеритель скорости сети загрузки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "signal bars for mobile reception",
+        "four-bar full signal indicator",
+        "no signal icon on phone screen"
+      ],
+      "ru": [
+        "полосы сигнала мобильного приёма",
+        "индикатор полного сигнала четыре полосы",
+        "иконка нет сигнала на экране"
+      ]
+    },
+    "test": {
+      "en": [
+        "cell signal strength bars icon",
+        "signal status bar on smartphone",
+        "5G signal bars indicator"
+      ],
+      "ru": [
+        "иконка полос мощности сотового сигнала",
+        "строка состояния сигнала смартфона",
+        "индикатор полос 5G"
+      ]
+    }
+  }
+}

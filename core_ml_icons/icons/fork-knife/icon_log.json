@@ -1,0 +1,96 @@
+{
+  "icon": "fork-knife",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cutlery",
+        "dining",
+        "dinner",
+        "eat",
+        "food",
+        "fork",
+        "knife",
+        "restaurant"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy a complete cutlery set",
+        "Polish the cutlery for the party",
+        "Reserve a table for dining",
+        "Enjoy a fine dining experience",
+        "Make dinner reservations",
+        "Cook dinner at home",
+        "Sit down to eat",
+        "Ready to eat dinner",
+        "Order food at the restaurant",
+        "Cook food for the family",
+        "Set the fork for the meal",
+        "Pick up the fork and start eating",
+        "Sharpen the kitchen knife",
+        "Use a knife to cut the meat",
+        "Book a table at the restaurant",
+        "Find a good restaurant nearby"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Go out for dinner",
+        "Book a restaurant for the anniversary",
+        "Set the table with fork and knife",
+        "Cook a three-course dinner",
+        "Find a restaurant near me",
+        "Make a dinner reservation",
+        "Try the new restaurant downtown",
+        "Eat out tonight",
+        "Prepare a home-cooked dinner",
+        "Order a meal at the restaurant"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Dinner time!",
+        "Eat out tonight",
+        "Book a restaurant",
+        "Table for two"
+      ]
+    },
+    "typo": {
+      "en": [
+        "book a restrant for dinner",
+        "go out fo dinner",
+        "set the tabel for dining",
+        "find a resturant nearby"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Set the table with just a fork",
+        "Use chopsticks for Asian food",
+        "Order takeout instead of dining out",
+        "Have a quick lunch at home",
+        "Use a spoon and fork for dessert",
+        "Eat breakfast with just a spoon"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Go out for dinner",
+        "Book a restaurant for the evening",
+        "Set the table with fork and knife"
+      ]
+    },
+    "test": {
+      "en": [
+        "Make a dinner reservation",
+        "Try the new restaurant downtown",
+        "Cook a three-course dinner"
+      ]
+    }
+  }
+}

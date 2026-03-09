@@ -1,0 +1,90 @@
+{
+  "icon": "hotel",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "hotel",
+        "inn",
+        "lodging",
+        "motel",
+        "resort",
+        "travel"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Book a hotel for the trip",
+        "Check hotel availability",
+        "Stay at a cozy inn",
+        "Find a bed and breakfast inn",
+        "Book lodging for the trip",
+        "Compare lodging options",
+        "Reserve a room at the motel",
+        "Stay at a motel on the road trip",
+        "Book a resort for the vacation",
+        "Relax at an all-inclusive resort",
+        "Plan the travel accommodations",
+        "Book travel and hotel together"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Book a hotel room online",
+        "Check into the hotel",
+        "Find a hotel near the venue",
+        "Compare hotel prices",
+        "Order room service at the hotel",
+        "Request a late checkout",
+        "Book a resort for the honeymoon",
+        "Find pet-friendly hotel",
+        "Stay at a boutique hotel",
+        "Use hotel points for a free night"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Book the hotel",
+        "Check in time",
+        "Hotel tonight",
+        "Resort vacation"
+      ]
+    },
+    "typo": {
+      "en": [
+        "book a hotle for trip",
+        "chekc into the hotell",
+        "find a hotle nera the venue",
+        "comprae hotle prices"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Rent an Airbnb apartment",
+        "Stay at a hostel",
+        "Book a camping site",
+        "Stay with family",
+        "Rent a vacation home",
+        "Book a cruise cabin"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Book a hotel room online",
+        "Check into the hotel",
+        "Find a hotel near the venue"
+      ]
+    },
+    "test": {
+      "en": [
+        "Compare hotel prices",
+        "Book a resort for vacation",
+        "Request a late checkout"
+      ]
+    }
+  }
+}

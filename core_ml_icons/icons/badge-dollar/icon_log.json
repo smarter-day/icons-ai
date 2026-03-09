@@ -1,0 +1,172 @@
+{
+  "icon": "badge-dollar",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "coupon",
+        "deal",
+        "discount",
+        "guarantee",
+        "investment",
+        "money",
+        "salary",
+        "save",
+        "usd"
+      ],
+      "ru": [
+        "купон",
+        "скидка",
+        "дисконт",
+        "гарантия",
+        "инвестиции",
+        "деньги",
+        "зарплата",
+        "сэкономить",
+        "доллар США"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "use coupon for the order",
+        "find a deal on electronics",
+        "get a discount on the subscription",
+        "check the money-back guarantee",
+        "review investment returns",
+        "save some money this month",
+        "check if salary is deposited",
+        "save on the next purchase",
+        "convert to USD",
+        "Coupon code for the online store",
+        "Deal alert for the travel booking",
+        "Discount code for the gym membership",
+        "Service guarantee claim for the appliance",
+        "Long-term investment strategy review",
+        "Track money spent this week",
+        "Salary negotiation prep for the meeting",
+        "Budget to save for the vacation",
+        "USD exchange rate check for the trip"
+      ],
+      "ru": [
+        "использовать купон для заказа",
+        "найти выгодное предложение на электронику",
+        "получить скидку на подписку",
+        "проверить гарантию возврата денег",
+        "проверить доходность инвестиций",
+        "сэкономить немного в этом месяце",
+        "проверить поступила ли зарплата",
+        "сэкономить на следующей покупке",
+        "конвертировать в доллары США",
+        "Купон для онлайн-магазина",
+        "Горящее предложение на бронирование",
+        "Скидочный код на абонемент в зал",
+        "Гарантийный случай по бытовому прибору",
+        "Обзор долгосрочной инвестиционной стратегии",
+        "Учёт потраченных денег за неделю",
+        "Подготовка к переговорам о зарплате",
+        "Бюджет для накоплений на отпуск",
+        "Проверить курс доллара для поездки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Apply discount code",
+        "Claim the coupon",
+        "Check today's deals",
+        "Negotiate salary",
+        "Look for promo codes",
+        "Use my coupon before it expires",
+        "Check if there's a discount",
+        "Get a good deal on flights",
+        "Review investment options",
+        "Save money on groceries"
+      ],
+      "ru": [
+        "Применить код скидки",
+        "Забрать купон",
+        "Проверить сегодняшние предложения",
+        "Согласовать зарплату",
+        "Найти промокоды",
+        "Использовать купон до истечения срока",
+        "Проверить есть ли скидка",
+        "Найти хорошее предложение на авиабилеты",
+        "Изучить варианты инвестиций",
+        "Сэкономить на продуктах"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "See if I can get a better price",
+        "Find a promo code for the order",
+        "I heard there's a sale going on",
+        "Check if my salary came in"
+      ],
+      "ru": [
+        "Посмотреть можно ли получить цену лучше",
+        "Найти промокод для заказа",
+        "Слышал идёт распродажа",
+        "Проверить пришла ли зарплата"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Appl the discunt",
+        "Cliam the coupon",
+        "Get a good dael",
+        "Negociate salry"
+      ],
+      "ru": [
+        "Примнить скидку",
+        "Забарть купон",
+        "Получить хорошую скику",
+        "Договоритьс о зарплате"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Pay the bill",
+        "Transfer money",
+        "Check account balance",
+        "Redeem gift card",
+        "Track expenses",
+        "Subscribe to service"
+      ],
+      "ru": [
+        "Оплатить счёт",
+        "Перевести деньги",
+        "Проверить баланс счёта",
+        "Использовать подарочную карту",
+        "Отслеживать расходы",
+        "Подписаться на сервис"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Find the best deal on this item",
+        "Check if the promo is still valid",
+        "Compare prices before buying"
+      ],
+      "ru": [
+        "Найти лучшее предложение по этому товару",
+        "Проверить действует ли промо",
+        "Сравнить цены перед покупкой"
+      ]
+    },
+    "test": {
+      "en": [
+        "See if I qualify for a discount",
+        "Look up the current offer",
+        "Budget-friendly option for the trip"
+      ],
+      "ru": [
+        "Проверить подхожу ли для скидки",
+        "Посмотреть текущее предложение",
+        "Бюджетный вариант для поездки"
+      ]
+    }
+  }
+}

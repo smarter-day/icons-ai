@@ -1,0 +1,178 @@
+{
+  "icon": "microscope",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "covid-19",
+        "electron",
+        "knowledge",
+        "lens",
+        "microscope",
+        "optics",
+        "science",
+        "shrink",
+        "testing",
+        "tool"
+      ],
+      "ru": [
+        "covid-19",
+        "электрон",
+        "знания",
+        "линза",
+        "микроскоп",
+        "оптика",
+        "наука",
+        "уменьшить",
+        "тестирование",
+        "инструмент"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "covid-19 cell viewed under microscope",
+        "covid-19 virus research microscope",
+        "electron microscope image of material",
+        "electron microscopy nanotechnology",
+        "scientific knowledge through microscopy",
+        "knowledge gained from lab research",
+        "microscope lens focusing on sample",
+        "optical lens magnification",
+        "microscope for biology class",
+        "lab microscope for specimen",
+        "optics in a compound microscope",
+        "optical instrument for research",
+        "science experiment with microscope",
+        "science lab microscope usage",
+        "shrink objects under microscope view",
+        "microscope makes things look shrunk",
+        "testing samples under microscope",
+        "quality testing with microscope",
+        "tool for scientific investigation",
+        "lab tool for examining cells"
+      ],
+      "ru": [
+        "клетка covid-19 под микроскопом",
+        "исследование вируса covid-19 с микроскопом",
+        "изображение материала под электронным микроскопом",
+        "нанотехнологии электронной микроскопии",
+        "научные знания через микроскопию",
+        "знания полученные в лабораторных исследованиях",
+        "линза микроскопа фокусирующаяся на образце",
+        "увеличение оптической линзы",
+        "микроскоп для урока биологии",
+        "лабораторный микроскоп для образца",
+        "оптика в составном микроскопе",
+        "оптический прибор для исследования",
+        "научный эксперимент с микроскопом",
+        "использование микроскопа в научной лаборатории",
+        "уменьшение объектов в поле зрения микроскопа",
+        "под микроскопом всё выглядит уменьшенным",
+        "тестирование образцов под микроскопом",
+        "контроль качества с микроскопом",
+        "инструмент для научного исследования",
+        "лабораторный инструмент для изучения клеток"
+      ]
+    },
+    "regular": {
+      "en": [
+        "compound microscope for biology laboratory",
+        "scientist peering through microscope eyepiece",
+        "microscope slide with specimen on stage",
+        "high-powered research microscope",
+        "school science class microscope",
+        "medical lab technician using microscope",
+        "electron microscope for nanotechnology",
+        "forensic science microscope for evidence",
+        "microscope icon for research or science app",
+        "magnified cell view under optical microscope"
+      ],
+      "ru": [
+        "составной микроскоп для биологической лаборатории",
+        "учёный смотрящий в окуляр микроскопа",
+        "предметное стекло с образцом на столике",
+        "мощный исследовательский микроскоп",
+        "микроскоп на уроке школьной науки",
+        "лаборант медицинской лаборатории использующий микроскоп",
+        "электронный микроскоп для нанотехнологий",
+        "судебно-медицинский микроскоп для улик",
+        "иконка микроскопа для приложения исследования",
+        "увеличенный вид клетки под оптическим микроскопом"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a microscope icon for the science section",
+        "add a lab microscope to the research tools category",
+        "show a microscope for the biology app",
+        "use the microscope icon for the testing module"
+      ],
+      "ru": [
+        "Мне нужна иконка микроскопа для раздела науки",
+        "добавить лабораторный микроскоп в категорию инструментов исследования",
+        "показать микроскоп для приложения биологии",
+        "использовать иконку микроскопа для модуля тестирования"
+      ]
+    },
+    "typo": {
+      "en": [
+        "microsope biology",
+        "sciense microscope",
+        "electorn microscope",
+        "microscpoe lab"
+      ],
+      "ru": [
+        "микросоп биология",
+        "науак микроскоп",
+        "электорнный микроскоп",
+        "лаборотория микроскоп"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "magnifying glass for zooming in",
+        "telescope for astronomical observation",
+        "binoculars for long-range viewing",
+        "test tube for chemical experiments",
+        "eyeglasses or reading glasses",
+        "camera lens for photography"
+      ],
+      "ru": [
+        "лупа для приближения",
+        "телескоп для астрономических наблюдений",
+        "бинокль для наблюдения на расстоянии",
+        "пробирка для химических экспериментов",
+        "очки или очки для чтения",
+        "объектив камеры для фотографии"
+      ]
+    },
+    "valid": {
+      "en": [
+        "microscope for biology lab",
+        "science research microscope",
+        "optical microscope for cells"
+      ],
+      "ru": [
+        "микроскоп для биологической лаборатории",
+        "научный исследовательский микроскоп",
+        "оптический микроскоп для клеток"
+      ]
+    },
+    "test": {
+      "en": [
+        "microscope icon",
+        "lab microscope for science",
+        "biology microscope specimen"
+      ],
+      "ru": [
+        "иконка микроскопа",
+        "лабораторный микроскоп для науки",
+        "биологический микроскоп образец"
+      ]
+    }
+  }
+}

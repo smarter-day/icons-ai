@@ -1,0 +1,142 @@
+{
+  "icon": "trash",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "delete",
+        "garbage",
+        "hide",
+        "remove"
+      ],
+      "ru": [
+        "удалить",
+        "мусор",
+        "скрыть",
+        "убрать"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "delete trash icon button",
+        "delete file trash bin",
+        "garbage disposal trash icon",
+        "garbage in trash bin",
+        "hide item trash archive",
+        "hide from view trash",
+        "remove delete trash can",
+        "remove item permanently"
+      ],
+      "ru": [
+        "иконка кнопки удаления корзины",
+        "удалить файл в корзину",
+        "выброс мусора иконка корзины",
+        "мусор в мусорном ведре",
+        "скрыть элемент архив корзина",
+        "скрыть из вида корзина",
+        "удалить корзина навсегда",
+        "убрать элемент окончательно"
+      ]
+    },
+    "regular": {
+      "en": [
+        "trash icon to delete files",
+        "empty trash clear bin action",
+        "drag to trash delete item",
+        "trash bin fill indicator",
+        "restore from trash undo delete",
+        "permanent delete bypass trash",
+        "trash folder mail deleted",
+        "app delete uninstall trash",
+        "photo trash recover lost",
+        "trash icon red warning delete"
+      ],
+      "ru": [
+        "иконка корзины для удаления файлов",
+        "очистить корзину удалить содержимое",
+        "перетащить в корзину удалить",
+        "индикатор заполнения мусорного ведра",
+        "восстановить из корзины отменить удаление",
+        "окончательное удаление минуя корзину",
+        "папка корзина удалённая почта",
+        "удалить приложение деинсталляция корзина",
+        "фото корзина восстановить потерянное",
+        "красная иконка корзины предупреждение удаление"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a trash icon for the delete action",
+        "add a garbage symbol to the remove feature",
+        "show a trash bin for the hide option",
+        "use the trash icon for the clear button"
+      ],
+      "ru": [
+        "нужна иконка корзины для действия удаления",
+        "добавь символ мусора к функции удаления",
+        "покажи мусорное ведро для опции скрытия",
+        "используй иконку корзины для кнопки очистки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "trsah delete icon",
+        "garbge bin remove",
+        "deletee trash file",
+        "rmeove trash item"
+      ],
+      "ru": [
+        "корзина удалить иконка",
+        "мусор ведро убрать",
+        "удалить корзина файл",
+        "убрать корзина элемент"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "trash can lid open container",
+        "recycle bin green arrows loop",
+        "archive box store away",
+        "shredder document destroy",
+        "close X dismiss button",
+        "folder file store document"
+      ],
+      "ru": [
+        "мусорное ведро открытая крышка контейнер",
+        "корзина переработки зелёные стрелки",
+        "архивная коробка хранение",
+        "шредер уничтожить документ",
+        "закрыть X кнопка отклонения",
+        "папка хранить документ файл"
+      ]
+    },
+    "valid": {
+      "en": [
+        "trash delete icon",
+        "garbage bin symbol",
+        "remove trash button"
+      ],
+      "ru": [
+        "иконка корзины удаление",
+        "символ мусорного ведра",
+        "кнопка удаления корзина"
+      ]
+    },
+    "test": {
+      "en": [
+        "trash icon delete",
+        "bin remove symbol",
+        "garbage trash icon"
+      ],
+      "ru": [
+        "иконка удаления корзина",
+        "символ ведра убрать",
+        "мусорная корзина иконка"
+      ]
+    }
+  }
+}

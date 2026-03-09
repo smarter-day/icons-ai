@@ -3,6 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
   <title>Icon Browser v2</title>
   <style>
     @font-face {
@@ -819,8 +822,13 @@
     </aside>
   </div>
 
-  <script src="./icons-data.js"></script>
-  <script src="./candidates-data.js"></script>
+  <script>
+    (function() {
+      var v = Date.now();
+      document.write('<script src="./icons-data.js?v=' + v + '"><\/script>');
+      document.write('<script src="./candidates-data.js?v=' + v + '"><\/script>');
+    })();
+  </script>
   <script>
     (function () {
       const data = Array.isArray(window.ICON_DATA) ? window.ICON_DATA : [];
@@ -972,21 +980,29 @@
       // ── Icon detail ───────────────────────────────────────────
       const CATEGORIES = [
         { key: "search_terms",           label: "Search Terms",
-          desc: "Primary keywords that map to this icon. These are the core search terms users type to find it." },
+          desc:    "Primary keywords that map to this icon. These are the core search terms users type to find it.",
+          desc_ru: "Ключевые слова, которые соответствуют этой иконке. Это основные поисковые запросы, по которым пользователи её ищут." },
         { key: "phrase_per_search_term", label: "Phrases per Search Term",
-          desc: "Natural language phrases derived from each search term. Used to train the embedding model to understand context." },
+          desc:    "Natural language phrases derived from each search term. Used to train the embedding model to understand context.",
+          desc_ru: "Фразы на естественном языке, построенные на основе каждого ключевого слова. Помогают модели понимать контекст." },
         { key: "regular",                label: "Regular",
-          desc: "Common everyday phrases describing typical use cases for this icon. The main training signal." },
+          desc:    "Common everyday phrases describing typical use cases for this icon. The main training signal.",
+          desc_ru: "Обычные фразы, описывающие типичные варианты использования иконки. Основной обучающий сигнал для модели." },
         { key: "conversational",         label: "Conversational",
-          desc: "Short phrases as they appear in natural conversation or voice input. Helps the model handle informal language." },
+          desc:    "Short phrases as they appear in natural conversation or voice input. Helps the model handle informal language.",
+          desc_ru: "Фразы в разговорном стиле, как в живой речи или голосовом вводе. Помогают модели работать с неформальным языком." },
         { key: "typo",                   label: "Typo",
-          desc: "Phrases with intentional spelling errors or typos. Makes the model robust to real-world input mistakes." },
+          desc:    "Phrases with intentional spelling errors or typos. Makes the model robust to real-world input mistakes.",
+          desc_ru: "Фразы с намеренными опечатками и ошибками. Делают модель устойчивой к реальным ошибкам ввода." },
         { key: "boundary",               label: "Boundary",
-          desc: "Edge cases and ambiguous phrases near this icon's meaning. Defines the decision boundary with neighboring icons." },
+          desc:    "Edge cases and ambiguous phrases near this icon's meaning. Defines the decision boundary with neighboring icons.",
+          desc_ru: "Пограничные и неоднозначные фразы вблизи смысла иконки. Определяют границу между похожими иконками." },
         { key: "valid",                  label: "Valid",
-          desc: "Validation set phrases held out during training. Used to tune model hyperparameters and detect overfitting." },
+          desc:    "Validation set phrases held out during training. Used to tune model hyperparameters and detect overfitting.",
+          desc_ru: "Фразы для валидации, не участвующие в обучении. Используются для подбора гиперпараметров и контроля переобучения." },
         { key: "test",                   label: "Test",
-          desc: "Test set phrases used only for final model evaluation. Never seen during training or validation." },
+          desc:    "Test set phrases used only for final model evaluation. Never seen during training or validation.",
+          desc_ru: "Тестовые фразы только для финальной оценки модели. Не используются ни в обучении, ни в валидации." },
       ];
 
       function showIconDetail(item) {
@@ -1060,7 +1076,7 @@
             const key = btn.dataset.key;
             const cat = CATEGORIES.find(c => c.key === key);
             if (!cat) return;
-            showTooltip(btn, cat.desc);
+            showTooltip(btn, currentLang === "ru" ? (cat.desc_ru || cat.desc) : cat.desc);
           });
         });
       }

@@ -1,0 +1,142 @@
+{
+  "icon": "toggle-on",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "button",
+        "off",
+        "on",
+        "switch"
+      ],
+      "ru": [
+        "кнопка",
+        "выкл",
+        "вкл",
+        "переключатель"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "button toggle on enabled",
+        "toggle button in on state",
+        "switch turned on position",
+        "on state switch green active",
+        "toggle on off control active",
+        "on state toggle UI",
+        "switch toggled on setting",
+        "switch on notifications"
+      ],
+      "ru": [
+        "кнопка переключатель вкл включён",
+        "переключатель в положении вкл",
+        "выключатель в включённом положении",
+        "вкл состояние зелёный активный",
+        "переключатель вкл активное управление",
+        "UI переключатель вкл состояние",
+        "переключатель настройки включён",
+        "переключатель уведомлений вкл"
+      ]
+    },
+    "regular": {
+      "en": [
+        "green toggle switch in on position",
+        "feature enabled toggle on",
+        "dark mode toggle on activated",
+        "notifications toggle on setting",
+        "Wi-Fi toggle on connected",
+        "Bluetooth toggle switched on",
+        "location services toggle on",
+        "automatic backup toggle on",
+        "toggle on for premium feature",
+        "accessibility toggle on enabled"
+      ],
+      "ru": [
+        "зелёный переключатель в положении вкл",
+        "функция включена переключатель вкл",
+        "тёмный режим переключатель вкл активирован",
+        "уведомления переключатель вкл настройка",
+        "Wi-Fi переключатель вкл подключён",
+        "Bluetooth переключатель включён",
+        "службы геолокации переключатель вкл",
+        "автоматическое резервное копирование вкл",
+        "переключатель вкл для премиум функции",
+        "доступность переключатель вкл включён"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a toggle-on icon for the active state",
+        "add an enabled switch symbol to the feature screen",
+        "show toggle on for the activated setting",
+        "use the toggle-on icon for the on state indicator"
+      ],
+      "ru": [
+        "нужна иконка переключателя вкл для активного состояния",
+        "добавь символ включённого переключателя к экрану функции",
+        "покажи переключатель вкл для активированной настройки",
+        "используй иконку переключателя вкл как индикатор"
+      ]
+    },
+    "typo": {
+      "en": [
+        "togglee on switch",
+        "swithc on button",
+        "togle on setting",
+        "enanbled toggle"
+      ],
+      "ru": [
+        "переключатель вкл кнопка",
+        "включтель вкл настройки",
+        "перклюачтель включён",
+        "включнный переключатель"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "toggle off grey inactive disabled",
+        "checkbox checked filled tick",
+        "radio button selected dot",
+        "power button on start",
+        "switch on wall light ceiling",
+        "slider maximum full on"
+      ],
+      "ru": [
+        "переключатель выкл серый неактивный",
+        "чекбокс выбран галочка",
+        "радиокнопка выбрана точка",
+        "кнопка питания вкл запуск",
+        "выключатель стены потолочный свет",
+        "ползунок максимум полностью вкл"
+      ]
+    },
+    "valid": {
+      "en": [
+        "toggle on switch icon",
+        "enabled toggle button",
+        "on state switch"
+      ],
+      "ru": [
+        "иконка переключателя вкл",
+        "включённая кнопка переключателя",
+        "вкл состояние переключателя"
+      ]
+    },
+    "test": {
+      "en": [
+        "toggle-on icon",
+        "switch on symbol",
+        "button enabled on"
+      ],
+      "ru": [
+        "иконка переключателя вкл",
+        "символ включателя",
+        "кнопка включена вкл"
+      ]
+    }
+  }
+}

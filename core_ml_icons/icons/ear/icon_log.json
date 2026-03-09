@@ -1,0 +1,90 @@
+{
+  "icon": "ear",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "body",
+        "ear",
+        "head",
+        "hearing",
+        "listen",
+        "lobe"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "ear as a body part",
+        "body ear anatomy",
+        "human ear close-up",
+        "ear icon for sound",
+        "ear on the side of the head",
+        "head ear hearing symbol",
+        "hearing aid in the ear",
+        "ear hearing check",
+        "listen with your ear",
+        "ear listen for sounds",
+        "ear lobe with earring",
+        "lobe of the ear"
+      ]
+    },
+    "regular": {
+      "en": [
+        "human ear with lobe and canal",
+        "ear icon for audio or sound settings",
+        "hearing test at the audiologist",
+        "ear with a hearing aid device",
+        "ear listening to the music",
+        "anatomy diagram of the ear",
+        "ear symbol for accessibility settings",
+        "ear pressed against the wall to listen",
+        "earring hanging from the ear lobe",
+        "ear protection worn at the loud event"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an ear icon for the hearing accessibility feature",
+        "add an ear symbol to the audio settings",
+        "show an ear for the listen button",
+        "use the ear icon for the sound section"
+      ]
+    },
+    "typo": {
+      "en": [
+        "huamn ear canal",
+        "hrearing test today",
+        "eear lobe earring",
+        "listten with your ear"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "headphones covering both ears",
+        "microphone for recording sound",
+        "speaker playing music loudly",
+        "eye icon for visibility",
+        "nose above the lips on a face",
+        "hand cupped behind the ear to hear"
+      ]
+    },
+    "valid": {
+      "en": [
+        "human ear with lobe",
+        "ear icon for hearing",
+        "listen with your ear"
+      ]
+    },
+    "test": {
+      "en": [
+        "ear icon",
+        "ear symbol for sound",
+        "hearing ear"
+      ]
+    }
+  }
+}

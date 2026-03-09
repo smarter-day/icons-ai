@@ -1,0 +1,102 @@
+{
+  "icon": "lock",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "admin",
+        "closed",
+        "lock",
+        "locked",
+        "padlock",
+        "password",
+        "privacy",
+        "private",
+        "protect",
+        "security"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "admin lock for restricted access",
+        "lock for admin only area",
+        "lock closed and secured",
+        "closed lock on the door",
+        "lock icon for the secure area",
+        "lock the account",
+        "locked icon showing secure",
+        "file locked and protected",
+        "padlock securing the gate",
+        "padlock on the storage unit",
+        "lock for password protected content",
+        "password lock on the account",
+        "privacy lock on personal data",
+        "lock for user privacy",
+        "private lock on the account",
+        "lock for private content",
+        "lock to protect the data",
+        "protect with a lock",
+        "security lock on the door",
+        "lock for system security"
+      ]
+    },
+    "regular": {
+      "en": [
+        "closed padlock indicating a secure area",
+        "lock icon on the HTTPS website",
+        "password protected by a lock symbol",
+        "privacy lock on the settings page",
+        "lock securing the storage locker",
+        "locked file icon in the document list",
+        "lock screen on the mobile phone",
+        "admin lock for restricted system access",
+        "lock symbol for private content",
+        "combination lock on the school locker"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a lock icon for the security feature",
+        "add a padlock symbol to the privacy settings",
+        "show a lock for the password protected section",
+        "use the lock icon for the secure area"
+      ]
+    },
+    "typo": {
+      "en": [
+        "secruity lock on door",
+        "padlokc on the gate",
+        "prviacy lock settings",
+        "lockd account icon"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "unlocked open padlock with shackle raised",
+        "metal key for the door lock",
+        "door handle with a built-in lock",
+        "combination safe with a dial",
+        "fingerprint unlock scanner",
+        "chain with a lock holding the gate"
+      ]
+    },
+    "valid": {
+      "en": [
+        "closed padlock for secure area",
+        "lock icon for privacy",
+        "password lock symbol"
+      ]
+    },
+    "test": {
+      "en": [
+        "lock icon",
+        "padlock symbol",
+        "lock for security"
+      ]
+    }
+  }
+}

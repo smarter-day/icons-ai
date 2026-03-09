@@ -1,0 +1,136 @@
+{
+  "icon": "oil-well",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "drill",
+        "oil",
+        "rig"
+      ],
+      "ru": [
+        "бурение",
+        "нефть",
+        "буровая"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "drill deep into ground for oil",
+        "oil drilling operation",
+        "crude oil extraction from well",
+        "oil pump jack nodding donkey",
+        "oil rig offshore platform",
+        "drilling rig in desert field"
+      ],
+      "ru": [
+        "бурение глубоко в земле для нефти",
+        "нефтяная буровая операция",
+        "добыча сырой нефти из скважины",
+        "нефтяной насос качалка",
+        "нефтяная платформа офшор",
+        "буровая в пустынном поле"
+      ]
+    },
+    "regular": {
+      "en": [
+        "oil pump jack on a field",
+        "nodding donkey oil extraction pump",
+        "offshore oil drilling platform at sea",
+        "oil well in desert landscape",
+        "petroleum extraction equipment",
+        "oil derrick tall tower for drilling",
+        "crude oil production well",
+        "natural gas and oil well",
+        "energy industry oil extraction icon",
+        "oil field with multiple wells"
+      ],
+      "ru": [
+        "нефтяной насос-качалка в поле",
+        "кивающий осёл нефтяной насос добычи",
+        "офшорная нефтяная буровая платформа в море",
+        "нефтяная скважина в пустынном пейзаже",
+        "оборудование добычи нефти",
+        "нефтяная вышка высокая башня для бурения",
+        "скважина добычи сырой нефти",
+        "скважина природного газа и нефти",
+        "иконка добычи нефти в энергетической отрасли",
+        "нефтяное месторождение с несколькими скважинами"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an oil well icon for the energy section",
+        "add a drilling rig symbol to the petroleum feature",
+        "show an oil pump for the natural resources screen",
+        "use the oil well icon for the extraction tracker"
+      ],
+      "ru": [
+        "Мне нужна иконка нефтяной скважины для раздела энергетики",
+        "добавить символ буровой в нефтяную функцию",
+        "показать нефтяной насос для экрана природных ресурсов",
+        "использовать иконку нефтяной скважины для трекера добычи"
+      ]
+    },
+    "typo": {
+      "en": [
+        "oil wlel pump",
+        "driil rig",
+        "petrolium extraction",
+        "oil rigg platform"
+      ],
+      "ru": [
+        "нефтяная скавжина",
+        "буровая нефт",
+        "нефтяно платформа",
+        "добчыа нефти"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "wind turbine for renewable energy",
+        "solar panel for clean electricity",
+        "gas station fuel pump nozzle",
+        "coal mine underground excavation",
+        "natural gas pipeline",
+        "power plant with cooling towers"
+      ],
+      "ru": [
+        "ветряная турбина для возобновляемой энергии",
+        "солнечная панель для чистого электричества",
+        "топливная колонка на заправке",
+        "угольная шахта подземная добыча",
+        "газопровод природного газа",
+        "электростанция с градирнями"
+      ]
+    },
+    "valid": {
+      "en": [
+        "oil well pump jack icon",
+        "drilling rig for oil extraction",
+        "petroleum well icon"
+      ],
+      "ru": [
+        "иконка нефтяного насоса-качалки",
+        "буровая для добычи нефти",
+        "иконка нефтяной скважины"
+      ]
+    },
+    "test": {
+      "en": [
+        "oil well icon",
+        "oil drilling rig",
+        "petroleum extraction well"
+      ],
+      "ru": [
+        "иконка нефтяной скважины",
+        "буровая нефтяная вышка",
+        "скважина добычи нефти"
+      ]
+    }
+  }
+}

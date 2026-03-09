@@ -1,0 +1,142 @@
+{
+  "icon": "truck-moving",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cargo",
+        "inventory",
+        "rental",
+        "vehicle"
+      ],
+      "ru": [
+        "груз",
+        "инвентарь",
+        "аренда",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cargo moving truck loaded",
+        "moving truck cargo box",
+        "inventory moving truck full",
+        "moving truck inventory transfer",
+        "rental moving truck Uhaul",
+        "moving truck rental company",
+        "vehicle moving truck large",
+        "large vehicle moving furniture"
+      ],
+      "ru": [
+        "грузовик переезда с грузом",
+        "грузовик переезда коробка",
+        "инвентарь грузовик переезда полный",
+        "перенос инвентаря грузовиком",
+        "аренда грузовика для переезда Uhaul",
+        "компания аренды грузовиков",
+        "большое транспортное средство переезда",
+        "большой автомобиль перевозка мебели"
+      ]
+    },
+    "regular": {
+      "en": [
+        "large moving truck on highway",
+        "Uhaul truck rental moving day",
+        "professional movers loading truck",
+        "moving truck parked outside house",
+        "box truck furniture delivery",
+        "moving truck with ramp lowered",
+        "cross country moving truck service",
+        "electric moving truck fleet",
+        "moving truck reservation booking",
+        "full moving truck ready to go"
+      ],
+      "ru": [
+        "большой грузовик для переезда на шоссе",
+        "аренда грузовика Uhaul день переезда",
+        "профессиональные грузчики загружают машину",
+        "грузовик стоит у дома",
+        "фургон доставка мебели",
+        "грузовик с опущенным аппарелем",
+        "межгородской переезд грузовик сервис",
+        "электрический грузовик переезда парк",
+        "бронирование грузовика для переезда",
+        "полный грузовик готов к отправке"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a moving truck icon for the relocation section",
+        "add a truck symbol to the moving day feature",
+        "show a moving truck for the cargo category",
+        "use the truck-moving icon for the rental vehicle"
+      ],
+      "ru": [
+        "нужна иконка грузовика для раздела переезда",
+        "добавь символ грузовика к функции дня переезда",
+        "покажи грузовик переезда для категории грузов",
+        "используй иконку грузовика для арендуемого транспорта"
+      ]
+    },
+    "typo": {
+      "en": [
+        "moivng truck rental",
+        "carogo moving truck",
+        "vehicel moving day",
+        "trcuk moving furniture"
+      ],
+      "ru": [
+        "грузовик переезда аренда",
+        "груз грузовик переезда",
+        "транспортное средство переезд",
+        "грузовик перевозка мебели"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "pickup truck smaller vehicle",
+        "van cargo delivery smaller",
+        "semi truck large highway",
+        "trailer hitched behind car",
+        "forklift warehouse loading",
+        "bus public transit passenger"
+      ],
+      "ru": [
+        "пикап меньшее транспортное средство",
+        "фургон грузовой доставка меньший",
+        "грузовик-полуприцеп большой шоссе",
+        "прицеп за автомобилем",
+        "вилочный погрузчик склад",
+        "автобус общественный транзит"
+      ]
+    },
+    "valid": {
+      "en": [
+        "moving truck rental icon",
+        "cargo truck vehicle symbol",
+        "moving day truck"
+      ],
+      "ru": [
+        "иконка арендуемого грузовика",
+        "символ грузовика транспорта",
+        "грузовик день переезда"
+      ]
+    },
+    "test": {
+      "en": [
+        "truck-moving icon",
+        "moving vehicle symbol",
+        "cargo truck rental"
+      ],
+      "ru": [
+        "иконка грузовика переезда",
+        "символ транспортного средства",
+        "грузовик аренда"
+      ]
+    }
+  }
+}

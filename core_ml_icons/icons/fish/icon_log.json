@@ -1,0 +1,87 @@
+{
+  "icon": "fish",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "fauna",
+        "fish",
+        "seafood",
+        "swimming",
+        "zodiac"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Observe fish in the pond",
+        "Learn about aquatic fauna",
+        "Buy fresh fish at the market",
+        "Cook fish for dinner",
+        "Order seafood at the restaurant",
+        "Buy seafood for the BBQ",
+        "Watch fish swimming in the tank",
+        "Swimming with fish while snorkeling",
+        "Check the Pisces zodiac sign",
+        "Read the Pisces horoscope"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Cook fish for dinner",
+        "Buy fresh fish at the market",
+        "Go fishing at the lake",
+        "Feed the fish in the aquarium",
+        "Clean the fish tank",
+        "Set up a home aquarium",
+        "Catch fish on the fishing trip",
+        "Make a fish and chips dinner",
+        "Find a good seafood restaurant",
+        "Grill fish for the BBQ"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Fish for dinner",
+        "Go fishing",
+        "Clean the tank",
+        "Seafood night"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cook fsh for dinner",
+        "buy freesh fish",
+        "go fihsing at the lake",
+        "feed the fsh in tank"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Cook shrimp for the seafood platter",
+        "Order crab legs at the restaurant",
+        "Set up a saltwater aquarium",
+        "Watch sharks at the aquarium",
+        "See dolphins at the ocean park",
+        "Buy salmon at the grocery store"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Cook fish for dinner",
+        "Go fishing at the lake",
+        "Feed the fish in the aquarium"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy fresh fish at the market",
+        "Grill fish for the BBQ",
+        "Clean the fish tank"
+      ]
+    }
+  }
+}

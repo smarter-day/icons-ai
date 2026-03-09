@@ -1,0 +1,87 @@
+{
+  "icon": "kit-medical",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "emergency",
+        "emt",
+        "health",
+        "medical",
+        "rescue"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Use the first aid kit in an emergency",
+        "Check the emergency supplies",
+        "Call an EMT for help",
+        "Work as an EMT",
+        "Maintain good health habits",
+        "Go to a health checkup",
+        "Pack a medical kit for the trip",
+        "Stock the medical cabinet",
+        "Call rescue services",
+        "Train for rescue situations"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Pack a first aid kit for the trip",
+        "Stock the home first aid kit",
+        "Use the first aid kit for a cut",
+        "Check the expiry date on medical supplies",
+        "Call emergency services",
+        "Learn basic first aid",
+        "Buy bandages and antiseptic",
+        "Take a first aid course",
+        "Keep a first aid kit in the car",
+        "Restock the first aid kit"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "First aid kit",
+        "Medical supplies",
+        "Emergency kit",
+        "Health kit ready"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pak a fisrt aid kit",
+        "stokc the home frist aid kit",
+        "use fisrt aid kit for a cut",
+        "call emeregency servicces"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Go to the hospital emergency room",
+        "Visit the doctor for treatment",
+        "Take medicine from the pharmacy",
+        "Use a defibrillator",
+        "Call the ambulance",
+        "Use a thermometer to check temperature"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Pack a first aid kit for the trip",
+        "Stock the home first aid kit",
+        "Learn basic first aid"
+      ]
+    },
+    "test": {
+      "en": [
+        "Check expiry date on medical supplies",
+        "Keep a first aid kit in the car",
+        "Take a first aid course"
+      ]
+    }
+  }
+}

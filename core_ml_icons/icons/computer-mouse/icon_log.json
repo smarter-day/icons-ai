@@ -1,0 +1,90 @@
+{
+  "icon": "computer-mouse",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "click",
+        "computer",
+        "computer mouse",
+        "cursor",
+        "input",
+        "peripheral"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Click the button on screen",
+        "Double click to open the file",
+        "Set up the computer workspace",
+        "Fix the computer setup",
+        "Buy a wireless computer mouse",
+        "Replace the computer mouse",
+        "Move the cursor to the right position",
+        "Cursor is not responding",
+        "Set up input devices",
+        "Configure the input settings",
+        "Buy a new peripheral device",
+        "Connect the peripheral to the laptop"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy a wireless mouse for the laptop",
+        "Set up the computer mouse",
+        "Replace the worn mouse pad",
+        "Configure mouse sensitivity",
+        "Connect the mouse via Bluetooth",
+        "Clean the mouse sensor",
+        "Get an ergonomic mouse",
+        "Update mouse drivers",
+        "Fix the mouse not responding",
+        "Buy a gaming mouse"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Mouse not working",
+        "Get a new mouse",
+        "Set up the mouse",
+        "Need a better mouse"
+      ]
+    },
+    "typo": {
+      "en": [
+        "by a wirelss mouse",
+        "computter mouse not working",
+        "set up the compuer mouse",
+        "cursro not responding"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy a mechanical keyboard",
+        "Set up the laptop trackpad",
+        "Use touch screen instead",
+        "Connect a drawing tablet",
+        "Buy a stylus pen",
+        "Configure the trackball device"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Buy a wireless computer mouse",
+        "Set up the mouse for the computer",
+        "Fix the mouse cursor issue"
+      ]
+    },
+    "test": {
+      "en": [
+        "Replace the computer mouse",
+        "Configure mouse settings",
+        "Get an ergonomic mouse for work"
+      ]
+    }
+  }
+}

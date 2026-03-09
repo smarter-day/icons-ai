@@ -1,0 +1,148 @@
+{
+  "icon": "washing-machine",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "clean",
+        "clothes",
+        "laundromat",
+        "laundry",
+        "washing machine"
+      ],
+      "ru": [
+        "чистый",
+        "одежда",
+        "прачечная",
+        "стирка",
+        "стиральная машина"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "clean laundry washing machine cycle",
+        "washing machine clean clothes",
+        "clothes washing machine cycle",
+        "clothes tumbling washing machine",
+        "laundromat washing machine coin",
+        "laundromat wash dryer",
+        "laundry day washing machine load",
+        "laundry pile into machine",
+        "washing machine front load",
+        "washing machine top load"
+      ],
+      "ru": [
+        "чистка белья стиральная машина цикл",
+        "стиральная машина чистая одежда",
+        "одежда стиральная машина цикл",
+        "одежда крутится в стиральной машине",
+        "монетная прачечная стиральная машина",
+        "прачечная стирка сушка",
+        "день стирки стиральная машина загрузка",
+        "стопка белья в машину",
+        "фронтальная загрузка стиральная машина",
+        "верхняя загрузка стиральная машина"
+      ]
+    },
+    "regular": {
+      "en": [
+        "front loading washing machine with door",
+        "laundromat rows of washing machines",
+        "smart washing machine app control",
+        "washing machine spin cycle vibration",
+        "delicate cycle washing machine setting",
+        "washing machine drum capacity litres",
+        "washing machine overflow leak",
+        "washing machine cleaning tub empty",
+        "portable washing machine apartment",
+        "washing machine buying guide appliance"
+      ],
+      "ru": [
+        "стиральная машина с фронтальной загрузкой и дверцей",
+        "ряды стиральных машин в прачечной",
+        "умная стиральная машина управление приложением",
+        "цикл отжима вибрация стиральной машины",
+        "деликатный режим стиральной машины",
+        "ёмкость барабана литры стиральной машины",
+        "переполнение утечка стиральной машины",
+        "чистка барабана стиральной машины",
+        "переносная стиральная машина квартира",
+        "руководство по покупке стиральной машины"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a washing machine icon for the laundry section",
+        "add a washer symbol to the home appliances feature",
+        "show a washing machine for the laundromat category",
+        "use the washing-machine icon for the clean clothes task"
+      ],
+      "ru": [
+        "нужна иконка стиральной машины для раздела стирки",
+        "добавь символ стиральной машины к функции бытовой техники",
+        "покажи стиральную машину для категории прачечной",
+        "используй иконку стиральной машины для задачи чистой одежды"
+      ]
+    },
+    "typo": {
+      "en": [
+        "washign machine clothes",
+        "laundory washing machine",
+        "cloths washing cycle",
+        "laundomat machine coin"
+      ],
+      "ru": [
+        "стиральная машина одежда",
+        "прачечная стиральная машина",
+        "одежда стирки цикл",
+        "монетная прачечная машина"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "dryer clothes tumble dry",
+        "dishwasher kitchen appliance",
+        "iron clothes pressing",
+        "vacuum cleaner floor cleaning",
+        "refrigerator kitchen appliance",
+        "laundry basket clothes hamper"
+      ],
+      "ru": [
+        "сушилка одежда сушить",
+        "посудомоечная машина кухонная техника",
+        "утюг гладить одежду",
+        "пылесос уборка пола",
+        "холодильник кухонная техника",
+        "бельевая корзина одежда"
+      ]
+    },
+    "valid": {
+      "en": [
+        "washing machine laundry icon",
+        "clothes washer symbol",
+        "laundromat machine"
+      ],
+      "ru": [
+        "иконка стиральной машины",
+        "символ стиральной машины для одежды",
+        "машина прачечной"
+      ]
+    },
+    "test": {
+      "en": [
+        "washing-machine icon",
+        "laundry machine symbol",
+        "washer clothes clean"
+      ],
+      "ru": [
+        "иконка стиральной машины",
+        "символ стиральной машины",
+        "стиральная машина одежда"
+      ]
+    }
+  }
+}

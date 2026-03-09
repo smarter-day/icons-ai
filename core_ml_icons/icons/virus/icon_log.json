@@ -1,0 +1,178 @@
+{
+  "icon": "virus",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bug",
+        "coronavirus",
+        "covid-19",
+        "flu",
+        "health",
+        "infection",
+        "pandemic",
+        "sick",
+        "vaccine",
+        "viral"
+      ],
+      "ru": [
+        "вирус",
+        "коронавирус",
+        "COVID-19",
+        "грипп",
+        "здоровье",
+        "инфекция",
+        "пандемия",
+        "болезнь",
+        "вакцина",
+        "вирусный"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bug computer virus malware",
+        "bug software virus",
+        "coronavirus spike protein virus",
+        "coronavirus COVID variant",
+        "covid-19 virus spread pandemic",
+        "COVID-19 health crisis",
+        "flu virus seasonal infection",
+        "influenza flu virus",
+        "health virus risk disease",
+        "health impact virus spread",
+        "infection virus spreading",
+        "viral infection body",
+        "pandemic virus global spread",
+        "pandemic health crisis virus",
+        "sick virus symptoms",
+        "sick from virus flu",
+        "vaccine protect against virus",
+        "virus vaccine development",
+        "viral spread virus social media",
+        "viral content online"
+      ],
+      "ru": [
+        "компьютерный вирус вредоносное ПО",
+        "вирус программного обеспечения",
+        "коронавирус шип белок вирус",
+        "вариант коронавируса COVID",
+        "распространение вируса COVID-19 пандемия",
+        "COVID-19 кризис здоровья",
+        "сезонный грипп вирус инфекция",
+        "грипп вирус",
+        "риск вируса здоровья болезнь",
+        "влияние вируса на здоровье распространение",
+        "инфекция вирус распространяется",
+        "вирусная инфекция тело",
+        "пандемия вирус глобальное распространение",
+        "пандемия кризис здоровья вирус",
+        "симптомы вируса болезнь",
+        "заболеть от вируса гриппа",
+        "вакцина защита от вируса",
+        "разработка вакцины от вируса",
+        "вирусное распространение в соц сетях",
+        "вирусный контент онлайн"
+      ]
+    },
+    "regular": {
+      "en": [
+        "coronavirus spike ball virus illustration",
+        "COVID-19 virus cell microscope",
+        "flu virus season prevention",
+        "computer virus malware infection",
+        "virus spread person to person",
+        "vaccine syringe virus prevention",
+        "antivirus software protection",
+        "virus mutation variant strain",
+        "pandemic global health virus",
+        "viral video sharing spread"
+      ],
+      "ru": [
+        "иллюстрация коронавируса шар с шипами",
+        "клетка вируса COVID-19 под микроскопом",
+        "профилактика сезонного гриппа",
+        "компьютерный вирус вредоносное ПО инфекция",
+        "распространение вируса от человека к человеку",
+        "шприц вакцины профилактика вируса",
+        "антивирусная защита программного обеспечения",
+        "мутация вируса вариант штамм",
+        "пандемия глобальное здоровье вирус",
+        "вирусное видео совместное использование"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a virus icon for the health section",
+        "add a coronavirus symbol to the medical feature",
+        "show a virus for the pandemic awareness",
+        "use the virus icon for the infection alert"
+      ],
+      "ru": [
+        "нужна иконка вируса для раздела здоровья",
+        "добавь символ коронавируса к медицинской функции",
+        "покажи вирус для информирования о пандемии",
+        "используй иконку вируса для предупреждения об инфекции"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cornoavirus virus covid",
+        "viurs infection spread",
+        "pandmeic virus health",
+        "vaccien virus protect"
+      ],
+      "ru": [
+        "коронавирус вирус COVID",
+        "вирус инфекция распространение",
+        "пандемия вирус здоровье",
+        "вакцина вирус защита"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "bacteria germ microbe round",
+        "DNA strand genetic code",
+        "cell biology organism",
+        "mask face covering protection",
+        "hospital cross medical symbol",
+        "temperature fever thermometer"
+      ],
+      "ru": [
+        "бактерия микроб микроорганизм круглый",
+        "цепочка ДНК генетический код",
+        "клетка биология организм",
+        "маска защита лица",
+        "крест больницы медицинский символ",
+        "температура лихорадка термометр"
+      ]
+    },
+    "valid": {
+      "en": [
+        "virus COVID icon",
+        "coronavirus symbol health",
+        "infection virus pandemic"
+      ],
+      "ru": [
+        "иконка вируса COVID",
+        "символ коронавируса здоровье",
+        "инфекция вирус пандемия"
+      ]
+    },
+    "test": {
+      "en": [
+        "virus icon health",
+        "coronavirus symbol",
+        "infection virus spread"
+      ],
+      "ru": [
+        "иконка вируса здоровье",
+        "символ коронавируса",
+        "инфекция вирус распространение"
+      ]
+    }
+  }
+}

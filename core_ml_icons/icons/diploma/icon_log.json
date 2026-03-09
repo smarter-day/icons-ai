@@ -1,0 +1,96 @@
+{
+  "icon": "diploma",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "award",
+        "certificate",
+        "college",
+        "education",
+        "graduate",
+        "graduation",
+        "scholar",
+        "university"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Win an award for best performance",
+        "Give out awards at the ceremony",
+        "Get a certificate of completion",
+        "Hang the certificate on the wall",
+        "Apply to college",
+        "Choose the right college",
+        "Invest in education",
+        "Support education programs",
+        "Graduate from the program",
+        "Celebrate the graduate",
+        "Attend the graduation ceremony",
+        "Plan the graduation party",
+        "Become a scholar in the field",
+        "Apply for a scholarship",
+        "Graduate from university",
+        "Apply to university programs"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Attend the graduation ceremony",
+        "Frame the diploma",
+        "Apply for a scholarship",
+        "Celebrate finishing the degree",
+        "Send graduation announcements",
+        "Plan a graduation party",
+        "Pick up the diploma from school",
+        "Apply to graduate school",
+        "Order a graduation cap and gown",
+        "Share the graduation photo"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Graduation day!",
+        "Got my diploma",
+        "School's done",
+        "Grad party time"
+      ]
+    },
+    "typo": {
+      "en": [
+        "gradution ceremony",
+        "fram the diplom",
+        "apply for scholrship",
+        "celebarte graduation"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Win a sports trophy",
+        "Earn a work promotion",
+        "Receive an employee award",
+        "Get a participation medal",
+        "Frame a family photo",
+        "Hang a certificate of appreciation"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Attend the graduation ceremony",
+        "Frame the diploma",
+        "Celebrate finishing the degree"
+      ]
+    },
+    "test": {
+      "en": [
+        "Plan a graduation party",
+        "Apply for a scholarship",
+        "Pick up the diploma from school"
+      ]
+    }
+  }
+}

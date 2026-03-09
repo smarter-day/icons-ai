@@ -1,0 +1,160 @@
+{
+  "icon": "bell-ring",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Ringing Bell",
+        "alarm",
+        "alert",
+        "chime",
+        "notification",
+        "reminder",
+        "request"
+      ],
+      "ru": [
+        "Звонящий колокол",
+        "будильник",
+        "оповещение",
+        "перезвон",
+        "уведомление",
+        "напоминание",
+        "запрос"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "set a ringing bell reminder",
+        "set an alarm for tomorrow",
+        "set an alert for the deadline",
+        "chime reminder at 3pm",
+        "turn on notifications",
+        "add a reminder for the meeting",
+        "ring for service",
+        "Ringing bell for the end of class",
+        "Alarm set for 6:30 tomorrow morning",
+        "Alert triggered by the security system",
+        "Door chime installed at the entrance",
+        "Push notification for the app update",
+        "Reminder added to the shared calendar",
+        "Ring the bell at the front desk"
+      ],
+      "ru": [
+        "поставить напоминание с колокольчиком",
+        "поставить будильник на завтра",
+        "установить оповещение о дедлайне",
+        "напоминание с перезвоном в 15:00",
+        "включить уведомления",
+        "добавить напоминание о встрече",
+        "позвонить в звонок для обслуживания",
+        "Звонок колокола в конце урока",
+        "Будильник установлен на 6:30 завтра",
+        "Тревога сработала от системы безопасности",
+        "Дверной звонок установлен у входа",
+        "Push-уведомление об обновлении приложения",
+        "Напоминание добавлено в общий календарь",
+        "Позвонить в колокольчик на ресепшене"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Set a reminder for the doctor's appointment",
+        "Ring the bell for service",
+        "Set the alarm for 7am",
+        "Enable notifications for the app",
+        "Schedule a reminder for the call",
+        "Doorbell check before guests arrive",
+        "Set a daily reminder",
+        "Ring for assistance at the hotel",
+        "Alert for the medication",
+        "Morning alarm setup"
+      ],
+      "ru": [
+        "Поставить напоминание о визите к врачу",
+        "Позвонить в звонок для обслуживания",
+        "Поставить будильник на 7 утра",
+        "Включить уведомления в приложении",
+        "Запланировать напоминание о звонке",
+        "Проверить дверной звонок перед приходом гостей",
+        "Установить ежедневное напоминание",
+        "Позвонить в звонок в отеле",
+        "Напоминание о приёме лекарств",
+        "Настройка утреннего будильника"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Don't let me forget — set a reminder",
+        "I need an alert so I don't miss this",
+        "Can you set a bell reminder for me?",
+        "Remind me about this at 5pm"
+      ],
+      "ru": [
+        "Не дай мне забыть — поставь напоминание",
+        "Мне нужно оповещение чтобы не пропустить",
+        "Поставь мне напоминание с колокольчиком",
+        "Напомни мне об этом в 17:00"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Set an alrm for tomorrow",
+        "Enble notifcations",
+        "Rnging bell remider",
+        "Set a remaider for the meating"
+      ],
+      "ru": [
+        "Поставть будильник на завтра",
+        "Включть уведомлния",
+        "Напомнение с коокольчиком",
+        "Поставть напомниание о встрчи"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Set a silent notification",
+        "Christmas bells decoration",
+        "Church bell schedule",
+        "Alarm clock setup",
+        "Timer for cooking",
+        "Phone ringtone change"
+      ],
+      "ru": [
+        "Поставить тихое уведомление",
+        "Рождественские колокола в декоре",
+        "Расписание церковных колоколов",
+        "Настройка будильника",
+        "Таймер для готовки",
+        "Изменить мелодию звонка"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Ring bell reminder for the call",
+        "Set an alert for the appointment",
+        "Daily reminder at 9am"
+      ],
+      "ru": [
+        "Напоминание с колокольчиком о звонке",
+        "Установить оповещение о встрече",
+        "Ежедневное напоминание в 9 утра"
+      ]
+    },
+    "test": {
+      "en": [
+        "Bell notification for the deadline",
+        "Set alarm for the early meeting",
+        "Reminder set for this evening"
+      ],
+      "ru": [
+        "Уведомление-колокол о дедлайне",
+        "Поставить будильник на раннюю встречу",
+        "Напоминание на этот вечер"
+      ]
+    }
+  }
+}

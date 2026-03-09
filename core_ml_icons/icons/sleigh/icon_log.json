@@ -1,0 +1,166 @@
+{
+  "icon": "sleigh",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "christmas",
+        "claus",
+        "fly",
+        "holiday",
+        "santa",
+        "sled",
+        "snow",
+        "xmas"
+      ],
+      "ru": [
+        "рождество",
+        "Клаус",
+        "летать",
+        "праздник",
+        "Санта",
+        "сани",
+        "снег",
+        "Xmas"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "christmas sleigh with santa and reindeer",
+        "Christmas Eve sleigh flying",
+        "Santa Claus riding sleigh with gifts",
+        "Claus sleigh delivering presents",
+        "sleigh flying through night sky",
+        "reindeer fly the sleigh over rooftops",
+        "holiday sleigh decoration on card",
+        "holiday greeting with sleigh scene",
+        "Santa on sleigh symbol",
+        "santa sleigh icon for holiday app",
+        "sled sleigh pulled by reindeer",
+        "old wooden sled as christmas sleigh",
+        "snow covered sleigh in winter",
+        "sleigh tracks in fresh snow",
+        "xmas sleigh card design",
+        "xmas eve sleigh flying over moon"
+      ],
+      "ru": [
+        "рождественские сани с Сантой и оленями",
+        "сани летят в рождественский вечер",
+        "Санта-Клаус едет в санях с подарками",
+        "сани Клауса доставляют подарки",
+        "сани летят через ночное небо",
+        "олени несут сани над крышами",
+        "праздничные сани на открытке",
+        "праздничная открытка со сценой саней",
+        "символ Санты на санях",
+        "иконка саней Санты для праздничного приложения",
+        "сани тянут олени",
+        "старые деревянные сани как рождественские",
+        "покрытые снегом сани зимой",
+        "следы саней в свежем снегу",
+        "дизайн открытки рождественских саней",
+        "сани Xmas летят над луной"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Santa Claus flying sleigh pulled by reindeer",
+        "Christmas Eve sleigh over snowy rooftops",
+        "wooden holiday sleigh with bells",
+        "sleigh tracks in fresh fallen snow",
+        "santa sleigh silhouette against full moon",
+        "vintage horse-drawn sleigh in winter",
+        "christmas card with sleigh and gifts",
+        "animated santa sleigh in app icon",
+        "holiday decoration sleigh centerpiece",
+        "sleigh ride in snowy forest"
+      ],
+      "ru": [
+        "Санта-Клаус летит в санях, запряжённых оленями",
+        "сани над заснеженными крышами в рождественский вечер",
+        "деревянные праздничные сани с колокольчиками",
+        "следы саней в свежевыпавшем снегу",
+        "силуэт саней Санты на фоне полной луны",
+        "старинные конные сани зимой",
+        "рождественская открытка с санями и подарками",
+        "анимированные сани Санты в иконке приложения",
+        "праздничное украшение центральный элемент сани",
+        "поездка на санях в заснеженном лесу"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sleigh icon for the Christmas app",
+        "add a Santa sleigh symbol to the holiday section",
+        "show a sleigh for the Christmas Eve feature",
+        "use the sleigh icon for the holiday greeting card"
+      ],
+      "ru": [
+        "мне нужна иконка саней для рождественского приложения",
+        "добавь символ саней Санты в праздничный раздел",
+        "покажи сани для функции рождественского вечера",
+        "используй иконку саней для праздничной открытки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Santa Calus flying sleigh with reindeer",
+        "Chrsitmas Eve sleigh over rooftops",
+        "woodne holiday sleigh with bells",
+        "sleiigh tracks in fresh fallen snow"
+      ],
+      "ru": [
+        "Санта-Клаус летит в санях с оленями",
+        "сани над крышами в рождесвтенский вечер",
+        "деревяные праздничные сани с колокольчиками",
+        "следы санeй в снегу"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Christmas tree decorated with ornaments",
+        "reindeer animal without sleigh",
+        "snowflake crystal pattern in winter",
+        "wrapped gift box under Christmas tree",
+        "sled for children on snowy hill",
+        "snowman built in yard with hat"
+      ],
+      "ru": [
+        "рождественская ёлка с игрушками",
+        "олень без саней",
+        "снежинка кристаллический узор зимой",
+        "завёрнутый подарок под ёлкой",
+        "санки для детей на снежном холме",
+        "снеговик во дворе со шляпой"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Santa sleigh flying with reindeer",
+        "Christmas sleigh over snowy rooftops",
+        "holiday sleigh icon for app"
+      ],
+      "ru": [
+        "сани Санты летят с оленями",
+        "рождественские сани над крышами",
+        "иконка праздничных саней"
+      ]
+    },
+    "test": {
+      "en": [
+        "sleigh on Christmas Eve delivery",
+        "wooden sleigh with christmas bells",
+        "xmas sleigh silhouette on moon"
+      ],
+      "ru": [
+        "сани в рождественскую ночь доставки",
+        "деревянные сани с рождественскими колокольчиками",
+        "силуэт саней на луне"
+      ]
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "icon": "calendar",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "calendar",
+        "calendar-o",
+        "date",
+        "day",
+        "event",
+        "month",
+        "schedule",
+        "tear-off calendar",
+        "time",
+        "when",
+        "year"
+      ],
+      "ru": [
+        "календарь",
+        "календарь-о",
+        "дата",
+        "день",
+        "событие",
+        "месяц",
+        "расписание",
+        "отрывной календарь",
+        "время",
+        "когда",
+        "год"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Check the calendar for free slots",
+        "Old calendar-style planner",
+        "Pick a date for the meeting",
+        "Day planner update",
+        "Event on the calendar this week",
+        "Monthly overview at a glance",
+        "Schedule the dentist appointment",
+        "Tear-off calendar for the kitchen",
+        "Time management calendar review",
+        "When is the next holiday",
+        "Year planner on the wall",
+        "Calendar synced across all devices",
+        "Classic paper calendar on the wall",
+        "Date night planned for next Friday",
+        "Day off request submitted for Monday",
+        "Event added to the shared team calendar",
+        "Monthly budget review on the first",
+        "Schedule confirmed for the new quarter",
+        "Tear-off page ripped — new day starts",
+        "Time blocked for deep work this afternoon",
+        "When is the next public holiday",
+        "Year-end review calendar prepared"
+      ],
+      "ru": [
+        "Проверить календарь на свободное время",
+        "Планировщик в стиле старого календаря",
+        "Выбрать дату для встречи",
+        "Обновить ежедневник",
+        "Событие в календаре на этой неделе",
+        "Обзор месяца одним взглядом",
+        "Записаться к стоматологу",
+        "Отрывной календарь для кухни",
+        "Обзор тайм-менеджмента в календаре",
+        "Когда следующий праздник",
+        "Планировщик на год на стене",
+        "Календарь синхронизирован на всех устройствах",
+        "Классный бумажный календарь на стене",
+        "Свидание запланировано на следующую пятницу",
+        "Заявка на выходной день на понедельник подана",
+        "Событие добавлено в общий командный календарь",
+        "Ежемесячный обзор бюджета первого числа",
+        "Расписание на новый квартал подтверждено",
+        "Листок отрывного календаря сорван — новый день",
+        "Время заблокировано для глубокой работы",
+        "Когда следующий государственный праздник",
+        "Годовой обзорный календарь подготовлен"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Check availability on the calendar",
+        "Block time for the project",
+        "Add the flight to the calendar",
+        "Monthly calendar reset",
+        "Family calendar for the school year",
+        "Calendar invite for the team",
+        "Mark the vacation on the calendar",
+        "Upcoming deadlines on the calendar",
+        "Sync calendar with the team",
+        "Annual leave planner update"
+      ],
+      "ru": [
+        "Проверить доступность в календаре",
+        "Заблокировать время для проекта",
+        "Добавить рейс в календарь",
+        "Сброс ежемесячного календаря",
+        "Семейный календарь на учебный год",
+        "Приглашение в календаре для команды",
+        "Отметить отпуск в календаре",
+        "Предстоящие дедлайны в календаре",
+        "Синхронизировать календарь с командой",
+        "Обновление планировщика ежегодного отпуска"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "what's on the calendar tomorrow",
+        "blocked that out on my calendar",
+        "can you check the calendar for me",
+        "nothing on the calendar this week"
+      ],
+      "ru": [
+        "что в календаре завтра",
+        "заблокировал это в своём календаре",
+        "можешь проверить календарь за меня",
+        "ничего в календаре на этой неделе"
+      ]
+    },
+    "typo": {
+      "en": [
+        "calender reminder for the meeting",
+        "shedule the appoitment",
+        "add to the calander for next week",
+        "montly review on the calender"
+      ],
+      "ru": [
+        "каледарь напоминание для встречи",
+        "запланировать встречу",
+        "добавить в каледарь на следующую неделю",
+        "ежемесячный обзор в каледнаре"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Alarm set for the morning wake-up",
+        "Task list for today's work",
+        "Countdown timer for the deadline",
+        "Daily planner notebook on the desk",
+        "Clock reminder not a calendar event",
+        "Recurring habit tracker not a date"
+      ],
+      "ru": [
+        "Будильник установлен для утреннего пробуждения",
+        "Список задач на сегодня",
+        "Таймер обратного отсчёта до дедлайна",
+        "Ежедневник на столе",
+        "Напоминание по часам а не событие в календаре",
+        "Трекер привычек а не конкретная дата"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Add the appointment to the calendar",
+        "Free slots on the calendar this week",
+        "Monthly schedule overview"
+      ],
+      "ru": [
+        "Добавить запись в календарь",
+        "Свободные слоты в календаре на этой неделе",
+        "Обзор расписания на месяц"
+      ]
+    },
+    "test": {
+      "en": [
+        "Calendar check for the weekend",
+        "Block off vacation days",
+        "Team meeting on the calendar"
+      ],
+      "ru": [
+        "Проверка календаря на выходные",
+        "Заблокировать дни отпуска",
+        "Командная встреча в календаре"
+      ]
+    }
+  }
+}

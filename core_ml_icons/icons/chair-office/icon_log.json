@@ -1,0 +1,136 @@
+{
+  "icon": "chair-office",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ergonomic",
+        "furniture",
+        "seat"
+      ],
+      "ru": [
+        "эргономичный",
+        "мебель",
+        "место"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Ergonomic office chair for back support",
+        "Furniture upgrade for the home office",
+        "Seat adjustment for the work desk",
+        "Ergonomic setup review with the physiotherapist",
+        "Furniture delivery scheduled for the new office",
+        "Seat height calibrated for the standing desk"
+      ],
+      "ru": [
+        "Эргономичное офисное кресло для поддержки спины",
+        "Апгрейд мебели для домашнего офиса",
+        "Регулировка сиденья рабочего места",
+        "Обзор эргономичного рабочего места с физиотерапевтом",
+        "Доставка мебели в новый офис запланирована",
+        "Высота сиденья настроена для стола с регулировкой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy an ergonomic chair for the desk",
+        "Office chair with lumbar support",
+        "Adjust the chair height at the desk",
+        "Standing desk chair for the office",
+        "Chair mat for the office floor",
+        "New office chair arriving today",
+        "Mesh back office chair order",
+        "Home office setup — new chair needed",
+        "Office chair armrest adjustment",
+        "Replace the old office chair"
+      ],
+      "ru": [
+        "Купить эргономичное кресло для стола",
+        "Офисное кресло с поддержкой поясницы",
+        "Отрегулировать высоту кресла у стола",
+        "Кресло для стола с регулировкой высоты",
+        "Защитный коврик для офисного пола под кресло",
+        "Новое офисное кресло приедет сегодня",
+        "Заказ офисного кресла с сетчатой спинкой",
+        "Настройка домашнего офиса — нужно новое кресло",
+        "Регулировка подлокотников офисного кресла",
+        "Заменить старое офисное кресло"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "my back is killing me need a better chair",
+        "spent so much on this office chair",
+        "finally got a proper desk chair",
+        "adjusting the chair height all day"
+      ],
+      "ru": [
+        "спина убивает нужно нормальное кресло",
+        "потратил столько на это офисное кресло",
+        "наконец-то нормальное кресло для работы",
+        "целый день регулирую высоту кресла"
+      ]
+    },
+    "typo": {
+      "en": [
+        "ergonomik office chair for the desk",
+        "ofice chaur with lumbar suport",
+        "new ofice chiar arriving toady",
+        "home ofice setup chair needed"
+      ],
+      "ru": [
+        "эргономчное кресло для стола",
+        "офисное кресол с поясничной поддержкой",
+        "новое офисное кресол приедет сегодня",
+        "настройка домашнего офиса нужно кресло"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Dining chair for the kitchen table",
+        "Gaming chair for the PC setup",
+        "Bar stool at the standing desk",
+        "Sofa for the office lounge area",
+        "Kneeling chair for posture correction",
+        "Exercise ball instead of a chair"
+      ],
+      "ru": [
+        "Обеденный стул для кухонного стола",
+        "Игровое кресло для ПК",
+        "Барный стул у стола для стоячей работы",
+        "Диван для зоны отдыха в офисе",
+        "Колленный стул для коррекции осанки",
+        "Фитбол вместо стула"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Ergonomic chair for the home office",
+        "Office chair lumbar support adjustment",
+        "New desk chair order placed"
+      ],
+      "ru": [
+        "Эргономичное кресло для домашнего офиса",
+        "Регулировка поясничной поддержки офисного кресла",
+        "Заказ нового кресла для стола оформлен"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy an ergonomic office chair",
+        "Adjust office chair for the posture",
+        "Home office chair upgrade"
+      ],
+      "ru": [
+        "Купить эргономичное офисное кресло",
+        "Настроить кресло для правильной осанки",
+        "Апгрейд кресла для домашнего офиса"
+      ]
+    }
+  }
+}

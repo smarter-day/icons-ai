@@ -1,0 +1,148 @@
+{
+  "icon": "bullseye",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "archery",
+        "goal",
+        "objective",
+        "strategy",
+        "target"
+      ],
+      "ru": [
+        "стрельба из лука",
+        "цель",
+        "задача",
+        "стратегия",
+        "мишень"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Archery club practice session",
+        "Set a new goal for this month",
+        "Define objectives for the quarter",
+        "Strategy meeting for the campaign",
+        "Hit the target by the deadline",
+        "Archery tournament registration this weekend",
+        "Goal review at the end of the month",
+        "Clear objectives for the new project phase",
+        "Annual strategy planning retreat booked",
+        "Sales target for Q3 finalized"
+      ],
+      "ru": [
+        "Тренировка в клубе стрельбы из лука",
+        "Поставить новую цель на этот месяц",
+        "Определить задачи на квартал",
+        "Стратегическое совещание по кампании",
+        "Достичь цели к дедлайну",
+        "Регистрация на турнир по стрельбе из лука",
+        "Пересмотр целей в конце месяца",
+        "Чёткие задачи для нового этапа проекта",
+        "Ежегодный ретрит по стратегическому планированию",
+        "Целевые показатели продаж Q3 утверждены"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Focus on the main objective today",
+        "Weekly goal check-in",
+        "Aim for a bullseye result",
+        "Set a deadline and stick to it",
+        "Quarterly target review",
+        "Define success criteria for the project",
+        "Stay focused on the goal",
+        "Annual strategy planning",
+        "Reach the marketing target",
+        "Zero in on the objective"
+      ],
+      "ru": [
+        "Сосредоточиться на главной задаче сегодня",
+        "Еженедельный контроль целей",
+        "Стремиться к результату в яблочко",
+        "Поставить дедлайн и придерживаться его",
+        "Квартальный обзор показателей",
+        "Определить критерии успеха проекта",
+        "Оставаться сосредоточенным на цели",
+        "Годовое стратегическое планирование",
+        "Достичь маркетинговой цели",
+        "Сосредоточиться на задаче"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "nailed it — right on target",
+        "what's the goal here anyway",
+        "trying to hit our numbers this month",
+        "straight to the point, just do it"
+      ],
+      "ru": [
+        "попал — прямо в яблочко",
+        "в чём вообще цель",
+        "пытаемся выполнить план в этом месяце",
+        "прямо к делу, просто сделай это"
+      ]
+    },
+    "typo": {
+      "en": [
+        "hit the tatget this quarter",
+        "set a goall for the month",
+        "define objetive clearly",
+        "stategic plan for the year"
+      ],
+      "ru": [
+        "достичь целли в этом квартале",
+        "поставить зцель на месяц",
+        "чётко определить задачу",
+        "стратегическйи план на год"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Click target on the interactive map",
+        "Precise pointer aimed at center",
+        "Simple bullseye ring for decoration",
+        "Goal completion without any cursor",
+        "Bull's-eye pattern for the wall art",
+        "Target achieved no clicking needed"
+      ],
+      "ru": [
+        "Нажать на цель на интерактивной карте",
+        "Точный указатель в центре",
+        "Простое кольцо мишени для декора",
+        "Достижение цели без курсора",
+        "Рисунок мишени для настенного арта",
+        "Цель достигнута без кликов"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Laser focus on this week's target",
+        "Business objective for the roadmap",
+        "Hit our sales goal this quarter"
+      ],
+      "ru": [
+        "Лазерный фокус на цели этой недели",
+        "Бизнес-задача для дорожной карты",
+        "Выполнить план продаж в этом квартале"
+      ]
+    },
+    "test": {
+      "en": [
+        "On target for the deadline",
+        "Direct aim at the primary objective",
+        "Bullseye strategy session"
+      ],
+      "ru": [
+        "В срок к дедлайну",
+        "Прямая нацеленность на основную задачу",
+        "Стратегическая сессия по мишени"
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "icon": "laptop",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "computer",
+        "laptop",
+        "mac",
+        "macbook",
+        "pc"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy a new computer for work",
+        "Fix the computer issue",
+        "Buy a lightweight laptop",
+        "Set up the new laptop",
+        "Get a new Mac for the studio",
+        "Set up the Mac at home",
+        "Buy a MacBook Pro",
+        "Configure the MacBook settings",
+        "Buy a PC laptop",
+        "Use the PC for work"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy a new laptop for work",
+        "Set up the MacBook",
+        "Work on the laptop at the cafe",
+        "Update the laptop software",
+        "Back up the laptop files",
+        "Fix the slow laptop",
+        "Connect the laptop to the monitor",
+        "Charge the laptop battery",
+        "Clean the laptop screen",
+        "Replace the laptop battery"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "New laptop!",
+        "MacBook setup",
+        "Work from laptop",
+        "Laptop upgrade"
+      ]
+    },
+    "typo": {
+      "en": [
+        "buy a new laotop",
+        "set up the macbok",
+        "work on lpatop at cafe",
+        "updat the laptpo software"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Set up a desktop computer",
+        "Use a tablet for work",
+        "Work on a smartphone",
+        "Use a Chromebook instead",
+        "Set up a gaming PC",
+        "Use a server for computing"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Buy a new laptop for work",
+        "Set up the MacBook",
+        "Work on the laptop at the cafe"
+      ]
+    },
+    "test": {
+      "en": [
+        "Update the laptop software",
+        "Connect the laptop to the monitor",
+        "Replace the laptop battery"
+      ]
+    }
+  }
+}

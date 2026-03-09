@@ -1,0 +1,136 @@
+{
+  "icon": "utility-pole",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "phone",
+        "power",
+        "transmission"
+      ],
+      "ru": [
+        "телефон",
+        "электричество",
+        "передача"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "phone lines on utility pole",
+        "telephone wire utility pole",
+        "power line utility pole electricity",
+        "power utility pole high voltage",
+        "transmission utility pole grid",
+        "power transmission line pole"
+      ],
+      "ru": [
+        "телефонные линии на столбе",
+        "телефонный провод столб коммунальный",
+        "линия электропередачи столб электричество",
+        "столб высокого напряжения",
+        "передача электроэнергии столб сеть",
+        "столб линии электропередачи"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wooden utility pole with wires",
+        "power line pole neighborhood street",
+        "utility pole transformer mounted",
+        "telegraph pole old telephone lines",
+        "utility pole after storm damage",
+        "utility pole crew maintenance",
+        "underground cable alternative pole",
+        "utility pole marking paint",
+        "power grid utility pole rural",
+        "utility pole crossarm insulator"
+      ],
+      "ru": [
+        "деревянный столб с проводами",
+        "столб электросети соседская улица",
+        "столб с трансформатором",
+        "телеграфный столб старые телефонные линии",
+        "столб после шторма повреждение",
+        "обслуживание бригады столбов",
+        "подземный кабель альтернатива столбу",
+        "маркировка столба краской",
+        "сельская электрическая сеть столбы",
+        "перекладина изолятор столба"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a utility pole icon for the infrastructure section",
+        "add a power line symbol to the electricity feature",
+        "show a utility pole for the grid category",
+        "use the utility-pole icon for the transmission section"
+      ],
+      "ru": [
+        "нужна иконка столба для раздела инфраструктуры",
+        "добавь символ линии электропередачи к функции электричества",
+        "покажи столб для категории электросети",
+        "используй иконку столба для раздела передачи энергии"
+      ]
+    },
+    "typo": {
+      "en": [
+        "utiltiy pole power",
+        "powre line pole street",
+        "tranmission pole grid",
+        "phonne wire pole"
+      ],
+      "ru": [
+        "столб электросети",
+        "линия передачи столб улица",
+        "передаточный столб сеть",
+        "телефонный провод столб"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "tower broadcast antenna tall",
+        "cell tower mobile signal",
+        "power station building electric",
+        "windmill turbine electricity",
+        "solar panel renewable power",
+        "lightning bolt electricity symbol"
+      ],
+      "ru": [
+        "вышка трансляции антенна высокая",
+        "сотовая вышка мобильный сигнал",
+        "электростанция здание электрическое",
+        "ветряная мельница турбина электричество",
+        "солнечная панель возобновляемая энергия",
+        "молния символ электричества"
+      ]
+    },
+    "valid": {
+      "en": [
+        "utility pole power lines icon",
+        "telephone pole symbol",
+        "power transmission pole"
+      ],
+      "ru": [
+        "иконка электрического столба",
+        "символ телефонного столба",
+        "столб передачи электроэнергии"
+      ]
+    },
+    "test": {
+      "en": [
+        "utility-pole icon",
+        "power pole symbol",
+        "telephone wire pole"
+      ],
+      "ru": [
+        "иконка коммунального столба",
+        "символ электрического столба",
+        "телефонный провод столб"
+      ]
+    }
+  }
+}

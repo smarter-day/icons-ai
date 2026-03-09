@@ -1,0 +1,186 @@
+{
+  "icon": "pie",
+  "rows": {
+    "train_en": 58,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "apple",
+        "bakery",
+        "cake",
+        "crust",
+        "dessert",
+        "filling",
+        "fruit",
+        "meat",
+        "pastry",
+        "pie",
+        "pumpkin",
+        "tart"
+      ],
+      "ru": [
+        "яблоко",
+        "пекарня",
+        "торт",
+        "корж",
+        "десерт",
+        "начинка",
+        "фрукт",
+        "мясо",
+        "выпечка",
+        "пирог",
+        "тыква",
+        "тарт"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "apple pie fresh from oven",
+        "apple pie with cinnamon filling",
+        "bakery display pie for sale",
+        "bakery fresh-baked pie",
+        "cake or pie dessert slice",
+        "birthday cake with pie crust",
+        "flaky pie crust golden brown",
+        "buttery pie crust recipe",
+        "dessert pie with whipped cream",
+        "sweet dessert pie serving",
+        "fruit pie filling bubbling",
+        "mixed berry fruit pie",
+        "meat pie savory filling",
+        "shepherd's pie with potato",
+        "pastry pie dough and filling",
+        "flaky pastry pie shell",
+        "classic homemade pie",
+        "traditional pie recipe",
+        "pumpkin pie for Thanksgiving",
+        "spiced pumpkin pie slice",
+        "mini tart with fruit",
+        "individual pastry tart"
+      ],
+      "ru": [
+        "яблочный пирог свежий из духовки",
+        "яблочный пирог с начинкой из корицы",
+        "пирог на витрине пекарни для продажи",
+        "свежеиспечённый пирог в пекарне",
+        "десерт кусок пирога или торта",
+        "торт ко дню рождения с коржом пирога",
+        "слоёный корж пирога золотисто-коричневый",
+        "рецепт масляного коржа пирога",
+        "десертный пирог с взбитыми сливками",
+        "порция сладкого десертного пирога",
+        "начинка фруктового пирога булькает",
+        "пирог с ягодным ассорти",
+        "пирог с мясной начинкой",
+        "пастуший пирог с картошкой",
+        "выпечка тесто и начинка для пирога",
+        "форма слоёного выпечного пирога",
+        "классический домашний пирог",
+        "традиционный рецепт пирога",
+        "тыквенный пирог на День благодарения",
+        "кусок пряного тыквенного пирога",
+        "мини-тарт с фруктами",
+        "индивидуальный выпечной тарт"
+      ]
+    },
+    "regular": {
+      "en": [
+        "slice of apple pie with golden crust",
+        "whole pumpkin pie for Thanksgiving",
+        "bakery display of assorted pies",
+        "homemade fruit pie cooling on rack",
+        "meat pie with flaky pastry crust",
+        "dessert pie icon for food app",
+        "cherry pie with lattice crust",
+        "lemon meringue tart",
+        "shepherd's pie with mashed potato topping",
+        "mini tart with custard filling"
+      ],
+      "ru": [
+        "кусок яблочного пирога с золотистым коржом",
+        "целый тыквенный пирог на День благодарения",
+        "витрина пекарни с ассортиментом пирогов",
+        "домашний фруктовый пирог остывающий на решётке",
+        "мясной пирог со слоёным коржом",
+        "иконка пирога-десерта для пищевого приложения",
+        "вишнёвый пирог с решёточным коржом",
+        "лимонный тарт-безе",
+        "пастуший пирог с пюре сверху",
+        "мини-тарт с заварным кремом"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pie icon for the bakery section",
+        "add a pie symbol to the dessert category",
+        "show a pie for the food recipe feature",
+        "use the pie icon for the pastry screen"
+      ],
+      "ru": [
+        "Мне нужна иконка пирога для раздела пекарни",
+        "добавить символ пирога в категорию десертов",
+        "показать пирог для функции рецептов еды",
+        "использовать иконку пирога для экрана выпечки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "appple pie crust",
+        "bakrey pie",
+        "pumkin pie",
+        "pastrey pie"
+      ],
+      "ru": [
+        "яблочный прог корж",
+        "пеакрня пирог",
+        "тыкванный пирог",
+        "выпечак пирог"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "cake with frosting and candles",
+        "cookie baked flat",
+        "donut with glaze",
+        "bread loaf baked fresh",
+        "cupcake with frosting",
+        "muffin in paper cup"
+      ],
+      "ru": [
+        "торт с глазурью и свечами",
+        "плоское испечённое печенье",
+        "пончик с глазурью",
+        "буханка свежеиспечённого хлеба",
+        "кекс с глазурью",
+        "маффин в бумажной форме"
+      ]
+    },
+    "valid": {
+      "en": [
+        "pie dessert icon",
+        "apple or pumpkin pie",
+        "pie with flaky crust"
+      ],
+      "ru": [
+        "иконка пирога-десерта",
+        "яблочный или тыквенный пирог",
+        "пирог со слоёным коржом"
+      ]
+    },
+    "test": {
+      "en": [
+        "pie icon",
+        "fruit pie bakery",
+        "pumpkin pie dessert"
+      ],
+      "ru": [
+        "иконка пирога",
+        "фруктовый пирог пекарня",
+        "тыквенный пирог десерт"
+      ]
+    }
+  }
+}

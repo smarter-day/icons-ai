@@ -1,0 +1,142 @@
+{
+  "icon": "shelves",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "archive",
+        "box",
+        "shipping",
+        "warehouse"
+      ],
+      "ru": [
+        "архив",
+        "коробка",
+        "доставка",
+        "склад"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "archive shelves in records room",
+        "document archive on metal shelves",
+        "cardboard box on storage shelf",
+        "box stacked on warehouse shelves",
+        "shipping items stored on shelves",
+        "shipping department shelving unit",
+        "warehouse shelves stacked with goods",
+        "warehouse shelving system for inventory"
+      ],
+      "ru": [
+        "архивные полки в архивном помещении",
+        "архив документов на металлических полках",
+        "картонная коробка на стеллаже хранения",
+        "коробки сложены на складских полках",
+        "товары для отгрузки на полках",
+        "стеллаж отдела доставки",
+        "складские полки уставлены товарами",
+        "система стеллажей для инвентаря склада"
+      ]
+    },
+    "regular": {
+      "en": [
+        "metal warehouse shelving unit with multiple tiers",
+        "wooden bookshelf with rows of books",
+        "supermarket shelf stocked with products",
+        "kitchen shelf with organized containers",
+        "garage shelving for tools and supplies",
+        "archive room with floor-to-ceiling shelves",
+        "refrigerated shelf in grocery store",
+        "display shelf for retail merchandise",
+        "flat-pack shelving assembled in home office",
+        "adjustable shelving brackets on wall"
+      ],
+      "ru": [
+        "металлический складской стеллаж с несколькими ярусами",
+        "деревянная книжная полка с рядами книг",
+        "полка супермаркета, заставленная продуктами",
+        "кухонная полка с организованными контейнерами",
+        "полки в гараже для инструментов и расходников",
+        "архивное помещение с полками от пола до потолка",
+        "охлаждаемая полка в продуктовом магазине",
+        "витринная полка для розничного товара",
+        "собранный стеллаж для домашнего офиса",
+        "регулируемые кронштейны полок на стене"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a shelves icon for the warehouse management app",
+        "add a shelf symbol to the inventory section",
+        "show shelves for the archive or storage feature",
+        "use the shelves icon for the product display screen"
+      ],
+      "ru": [
+        "мне нужна иконка полок для приложения управления складом",
+        "добавь символ полки в раздел инвентаря",
+        "покажи полки для функции архива или хранения",
+        "используй иконку полок для экрана отображения товаров"
+      ]
+    },
+    "typo": {
+      "en": [
+        "matel warehouse shelving with tiers",
+        "wooden bookshlef with rows of books",
+        "supermakert shelf stocked with products",
+        "archvie room with floor-to-ceiling shelves"
+      ],
+      "ru": [
+        "металлический складской стелаж с ярусами",
+        "деревяная книжная полка с рядами книг",
+        "полка суперамаркета с продуктами",
+        "архивное помещениес с полками до потолка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "storage box with lid closed",
+        "filing cabinet with multiple drawers",
+        "pallet with stacked goods on forklift",
+        "cupboard kitchen cabinet with doors",
+        "wardrobe clothes closet with hanging rail",
+        "locker row in school or gym hallway"
+      ],
+      "ru": [
+        "ящик с закрытой крышкой",
+        "картотека с несколькими ящиками",
+        "поддон со сложенными товарами на вилочном погрузчике",
+        "кухонный шкафчик с дверцами",
+        "гардероб с вешалкой для одежды",
+        "ряд шкафчиков в школе или спортзале"
+      ]
+    },
+    "valid": {
+      "en": [
+        "warehouse shelves stacked with goods",
+        "archive shelving unit with boxes",
+        "product shelves in retail store"
+      ],
+      "ru": [
+        "складские полки, уставленные товарами",
+        "архивный стеллаж с коробками",
+        "товарные полки в магазине"
+      ]
+    },
+    "test": {
+      "en": [
+        "metal shelving for warehouse storage",
+        "shelf icon for inventory app",
+        "multi-tier shelves with products"
+      ],
+      "ru": [
+        "металлические полки для склада",
+        "иконка полок для приложения инвентаря",
+        "многоярусные полки с товарами"
+      ]
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "icon": "ramp-loading",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "inventory",
+        "moving",
+        "shipping",
+        "storage",
+        "warehouse"
+      ],
+      "ru": [
+        "инвентарь",
+        "перевозка",
+        "доставка",
+        "хранение",
+        "склад"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "inventory loaded onto warehouse ramp",
+        "inventory management at loading dock",
+        "moving truck backed up to loading ramp",
+        "moving boxes down loading ramp",
+        "shipping containers rolled down ramp",
+        "shipping ramp at logistics center",
+        "storage unit accessible via loading ramp",
+        "storage facility ramp for heavy items",
+        "warehouse loading ramp for forklifts",
+        "warehouse dock ramp for deliveries"
+      ],
+      "ru": [
+        "инвентарь погружается по пандусу склада",
+        "управление инвентарём у погрузочной платформы",
+        "грузовик для переезда у погрузочного пандуса",
+        "коробки для переезда по пандусу",
+        "контейнеры скатываются по пандусу",
+        "пандус для доставки в логистическом центре",
+        "склад с пандусом для тяжёлых грузов",
+        "пандус для доступа к складскому помещению",
+        "погрузочный пандус для вилочных погрузчиков",
+        "платформа склада для поставок"
+      ]
+    },
+    "regular": {
+      "en": [
+        "loading ramp at warehouse dock for trucks",
+        "ramp with arrow indicating goods being loaded",
+        "forklift driving up loading dock ramp",
+        "shipping pallet moved down warehouse ramp",
+        "cargo being loaded onto transport via ramp",
+        "logistics center with multiple loading ramps",
+        "moving van ramp extended for loading furniture",
+        "industrial loading dock with elevated ramp",
+        "delivery ramp symbol on warehouse signage",
+        "goods ramp access for storage facility"
+      ],
+      "ru": [
+        "погрузочный пандус у склада для грузовиков",
+        "пандус со стрелкой, показывающей погрузку товаров",
+        "вилочный погрузчик едет по погрузочному пандусу",
+        "поддон доставки перемещается по пандусу склада",
+        "груз загружается в транспорт по пандусу",
+        "логистический центр с несколькими погрузочными пандусами",
+        "пандус грузового фургона для погрузки мебели",
+        "промышленная погрузочная платформа с пандусом",
+        "символ пандуса на вывеске склада",
+        "доступ к складу по грузовому пандусу"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a ramp loading icon for the warehouse management app",
+        "add a loading dock symbol to the shipping section",
+        "show a ramp for the logistics and moving feature",
+        "use the loading ramp icon for warehouse operations"
+      ],
+      "ru": [
+        "мне нужна иконка погрузочного пандуса для приложения управления складом",
+        "добавь символ дока для погрузки в раздел доставки",
+        "покажи пандус для функции логистики и перевозки",
+        "используй иконку пандуса для операций на складе"
+      ]
+    },
+    "typo": {
+      "en": [
+        "warehosue loading ramp for trucks",
+        "shiping ramp at logistics center",
+        "movign boxes down the ramp",
+        "inventroy loaded at warehouse dock"
+      ],
+      "ru": [
+        "погрузочный пандус скалда для грузовиков",
+        "пандус доствки в центре логистики",
+        "коробки для перезда по пандусу",
+        "инвентрь погружается у дока склада"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "forklift carrying pallet in warehouse aisle",
+        "conveyor belt moving packages in factory",
+        "pallet jack rolling heavy crate to storage",
+        "cargo ship crane lifting shipping container",
+        "delivery truck parked at loading dock",
+        "hand truck dolly with stacked boxes"
+      ],
+      "ru": [
+        "вилочный погрузчик везёт поддон по проходу склада",
+        "конвейерная лента перемещает посылки на фабрике",
+        "гидравлическая тележка везёт ящик на склад",
+        "кран грузового судна поднимает контейнер",
+        "грузовик стоит у погрузочной платформы",
+        "ручная тележка с уложенными коробками"
+      ]
+    },
+    "valid": {
+      "en": [
+        "loading ramp at warehouse dock",
+        "shipping ramp for moving goods",
+        "warehouse loading dock with ramp"
+      ],
+      "ru": [
+        "погрузочный пандус у склада",
+        "пандус для перемещения грузов",
+        "склад с погрузочной платформой"
+      ]
+    },
+    "test": {
+      "en": [
+        "ramp loading icon for warehouse app",
+        "moving truck backed up to loading ramp",
+        "cargo loaded via warehouse ramp"
+      ],
+      "ru": [
+        "иконка погрузочного пандуса для склада",
+        "грузовик для переезда у пандуса",
+        "груз загружается через пандус склада"
+      ]
+    }
+  }
+}

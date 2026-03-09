@@ -1,0 +1,172 @@
+{
+  "icon": "snake",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Ophiuchus",
+        "bearer",
+        "cobra",
+        "fauna",
+        "reptile",
+        "serpent",
+        "slither",
+        "snake",
+        "zodiac"
+      ],
+      "ru": [
+        "Змееносец",
+        "носитель",
+        "кобра",
+        "фауна",
+        "рептилия",
+        "змея",
+        "ползти",
+        "змея",
+        "зодиак"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Ophiuchus serpent bearer constellation",
+        "Ophiuchus 13th zodiac sign with snake",
+        "snake bearer holding serpent up",
+        "bearer of the serpent in mythology",
+        "cobra hood spread ready to strike",
+        "king cobra rearing up",
+        "local fauna includes venomous snakes",
+        "tropical fauna snake in rainforest",
+        "reptile snake scales and forked tongue",
+        "cold-blooded reptile coiled on rock",
+        "serpent coiled around staff symbol",
+        "serpent in garden of eden story",
+        "snake slithering across warm pavement",
+        "slither through the grass silently",
+        "snake icon for reptile app",
+        "boa constrictor squeezing prey",
+        "zodiac snake year in Chinese calendar",
+        "Chinese zodiac snake personality"
+      ],
+      "ru": [
+        "созвездие Змееносца носителя змеи",
+        "13-й знак зодиака Змееносец со змеёй",
+        "носитель змеи держит её высоко",
+        "носитель змеи в мифологии",
+        "кобра расправила капюшон готова к удару",
+        "королевская кобра встаёт в стойку",
+        "местная фауна включает ядовитых змей",
+        "тропическая фауна змея в джунглях",
+        "рептилия чешуя и раздвоенный язык",
+        "хладнокровная рептилия свернулась на камне",
+        "змея обернулась вокруг посоха символ",
+        "змея в саду Эдемском",
+        "змея ползёт по тёплому тротуару",
+        "бесшумно ползти по траве",
+        "иконка змеи для приложения рептилий",
+        "удав сдавливает добычу",
+        "год змеи в китайском календаре",
+        "личность знака змеи в гороскопе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "coiled cobra snake ready to strike",
+        "green tree snake slithering on branch",
+        "caduceus staff with two snakes intertwined",
+        "snake emoji in messaging app",
+        "venomous rattlesnake with tail rattle",
+        "anaconda large constrictor snake",
+        "snake shedding skin on ground",
+        "Chinese zodiac year of the snake",
+        "snake game classic Nokia mobile game",
+        "boa constrictor wrapped around tree branch"
+      ],
+      "ru": [
+        "кобра свернулась готова к нападению",
+        "зелёная древесная змея ползёт по ветке",
+        "кадуцей посох с двумя переплетёнными змеями",
+        "эмодзи змеи в мессенджере",
+        "ядовитая гремучая змея с погремушкой",
+        "анаконда большая змея-удав",
+        "змея сбрасывает кожу",
+        "китайский зодиак год змеи",
+        "игра змейка классическая мобильная игра Nokia",
+        "удав обернулся вокруг ветки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a snake icon for the reptile or wildlife app",
+        "add a snake symbol to the zodiac section",
+        "show a snake for the wildlife fauna feature",
+        "use the snake icon for the Chinese zodiac year"
+      ],
+      "ru": [
+        "мне нужна иконка змеи для приложения рептилий",
+        "добавь символ змеи в раздел зодиака",
+        "покажи змею для функции дикой природы",
+        "используй иконку змеи для года китайского зодиака"
+      ]
+    },
+    "typo": {
+      "en": [
+        "coiled cobre snake ready to strike",
+        "green tree snkae slithering on branch",
+        "venomous rattlesnake with rattle tail",
+        "Chniese zodiac year of the snake"
+      ],
+      "ru": [
+        "кобра свернулась готова к удрау",
+        "зелёная дрвесная змея на ветке",
+        "ядовитая грмеучая змея с погремушкой",
+        "китайский зодаик год змеи"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "lizard reptile with four legs and tail",
+        "crocodile alligator in swamp water",
+        "turtle tortoise with patterned shell",
+        "gecko climbing smooth wall",
+        "dragon mythical serpent fire-breathing",
+        "worm earthworm in garden soil"
+      ],
+      "ru": [
+        "ящерица рептилия с четырьмя ногами",
+        "крокодил в болотной воде",
+        "черепаха с узорчатым панцирем",
+        "геккон карабкается по гладкой стене",
+        "дракон мифический огнедышащий змей",
+        "дождевой червь в садовой почве"
+      ]
+    },
+    "valid": {
+      "en": [
+        "coiled cobra snake ready to strike",
+        "snake reptile fauna in nature",
+        "Chinese zodiac snake symbol"
+      ],
+      "ru": [
+        "кобра свернулась готова к удару",
+        "рептилия змея в природе",
+        "символ змеи китайского зодиака"
+      ]
+    },
+    "test": {
+      "en": [
+        "green snake slithering on branch",
+        "snake icon for wildlife app",
+        "venomous rattlesnake icon"
+      ],
+      "ru": [
+        "зелёная змея ползёт по ветке",
+        "иконка змеи для приложения о природе",
+        "ядовитая гремучая змея"
+      ]
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "icon": "key",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "key",
+        "lock",
+        "password",
+        "private",
+        "secret",
+        "unlock"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "metal key for the door lock",
+        "key to unlock the door",
+        "key fitting the lock",
+        "key to open the padlock",
+        "key as a password symbol",
+        "password protected by key",
+        "key for the private area",
+        "private key for access",
+        "secret key revealed",
+        "secret key for the vault",
+        "key to unlock the gate",
+        "unlock with the correct key"
+      ]
+    },
+    "regular": {
+      "en": [
+        "metal key on a keyring",
+        "key turning in the door lock",
+        "house key hanging on the hook",
+        "password key icon in the login form",
+        "skeleton key for the old castle",
+        "encryption key for security",
+        "car key fob in the pocket",
+        "key and padlock for the safe",
+        "spare key hidden under the mat",
+        "key icon for the password manager"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a key icon for the login screen",
+        "add a key symbol to the security section",
+        "show a key for the access control feature",
+        "use the key icon for the password manager"
+      ]
+    },
+    "typo": {
+      "en": [
+        "kye for the door lock",
+        "passowrd key icon",
+        "secert key revealed",
+        "unlocck with key"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "closed padlock on the gate",
+        "combination lock with a dial",
+        "password text field on the login form",
+        "fingerprint scanner for access",
+        "access card with magnetic strip",
+        "security badge worn on a lanyard"
+      ]
+    },
+    "valid": {
+      "en": [
+        "metal key on a keyring",
+        "key icon for login",
+        "encryption key symbol"
+      ]
+    },
+    "test": {
+      "en": [
+        "key icon",
+        "key symbol for lock",
+        "key for password"
+      ]
+    }
+  }
+}

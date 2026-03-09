@@ -1,0 +1,621 @@
+#!/usr/bin/env python3
+"""Generate English training data for icons 280-291."""
+from pathlib import Path
+import csv, json
+
+icons_dir = Path("icons")
+icons_dir.mkdir(exist_ok=True)
+
+def write_csv(path, rows):
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["text", "label"])
+        w.writerows(rows)
+
+def process_icon(icon, st_en, pst_en, reg_en, conv_en, typo_en, bnd_en, valid_en, test_en):
+    icon_dir = icons_dir / icon
+    icon_dir.mkdir(parents=True, exist_ok=True)
+    train_en = [(t, icon) for t in st_en + pst_en + reg_en + conv_en + typo_en + bnd_en]
+    write_csv(icon_dir / "train_en.csv", train_en)
+    write_csv(icon_dir / "valid_en.csv", [(t, icon) for t in valid_en])
+    write_csv(icon_dir / "test_en.csv",  [(t, icon) for t in test_en])
+    log = {
+        "icon": icon, "search_terms": st_en, "phrase_per_search_term": pst_en,
+        "regular": reg_en, "conversational": conv_en, "typo": typo_en,
+        "boundary": bnd_en, "valid": valid_en, "test": test_en,
+    }
+    with open(icon_dir / "icon_log.json", "w", encoding="utf-8") as f:
+        json.dump(log, f, ensure_ascii=False, indent=2)
+    n_st = len(st_en); n_pst = len(pst_en)
+    print(f"  {icon}: {len(train_en)} train rows  ({n_st} st + {n_pst} pst + 24)")
+
+# 280
+process_icon("award",
+    st_en=["guarantee", "honor", "praise", "prize", "recognition", "ribbon", "trophy", "warranty"],
+    pst_en=[
+        "product guarantee seal", "money-back guarantee badge",
+        "honor ribbon for top student", "highest honor award ceremony",
+        "team praise recognition badge", "praise for outstanding work",
+        "first prize ribbon at the fair", "grand prize winner badge",
+        "employee recognition award", "recognition badge for outstanding work",
+        "blue ribbon award for first place", "ribbon badge pinned to jacket",
+        "gold trophy for tournament winner", "trophy award on the podium",
+        "warranty guarantee symbol", "extended warranty seal badge",
+    ],
+    reg_en=[
+        "ribbon badge with circular medal center",
+        "first place award ribbon at the county fair",
+        "best-in-class recognition seal",
+        "achievement badge with star and ribbon",
+        "competition winner prize ribbon",
+        "employee of the month award icon",
+        "gold medal with decorative ribbon hanging",
+        "honor roll recognition badge",
+        "outstanding performance award ceremony",
+        "blue ribbon for the best exhibit",
+    ],
+    conv_en=[
+        "I need an award icon for the achievements page",
+        "add a prize ribbon to the leaderboard section",
+        "show an award badge when the user completes a challenge",
+        "use the recognition icon for the top performer category",
+    ],
+    typo_en=[
+        "guaranee badge",
+        "tropy for first place",
+        "recogniton ribbon",
+        "achivment award",
+    ],
+    bnd_en=[
+        "graduation diploma with university seal and ribbon",
+        "gold olympic medal on a lanyard",
+        "certificate of achievement with official signatures",
+        "winner podium with numbered positions",
+        "star rating displayed for a product review",
+        "numbered rank badge on a leaderboard",
+    ],
+    valid_en=["first place prize ribbon award", "recognition badge for top achievement", "warranty guarantee seal symbol"],
+    test_en=["award ribbon for winner", "honor recognition badge", "trophy prize symbol"],
+)
+
+# 281
+process_icon("axe",
+    st_en=["axe", "blade", "chop", "cut", "equipment", "fall", "hatchet", "lumberjack", "outdoors", "sharp", "split", "swing", "tool", "weapon", "wood"],
+    pst_en=[
+        "woodchopping axe for camping", "single-blade axe icon",
+        "axe blade with sharp edge", "sharpened blade on hatchet head",
+        "chop firewood with an axe", "chop down a tree trunk",
+        "cut through logs with a hatchet", "axe used to cut branches",
+        "camping equipment including axe", "forestry equipment with axe and saw",
+        "fell a tree with an axe", "timber falling after axe strike",
+        "small hatchet for the hiking pack", "hatchet with a hickory handle",
+        "lumberjack swinging heavy axe", "lumberjack in flannel chopping logs",
+        "outdoors axe for wilderness survival", "axe in the outdoor kit",
+        "sharp axe blade for splitting wood", "sharpen the axe before use",
+        "split firewood with a maul axe", "axe splitting a log cleanly in half",
+        "swing the axe overhead", "wide swing of the lumberjack axe",
+        "axe as a basic woodcutting tool", "tool belt with a hatchet",
+        "battle axe as a medieval weapon", "weapon axe used by Viking warriors",
+        "axe cutting through wood grain", "wood pile next to the axe",
+    ],
+    reg_en=[
+        "single-bit axe with a wooden handle",
+        "lumberjack chopping firewood in the forest",
+        "camping hatchet packed in a survival kit",
+        "medieval battle axe with an iron head",
+        "sharp axe blade raised overhead for a strike",
+        "axe head buried deep in a tree stump",
+        "fire axe mounted on an emergency wall bracket",
+        "Viking warrior with a double-headed axe",
+        "fireman axe for breaking down doors",
+        "splitting maul axe for log splitting",
+    ],
+    conv_en=[
+        "I need an axe icon for my survival game",
+        "add a hatchet symbol to the camping gear section",
+        "show an axe icon for the woodcutting ability",
+        "use the axe for the lumberjack character class",
+    ],
+    typo_en=[
+        "lumberjak axe in the forest",
+        "hacktet with hickory handle",
+        "woodchoping with heavy axe",
+        "sharpen the blde before use",
+    ],
+    bnd_en=[
+        "hunting knife with a leather belt sheath",
+        "knight's broadsword with an ornate crossguard",
+        "carpenter hammer driving a nail into wood",
+        "pickaxe breaking hard rocky ground",
+        "machete clearing jungle underbrush",
+        "chainsaw cutting through large timber",
+    ],
+    valid_en=["lumberjack axe for cutting wood", "camping hatchet with wooden handle", "axe splitting a log in two"],
+    test_en=["firewood chopping axe", "sharp hatchet for outdoor use", "wood-splitting axe blade"],
+)
+
+# 282
+process_icon("backpack",
+    st_en=["backpack", "bag", "book", "carry", "hiking", "rucksack", "satchel", "school", "travel"],
+    pst_en=[
+        "student backpack with zipper pockets", "hiking backpack strapped to shoulders",
+        "canvas bag with padded shoulder straps", "heavy bag for the school commute",
+        "book bag for the school year", "backpack filled with textbooks",
+        "carry backpack on your back", "carry-on backpack for airplane travel",
+        "hiking backpack with external frame", "hiking daypack for mountain trails",
+        "military rucksack for a long march", "rucksack packed for a multi-day hike",
+        "leather satchel with brass buckles", "satchel bag over one shoulder",
+        "school backpack hanging on the coat hook", "school bag with a name tag",
+        "lightweight travel backpack for a weekend", "travel backpack with a laptop sleeve",
+    ],
+    reg_en=[
+        "zippered backpack with multiple front pockets",
+        "student carrying a heavy backpack to class",
+        "hiking daypack with hip belt and chest strap",
+        "school bag hanging on the classroom hook",
+        "travel backpack packed for a weekend trip",
+        "water bottle in the side mesh pocket of a backpack",
+        "laptop backpack with a padded back panel",
+        "child with a bright-colored school backpack",
+        "military-style rucksack for a camping expedition",
+        "ergonomic backpack with adjustable padded straps",
+    ],
+    conv_en=[
+        "I need a backpack icon for the travel essentials page",
+        "add a school bag symbol to the student profile",
+        "show a hiking pack for the outdoor activities section",
+        "use the backpack icon for the packing checklist feature",
+    ],
+    typo_en=[
+        "backpakc for school",
+        "rucsack for hiking",
+        "satchel wiht brass buckles",
+        "shcool bag on the hook",
+    ],
+    bnd_en=[
+        "leather briefcase for a business meeting",
+        "rolling suitcase at airport check-in",
+        "shoulder handbag for everyday errands",
+        "gym duffel bag with a shoe compartment",
+        "crossbody messenger bag worn over shoulder",
+        "woven tote bag with long handles",
+    ],
+    valid_en=["student backpack with zipper", "hiking rucksack on the trail", "school bag packed with books"],
+    test_en=["travel backpack for weekend trip", "hiking daypack with shoulder straps", "school backpack for student"],
+)
+
+# 283
+process_icon("balloon",
+    st_en=["balloon", "birthday", "celebrate", "celebration", "helium", "party", "pop", "up"],
+    pst_en=[
+        "colorful balloon tied to a string", "balloon floating in the air",
+        "birthday balloon for the party", "balloon tied to birthday chair",
+        "celebrate with balloons and confetti", "balloons to celebrate the milestone",
+        "balloon decoration at the celebration", "release balloons for the celebration event",
+        "helium balloon floating upward", "helium-filled balloon drifting to the ceiling",
+        "party balloon bouquet on the table", "balloon tied to the party tent",
+        "pop the balloon with a needle", "balloon ready to pop at the game",
+        "balloon floating up to the sky", "up and away with helium balloon",
+    ],
+    reg_en=[
+        "round helium balloon on a long string",
+        "colorful birthday balloon bouquet",
+        "balloon floating toward the ceiling",
+        "balloon tied to a young child's wrist",
+        "party decoration with inflated balloons",
+        "heart-shaped balloon on Valentine's Day",
+        "cluster of colorful balloons at the entrance",
+        "red balloon drifting away in the open sky",
+        "balloon popping loudly at the party game",
+        "birthday message written on an inflated balloon",
+    ],
+    conv_en=[
+        "I need a balloon icon for the birthday reminder feature",
+        "add a party balloon to the event celebration screen",
+        "show balloons when the user achieves a milestone",
+        "use the balloon icon for the party invitation page",
+    ],
+    typo_en=[
+        "heliun balloon floating up",
+        "birthdya balloon for the party",
+        "celebraiton balloon decoration",
+        "paty balloon tied to the tent",
+    ],
+    bnd_en=[
+        "speech bubble above a character in a comic strip",
+        "soap bubble floating in the summer air",
+        "colorful kite flying high in the breeze",
+        "white fluffy cloud shape in the blue sky",
+        "water droplet falling from a leaf",
+        "rubber ball bouncing on the playground floor",
+    ],
+    valid_en=["helium balloon floating on a string", "birthday party balloon decoration", "colorful balloon floating upward"],
+    test_en=["party balloon for celebration", "balloon tied with a string", "birthday balloon icon"],
+)
+
+# 284
+process_icon("basketball",
+    st_en=["ball", "basketball", "dribble", "dunk", "hoop", "nba"],
+    pst_en=[
+        "orange ball with curved black seams", "ball used in a basketball match",
+        "basketball game on the court", "basketball rolling on hardwood floor",
+        "dribble the ball past the defender", "fast dribbling move down the lane",
+        "slam dunk through the hoop", "dunk the ball with two hands",
+        "ball through the hoop for two points", "metal hoop hanging from the backboard",
+        "watching the NBA finals on TV", "NBA team uniform with player number",
+    ],
+    reg_en=[
+        "orange basketball with black curved seam lines",
+        "player dribbling down the basketball court",
+        "slam dunk over the defensive player",
+        "basketball bouncing on hardwood floor",
+        "shooting a free throw toward the basket",
+        "NBA professional basketball playoff game",
+        "basketball net swishing after a score",
+        "outdoor basketball hoop on asphalt court",
+        "pickup game of basketball at the park",
+        "basketball spinning on top of a fingertip",
+    ],
+    conv_en=[
+        "I need a basketball icon for my sports app",
+        "add a ball icon to the NBA scores section",
+        "show a basketball for the team category",
+        "use the hoop icon for the sports news feed",
+    ],
+    typo_en=[
+        "basektball court",
+        "dribling the ball down court",
+        "dunk thrugh the hoop",
+        "basketbll game tonight",
+    ],
+    bnd_en=[
+        "black and white soccer ball on grass field",
+        "white volleyball being spiked over the net",
+        "yellow tennis ball on red clay court",
+        "American football with white laces",
+        "baseball with red stitching on white leather",
+        "rugby ball with a pointed oval shape",
+    ],
+    valid_en=["basketball with curved black seam lines", "NBA basketball for sports app", "hoop for basketball scoring"],
+    test_en=["orange basketball symbol", "basketball dribbling icon", "slam dunk basketball"],
+)
+
+# 285
+process_icon("bed",
+    st_en=["hospital", "hotel", "lodging", "mattress", "patient", "person in bed", "rest", "sleep", "travel"],
+    pst_en=[
+        "hospital bed with adjustable side rails", "patient in a hospital bed",
+        "hotel room bed with white pillows", "hotel booking includes a bed",
+        "lodging with a comfortable bed available", "lodging symbol for a travel app",
+        "mattress on a wooden bed frame", "firm mattress for quality sleep",
+        "patient lying in a medical bed", "patient recovery in the hospital bed",
+        "person in bed sleeping soundly", "person in bed icon for a wellness app",
+        "rest in bed after a long day", "rest and recovery lying in bed",
+        "sleep mode icon for bedtime", "sleep tracking while lying in bed",
+        "travel accommodation with a bed", "travel booking to find a place to sleep",
+    ],
+    reg_en=[
+        "person lying in a single bed with a pillow",
+        "hospital bed with raised safety rails",
+        "hotel room with a king-size bed and nightstand",
+        "sleeping under the covers in a cozy bed",
+        "sick patient resting in a medical bed",
+        "bedroom bed with headboard and blanket",
+        "overnight accommodation icon for booking app",
+        "sleep mode enabled on the phone at bedtime",
+        "recovery bed in the hospital clinic",
+        "mattress with a pillow for a good night's rest",
+    ],
+    conv_en=[
+        "I need a bed icon for the hotel booking app",
+        "add a sleep symbol to the wellness tracker",
+        "show a bed icon for the rest reminder feature",
+        "use the hospital bed for the patient profile page",
+    ],
+    typo_en=[
+        "hotl bed room booking",
+        "slepe in comfortable bed",
+        "matress on the bed frame",
+        "hosiptal patient bed",
+    ],
+    bnd_en=[
+        "comfortable sofa in the living room",
+        "hammock strung between two palm trees",
+        "recliner armchair in the den",
+        "folding cot on a camping tent floor",
+        "massage table at the day spa",
+        "park bench for sitting and resting outdoors",
+    ],
+    valid_en=["hospital bed with side rails", "hotel bed with white pillow", "sleeping in bed at night"],
+    test_en=["rest in bed symbol", "patient in hospital bed", "hotel room bed booking"],
+)
+
+# 286
+process_icon("bell",
+    st_en=["alarm", "alert", "bel", "bell", "chime", "notification", "reminder", "request"],
+    pst_en=[
+        "alarm bell ringing at dawn", "set an alarm bell for the morning",
+        "bell alert for a new warning", "system alert sounded by bell",
+        "bel sound signal icon", "bel ring for the service desk",
+        "hanging church bell with clapper", "brass bell at the hotel front desk",
+        "door chime bell ringing", "chime bell sound at the entrance",
+        "notification bell with unread badge", "bell icon for push notifications",
+        "set a reminder with the bell", "bell reminder for an upcoming appointment",
+        "ring the bell to request service", "service request bell at the counter",
+    ],
+    reg_en=[
+        "notification bell with a small badge count",
+        "ringing bell for an incoming message alert",
+        "church bell with a clapper inside the dome",
+        "front desk service bell waiting to be rung",
+        "muted bell icon with notification turned off",
+        "app header bell icon with unread message count",
+        "alarm bell ringing loudly in the morning",
+        "sleigh bells for holiday decoration",
+        "cowbell hanging around the animal's neck",
+        "small brass bell at the hotel reception desk",
+    ],
+    conv_en=[
+        "I need a bell icon for push notifications in my app",
+        "add a notification bell to the top of the screen",
+        "show a bell when there is a new reminder",
+        "use the bell icon for the alert settings menu",
+    ],
+    typo_en=[
+        "notifcation bell icon",
+        "alrm bell ringing at dawn",
+        "bell chimng at the entrance",
+        "remidner bell for the meeting",
+    ],
+    bnd_en=[
+        "alarm clock with two bells ringing on top",
+        "megaphone broadcasting an announcement",
+        "ceiling-mounted loudspeaker in a public space",
+        "phone vibrating and ringing on the table",
+        "emergency siren with a flashing red light",
+        "referee whistle blown during the game",
+    ],
+    valid_en=["notification bell for app alerts", "ringing bell for new messages", "alarm bell sound icon"],
+    test_en=["bell notification icon", "alert bell for system warnings", "chime bell sound symbol"],
+)
+
+# 287
+process_icon("book",
+    st_en=["book", "diary", "documentation", "journal", "knowledge", "library", "notebook", "read", "research", "scholar"],
+    pst_en=[
+        "hardcover book with a decorative cover", "book icon for a reading app",
+        "personal diary with a lock and key", "daily diary entry written by hand",
+        "technical documentation in book format", "API documentation reference book",
+        "leather-bound journal for daily notes", "daily journal writing habit",
+        "book representing knowledge and learning", "knowledge base reference book",
+        "library book sitting on the shelf", "library catalog for searching books",
+        "lined notebook for class notes", "spiral notebook open on the desk",
+        "read a book in the evening", "reading a thick novel by lamplight",
+        "research book for academic study", "book used in scientific research",
+        "scholar reading ancient texts", "scholarly book for academic reference",
+    ],
+    reg_en=[
+        "closed hardcover book with a bookmark",
+        "thick novel open on the reading desk",
+        "children's picture book with a colorful cover",
+        "student writing in a spiral notebook",
+        "stack of textbooks on a library shelf",
+        "leather-bound journal for personal writing",
+        "recipe book propped open in the kitchen",
+        "ancient manuscript in the library archive",
+        "reference book opened for academic research",
+        "e-book reader loaded with digital titles",
+    ],
+    conv_en=[
+        "I need a book icon for the reading app library",
+        "add a journal icon to the notes section",
+        "show a book symbol for the knowledge base",
+        "use the notebook icon for the documentation page",
+    ],
+    typo_en=[
+        "resaerch book for study",
+        "librayr catalog search",
+        "knoweldge base reference",
+        "journl entry for today",
+    ],
+    bnd_en=[
+        "leather bookmark with a tassel in the novel",
+        "folded newspaper on the breakfast table",
+        "ancient scroll unrolled on the wooden table",
+        "glossy magazine open to the fashion spread",
+        "lined notepad with a pen resting on it",
+        "digital tablet displaying an e-reader app",
+    ],
+    valid_en=["hardcover book for reading app", "journal and diary writing icon", "library book on the shelf"],
+    test_en=["reading book symbol", "knowledge book icon", "research notebook for study"],
+)
+
+# 288
+process_icon("brain",
+    st_en=["brain", "cerebellum", "gray matter", "intellect", "intelligent", "knowledge", "medulla oblongata", "mind", "noodle", "scholar", "wit"],
+    pst_en=[
+        "human brain organ diagram", "brain activity scan image",
+        "cerebellum at the back of the brain", "cerebellum controlling motor function",
+        "gray matter of the cerebral cortex", "gray matter neurons in the brain",
+        "sharp intellect represented by brain", "intellect and brain power icon",
+        "intelligent mind symbol", "intelligent reasoning brain",
+        "brain as a vessel of knowledge", "knowledge stored in the brain",
+        "medulla oblongata in the brain stem", "medulla oblongata controlling breathing",
+        "mind and brain working together", "mind map starting from the brain icon",
+        "using your noodle to solve the problem", "noodle as slang for brain thinking",
+        "scholar with a well-trained brain", "brain power of the academic scholar",
+        "sharp wit and a quick brain", "wit and intelligence of the thinker",
+    ],
+    reg_en=[
+        "wrinkled human brain with two hemispheres",
+        "brain anatomy diagram showing cortex folds",
+        "glowing brain representing artificial intelligence",
+        "brain scan activity shown in a medical image",
+        "cartoon brain with a lightning bolt for ideas",
+        "left and right brain hemisphere split",
+        "brain health icon for a memory app",
+        "neuron connections in the cerebral cortex",
+        "intelligent brain symbol for a quiz game",
+        "meditation app icon with a calm brain graphic",
+    ],
+    conv_en=[
+        "I need a brain icon for the mental health app",
+        "add a brain symbol to the intelligence section",
+        "show a brain for the knowledge quiz category",
+        "use the brain icon for the learning platform logo",
+    ],
+    typo_en=[
+        "barin activity scan",
+        "intelect and brain power",
+        "knoweldge stored in brain",
+        "intellignet mind symbol",
+    ],
+    bnd_en=[
+        "lightbulb representing a new idea",
+        "human head profile with thoughts inside",
+        "CPU microchip on a circuit board",
+        "anatomical heart with blood vessels",
+        "eye icon representing vision or perception",
+        "neural network diagram with connected nodes",
+    ],
+    valid_en=["human brain anatomy symbol", "brain icon for intelligence app", "mind and brain knowledge icon"],
+    test_en=["brain organ symbol", "cerebral brain icon", "knowledge and intellect brain"],
+)
+
+# 289
+process_icon("brush",
+    st_en=["art", "bristles", "color", "handle", "maintenance", "modify", "paint"],
+    pst_en=[
+        "art brush for watercolor painting", "artist brush for fine art",
+        "soft bristles on the paintbrush", "bristles loaded with paint",
+        "color brush for the drawing app", "apply color with a brush stroke",
+        "wooden handle of the paintbrush", "long handle for wall painting",
+        "maintenance brush for cleaning surfaces", "brush used in regular maintenance",
+        "modify the image with a brush tool", "brush to modify the color layer",
+        "paintbrush on canvas", "paint applied with a wide brush",
+    ],
+    reg_en=[
+        "artist's paintbrush with a soft bristle tip",
+        "thick brush applying paint on canvas",
+        "watercolor brush with a pointed tip",
+        "digital brush tool in the image editor",
+        "house painter using a large wall brush",
+        "fine brush for detailed miniature painting",
+        "brush stroke texture on the background",
+        "makeup brush with a rounded fluffy head",
+        "scrubbing brush for surface maintenance",
+        "fan brush for blending colors on canvas",
+    ],
+    conv_en=[
+        "I need a brush icon for the drawing tool",
+        "add a paintbrush symbol to the art section",
+        "show a brush for the edit toolbar",
+        "use the brush icon for the creative tools menu",
+    ],
+    typo_en=[
+        "paintbrsuh on canvas",
+        "bristels on the brush",
+        "artsit brush for painting",
+        "paing with a wide brush",
+    ],
+    bnd_en=[
+        "ballpoint pen writing on paper",
+        "wooden pencil with an eraser on top",
+        "felt-tip marker drawing a thick line",
+        "paint roller covering the wall with color",
+        "spray paint can spraying on a surface",
+        "artist palette with colorful paint blobs",
+    ],
+    valid_en=["paintbrush with soft bristles", "artist brush for painting", "brush stroke drawing tool"],
+    test_en=["art paintbrush symbol", "color brush for canvas", "brush editing tool icon"],
+)
+
+# 290
+process_icon("candy",
+    st_en=["candy", "sugar", "sweet", "wrapper"],
+    pst_en=[
+        "wrapped hard candy on the table", "candy in a colorful foil wrapper",
+        "sugar candy in a glass jar", "sugar-coated hard candy pieces",
+        "sweet candy treat for kids", "sweet tooth satisfied by candy",
+        "candy wrapper with twisted ends", "foil wrapper around the candy",
+    ],
+    reg_en=[
+        "colorful hard candy in a twisted wrapper",
+        "candy in a glass jar on the counter",
+        "wrapped piece of candy for the holidays",
+        "sugar candy with a striped pattern",
+        "trick-or-treat candy in a bowl",
+        "old-fashioned candy store display",
+        "candy cane with red and white stripes",
+        "individually wrapped candy pieces",
+        "candy dish at the reception desk",
+        "sweet hard candy with a fruit flavor",
+    ],
+    conv_en=[
+        "I need a candy icon for the sweets category",
+        "add a candy symbol to the treats section",
+        "show a candy for the Halloween feature",
+        "use the wrapped candy icon for the confectionery page",
+    ],
+    typo_en=[
+        "canyd wrapper twisted",
+        "suagr candy in jar",
+        "swet candy treat for kids",
+        "wraaper on the candy",
+    ],
+    bnd_en=[
+        "round lollipop on a white stick",
+        "chocolate chip cookie on a plate",
+        "frosted cupcake with sprinkles on top",
+        "ice cream cone with two scoops",
+        "glazed donut with colorful sprinkles",
+        "chocolate bar broken into squares",
+    ],
+    valid_en=["hard candy in a twisted wrapper", "sweet candy treat icon", "sugar candy in colorful foil"],
+    test_en=["candy wrapped in foil", "sweet candy symbol", "candy treat for holidays"],
+)
+
+# 291
+process_icon("capsule",
+    st_en=["drugs", "medicine", "pills", "prescription"],
+    pst_en=[
+        "prescription drugs in capsule form", "drugs dispensed in capsule shells",
+        "medicine capsule from the pharmacy", "take your medicine capsule with water",
+        "pills and capsules in the bottle", "capsule pills for daily medication",
+        "prescription capsule from the doctor", "fill the prescription with capsules",
+    ],
+    reg_en=[
+        "two-tone oval capsule pill in red and white",
+        "medicine capsule with powdered contents",
+        "daily medication capsule from the prescription",
+        "pharmacy dispensing capsules in a bottle",
+        "antibiotic capsule taken with a glass of water",
+        "supplement capsule in the morning routine",
+        "capsule shell containing powdered medicine",
+        "over-the-counter capsule for headache relief",
+        "vitamin capsule from the health store",
+        "time-release capsule for sustained medication",
+    ],
+    conv_en=[
+        "I need a capsule icon for the medication tracker",
+        "add a pill capsule to the pharmacy section",
+        "show a capsule for the prescription reminder",
+        "use the medicine capsule icon for the health app",
+    ],
+    typo_en=[
+        "medicne capsule daily",
+        "prescrption drugs capsule",
+        "capusle pill bottle",
+        "pescription capsule form",
+    ],
+    bnd_en=[
+        "round flat tablet pill on a white surface",
+        "medical syringe with needle ready for injection",
+        "amber medicine bottle with a white cap",
+        "thermometer measuring body temperature",
+        "bandage strip on a small cut",
+        "stethoscope for listening to the heartbeat",
+    ],
+    valid_en=["medicine capsule from the pharmacy", "prescription capsule pill icon", "daily medication capsule"],
+    test_en=["capsule pill symbol", "medicine capsule icon", "prescription drug capsule"],
+)

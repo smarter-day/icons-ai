@@ -1,0 +1,99 @@
+{
+  "icon": "credit-card",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "buy",
+        "card",
+        "checkout",
+        "credit",
+        "credit card",
+        "debit",
+        "money",
+        "payment",
+        "purchase"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "buy online with a credit card",
+        "buy now using card payment",
+        "swipe the card at checkout",
+        "tap card to pay at terminal",
+        "checkout with credit card payment",
+        "checkout payment by card",
+        "available credit on the account",
+        "credit account for purchases",
+        "credit card payment accepted here",
+        "use credit card for the booking",
+        "debit card for daily purchases",
+        "pay with debit card at the store",
+        "money charged to the credit card",
+        "pay with card instead of cash",
+        "payment by credit card processed",
+        "card payment confirmed successfully",
+        "purchase confirmed with credit card",
+        "purchase with card at the register"
+      ]
+    },
+    "regular": {
+      "en": [
+        "credit card with chip and magnetic stripe",
+        "tap to pay with a contactless credit card",
+        "enter card number at the checkout form",
+        "payment declined notification on the card",
+        "add credit card to the mobile wallet",
+        "credit card statement showing recent purchases",
+        "secure online payment with card details",
+        "debit card linked to the bank account",
+        "swipe card at the point of sale terminal",
+        "credit card limit reached for the month"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a credit card icon for the payments page",
+        "add a card symbol to the checkout flow",
+        "show a credit card for the billing section",
+        "use the card icon for the payment method settings"
+      ]
+    },
+    "typo": {
+      "en": [
+        "crdit card payment failed",
+        "chekcout with card",
+        "purchaes by card",
+        "payemnt declined"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "gift card with ribbon and bow design",
+        "photo ID card with name and badge number",
+        "business card with contact information",
+        "loyalty card for the coffee shop rewards",
+        "membership card with barcode on the back",
+        "transit card for the subway system"
+      ]
+    },
+    "valid": {
+      "en": [
+        "credit card for payment",
+        "checkout with card payment",
+        "debit card for purchases"
+      ]
+    },
+    "test": {
+      "en": [
+        "credit card symbol",
+        "payment by card icon",
+        "card checkout"
+      ]
+    }
+  }
+}

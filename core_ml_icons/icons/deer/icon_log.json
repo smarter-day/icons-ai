@@ -1,0 +1,90 @@
+{
+  "icon": "deer",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "animal",
+        "antlers",
+        "deer",
+        "fauna",
+        "mammal",
+        "reindeer"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Spot a wild animal on the hike",
+        "See animals at the wildlife park",
+        "Admire the deer's antlers",
+        "Draw the deer antlers",
+        "Watch deer in the forest",
+        "Photograph a deer in the meadow",
+        "Learn about local fauna",
+        "Observe fauna on the nature trail",
+        "See the large mammals at the wildlife park",
+        "Feed mammals at the sanctuary",
+        "Watch Santa's reindeer",
+        "Read about reindeer for Christmas"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Watch deer graze in the meadow",
+        "Spot deer on the hiking trail",
+        "Take photos of deer in the wild",
+        "Visit a deer sanctuary",
+        "See reindeer at the Christmas market",
+        "Feed deer at the nature park",
+        "Watch for deer crossing the road",
+        "Learn about deer behavior",
+        "Photograph wildlife in the forest",
+        "See fawns in the spring"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Deer in the yard!",
+        "Spotted a deer",
+        "Watch the deer",
+        "Wildlife sighting"
+      ]
+    },
+    "typo": {
+      "en": [
+        "spot a deerr on the trail",
+        "see wild animlas in the forest",
+        "watch deeer graze",
+        "photographh wildlife"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Visit a farm to see cows",
+        "Watch horses at the stable",
+        "See moose in the wild",
+        "Spot an elk on the trail",
+        "Visit a petting zoo with goats",
+        "Watch rabbits in the field"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Watch deer graze in the field",
+        "Spot deer on the hiking trail",
+        "See reindeer at the Christmas market"
+      ]
+    },
+    "test": {
+      "en": [
+        "Photograph deer in the wild",
+        "Visit a deer sanctuary",
+        "Watch for deer crossing the road"
+      ]
+    }
+  }
+}

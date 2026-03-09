@@ -1,0 +1,90 @@
+{
+  "icon": "mask",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "carnivale",
+        "costume",
+        "disguise",
+        "halloween",
+        "secret",
+        "super hero"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "carnivale mask for the festival",
+        "ornate carnivale mask with feathers",
+        "mask worn with a costume",
+        "costume mask for the party",
+        "mask for a disguise",
+        "disguise yourself with a mask",
+        "halloween mask for trick or treat",
+        "scary halloween mask",
+        "mask hiding a secret identity",
+        "secret identity behind the mask",
+        "super hero mask on the face",
+        "superhero mask costume"
+      ]
+    },
+    "regular": {
+      "en": [
+        "ornate masquerade mask for the ball",
+        "halloween scary mask for trick or treat",
+        "superhero mask covering the eyes",
+        "carnival mask decorated with feathers",
+        "mystery character behind the mask",
+        "costume mask for the fancy dress party",
+        "theater mask used in the performance",
+        "ninja disguise mask in black",
+        "masquerade party with elaborate masks",
+        "mask revealing a secret identity"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a mask icon for the Halloween feature",
+        "add a masquerade mask to the costume section",
+        "show a mask for the superhero category",
+        "use the mask icon for the disguise feature"
+      ]
+    },
+    "typo": {
+      "en": [
+        "halowween mask",
+        "superehro mask",
+        "carnivle mask",
+        "disgiuse mask costume"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "surgical face mask worn at the hospital",
+        "gas mask with filter for toxic air",
+        "face paint applied for the performance",
+        "knight helmet visor on the armor",
+        "ski goggles covering the eyes on the slope",
+        "party sunglasses worn as a costume prop"
+      ]
+    },
+    "valid": {
+      "en": [
+        "masquerade mask for the ball",
+        "halloween mask costume",
+        "superhero mask icon"
+      ]
+    },
+    "test": {
+      "en": [
+        "mask icon",
+        "costume mask symbol",
+        "halloween mask"
+      ]
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "icon": "recycle",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Recycling Symbol For Generic Materials",
+        "Universal Recycling Symbol",
+        "Waste",
+        "compost",
+        "garbage",
+        "recycle",
+        "recycling symbol",
+        "reuse",
+        "trash"
+      ],
+      "ru": [
+        "символ переработки",
+        "универсальный символ переработки",
+        "отходы",
+        "компост",
+        "мусор",
+        "переработка",
+        "символ рециклинга",
+        "повторное использование",
+        "мусор"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "recycling symbol for generic materials on packaging",
+        "sorting materials by recycling symbol category",
+        "universal recycling symbol on plastic bottle",
+        "universal recycling symbol on cardboard box",
+        "waste reduction through recycling program",
+        "industrial waste processed at recycling center",
+        "compost bin for organic waste recycling",
+        "compost pile of food scraps and yard waste",
+        "garbage sorted into recyclable containers",
+        "garbage truck emptying recycling bins",
+        "recycle glass paper and plastic separately",
+        "recycle icon on eco-friendly packaging",
+        "recycling symbol printed on product label",
+        "recycling symbol on aluminum can",
+        "reuse containers instead of buying new",
+        "reuse reduce recycle sustainability slogan",
+        "trash sorted for recycling collection",
+        "trash bin with recycling symbol label"
+      ],
+      "ru": [
+        "символ переработки для материалов на упаковке",
+        "сортировка материалов по категориям рециклинга",
+        "универсальный символ переработки на пластиковой бутылке",
+        "символ рециклинга на картонной коробке",
+        "сокращение отходов через программу переработки",
+        "промышленные отходы на заводе переработки",
+        "компостный ящик для органических отходов",
+        "компостная куча из пищевых остатков",
+        "мусор отсортирован по контейнерам для переработки",
+        "мусоровоз опустошает контейнеры для переработки",
+        "раздельный сбор стекла бумаги и пластика",
+        "иконка переработки на экологичной упаковке",
+        "символ рециклинга на этикетке товара",
+        "символ переработки на алюминиевой банке",
+        "повторное использование контейнеров вместо покупки новых",
+        "лозунг повторное использование сокращение переработка",
+        "мусор отсортирован для вывоза на переработку",
+        "мусорный бак с наклейкой символа переработки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "three green arrows forming recycling loop symbol",
+        "plastic bottle marked with recycling number 1",
+        "blue recycling bin for paper and cardboard",
+        "eco-friendly product with recycling symbol on label",
+        "curbside recycling collection on Monday morning",
+        "electronics recycling drop-off at hardware store",
+        "recycled paper symbol on office printer paper",
+        "closed-loop recycling process for aluminum cans",
+        "composting food waste to reduce landfill",
+        "recycling sorting facility with conveyor belts"
+      ],
+      "ru": [
+        "три зелёные стрелки образуют петлю символа переработки",
+        "пластиковая бутылка с номером переработки 1",
+        "синий контейнер для бумаги и картона",
+        "экологичный товар с символом переработки на этикетке",
+        "вывоз контейнеров для переработки в понедельник утром",
+        "сдача электроники на переработку в магазине",
+        "символ переработанной бумаги на офисной бумаге для принтера",
+        "замкнутый цикл переработки алюминиевых банок",
+        "компостирование пищевых отходов для сокращения мусора",
+        "сортировочный центр переработки с конвейерами"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a recycle icon for the eco feature",
+        "add a recycling symbol to the sustainability section",
+        "show a recycle arrow for the waste management screen",
+        "use the recycling icon for the green settings"
+      ],
+      "ru": [
+        "мне нужна иконка переработки для эко-функции",
+        "добавь символ рециклинга в раздел устойчивого развития",
+        "покажи стрелки переработки для экрана управления отходами",
+        "используй иконку переработки для зелёных настроек"
+      ]
+    },
+    "typo": {
+      "en": [
+        "recycilng symbol on plastic bottle",
+        "blue recycling bni for paper",
+        "recylce glass and plastic separately",
+        "compost bni for organic waste"
+      ],
+      "ru": [
+        "символ переработик на пластиковой бутылке",
+        "синий контейнер для пеработки бумаги",
+        "переработка стелка и пластика раздельно",
+        "компостный ящик для органчиеских отходов"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "trash can lid closing on full garbage bag",
+        "leaf symbol for organic or natural product",
+        "green energy wind turbine for sustainability",
+        "water drop conservation symbol",
+        "solar panel for renewable energy",
+        "compost heap turning organic matter to soil"
+      ],
+      "ru": [
+        "крышка мусорного ведра закрывается на полном пакете",
+        "символ листа для органического или натурального продукта",
+        "ветряная турбина зелёной энергетики",
+        "символ капли воды для сохранения воды",
+        "солнечная панель для возобновляемой энергии",
+        "компостная куча превращает органику в почву"
+      ]
+    },
+    "valid": {
+      "en": [
+        "three-arrow recycling loop symbol",
+        "recycle symbol on plastic packaging",
+        "recycling bin for glass paper and plastic"
+      ],
+      "ru": [
+        "символ переработки из трёх стрелок",
+        "символ рециклинга на пластиковой упаковке",
+        "контейнер переработки для стекла бумаги и пластика"
+      ]
+    },
+    "test": {
+      "en": [
+        "universal recycling symbol on product",
+        "blue recycling bin for paper",
+        "reuse reduce recycle eco icon"
+      ],
+      "ru": [
+        "универсальный символ переработки на товаре",
+        "синий контейнер переработки для бумаги",
+        "иконка эко повторного использования и переработки"
+      ]
+    }
+  }
+}

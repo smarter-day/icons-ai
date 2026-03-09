@@ -1,0 +1,148 @@
+{
+  "icon": "bell-school",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "alert",
+        "chime",
+        "class",
+        "notification",
+        "reminder"
+      ],
+      "ru": [
+        "оповещение",
+        "перезвон",
+        "урок",
+        "уведомление",
+        "напоминание"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "school alert notification",
+        "class chime reminder",
+        "reminder for the next class",
+        "school app notification",
+        "reminder before class starts",
+        "Emergency alert at school this morning",
+        "Bell chime for end of the period",
+        "Class schedule review for the week",
+        "School notification for the parent meeting",
+        "Daily reminder for after-school pickup"
+      ],
+      "ru": [
+        "школьное оповещение",
+        "напоминание с перезвоном перед уроком",
+        "напоминание о следующем уроке",
+        "уведомление школьного приложения",
+        "напоминание перед началом урока",
+        "Экстренное оповещение в школе утром",
+        "Звонок на конец урока",
+        "Расписание занятий на неделю",
+        "Школьное уведомление о родительском собрании",
+        "Ежедневное напоминание забрать ребёнка"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Set a reminder for class at 9am",
+        "School bell for the next period",
+        "Notification for the lecture",
+        "Class schedule reminder",
+        "Alert before school starts",
+        "Remind me when class begins",
+        "School app notification setup",
+        "Bell for end of class",
+        "Set a reminder for the exam",
+        "Daily school bell alert"
+      ],
+      "ru": [
+        "Поставить напоминание о занятии в 9 утра",
+        "Школьный звонок на следующий урок",
+        "Уведомление о лекции",
+        "Напоминание о расписании занятий",
+        "Оповещение перед началом школы",
+        "Напомнить когда начнётся урок",
+        "Настройка уведомлений в школьном приложении",
+        "Звонок на конец урока",
+        "Поставить напоминание об экзамене",
+        "Ежедневный сигнал школьного звонка"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a reminder before class starts",
+        "Set the school bell so I don't miss the lecture",
+        "Don't forget the reminder for school",
+        "Bell me when class is about to start"
+      ],
+      "ru": [
+        "Мне нужно напоминание перед началом урока",
+        "Поставь школьный звонок чтобы не пропустить лекцию",
+        "Не забудь про напоминание для школы",
+        "Напомни мне когда начнётся занятие"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Scool bell remider",
+        "Notifcation for clss",
+        "Remider before lectur",
+        "Alert befroe school strats"
+      ],
+      "ru": [
+        "Школьный звонок напоминание",
+        "Уведомлние о занятии",
+        "Напоминние перед лекцей",
+        "Оповещние перед школой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Ring bell for service",
+        "Holiday bells decoration",
+        "Alarm for morning wake-up",
+        "Timer for homework session",
+        "Church bell event",
+        "Phone notification setting"
+      ],
+      "ru": [
+        "Позвонить в звонок для обслуживания",
+        "Украшение с праздничными колоколами",
+        "Будильник на утро",
+        "Таймер для домашнего задания",
+        "Событие с церковными колоколами",
+        "Настройка уведомлений телефона"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Class reminder before the lecture",
+        "School bell notification at 8am",
+        "Alert for the next period"
+      ],
+      "ru": [
+        "Напоминание о занятии перед лекцией",
+        "Школьный звонок-уведомление в 8 утра",
+        "Оповещение о следующем уроке"
+      ]
+    },
+    "test": {
+      "en": [
+        "Bell reminder for the study session",
+        "School notification setup",
+        "Class schedule chime"
+      ],
+      "ru": [
+        "Звонок-напоминание для учебной сессии",
+        "Настройка школьных уведомлений",
+        "Звонок по расписанию занятий"
+      ]
+    }
+  }
+}

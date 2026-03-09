@@ -1,0 +1,148 @@
+{
+  "icon": "transporter",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "move",
+        "teleport",
+        "transfer",
+        "translocate",
+        "travel"
+      ],
+      "ru": [
+        "переместить",
+        "телепортация",
+        "перенос",
+        "переместить-альт",
+        "путешествие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "move transporter beam up",
+        "move items transporter",
+        "teleport person transporter beam",
+        "star trek teleport transporter",
+        "transfer data transporter mode",
+        "file transfer transporter",
+        "translocate object instantly",
+        "translocate person sci-fi",
+        "travel transporter instant trip",
+        "transporter travel no vehicle"
+      ],
+      "ru": [
+        "переместить транспортёр луч вверх",
+        "перемещение предметов транспортёром",
+        "телепортация транспортёр луч",
+        "Звёздный путь телепорт транспортёр",
+        "перенос данных режим транспортёра",
+        "перенос файла транспортёр",
+        "мгновенно переместить объект",
+        "переместить человека научная фантастика",
+        "мгновенная поездка транспортёром",
+        "путешествие на транспортёре без транспорта"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Star Trek transporter beam up",
+        "sci-fi teleportation device transporter",
+        "instant transfer transporter animation",
+        "matter transporter sci-fi concept",
+        "transporter pad glowing activate",
+        "dematerialization rematerialization transport",
+        "transporter room control panel",
+        "beam me up Scotty transporter",
+        "quantum transporter future technology",
+        "transporter malfunction sci-fi plot"
+      ],
+      "ru": [
+        "транспортёр Звёздного пути луч вверх",
+        "научно-фантастическое устройство телепортации",
+        "мгновенный перенос анимация транспортёра",
+        "материальный транспортёр научная фантастика",
+        "светящаяся платформа транспортёра активация",
+        "дематериализация ремателиализация транспортировка",
+        "пульт управления комнаты транспортёра",
+        "Скотти подними меня транспортёр",
+        "квантовый транспортёр будущие технологии",
+        "неисправность транспортёра сюжет научной фантастики"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a transporter icon for the teleport feature",
+        "add a beam symbol to the sci-fi section",
+        "show a transporter for the instant travel option",
+        "use the transporter icon for the transfer animation"
+      ],
+      "ru": [
+        "нужна иконка транспортёра для функции телепортации",
+        "добавь символ луча в научно-фантастический раздел",
+        "покажи транспортёр для варианта мгновенного путешествия",
+        "используй иконку транспортёра для анимации переноса"
+      ]
+    },
+    "typo": {
+      "en": [
+        "teleorpt transporter beam",
+        "transporer sci-fi move",
+        "bema up transporter",
+        "trasfer transpoter"
+      ],
+      "ru": [
+        "телепорт транспортёр луч",
+        "транспортёр научная фантастика",
+        "луч вверх транспортёр",
+        "перенос транспортёр"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "rocket ship launch travel",
+        "starship warp drive space",
+        "elevator lift floor move",
+        "portal gateway dimension jump",
+        "magic wand teleport fantasy",
+        "swap transfer arrows exchange"
+      ],
+      "ru": [
+        "ракета запуск путешествие",
+        "звездолёт варп-двигатель космос",
+        "лифт этаж переместиться",
+        "портал шлюз измерение прыжок",
+        "волшебная палочка телепорт фэнтези",
+        "замена перенос стрелки обмен"
+      ]
+    },
+    "valid": {
+      "en": [
+        "transporter beam up icon",
+        "teleport transfer symbol",
+        "sci-fi transporter"
+      ],
+      "ru": [
+        "иконка транспортёра луч вверх",
+        "символ телепортации переноса",
+        "транспортёр научная фантастика"
+      ]
+    },
+    "test": {
+      "en": [
+        "transporter icon teleport",
+        "beam transfer symbol",
+        "instant move transporter"
+      ],
+      "ru": [
+        "иконка транспортёра телепорт",
+        "символ луч перенос",
+        "мгновенное перемещение транспортёр"
+      ]
+    }
+  }
+}

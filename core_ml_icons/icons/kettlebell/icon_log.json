@@ -1,0 +1,87 @@
+{
+  "icon": "kettlebell",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "exercise",
+        "gym",
+        "strength",
+        "weight",
+        "workout"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "exercise with the kettlebell",
+        "kettlebell exercise routine",
+        "gym kettlebell on the floor",
+        "kettlebell in the gym",
+        "strength training with kettlebell",
+        "build strength with kettlebell",
+        "kettlebell weight for lifting",
+        "weight of the kettlebell",
+        "workout with kettlebell swings",
+        "kettlebell workout session"
+      ]
+    },
+    "regular": {
+      "en": [
+        "cast iron kettlebell on the gym floor",
+        "kettlebell swing exercise for strength",
+        "kettlebell snatch at the crossfit gym",
+        "row of kettlebells in different weights",
+        "kettlebell pressed overhead",
+        "kettlebell deadlift for the lower back",
+        "kettlebell workout for endurance",
+        "kettlebell goblet squat exercise",
+        "kettlebell Turkish get-up movement",
+        "home gym with kettlebells and dumbbells"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a kettlebell icon for the fitness app",
+        "add a kettlebell symbol to the strength section",
+        "show a kettlebell for the workout category",
+        "use the kettlebell icon for the gym equipment list"
+      ]
+    },
+    "typo": {
+      "en": [
+        "kettlebal swing",
+        "kttlebell weight",
+        "gymn kettlebell",
+        "workuot with kettlebell"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "dumbbell pair on the weight rack",
+        "barbell loaded with plates",
+        "weight plate stacked on the floor",
+        "medicine ball on the gym mat",
+        "resistance band for stretching",
+        "pull-up bar mounted in the doorway"
+      ]
+    },
+    "valid": {
+      "en": [
+        "kettlebell for strength training",
+        "gym kettlebell workout",
+        "kettlebell exercise"
+      ]
+    },
+    "test": {
+      "en": [
+        "kettlebell icon",
+        "kettlebell symbol for gym",
+        "kettlebell workout"
+      ]
+    }
+  }
+}

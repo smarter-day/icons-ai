@@ -1,0 +1,166 @@
+{
+  "icon": "pig",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "agriculture",
+        "animal",
+        "farm",
+        "fauna",
+        "mammal",
+        "oink",
+        "pig",
+        "sow"
+      ],
+      "ru": [
+        "сельское хозяйство",
+        "животное",
+        "ферма",
+        "фауна",
+        "млекопитающее",
+        "хрюканье",
+        "свинья",
+        "свиноматка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "agriculture pig farming livestock",
+        "pig in agriculture setting",
+        "farm animal pig in pen",
+        "cute pig cartoon animal",
+        "farm life with pigs",
+        "farm pig eating feed",
+        "tropical fauna wild pig",
+        "forest fauna boar",
+        "pig mammal with curly tail",
+        "pig as a mammal species",
+        "oink sound from a pig",
+        "pig oinks in barnyard",
+        "pig character in cartoon",
+        "piglet or adult pig",
+        "sow nursing piglets",
+        "sow on the farm"
+      ],
+      "ru": [
+        "свиноводство в сельском хозяйстве",
+        "свинья в сельскохозяйственной среде",
+        "сельскохозяйственное животное свинья в загоне",
+        "милая мультяшная свинья",
+        "фермерская жизнь со свиньями",
+        "свинья на ферме ест корм",
+        "тропическая фауна дикая свинья",
+        "лесная фауна кабан",
+        "свинья-млекопитающее с закрученным хвостом",
+        "свинья как вид млекопитающих",
+        "звук хрюканья свиньи",
+        "свинья хрюкает во дворе",
+        "персонаж свинья в мультике",
+        "поросёнок или взрослая свинья",
+        "свиноматка кормит поросят",
+        "свиноматка на ферме"
+      ]
+    },
+    "regular": {
+      "en": [
+        "pink pig with curly tail on farm",
+        "cartoon pig character animation",
+        "farm pig in mud puddle",
+        "pig emoji for messaging",
+        "cute piglet newborn farm animal",
+        "pork livestock animal icon",
+        "Peppa Pig cartoon character reference",
+        "farm game pig character",
+        "barnyard pig snout and ears",
+        "pig sniffing for truffles"
+      ],
+      "ru": [
+        "розовая свинья с закрученным хвостом на ферме",
+        "мультяшный персонаж свинья анимация",
+        "свинья на ферме в луже",
+        "эмодзи свиньи для сообщений",
+        "милый новорождённый поросёнок",
+        "иконка животного свинины скота",
+        "персонаж мультика Свинка Пеппа",
+        "персонаж свинья в фермерской игре",
+        "пятачок и уши свиньи во дворе",
+        "свинья нюхает в поисках трюфелей"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pig icon for the farm animal section",
+        "add a pig symbol to the agriculture feature",
+        "show a pig for the farm game screen",
+        "use the pig icon for the animal category"
+      ],
+      "ru": [
+        "Мне нужна иконка свиньи для раздела сельскохозяйственных животных",
+        "добавить символ свиньи в функцию сельского хозяйства",
+        "показать свинью для экрана фермерской игры",
+        "использовать иконку свиньи для категории животных"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pgi farm animal",
+        "fmarm pig oink",
+        "animla pig",
+        "pigg sow"
+      ],
+      "ru": [
+        "свинья фрема",
+        "свинья хрюкет",
+        "животнок свинья",
+        "свинматка поросята"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "cow farm dairy animal",
+        "horse on the farm",
+        "chicken or hen farm bird",
+        "sheep wool farm animal",
+        "goat climbing farm animal",
+        "wild boar forest animal"
+      ],
+      "ru": [
+        "корова молочное животное фермы",
+        "лошадь на ферме",
+        "курица или несушка птица фермы",
+        "овца шерсть фермерское животное",
+        "коза лазающая по ферме",
+        "дикий кабан лесное животное"
+      ]
+    },
+    "valid": {
+      "en": [
+        "pig farm animal icon",
+        "pink pig oink",
+        "agriculture pig livestock"
+      ],
+      "ru": [
+        "иконка свиньи-животного фермы",
+        "розовая свинья хрюкает",
+        "свинья скот сельского хозяйства"
+      ]
+    },
+    "test": {
+      "en": [
+        "pig icon",
+        "farm pig animal",
+        "pig cartoon oink"
+      ],
+      "ru": [
+        "иконка свиньи",
+        "свинья фермерское животное",
+        "мультяшная свинья хрюкает"
+      ]
+    }
+  }
+}

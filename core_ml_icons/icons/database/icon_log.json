@@ -1,0 +1,93 @@
+{
+  "icon": "database",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "computer",
+        "development",
+        "directory",
+        "memory",
+        "mysql",
+        "sql",
+        "storage"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Set up the computer database",
+        "Fix the computer storage issue",
+        "Work on the development database",
+        "Set up the development environment",
+        "Search the company directory",
+        "Create a new directory structure",
+        "Expand the server memory",
+        "Free up memory on the database server",
+        "Optimize the MySQL database",
+        "Connect to the MySQL server",
+        "Run a SQL query",
+        "Write an SQL script to update data",
+        "Add storage to the database server",
+        "Backup the database to storage"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Set up the database for the app",
+        "Run a SQL query on the database",
+        "Backup the database",
+        "Optimize slow database queries",
+        "Add new records to the database",
+        "Create a new database table",
+        "Connect the app to the database",
+        "Migrate data to the new database",
+        "Monitor database performance",
+        "Grant access to the database"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Database work",
+        "Run the query",
+        "DB backup",
+        "Check the database"
+      ]
+    },
+    "typo": {
+      "en": [
+        "bakcup the databse",
+        "run sql queery",
+        "optimze database",
+        "conect to mysql"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Write code for the new feature",
+        "Set up a file server",
+        "Use cloud storage for files",
+        "Create a spreadsheet in Excel",
+        "Manage files in the directory",
+        "Set up a NoSQL database"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Backup the database",
+        "Run a SQL query",
+        "Optimize the database performance"
+      ]
+    },
+    "test": {
+      "en": [
+        "Set up the app database",
+        "Create a new database table",
+        "Connect the app to MySQL"
+      ]
+    }
+  }
+}

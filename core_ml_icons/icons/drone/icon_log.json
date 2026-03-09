@@ -1,0 +1,87 @@
+{
+  "icon": "drone",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "aerial",
+        "surveillance",
+        "uav",
+        "unmanned",
+        "vehicle"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Take aerial photos with the drone",
+        "Fly the drone for aerial footage",
+        "Set up surveillance with the drone",
+        "Use a drone for surveillance",
+        "Register the UAV before flying",
+        "Fly the UAV in the open field",
+        "Fly an unmanned aircraft",
+        "Control the unmanned vehicle remotely",
+        "Operate the drone vehicle",
+        "Buy a new drone vehicle"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Fly the drone over the park",
+        "Take aerial photos with the drone",
+        "Register the drone with authorities",
+        "Buy a camera drone",
+        "Learn to fly a drone",
+        "Charge the drone battery",
+        "Film the wedding with a drone",
+        "Use the drone for real estate photos",
+        "Fly the drone at the beach",
+        "Check drone flight regulations"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Drone flight!",
+        "Fly the drone",
+        "Aerial shot",
+        "Drone day"
+      ]
+    },
+    "typo": {
+      "en": [
+        "fly the droen",
+        "aerail photos with drone",
+        "regster the uav",
+        "drone baterry charge"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Take a photo with the camera",
+        "Fly a kite in the park",
+        "Use a helicopter for the tour",
+        "Film with a mounted action camera",
+        "Use a satellite for surveillance",
+        "Pilot a remote-control plane"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Fly the drone for aerial footage",
+        "Register the drone",
+        "Take aerial photos"
+      ]
+    },
+    "test": {
+      "en": [
+        "Learn to fly a drone",
+        "Buy a camera drone",
+        "Film with the drone"
+      ]
+    }
+  }
+}

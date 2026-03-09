@@ -1,0 +1,40 @@
+text,label
+здание,warehouse-full
+вместимость,warehouse-full
+гараж,warehouse-full
+инвентарь,warehouse-full
+хранение,warehouse-full
+полный склад здание набитое,warehouse-full
+полное здание склада вместимость,warehouse-full
+максимальная вместимость склада,warehouse-full
+склад на максимуме вместимости,warehouse-full
+гараж полный склад предметы,warehouse-full
+полный гараж склад переполнение,warehouse-full
+инвентарь склад полный запас,warehouse-full
+полный инвентарь склад,warehouse-full
+переполненное хранилище склад,warehouse-full
+полный склад хранения переполнен,warehouse-full
+склад максимальной вместимости стеллажи,warehouse-full
+инвентарь склад нет свободного места,warehouse-full
+полный склад требует расширения,warehouse-full
+индикатор полного склада системное предупреждение,warehouse-full
+кладовая переполнена хранилище,warehouse-full
+центр выполнения заказов склад на пределе,warehouse-full
+полный склад отставание заказов,warehouse-full
+предупреждение управления полного склада,warehouse-full
+пиковый сезон полный склад,warehouse-full
+противопожарная безопасность полного склада,warehouse-full
+нужна иконка полного склада для предупреждения о вместимости,warehouse-full
+добавь символ полного хранилища к предупреждению об инвентаре,warehouse-full
+покажи полный склад для уведомления о переполнении,warehouse-full
+используй иконку полного склада для экрана максимальной вместимости,warehouse-full
+полный склад хранение,warehouse-full
+инвентарь склад набитый,warehouse-full
+вместимость полного склада,warehouse-full
+хранилище склад полный,warehouse-full
+пустой склад свободное место,warehouse-full
+мусорное ведро переполнено,warehouse-full
+входящие полные сообщения,warehouse-full
+диск хранения полный компьютер,warehouse-full
+корзина полная товаров,warehouse-full
+аккумулятор полный заряд,warehouse-full

@@ -1,0 +1,142 @@
+{
+  "icon": "chf-sign",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Swiss",
+        "currency",
+        "franc",
+        "money"
+      ],
+      "ru": [
+        "швейцарский",
+        "валюта",
+        "франк",
+        "деньги"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Swiss franc payment in Geneva",
+        "Swiss souvenir priced in CHF",
+        "Currency exchange from euros to CHF",
+        "Currency conversion for the Swiss trip",
+        "Franc value against the dollar",
+        "Franc cash for the market in Zurich",
+        "Money exchange for the Swiss trip",
+        "Money in CHF for the train tickets"
+      ],
+      "ru": [
+        "Оплата швейцарским франком в Женеве",
+        "Сувенир в Швейцарии за CHF",
+        "Обмен валюты с евро на франки",
+        "Конвертация для поездки в Швейцарию",
+        "Курс франка к доллару",
+        "Наличные франки для рынка в Цюрихе",
+        "Обмен денег для поездки в Швейцарию",
+        "Деньги в CHF для билетов на поезд"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Exchange currency to Swiss franc",
+        "Pay in CHF at the hotel in Zurich",
+        "Swiss franc rate check before the trip",
+        "Budget in CHF for the Swiss vacation",
+        "CHF to USD conversion today",
+        "Find an exchange bureau for Swiss francs",
+        "Cash out CHF at the airport",
+        "Price tag in Swiss francs at the shop",
+        "CHF payment accepted here",
+        "Swiss franc coins for the train ticket machine"
+      ],
+      "ru": [
+        "Обменять валюту на швейцарские франки",
+        "Оплатить в CHF в отеле в Цюрихе",
+        "Проверить курс франка перед поездкой",
+        "Бюджет в CHF для швейцарского отпуска",
+        "Конвертация CHF в USD сегодня",
+        "Найти обменный пункт для франков",
+        "Получить CHF в аэропорту",
+        "Ценник в швейцарских франках",
+        "Оплата в CHF принимается",
+        "Монеты франка для автомата"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Switzerland is expensive — check the CHF rate",
+        "need to get some francs before landing",
+        "paying in francs here not euros",
+        "CHF is strong right now"
+      ],
+      "ru": [
+        "Швейцария дорогая — проверь курс франка",
+        "нужно взять франки до посадки",
+        "здесь платим франками а не евро",
+        "CHF сейчас сильный"
+      ]
+    },
+    "typo": {
+      "en": [
+        "excahnge currecny to swis francs",
+        "pay in CHF at the hotl in Zurich",
+        "swis franc rate chekc before tirp",
+        "budegt in CHF for swis vacaion"
+      ],
+      "ru": [
+        "обменять валюту на швейцарсике франки",
+        "оплатить в CHF в отеле",
+        "проверить курс франка перед поездкой",
+        "бюджет в CHF для швейцарского отпуска"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Euro symbol on the receipt in Paris",
+        "Pound sterling exchange at the airport",
+        "Dollar sign at the US checkout",
+        "Yen for the Tokyo trip",
+        "Baht currency for Thailand",
+        "Bitcoin exchange for the transaction"
+      ],
+      "ru": [
+        "Символ евро в чеке в Париже",
+        "Обмен фунта стерлингов в аэропорту",
+        "Знак доллара на кассе в США",
+        "Иена для поездки в Токио",
+        "Тайский бат для Таиланда",
+        "Обмен биткоина для транзакции"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Exchange money to Swiss francs before the trip",
+        "Pay in CHF at the Swiss hotel",
+        "CHF to EUR rate today"
+      ],
+      "ru": [
+        "Обменять деньги на франки перед поездкой",
+        "Оплатить в CHF в швейцарском отеле",
+        "Курс CHF к EUR сегодня"
+      ]
+    },
+    "test": {
+      "en": [
+        "Swiss franc budget for the vacation",
+        "Find CHF exchange near the airport",
+        "Pay in francs at the Zurich market"
+      ],
+      "ru": [
+        "Бюджет в франках для отпуска",
+        "Найти обмен на франки у аэропорта",
+        "Оплатить франками на рынке в Цюрихе"
+      ]
+    }
+  }
+}

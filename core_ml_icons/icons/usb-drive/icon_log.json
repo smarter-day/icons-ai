@@ -1,0 +1,160 @@
+{
+  "icon": "usb-drive",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "access codes",
+        "device",
+        "flashdrive",
+        "goober",
+        "ssd",
+        "storage",
+        "thumbdrive"
+      ],
+      "ru": [
+        "коды доступа",
+        "устройство",
+        "флешка",
+        "губер",
+        "SSD",
+        "хранение",
+        "флешка-альт"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "access codes on USB drive",
+        "USB drive with access keys",
+        "USB device plug in",
+        "USB device port connect",
+        "flashdrive USB portable storage",
+        "flashdrive transfer files",
+        "goober USB slang drive",
+        "goober flash drive joke",
+        "SSD external USB drive",
+        "USB SSD fast storage",
+        "storage USB drive capacity",
+        "USB storage expand space",
+        "thumbdrive USB keychain",
+        "thumbdrive small portable"
+      ],
+      "ru": [
+        "коды доступа на USB-накопителе",
+        "USB-накопитель с ключами доступа",
+        "USB-устройство подключить",
+        "USB-устройство порт подключить",
+        "флешка USB портативное хранилище",
+        "флешка перенос файлов",
+        "жаргон USB губер флешка",
+        "шутка про губер флешку",
+        "внешний SSD USB накопитель",
+        "USB SSD быстрое хранилище",
+        "ёмкость USB-накопителя хранилище",
+        "USB хранилище расширить",
+        "флешка USB брелок",
+        "флешка маленький портативный"
+      ]
+    },
+    "regular": {
+      "en": [
+        "USB flash drive plugged into laptop",
+        "32GB thumb drive data transfer",
+        "bootable USB drive OS install",
+        "USB drive file backup portable",
+        "encrypted USB drive secure data",
+        "keychain USB drive always with you",
+        "USB drive full storage warning",
+        "corporate branded USB drive promo",
+        "USB drive virus scan safety",
+        "high speed USB 3.0 flash drive"
+      ],
+      "ru": [
+        "USB флешка подключена к ноутбуку",
+        "USB-накопитель 32 ГБ перенос данных",
+        "загрузочный USB-накопитель установка ОС",
+        "USB-накопитель резервная копия файлов",
+        "зашифрованный USB-накопитель безопасные данные",
+        "USB-накопитель брелок всегда с собой",
+        "USB-накопитель полный предупреждение о хранилище",
+        "брендированный корпоративный USB-накопитель промо",
+        "проверка USB-накопителя на вирусы",
+        "высокоскоростной USB 3.0 флешка"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a USB drive icon for the storage section",
+        "add a flashdrive symbol to the file transfer feature",
+        "show a USB drive for the portable storage category",
+        "use the usb-drive icon for the device connection"
+      ],
+      "ru": [
+        "нужна иконка USB-накопителя для раздела хранения",
+        "добавь символ флешки к функции передачи файлов",
+        "покажи USB-накопитель для категории портативного хранилища",
+        "используй иконку USB-накопителя для подключения устройства"
+      ]
+    },
+    "typo": {
+      "en": [
+        "usb driev storage",
+        "flashdirve transfer",
+        "thumbrdive portable",
+        "USB stoarge device"
+      ],
+      "ru": [
+        "USB накопитель хранилище",
+        "флешка передача файлов",
+        "флешка портативная",
+        "USB устройство хранения"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "SD card memory card small",
+        "hard drive HDD external large",
+        "CD DVD optical disc storage",
+        "cloud storage online backup",
+        "SIM card mobile identifier",
+        "ethernet cable wired connection"
+      ],
+      "ru": [
+        "SD-карта карта памяти маленькая",
+        "жёсткий диск HDD внешний большой",
+        "CD DVD оптический диск хранение",
+        "облачное хранилище онлайн-резервная копия",
+        "SIM-карта мобильный идентификатор",
+        "кабель ethernet проводное подключение"
+      ]
+    },
+    "valid": {
+      "en": [
+        "USB drive storage icon",
+        "flashdrive symbol portable",
+        "thumbdrive USB"
+      ],
+      "ru": [
+        "иконка USB-накопителя хранилище",
+        "символ флешки портативной",
+        "флешка USB"
+      ]
+    },
+    "test": {
+      "en": [
+        "usb-drive icon",
+        "flash drive symbol",
+        "USB storage device"
+      ],
+      "ru": [
+        "иконка USB-накопителя",
+        "символ флешки",
+        "USB устройство хранения"
+      ]
+    }
+  }
+}

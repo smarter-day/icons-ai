@@ -1,0 +1,160 @@
+{
+  "icon": "balloons",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "birthday",
+        "celebrate",
+        "celebration",
+        "helium",
+        "party",
+        "pop",
+        "up"
+      ],
+      "ru": [
+        "день рождения",
+        "отметить",
+        "праздник",
+        "гелий",
+        "вечеринка",
+        "лопнуть",
+        "поднять"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "plan the birthday party",
+        "celebrate the promotion",
+        "organize the celebration",
+        "get helium balloons",
+        "set up the party decorations",
+        "pop the balloons after the party",
+        "put balloons up for the event",
+        "Birthday balloon delivery order",
+        "Celebrate the team milestone at work",
+        "Celebration backdrop and balloon setup",
+        "Helium tank rental for the party",
+        "Party balloon arch for the entrance",
+        "Pop balloons for the confetti surprise",
+        "Hang the balloons up before guests arrive"
+      ],
+      "ru": [
+        "спланировать вечеринку ко дню рождения",
+        "отметить повышение",
+        "организовать праздник",
+        "купить гелиевые шарики",
+        "расставить украшения для вечеринки",
+        "лопнуть шарики после праздника",
+        "развесить шарики к мероприятию",
+        "Заказ доставки воздушных шаров на день рождения",
+        "Отметить командный успех на работе",
+        "Оформление шарами и декором",
+        "Аренда баллона с гелием для вечеринки",
+        "Арка из шаров у входа",
+        "Лопнуть шарики для сюрприза с конфетти",
+        "Повесить шарики до прихода гостей"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy balloons for the birthday party",
+        "Decorate with balloons",
+        "Order helium balloons for the event",
+        "Pick up balloons on the way",
+        "Set up party decorations",
+        "Get balloons for the celebration",
+        "Blow up balloons before the party",
+        "Surprise party setup",
+        "Birthday balloon arch",
+        "Release balloons at the ceremony"
+      ],
+      "ru": [
+        "Купить шарики на день рождения",
+        "Украсить шариками",
+        "Заказать гелиевые шарики на мероприятие",
+        "Купить шарики по дороге",
+        "Расставить украшения для вечеринки",
+        "Взять шарики для праздника",
+        "Надуть шарики перед вечеринкой",
+        "Подготовка сюрприз-вечеринки",
+        "Арка из шариков на день рождения",
+        "Запустить шарики на церемонии"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "We need to get some balloons for the party",
+        "I want the place covered in balloons",
+        "Let's go all out with the decorations",
+        "Don't forget to get balloons for the birthday"
+      ],
+      "ru": [
+        "Нам нужны шарики для вечеринки",
+        "Хочу, чтобы везде были шарики",
+        "Давайте украсим всё по-настоящему",
+        "Не забудь купить шарики на день рождения"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Get baloons for the party",
+        "Ballon decoratons",
+        "Balunes for the birthday",
+        "Helum balloens"
+      ],
+      "ru": [
+        "Купить балоны для вечеринки",
+        "Украшения из шариков",
+        "Шарики на день раждения",
+        "Шарики с гелим"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy birthday cake",
+        "Send a birthday card",
+        "Plan the birthday dinner",
+        "Wrap the birthday present",
+        "Book the party venue",
+        "Order party food"
+      ],
+      "ru": [
+        "Купить торт на день рождения",
+        "Отправить открытку ко дню рождения",
+        "Спланировать праздничный ужин",
+        "Завернуть подарок ко дню рождения",
+        "Забронировать зал для вечеринки",
+        "Заказать еду для вечеринки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Grab balloons for the surprise party",
+        "Fill balloons with helium",
+        "Balloon centerpieces for the table"
+      ],
+      "ru": [
+        "Купить шарики для сюрприз-вечеринки",
+        "Наполнить шарики гелием",
+        "Шарики как центральный элемент декора стола"
+      ]
+    },
+    "test": {
+      "en": [
+        "Balloon drop at midnight",
+        "String up the balloons before guests arrive",
+        "Balloons and streamers for the celebration"
+      ],
+      "ru": [
+        "Запуск шариков в полночь",
+        "Развесить шарики до прихода гостей",
+        "Шарики и серпантин для праздника"
+      ]
+    }
+  }
+}

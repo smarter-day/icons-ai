@@ -1,0 +1,105 @@
+{
+  "icon": "cup-togo",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "beverage",
+        "breakfast",
+        "cafe",
+        "drink",
+        "latte",
+        "morning",
+        "mug",
+        "starbucks",
+        "takeout",
+        "tea",
+        "travel"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Order a hot beverage to go",
+        "Get a takeout beverage",
+        "Grab breakfast on the way to work",
+        "Pick up a breakfast drink",
+        "Visit the local cafe",
+        "Order from the cafe drive-through",
+        "Get a drink for the commute",
+        "Pick up a drink before the meeting",
+        "Order a latte to go",
+        "Try a vanilla latte",
+        "Get morning coffee on the go",
+        "Morning coffee before work",
+        "Buy a travel mug",
+        "Bring a reusable mug to the cafe",
+        "Order a Starbucks drink",
+        "Pick up Starbucks on the way",
+        "Get takeout coffee",
+        "Takeout tea from the shop",
+        "Order tea to go",
+        "Get a cup of herbal tea",
+        "Coffee for the travel day",
+        "Grab coffee for the road trip"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Grab a coffee on the way to work",
+        "Order a latte from the coffee shop",
+        "Pick up tea for the commute",
+        "Get a drink from the drive-through",
+        "Buy a to-go cup of coffee",
+        "Order a hot chocolate to go",
+        "Pick up drinks for the team",
+        "Grab an iced coffee from the cafe",
+        "Get a travel cup of green tea",
+        "Stop at the coffee shop before work"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Coffee to go!",
+        "Grab a cup",
+        "Drive-through run",
+        "Tea for the road"
+      ]
+    },
+    "typo": {
+      "en": [
+        "grab a coffe on the way",
+        "ordr a latte to go",
+        "pick up tee for commute",
+        "starbukcs order"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Brew coffee at home in the coffee pot",
+        "Drink coffee from a ceramic mug",
+        "Make tea in the kettle at home",
+        "Use a French press for coffee",
+        "Sit and drink coffee at the cafe",
+        "Make a smoothie at home"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Order coffee to go",
+        "Grab a latte for the commute",
+        "Pick up tea from the cafe"
+      ]
+    },
+    "test": {
+      "en": [
+        "Stop at the coffee shop drive-through",
+        "Get a to-go drink before work",
+        "Order a hot drink for the road"
+      ]
+    }
+  }
+}

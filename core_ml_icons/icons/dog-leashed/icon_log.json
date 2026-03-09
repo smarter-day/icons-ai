@@ -1,0 +1,93 @@
+{
+  "icon": "dog-leashed",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "animal",
+        "canine",
+        "guide dog",
+        "mammal",
+        "pet",
+        "puppy",
+        "walk"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "See the animal on the leash",
+        "Keep the animal on a leash in public",
+        "Train the canine on a leash",
+        "Canine leash training class",
+        "Get a guide dog for assistance",
+        "Work with a guide dog trainer",
+        "Walk with the mammal on a leash",
+        "Mammals must be on leash in the park",
+        "Buy a harness for the pet",
+        "Register the pet at the vet",
+        "Train the puppy to walk on a leash",
+        "Take the puppy on a leash walk",
+        "Go for a walk with the dog",
+        "Walk the dog on the trail"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Walk the dog on a leash",
+        "Buy a new dog leash",
+        "Train the dog to heel on leash",
+        "Keep the dog leashed in the park",
+        "Get a retractable leash",
+        "Practice loose leash walking",
+        "Use a harness instead of a collar",
+        "Walk the dog twice a day",
+        "Sign up for leash training class",
+        "Keep the dog leashed on the trail"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Leash the dog",
+        "Dog walk time",
+        "On the leash",
+        "Morning walk"
+      ]
+    },
+    "typo": {
+      "en": [
+        "walk the dgo on leash",
+        "buy a new lesah",
+        "trian dog to heel",
+        "kep dog on leahs"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Let the dog run off leash at the park",
+        "Walk the dog without a leash",
+        "Train the dog to come when called",
+        "Take the cat for a walk in a carrier",
+        "Walk with the dog freely in the yard",
+        "Teach the dog to fetch"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Walk the dog on a leash",
+        "Buy a new dog leash",
+        "Train the dog to walk on leash"
+      ]
+    },
+    "test": {
+      "en": [
+        "Keep the dog leashed in public",
+        "Practice leash training",
+        "Walk the dog on the trail"
+      ]
+    }
+  }
+}

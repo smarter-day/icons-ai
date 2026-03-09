@@ -1,0 +1,93 @@
+{
+  "icon": "globe-pointer",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "globe",
+        "internet",
+        "link",
+        "net",
+        "search",
+        "website",
+        "www"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "See the globe in the geography class",
+        "Spin the globe",
+        "Connect to the internet",
+        "Check the internet connection",
+        "Copy the link to share",
+        "Click the link in the email",
+        "Browse the net for information",
+        "Search on the net",
+        "Search for the answer online",
+        "Use a search engine",
+        "Visit the company website",
+        "Build a new website",
+        "Type the www address in the browser",
+        "Open the www link"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Search for information online",
+        "Visit a website",
+        "Share a link with the team",
+        "Check the website for updates",
+        "Browse the internet for ideas",
+        "Open the web browser",
+        "Search for a restaurant online",
+        "Visit the online store",
+        "Copy the web link",
+        "Bookmark the website"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Google it",
+        "Check the website",
+        "Send the link",
+        "Browse the web"
+      ]
+    },
+    "typo": {
+      "en": [
+        "seach for it online",
+        "viist the websit",
+        "sned the lnik",
+        "brwose the internet"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use a VPN to browse safely",
+        "Check the map for directions",
+        "Open the app instead of the website",
+        "Navigate using GPS",
+        "Open the browser settings",
+        "Use offline maps for travel"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Search for information online",
+        "Visit the company website",
+        "Share a link with the team"
+      ]
+    },
+    "test": {
+      "en": [
+        "Browse the internet for ideas",
+        "Bookmark the website",
+        "Copy the web link"
+      ]
+    }
+  }
+}

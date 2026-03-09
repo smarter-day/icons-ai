@@ -1,0 +1,96 @@
+{
+  "icon": "ethernet",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cable",
+        "cat 5",
+        "cat 6",
+        "connection",
+        "hardware",
+        "internet",
+        "network",
+        "wired"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy an ethernet cable",
+        "Plug in the ethernet cable",
+        "Use a Cat 5 cable for the network",
+        "Replace the old Cat 5 cable",
+        "Upgrade to a Cat 6 cable",
+        "Install Cat 6 for faster speed",
+        "Check the network connection",
+        "Fix the unstable connection",
+        "Set up the network hardware",
+        "Buy new networking hardware",
+        "Connect to the internet via cable",
+        "Troubleshoot internet connection",
+        "Set up the home network",
+        "Add a device to the network",
+        "Use wired connection for stability",
+        "Switch from wifi to wired"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Connect the computer via ethernet",
+        "Buy a longer ethernet cable",
+        "Use wired internet for faster speed",
+        "Set up the home network",
+        "Plug the router into the wall",
+        "Fix the slow internet connection",
+        "Set up a wired gaming connection",
+        "Replace the old network cable",
+        "Connect the smart TV via ethernet",
+        "Run an ethernet cable through the wall"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Plug in the cable",
+        "Wired connection",
+        "Ethernet setup",
+        "Network cable"
+      ]
+    },
+    "typo": {
+      "en": [
+        "plug in the etehrnet cable",
+        "use wried connection",
+        "buy a cat6 cabel",
+        "fix the internt connection"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Connect to WiFi instead",
+        "Use a WiFi extender",
+        "Set up a Bluetooth connection",
+        "Use a USB hub for connectivity",
+        "Connect via mobile hotspot",
+        "Install fiber optic internet"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Connect via ethernet cable",
+        "Set up a wired network connection",
+        "Use ethernet for stable internet"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy an ethernet cable",
+        "Plug the computer into the router",
+        "Fix the wired network connection"
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "icon": "fork",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cutlery",
+        "dining",
+        "food",
+        "fork",
+        "silverware"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Set the table with cutlery",
+        "Buy a cutlery set",
+        "Book a table for dining",
+        "Enjoy a quiet dining experience",
+        "Order food at the restaurant",
+        "Cook food at home",
+        "Eat with a fork",
+        "Pick up the fork to eat",
+        "Polish the silverware",
+        "Buy sterling silverware"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Set the table with a fork",
+        "Eat dinner with a fork",
+        "Buy a new cutlery set",
+        "Set out the silverware for guests",
+        "Use a fork for the salad",
+        "Wash the forks after dinner",
+        "Pack a fork for the lunch box",
+        "Find a fork in the kitchen drawer",
+        "Use the right fork at the formal dinner",
+        "Set the fork on the left side of the plate"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Pass the fork",
+        "Need a fork",
+        "Table setting",
+        "Cutlery out"
+      ]
+    },
+    "typo": {
+      "en": [
+        "set the tabel with fork",
+        "eat dinne with a frork",
+        "buy a cutlrery set",
+        "wahs the forks"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Set the table with fork and knife together",
+        "Use a spoon for the soup",
+        "Pick up the chopsticks for sushi",
+        "Use a dessert fork for the cake",
+        "Eat with a fork and knife at dinner",
+        "Use a ladle to serve the stew"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Set the table with a fork",
+        "Eat dinner with a fork",
+        "Buy a new cutlery set"
+      ]
+    },
+    "test": {
+      "en": [
+        "Use the fork for the salad",
+        "Wash the forks after dinner",
+        "Pack a fork for the lunch box"
+      ]
+    }
+  }
+}

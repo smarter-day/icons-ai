@@ -1,0 +1,99 @@
+{
+  "icon": "flag",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "black flag",
+        "country",
+        "notice",
+        "notification",
+        "notify",
+        "pole",
+        "report",
+        "symbol",
+        "waving"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "black flag symbol on the post",
+        "black flag pirate ship theme",
+        "country flag waving on the pole",
+        "national flag of the country",
+        "notice flagged for review",
+        "flag a notice for attention",
+        "flag notification for the item",
+        "notification flag on the post",
+        "notify with a flag marker",
+        "flagged to notify the team",
+        "flag on a tall metal pole",
+        "pole with flag at the entrance",
+        "report flagged for moderation",
+        "flag a report for review",
+        "flag as a symbol for the country",
+        "symbol displayed on the flag",
+        "waving flag in the breeze",
+        "flag waving in the wind"
+      ]
+    },
+    "regular": {
+      "en": [
+        "national flag waving on a tall pole",
+        "red flag marker indicating a problem",
+        "flag planted at the summit of the mountain",
+        "checkered flag at the finish line of the race",
+        "flag icon for marking important content",
+        "pirate black flag on the ship mast",
+        "country flag in the hotel lobby",
+        "flag report to notify the admin",
+        "small flag on the golf course hole marker",
+        "UN flag flying outside headquarters"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a flag icon for the report button",
+        "add a flag symbol to the notification system",
+        "show a flag for the country selector",
+        "use the flag icon to mark important items"
+      ]
+    },
+    "typo": {
+      "en": [
+        "coutry flag waving in wind",
+        "flagged notifcation item",
+        "reprot flagged for review",
+        "wavig flag on the pole"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "sports pennant hanging on the wall",
+        "wide banner hanging across the street",
+        "bookmark sticking out of the novel",
+        "finish line tape stretched across the track",
+        "signal flag waved by a race official",
+        "tag label attached to the product"
+      ]
+    },
+    "valid": {
+      "en": [
+        "national flag on the pole",
+        "flag symbol for the country",
+        "flag notification marker"
+      ]
+    },
+    "test": {
+      "en": [
+        "flag icon",
+        "waving flag symbol",
+        "country flag"
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "icon": "falafel",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "chickpea",
+        "falafel",
+        "garbanzo",
+        "meatball"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Use chickpeas to make falafel",
+        "Buy canned chickpeas",
+        "Make falafel from scratch",
+        "Order falafel from the restaurant",
+        "Use garbanzo beans in the recipe",
+        "Cook garbanzo bean soup",
+        "Roll the meatball-shaped falafel",
+        "Fry falafel like meatballs"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Make homemade falafel",
+        "Order falafel wrap for lunch",
+        "Try falafel at the Middle Eastern restaurant",
+        "Bake falafel instead of frying",
+        "Buy falafel mix at the store",
+        "Serve falafel with tahini",
+        "Put falafel in a pita wrap",
+        "Make a falafel salad bowl",
+        "Prepare falafel for a dinner party",
+        "Find the best falafel recipe"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Falafel lunch!",
+        "Make falafel",
+        "Middle Eastern food",
+        "Wrap with falafel"
+      ]
+    },
+    "typo": {
+      "en": [
+        "make homemade faelafel",
+        "order falafl wrap",
+        "chickpea falaefal",
+        "falafel with tahnia"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Make a pita sandwich with gyro meat",
+        "Order a kebab wrap",
+        "Make meatballs with beef",
+        "Cook hummus from chickpeas",
+        "Eat a shawarma wrap",
+        "Make a veggie burger patty"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Make homemade falafel",
+        "Order a falafel wrap",
+        "Serve falafel with tahini"
+      ]
+    },
+    "test": {
+      "en": [
+        "Try falafel at the restaurant",
+        "Bake falafel for dinner",
+        "Make a falafel salad bowl"
+      ]
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "icon": "browser",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Desktop Window",
+        "app",
+        "application",
+        "desktop",
+        "explorer",
+        "internet",
+        "web",
+        "website",
+        "www"
+      ],
+      "ru": [
+        "Окно рабочего стола",
+        "приложение (app)",
+        "приложение",
+        "рабочий стол",
+        "проводник",
+        "интернет",
+        "веб",
+        "сайт",
+        "www"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "open a new desktop window",
+        "open the app in the browser",
+        "web application development",
+        "desktop browser testing",
+        "open in internet explorer",
+        "check something on the internet",
+        "web research for the project",
+        "build a website",
+        "look something up on the web",
+        "Pin the browser tab for the dashboard",
+        "App store review for the new update",
+        "Web application performance audit",
+        "Desktop shortcut for the project folder",
+        "File explorer search for the lost document",
+        "Internet speed test before the call",
+        "Web scraping script for the data project",
+        "Website mockup sent to the client",
+        "WWW domain registration for the brand"
+      ],
+      "ru": [
+        "открыть новое окно рабочего стола",
+        "открыть приложение в браузере",
+        "разработка веб-приложения",
+        "тестирование в браузере на рабочем столе",
+        "открыть в Internet Explorer",
+        "проверить что-то в интернете",
+        "веб-исследование для проекта",
+        "создать сайт",
+        "поискать что-то в интернете",
+        "Закрепить вкладку браузера с панелью управления",
+        "Отзыв в магазине приложений на новое обновление",
+        "Аудит производительности веб-приложения",
+        "Ярлык на рабочем столе для папки проекта",
+        "Поиск потерянного документа в проводнике",
+        "Проверка скорости интернета перед звонком",
+        "Скрипт парсинга веб-данных",
+        "Макет сайта отправлен клиенту",
+        "Регистрация доменного имени WWW для бренда"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Open the website in the browser",
+        "Clear browser history and cache",
+        "Update the browser to the latest version",
+        "Check website on desktop browser",
+        "Open multiple tabs in the browser",
+        "Browser extension setup",
+        "Save bookmark for the webpage",
+        "Web research for the project",
+        "Test the website across browsers",
+        "Browse the internet for recipes"
+      ],
+      "ru": [
+        "Открыть сайт в браузере",
+        "Очистить историю и кэш браузера",
+        "Обновить браузер до последней версии",
+        "Проверить сайт в браузере на рабочем столе",
+        "Открыть несколько вкладок в браузере",
+        "Настройка расширений браузера",
+        "Сохранить закладку для страницы",
+        "Веб-исследование для проекта",
+        "Тестирование сайта в разных браузерах",
+        "Искать рецепты в интернете"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "My browser is running slow",
+        "Open that in a new tab",
+        "I should clear my browser cache",
+        "What browser are you using?"
+      ],
+      "ru": [
+        "Браузер тормозит",
+        "Открой это в новой вкладке",
+        "Надо очистить кэш браузера",
+        "Каким браузером ты пользуешься?"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Opne the websit in the brwoser",
+        "Cler borwser histry and cache",
+        "Updte the brwoser",
+        "Websit tesing on desktp brwoser"
+      ],
+      "ru": [
+        "Открть сайт в бравзере",
+        "Очитсить историю и кэш браузра",
+        "Обновть браузер",
+        "Тстирование сайта в дстопном браузере"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Open the mobile app",
+        "Check the app on the phone",
+        "Desktop software installation",
+        "Search engine query",
+        "Email client setup",
+        "Download the application"
+      ],
+      "ru": [
+        "Открыть мобильное приложение",
+        "Проверить приложение на телефоне",
+        "Установка ПО на рабочий стол",
+        "Поисковый запрос",
+        "Настройка почтового клиента",
+        "Скачать приложение"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Update the browser to latest version",
+        "Clear browser cache and cookies",
+        "Test the website in different browsers"
+      ],
+      "ru": [
+        "Обновить браузер до последней версии",
+        "Очистить кэш и куки браузера",
+        "Тестировать сайт в разных браузерах"
+      ]
+    },
+    "test": {
+      "en": [
+        "Open the web project in the browser",
+        "Browser research session",
+        "Save bookmarks for later"
+      ],
+      "ru": [
+        "Открыть веб-проект в браузере",
+        "Исследование через браузер",
+        "Сохранить закладки на потом"
+      ]
+    }
+  }
+}

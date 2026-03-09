@@ -1,0 +1,148 @@
+{
+  "icon": "bag-shopping",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "buy",
+        "checkout",
+        "grocery",
+        "payment",
+        "purchase"
+      ],
+      "ru": [
+        "купить",
+        "оформить заказ",
+        "продукты",
+        "оплата",
+        "покупка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "buy something at the store",
+        "go through the checkout",
+        "grocery run this evening",
+        "prepare payment at the store",
+        "complete the purchase",
+        "need to buy some things today",
+        "skip the line at checkout",
+        "grocery list is getting long",
+        "split the payment at the register",
+        "finalize the purchase before closing"
+      ],
+      "ru": [
+        "купить кое-что в магазине",
+        "пройти через кассу",
+        "поход за продуктами вечером",
+        "подготовить оплату в магазине",
+        "завершить покупку",
+        "нужно сегодня кое-что купить",
+        "обойти очередь на кассе",
+        "список продуктов становится длиннее",
+        "разделить оплату на кассе",
+        "завершить покупку до закрытия"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Go grocery shopping",
+        "Pick up groceries on the way home",
+        "Buy groceries for the week",
+        "Do the weekly shop",
+        "Grab a few things from the store",
+        "Shopping run after work",
+        "Get supplies from the supermarket",
+        "Quick grocery trip",
+        "Buy household essentials",
+        "Restock the pantry"
+      ],
+      "ru": [
+        "Пойти за продуктами",
+        "Купить продукты по дороге домой",
+        "Купить продукты на неделю",
+        "Сделать еженедельную закупку",
+        "Взять пару вещей из магазина",
+        "Поход в магазин после работы",
+        "Купить припасы в супермаркете",
+        "Быстрый поход за продуктами",
+        "Купить товары для дома",
+        "Пополнить кладовку"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "We're out of food - need to go shopping",
+        "Running to the store real quick",
+        "Grab something for dinner on the way back",
+        "Do the big weekly shop"
+      ],
+      "ru": [
+        "Еда закончилась - надо в магазин",
+        "Быстро забегу в магазин",
+        "Купить что-нибудь на ужин по дороге",
+        "Сделать большую еженедельную закупку"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Go grocrey shoping",
+        "Pick up grocries",
+        "Do the wekly shop",
+        "Buy esentials from store"
+      ],
+      "ru": [
+        "Пойит за продуктами",
+        "Забрать продутки",
+        "Сделать еженеделную закупку",
+        "Купить неоходимые товары"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Order online",
+        "Return item to store",
+        "Pay for order",
+        "Mall visit",
+        "Add to cart",
+        "Check delivery status"
+      ],
+      "ru": [
+        "Заказать онлайн",
+        "Вернуть товар в магазин",
+        "Оплатить заказ",
+        "Поход в торговый центр",
+        "Добавить в корзину",
+        "Проверить статус доставки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Make a shopping list before heading out",
+        "Restock the fridge this weekend",
+        "Grab everything from the list"
+      ],
+      "ru": [
+        "Составить список покупок перед выходом",
+        "Пополнить холодильник в эти выходные",
+        "Купить всё по списку"
+      ]
+    },
+    "test": {
+      "en": [
+        "Pick up a few things after the meeting",
+        "Bulk buy for the month",
+        "Swing by the market on the way home"
+      ],
+      "ru": [
+        "Купить кое-что после встречи",
+        "Закупить оптом на месяц",
+        "Заехать на рынок по дороге домой"
+      ]
+    }
+  }
+}

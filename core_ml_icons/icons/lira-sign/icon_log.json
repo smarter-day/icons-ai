@@ -1,0 +1,78 @@
+{
+  "icon": "lira-sign",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Lira Sign",
+        "currency"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Pay in lira while in Turkey",
+        "Check the Turkish lira rate",
+        "Exchange currency to lira",
+        "Convert lira to euros"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Exchange money to Turkish lira",
+        "Check the TRY exchange rate",
+        "Pay in lira while in Turkey",
+        "Convert lira to dollars",
+        "Budget the Turkey trip in lira",
+        "Find the best lira exchange rate",
+        "Withdraw lira from the ATM",
+        "Pay the bill in lira",
+        "Transfer money in lira",
+        "Check lira to euro conversion"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Turkey trip budget",
+        "Convert to lira",
+        "Pay in TRY",
+        "Check lira rate"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pay in lria in turkey",
+        "chekc try exchagne rate",
+        "convrt lira to euros",
+        "exchagne to turksh lira"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Pay in euros",
+        "Exchange to US dollars",
+        "Use hryvnia in Ukraine",
+        "Pay in British pounds",
+        "Exchange for Swiss francs",
+        "Use a credit card abroad"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Exchange money to lira",
+        "Pay in lira in Turkey",
+        "Check the TRY exchange rate"
+      ]
+    },
+    "test": {
+      "en": [
+        "Convert lira to euros",
+        "Withdraw lira from the ATM",
+        "Budget the Turkey trip"
+      ]
+    }
+  }
+}

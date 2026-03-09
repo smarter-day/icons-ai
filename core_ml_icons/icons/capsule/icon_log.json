@@ -1,0 +1,84 @@
+{
+  "icon": "capsule",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "drugs",
+        "medicine",
+        "pills",
+        "prescription"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "prescription drugs in capsule form",
+        "drugs dispensed in capsule shells",
+        "medicine capsule from the pharmacy",
+        "take your medicine capsule with water",
+        "pills and capsules in the bottle",
+        "capsule pills for daily medication",
+        "prescription capsule from the doctor",
+        "fill the prescription with capsules"
+      ]
+    },
+    "regular": {
+      "en": [
+        "two-tone oval capsule pill in red and white",
+        "medicine capsule with powdered contents",
+        "daily medication capsule from the prescription",
+        "pharmacy dispensing capsules in a bottle",
+        "antibiotic capsule taken with a glass of water",
+        "supplement capsule in the morning routine",
+        "capsule shell containing powdered medicine",
+        "over-the-counter capsule for headache relief",
+        "vitamin capsule from the health store",
+        "time-release capsule for sustained medication"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a capsule icon for the medication tracker",
+        "add a pill capsule to the pharmacy section",
+        "show a capsule for the prescription reminder",
+        "use the medicine capsule icon for the health app"
+      ]
+    },
+    "typo": {
+      "en": [
+        "medicne capsule daily",
+        "prescrption drugs capsule",
+        "capusle pill bottle",
+        "pescription capsule form"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "round flat tablet pill on a white surface",
+        "medical syringe with needle ready for injection",
+        "amber medicine bottle with a white cap",
+        "thermometer measuring body temperature",
+        "bandage strip on a small cut",
+        "stethoscope for listening to the heartbeat"
+      ]
+    },
+    "valid": {
+      "en": [
+        "medicine capsule from the pharmacy",
+        "prescription capsule pill icon",
+        "daily medication capsule"
+      ]
+    },
+    "test": {
+      "en": [
+        "capsule pill symbol",
+        "medicine capsule icon",
+        "prescription drug capsule"
+      ]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "icon": "oven",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bake",
+        "broiler",
+        "convection",
+        "cook",
+        "kitchen",
+        "stove"
+      ],
+      "ru": [
+        "выпекать",
+        "гриль",
+        "конвекция",
+        "готовить",
+        "кухня",
+        "плита"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bake bread in the oven",
+        "bake cookies at 350 degrees",
+        "broiler setting for browning food",
+        "broiler under the oven",
+        "convection oven circulates hot air",
+        "convection setting for faster baking",
+        "cook dinner in the oven",
+        "cook a roast in oven overnight",
+        "kitchen oven built into cabinet",
+        "modern kitchen oven appliance",
+        "stove with oven below burners",
+        "stovetop and oven combo unit"
+      ],
+      "ru": [
+        "печь хлеб в духовке",
+        "выпекать печенье при 180 градусах",
+        "режим гриля для подрумянивания еды",
+        "гриль под духовкой",
+        "конвекционная духовка циркулирует горячий воздух",
+        "режим конвекции для более быстрой выпечки",
+        "готовить ужин в духовке",
+        "готовить жаркое в духовке ночью",
+        "кухонная духовка встроенная в шкаф",
+        "современная духовка бытовой прибор",
+        "плита с духовкой под конфорками",
+        "комбинированный блок плиты и духовки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "kitchen oven with glass door and controls",
+        "baking in a preheated oven",
+        "roasting chicken in a hot oven",
+        "stove and oven combination appliance",
+        "built-in wall oven in modern kitchen",
+        "Dutch oven for slow cooking",
+        "pizza oven at high temperature",
+        "convection oven for even baking",
+        "self-cleaning oven feature",
+        "oven timer counting down for bake"
+      ],
+      "ru": [
+        "кухонная духовка со стеклянной дверцей и элементами управления",
+        "выпечка в предварительно разогретой духовке",
+        "жарка курицы в горячей духовке",
+        "комбинированный прибор плита и духовка",
+        "встроенная настенная духовка на современной кухне",
+        "чугунный горшок для медленного приготовления",
+        "пиццерийная печь при высокой температуре",
+        "конвекционная духовка для равномерной выпечки",
+        "функция самоочистки духовки",
+        "таймер духовки отсчитывающий выпечку"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an oven icon for the recipe section",
+        "add a kitchen oven to the cooking appliance category",
+        "show an oven for the baking reminder",
+        "use the oven icon for the cook time feature"
+      ],
+      "ru": [
+        "Мне нужна иконка духовки для раздела рецептов",
+        "добавить кухонную духовку в категорию кулинарных приборов",
+        "показать духовку для напоминания о выпечке",
+        "использовать иконку духовки для функции времени готовки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "ovne temperature",
+        "bakng in oven",
+        "konvection oven",
+        "kitcen stove"
+      ],
+      "ru": [
+        "духовак температура",
+        "выпечка в духовке",
+        "конвекциоая духовка",
+        "кухоная плита"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "microwave for quick heating",
+        "stovetop burners without oven",
+        "toaster for bread slices",
+        "air fryer countertop appliance",
+        "slow cooker crockpot appliance",
+        "refrigerator for food cooling"
+      ],
+      "ru": [
+        "микроволновая печь для быстрого нагрева",
+        "конфорки плиты без духовки",
+        "тостер для ломтиков хлеба",
+        "аэрогриль настольный прибор",
+        "мультиварка прибор медленного приготовления",
+        "холодильник для охлаждения еды"
+      ]
+    },
+    "valid": {
+      "en": [
+        "kitchen oven for baking",
+        "oven appliance icon",
+        "stove and oven combo"
+      ],
+      "ru": [
+        "кухонная духовка для выпечки",
+        "иконка прибора духовка",
+        "комбо плита и духовка"
+      ]
+    },
+    "test": {
+      "en": [
+        "oven icon",
+        "bake in kitchen oven",
+        "convection oven appliance"
+      ],
+      "ru": [
+        "иконка духовки",
+        "выпекать в кухонной духовке",
+        "конвекционный прибор духовка"
+      ]
+    }
+  }
+}

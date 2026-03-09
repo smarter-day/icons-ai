@@ -1,0 +1,130 @@
+{
+  "icon": "note-medical",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "memo",
+        "sticky note"
+      ],
+      "ru": [
+        "заметка",
+        "стикер"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "medical memo for patient record",
+        "doctor's memo note",
+        "sticky note with medical reminder",
+        "sticky note on patient chart"
+      ],
+      "ru": [
+        "медицинская заметка для записи пациента",
+        "заметка врача",
+        "стикер с медицинским напоминанием",
+        "стикер на карте пациента"
+      ]
+    },
+    "regular": {
+      "en": [
+        "sticky note with medical symbol or cross",
+        "doctor's note for sick leave",
+        "medical chart note annotation",
+        "patient visit memo pad",
+        "nurse's sticky note reminder",
+        "prescription reminder on sticky note",
+        "hospital admission note",
+        "clipboard with medical memo pad",
+        "health record note icon",
+        "medical form with note fields"
+      ],
+      "ru": [
+        "стикер с медицинским символом или крестом",
+        "справка врача для больничного",
+        "аннотация на медицинской карте",
+        "блокнот для заметок о визите пациента",
+        "напоминание медсестры на стикере",
+        "напоминание о рецепте на стикере",
+        "заметка о госпитализации",
+        "буфер с медицинским блокнотом",
+        "иконка заметки медицинской карты",
+        "медицинская форма с полями заметок"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a medical note icon for the health record section",
+        "add a sticky note to the patient chart feature",
+        "show a memo for the doctor's notes screen",
+        "use the note medical icon for the prescription reminder"
+      ],
+      "ru": [
+        "Мне нужна иконка медицинской заметки для раздела медкарты",
+        "добавить стикер к функции карты пациента",
+        "показать заметку для экрана записей врача",
+        "использовать иконку медицинской заметки для напоминания о рецепте"
+      ]
+    },
+    "typo": {
+      "en": [
+        "medicla note",
+        "stickey note medical",
+        "meom doctor",
+        "medcial reminder"
+      ],
+      "ru": [
+        "медцинская заметка",
+        "стикре медицина",
+        "заметак врача",
+        "медицинско напоминание"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "regular sticky note without medical symbol",
+        "prescription pad for writing medicine",
+        "clipboard with general document",
+        "pill bottle with label",
+        "health card or insurance card",
+        "checklist notepad for tasks"
+      ],
+      "ru": [
+        "обычный стикер без медицинского символа",
+        "рецептурный блокнот для записи лекарств",
+        "буфер с обычным документом",
+        "флакон с таблетками с этикеткой",
+        "медицинская карта или страховое удостоверение",
+        "блокнот контрольного списка для задач"
+      ]
+    },
+    "valid": {
+      "en": [
+        "medical sticky note icon",
+        "doctor memo note",
+        "health record note"
+      ],
+      "ru": [
+        "иконка медицинского стикера",
+        "заметка врача",
+        "заметка медицинской карты"
+      ]
+    },
+    "test": {
+      "en": [
+        "note medical icon",
+        "sticky note medical",
+        "doctor's note memo"
+      ],
+      "ru": [
+        "иконка медицинской заметки",
+        "медицинский стикер",
+        "заметка записки врача"
+      ]
+    }
+  }
+}

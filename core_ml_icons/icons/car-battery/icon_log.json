@@ -1,0 +1,142 @@
+{
+  "icon": "car-battery",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "auto",
+        "electric",
+        "mechanic",
+        "power"
+      ],
+      "ru": [
+        "авто",
+        "электрический",
+        "механик",
+        "питание"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Auto mechanic appointment for the battery",
+        "Electric car battery range check",
+        "Mechanic to check the battery charge",
+        "Power supply issue in the vehicle",
+        "Auto parts store for the replacement battery",
+        "Electric vehicle charge level at 15 percent",
+        "Mechanic diagnosed a weak battery today",
+        "Power cables to jump-start the car"
+      ],
+      "ru": [
+        "Запись к автомеханику по поводу аккумулятора",
+        "Проверка запаса хода аккумулятора электромобиля",
+        "Механик для проверки заряда аккумулятора",
+        "Проблема с питанием в автомобиле",
+        "Магазин автозапчастей за новым аккумулятором",
+        "Уровень заряда электромобиля 15 процентов",
+        "Механик диагностировал слабый аккумулятор",
+        "Провода для прикуривания машины"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Car battery dead — jump start needed",
+        "Replace the car battery this week",
+        "Battery check before the road trip",
+        "Call roadside assistance for dead battery",
+        "Car battery lifespan test",
+        "New battery for the old sedan",
+        "EV battery charge at the station",
+        "Car won't start — check the battery",
+        "Battery terminal cleaning for the car",
+        "Charge the electric car overnight"
+      ],
+      "ru": [
+        "Аккумулятор сел — нужна прикурка",
+        "Заменить аккумулятор машины на этой неделе",
+        "Проверка аккумулятора перед поездкой",
+        "Вызвать помощь на дороге при севшем аккумуляторе",
+        "Тест ресурса аккумулятора",
+        "Новый аккумулятор для старого седана",
+        "Зарядка аккумулятора электромобиля на станции",
+        "Машина не заводится — проверить аккумулятор",
+        "Очистка клемм аккумулятора",
+        "Зарядить электромобиль на ночь"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "dead battery again worst timing",
+        "car won't start must be the battery",
+        "need a jump start asap",
+        "EV battery down to 10% find a charger"
+      ],
+      "ru": [
+        "аккумулятор снова сел хуже не придумать",
+        "машина не заводится наверно аккумулятор",
+        "срочно нужна прикурка",
+        "аккумулятор электромобиля 10% найти зарядку"
+      ]
+    },
+    "typo": {
+      "en": [
+        "car batery dead needs jump start",
+        "relplace the auto batterry",
+        "car wont strat check the batery",
+        "EV baterry charge at the staion"
+      ],
+      "ru": [
+        "акумулятор сел нужна прикурка",
+        "заменить автомобильный акумулятор",
+        "машина не заводиться проверить акумулятор",
+        "зарядка акумулятора электромобиля на станции"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Phone battery at 5% needs charging",
+        "Laptop battery dead overnight",
+        "Car oil change at the garage",
+        "Tyre pressure check before driving",
+        "Power bank for the hiking trip",
+        "Solar panel power backup system"
+      ],
+      "ru": [
+        "Телефон разрядился до 5% нужна зарядка",
+        "Ноутбук разрядился за ночь",
+        "Замена масла в машине в гараже",
+        "Проверка давления в шинах перед поездкой",
+        "Павербанк для похода",
+        "Система резервного питания солнечной батареей"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Car battery check before the long drive",
+        "Jump start needed for dead battery",
+        "Replace the old car battery"
+      ],
+      "ru": [
+        "Проверка аккумулятора перед дальней поездкой",
+        "Нужна прикурка для севшего аккумулятора",
+        "Заменить старый аккумулятор машины"
+      ]
+    },
+    "test": {
+      "en": [
+        "Battery dead in the parking lot",
+        "EV charge up before the trip",
+        "Mechanic for the battery issue"
+      ],
+      "ru": [
+        "Аккумулятор сел на парковке",
+        "Зарядить электромобиль перед поездкой",
+        "Механик по поводу проблемы с аккумулятором"
+      ]
+    }
+  }
+}

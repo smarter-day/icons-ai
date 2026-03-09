@@ -1,0 +1,81 @@
+{
+  "icon": "hospitals",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "emergency",
+        "insurance",
+        "network"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Go to the emergency room",
+        "Call emergency services",
+        "Check the health insurance coverage",
+        "Submit an insurance claim",
+        "Find hospitals in the insurance network",
+        "Check the hospital network"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Find the nearest hospital",
+        "Call the hospital emergency line",
+        "Check hospital visiting hours",
+        "Navigate to the hospital",
+        "Check if the hospital accepts insurance",
+        "Find a hospital in the network",
+        "Submit a hospital insurance claim",
+        "Look up hospital ratings",
+        "Find a specialist at the hospital",
+        "Check in at the hospital reception"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Find a hospital",
+        "Emergency room",
+        "Hospital network",
+        "Check insurance"
+      ]
+    },
+    "typo": {
+      "en": [
+        "find the nearset hosptial",
+        "call the hosptal emergeny",
+        "chek hosptal visitng hours",
+        "submitt an insurace claim"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Visit a single family doctor",
+        "Go to the urgent care clinic",
+        "Call the ambulance",
+        "Visit the pharmacy for medication",
+        "See the specialist at the clinic",
+        "Use a telemedicine service"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Find the nearest hospital",
+        "Check hospital insurance coverage",
+        "Navigate to the emergency room"
+      ]
+    },
+    "test": {
+      "en": [
+        "Find a hospital in the network",
+        "Submit a hospital insurance claim",
+        "Look up hospital ratings"
+      ]
+    }
+  }
+}

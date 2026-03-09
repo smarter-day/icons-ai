@@ -1,0 +1,78 @@
+{
+  "icon": "dial",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "dial",
+        "level"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Turn the dial to adjust the volume",
+        "Set the dial to the right setting",
+        "Check the level on the gauge",
+        "Set the difficulty level"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Adjust the settings on the device",
+        "Turn up the volume on the stereo",
+        "Set the temperature on the oven dial",
+        "Tune the radio dial to the station",
+        "Adjust the thermostat",
+        "Set the correct level for the task",
+        "Turn the knob to the right setting",
+        "Calibrate the instrument dial",
+        "Fine-tune the audio settings",
+        "Adjust the brightness level"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Turn the dial",
+        "Adjust the level",
+        "Crank it up",
+        "Set the knob"
+      ]
+    },
+    "typo": {
+      "en": [
+        "asjust the sttings dial",
+        "trun up the volum",
+        "set the tempreture dial",
+        "tune the raido"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use a slider to adjust the volume",
+        "Press a button to change settings",
+        "Adjust the brightness with a tap",
+        "Use a gauge to measure pressure",
+        "Set the speed on the treadmill",
+        "Use a toggle switch to turn on"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Adjust the dial settings",
+        "Turn the knob to the right level",
+        "Calibrate the instrument"
+      ]
+    },
+    "test": {
+      "en": [
+        "Set the temperature on the dial",
+        "Tune the radio dial",
+        "Adjust the volume level"
+      ]
+    }
+  }
+}

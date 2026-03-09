@@ -1,0 +1,178 @@
+{
+  "icon": "bolt",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "charge",
+        "danger",
+        "electric",
+        "electricity",
+        "flash",
+        "high voltage",
+        "lightning",
+        "voltage",
+        "weather",
+        "zap"
+      ],
+      "ru": [
+        "заряд",
+        "опасность",
+        "электрический",
+        "электричество",
+        "вспышка",
+        "высокое напряжение",
+        "молния",
+        "напряжение",
+        "погода",
+        "удар"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "charge up",
+        "danger sign on the fence",
+        "electric bill due",
+        "electricity outage",
+        "lightning flash warning",
+        "high voltage area",
+        "lightning storm approaching",
+        "check the voltage",
+        "bad weather warning",
+        "zap the bugs",
+        "Charge the drone before the shoot",
+        "Danger zone marked with hazard tape",
+        "Electric vehicle charging station nearby",
+        "Electricity meter reading this month",
+        "Camera flash settings for the evening shoot",
+        "High voltage cable inspection due",
+        "Lightning rod installation on the roof",
+        "Voltage regulator for the server room",
+        "Severe weather alert for tonight",
+        "Zap sticker on the power button"
+      ],
+      "ru": [
+        "зарядиться",
+        "знак опасности на заборе",
+        "счёт за электричество",
+        "отключение электричества",
+        "предупреждение о вспышках молнии",
+        "зона высокого напряжения",
+        "надвигается гроза с молниями",
+        "проверить напряжение",
+        "предупреждение о плохой погоде",
+        "отпугнуть вредителей",
+        "Зарядить дрон перед съёмкой",
+        "Зона опасности отмечена предупредительной лентой",
+        "Ближайшая зарядная станция для электромобиля",
+        "Снятие показаний счётчика электричества",
+        "Настройки вспышки камеры для вечерней съёмки",
+        "Проверка высоковольтного кабеля",
+        "Монтаж молниеотвода на крыше",
+        "Стабилизатор напряжения для серверной комнаты",
+        "Предупреждение о сильных погодных условиях на ночь",
+        "Стикер-молния на кнопке питания"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Check the weather for lightning",
+        "Storm warning this evening",
+        "Pay the electricity bill",
+        "Power outage in the neighborhood",
+        "Electrical safety check",
+        "Lightning rod installation",
+        "Power surge protection",
+        "Check for high voltage areas",
+        "Storm alert for tomorrow",
+        "Electric fence warning"
+      ],
+      "ru": [
+        "Проверить погоду на предмет молний",
+        "Штормовое предупреждение этим вечером",
+        "Оплатить счёт за электричество",
+        "Отключение электричества в округе",
+        "Проверка электробезопасности",
+        "Установка молниеотвода",
+        "Защита от скачков напряжения",
+        "Проверить наличие зон высокого напряжения",
+        "Штормовое предупреждение на завтра",
+        "Предупреждение об электрическом заборе"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "There's a lightning storm coming",
+        "The power went out again",
+        "There's an electrical fault somewhere",
+        "Did you see that lightning flash?"
+      ],
+      "ru": [
+        "Надвигается гроза с молниями",
+        "Снова отключили электричество",
+        "Где-то неисправность электропроводки",
+        "Видел ту вспышку молнии?"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Lighntning strom tonigt",
+        "Pay the electrcity billl",
+        "Powr outge tonigt",
+        "Electrc fence warnng"
+      ],
+      "ru": [
+        "Гроза с молнями сегодня вечером",
+        "Заплатть счёт за электрчество",
+        "Отключение элекричества вечером",
+        "Предупреждние об элекрическом заборе"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Charge the phone",
+        "Turn on the lights",
+        "Check battery level",
+        "Electric car charging",
+        "Solar power setup",
+        "Energy drink run"
+      ],
+      "ru": [
+        "Зарядить телефон",
+        "Включить свет",
+        "Проверить уровень заряда батареи",
+        "Зарядка электромобиля",
+        "Настройка солнечных панелей",
+        "Энергетический напиток"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Lightning storm warning for tonight",
+        "Pay the electricity bill",
+        "Power outage report in the area"
+      ],
+      "ru": [
+        "Предупреждение о грозе с молниями на ночь",
+        "Оплатить счёт за электричество",
+        "Сообщение об отключении электричества"
+      ]
+    },
+    "test": {
+      "en": [
+        "Storm alert — lightning risk",
+        "Electric safety inspection",
+        "Check the weather for thunderstorms"
+      ],
+      "ru": [
+        "Штормовое предупреждение — риск молний",
+        "Проверка электробезопасности",
+        "Проверить погоду на грозу"
+      ]
+    }
+  }
+}

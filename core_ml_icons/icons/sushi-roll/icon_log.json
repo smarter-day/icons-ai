@@ -1,0 +1,172 @@
+{
+  "icon": "sushi-roll",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "fish",
+        "maki",
+        "nori",
+        "raw",
+        "rice",
+        "salmon",
+        "seafood",
+        "seaweed",
+        "tuna"
+      ],
+      "ru": [
+        "рыба",
+        "маки",
+        "нори",
+        "сырой",
+        "рис",
+        "лосось",
+        "морепродукты",
+        "морская капуста",
+        "тунец"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "fish inside sushi roll",
+        "fried fish roll crunchy",
+        "maki roll cut into pieces",
+        "maki sushi variety tray",
+        "nori wrapped outside roll",
+        "nori seaweed roll",
+        "raw fish rolled in rice",
+        "raw ingredients inside roll",
+        "rice rolled in nori sheet",
+        "sushi roll sticky rice",
+        "salmon cucumber roll inside out",
+        "spicy salmon roll",
+        "seafood filling inside maki",
+        "seafood sushi roll platter",
+        "seaweed outside sushi roll",
+        "seaweed wrap maki roll",
+        "tuna avocado roll classic",
+        "spicy tuna roll menu"
+      ],
+      "ru": [
+        "рыба внутри суши-ролла",
+        "жареный рыбный ролл хрустящий",
+        "маки-ролл нарезанный на кусочки",
+        "разнообразие маки суши тарелка",
+        "нори снаружи ролла",
+        "ролл из морских водорослей нори",
+        "сырая рыба завёрнутая в рис",
+        "сырые ингредиенты внутри ролла",
+        "рис завёрнутый в лист нори",
+        "суши-ролл клейкий рис",
+        "ролл с лососем и огурцом наоборот",
+        "ролл с острым лососем",
+        "начинка из морепродуктов внутри маки",
+        "ассорти морепродуктов суши-ролл",
+        "морские водоросли снаружи суши-ролла",
+        "обёртка из водорослей маки",
+        "ролл с тунцом и авокадо классический",
+        "острый ролл с тунцом в меню"
+      ]
+    },
+    "regular": {
+      "en": [
+        "maki sushi roll sliced into six pieces",
+        "inside out California roll with tobiko",
+        "spicy tuna roll on menu",
+        "dragon roll with avocado on top",
+        "rainbow roll multiple fish varieties",
+        "sushi rice inside nori sheet rolled tight",
+        "sushi roll on wooden board with ginger",
+        "takeout sushi roll plastic tray",
+        "chef rolling sushi with bamboo mat",
+        "vegetarian sushi roll cucumber avocado"
+      ],
+      "ru": [
+        "маки суши-ролл нарезан на шесть кусочков",
+        "ролл калифорния наизнанку с тобико",
+        "острый ролл с тунцом в меню",
+        "ролл дракон с авокадо сверху",
+        "ролл радуга разные виды рыбы",
+        "суши-рис внутри листа нори плотно скрученный",
+        "суши-ролл на деревянной доске с имбирём",
+        "суши на вынос пластиковый лоток",
+        "шеф скручивает суши бамбуковым ковриком",
+        "вегетарианский суши-ролл огурец авокадо"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sushi roll icon for the Japanese food menu",
+        "add a maki roll symbol to the restaurant section",
+        "show a sushi roll for the Asian cuisine category",
+        "use the sushi-roll icon for the food delivery option"
+      ],
+      "ru": [
+        "нужна иконка суши-ролла для японского меню",
+        "добавь символ маки-ролла в раздел ресторанов",
+        "покажи суши-ролл для категории азиатской кухни",
+        "используй иконку суши-ролла для доставки еды"
+      ]
+    },
+    "typo": {
+      "en": [
+        "suhsi roll maki",
+        "suhi roll salmon",
+        "seawed wrapped roll",
+        "maik roll tuna"
+      ],
+      "ru": [
+        "суши-ролл маки",
+        "ролл суши лосось",
+        "ролл в водорослях",
+        "маки ролл тунец"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "nigiri sushi pressed rice no roll",
+        "sashimi sliced fish no rice no seaweed",
+        "temaki hand roll cone shape",
+        "spring roll Vietnamese rice paper",
+        "burrito tortilla roll Mexican",
+        "crepe thin rolled pancake"
+      ],
+      "ru": [
+        "нигири суши спрессованный рис без ролла",
+        "сашими нарезанная рыба без риса без водорослей",
+        "тэмаки ролл в форме конуса",
+        "свежий весенний ролл рисовая бумага вьетнамский",
+        "буррито лепёшка ролл мексиканский",
+        "блинчик тонкий свёрнутый"
+      ]
+    },
+    "valid": {
+      "en": [
+        "maki sushi roll icon",
+        "seaweed wrapped fish rice roll",
+        "sushi roll platter"
+      ],
+      "ru": [
+        "иконка маки суши-ролл",
+        "ролл рыба рис в водорослях",
+        "ассорти суши-ролл"
+      ]
+    },
+    "test": {
+      "en": [
+        "sushi roll icon",
+        "maki roll sliced",
+        "Japanese roll seafood"
+      ],
+      "ru": [
+        "иконка суши-ролла",
+        "маки-ролл нарезанный",
+        "японский ролл морепродукты"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "icon": "shuttlecock",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "badminton",
+        "birdie",
+        "feather",
+        "sport"
+      ],
+      "ru": [
+        "бадминтон",
+        "воланчик",
+        "перо",
+        "спорт"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "badminton shuttlecock hit over net",
+        "badminton match with shuttlecock",
+        "birdie shuttlecock flying through air",
+        "plastic birdie for outdoor play",
+        "feather shuttlecock for professional play",
+        "real feather shuttlecock in tournament",
+        "sport equipment shuttlecock for court",
+        "racket sport shuttlecock"
+      ],
+      "ru": [
+        "воланчик бадминтона перелетает сетку",
+        "матч по бадминтону с воланчиком",
+        "воланчик летит через воздух",
+        "пластиковый воланчик для игры на улице",
+        "перьевой воланчик для профессиональной игры",
+        "настоящий перьевой воланчик на турнире",
+        "спортивный инвентарь воланчик для корта",
+        "воланчик для ракетного спорта"
+      ]
+    },
+    "regular": {
+      "en": [
+        "white feathered shuttlecock in flight",
+        "badminton birdie with cork base and feathers",
+        "plastic shuttlecock for recreational play",
+        "shuttlecock falling after overhead smash",
+        "professional shuttlecock for tournament match",
+        "shuttlecock icon for badminton game app",
+        "child hitting shuttlecock with plastic racket",
+        "shuttlecock resting on court after rally",
+        "shuttlecock spinning in slow motion",
+        "speed shuttlecock for fast indoor play"
+      ],
+      "ru": [
+        "белый перьевой воланчик в полёте",
+        "воланчик бадминтона с пробковым основанием и перьями",
+        "пластиковый воланчик для любительской игры",
+        "воланчик падает после удара смэш",
+        "профессиональный воланчик для турнира",
+        "иконка воланчика для приложения бадминтона",
+        "ребёнок бьёт по воланчику пластиковой ракеткой",
+        "воланчик лежит на корте после розыгрыша",
+        "воланчик вращается в замедленной съёмке",
+        "скоростной воланчик для быстрой игры"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a shuttlecock icon for the badminton app",
+        "add a birdie symbol to the sports section",
+        "show a shuttlecock for the racket sports feature",
+        "use the shuttlecock icon for the badminton category"
+      ],
+      "ru": [
+        "мне нужна иконка воланчика для приложения бадминтона",
+        "добавь символ воланчика в раздел спорта",
+        "покажи воланчик для функции ракетных видов спорта",
+        "используй иконку воланчика для категории бадминтона"
+      ]
+    },
+    "typo": {
+      "en": [
+        "white featherd shuttlecock in flight",
+        "badmitnon birdie with cork and feathers",
+        "suttlecock falling after overhead smash",
+        "profesisonal shuttlecock for tournament"
+      ],
+      "ru": [
+        "белый перьевой волнчик в полёте",
+        "воланчик с пробковым основанем и перьями",
+        "воланчик падает после удара",
+        "профессионалный воланчик для турнира"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "badminton racket lightweight for court",
+        "tennis ball yellow fuzzy sphere",
+        "ping pong ball white small sphere",
+        "squash rubber ball hitting wall",
+        "frisbee flying disc for outdoor play",
+        "volleyball round white and blue ball"
+      ],
+      "ru": [
+        "лёгкая ракетка для бадминтона",
+        "жёлтый пушистый теннисный мяч",
+        "маленький белый шарик для пинг-понга",
+        "резиновый мяч для сквоша",
+        "фрисби летающий диск для улицы",
+        "волейбольный бело-синий мяч"
+      ]
+    },
+    "valid": {
+      "en": [
+        "feathered shuttlecock in flight",
+        "badminton birdie with cork base",
+        "shuttlecock for badminton game"
+      ],
+      "ru": [
+        "перьевой воланчик в полёте",
+        "воланчик с пробковым основанием",
+        "воланчик для бадминтона"
+      ]
+    },
+    "test": {
+      "en": [
+        "plastic shuttlecock for outdoor play",
+        "professional shuttlecock tournament",
+        "birdie hitting shuttlecock icon"
+      ],
+      "ru": [
+        "пластиковый воланчик для улицы",
+        "профессиональный воланчик турнира",
+        "иконка воланчика бадминтона"
+      ]
+    }
+  }
+}

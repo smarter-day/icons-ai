@@ -1,0 +1,84 @@
+{
+  "icon": "cloud-meatball",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "FLDSMDFR",
+        "food",
+        "spaghetti",
+        "storm"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Watch Cloudy with a Chance of Meatballs",
+        "Build the FLDSMDFR machine",
+        "Order food delivery during the storm",
+        "Cook comfort food on a rainy day",
+        "Make spaghetti and meatballs",
+        "Cook spaghetti for dinner",
+        "Prepare for the coming storm",
+        "Stay inside during the storm"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Cook pasta for dinner",
+        "Make meatballs from scratch",
+        "Prepare spaghetti bolognese",
+        "Order Italian food delivery",
+        "Cook comfort food on a rainy night",
+        "Make a big pot of pasta",
+        "Italian food night at home",
+        "Make homemade marinara sauce",
+        "Pasta and meatball recipe",
+        "Cook dinner while it rains outside"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Spaghetti night!",
+        "Meatball time",
+        "Pasta dinner",
+        "Comfort food weather"
+      ]
+    },
+    "typo": {
+      "en": [
+        "make spagetti and meatbals",
+        "pasta dinnre tonight",
+        "meatbal recipe",
+        "cook spagetti bolognese"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Check the thunderstorm forecast",
+        "Prepare for the heavy rainfall",
+        "Order pizza delivery",
+        "Make a grilled cheese sandwich",
+        "Cook soup on a cold day",
+        "Buy groceries before the storm hits"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Make spaghetti and meatballs",
+        "Cook Italian food for dinner",
+        "Pasta night at home"
+      ]
+    },
+    "test": {
+      "en": [
+        "Prepare the meatball recipe",
+        "Cook pasta from scratch",
+        "Italian dinner tonight"
+      ]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "icon": "person-seat",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "airplane",
+        "aisle",
+        "chair",
+        "recline",
+        "seat",
+        "travel"
+      ],
+      "ru": [
+        "самолёт",
+        "проход",
+        "кресло",
+        "откидываться",
+        "сиденье",
+        "путешествие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "airplane passenger in seat",
+        "airplane seating arrangement",
+        "aisle seat on airplane",
+        "window or aisle seat choice",
+        "chair in waiting area",
+        "comfortable chair for sitting",
+        "recline seat on long flight",
+        "recline chair in business class",
+        "select a seat on the plane",
+        "seat reservation icon",
+        "travel by plane seated",
+        "travel seating map"
+      ],
+      "ru": [
+        "пассажир самолёта в кресле",
+        "схема посадочных мест самолёта",
+        "кресло у прохода в самолёте",
+        "выбор кресла у окна или прохода",
+        "кресло в зоне ожидания",
+        "удобное кресло для сидения",
+        "откинуть спинку кресла на длинном рейсе",
+        "откидное кресло в бизнес-классе",
+        "выбрать место в самолёте",
+        "иконка бронирования места",
+        "путешествие на самолёте сидя",
+        "карта мест для поездки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "person seated in airplane chair",
+        "airline seat selection map",
+        "reclining seat on long-haul flight",
+        "economy class seat with tray table",
+        "seat reservation on booking screen",
+        "passenger seated with seatbelt",
+        "seat row and column numbering",
+        "first class cabin reclining seat",
+        "theater or cinema seat icon",
+        "ergonomic seat posture indicator"
+      ],
+      "ru": [
+        "человек сидящий в кресле самолёта",
+        "карта выбора мест авиакомпании",
+        "откидное кресло на дальнем рейсе",
+        "кресло эконом-класса со складным столиком",
+        "бронирование места на экране заказа",
+        "пассажир сидящий с пристёгнутым ремнём",
+        "нумерация рядов и столбцов мест",
+        "откидное кресло в кабине первого класса",
+        "иконка кресла театра или кинотеатра",
+        "индикатор эргономичной позы сиденья"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a person seat icon for the flight booking",
+        "add a seat selection symbol to the airplane section",
+        "show a seated person for the travel reservation screen",
+        "use the seat icon for the chair preference feature"
+      ],
+      "ru": [
+        "Мне нужна иконка человека в кресле для бронирования рейса",
+        "добавить символ выбора места в раздел самолёта",
+        "показать сидящего человека для экрана бронирования путешествия",
+        "использовать иконку кресла для функции предпочтения места"
+      ]
+    },
+    "typo": {
+      "en": [
+        "prson seat airplane",
+        "airpalane seat select",
+        "recilne seat flight",
+        "seat travle icon"
+      ],
+      "ru": [
+        "персона кресло самолёт",
+        "самолёт выбора местa",
+        "откидное кресло полёт",
+        "кресло путешетсвие"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "person standing at podium",
+        "empty chair without person",
+        "seatbelt buckle symbol",
+        "bed or sleeping berth on train",
+        "wheelchair accessible seat",
+        "stool or bar chair without back"
+      ],
+      "ru": [
+        "человек стоящий у трибуны",
+        "пустое кресло без человека",
+        "символ застёжки ремня безопасности",
+        "кровать или спальное место в поезде",
+        "кресло для инвалидных колясок",
+        "табурет или барный стул без спинки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "person seated in airplane chair",
+        "seat selection icon travel",
+        "reclining seat on flight"
+      ],
+      "ru": [
+        "человек сидящий в кресле самолёта",
+        "иконка выбора места для путешествия",
+        "откидное кресло в рейсе"
+      ]
+    },
+    "test": {
+      "en": [
+        "person seat icon",
+        "airplane seat selection",
+        "travel seat recline"
+      ],
+      "ru": [
+        "иконка человека в кресле",
+        "выбор места в самолёте",
+        "откидное сиденье для путешествия"
+      ]
+    }
+  }
+}

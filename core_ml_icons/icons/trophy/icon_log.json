@@ -1,0 +1,160 @@
+{
+  "icon": "trophy",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "achievement",
+        "award",
+        "cup",
+        "game",
+        "prize",
+        "trophy",
+        "winner"
+      ],
+      "ru": [
+        "достижение",
+        "награда",
+        "кубок",
+        "игра",
+        "приз",
+        "трофей",
+        "победитель"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "achievement trophy milestone earned",
+        "achievement unlocked trophy",
+        "award trophy ceremony handed",
+        "award cup given winner",
+        "gold cup trophy first place",
+        "trophy cup engraved name",
+        "game trophy high score reward",
+        "game win trophy unlock",
+        "prize trophy competition win",
+        "prize trophy cash award",
+        "trophy shelf display collection",
+        "trophy icon winner badge",
+        "winner trophy podium first",
+        "winner takes trophy home"
+      ],
+      "ru": [
+        "трофей достижения заработан веха",
+        "достижение разблокировано трофей",
+        "церемония награждения вручение трофея",
+        "кубок победителя вручён",
+        "золотой кубок трофей первое место",
+        "кубок трофей гравировка имени",
+        "трофей игры рекорд награда",
+        "победа в игре разблокировать трофей",
+        "приз трофей победа в соревновании",
+        "трофей денежный приз",
+        "полка с трофеями коллекция",
+        "иконка трофея значок победителя",
+        "трофей победителя пьедестал первый",
+        "победитель уносит трофей домой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "gold trophy cup first place winner",
+        "sports trophy engraved team name",
+        "employee of month trophy award",
+        "gaming achievement trophy PS4",
+        "Oscar trophy movie award",
+        "small participation trophy",
+        "trophy shelf of accomplishments",
+        "chess tournament trophy winner",
+        "app badge trophy achievement",
+        "trophy and medal side by side"
+      ],
+      "ru": [
+        "золотой кубок трофей первое место победитель",
+        "спортивный трофей гравировка имени команды",
+        "трофей лучшего сотрудника месяца",
+        "игровой трофей достижение PS4",
+        "трофей Оскар кинонаграда",
+        "небольшой трофей за участие",
+        "полка трофеев достижений",
+        "трофей победителя шахматного турнира",
+        "значок-трофей достижения приложения",
+        "трофей и медаль рядом"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a trophy icon for the achievements section",
+        "add an award symbol to the leaderboard feature",
+        "show a trophy for the winner announcement",
+        "use the trophy icon for the game reward screen"
+      ],
+      "ru": [
+        "нужна иконка трофея для раздела достижений",
+        "добавь символ награды к функции таблицы лидеров",
+        "покажи трофей для объявления победителя",
+        "используй иконку трофея для экрана наград игры"
+      ]
+    },
+    "typo": {
+      "en": [
+        "torphiy winner award",
+        "achivment trophy cup",
+        "aawrd trophy game",
+        "prizze trophy winner"
+      ],
+      "ru": [
+        "трофей победитель награда",
+        "достижение трофей кубок",
+        "наградa трофей игра",
+        "приз трофей победитель"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "medal ribbon award hanging",
+        "ribbon badge honor distinction",
+        "star gold rating five stars",
+        "crown king queen royalty",
+        "certificate achievement diploma",
+        "badge pin honor award"
+      ],
+      "ru": [
+        "медаль лента награда висящая",
+        "ленточка значок честь отличие",
+        "золотая звезда рейтинг пять",
+        "корона король королева",
+        "диплом сертификат достижение",
+        "значок булавка почётная награда"
+      ]
+    },
+    "valid": {
+      "en": [
+        "trophy award icon winner",
+        "gold cup achievement symbol",
+        "game trophy prize"
+      ],
+      "ru": [
+        "иконка трофея победитель",
+        "символ золотого кубка достижения",
+        "трофей приз игры"
+      ]
+    },
+    "test": {
+      "en": [
+        "trophy icon",
+        "award cup symbol",
+        "winner trophy achievement"
+      ],
+      "ru": [
+        "иконка трофея",
+        "символ кубка награды",
+        "трофей победитель достижение"
+      ]
+    }
+  }
+}

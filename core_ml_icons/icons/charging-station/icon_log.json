@@ -1,0 +1,160 @@
+{
+  "icon": "charging-station",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "car charger",
+        "charge",
+        "charging",
+        "electric",
+        "ev",
+        "tesla",
+        "vehicle"
+      ],
+      "ru": [
+        "зарядка машины",
+        "зарядить",
+        "зарядка",
+        "электрический",
+        "электромобиль",
+        "тесла",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Car charger port at the parking lot",
+        "Car charger cable for the road trip",
+        "Charge the electric vehicle before leaving",
+        "Charge time estimate for the EV",
+        "Charging station nearby for the EV",
+        "Charging the car overnight at home",
+        "Electric car charging network map",
+        "Electric vehicle charge level check",
+        "EV charging station reservation",
+        "EV battery topped up at the station",
+        "Tesla supercharger stop on the route",
+        "Tesla charging time at the station",
+        "Vehicle charging port compatibility check",
+        "Vehicle charge status on the app"
+      ],
+      "ru": [
+        "Разъём зарядки машины на парковке",
+        "Кабель зарядки для дорожной поездки",
+        "Зарядить электромобиль перед выездом",
+        "Оценить время зарядки электромобиля",
+        "Зарядная станция поблизости",
+        "Зарядка машины дома ночью",
+        "Карта сети зарядки электромобилей",
+        "Проверка уровня заряда электромобиля",
+        "Бронирование зарядной станции",
+        "Аккумулятор электромобиля заряжен на станции",
+        "Остановка на суперчаргере Tesla по маршруту",
+        "Время зарядки Tesla на станции",
+        "Проверка совместимости разъёма зарядки",
+        "Статус зарядки транспортного средства"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Find the nearest EV charging station",
+        "EV charging session in progress",
+        "Plug in the car at the charging point",
+        "Charging station wait time tonight",
+        "Check EV range before the long drive",
+        "Home EV charger installation",
+        "Public charging station membership",
+        "Top up the battery at the highway stop",
+        "Schedule overnight EV charging",
+        "EV charging cost calculation"
+      ],
+      "ru": [
+        "Найти ближайшую зарядную станцию",
+        "Сессия зарядки электромобиля в процессе",
+        "Подключить машину к зарядной точке",
+        "Время ожидания на зарядной станции",
+        "Проверить запас хода перед дальней поездкой",
+        "Установка домашней зарядки",
+        "Членство в сети зарядных станций",
+        "Пополнить заряд на трассе",
+        "Запланировать ночную зарядку",
+        "Расчёт стоимости зарядки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "need to charge the EV before the trip",
+        "finding a charger in this city is a pain",
+        "plugged in and charging now",
+        "how long until the car is fully charged"
+      ],
+      "ru": [
+        "нужно зарядить электромобиль перед поездкой",
+        "найти зарядку в этом городе сложно",
+        "подключён и заряжается",
+        "сколько до полного заряда машины"
+      ]
+    },
+    "typo": {
+      "en": [
+        "find the nearset EV chargin staion",
+        "plgug in the car at the chargign point",
+        "home EV charger insatlation",
+        "EV baterry topup at the highwya stop"
+      ],
+      "ru": [
+        "найти блжайшую зарядную станцию",
+        "подключить машину к зарядной точкие",
+        "установка домашней зарядки для электромобля",
+        "пополнить заряд на трасе"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Phone charger cable on the desk",
+        "Laptop power adapter for the office",
+        "Car battery jump start in the parking lot",
+        "Gas station stop on the highway",
+        "Solar panel array for the rooftop",
+        "Power bank for the hiking trip"
+      ],
+      "ru": [
+        "Кабель зарядки телефона на столе",
+        "Адаптер питания ноутбука для офиса",
+        "Прикурка аккумулятора на парковке",
+        "Заправочная станция на трассе",
+        "Массив солнечных панелей на крыше",
+        "Павербанк для похода"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Find the nearest EV charging station",
+        "Plug in the car before leaving",
+        "Tesla supercharger on the route"
+      ],
+      "ru": [
+        "Найти ближайшую зарядную станцию",
+        "Подключить машину перед выездом",
+        "Суперчаргер Tesla на маршруте"
+      ]
+    },
+    "test": {
+      "en": [
+        "EV charging overnight at home",
+        "Check EV range before the drive",
+        "Charging station membership plan"
+      ],
+      "ru": [
+        "Ночная зарядка электромобиля дома",
+        "Проверить запас хода перед поездкой",
+        "Членство в сети зарядных станций"
+      ]
+    }
+  }
+}

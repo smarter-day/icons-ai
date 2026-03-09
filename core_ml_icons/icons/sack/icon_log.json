@@ -1,0 +1,148 @@
+{
+  "icon": "sack",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bag",
+        "burlap",
+        "money",
+        "salary",
+        "santa"
+      ],
+      "ru": [
+        "мешок",
+        "мешковина",
+        "деньги",
+        "зарплата",
+        "Санта"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "sack bag full of grain or flour",
+        "cloth sack bag tied at the top",
+        "burlap sack for storing coffee beans",
+        "rough burlap sack at the market",
+        "sack of money tied with rope",
+        "money in a cloth sack",
+        "salary paid in a sack of coins",
+        "monthly salary sack icon",
+        "santa sack full of toys and gifts",
+        "Santa Claus carrying large gift sack"
+      ],
+      "ru": [
+        "мешок наполнен зерном или мукой",
+        "тканевый мешок завязан сверху",
+        "мешок из мешковины для хранения кофейных зёрен",
+        "грубый мешок из мешковины на рынке",
+        "мешок денег завязан верёвкой",
+        "деньги в тканевом мешке",
+        "зарплата в мешке монет",
+        "иконка мешка ежемесячной зарплаты",
+        "мешок Санты полон игрушек и подарков",
+        "Санта-Клаус несёт большой мешок с подарками"
+      ]
+    },
+    "regular": {
+      "en": [
+        "burlap sack full of coins tied at top",
+        "Santa Claus dragging heavy gift sack",
+        "sack of potatoes at farmer's market",
+        "drawstring sack bag for storing small items",
+        "money sack icon representing earnings",
+        "robber fleeing with spotted sack of loot",
+        "grain sack stacked in warehouse storage",
+        "flour sack in bakery kitchen",
+        "cloth sack symbol for salary or payment",
+        "sack race bag used in kids' sports day"
+      ],
+      "ru": [
+        "мешок из мешковины с монетами завязан сверху",
+        "Санта-Клаус тащит тяжёлый мешок с подарками",
+        "мешок картошки на фермерском рынке",
+        "мешочек на затяжке для хранения мелочей",
+        "иконка мешка денег как символ заработка",
+        "вор убегает с полосатым мешком добычи",
+        "мешки зерна сложены на складе",
+        "мешок муки на кухне пекарни",
+        "тканевый мешок символ зарплаты или оплаты",
+        "мешок для бега в мешках на детском спортивном дне"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sack icon for the earnings section",
+        "add a money sack to the salary feature",
+        "show a sack for the holiday gift category",
+        "use the sack icon for the payment or rewards screen"
+      ],
+      "ru": [
+        "мне нужна иконка мешка для раздела заработков",
+        "добавь мешок денег для функции зарплаты",
+        "покажи мешок для категории праздничных подарков",
+        "используй иконку мешка для экрана оплаты или наград"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Santa Calus dragging heavy gift sack",
+        "burlaap sack full of coffee beans",
+        "money sack icon representing ernings",
+        "drawstirng sack bag for small items"
+      ],
+      "ru": [
+        "Санта-Клаус тащит тяжлёый мешок подарков",
+        "мешок из мешковины с кофейными зёрнами",
+        "иконка мешка дегнег как символ заработка",
+        "мешочек на затяжек для мелочей"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "backpack with school books and zipper",
+        "briefcase for carrying work documents",
+        "wallet with cards and cash inside",
+        "piggy bank for saving coins",
+        "tote bag on shoulder in grocery store",
+        "coin purse with snap clasp closure"
+      ],
+      "ru": [
+        "рюкзак со школьными книгами и молнией",
+        "портфель для рабочих документов",
+        "кошелёк с картами и наличными",
+        "копилка-свинка для монет",
+        "сумка-шоппер на плече в магазине",
+        "кошелёк для монет с застёжкой"
+      ]
+    },
+    "valid": {
+      "en": [
+        "burlap sack of coins tied at top",
+        "Santa Claus gift sack full of toys",
+        "money sack symbol for earnings"
+      ],
+      "ru": [
+        "мешок из мешковины с монетами",
+        "мешок Санты полон игрушек",
+        "мешок денег символ заработка"
+      ]
+    },
+    "test": {
+      "en": [
+        "cloth sack bag tied with rope",
+        "sack of money for salary icon",
+        "Santa sack dragged over shoulder"
+      ],
+      "ru": [
+        "тканевый мешок завязан верёвкой",
+        "мешок денег иконка зарплаты",
+        "мешок Санты через плечо"
+      ]
+    }
+  }
+}

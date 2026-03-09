@@ -1,0 +1,84 @@
+{
+  "icon": "heart-pulse",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ekg",
+        "health",
+        "lifeline",
+        "vital signs"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Get an EKG test done",
+        "Check the EKG results",
+        "Monitor heart health",
+        "Check overall health",
+        "Check the patient's lifeline",
+        "Track fitness lifeline",
+        "Check vital signs at the clinic",
+        "Record vital signs"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Check heart rate at the doctor",
+        "Monitor heart health with a smartwatch",
+        "Get an EKG test",
+        "Track fitness and heart rate",
+        "Go to cardiology appointment",
+        "Check blood pressure and pulse",
+        "Measure heart rate after exercise",
+        "Book a heart health checkup",
+        "Monitor vital signs at the hospital",
+        "Use a fitness tracker for heart rate"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Check heart rate",
+        "Cardio check",
+        "Health checkup",
+        "Vital signs"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chekc heart rat at doctor",
+        "moniotr heart helath",
+        "get an ekeg test",
+        "track fitnes heart rate"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Measure blood pressure",
+        "Check oxygen saturation",
+        "Monitor blood sugar levels",
+        "Track steps on the fitness app",
+        "Get a full body health scan",
+        "Check body temperature"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Check heart rate at the doctor",
+        "Get an EKG test",
+        "Monitor vital signs"
+      ]
+    },
+    "test": {
+      "en": [
+        "Track heart health with a smartwatch",
+        "Book a cardiology appointment",
+        "Measure heart rate after exercise"
+      ]
+    }
+  }
+}

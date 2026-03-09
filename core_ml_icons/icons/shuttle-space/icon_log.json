@@ -1,0 +1,154 @@
+{
+  "icon": "shuttle-space",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "astronaut",
+        "machine",
+        "nasa",
+        "rocket",
+        "space",
+        "transportation"
+      ],
+      "ru": [
+        "астронавт",
+        "машина",
+        "NASA",
+        "ракета",
+        "космос",
+        "транспорт"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "astronaut riding space shuttle to orbit",
+        "astronaut inside shuttle cabin",
+        "machine engineered for space travel",
+        "spacecraft machine with engines",
+        "NASA space shuttle Discovery launch",
+        "NASA shuttle program orbital mission",
+        "rocket-powered space shuttle ascending",
+        "space shuttle rocket boosters igniting",
+        "space shuttle in orbit above Earth",
+        "space shuttle docking with station",
+        "transportation of crew to space station",
+        "shuttle transportation between Earth and orbit"
+      ],
+      "ru": [
+        "астронавт на космическом шаттле к орбите",
+        "астронавт внутри кабины шаттла",
+        "машина, созданная для космических путешествий",
+        "космический аппарат с двигателями",
+        "запуск шаттла NASA Discovery",
+        "орбитальная миссия программы NASA",
+        "шаттл с ракетными двигателями взлетает",
+        "ракетные ускорители шаттла зажигаются",
+        "шаттл на орбите над Землёй",
+        "шаттл стыкуется со станцией",
+        "транспортировка экипажа на космическую станцию",
+        "перевозка шаттлом между Землёй и орбитой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "NASA space shuttle launching with boosters",
+        "space shuttle orbiter gliding back to Earth",
+        "shuttle on launch pad at Kennedy Space Center",
+        "crew boarding space shuttle before launch",
+        "space shuttle docked to ISS",
+        "shuttle Columbia reentry tragedy",
+        "retired space shuttle on museum display",
+        "space shuttle main engine ignition sequence",
+        "shuttle flying upside down in orbit",
+        "space shuttle icon for space travel feature"
+      ],
+      "ru": [
+        "шаттл NASA стартует с ускорителями",
+        "орбитальный шаттл планирует обратно на Землю",
+        "шаттл на стартовой площадке Космического центра Кеннеди",
+        "экипаж садится в шаттл перед запуском",
+        "шаттл пристыкован к МКС",
+        "трагедия входа в атмосферу шаттла Колумбия",
+        "выведенный из эксплуатации шаттл в музее",
+        "последовательность зажигания главных двигателей шаттла",
+        "шаттл летит вверх ногами на орбите",
+        "иконка шаттла для функции космических путешествий"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a space shuttle icon for the space exploration app",
+        "add a shuttle symbol to the NASA missions section",
+        "show a rocket shuttle for the space travel feature",
+        "use the shuttle-space icon for the astronaut screen"
+      ],
+      "ru": [
+        "мне нужна иконка шаттла для приложения о космосе",
+        "добавь символ шаттла в раздел миссий NASA",
+        "покажи ракету-шаттл для функции космических путешествий",
+        "используй иконку шаттла для экрана астронавта"
+      ]
+    },
+    "typo": {
+      "en": [
+        "NASA sapce shuttle launching with boosters",
+        "shtutle orbiter gliding back to Earth",
+        "crew borading space shuttle before launch",
+        "space shutle docked to ISS"
+      ],
+      "ru": [
+        "шаттл NASA стартует с ускоиртелями",
+        "орбитальный шаттл планриует на Землю",
+        "экипаж садиться в шаттл перед запуском",
+        "шаттл присотыкован к МКС"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "rocket launch vehicle ascending vertically",
+        "satellite orbiting Earth with solar panels",
+        "astronaut spacewalk outside station",
+        "space capsule reentry splashdown",
+        "Mars rover exploring red planet surface",
+        "telescope in orbit observing distant stars"
+      ],
+      "ru": [
+        "ракета-носитель взлетает вертикально",
+        "спутник на орбите с солнечными панелями",
+        "астронавт в открытом космосе снаружи станции",
+        "капсула входит в атмосферу и приземляется",
+        "марсоход исследует поверхность красной планеты",
+        "телескоп на орбите наблюдает далёкие звёзды"
+      ]
+    },
+    "valid": {
+      "en": [
+        "space shuttle launching with rocket boosters",
+        "NASA shuttle orbiting Earth",
+        "shuttle-space icon for space app"
+      ],
+      "ru": [
+        "шаттл запускается с ракетными ускорителями",
+        "шаттл NASA на орбите",
+        "иконка шаттла для космического приложения"
+      ]
+    },
+    "test": {
+      "en": [
+        "space shuttle on launch pad",
+        "crew boarding shuttle before mission",
+        "shuttle docked to space station"
+      ],
+      "ru": [
+        "шаттл на стартовой площадке",
+        "экипаж садится в шаттл перед миссией",
+        "шаттл пристыкован к станции"
+      ]
+    }
+  }
+}

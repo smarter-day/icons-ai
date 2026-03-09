@@ -1,0 +1,102 @@
+{
+  "icon": "eye",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "body",
+        "eye",
+        "look",
+        "optic",
+        "see",
+        "seen",
+        "show",
+        "sight",
+        "views",
+        "visible"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "eye as a body part",
+        "body eye anatomy diagram",
+        "human eye looking forward",
+        "eye icon for visibility",
+        "look with the eye icon",
+        "eye look at the screen",
+        "optic nerve in the human eye",
+        "optic lens of the eye",
+        "see the world through your eyes",
+        "eye used to see",
+        "seen indicator in the chat",
+        "message seen by the eye icon",
+        "show or hide password with eye icon",
+        "show password eye toggle button",
+        "sight through the eye",
+        "eye for sight and health",
+        "views counted with the eye icon",
+        "eye views on the post",
+        "visible toggle eye icon",
+        "make content visible with the eye"
+      ]
+    },
+    "regular": {
+      "en": [
+        "human eye with iris and pupil",
+        "eye icon for show or hide password",
+        "view count shown with an eye icon",
+        "eye anatomy diagram showing the retina",
+        "watchful eye symbol for surveillance",
+        "evil eye protection amulet",
+        "eye drops for dry eye relief",
+        "eye exam chart at the optometrist",
+        "seen indicator showing the message was read",
+        "eye tracking cursor movement on screen"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an eye icon for the visibility toggle",
+        "add an eye symbol to the view count",
+        "show an eye for the watch list feature",
+        "use the eye icon for the show password button"
+      ]
+    },
+    "typo": {
+      "en": [
+        "visiblity toggle eye",
+        "eye seeen indicator",
+        "shwo password eye",
+        "veiwed by eye icon"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "eyeglasses with round frames",
+        "binoculars for bird watching",
+        "telescope pointed at the night sky",
+        "camera lens focused on the subject",
+        "magnifying glass for close inspection",
+        "spotlight shining on the stage"
+      ]
+    },
+    "valid": {
+      "en": [
+        "eye icon for visibility",
+        "human eye with iris and pupil",
+        "view count eye symbol"
+      ]
+    },
+    "test": {
+      "en": [
+        "eye icon",
+        "eye symbol for sight",
+        "show hide eye toggle"
+      ]
+    }
+  }
+}

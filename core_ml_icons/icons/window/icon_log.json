@@ -1,0 +1,136 @@
+{
+  "icon": "window",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "browser",
+        "computer",
+        "development"
+      ],
+      "ru": [
+        "браузер",
+        "компьютер",
+        "разработка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "web browser window open",
+        "browser tab navigation bar",
+        "computer screen application",
+        "computer desktop interface",
+        "web development workspace",
+        "software development environment"
+      ],
+      "ru": [
+        "открытое окно веб-браузера",
+        "панель навигации вкладок браузера",
+        "приложение на экране компьютера",
+        "интерфейс рабочего стола компьютера",
+        "рабочее пространство веб-разработки",
+        "среда разработки программного обеспечения"
+      ]
+    },
+    "regular": {
+      "en": [
+        "browser window with address bar",
+        "computer application open window",
+        "floating UI window panel",
+        "resizable desktop window frame",
+        "dialog popup window box",
+        "minimize maximize close buttons",
+        "app window with title bar",
+        "windowed mode interface",
+        "multi-window desktop layout",
+        "operating system window chrome"
+      ],
+      "ru": [
+        "окно браузера с адресной строкой",
+        "открытое окно приложения на компьютере",
+        "плавающая панель UI окна",
+        "изменяемый фрейм окна рабочего стола",
+        "диалоговое всплывающее окно",
+        "кнопки свернуть развернуть закрыть",
+        "окно приложения с заголовком",
+        "интерфейс в оконном режиме",
+        "многооконный макет рабочего стола",
+        "хром окна операционной системы"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a window icon for the app switcher",
+        "add a browser window symbol to the navigation section",
+        "show a window for the desktop view toggle",
+        "use the window icon for the windowed mode feature"
+      ],
+      "ru": [
+        "мне нужна иконка окна для переключателя приложений",
+        "добавь символ окна браузера в раздел навигации",
+        "покажи окно для переключения вида рабочего стола",
+        "используй иконку окна для функции оконного режима"
+      ]
+    },
+    "typo": {
+      "en": [
+        "windwo browser interface",
+        "borwser window open",
+        "computre window layout",
+        "developemnt browser panel"
+      ],
+      "ru": [
+        "браузер оконо интерфейс",
+        "бразуер открытое окно",
+        "компюьтер окно макет",
+        "разрабтка панель браузера"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "web browser tab bar",
+        "computer monitor display screen",
+        "popup modal dialog box",
+        "application dock taskbar",
+        "smartphone mobile screen layout",
+        "desktop wallpaper background"
+      ],
+      "ru": [
+        "панель вкладок веб-браузера",
+        "экран монитора компьютера",
+        "всплывающий модальный диалог",
+        "панель задач приложения",
+        "макет экрана мобильного смартфона",
+        "фоновое изображение рабочего стола"
+      ]
+    },
+    "valid": {
+      "en": [
+        "browser application window",
+        "computer desktop window frame",
+        "software development window"
+      ],
+      "ru": [
+        "окно браузерного приложения",
+        "фрейм окна рабочего стола",
+        "окно разработки программного обеспечения"
+      ]
+    },
+    "test": {
+      "en": [
+        "application window interface",
+        "browser window open",
+        "computer window display"
+      ],
+      "ru": [
+        "интерфейс окна приложения",
+        "открытое окно браузера",
+        "отображение окна компьютера"
+      ]
+    }
+  }
+}

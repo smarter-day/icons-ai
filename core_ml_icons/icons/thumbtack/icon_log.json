@@ -1,0 +1,160 @@
+{
+  "icon": "thumbtack",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Black Pushpin",
+        "coordinates",
+        "location",
+        "marker",
+        "pin",
+        "pushpin",
+        "thumb-tack"
+      ],
+      "ru": [
+        "чёрная кнопка",
+        "координаты",
+        "местоположение",
+        "маркер",
+        "булавка",
+        "кнопка-гвоздик",
+        "кнопка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "pushpin on corkboard pinned",
+        "black pushpin pinning note",
+        "map coordinates pinned thumbtack",
+        "coordinates marked with pin",
+        "location marked on map pin",
+        "drop location pin",
+        "thumbtack marker on board",
+        "board marker position",
+        "thumbtack pin holding paper",
+        "pin on bulletin board",
+        "pushpin sticky note wall",
+        "pushpin colorful office",
+        "thumb-tack flat head pin",
+        "thumb-tack holding poster"
+      ],
+      "ru": [
+        "кнопка-гвоздик на пробковой доске прикреплена",
+        "чёрная кнопка прикалывает заметку",
+        "координаты карты кнопка-гвоздик",
+        "координаты отмечены булавкой",
+        "местоположение на карте булавка",
+        "отметить местоположение булавкой",
+        "кнопка-маркер на доске",
+        "положение маркера на доске",
+        "кнопка-гвоздик держит бумагу",
+        "булавка на информационной доске",
+        "кнопка-гвоздик стикер стена",
+        "разноцветная кнопка офис",
+        "плоская головка кнопки",
+        "кнопка держит постер"
+      ]
+    },
+    "regular": {
+      "en": [
+        "red thumbtack pinning paper to corkboard",
+        "colorful pushpins on classroom bulletin board",
+        "map with thumbtack marking location",
+        "thumbtack anchoring project timeline",
+        "pushpin note sticky on wall",
+        "flat head thumbtack minimal design",
+        "digital map pin drop icon",
+        "agenda pinned to board thumbtack",
+        "thumbtack holding recipe on fridge",
+        "pushpin organizing tasks on board"
+      ],
+      "ru": [
+        "красная кнопка прикалывает бумагу к пробковой доске",
+        "разноцветные кнопки на классной доске объявлений",
+        "карта с кнопкой отмечающей местоположение",
+        "кнопка фиксирует хронологию проекта",
+        "кнопка-заметка стикер на стене",
+        "плоская кнопка минималистичный дизайн",
+        "цифровая булавка на карте",
+        "повестка прикреплена к доске кнопкой",
+        "кнопка держит рецепт на холодильнике",
+        "кнопка организует задачи на доске"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a thumbtack icon for the location marker",
+        "add a pushpin symbol to the board feature",
+        "show a thumbtack for the pinned notes section",
+        "use the thumbtack icon for the map marker"
+      ],
+      "ru": [
+        "нужна иконка кнопки для маркера местоположения",
+        "добавь символ кнопки-гвоздика к функции доски",
+        "покажи кнопку для раздела прикреплённых заметок",
+        "используй иконку кнопки для маркера карты"
+      ]
+    },
+    "typo": {
+      "en": [
+        "thumbtck on map",
+        "puhspin bulletin board",
+        "locaiton marker pin",
+        "thumtack corkboard"
+      ],
+      "ru": [
+        "кнопка на карте",
+        "кнопка-гвоздик на доске",
+        "маркер местоположения булавка",
+        "кнопка пробковая доска"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "location pin map dot GPS",
+        "bookmark ribbon saving page",
+        "needle sewing sharp point",
+        "nail hammer wall hanging",
+        "map marker coordinate dot",
+        "sticky note post-it yellow"
+      ],
+      "ru": [
+        "маркер местоположения GPS точка карты",
+        "закладка лента сохранение страницы",
+        "игла швейная острый конец",
+        "гвоздь молоток стена крепление",
+        "маркер карты точка координаты",
+        "стикер пост-ит жёлтый"
+      ]
+    },
+    "valid": {
+      "en": [
+        "thumbtack pushpin icon",
+        "pin on corkboard symbol",
+        "location marker thumbtack"
+      ],
+      "ru": [
+        "иконка кнопки-гвоздика",
+        "булавка на доске символ",
+        "маркер местоположения кнопка"
+      ]
+    },
+    "test": {
+      "en": [
+        "thumbtack icon pin",
+        "pushpin board marker",
+        "thumbtack location map"
+      ],
+      "ru": [
+        "иконка кнопки булавка",
+        "кнопка-гвоздик маркер доски",
+        "кнопка местоположение карта"
+      ]
+    }
+  }
+}

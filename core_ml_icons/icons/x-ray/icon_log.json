@@ -1,0 +1,148 @@
+{
+  "icon": "x-ray",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "health",
+        "medical",
+        "radiological images",
+        "radiology",
+        "skeleton"
+      ],
+      "ru": [
+        "здоровье",
+        "медицина",
+        "рентгеновские снимки",
+        "радиология",
+        "скелет"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "health screening examination",
+        "preventive health check",
+        "medical imaging diagnosis",
+        "medical scan result",
+        "chest radiological images scan",
+        "radiological images review",
+        "radiology department hospital",
+        "radiology report reading",
+        "human skeleton bone structure",
+        "skull and skeleton image"
+      ],
+      "ru": [
+        "медицинское обследование здоровья",
+        "профилактическая проверка здоровья",
+        "диагностика медицинской визуализации",
+        "результат медицинского сканирования",
+        "сканирование рентгеновских снимков груди",
+        "просмотр рентгеновских снимков",
+        "отделение радиологии больницы",
+        "чтение заключения радиологии",
+        "костная структура скелета человека",
+        "изображение черепа и скелета"
+      ]
+    },
+    "regular": {
+      "en": [
+        "chest X-ray scan on lightbox",
+        "radiologist reading bone scan",
+        "lungs and ribs X-ray image",
+        "medical imaging diagnosis report",
+        "hospital radiology department",
+        "broken bone fracture X-ray",
+        "dental X-ray teeth panoramic",
+        "spine vertebrae bone X-ray",
+        "full body skeleton scan",
+        "airport security luggage X-ray"
+      ],
+      "ru": [
+        "снимок рентгена грудной клетки на лайтбоксе",
+        "рентгенолог читает сканирование костей",
+        "рентгеновское изображение лёгких и рёбер",
+        "заключение диагностики медицинской визуализации",
+        "отделение радиологии больницы",
+        "рентген перелома кости",
+        "панорамный дентальный рентген зубов",
+        "рентген позвонков позвоночника",
+        "полное сканирование скелета тела",
+        "рентген багажа в аэропортовой безопасности"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an x-ray icon for the medical records section",
+        "add an x-ray symbol to the radiology feature",
+        "show an x-ray for the health imaging screen",
+        "use the x-ray icon for the bone scan category"
+      ],
+      "ru": [
+        "мне нужна иконка рентгена для раздела медицинских записей",
+        "добавь символ рентгена в функцию радиологии",
+        "покажи рентген для экрана медицинской визуализации",
+        "используй иконку рентгена для категории сканирования костей"
+      ]
+    },
+    "typo": {
+      "en": [
+        "x-ray skelteon medical scan",
+        "radiologly xray imaging",
+        "medcial xray diagnosis",
+        "boen fracture x-ray scan"
+      ],
+      "ru": [
+        "рентеген скелет медицинский снимок",
+        "радиолгия рентген визуализация",
+        "медцина рентген диагноз",
+        "перлом кости рентгеновский снимок"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "MRI brain scan magnetic resonance",
+        "CT scan computed tomography slice",
+        "ultrasound pregnancy sonogram",
+        "stethoscope listening to heartbeat",
+        "microscope medical laboratory slide",
+        "DNA strand genetic testing"
+      ],
+      "ru": [
+        "МРТ мозга магнитный резонанс",
+        "КТ срез компьютерной томографии",
+        "УЗИ беременность сонограмма",
+        "стетоскоп слушает сердцебиение",
+        "микроскоп препарат медицинской лаборатории",
+        "цепочка ДНК генетическое тестирование"
+      ]
+    },
+    "valid": {
+      "en": [
+        "X-ray medical imaging scan",
+        "chest X-ray bone skeleton",
+        "radiology X-ray health scan"
+      ],
+      "ru": [
+        "рентгеновское медицинское сканирование",
+        "рентген грудной клетки костный скелет",
+        "рентген радиология сканирование здоровья"
+      ]
+    },
+    "test": {
+      "en": [
+        "X-ray scan medical imaging",
+        "skeletal X-ray diagnosis",
+        "hospital X-ray radiology"
+      ],
+      "ru": [
+        "рентгеновское сканирование медицинская визуализация",
+        "диагностика скелетного рентгена",
+        "рентгенология больницы"
+      ]
+    }
+  }
+}

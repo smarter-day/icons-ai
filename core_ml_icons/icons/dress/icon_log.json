@@ -1,0 +1,78 @@
+{
+  "icon": "dress",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "gown",
+        "skirt"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "formal gown for the evening event",
+        "wedding gown worn by the bride",
+        "dress skirt flaring at the hem",
+        "summer dress with a flowing skirt"
+      ]
+    },
+    "regular": {
+      "en": [
+        "elegant evening dress on the mannequin",
+        "floral summer dress for warm days",
+        "wedding dress with a long train",
+        "party dress for the celebration",
+        "little black dress for the cocktail event",
+        "casual day dress with a belt",
+        "dress hanging on the closet rack",
+        "child's princess dress for the pageant",
+        "maxi dress for the beach vacation",
+        "red dress for the formal dinner"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a dress icon for the fashion app",
+        "add a gown symbol to the clothing category",
+        "show a dress for the wardrobe section",
+        "use the dress icon for the event outfit picker"
+      ]
+    },
+    "typo": {
+      "en": [
+        "evenig dress for the gala",
+        "weding gown on the bride",
+        "summre dress for the beach",
+        "cocktial dress event"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "button-up shirt hanging on the hanger",
+        "pleated skirt for the school uniform",
+        "winter coat with a wool lining",
+        "jeans laid out on the bed",
+        "formal suit jacket for the interview",
+        "blouse with a floral pattern for spring"
+      ]
+    },
+    "valid": {
+      "en": [
+        "elegant dress for a formal event",
+        "summer dress for the party",
+        "wedding gown dress"
+      ]
+    },
+    "test": {
+      "en": [
+        "dress icon for fashion",
+        "gown symbol for clothing",
+        "party dress"
+      ]
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "icon": "terminal",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "code",
+        "coding",
+        "command",
+        "console",
+        "development",
+        "prompt",
+        "terminal"
+      ],
+      "ru": [
+        "код",
+        "программирование",
+        "команда",
+        "консоль",
+        "разработка",
+        "приглашение",
+        "терминал"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "code in terminal window",
+        "terminal code execution",
+        "coding environment terminal",
+        "coding in dark terminal",
+        "command line interface terminal",
+        "command entered in terminal",
+        "console output developer",
+        "browser console log",
+        "software development terminal",
+        "web development local server",
+        "prompt blinking cursor terminal",
+        "command prompt arrow",
+        "terminal app macOS iTerm",
+        "terminal emulator window"
+      ],
+      "ru": [
+        "код в окне терминала",
+        "выполнение кода в терминале",
+        "среда программирования терминал",
+        "код в тёмном терминале",
+        "интерфейс командной строки терминал",
+        "команда введена в терминале",
+        "вывод консоли разработчик",
+        "консоль браузера лог",
+        "терминал разработки программного обеспечения",
+        "локальный сервер веб-разработки",
+        "мигающий курсор приглашения терминала",
+        "стрелка командной строки",
+        "приложение терминала macOS iTerm",
+        "окно эмулятора терминала"
+      ]
+    },
+    "regular": {
+      "en": [
+        "black terminal window with green text",
+        "bash shell command line interface",
+        "developer typing commands in terminal",
+        "SSH remote server terminal access",
+        "npm install command terminal",
+        "git commands in terminal window",
+        "Python script running in terminal",
+        "terminal error output red text",
+        "split terminal panes tmux",
+        "oh-my-zsh customized terminal prompt"
+      ],
+      "ru": [
+        "чёрное окно терминала с зелёным текстом",
+        "интерфейс командной строки bash shell",
+        "разработчик вводит команды в терминале",
+        "SSH доступ к удалённому серверу через терминал",
+        "команда npm install в терминале",
+        "команды git в окне терминала",
+        "скрипт Python запущен в терминале",
+        "вывод ошибок терминала красный текст",
+        "разделённые панели терминала tmux",
+        "настроенное приглашение терминала oh-my-zsh"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a terminal icon for the developer tools",
+        "add a console symbol to the code section",
+        "show a terminal for the command line feature",
+        "use the terminal icon for the dev environment"
+      ],
+      "ru": [
+        "нужна иконка терминала для инструментов разработчика",
+        "добавь символ консоли в раздел кода",
+        "покажи терминал для функции командной строки",
+        "используй иконку терминала для среды разработки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "termianl command line",
+        "consoel developer output",
+        "codign in terminal",
+        "comamnd prompt bash"
+      ],
+      "ru": [
+        "терминал командная строак",
+        "консоль вывод разработчика",
+        "кодирование в терминале",
+        "команднная строка bash"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "code editor IDE window syntax highlighting",
+        "text editor notepad writing",
+        "browser developer tools inspect",
+        "command block batch file script",
+        "matrix green falling code screen",
+        "calculator computation input output"
+      ],
+      "ru": [
+        "редактор кода IDE окно подсветка синтаксиса",
+        "текстовый редактор блокнот письмо",
+        "инструменты разработчика браузера инспектор",
+        "блок команд пакетный файл скрипт",
+        "матрица зелёный падающий код экран",
+        "калькулятор ввод-вывод вычислений"
+      ]
+    },
+    "valid": {
+      "en": [
+        "terminal command line icon",
+        "developer console symbol",
+        "bash terminal coding"
+      ],
+      "ru": [
+        "иконка командной строки терминала",
+        "символ консоли разработчика",
+        "bash терминал программирование"
+      ]
+    },
+    "test": {
+      "en": [
+        "terminal icon coding",
+        "console developer symbol",
+        "command prompt terminal"
+      ],
+      "ru": [
+        "иконка терминала программирование",
+        "символ консоли разработчика",
+        "командная строка терминал"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "icon": "chair",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "chair",
+        "furniture",
+        "seat",
+        "sit"
+      ],
+      "ru": [
+        "стул",
+        "мебель",
+        "место",
+        "сидеть"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Chair for the dining room set",
+        "Furniture assembly for the new place",
+        "Seat reservation at the event",
+        "Sit and relax after work",
+        "Chair cushion replacement ordered online",
+        "Furniture sale at the store this weekend",
+        "Seat assignment confirmed for the conference",
+        "Sit down for the team briefing at 3pm"
+      ],
+      "ru": [
+        "Стул для обеденного гарнитура",
+        "Сборка мебели для нового жилья",
+        "Бронирование места на мероприятии",
+        "Посидеть и расслабиться после работы",
+        "Заказана замена подушки на стул",
+        "Распродажа мебели в магазине в выходные",
+        "Место на конференции подтверждено",
+        "Сесть на командный брифинг в 15:00"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy new chairs for the dining table",
+        "Chair repair at the upholstery shop",
+        "Comfortable chair for the reading nook",
+        "Extra chair for the guest room",
+        "Patio chair cushion replacement",
+        "Chair arrangement for the event",
+        "High chair assembly for the baby",
+        "Folding chair for the outdoor event",
+        "Chair at the barber for the appointment",
+        "Assemble the new dining chairs"
+      ],
+      "ru": [
+        "Купить новые стулья для обеденного стола",
+        "Ремонт стула в мастерской обивки",
+        "Удобный стул для уголка чтения",
+        "Дополнительный стул для гостевой комнаты",
+        "Замена подушки для стула на патио",
+        "Расстановка стульев для мероприятия",
+        "Сборка детского стула",
+        "Складной стул для уличного мероприятия",
+        "Стул у парикмахера для визита",
+        "Собрать новые обеденные стулья"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "need an extra chair for tonight",
+        "that chair is really uncomfortable",
+        "grab a seat and get comfortable",
+        "the chair wobbles — needs fixing"
+      ],
+      "ru": [
+        "нужен дополнительный стул на вечер",
+        "этот стул очень неудобный",
+        "садись и устраивайся",
+        "стул шатается — надо починить"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chaur for the dining room",
+        "funiture assembly this weekend",
+        "extra chiar for the guest room",
+        "patio chaire cushion replacement"
+      ],
+      "ru": [
+        "стула для столовой",
+        "сборка мебелли в эти выходные",
+        "дополнительный стул для гостевой",
+        "замена подушки для стула на патиоо"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Office chair with lumbar support",
+        "Sofa for the living room",
+        "Bar stool at the kitchen counter",
+        "Bench seat in the park",
+        "Rocking chair on the porch",
+        "Wheelchair accessible entrance"
+      ],
+      "ru": [
+        "Офисное кресло с поясничной поддержкой",
+        "Диван для гостиной",
+        "Барный стул у кухонной стойки",
+        "Скамейка в парке",
+        "Кресло-качалка на крыльце",
+        "Вход для инвалидных колясок"
+      ]
+    },
+    "valid": {
+      "en": [
+        "New chair for the dining room",
+        "Extra seating for the guests",
+        "Chair cushion replacement for the patio"
+      ],
+      "ru": [
+        "Новый стул для столовой",
+        "Дополнительные места для гостей",
+        "Замена подушки для стула на патио"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy dining chairs this weekend",
+        "Fold out chair for the party",
+        "Fix the wobbly chair leg"
+      ],
+      "ru": [
+        "Купить обеденные стулья в эти выходные",
+        "Раскладной стул для вечеринки",
+        "Починить шатающуюся ножку стула"
+      ]
+    }
+  }
+}

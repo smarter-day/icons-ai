@@ -1,0 +1,186 @@
+{
+  "icon": "mobile",
+  "rows": {
+    "train_en": 58,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "android",
+        "call",
+        "cell",
+        "cell phone",
+        "device",
+        "mobile",
+        "mobile phone",
+        "number",
+        "phone",
+        "screen",
+        "telephone",
+        "text"
+      ],
+      "ru": [
+        "андроид",
+        "звонок",
+        "сотовый",
+        "сотовый телефон",
+        "устройство",
+        "мобильный",
+        "мобильный телефон",
+        "номер",
+        "телефон",
+        "экран",
+        "телефон",
+        "текст"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Android smartphone device",
+        "Android mobile app interface",
+        "make a call on mobile phone",
+        "incoming call on cell phone",
+        "cell signal on mobile network",
+        "cell tower connection",
+        "cell phone in hand",
+        "cell phone screen cracked",
+        "mobile device management",
+        "device with touchscreen",
+        "mobile app for everyday tasks",
+        "mobile screen layout design",
+        "mobile phone number contact",
+        "mobile number saved in contacts",
+        "phone notification on screen",
+        "phone settings menu",
+        "screen time on mobile phone",
+        "lock screen on phone",
+        "telephone number dialer pad",
+        "telephone call history",
+        "text message on mobile phone",
+        "text notification on screen"
+      ],
+      "ru": [
+        "смартфон Android",
+        "интерфейс мобильного приложения Android",
+        "позвонить с мобильного телефона",
+        "входящий звонок на сотовый",
+        "сотовый сигнал в мобильной сети",
+        "подключение к вышке сотовой связи",
+        "сотовый телефон в руке",
+        "разбитый экран сотового телефона",
+        "управление мобильными устройствами",
+        "устройство с сенсорным экраном",
+        "мобильное приложение для повседневных задач",
+        "дизайн макета мобильного экрана",
+        "номер мобильного телефона контакт",
+        "мобильный номер сохранённый в контактах",
+        "уведомление телефона на экране",
+        "меню настроек телефона",
+        "время экрана на мобильном телефоне",
+        "экран блокировки на телефоне",
+        "цифровой набор телефонного номера",
+        "история телефонных звонков",
+        "текстовое сообщение на мобильном",
+        "уведомление о тексте на экране"
+      ]
+    },
+    "regular": {
+      "en": [
+        "modern touchscreen smartphone",
+        "iPhone or Android mobile device",
+        "mobile phone screen with app icons",
+        "holding a smartphone in portrait mode",
+        "mobile phone for calls and messages",
+        "cell phone with camera and apps",
+        "mobile device battery charging",
+        "phone screen showing notifications",
+        "SMS text message on cell phone",
+        "mobile UI design mockup"
+      ],
+      "ru": [
+        "современный смартфон с сенсорным экраном",
+        "мобильное устройство iPhone или Android",
+        "экран мобильного телефона с иконками приложений",
+        "держать смартфон в портретном режиме",
+        "мобильный телефон для звонков и сообщений",
+        "сотовый с камерой и приложениями",
+        "зарядка аккумулятора мобильного устройства",
+        "экран телефона с уведомлениями",
+        "SMS текстовое сообщение на сотовом",
+        "макет дизайна мобильного интерфейса"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a mobile phone icon for the contact screen",
+        "add a smartphone symbol to the device section",
+        "show a cell phone for the call history feature",
+        "use the mobile icon for the phone number field"
+      ],
+      "ru": [
+        "Мне нужна иконка мобильного телефона для экрана контактов",
+        "добавить символ смартфона в раздел устройств",
+        "показать сотовый для функции истории звонков",
+        "использовать иконку мобильного для поля номера телефона"
+      ]
+    },
+    "typo": {
+      "en": [
+        "moblie phone screen",
+        "cel phone call",
+        "smarphone device",
+        "phoen number contact"
+      ],
+      "ru": [
+        "мобилный телефон",
+        "сотовй телефон звонок",
+        "смартофн устройство",
+        "номер телфона контакт"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "telephone landline handset on desk",
+        "tablet computer with large screen",
+        "smartwatch on wrist",
+        "laptop computer portable device",
+        "walkie-talkie radio communication device",
+        "rotary phone vintage dial telephone"
+      ],
+      "ru": [
+        "стационарный телефон на столе",
+        "планшетный компьютер с большим экраном",
+        "умные часы на запястье",
+        "ноутбук портативный компьютер",
+        "рация радиосвязь",
+        "дисковый телефон старинный"
+      ]
+    },
+    "valid": {
+      "en": [
+        "mobile phone for calls and texts",
+        "smartphone touchscreen device",
+        "cell phone screen icon"
+      ],
+      "ru": [
+        "мобильный телефон для звонков и SMS",
+        "смартфон с сенсорным экраном",
+        "иконка экрана сотового телефона"
+      ]
+    },
+    "test": {
+      "en": [
+        "mobile phone icon",
+        "smartphone device",
+        "cell phone contact number"
+      ],
+      "ru": [
+        "иконка мобильного телефона",
+        "устройство смартфон",
+        "номер контакта сотового телефона"
+      ]
+    }
+  }
+}

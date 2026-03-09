@@ -1,0 +1,142 @@
+{
+  "icon": "snow-blowing",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "blizzard",
+        "precipitation",
+        "storm",
+        "winter"
+      ],
+      "ru": [
+        "метель",
+        "осадки",
+        "буря",
+        "зима"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "blizzard of blowing snow in winter",
+        "blizzard warning with heavy snow",
+        "snow precipitation forecast",
+        "heavy precipitation snow storm alert",
+        "snow storm blowing across road",
+        "winter storm with drifting snow",
+        "winter blowing snow weather icon",
+        "winter snow blowing from north"
+      ],
+      "ru": [
+        "метель из продуваемого снега зимой",
+        "предупреждение о метели с сильным снегом",
+        "прогноз осадков снегопада",
+        "предупреждение о сильном снегопаде",
+        "снежная буря метёт через дорогу",
+        "зимняя буря со снежными заносами",
+        "иконка погоды продувающий снег зимой",
+        "продуваемый снег с севера"
+      ]
+    },
+    "regular": {
+      "en": [
+        "blowing snow weather icon for winter storm",
+        "snowflakes being blown horizontally by wind",
+        "blizzard conditions with low visibility",
+        "snow blowing off roof in strong wind",
+        "weather forecast showing blowing snow",
+        "winter storm advisory blowing snow warning",
+        "windswept snow drifting across field",
+        "driving through blowing snow on highway",
+        "snow blowing machine at ski resort",
+        "ground blizzard with snow blowing low"
+      ],
+      "ru": [
+        "иконка продуваемого снега для зимней бури",
+        "снежинки, сдуваемые горизонтально ветром",
+        "метельные условия с плохой видимостью",
+        "снег сдувается с крыши при сильном ветре",
+        "прогноз погоды показывает продуваемый снег",
+        "предупреждение о зимней буре с метелью",
+        "продуваемый ветром снег несётся по полю",
+        "езда через метель на шоссе",
+        "снегодув на горнолыжном курорте",
+        "низовая метель снег метёт у земли"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a snow-blowing icon for the weather app",
+        "add a blizzard symbol to the winter weather section",
+        "show blowing snow for the storm alert feature",
+        "use the snow-blowing icon for severe winter weather"
+      ],
+      "ru": [
+        "мне нужна иконка продуваемого снега для приложения погоды",
+        "добавь символ метели в раздел зимней погоды",
+        "покажи метель для функции предупреждения о буре",
+        "используй иконку снегопада для суровой зимней погоды"
+      ]
+    },
+    "typo": {
+      "en": [
+        "blowign snow weather icon for storm",
+        "snowflaeks blown horizontally by wind",
+        "blizard conditions with low visibility",
+        "winetsr storm advisory blowing snow"
+      ],
+      "ru": [
+        "иконка продвуаемого снега для бури",
+        "снежинки сдваемые горизонтально",
+        "условия метлеи с плохой видимостью",
+        "предупреждение о зниемй буре"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "snowflake crystal falling gently from sky",
+        "heavy rain precipitation drops falling",
+        "fog mist low visibility weather symbol",
+        "tornado funnel cloud spinning",
+        "hail frozen rain balls falling",
+        "thunderstorm lightning bolt in clouds"
+      ],
+      "ru": [
+        "снежинка кристалл тихо падает с неба",
+        "сильный дождь осадки капли падают",
+        "туман низкая видимость символ погоды",
+        "торнадо воронка вращается",
+        "град замёрзшие капли дождя",
+        "гроза молния в облаках"
+      ]
+    },
+    "valid": {
+      "en": [
+        "blowing snow blizzard weather icon",
+        "snow storm winter weather symbol",
+        "snowflakes blowing horizontally in wind"
+      ],
+      "ru": [
+        "иконка продуваемого снега метели",
+        "символ зимней снежной бури",
+        "снежинки метут горизонтально в ветер"
+      ]
+    },
+    "test": {
+      "en": [
+        "winter blizzard snow blowing icon",
+        "blowing snow forecast symbol",
+        "snow drifting in storm warning"
+      ],
+      "ru": [
+        "иконка зимней метели",
+        "символ прогноза продуваемого снега",
+        "снежные заносы в предупреждении о буре"
+      ]
+    }
+  }
+}

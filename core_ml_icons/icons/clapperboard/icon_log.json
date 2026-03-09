@@ -1,0 +1,93 @@
+{
+  "icon": "clapperboard",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "camera",
+        "clapper",
+        "clapper board",
+        "director",
+        "film",
+        "movie",
+        "record"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Set up the camera for filming",
+        "Buy a camera for the video shoot",
+        "Use the clapper on set",
+        "Get the clapper ready for the take",
+        "Bring the clapper board to the shoot",
+        "Mark the scene with the clapper board",
+        "Work as a film director",
+        "Direct the next scene",
+        "Buy film rolls for the camera",
+        "Develop the film rolls",
+        "Attend the movie audition",
+        "Watch the premiere of the movie",
+        "Record the short film today",
+        "Record the promotional video"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Film the birthday party video",
+        "Schedule a professional video shoot",
+        "Edit the short film project",
+        "Plan the scenes for the movie",
+        "Hire a videographer for the event",
+        "Practice acting for the audition",
+        "Write a screenplay",
+        "Attend a film production class",
+        "Set up lighting for the shoot",
+        "Review the behind-the-scenes footage"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Action!",
+        "Movie shoot today",
+        "Film something cool",
+        "Shooting a scene now"
+      ]
+    },
+    "typo": {
+      "en": [
+        "film the moive",
+        "clapperborad on set",
+        "hire a diractor",
+        "recrod the video"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Watch a movie on Netflix",
+        "Buy movie tickets online",
+        "Set up a podcast recording",
+        "Take photos at the event",
+        "Stream the live concert",
+        "Download a TV show episode"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Prepare the set for filming",
+        "Organize a video shoot",
+        "Bring the clapperboard to production"
+      ]
+    },
+    "test": {
+      "en": [
+        "Direct the school play video",
+        "Film the documentary scene",
+        "Start shooting the short film"
+      ]
+    }
+  }
+}

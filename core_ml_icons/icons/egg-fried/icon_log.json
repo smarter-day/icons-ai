@@ -1,0 +1,81 @@
+{
+  "icon": "egg-fried",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "breakfast",
+        "chicken",
+        "yolk"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Make a fried egg for breakfast",
+        "Cook a full English breakfast",
+        "Buy eggs from the chicken farm",
+        "Use fresh chicken eggs",
+        "Break the yolk when frying",
+        "Keep the yolk intact when frying"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Fry an egg sunny-side up",
+        "Make a fried egg sandwich",
+        "Cook a fried egg for breakfast",
+        "Fry an egg in butter",
+        "Make eggs over easy",
+        "Fry an egg with bacon",
+        "Cook a breakfast fry-up",
+        "Fry an egg in the cast iron pan",
+        "Make a fried egg on toast",
+        "Cook the egg until the white is set"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Fry an egg",
+        "Sunny side up",
+        "Egg on toast",
+        "Breakfast fry-up"
+      ]
+    },
+    "typo": {
+      "en": [
+        "fry an eeg",
+        "sunney side up egg",
+        "fried eggg for breakfast",
+        "cook egss in buter"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Boil an egg for the salad",
+        "Scramble eggs in a pan",
+        "Make a hard-boiled egg",
+        "Poach an egg for brunch",
+        "Make an omelette",
+        "Bake eggs in the oven"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Fry an egg for breakfast",
+        "Make eggs sunny-side up",
+        "Cook a fried egg on toast"
+      ]
+    },
+    "test": {
+      "en": [
+        "Fry an egg in butter",
+        "Make a fried egg sandwich",
+        "Cook a breakfast fry-up"
+      ]
+    }
+  }
+}

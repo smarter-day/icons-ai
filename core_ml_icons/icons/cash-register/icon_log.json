@@ -1,0 +1,184 @@
+{
+  "icon": "cash-register",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "buy",
+        "cha-ching",
+        "change",
+        "checkout",
+        "commerce",
+        "leaerboard",
+        "machine",
+        "pay",
+        "payment",
+        "purchase",
+        "store"
+      ],
+      "ru": [
+        "купить",
+        "дзынь",
+        "сдача",
+        "касса",
+        "коммерция",
+        "таблица лидеров",
+        "аппарат",
+        "платить",
+        "оплата",
+        "покупка",
+        "магазин"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Buy at the checkout register",
+        "Cha-ching sound at the sale",
+        "Give correct change to the customer",
+        "Checkout line at the store",
+        "Commerce system for the small shop",
+        "Leaderboard for top sales",
+        "Register machine for the retail shop",
+        "Pay at the counter",
+        "Payment processed at the register",
+        "Purchase receipt from the till",
+        "Store cashier at the register",
+        "Buy the product at the physical store",
+        "Cha-ching alert sounds for every sale",
+        "Count the change at end of shift",
+        "Checkout speed training for new staff",
+        "Commerce platform update for the retail store",
+        "Sales leaderboard updated weekly",
+        "Cash machine serviced this morning",
+        "Pay by card or cash at the register",
+        "Payment terminal reset after the glitch",
+        "Purchase recorded in the sales ledger",
+        "Store closing procedure starts at 9pm"
+      ],
+      "ru": [
+        "Купить на кассе",
+        "Звук кассы при продаже",
+        "Дать правильную сдачу покупателю",
+        "Очередь на кассу в магазине",
+        "Система коммерции для небольшого магазина",
+        "Таблица лидеров по продажам",
+        "Кассовый аппарат для розничного магазина",
+        "Заплатить у стойки",
+        "Оплата проведена через кассу",
+        "Чек покупки из кассы",
+        "Кассир в магазине у кассы",
+        "Купить товар в физическом магазине",
+        "Звук чеканки при каждой продаже",
+        "Пересчитать сдачу в конце смены",
+        "Тренинг скорости на кассе для новых сотрудников",
+        "Обновление торговой платформы для магазина",
+        "Рейтинг продаж обновляется еженедельно",
+        "Кассовый аппарат обслужен утром",
+        "Оплатить картой или наличными на кассе",
+        "Терминал оплаты перезагружен после сбоя",
+        "Покупка записана в журнал продаж",
+        "Процедура закрытия магазина начинается в 21:00"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Ring up the customer at the register",
+        "Cash register training for new staff",
+        "End of day cash register count",
+        "Open the register for the shift",
+        "POS system update at the store",
+        "Register receipt for the purchase",
+        "Cashier busy at the counter",
+        "Sales register totals for the day",
+        "Register needs change for the morning",
+        "Retail POS troubleshooting"
+      ],
+      "ru": [
+        "Пробить покупателя на кассе",
+        "Обучение работе с кассой для новых сотрудников",
+        "Подсчёт кассы в конце дня",
+        "Открыть кассу для смены",
+        "Обновление POS-системы в магазине",
+        "Чек из кассы за покупку",
+        "Кассир занят у стойки",
+        "Итоги продаж кассы за день",
+        "Кассе нужна сдача с утра",
+        "Устранение неполадок кассового терминала"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "ring it up at the register",
+        "waiting in the checkout line",
+        "cashier is really slow today",
+        "cha-ching another sale"
+      ],
+      "ru": [
+        "пробей на кассе",
+        "стою в очереди на кассу",
+        "кассир сегодня очень медленный",
+        "дзынь ещё одна продажа"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cash rgister for the retial store",
+        "chasier at the chekout",
+        "ringing up the custoemr",
+        "POS sytem update neded"
+      ],
+      "ru": [
+        "кассовый апарат для розничного магазина",
+        "кассир на кассе",
+        "пробивать покупаетля",
+        "обновление пос системы необходимо"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Mobile payment via phone tap",
+        "Online checkout form at the store",
+        "ATM cash withdrawal nearby",
+        "Credit card terminal for the table",
+        "Vending machine at the break room",
+        "Shopping cart abandoned before checkout"
+      ],
+      "ru": [
+        "Оплата смартфоном через NFC",
+        "Онлайн форма оформления заказа",
+        "Банкомат поблизости для снятия наличных",
+        "Терминал для карт у стола",
+        "Торговый автомат в комнате отдыха",
+        "Тележка брошена до кассы"
+      ]
+    },
+    "valid": {
+      "en": [
+        "End of day register count",
+        "Ring up the sale at the counter",
+        "POS system for the new store"
+      ],
+      "ru": [
+        "Подсчёт кассы в конце дня",
+        "Пробить продажу у стойки",
+        "POS-система для нового магазина"
+      ]
+    },
+    "test": {
+      "en": [
+        "Cash register training session",
+        "Open the register for the morning",
+        "Checkout register receipt"
+      ],
+      "ru": [
+        "Обучение работе с кассой",
+        "Открыть кассу с утра",
+        "Чек кассового аппарата"
+      ]
+    }
+  }
+}

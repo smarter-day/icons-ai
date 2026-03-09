@@ -1,0 +1,142 @@
+{
+  "icon": "bowl-food",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "catfood",
+        "dogfood",
+        "food",
+        "rice"
+      ],
+      "ru": [
+        "корм для кошек",
+        "корм для собак",
+        "еда",
+        "рис"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "buy cat food",
+        "pick up dog food",
+        "fill the food bowl",
+        "cook rice for dinner",
+        "Cat food running low — reorder today",
+        "Dog food portion ready for the morning",
+        "Food bowl washed and ready to use",
+        "Rice bowl topped with fresh vegetables"
+      ],
+      "ru": [
+        "купить корм для кошки",
+        "купить корм для собаки",
+        "наполнить миску едой",
+        "приготовить рис на ужин",
+        "Кошачий корм заканчивается — заказать",
+        "Порция корма для собаки готова на утро",
+        "Миска вымыта и готова к использованию",
+        "Миска риса с овощами"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Fill the pet food bowl",
+        "Buy cat food at the pet store",
+        "Cook a bowl of rice for dinner",
+        "Feed the dog this evening",
+        "Prepare a bowl of food for the cat",
+        "Refill the dog's food bowl",
+        "Order pet food delivery",
+        "Make a bowl of soup",
+        "Cook dinner for the family",
+        "Prepare the cat's evening meal"
+      ],
+      "ru": [
+        "Наполнить миску для питомца",
+        "Купить корм для кошки в зоомагазине",
+        "Приготовить рис на ужин",
+        "Покормить собаку этим вечером",
+        "Приготовить миску еды для кошки",
+        "Долить корм в миску собаки",
+        "Заказать корм для питомца с доставкой",
+        "Приготовить миску супа",
+        "Приготовить ужин для семьи",
+        "Подготовить вечерний корм для кошки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "The dog's bowl is empty — feed him",
+        "I need to pick up cat food",
+        "Let's make a bowl of rice tonight",
+        "The cat is waiting for her food"
+      ],
+      "ru": [
+        "Миска собаки пуста — надо покормить",
+        "Нужно купить корм для кошки",
+        "Давай приготовим рис на ужин",
+        "Кошка ждёт своей еды"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Buy cat fod at the pet store",
+        "Fil the pet fod bowl",
+        "Coock a bwol of rice for dinner",
+        "Fede the dgo this evenng"
+      ],
+      "ru": [
+        "Купить корм для кошки в зомагазне",
+        "Напнолить миску для птомца",
+        "Пригтовить рис на ужн",
+        "Покомрить собаку этим вечром"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy a bowl at the kitchen store",
+        "Cook pasta for dinner",
+        "Dog walk this evening",
+        "Rice cooker setup",
+        "Soup recipe planning",
+        "Grocery run for pet supplies"
+      ],
+      "ru": [
+        "Купить миску на кухне",
+        "Приготовить пасту на ужин",
+        "Выгулять собаку этим вечером",
+        "Настройка рисоварки",
+        "Планирование рецепта супа",
+        "Поход за кормом для питомца"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Feed the cat this evening",
+        "Cook a bowl of rice for dinner",
+        "Fill the dog's food bowl"
+      ],
+      "ru": [
+        "Покормить кошку этим вечером",
+        "Приготовить миску риса на ужин",
+        "Наполнить миску собаки едой"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy pet food at the store",
+        "Prepare the cat's meal",
+        "Rice bowl for dinner tonight"
+      ],
+      "ru": [
+        "Купить корм для питомца в магазине",
+        "Подготовить еду для кошки",
+        "Рисовая миска на ужин сегодня"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "icon": "headphones",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "audio",
+        "earbud",
+        "headphone",
+        "listen",
+        "music",
+        "sound",
+        "speaker"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "audio headphones for the studio",
+        "audio quality headphones",
+        "earbud headphone for music",
+        "earbud in the ear",
+        "headphone over the ears",
+        "headphone for the DJ set",
+        "listen with headphones",
+        "listen to music with headphones",
+        "music headphones on",
+        "music playing through headphones",
+        "sound coming through headphones",
+        "headphones for good sound",
+        "speaker in the headphone",
+        "headphone speaker quality"
+      ]
+    },
+    "regular": {
+      "en": [
+        "over-ear headphones for the recording studio",
+        "wireless headphones connected by Bluetooth",
+        "DJ headphones at the mixing deck",
+        "noise-cancelling headphones on the plane",
+        "headphones resting around the neck",
+        "in-ear headphones with a microphone",
+        "headphones plugged into the audio jack",
+        "headphones icon for music player",
+        "gaming headset with surround sound",
+        "headphones hung on the monitor stand"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a headphones icon for the music app",
+        "add headphones to the audio settings section",
+        "show headphones for the podcast feature",
+        "use the headphones icon for the sound controls"
+      ]
+    },
+    "typo": {
+      "en": [
+        "headphoens for music",
+        "wireles headphones",
+        "hsadphones on ears",
+        "udio headphones quality"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "ear with a hearing aid",
+        "speaker mounted on the wall",
+        "microphone on the desk stand",
+        "earbuds connected to the phone",
+        "sound wave equalizer display",
+        "radio with antenna playing music"
+      ]
+    },
+    "valid": {
+      "en": [
+        "headphones for music listening",
+        "wireless headphones icon",
+        "headphones for audio"
+      ]
+    },
+    "test": {
+      "en": [
+        "headphones icon",
+        "headphones symbol for music",
+        "over-ear headphones"
+      ]
+    }
+  }
+}

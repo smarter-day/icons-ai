@@ -1,0 +1,160 @@
+{
+  "icon": "binoculars",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "glasses",
+        "inspection",
+        "magnifier",
+        "magnify",
+        "scenic",
+        "spyglass",
+        "view"
+      ],
+      "ru": [
+        "очки",
+        "инспекция",
+        "лупа",
+        "увеличить",
+        "живописный",
+        "подзорная труба",
+        "вид"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "use binoculars at the show",
+        "inspection of the property",
+        "use the magnifier to see better",
+        "magnify the view from the hill",
+        "scenic viewpoint on the hike",
+        "use spyglass to spot wildlife",
+        "great view from the top",
+        "pack opera glasses for the theatre",
+        "schedule a property inspection visit",
+        "grab the magnifier for the map",
+        "magnify the tiny print on the label",
+        "stop at the scenic overlook on the drive",
+        "look through the spyglass at the harbour",
+        "enjoy the view from the rooftop"
+      ],
+      "ru": [
+        "использовать бинокль на шоу",
+        "инспекция объекта",
+        "использовать лупу для лучшего обзора",
+        "увеличить обзор с холма",
+        "живописная смотровая площадка на прогулке",
+        "использовать подзорную трубу чтобы найти животных",
+        "отличный вид сверху",
+        "взять театральный бинокль на спектакль",
+        "запланировать осмотр недвижимости",
+        "взять лупу для чтения карты",
+        "увеличить мелкий шрифт на этикетке",
+        "остановиться на живописной смотровой по дороге",
+        "посмотреть в подзорную трубу на гавань",
+        "насладиться видом с крыши"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Bird watching with binoculars",
+        "Take binoculars to the game",
+        "Whale watching tour",
+        "Spot wildlife on the safari",
+        "Scenic lookout on the hike",
+        "Telescope and binoculars for stargazing",
+        "Bring binoculars for the nature walk",
+        "Property inspection visit",
+        "Stadium binoculars for the concert",
+        "Mountain viewpoint on the trail"
+      ],
+      "ru": [
+        "Наблюдение за птицами с биноклем",
+        "Взять бинокль на матч",
+        "Тур по наблюдению за китами",
+        "Наблюдение за дикими животными на сафари",
+        "Живописная смотровая площадка на прогулке",
+        "Телескоп и бинокль для наблюдения за звёздами",
+        "Взять бинокль на прогулку по природе",
+        "Инспекционный визит на объект",
+        "Стадионный бинокль на концерт",
+        "Смотровая площадка в горах"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I always bring binoculars bird watching",
+        "Should have brought my binoculars",
+        "The view up there is amazing",
+        "Let's take the binoculars on the hike"
+      ],
+      "ru": [
+        "Всегда беру бинокль для наблюдения за птицами",
+        "Надо было взять бинокль",
+        "Вид оттуда потрясающий",
+        "Давайте возьмём бинокль на прогулку"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Birde watching with binoculres",
+        "Bing binocualrs on the hike",
+        "Sceneic viewpoint on the hike",
+        "Spot wildlive with binoculers"
+      ],
+      "ru": [
+        "Наблюдение за птцами с биноклем",
+        "Взять бинкоуль на прогулку",
+        "Жывописная смотровая площадка",
+        "Наблюдать за дикими животнми"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Wear glasses to the event",
+        "Magnifying glass for reading",
+        "Telescope for stargazing",
+        "Camera for the wildlife shoot",
+        "Zoom in on the map",
+        "Property survey appointment"
+      ],
+      "ru": [
+        "Надеть очки на мероприятие",
+        "Лупа для чтения",
+        "Телескоп для наблюдения за звёздами",
+        "Камера для съёмки животных",
+        "Увеличить карту",
+        "Запись на осмотр недвижимости"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Binoculars for the bird watching trip",
+        "Take binoculars to the scenic viewpoint",
+        "Wildlife spotting with binoculars"
+      ],
+      "ru": [
+        "Бинокль для наблюдения за птицами",
+        "Взять бинокль на живописную смотровую площадку",
+        "Наблюдение за дикой природой с биноклем"
+      ]
+    },
+    "test": {
+      "en": [
+        "Binoculars for the whale watching tour",
+        "Scenic view from the lookout",
+        "Bring binoculars for the hike"
+      ],
+      "ru": [
+        "Бинокль для тура по наблюдению за китами",
+        "Живописный вид со смотровой площадки",
+        "Взять бинокль в поход"
+      ]
+    }
+  }
+}

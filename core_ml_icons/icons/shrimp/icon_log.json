@@ -1,0 +1,160 @@
+{
+  "icon": "shrimp",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "allergy",
+        "crustacean",
+        "prawn",
+        "seafood",
+        "shellfish",
+        "shrimp",
+        "tail"
+      ],
+      "ru": [
+        "аллергия",
+        "ракообразное",
+        "краветки",
+        "морепродукты",
+        "моллюски",
+        "креветка",
+        "хвост"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "shellfish allergy warning on menu",
+        "shrimp allergy common food intolerance",
+        "crustacean shrimp caught in ocean",
+        "small crustacean with curved body",
+        "grilled prawn with garlic butter",
+        "tiger prawn on restaurant plate",
+        "seafood platter with shrimp and crab",
+        "fresh seafood from local harbor",
+        "shellfish including shrimp and lobster",
+        "shellfish on ice at fish market",
+        "jumbo shrimp peeled and deveined",
+        "shrimp cocktail with dipping sauce",
+        "shrimp tail pink and curled up",
+        "breaded shrimp with visible tail"
+      ],
+      "ru": [
+        "предупреждение о аллергии на моллюски",
+        "аллергия на креветки частая пищевая непереносимость",
+        "ракообразное креветка выловлена в океане",
+        "маленькое ракообразное с изогнутым телом",
+        "креветки гриль с чесночным маслом",
+        "тигровые креветки на ресторанной тарелке",
+        "тарелка морепродуктов с креветками и крабом",
+        "свежие морепродукты из местного порта",
+        "моллюски включая креветки и омара",
+        "моллюски на льду на рыбном рынке",
+        "очищенные и распотрошённые крупные креветки",
+        "коктейль из креветок с соусом",
+        "розовый изогнутый хвост креветки",
+        "панированная креветка с видимым хвостом"
+      ]
+    },
+    "regular": {
+      "en": [
+        "pink curved shrimp on seafood plate",
+        "shrimp cocktail glass with sauce",
+        "grilled tiger prawn with herbs",
+        "shrimp taco in corn tortilla",
+        "butter garlic shrimp pasta dish",
+        "shrimp on skewer at seafood BBQ",
+        "breaded fried shrimp with dipping sauce",
+        "raw shrimp at fish market on ice",
+        "shrimp allergy symbol on menu",
+        "Gulf shrimp in Cajun spice boil"
+      ],
+      "ru": [
+        "розовая изогнутая креветка на тарелке морепродуктов",
+        "бокал коктейля из креветок с соусом",
+        "тигровые креветки гриль с зеленью",
+        "тако с креветками в кукурузной тортилье",
+        "паста с креветками в чесночном масле",
+        "креветки на шашлыке на барбекю морепродуктов",
+        "панированные жареные креветки с соусом",
+        "сырые креветки на рыбном рынке на льду",
+        "символ аллергии на креветки в меню",
+        "мексиканские креветки в специях cajun"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a shrimp icon for the seafood menu section",
+        "add a prawn symbol to the allergen warning feature",
+        "show a shrimp for the shellfish category",
+        "use the shrimp icon for the seafood restaurant app"
+      ],
+      "ru": [
+        "мне нужна иконка креветки для раздела морепродуктов",
+        "добавь символ креветки в функцию предупреждения об аллергенах",
+        "покажи креветку для категории моллюсков",
+        "используй иконку креветки для приложения ресторана морепродуктов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pink curvd shrimp on seafood plate",
+        "grillde tiger prawn with herbs",
+        "shripm taco in corn tortilla",
+        "butetr garlic shrimp pasta dish"
+      ],
+      "ru": [
+        "розовая изогнтуая креветка на тарелке",
+        "тигровые крветки гриль с зеленью",
+        "тако с крветками в тортилье",
+        "паста с крветками в чесночном масле"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "lobster with large claws in ocean",
+        "crab with wide shell and pincers",
+        "scallop shell seafood delicacy",
+        "oyster on half shell with lemon",
+        "squid calamari rings fried",
+        "fish fillet on plate with vegetables"
+      ],
+      "ru": [
+        "омар с большими клешнями в океане",
+        "краб с широким панцирем и клешнями",
+        "морской гребешок деликатес",
+        "устрица на половинке раковины с лимоном",
+        "кольца кальмара жареные",
+        "рыбное филе на тарелке с овощами"
+      ]
+    },
+    "valid": {
+      "en": [
+        "pink curved shrimp on plate",
+        "shrimp cocktail with dipping sauce",
+        "seafood shrimp allergy symbol"
+      ],
+      "ru": [
+        "розовая изогнутая креветка на тарелке",
+        "коктейль из креветок с соусом",
+        "символ аллергии на креветки"
+      ]
+    },
+    "test": {
+      "en": [
+        "grilled prawn with garlic butter",
+        "shrimp in seafood platter",
+        "raw shrimp at fish market"
+      ],
+      "ru": [
+        "креветки гриль с чесночным маслом",
+        "креветки в тарелке морепродуктов",
+        "сырые креветки на рыбном рынке"
+      ]
+    }
+  }
+}

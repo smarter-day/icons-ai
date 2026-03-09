@@ -1,0 +1,160 @@
+{
+  "icon": "minimize",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "collapse",
+        "fullscreen",
+        "minimize",
+        "move",
+        "resize",
+        "shrink",
+        "smaller"
+      ],
+      "ru": [
+        "свернуть",
+        "полный экран",
+        "минимизировать",
+        "переместить",
+        "изменить размер",
+        "уменьшить",
+        "меньше"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "collapse panel to hidden state",
+        "collapse sidebar to compact view",
+        "exit fullscreen mode button",
+        "fullscreen toggle to windowed mode",
+        "minimize window to taskbar",
+        "minimize app to notification bar",
+        "move window to corner",
+        "move element to different position",
+        "resize window to smaller size",
+        "resize panel to minimum",
+        "shrink content to fit small space",
+        "shrink modal to icon",
+        "smaller view of the window",
+        "make the window smaller"
+      ],
+      "ru": [
+        "свернуть панель в скрытое состояние",
+        "свернуть боковую панель до компактного вида",
+        "кнопка выхода из полного экрана",
+        "переключение полного экрана в оконный режим",
+        "минимизировать окно в панель задач",
+        "минимизировать приложение в панель уведомлений",
+        "переместить окно в угол",
+        "переместить элемент в другое положение",
+        "изменить размер окна до меньшего",
+        "изменить размер панели до минимума",
+        "сжать содержимое под маленькое пространство",
+        "сжать модальное окно до иконки",
+        "меньший вид окна",
+        "сделать окно меньше"
+      ]
+    },
+    "regular": {
+      "en": [
+        "four inward-pointing arrows to collapse",
+        "shrink window to fit smaller area",
+        "minimize button in window title bar",
+        "exit fullscreen to windowed mode",
+        "collapse map view to small panel",
+        "compress content to minimal footprint",
+        "hide panel to show more content",
+        "reduce video player to thumbnail",
+        "collapse sidebar navigation",
+        "make a dialog box smaller"
+      ],
+      "ru": [
+        "четыре стрелки указывающие внутрь для свёртывания",
+        "сжать окно под меньшую область",
+        "кнопка минимизации в заголовке окна",
+        "выход из полного экрана в оконный режим",
+        "свернуть вид карты до маленькой панели",
+        "сжать содержимое до минимального размера",
+        "скрыть панель для показа большего контента",
+        "уменьшить видеоплеер до миниатюры",
+        "свернуть боковую панель навигации",
+        "сделать диалоговое окно меньше"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a minimize icon for the window controls",
+        "add a collapse button to the sidebar",
+        "show a shrink symbol for the fullscreen exit",
+        "use the minimize icon to collapse the panel"
+      ],
+      "ru": [
+        "Мне нужна иконка минимизации для элементов управления окном",
+        "добавить кнопку свёртывания на боковую панель",
+        "показать символ уменьшения для выхода из полного экрана",
+        "использовать иконку минимизации для свёртывания панели"
+      ]
+    },
+    "typo": {
+      "en": [
+        "minimze window",
+        "colapse panel",
+        "shrnk to smaller",
+        "exti fullscreen"
+      ],
+      "ru": [
+        "минимзировать окно",
+        "сверунть панель",
+        "уменьшть размер",
+        "выход из полного экарна"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "maximize window to fullscreen with arrows out",
+        "expand content to fill entire screen",
+        "close button to dismiss the window",
+        "restore window to previous size",
+        "zoom in to enlarge content",
+        "fullscreen entry button arrows pointing out"
+      ],
+      "ru": [
+        "максимизировать окно на весь экран со стрелками наружу",
+        "развернуть содержимое на весь экран",
+        "кнопка закрытия для закрытия окна",
+        "восстановить окно до предыдущего размера",
+        "приблизить для увеличения содержимого",
+        "кнопка входа в полный экран стрелки наружу"
+      ]
+    },
+    "valid": {
+      "en": [
+        "minimize window to taskbar",
+        "collapse panel to smaller size",
+        "shrink content icon"
+      ],
+      "ru": [
+        "минимизировать окно в панель задач",
+        "свернуть панель до меньшего размера",
+        "иконка уменьшения содержимого"
+      ]
+    },
+    "test": {
+      "en": [
+        "minimize icon",
+        "collapse to smaller view",
+        "shrink window button"
+      ],
+      "ru": [
+        "иконка минимизации",
+        "свернуть до меньшего вида",
+        "кнопка уменьшения окна"
+      ]
+    }
+  }
+}

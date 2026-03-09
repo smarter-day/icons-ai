@@ -1,0 +1,84 @@
+{
+  "icon": "heading",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "format",
+        "header",
+        "text",
+        "title"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Apply the correct text format",
+        "Format the document",
+        "Add a header to the document",
+        "Edit the page header",
+        "Style the text in the editor",
+        "Increase the text size",
+        "Add a title to the article",
+        "Edit the page title"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Add a heading to the document",
+        "Format text as a header",
+        "Use H1 for the main title",
+        "Apply heading style in Word",
+        "Add a section heading",
+        "Set the page title",
+        "Use heading tags in HTML",
+        "Organize content with headings",
+        "Change the heading font size",
+        "Format the blog post heading"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Add a heading",
+        "Set the title",
+        "Format the header",
+        "Big title text"
+      ]
+    },
+    "typo": {
+      "en": [
+        "add a headin to the doc",
+        "formatt text as header",
+        "use h1 for main ttile",
+        "apply headign stlye"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Add a paragraph of body text",
+        "Create a bullet list",
+        "Insert a table in the document",
+        "Add a caption below the image",
+        "Write a footnote",
+        "Apply bold formatting to the text"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Add a heading to the document",
+        "Format text as a title",
+        "Use H1 for the main heading"
+      ]
+    },
+    "test": {
+      "en": [
+        "Apply heading style in Word",
+        "Organize content with headings",
+        "Format the blog post heading"
+      ]
+    }
+  }
+}

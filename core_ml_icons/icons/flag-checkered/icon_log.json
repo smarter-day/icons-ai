@@ -1,0 +1,87 @@
+{
+  "icon": "flag-checkered",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "checkered",
+        "finish",
+        "racing",
+        "start",
+        "win"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Wave the checkered flag at the finish",
+        "Checkered flag for the winner",
+        "Cross the finish line first",
+        "Run toward the finish line",
+        "Watch the racing event",
+        "Go to the car racing event",
+        "Start the race with the flag",
+        "Flag the start of the event",
+        "Celebrate the win",
+        "Win the competition"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Watch the Formula 1 race",
+        "Attend a car racing event",
+        "Wave the checkered flag",
+        "Cheer as the driver crosses the finish line",
+        "Celebrate the race victory",
+        "Watch a NASCAR race",
+        "Go to the local go-kart race",
+        "Complete the marathon run",
+        "Finish the challenge",
+        "Reach the goal"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Race day!",
+        "Finish line",
+        "Checkered flag",
+        "We won!"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wach the formula 1 raice",
+        "wave the checkerd flag",
+        "cross the finsh line",
+        "celebarte the race win"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Score a goal in soccer",
+        "Win the tennis match",
+        "Complete a board game",
+        "Finish a marathon",
+        "Cross the swimming finish",
+        "Complete the obstacle course"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Wave the checkered flag at the race",
+        "Cross the finish line",
+        "Celebrate the racing victory"
+      ]
+    },
+    "test": {
+      "en": [
+        "Watch the car race",
+        "Reach the finish line",
+        "Win the competition"
+      ]
+    }
+  }
+}

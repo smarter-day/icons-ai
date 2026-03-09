@@ -1,0 +1,160 @@
+{
+  "icon": "projector",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cinema",
+        "keynote",
+        "movie",
+        "powerpoint",
+        "presentation",
+        "shadow puppets",
+        "slides"
+      ],
+      "ru": [
+        "кинотеатр",
+        "keynote",
+        "кино",
+        "powerpoint",
+        "презентация",
+        "теневые куклы",
+        "слайды"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cinema projector throwing light on screen",
+        "film projector in cinema booth",
+        "keynote presentation projected on large screen",
+        "keynote slide show on big display",
+        "movie projector with film reel spinning",
+        "old movie projector flickering in the dark",
+        "powerpoint slides shown via projector",
+        "powerpoint presentation beamed on wall",
+        "presentation projector for business meeting",
+        "conference room projector for slides",
+        "shadow puppets cast by projector light",
+        "hand shadow puppets on projected wall",
+        "slides projected on a large screen",
+        "slide deck displayed through office projector"
+      ],
+      "ru": [
+        "кинопроектор, бросающий свет на экран",
+        "кинопроектор в будке кинозала",
+        "презентация keynote на большом экране",
+        "слайд-шоу keynote на большом дисплее",
+        "кинопроектор с вращающейся кинолентой",
+        "старый кинопроектор мерцает в темноте",
+        "слайды powerpoint через проектор",
+        "презентация powerpoint на стене",
+        "презентационный проектор для деловой встречи",
+        "проектор в конференц-зале для слайдов",
+        "теневые куклы от света проектора",
+        "теневые куклы руками на проецируемой стене",
+        "слайды на большом экране",
+        "презентация через офисный проектор"
+      ]
+    },
+    "regular": {
+      "en": [
+        "vintage film projector with spinning reel",
+        "modern digital projector for classroom presentations",
+        "overhead projector casting slides on screen",
+        "conference room ceiling-mounted projector",
+        "home theater projector for movie nights",
+        "lens of a movie projector in theater booth",
+        "portable mini projector for mobile use",
+        "projector beam cutting through a dark room",
+        "4K laser projector for home cinema setup",
+        "office presentation projector connected to laptop"
+      ],
+      "ru": [
+        "винтажный кинопроектор с вращающейся кинолентой",
+        "современный цифровой проектор для школьных презентаций",
+        "оверхед-проектор, проецирующий слайды на экран",
+        "потолочный проектор в конференц-зале",
+        "домашний кинопроектор для киновечеров",
+        "объектив кинопроектора в будке кинозала",
+        "портативный мини-проектор для мобильного использования",
+        "луч проектора в тёмной комнате",
+        "4K лазерный проектор для домашнего кинотеатра",
+        "офисный проектор, подключённый к ноутбуку"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a projector icon for the presentation tools section",
+        "add a cinema projector symbol to the media features",
+        "show a projector for the slides and keynote screen",
+        "use the projector icon for the meeting room feature"
+      ],
+      "ru": [
+        "мне нужна иконка проектора для раздела инструментов презентации",
+        "добавь символ кинопроектора в медиафункции",
+        "покажи проектор для экрана слайдов и keynote",
+        "используй иконку проектора для функции переговорной комнаты"
+      ]
+    },
+    "typo": {
+      "en": [
+        "proyector for business presentations",
+        "presentaiton projector in office",
+        "movie projcetor in cinema booth",
+        "confernce room projector for slides"
+      ],
+      "ru": [
+        "проектор для бизнес-презентацый",
+        "проектор для презентаций в офиссе",
+        "кинопроектор в будкe кинозала",
+        "проектор в конфернц-зале"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "flat screen television wall mounted in living room",
+        "computer monitor displaying presentation slides",
+        "large LED display board at conference center",
+        "whiteboard with marker drawings in classroom",
+        "cinema screen showing film during preview",
+        "digital signage display in shopping mall"
+      ],
+      "ru": [
+        "плоский телевизор на стене в гостиной",
+        "монитор компьютера со слайдами презентации",
+        "большой LED-экран в конференц-центре",
+        "маркерная доска с рисунками в классе",
+        "экран кинотеатра с фильмом во время показа",
+        "цифровой рекламный экран в торговом центре"
+      ]
+    },
+    "valid": {
+      "en": [
+        "projector displaying slides in meeting room",
+        "movie projector in cinema booth",
+        "presentation projector for business use"
+      ],
+      "ru": [
+        "проектор показывает слайды в переговорной",
+        "кинопроектор в будке кинозала",
+        "презентационный проектор для деловых нужд"
+      ]
+    },
+    "test": {
+      "en": [
+        "ceiling-mounted projector for office use",
+        "film projector showing movie on screen",
+        "digital projector for keynote presentations"
+      ],
+      "ru": [
+        "потолочный проектор для офиса",
+        "кинопроектор показывает фильм на экране",
+        "цифровой проектор для keynote-презентаций"
+      ]
+    }
+  }
+}

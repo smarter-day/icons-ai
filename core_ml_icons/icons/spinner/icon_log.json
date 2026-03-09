@@ -1,0 +1,142 @@
+{
+  "icon": "spinner",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "circle",
+        "loading",
+        "pending",
+        "progress"
+      ],
+      "ru": [
+        "круг",
+        "загрузка",
+        "ожидание",
+        "прогресс"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "spinning circle loading animation",
+        "circle rotating as loading indicator",
+        "loading spinner while page fetches",
+        "loading indicator while waiting",
+        "pending request spinner on screen",
+        "pending state shown as spinner",
+        "progress spinner while task runs",
+        "progress indicator spinning circle"
+      ],
+      "ru": [
+        "вращающийся круг анимация загрузки",
+        "круг вращается как индикатор загрузки",
+        "спиннер загрузки пока страница загружается",
+        "индикатор загрузки во время ожидания",
+        "спиннер ожидания запроса на экране",
+        "состояние ожидания показано спиннером",
+        "спиннер прогресса во время задачи",
+        "вращающийся круг индикатор прогресса"
+      ]
+    },
+    "regular": {
+      "en": [
+        "spinning circle loading indicator in app",
+        "activity spinner while content loads",
+        "indeterminate progress circle animation",
+        "loading spinner on button after tap",
+        "full-screen spinner blocking interaction",
+        "spinner replacing cursor during wait",
+        "iOS spinner UIActivityIndicatorView",
+        "spinner appearing during API call",
+        "small inline spinner next to text",
+        "skeleton screen with spinner placeholder"
+      ],
+      "ru": [
+        "вращающийся круг индикатор загрузки в приложении",
+        "спиннер активности пока контент загружается",
+        "анимация неопределённого прогресса",
+        "спиннер на кнопке после нажатия",
+        "полноэкранный спиннер блокирует взаимодействие",
+        "спиннер вместо курсора во время ожидания",
+        "iOS спиннер UIActivityIndicatorView",
+        "спиннер появляется во время вызова API",
+        "маленький встроенный спиннер рядом с текстом",
+        "скелетный экран со спиннером-заполнителем"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a spinner icon for the loading state",
+        "add a loading circle to the async request feature",
+        "show a spinner while content is fetching",
+        "use the spinner icon for the pending state"
+      ],
+      "ru": [
+        "мне нужна иконка спиннера для состояния загрузки",
+        "добавь круг загрузки для функции асинхронного запроса",
+        "покажи спиннер пока загружается контент",
+        "используй иконку спиннера для состояния ожидания"
+      ]
+    },
+    "typo": {
+      "en": [
+        "spining circle loading indicator",
+        "activtiy spinner while content loads",
+        "loding spinner on button after tap",
+        "spiiner appearing during API call"
+      ],
+      "ru": [
+        "вращающийся круг индикатр загрузки",
+        "спинер активности пока загружается",
+        "спинер загрузки на кнопке",
+        "спинер появляется во время вызова"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "progress bar showing percentage complete",
+        "skeleton loader gray placeholder blocks",
+        "refresh icon reloading page content",
+        "hourglass time countdown symbol",
+        "loading dots three bouncing circles",
+        "circular progress ring with percentage"
+      ],
+      "ru": [
+        "полоса прогресса показывает процент завершения",
+        "серые блоки-заглушки скелетного загрузчика",
+        "иконка обновления перезагрузки страницы",
+        "песочные часы обратный отсчёт времени",
+        "три прыгающие точки загрузки",
+        "кольцо прогресса с процентом"
+      ]
+    },
+    "valid": {
+      "en": [
+        "spinning circle loading indicator",
+        "activity spinner while page loads",
+        "pending spinner on screen"
+      ],
+      "ru": [
+        "вращающийся круг индикатор загрузки",
+        "спиннер активности пока страница загружается",
+        "спиннер ожидания на экране"
+      ]
+    },
+    "test": {
+      "en": [
+        "loading spinner animation",
+        "circle spinner for async request",
+        "progress spinner on button tap"
+      ],
+      "ru": [
+        "анимация загрузочного спиннера",
+        "круговой спиннер для асинхронного запроса",
+        "спиннер прогресса при нажатии кнопки"
+      ]
+    }
+  }
+}

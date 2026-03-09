@@ -1,0 +1,117 @@
+{
+  "icon": "comment",
+  "rows": {
+    "train_en": 69,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "answer",
+        "bubble",
+        "chat",
+        "commenting",
+        "conversation",
+        "discussion",
+        "feedback",
+        "message",
+        "note",
+        "notification",
+        "sms",
+        "speech",
+        "talk",
+        "talking",
+        "texting"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "answer in the comment section",
+        "reply with an answer comment",
+        "speech bubble for the comment",
+        "chat bubble showing a reply",
+        "chat comment in the thread",
+        "open chat to comment on post",
+        "commenting on the post",
+        "leave a commenting reply",
+        "conversation in the comment thread",
+        "start a conversation with a comment",
+        "discussion in the comment section",
+        "open discussion with a comment",
+        "leave feedback in the comment box",
+        "feedback comment on the post",
+        "message in a comment box",
+        "leave a message comment",
+        "note left as a comment",
+        "note in the feedback comment box",
+        "comment notification badge",
+        "notification for a new comment",
+        "sms-style comment bubble",
+        "short comment like an sms message",
+        "speech comment in conversation",
+        "speech bubble for the reply",
+        "talk in the comment thread",
+        "talk through a comment reply",
+        "talking comment bubble icon",
+        "talking through comments on the post",
+        "texting-style comment interface",
+        "comment like texting a message"
+      ]
+    },
+    "regular": {
+      "en": [
+        "speech bubble with a text comment",
+        "comment notification on the social post",
+        "reply comment in the thread",
+        "add a comment to the discussion",
+        "feedback comment box on the article",
+        "chat bubble showing a new message",
+        "comment count displayed on the post",
+        "leave a note in the comment section",
+        "inline comment on the shared document",
+        "conversation thread with multiple comments"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a comment icon for the social feed",
+        "add a speech bubble to the feedback section",
+        "show a comment bubble on the post card",
+        "use the comment icon for the discussion thread"
+      ]
+    },
+    "typo": {
+      "en": [
+        "coment on the post",
+        "feeback comment box",
+        "discusion thread",
+        "notificaiton for new comment"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "direct message envelope in the inbox",
+        "notification bell with badge count",
+        "thumbs-up like on the social post",
+        "email message with unread indicator",
+        "quote block for the cited text",
+        "mention tag with at-sign symbol"
+      ]
+    },
+    "valid": {
+      "en": [
+        "comment speech bubble on post",
+        "feedback comment in the thread",
+        "new comment notification"
+      ]
+    },
+    "test": {
+      "en": [
+        "comment icon",
+        "comment bubble symbol",
+        "speech bubble comment"
+      ]
+    }
+  }
+}

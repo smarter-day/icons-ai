@@ -1,0 +1,148 @@
+{
+  "icon": "tag",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "discount",
+        "labe",
+        "label",
+        "price",
+        "shopping"
+      ],
+      "ru": [
+        "скидка",
+        "ярлык",
+        "этикетка",
+        "цена",
+        "шоппинг"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "discount tag sale percentage off",
+        "clearance discount price tag",
+        "label tag on clothing item",
+        "label on product tag",
+        "label tag for organizing",
+        "label tag name identifier",
+        "price tag on merchandise",
+        "price tag retail store",
+        "shopping tag attached to bag",
+        "shopping price tag product"
+      ],
+      "ru": [
+        "ценник скидки процент распродажи",
+        "ценник распродажи",
+        "бирка на одежде",
+        "этикетка на товаре",
+        "бирка для организации",
+        "ярлык с именем идентификатор",
+        "ценник на товаре",
+        "ценник в розничном магазине",
+        "бирка покупки прикреплена к сумке",
+        "ценник бирка товара"
+      ]
+    },
+    "regular": {
+      "en": [
+        "price tag hanging from clothing item",
+        "sale tag red discount label",
+        "luggage tag name and address",
+        "product tag barcode label",
+        "digital tag for categorizing notes",
+        "gift tag tied with ribbon",
+        "tag management in content system",
+        "keyword tag for search indexing",
+        "clearance sale tag yellow",
+        "security tag on retail clothing"
+      ],
+      "ru": [
+        "ценник висит на одежде",
+        "красная бирка скидки",
+        "багажная бирка имя и адрес",
+        "бирка товара штрих-код этикетка",
+        "цифровой тег для категоризации заметок",
+        "подарочная бирка с лентой",
+        "управление тегами в системе контента",
+        "тег-ключевое слово для индексации поиска",
+        "жёлтая бирка тотальной распродажи",
+        "защитная бирка на розничной одежде"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a tag icon for the label feature",
+        "add a price tag symbol to the shopping section",
+        "show a tag for the discount category",
+        "use the tag icon for the categorization system"
+      ],
+      "ru": [
+        "нужна иконка тега для функции ярлыков",
+        "добавь символ ценника в раздел шоппинга",
+        "покажи бирку для категории скидок",
+        "используй иконку тега для системы категоризации"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pric tag discount",
+        "labl on product",
+        "discoun tag sale",
+        "shoping tag item"
+      ],
+      "ru": [
+        "ценниk скидка",
+        "эитекетка на товаре",
+        "скидочная бирка распродажа",
+        "бирка покупки"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "label sticker adhesive flat",
+        "bookmark ribbon page marker",
+        "barcode scanner product code",
+        "ticket event entry stub",
+        "badge name identifier pin",
+        "folder label file organizer"
+      ],
+      "ru": [
+        "наклейка-этикетка клейкая плоская",
+        "закладка лента маркер страницы",
+        "штрих-код сканер код товара",
+        "билет мероприятие входная квитанция",
+        "бейдж имя идентификатор булавка",
+        "ярлык папки органайзер файлов"
+      ]
+    },
+    "valid": {
+      "en": [
+        "price tag discount label",
+        "shopping tag icon",
+        "tag label identifier"
+      ],
+      "ru": [
+        "ценник бирка скидки",
+        "иконка бирки шоппинга",
+        "тег этикетка идентификатор"
+      ]
+    },
+    "test": {
+      "en": [
+        "tag icon price label",
+        "discount tag symbol",
+        "product tag shopping"
+      ],
+      "ru": [
+        "иконка тега ценник",
+        "символ скидочной бирки",
+        "бирка товара шоппинг"
+      ]
+    }
+  }
+}

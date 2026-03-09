@@ -1,0 +1,160 @@
+{
+  "icon": "pen",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ballpoint",
+        "design",
+        "edit",
+        "modify",
+        "pen",
+        "update",
+        "write"
+      ],
+      "ru": [
+        "шариковая ручка",
+        "дизайн",
+        "редактировать",
+        "изменить",
+        "ручка",
+        "обновить",
+        "писать"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "ballpoint pen for everyday writing",
+        "ballpoint pen for signing",
+        "design tool pen for vector paths",
+        "design with pen tool in app",
+        "edit text with a pen stroke",
+        "edit document icon pen",
+        "modify drawing with pen tool",
+        "modify design with pen",
+        "pen for writing and drawing",
+        "fountain pen on paper",
+        "update notes with pen",
+        "update written record",
+        "write signature with pen",
+        "write a letter by hand"
+      ],
+      "ru": [
+        "шариковая ручка для ежедневного письма",
+        "шариковая ручка для подписи",
+        "инструмент-ручка для векторных путей в дизайне",
+        "дизайн с инструментом ручка в приложении",
+        "редактировать текст мазком ручки",
+        "иконка редактирования документа ручкой",
+        "изменить рисунок инструментом ручка",
+        "изменить дизайн ручкой",
+        "ручка для письма и рисования",
+        "перьевая ручка на бумаге",
+        "обновить заметки ручкой",
+        "обновить письменную запись",
+        "написать подпись ручкой",
+        "написать письмо вручную"
+      ]
+    },
+    "regular": {
+      "en": [
+        "ballpoint pen for everyday writing tasks",
+        "pen editing icon in a document",
+        "vector pen tool in design software",
+        "signing a document with a pen",
+        "ink pen writing on paper",
+        "pen nib icon for writing feature",
+        "annotation tool pen for PDF markup",
+        "digital pen on touchscreen tablet",
+        "pen tool for creating paths",
+        "note editing pen icon in app"
+      ],
+      "ru": [
+        "шариковая ручка для ежедневных задач письма",
+        "иконка редактирования ручкой в документе",
+        "векторный инструмент ручка в дизайн-программе",
+        "подписание документа ручкой",
+        "чернильная ручка пишет на бумаге",
+        "иконка пера ручки для функции письма",
+        "инструмент аннотаций ручка для разметки PDF",
+        "цифровая ручка на сенсорном планшете",
+        "инструмент ручка для создания путей",
+        "иконка редактирования заметок ручкой"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pen icon for the edit feature",
+        "add a pen symbol to the writing toolbar",
+        "show a pen for the annotation mode",
+        "use the pen icon for the design modification tool"
+      ],
+      "ru": [
+        "Мне нужна иконка ручки для функции редактирования",
+        "добавить символ ручки на панель письма",
+        "показать ручку для режима аннотаций",
+        "использовать иконку ручки для инструмента изменения дизайна"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pne tool design",
+        "balppoint pen write",
+        "edti with pen",
+        "modifay pen"
+      ],
+      "ru": [
+        "инструмент ручак",
+        "шариковая ручка писать",
+        "редакитровать ручкой",
+        "изменть с ручкой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "pencil for sketching and erasing",
+        "marker thick felt-tip pen",
+        "paintbrush for coloring",
+        "fountain pen with ink",
+        "stylus tablet drawing pen",
+        "eraser rubber for undoing marks"
+      ],
+      "ru": [
+        "карандаш для эскизов и стирания",
+        "маркер толстый фломастер",
+        "кисть для раскрашивания",
+        "перьевая ручка с чернилами",
+        "стилус ручка для рисования на планшете",
+        "ластик резиновый для отмены отметин"
+      ]
+    },
+    "valid": {
+      "en": [
+        "pen for writing and editing",
+        "ballpoint pen icon",
+        "pen tool for design"
+      ],
+      "ru": [
+        "ручка для письма и редактирования",
+        "иконка шариковой ручки",
+        "инструмент ручка для дизайна"
+      ]
+    },
+    "test": {
+      "en": [
+        "pen icon",
+        "writing pen ballpoint",
+        "edit tool pen"
+      ],
+      "ru": [
+        "иконка ручки",
+        "ручка для письма шариковая",
+        "инструмент редактирования ручка"
+      ]
+    }
+  }
+}

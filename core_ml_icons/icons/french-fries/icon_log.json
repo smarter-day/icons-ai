@@ -1,0 +1,96 @@
+{
+  "icon": "french-fries",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "chips",
+        "fast food",
+        "french fries",
+        "fried",
+        "fries",
+        "ketchup",
+        "potato",
+        "poutine"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Order chips with the burger",
+        "Eat chips as a snack",
+        "Stop at a fast food place",
+        "Order fast food for the family",
+        "Order a large french fries",
+        "Make french fries at home",
+        "Deep fry potatoes for fries",
+        "Bake fried potatoes in the oven",
+        "Make crispy fries",
+        "Get a side of fries",
+        "Dip the fries in ketchup",
+        "Buy ketchup for the fries",
+        "Make mashed potato for dinner",
+        "Buy potatoes at the store",
+        "Try Canadian poutine",
+        "Order poutine with gravy"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Order fries with the burger",
+        "Make homemade french fries",
+        "Stop at McDonald's for fries",
+        "Bake oven fries instead of frying",
+        "Get a side of fries with lunch",
+        "Dip fries in ketchup or mayo",
+        "Make sweet potato fries",
+        "Order poutine in Canada",
+        "Cook frozen fries in the oven",
+        "Get curly fries at the restaurant"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Fries please!",
+        "Side of fries",
+        "Fast food run",
+        "Fries and ketchup"
+      ]
+    },
+    "typo": {
+      "en": [
+        "order freis with burger",
+        "make homemade frnech fries",
+        "bake oven freis",
+        "diip fries in kechup"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Order onion rings instead",
+        "Get a side salad with the meal",
+        "Make potato wedges in the oven",
+        "Cook mashed potatoes for dinner",
+        "Get a baked potato at the steakhouse",
+        "Order potato chips from the bag"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Order fries with the burger",
+        "Make homemade french fries",
+        "Dip fries in ketchup"
+      ]
+    },
+    "test": {
+      "en": [
+        "Stop at fast food for fries",
+        "Bake oven fries",
+        "Get a side of fries with lunch"
+      ]
+    }
+  }
+}

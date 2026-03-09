@@ -1,0 +1,93 @@
+{
+  "icon": "hourglass",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "hour",
+        "hourglass",
+        "minute",
+        "sand",
+        "stopwatch",
+        "time",
+        "timer"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "hour counting down in the hourglass",
+        "hour glass timing one hour",
+        "hourglass sand running out",
+        "hourglass counting down",
+        "minute countdown on the hourglass",
+        "minute passing through the hourglass",
+        "sand falling through the hourglass",
+        "fine sand in the hourglass",
+        "stopwatch hourglass timing an event",
+        "hourglass as a stopwatch",
+        "time measured by the hourglass",
+        "hourglass symbol for time",
+        "timer set with the hourglass",
+        "hourglass countdown timer"
+      ]
+    },
+    "regular": {
+      "en": [
+        "sand flowing through the hourglass",
+        "hourglass counting down the last minutes",
+        "vintage hourglass as a time symbol",
+        "hourglass icon for a loading indicator",
+        "hourglass timer for the board game",
+        "hourglass representing time running out",
+        "hourglass on the lock screen",
+        "glass hourglass with fine white sand",
+        "hourglass tattoo symbolizing time",
+        "hourglass flipped to restart the timer"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an hourglass icon for the countdown timer",
+        "add a sand timer to the time tracking feature",
+        "show an hourglass for the loading state",
+        "use the hourglass icon for the session timeout"
+      ]
+    },
+    "typo": {
+      "en": [
+        "hourglsas running out of sand",
+        "snda flowing through glass",
+        "tiemr countdown hourglass",
+        "hourgllass flipped over"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "analog clock face with hour and minute hands",
+        "digital stopwatch counting milliseconds",
+        "circular progress spinner for loading",
+        "countdown clock on the scoreboard",
+        "alarm clock set for the morning",
+        "wristwatch showing the current time"
+      ]
+    },
+    "valid": {
+      "en": [
+        "sand flowing through the hourglass",
+        "hourglass countdown timer",
+        "time symbol hourglass"
+      ]
+    },
+    "test": {
+      "en": [
+        "hourglass icon",
+        "sand timer symbol",
+        "hourglass for countdown"
+      ]
+    }
+  }
+}

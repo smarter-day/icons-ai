@@ -1,0 +1,160 @@
+{
+  "icon": "shish-kebab",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "grill",
+        "kabob",
+        "kebob",
+        "meat",
+        "shawarma",
+        "skewer",
+        "souvlaki"
+      ],
+      "ru": [
+        "гриль",
+        "кебаб",
+        "кебоб",
+        "мясо",
+        "шаурма",
+        "шашлык",
+        "сувлаки"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "grill shish kebab over hot coals",
+        "BBQ grill with kebab skewers",
+        "kabob skewer with marinated meat",
+        "lamb kabob on metal skewer",
+        "kebob cooked on charcoal fire",
+        "chicken kebob with peppers",
+        "grilled meat on a wooden skewer",
+        "meat and vegetable skewer on grill",
+        "shawarma spiced meat on vertical spit",
+        "Middle Eastern shawarma wrap",
+        "skewer of beef and vegetables grilled",
+        "metal skewer over campfire",
+        "souvlaki pork skewer in Greece",
+        "souvlaki served in pita bread"
+      ],
+      "ru": [
+        "шашлык из баранины на горячих углях",
+        "барбекю-гриль с шашлыками",
+        "шампур кебаба с маринованным мясом",
+        "кебаб из баранины на металлическом шампуре",
+        "кебоб приготовлен на угольном огне",
+        "куриный кебоб с перцем",
+        "жареное мясо на деревянном шампуре",
+        "мясо и овощи на шампуре на гриле",
+        "шаурма специи мясо на вертикальном вертеле",
+        "шаурма ближневосточная в лаваше",
+        "шашлык из говядины и овощей",
+        "металлический шашлык над костром",
+        "сувлаки из свинины в Греции",
+        "сувлаки в лаваше"
+      ]
+    },
+    "regular": {
+      "en": [
+        "shish kebab skewer with alternating meat and vegetables",
+        "lamb shish kebab grilled over charcoal",
+        "Turkish doner kebab on vertical spit",
+        "chicken souvlaki in pita with tzatziki",
+        "BBQ skewer of marinated pork and peppers",
+        "Middle Eastern kofta meatball kebab",
+        "Persian lamb koobideh kebab on flat skewer",
+        "street food skewer sold at night market",
+        "Korean bulgogi beef skewer on grill",
+        "vegetable skewer with mushrooms and zucchini"
+      ],
+      "ru": [
+        "шашлык с чередующимися мясом и овощами",
+        "шашлык из баранины на угольном гриле",
+        "турецкий донер-кебаб на вертикальном вертеле",
+        "куриный сувлаки в лаваше с дзадзики",
+        "BBQ-шашлык из маринованной свинины и перцев",
+        "ближневосточный кофта-кебаб из мясных шариков",
+        "персидский кубидэ из баранины на плоском шампуре",
+        "уличная еда шашлык на ночном рынке",
+        "корейский булгоги шашлык из говядины",
+        "овощной шашлык с грибами и цукини"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a shish kebab icon for the grilling app",
+        "add a skewer symbol to the BBQ food category",
+        "show a kebab for the Middle Eastern food section",
+        "use the shish-kebab icon for the grill party feature"
+      ],
+      "ru": [
+        "мне нужна иконка шашлыка для приложения гриля",
+        "добавь символ шашлыка в категорию BBQ",
+        "покажи кебаб для раздела ближневосточной кухни",
+        "используй иконку шашлыка для функции вечеринки у гриля"
+      ]
+    },
+    "typo": {
+      "en": [
+        "lamb shish kebba grilled over charcoal",
+        "chciken souvlaki in pita with tzatziki",
+        "BBQ skweer of marinated pork",
+        "Turksh doner kebab on vertical spit"
+      ],
+      "ru": [
+        "шашлык из барнины на угольном гриле",
+        "куриный сувлакии в лаваше",
+        "BBQ-шашлык из маринованнй свинины",
+        "турецкий донер-кебба на вертеле"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "hot dog sausage in a bun",
+        "steak on grill with char marks",
+        "hamburger burger on grill grates",
+        "wrap burrito rolled in flatbread",
+        "roasted chicken on rotisserie spit",
+        "grilled fish fillet with lemon"
+      ],
+      "ru": [
+        "хот-дог сосиска в булочке",
+        "стейк на гриле с поджаристыми полосами",
+        "гамбургер на решётке гриля",
+        "ролл буррито в лепёшке",
+        "жареная курица на гриле-вертеле",
+        "жареное рыбное филе с лимоном"
+      ]
+    },
+    "valid": {
+      "en": [
+        "shish kebab skewer on grill",
+        "lamb kebab with vegetables on skewer",
+        "BBQ shish kebab icon"
+      ],
+      "ru": [
+        "шашлык на гриле",
+        "кебаб из баранины с овощами",
+        "иконка BBQ-шашлыка"
+      ]
+    },
+    "test": {
+      "en": [
+        "grilled meat skewer with peppers",
+        "Turkish kebab on charcoal",
+        "souvlaki pork skewer in pita"
+      ],
+      "ru": [
+        "жареный шашлык с перцем",
+        "турецкий кебаб на углях",
+        "свиной сувлаки в лаваше"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "icon": "container-storage",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "archive",
+        "box",
+        "crate",
+        "intermodal",
+        "inventory",
+        "shipping",
+        "warehouse"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Archive old files and documents",
+        "Move old records to archive",
+        "Pack items in a box",
+        "Label and seal the box",
+        "Ship items in a wooden crate",
+        "Build a crate for shipping",
+        "Ship goods via intermodal container",
+        "Track the intermodal shipment",
+        "Do a full inventory count",
+        "Update the inventory list",
+        "Arrange shipping for the order",
+        "Track the shipping container",
+        "Organize the warehouse shelves",
+        "Manage warehouse inventory"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Organize storage in the garage",
+        "Pack boxes for the move",
+        "Label all storage boxes",
+        "Ship a package to a customer",
+        "Track the delivery",
+        "Organize the storage room",
+        "Do an inventory check",
+        "Send items to the warehouse",
+        "Unpack boxes after moving",
+        "Rent a storage unit"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Pack it up",
+        "Box everything",
+        "Ship it out",
+        "Storage run"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pak the boxes",
+        "shiping the container",
+        "inventroy check",
+        "orgnaize the warehouse"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy a storage shelf unit",
+        "Organize the pantry shelves",
+        "Send a letter by mail",
+        "Use cloud storage for backup",
+        "Manage files on the hard drive",
+        "Sort documents in the filing cabinet"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Pack boxes for storage",
+        "Ship goods to the warehouse",
+        "Do an inventory check"
+      ]
+    },
+    "test": {
+      "en": [
+        "Organize items in storage",
+        "Label the shipping boxes",
+        "Track the container shipment"
+      ]
+    }
+  }
+}

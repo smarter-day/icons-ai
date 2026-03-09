@@ -1,0 +1,87 @@
+{
+  "icon": "glasses",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "nerd",
+        "reading",
+        "sight",
+        "spectacles",
+        "vision"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Wear glasses like a nerd",
+        "Embrace the nerd look",
+        "Put on reading glasses",
+        "Buy reading glasses at the pharmacy",
+        "Get an eye test for sight",
+        "Check the sight prescription",
+        "Clean the spectacles",
+        "Buy a case for the spectacles",
+        "Get a vision test",
+        "Improve vision with glasses"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Book an eye exam",
+        "Pick up new glasses from the optician",
+        "Buy reading glasses",
+        "Clean the glasses lenses",
+        "Get a new prescription",
+        "Order glasses online",
+        "Replace the broken glasses frame",
+        "Adjust the glasses at the optician",
+        "Try contact lenses instead of glasses",
+        "Keep glasses in the case"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Need new glasses",
+        "Eye test time",
+        "Glasses update",
+        "Clean the specs"
+      ]
+    },
+    "typo": {
+      "en": [
+        "boko an eye exam",
+        "pik up new glasess",
+        "buy readign glasses",
+        "clen the glasess lenses"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Wear sunglasses outside",
+        "Buy contact lenses",
+        "Get laser eye surgery",
+        "Wear safety goggles at work",
+        "Use a magnifying glass to read",
+        "Put on swimming goggles"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Book an eye exam",
+        "Pick up new glasses",
+        "Get a new prescription"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy reading glasses",
+        "Clean the glasses lenses",
+        "Order glasses online"
+      ]
+    }
+  }
+}

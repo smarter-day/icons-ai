@@ -1,0 +1,148 @@
+{
+  "icon": "spray-can",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Paint",
+        "aerosol",
+        "design",
+        "graffiti",
+        "tag"
+      ],
+      "ru": [
+        "краска",
+        "аэрозоль",
+        "дизайн",
+        "граффити",
+        "тег"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "spray paint can for wall art",
+        "aerosol paint can in graffiti art",
+        "aerosol spray can in hardware store",
+        "aerosol can for insect repellent",
+        "design spray paint artwork on canvas",
+        "graphic design tool spray can",
+        "graffiti spray can on urban wall",
+        "graffiti artist with spray can",
+        "graffiti tag sprayed on building",
+        "tag name spray painted on surface"
+      ],
+      "ru": [
+        "баллончик краски для настенного искусства",
+        "аэрозольный баллончик в граффити-арте",
+        "аэрозольный баллончик в магазине стройматериалов",
+        "аэрозоль от насекомых",
+        "дизайн баллончик краски на холсте",
+        "инструмент дизайна аэрозоль",
+        "баллончик граффити на городской стене",
+        "художник граффити с баллончиком",
+        "тег граффити нанесён на здание",
+        "имя-тег нанесено краской на поверхность"
+      ]
+    },
+    "regular": {
+      "en": [
+        "aerosol spray can with nozzle on top",
+        "graffiti artist shaking spray can",
+        "spray paint can for street art mural",
+        "stencil graffiti tag with spray can",
+        "spray can icon for design tools",
+        "airbrush spray can for custom painting",
+        "spray paint can in hardware store aisle",
+        "colorful spray cans stacked in art supply shop",
+        "spray paint can leaving colored trail",
+        "can of spray paint opened for use"
+      ],
+      "ru": [
+        "аэрозольный баллончик с распылителем сверху",
+        "художник граффити трясёт баллончик",
+        "баллончик для уличного мурала",
+        "трафаретное граффити с баллончиком",
+        "иконка баллончика для инструментов дизайна",
+        "аэрозольный баллончик для кастомной покраски",
+        "баллончик краски в магазине стройматериалов",
+        "цветные баллончики в магазине художественных принадлежностей",
+        "баллончик краски оставляет цветной след",
+        "открытый баллончик краски для использования"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a spray can icon for the design tools panel",
+        "add a graffiti spray can to the street art section",
+        "show a spray can for the painting feature",
+        "use the spray-can icon for the aerosol tools"
+      ],
+      "ru": [
+        "мне нужна иконка баллончика для панели инструментов дизайна",
+        "добавь граффити-баллончик в раздел уличного искусства",
+        "покажи баллончик для функции рисования",
+        "используй иконку баллончика для аэрозольных инструментов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "aerosol spary can with nozzle on top",
+        "graffti artist shaking spray can",
+        "stencil garffiti tag with spray can",
+        "colorufl spray cans in art supply shop"
+      ],
+      "ru": [
+        "аэрозольный баллончкии с распылителем",
+        "художник граффтии трясёт баллончик",
+        "трафаретное граффтии с баллончиком",
+        "цветные балоончики в магазине"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "paint roller on long handle for walls",
+        "brush paintbrush for canvas painting",
+        "airbrush compressor for detailed art",
+        "marker pen for drawing and writing",
+        "stencil template for repeating pattern",
+        "paint bucket can with lid for walls"
+      ],
+      "ru": [
+        "валик на длинной ручке для стен",
+        "кисть для рисования на холсте",
+        "аэрограф компрессор для детального арта",
+        "маркер для рисования и письма",
+        "трафарет для повторяющегося узора",
+        "ведро краски с крышкой для стен"
+      ]
+    },
+    "valid": {
+      "en": [
+        "aerosol spray can with nozzle",
+        "graffiti spray can for street art",
+        "spray can icon for design tools"
+      ],
+      "ru": [
+        "аэрозольный баллончик с распылителем",
+        "баллончик граффити для уличного арта",
+        "иконка баллончика для дизайна"
+      ]
+    },
+    "test": {
+      "en": [
+        "spray paint can for mural art",
+        "graffiti tag with spray can",
+        "colorful spray cans in shop"
+      ],
+      "ru": [
+        "баллончик краски для мурала",
+        "тег граффити с баллончиком",
+        "цветные баллончики в магазине"
+      ]
+    }
+  }
+}

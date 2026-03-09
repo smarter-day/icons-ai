@@ -1,0 +1,136 @@
+{
+  "icon": "meter",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "electricity",
+        "transmission",
+        "utilities"
+      ],
+      "ru": [
+        "электричество",
+        "передача",
+        "коммунальные услуги"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "electricity meter measuring usage",
+        "electricity consumption meter",
+        "power transmission measurement",
+        "signal transmission meter",
+        "utility meter for water and gas",
+        "utilities billing meter reading"
+      ],
+      "ru": [
+        "счётчик электричества измеряющий потребление",
+        "счётчик потребления электроэнергии",
+        "измерение передачи электроэнергии",
+        "измеритель передачи сигнала",
+        "счётчик коммунальных услуг воды и газа",
+        "снятие показаний счётчика"
+      ]
+    },
+    "regular": {
+      "en": [
+        "electric meter on side of house",
+        "digital utility meter reading",
+        "analog dial meter for electricity",
+        "smart meter for home energy monitoring",
+        "gas meter in basement utility room",
+        "water meter reading for billing",
+        "measuring instrument with gauge dial",
+        "power consumption meter display",
+        "utility worker reading a meter",
+        "meter box on exterior wall"
+      ],
+      "ru": [
+        "электрический счётчик на стене дома",
+        "снятие показаний цифрового счётчика коммунальных услуг",
+        "аналоговый счётчик с циферблатом для электричества",
+        "умный счётчик для мониторинга домашней энергии",
+        "газовый счётчик в подвальном техническом помещении",
+        "снятие показаний водяного счётчика для оплаты",
+        "измерительный прибор с циферблатом",
+        "дисплей счётчика потребления электроэнергии",
+        "сотрудник коммунальных услуг снимает показания счётчика",
+        "коробка счётчика на наружной стене"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a meter icon for the utilities section",
+        "add an electricity meter to the energy tracker",
+        "show a meter for the power consumption feature",
+        "use the meter icon for the utility bill screen"
+      ],
+      "ru": [
+        "Мне нужна иконка счётчика для раздела коммунальных услуг",
+        "добавить электросчётчик в трекер энергии",
+        "показать счётчик для функции потребления электроэнергии",
+        "использовать иконку счётчика для экрана коммунального счёта"
+      ]
+    },
+    "typo": {
+      "en": [
+        "eletrcity meter",
+        "utiltiy meter reading",
+        "meeter dial",
+        "electircity usage"
+      ],
+      "ru": [
+        "электирчество счётчик",
+        "коммунальны счётчик",
+        "счётчкиэлектроэнергии",
+        "показания счёчтика"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "speedometer showing vehicle speed",
+        "fuel gauge showing empty to full",
+        "thermometer for temperature reading",
+        "barometer measuring air pressure",
+        "voltmeter for electrical voltage",
+        "progress bar showing percentage"
+      ],
+      "ru": [
+        "спидометр показывающий скорость транспортного средства",
+        "указатель топлива от пустого до полного",
+        "термометр для измерения температуры",
+        "барометр измеряющий давление воздуха",
+        "вольтметр для измерения электрического напряжения",
+        "прогресс-бар показывающий процент"
+      ]
+    },
+    "valid": {
+      "en": [
+        "electricity meter reading",
+        "utility meter icon",
+        "power consumption meter"
+      ],
+      "ru": [
+        "показания электросчётчика",
+        "иконка счётчика коммунальных услуг",
+        "счётчик потребления электроэнергии"
+      ]
+    },
+    "test": {
+      "en": [
+        "meter icon for utilities",
+        "electric meter on house",
+        "utility meter display"
+      ],
+      "ru": [
+        "иконка счётчика коммунальных услуг",
+        "электросчётчик на доме",
+        "дисплей счётчика коммунальных услуг"
+      ]
+    }
+  }
+}

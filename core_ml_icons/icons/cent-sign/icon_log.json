@@ -1,0 +1,130 @@
+{
+  "icon": "cent-sign",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Cent Sign",
+        "currency"
+      ],
+      "ru": [
+        "знак цента",
+        "валюта"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Cent sign for the price label",
+        "Currency denomination in cents",
+        "Price tag with cent sign formatting",
+        "Currency conversion from dollars to cents"
+      ],
+      "ru": [
+        "Знак цента для ценника",
+        "Денежная единица в центах",
+        "Ценник с форматированием знака цента",
+        "Конвертация валюты из долларов в центы"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Price tag showing 99 cents",
+        "Penny count at the register",
+        "Change in cents at the counter",
+        "Small denomination currency",
+        "Cent-based pricing strategy",
+        "Total in cents for the transaction",
+        "Add up the loose change",
+        "Coin roll of pennies and cents",
+        "Sales price ending in 99 cents",
+        "Budget item under a dollar"
+      ],
+      "ru": [
+        "Ценник с 99 центами",
+        "Подсчёт пенни на кассе",
+        "Сдача в центах у стойки",
+        "Мелкая денежная единица",
+        "Ценообразование в центах",
+        "Итог в центах для транзакции",
+        "Подсчитать мелочь",
+        "Рулон монет из пенни и центов",
+        "Продажная цена оканчивается на 99 центов",
+        "Бюджетный товар до доллара"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "every cent counts here",
+        "that's only 50 cents — grab it",
+        "change jar is full of cents",
+        "not worth a single cent"
+      ],
+      "ru": [
+        "здесь важен каждый цент",
+        "это всего 50 центов — берём",
+        "банка для мелочи полна центов",
+        "не стоит ни цента"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pice tag showing 99 centes",
+        "chagne in cens at the register",
+        "smale denomination curency",
+        "coint roll of penneis and sents"
+      ],
+      "ru": [
+        "ценик с 99 центами",
+        "сдача в ценах у кассы",
+        "мелкая денежная единца",
+        "рулон монет из пенни и центав"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Dollar sign for the price display",
+        "Euro symbol on the invoice",
+        "Pound sterling symbol on the receipt",
+        "Bitcoin symbol for the transaction",
+        "Percent sign for the discount",
+        "Currency exchange rate calculator"
+      ],
+      "ru": [
+        "Знак доллара для отображения цены",
+        "Символ евро в счёте",
+        "Символ фунта стерлингов в чеке",
+        "Символ биткоина для транзакции",
+        "Знак процента для скидки",
+        "Калькулятор курса валют"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Price in cents at the store",
+        "Loose change in cents",
+        "Budget item under a dollar"
+      ],
+      "ru": [
+        "Цена в центах в магазине",
+        "Мелочь в центах",
+        "Бюджетный товар до доллара"
+      ]
+    },
+    "test": {
+      "en": [
+        "99 cent price tag",
+        "Coin jar of cents",
+        "Small change in cents"
+      ],
+      "ru": [
+        "Ценник с 99 центами",
+        "Банка с монетами в центах",
+        "Мелкая сдача в центах"
+      ]
+    }
+  }
+}

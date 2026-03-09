@@ -1,0 +1,184 @@
+{
+  "icon": "user-doctor",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "covid-19",
+        "health",
+        "job",
+        "medical",
+        "nurse",
+        "occupation",
+        "physician",
+        "profile",
+        "surgeon",
+        "uer",
+        "worker"
+      ],
+      "ru": [
+        "COVID-19",
+        "здоровье",
+        "работа",
+        "медицинский",
+        "медсестра",
+        "профессия",
+        "врач",
+        "профиль",
+        "хирург",
+        "пользователь",
+        "работник"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "covid-19 doctor treating patient",
+        "frontline doctor COVID pandemic",
+        "health professional doctor icon",
+        "health worker silhouette",
+        "job doctor medical career",
+        "job posting physician role",
+        "medical doctor clinic profile",
+        "medical professional icon",
+        "nurse doctor healthcare team",
+        "nurse profile hospital worker",
+        "occupation physician licensed",
+        "occupation surgeon specialty",
+        "physician patient consultation",
+        "physician office practice",
+        "profile doctor user avatar",
+        "doctor profile picture",
+        "surgeon operating room",
+        "surgeon profile specialist",
+        "user doctor account role",
+        "doctor user system role",
+        "worker doctor hospital staff",
+        "healthcare worker badge"
+      ],
+      "ru": [
+        "врач лечит пациента COVID-19",
+        "врач на переднем крае пандемии",
+        "медицинский работник иконка врача",
+        "медработник силуэт",
+        "профессия врач медицинская карьера",
+        "вакансия врача позиция",
+        "врач в клинике профиль",
+        "профессиональный медицинский значок",
+        "медсестра врач команда здравоохранения",
+        "профиль медсестры больничный работник",
+        "лицензированный врач профессия",
+        "хирург специальность профессия",
+        "консультация врача с пациентом",
+        "практика врача в кабинете",
+        "аватар пользователя врача профиль",
+        "фото профиля доктора",
+        "хирург операционная",
+        "профиль специалиста хирурга",
+        "роль пользователя доктора аккаунт",
+        "роль врача в системе",
+        "больничный сотрудник рабочий доктор",
+        "значок медицинского работника"
+      ]
+    },
+    "regular": {
+      "en": [
+        "doctor user profile with stethoscope",
+        "physician avatar in medical app",
+        "doctor account in health system",
+        "nurse profile card healthcare",
+        "surgeon profile specialist role",
+        "COVID frontline worker doctor",
+        "telemedicine doctor profile virtual",
+        "medical professional user icon",
+        "doctor's office appointment profile",
+        "hospital staff badge worker"
+      ],
+      "ru": [
+        "профиль пользователя врача со стетоскопом",
+        "аватар врача в медицинском приложении",
+        "аккаунт врача в системе здравоохранения",
+        "карточка профиля медсестры",
+        "профиль специалиста хирурга",
+        "врач на переднем крае COVID",
+        "профиль телемедицины виртуальный врач",
+        "иконка медицинского работника",
+        "профиль приёма в кабинете врача",
+        "значок сотрудника больницы"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a user-doctor icon for the medical staff section",
+        "add a physician symbol to the healthcare profile",
+        "show a doctor user for the telemedicine feature",
+        "use the user-doctor icon for the practitioner role"
+      ],
+      "ru": [
+        "нужна иконка врача-пользователя для раздела медперсонала",
+        "добавь символ врача в медицинский профиль",
+        "покажи пользователя-врача для телемедицины",
+        "используй иконку врача для роли практикующего специалиста"
+      ]
+    },
+    "typo": {
+      "en": [
+        "docotr user profile",
+        "phycisian health icon",
+        "medcial worker doctor",
+        "surgon profile user"
+      ],
+      "ru": [
+        "профиль пользователя врача",
+        "иконка здоровья врача",
+        "медработник доктор",
+        "профиль хирурга пользователь"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "user person default profile",
+        "nurse hat cross medical",
+        "stethoscope doctor tool",
+        "hospital building facility",
+        "patient lying bed sick",
+        "pharmacist drug medication"
+      ],
+      "ru": [
+        "пользователь человек профиль по умолчанию",
+        "шапочка медсестры крест медицинский",
+        "стетоскоп инструмент врача",
+        "здание больницы учреждение",
+        "пациент лежит в постели больной",
+        "фармацевт лекарство препарат"
+      ]
+    },
+    "valid": {
+      "en": [
+        "doctor user profile icon",
+        "physician medical symbol",
+        "healthcare worker icon"
+      ],
+      "ru": [
+        "иконка профиля врача",
+        "символ медицинского врача",
+        "иконка медработника"
+      ]
+    },
+    "test": {
+      "en": [
+        "user-doctor icon",
+        "physician profile symbol",
+        "medical doctor user"
+      ],
+      "ru": [
+        "иконка врача пользователя",
+        "символ профиля врача",
+        "медицинский доктор пользователь"
+      ]
+    }
+  }
+}

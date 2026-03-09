@@ -1,0 +1,160 @@
+{
+  "icon": "candy-cane",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "candy",
+        "christmas",
+        "holiday",
+        "mint",
+        "peppermint",
+        "striped",
+        "xmas"
+      ],
+      "ru": [
+        "конфета",
+        "рождество",
+        "праздник",
+        "мята",
+        "перечная мята",
+        "полосатый",
+        "рождественский"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Candy treat for the kids",
+        "Christmas candy cane decoration",
+        "Holiday sweet for the stocking",
+        "Mint flavour candy for dessert",
+        "Peppermint candy for the season",
+        "Striped candy cane on the tree",
+        "Xmas candy cane order",
+        "Candy bag ready for trick or treat",
+        "Christmas stocking filled with candy canes",
+        "Holiday candy display set up in the shop",
+        "Mint extract for the cookie recipe",
+        "Peppermint hot chocolate this evening",
+        "Striped candy wrapper on the gift box",
+        "Xmas candy order for the office party"
+      ],
+      "ru": [
+        "Конфетки для детей",
+        "Рождественское украшение-леденец",
+        "Праздничная сладость для чулка",
+        "Конфета с ароматом мяты",
+        "Леденцы с перечной мятой на сезон",
+        "Полосатый леденец на ёлке",
+        "Заказ рождественских леденцов",
+        "Пакет конфет готов для трюка или угощения",
+        "Рождественский носок набитый леденцами",
+        "Праздничная витрина со сладостями в магазине",
+        "Мятный экстракт для рецепта печенья",
+        "Мятный горячий шоколад сегодня вечером",
+        "Полосатая обёртка на подарочной коробке",
+        "Заказ рождественских конфет для офисной вечеринки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Hang candy canes on the Christmas tree",
+        "Candy cane milkshake for the holidays",
+        "Buy candy canes for the stockings",
+        "Peppermint hot chocolate with candy cane",
+        "Candy cane flavour cake frosting",
+        "Holiday candy gift wrap",
+        "Candy cane decorations for the party",
+        "Edible candy cane ornament",
+        "Crushed candy cane for the cookie",
+        "Mini candy canes for the treat bags"
+      ],
+      "ru": [
+        "Повесить леденцы на рождественскую ёлку",
+        "Молочный коктейль с леденцами на праздники",
+        "Купить леденцы для чулков",
+        "Горячий шоколад с мятой и леденцом",
+        "Глазурь со вкусом леденца для торта",
+        "Праздничная упаковка конфет",
+        "Украшения из леденцов для вечеринки",
+        "Съедобный леденец-украшение",
+        "Измельчённый леденец для печенья",
+        "Маленькие леденцы для подарочных пакетов"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "love a good candy cane this time of year",
+        "kids want candy canes on the tree",
+        "peppermint everything at Christmas",
+        "crush a candy cane on the hot cocoa"
+      ],
+      "ru": [
+        "обожаю леденцы в это время года",
+        "дети хотят леденцы на ёлку",
+        "всё с мятой на Рождество",
+        "раскрошить леденец в горячее какао"
+      ]
+    },
+    "typo": {
+      "en": [
+        "candie cane for the xmas tree",
+        "peppermit candy stocking stuffer",
+        "holliday candy cane decoration",
+        "christamas candy for the kids"
+      ],
+      "ru": [
+        "канди кейн для рождественской ёлки",
+        "перчная мята в рождественский чулок",
+        "праздничное украшение-леденец",
+        "рожденственские конфеты для детей"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Lollipop for the kid at the store",
+        "Gingerbread man cookie decoration",
+        "Box of holiday chocolates as a gift",
+        "Hard candy mixed bag for Halloween",
+        "Sugar cookie decorated for Christmas",
+        "Caramel wrapped sweet for the party"
+      ],
+      "ru": [
+        "Леденец на палочке для ребёнка в магазине",
+        "Печенье-пряник в форме человечка",
+        "Коробка праздничного шоколада в подарок",
+        "Смесь леденцов на Хэллоуин",
+        "Сахарное печенье украшенное к Рождеству",
+        "Карамель в обёртке для вечеринки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Hang candy canes on the tree tonight",
+        "Peppermint candy for the Christmas stocking",
+        "Candy cane hot chocolate recipe"
+      ],
+      "ru": [
+        "Повесить леденцы на ёлку сегодня вечером",
+        "Леденцы с мятой для рождественского чулка",
+        "Рецепт горячего шоколада с леденцом"
+      ]
+    },
+    "test": {
+      "en": [
+        "Candy cane decorations for the holidays",
+        "Buy candy canes before Christmas",
+        "Crush candy cane for the dessert"
+      ],
+      "ru": [
+        "Украшения из леденцов на праздники",
+        "Купить леденцы до Рождества",
+        "Раскрошить леденец для десерта"
+      ]
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "icon": "lock-open",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "admin",
+        "lock",
+        "open",
+        "padlock",
+        "password",
+        "privacy",
+        "private",
+        "protect",
+        "security",
+        "unlock"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "admin can unlock the content",
+        "open lock for admin access",
+        "lock in open state",
+        "open padlock not locked",
+        "lock open and unlocked",
+        "open padlock with shackle raised",
+        "padlock open and unlocked",
+        "open padlock on the gate",
+        "password revealed open lock",
+        "open lock after password entered",
+        "privacy lock opened for access",
+        "open lock for privacy settings",
+        "private lock opened",
+        "private content open lock",
+        "protection removed open lock",
+        "open lock not protecting",
+        "security lock in open state",
+        "open lock security warning",
+        "unlock with open padlock",
+        "unlock the door open lock"
+      ]
+    },
+    "regular": {
+      "en": [
+        "open padlock with the shackle raised",
+        "unlocked icon after a successful login",
+        "open lock symbol for accessible content",
+        "padlock opened after entering the password",
+        "unlocked account on the dashboard",
+        "open lock on the shared document",
+        "security warning showing lock is open",
+        "admin has unlocked the restricted area",
+        "open padlock on the storage unit",
+        "unlock the phone with the open lock"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an open lock icon for the unlocked state",
+        "add an unlock symbol to the access granted screen",
+        "show an open padlock when login succeeds",
+        "use the open lock for the public content section"
+      ]
+    },
+    "typo": {
+      "en": [
+        "unlocekd padlock",
+        "opne lock symbol",
+        "padlokc open",
+        "secruity open lock"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "closed padlock securing the gate",
+        "metal key inserted in the keyhole",
+        "open door with the handle down",
+        "combination safe with the door open",
+        "biometric scan unlocking the device",
+        "access badge shown for entry"
+      ]
+    },
+    "valid": {
+      "en": [
+        "open padlock with shackle raised",
+        "unlocked icon after login",
+        "open lock for access"
+      ]
+    },
+    "test": {
+      "en": [
+        "lock-open icon",
+        "unlocked padlock symbol",
+        "open lock"
+      ]
+    }
+  }
+}

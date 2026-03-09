@@ -1,0 +1,190 @@
+{
+  "icon": "palette",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "acrylic",
+        "art",
+        "artist palette",
+        "brush",
+        "color",
+        "fill",
+        "museum",
+        "paint",
+        "painting",
+        "palette",
+        "pigment",
+        "watercolor"
+      ],
+      "ru": [
+        "акрил",
+        "искусство",
+        "палитра художника",
+        "кисть",
+        "цвет",
+        "заливка",
+        "музей",
+        "краска",
+        "рисование",
+        "палитра",
+        "пигмент",
+        "акварель"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "acrylic paint on artist palette",
+        "acrylic colors mixed on palette",
+        "visual art palette of colors",
+        "art exhibition with palette icon",
+        "artist palette with paint blobs",
+        "artist palette held by painter",
+        "brush dipped in palette colors",
+        "mix colors on brush palette",
+        "color selection palette in app",
+        "color picker palette tool",
+        "fill shape using palette color",
+        "color fill from palette",
+        "art museum palette symbol",
+        "museum of art icon palette",
+        "paint selection on palette board",
+        "paint mixed on wooden palette",
+        "painting tool palette selection",
+        "canvas painting color palette",
+        "classic oval palette with thumb hole",
+        "palette icon for art app",
+        "pigment mixing on artist palette",
+        "pigment blobs on oval palette",
+        "watercolor palette with wells",
+        "watercolor paint palette tray"
+      ],
+      "ru": [
+        "акриловая краска на палитре художника",
+        "акриловые цвета смешанные на палитре",
+        "палитра цветов изобразительного искусства",
+        "иконка палитры художественной выставки",
+        "палитра художника с каплями краски",
+        "палитра художника в руке живописца",
+        "кисть окунутая в цвета палитры",
+        "смешивать цвета на кисти с палитрой",
+        "палитра выбора цвета в приложении",
+        "инструмент палитры выбора цвета",
+        "заполнить фигуру цветом из палитры",
+        "заливка цветом из палитры",
+        "символ палитры художественного музея",
+        "иконка музея искусства палитра",
+        "выбор краски на доске палитры",
+        "краска смешанная на деревянной палитре",
+        "выбор палитры инструмента живописи",
+        "палитра цветов живописи на холсте",
+        "классическая овальная палитра с отверстием для пальца",
+        "иконка палитры для художественного приложения",
+        "смешивание пигментов на палитре художника",
+        "капли пигмента на овальной палитре",
+        "палитра акварели с ячейками",
+        "поднос акварельной палитры"
+      ]
+    },
+    "regular": {
+      "en": [
+        "oval wooden palette with colorful paint blobs",
+        "artist holding palette while painting",
+        "digital color palette selector in design app",
+        "color swatch palette for brand design",
+        "painter's palette with thumb hole",
+        "art class palette for mixing colors",
+        "museum art icon with painter's palette",
+        "watercolor pan palette with 12 colors",
+        "UI color palette component",
+        "graphic design color palette tool"
+      ],
+      "ru": [
+        "овальная деревянная палитра с цветными каплями краски",
+        "художник держащий палитру во время рисования",
+        "цифровой выбор цветовой палитры в приложении дизайна",
+        "палитра образцов цвета для фирменного дизайна",
+        "палитра маляра с отверстием для большого пальца",
+        "палитра урока рисования для смешивания цветов",
+        "иконка музея искусства с палитрой художника",
+        "поднос акварельной палитры с 12 цветами",
+        "компонент цветовой палитры UI",
+        "инструмент цветовой палитры графического дизайна"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a palette icon for the art section",
+        "add a color palette to the painting tool",
+        "show a palette for the color picker feature",
+        "use the palette icon for the design color selection"
+      ],
+      "ru": [
+        "Мне нужна иконка палитры для раздела искусства",
+        "добавить цветовую палитру в инструмент рисования",
+        "показать палитру для функции выбора цвета",
+        "использовать иконку палитры для выбора цвета дизайна"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pallete color art",
+        "artits palette",
+        "cloor palette tool",
+        "paintign palette"
+      ],
+      "ru": [
+        "палитра цвет искустство",
+        "палитра художина",
+        "цвет палитра иснтрумент",
+        "рисоваение палитра"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "paintbrush tool without palette",
+        "color swatch chart without palette shape",
+        "paint roller for walls not art",
+        "ink well and fountain pen",
+        "crayon box with multiple colors",
+        "spray paint can for even coverage"
+      ],
+      "ru": [
+        "инструмент кисть без палитры",
+        "таблица образцов цвета без формы палитры",
+        "малярный валик для стен не для искусства",
+        "чернильница и перьевая ручка",
+        "коробка мелков с несколькими цветами",
+        "баллончик с краской для покрытия"
+      ]
+    },
+    "valid": {
+      "en": [
+        "artist palette with paint colors",
+        "color palette for art and design",
+        "oval palette with brush"
+      ],
+      "ru": [
+        "палитра художника с красками",
+        "цветовая палитра для искусства и дизайна",
+        "овальная палитра с кистью"
+      ]
+    },
+    "test": {
+      "en": [
+        "palette icon",
+        "artist color palette",
+        "painting palette art tool"
+      ],
+      "ru": [
+        "иконка палитры",
+        "цветовая палитра художника",
+        "палитра инструмента рисования"
+      ]
+    }
+  }
+}

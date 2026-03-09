@@ -1,0 +1,81 @@
+{
+  "icon": "hose-reel",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "fire",
+        "irrigation",
+        "water"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Check the fire hose reel location",
+        "Unroll the fire hose",
+        "Set up the irrigation system",
+        "Water the garden with irrigation",
+        "Water the garden with the hose",
+        "Coil the hose on the reel"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Water the garden with the hose",
+        "Roll up the garden hose",
+        "Buy a hose reel for the garden",
+        "Set up the irrigation system",
+        "Check the fire hose in the building",
+        "Connect the hose to the outdoor tap",
+        "Wash the car with the garden hose",
+        "Unravel the garden hose",
+        "Replace the leaking hose",
+        "Install a retractable hose reel"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Water the garden",
+        "Roll up the hose",
+        "Garden hose",
+        "Irrigation time"
+      ]
+    },
+    "typo": {
+      "en": [
+        "watr the garden with hoes",
+        "rol up the garden hoes",
+        "buy a hose reel fo garden",
+        "set up the irigation"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use a watering can for plants",
+        "Set up a sprinkler system",
+        "Water flowers with a bottle",
+        "Use drip irrigation for plants",
+        "Use a pressure washer for the driveway",
+        "Fill the pool with a hose"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Water the garden with the hose",
+        "Roll up the hose on the reel",
+        "Set up the irrigation system"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy a hose reel for the garden",
+        "Connect the hose to the outdoor tap",
+        "Install a retractable hose reel"
+      ]
+    }
+  }
+}

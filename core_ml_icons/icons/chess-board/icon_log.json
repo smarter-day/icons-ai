@@ -1,0 +1,142 @@
+{
+  "icon": "chess-board",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "board",
+        "checkmate",
+        "game",
+        "strategy"
+      ],
+      "ru": [
+        "доска",
+        "шах и мат",
+        "игра",
+        "стратегия"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Board game night with chess",
+        "Set up the chess board on the table",
+        "Checkmate the opponent in three moves",
+        "Checkmate study for beginners",
+        "Game of chess with the kids",
+        "Online chess game against a friend",
+        "Strategy session using chess thinking",
+        "Chess strategy book for the weekend"
+      ],
+      "ru": [
+        "Настольная игра в шахматы вечером",
+        "Расставить шахматную доску на столе",
+        "Поставить мат за три хода",
+        "Изучение шаха и мата для начинающих",
+        "Партия в шахматы с детьми",
+        "Онлайн-игра в шахматы с другом",
+        "Стратегическая сессия с шахматным мышлением",
+        "Книга по шахматной стратегии на выходные"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Set up the chess board for the match",
+        "Practice chess openings this evening",
+        "Chess tournament on Saturday",
+        "Teach the kids to play chess",
+        "Chess clock for the timed game",
+        "Review the chess game notation",
+        "Chess puzzle to solve before bed",
+        "Play chess online against a stranger",
+        "Chess club meeting this week",
+        "Analyse the game after the match"
+      ],
+      "ru": [
+        "Расставить шахматы для партии",
+        "Практиковать дебюты вечером",
+        "Шахматный турнир в субботу",
+        "Научить детей играть в шахматы",
+        "Шахматные часы для игры на время",
+        "Разобрать запись партии",
+        "Шахматная задача перед сном",
+        "Играть онлайн с незнакомцем",
+        "Встреча шахматного клуба",
+        "Разобрать партию после матча"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "got destroyed at chess last night",
+        "chess puzzles are oddly addictive",
+        "setting up the board for tonight",
+        "can't believe I missed that checkmate"
+      ],
+      "ru": [
+        "меня разнесли в шахматах вчера",
+        "шахматные задачи затягивают",
+        "расставляю доску на вечер",
+        "не могу поверить что пропустил мат"
+      ]
+    },
+    "typo": {
+      "en": [
+        "ches tournament on satruday",
+        "pratice chess openignss this evning",
+        "chess puzzel to slove before bde",
+        "teach the kods to play chses"
+      ],
+      "ru": [
+        "шахматный турниер в субботу",
+        "практиковать шахматные дебюты",
+        "шахматная задчка перед сном",
+        "научить детей игратть в шахматы"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Checkers board game for the kids",
+        "Scrabble board for word game night",
+        "Monopoly board set up on the table",
+        "Go board for the strategy game",
+        "Backgammon set for the evening",
+        "Puzzle board for the jigsaw project"
+      ],
+      "ru": [
+        "Доска для шашек для детей",
+        "Доска для Scrabble на игровой вечер",
+        "Монополия на столе",
+        "Доска для игры в Го",
+        "Нарды на вечер",
+        "Доска для пазла"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Chess tournament this Saturday",
+        "Set up the chess board for tonight",
+        "Analyse the last game with notation"
+      ],
+      "ru": [
+        "Шахматный турнир в эту субботу",
+        "Расставить шахматы на вечер",
+        "Разобрать последнюю партию по нотации"
+      ]
+    },
+    "test": {
+      "en": [
+        "Chess puzzle before bed",
+        "Teach the kids to play chess",
+        "Online chess game this evening"
+      ],
+      "ru": [
+        "Шахматная задача перед сном",
+        "Научить детей играть в шахматы",
+        "Онлайн-партия в шахматы вечером"
+      ]
+    }
+  }
+}

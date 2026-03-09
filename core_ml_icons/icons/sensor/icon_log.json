@@ -1,0 +1,154 @@
+{
+  "icon": "sensor",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "alarm",
+        "alert",
+        "carbon monoxide",
+        "detector",
+        "fire",
+        "smoke"
+      ],
+      "ru": [
+        "сигнализация",
+        "оповещение",
+        "угарный газ",
+        "детектор",
+        "огонь",
+        "дым"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "alarm triggered by sensor on ceiling",
+        "alarm sensor detecting intrusion",
+        "alert from smoke sensor activated",
+        "alert notification from detector",
+        "carbon monoxide sensor in kitchen",
+        "carbon monoxide detector alarm",
+        "detector mounted on bedroom ceiling",
+        "smoke detector device in hallway",
+        "fire sensor triggering sprinkler system",
+        "fire detector above kitchen stove",
+        "smoke sensor blinking red light",
+        "smoke alarm battery low beeping"
+      ],
+      "ru": [
+        "сигнализация сработала от датчика на потолке",
+        "датчик сигнализации обнаружил вторжение",
+        "оповещение от активированного датчика дыма",
+        "уведомление от детектора",
+        "датчик угарного газа на кухне",
+        "тревога детектора угарного газа",
+        "детектор установлен на потолке спальни",
+        "дымовой детектор в коридоре",
+        "датчик пожара активирует спринклеры",
+        "пожарный детектор над кухонной плитой",
+        "датчик дыма мигает красным",
+        "низкий заряд батареи дымового датчика"
+      ]
+    },
+    "regular": {
+      "en": [
+        "round smoke detector mounted on ceiling",
+        "carbon monoxide alarm in living room",
+        "fire sensor with red blinking light",
+        "smart home sensor connected to app",
+        "motion sensor detecting movement in room",
+        "temperature sensor for HVAC system",
+        "interconnected alarm sensor network in building",
+        "testing smoke detector by pressing button",
+        "sensor battery replacement annual reminder",
+        "IoT environmental sensor for air quality"
+      ],
+      "ru": [
+        "круглый дымовой датчик на потолке",
+        "детектор угарного газа в гостиной",
+        "пожарный датчик с мигающим красным светом",
+        "умный домашний датчик подключён к приложению",
+        "датчик движения обнаруживает движение в комнате",
+        "температурный датчик для системы HVAC",
+        "сеть взаимосвязанных датчиков в здании",
+        "проверка дымового датчика нажатием кнопки",
+        "ежегодное напоминание о замене батарейки датчика",
+        "IoT датчик окружающей среды для качества воздуха"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sensor icon for the smart home app",
+        "add a smoke detector symbol to the safety section",
+        "show a sensor for the alarm feature",
+        "use the sensor icon for the fire safety screen"
+      ],
+      "ru": [
+        "мне нужна иконка датчика для приложения умного дома",
+        "добавь символ дымового детектора в раздел безопасности",
+        "покажи датчик для функции сигнализации",
+        "используй иконку датчика для экрана пожарной безопасности"
+      ]
+    },
+    "typo": {
+      "en": [
+        "smkoe detector mounted on ceiling",
+        "carbn monoxide alarm in living room",
+        "frie sensor with red blinking light",
+        "smrat home sensor connected to app"
+      ],
+      "ru": [
+        "дымовой датчкик на потолке",
+        "детектор угарного газа в гостиной",
+        "пожарный датчкик с красным светом",
+        "умный домашний датичк в приложении"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "fire extinguisher mounted on wall bracket",
+        "sprinkler head activated by heat",
+        "security camera watching entrance",
+        "door lock alarm with keypad",
+        "emergency exit sign with green arrow",
+        "first aid kit on wall in hallway"
+      ],
+      "ru": [
+        "огнетушитель на кронштейне на стене",
+        "спринклерная головка активирована теплом",
+        "камера видеонаблюдения у входа",
+        "дверной замок с клавиатурой",
+        "знак аварийного выхода с зелёной стрелкой",
+        "аптечка первой помощи на стене"
+      ]
+    },
+    "valid": {
+      "en": [
+        "smoke sensor on ceiling",
+        "carbon monoxide detector alarm",
+        "fire sensor triggering alarm"
+      ],
+      "ru": [
+        "дымовой датчик на потолке",
+        "тревога детектора угарного газа",
+        "пожарный датчик активирует сигнал"
+      ]
+    },
+    "test": {
+      "en": [
+        "round smoke alarm on ceiling",
+        "sensor detecting fire or smoke",
+        "smart home safety sensor"
+      ],
+      "ru": [
+        "круглый дымовой датчик на потолке",
+        "датчик обнаруживает огонь или дым",
+        "датчик безопасности умного дома"
+      ]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "icon": "marker",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "design",
+        "edit",
+        "modify",
+        "sharpie",
+        "update",
+        "write"
+      ],
+      "ru": [
+        "дизайн",
+        "редактировать",
+        "изменить",
+        "маркер",
+        "обновить",
+        "писать"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "design element drawn with marker",
+        "graphic design tool marker",
+        "edit notes with a marker pen",
+        "edit text marker for annotation",
+        "modify drawing with thick marker",
+        "modify layout using marker",
+        "Sharpie permanent marker for labeling",
+        "Sharpie felt-tip pen marking",
+        "update whiteboard with a marker",
+        "update label with fresh marker",
+        "write on whiteboard with marker",
+        "write name tag with black marker"
+      ],
+      "ru": [
+        "элемент дизайна нарисованный маркером",
+        "инструмент графического дизайна маркер",
+        "редактировать заметки маркером-ручкой",
+        "маркер для аннотаций текста",
+        "изменить рисунок толстым маркером",
+        "изменить макет маркером",
+        "постоянный маркер Sharpie для маркировки",
+        "фломастер Sharpie",
+        "обновить доску маркером",
+        "обновить этикетку свежим маркером",
+        "писать на доске маркером",
+        "написать именной бейджик чёрным маркером"
+      ]
+    },
+    "regular": {
+      "en": [
+        "thick felt-tip marker pen for drawing",
+        "Sharpie-style permanent black marker",
+        "whiteboard marker for presentations",
+        "highlighter marker for text annotation",
+        "writing on a sign with a bold marker",
+        "artist sketching with a chisel-tip marker",
+        "labeling boxes with a black marker",
+        "color marker for children's craft",
+        "edit symbol showing a pen or marker",
+        "annotation tool in a document editor"
+      ],
+      "ru": [
+        "толстый фломастер для рисования",
+        "постоянный чёрный маркер типа Sharpie",
+        "маркер для доски для презентаций",
+        "маркер-выделитель для аннотаций текста",
+        "написание на вывеске жирным маркером",
+        "художник делает эскиз маркером с плоским наконечником",
+        "маркировка коробок чёрным маркером",
+        "цветной маркер для детского творчества",
+        "символ редактирования с ручкой или маркером",
+        "инструмент аннотаций в редакторе документов"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a marker icon for the annotation feature",
+        "add a pen or marker to the drawing toolbar",
+        "show a marker symbol for the edit action",
+        "use the marker icon for the whiteboard mode"
+      ],
+      "ru": [
+        "Мне нужна иконка маркера для функции аннотаций",
+        "добавить ручку или маркер на панель рисования",
+        "показать символ маркера для действия редактирования",
+        "использовать иконку маркера для режима доски"
+      ]
+    },
+    "typo": {
+      "en": [
+        "sharipe marker",
+        "wihiteboard marker",
+        "eidt with marker",
+        "markre pen"
+      ],
+      "ru": [
+        "маркре для доски",
+        "маркер шарипе",
+        "редакитровать маркером",
+        "маркер дизайан"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "ballpoint pen for writing text",
+        "pencil for sketching and erasing",
+        "highlighter for text highlighting only",
+        "fountain pen with ink nib",
+        "crayon for children's coloring",
+        "brush pen for calligraphy"
+      ],
+      "ru": [
+        "шариковая ручка для написания текста",
+        "карандаш для эскизов и стирания",
+        "текстовыделитель только для выделения",
+        "перьевая ручка с пером и чернилами",
+        "восковой мелок для детского раскрашивания",
+        "кисть-ручка для каллиграфии"
+      ]
+    },
+    "valid": {
+      "en": [
+        "marker pen for writing and drawing",
+        "Sharpie-style permanent marker",
+        "edit tool marker icon"
+      ],
+      "ru": [
+        "маркер для письма и рисования",
+        "постоянный маркер типа Sharpie",
+        "иконка инструмента редактирования маркер"
+      ]
+    },
+    "test": {
+      "en": [
+        "thick marker pen icon",
+        "whiteboard marker for editing",
+        "felt-tip marker drawing"
+      ],
+      "ru": [
+        "иконка толстого маркера",
+        "маркер для доски и редактирования",
+        "рисование фломастером"
+      ]
+    }
+  }
+}

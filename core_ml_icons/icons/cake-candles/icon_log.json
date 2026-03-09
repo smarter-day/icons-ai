@@ -1,0 +1,196 @@
+{
+  "icon": "cake-candles",
+  "rows": {
+    "train_en": 63,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "anniversary",
+        "bakery",
+        "birthday",
+        "birthday cake",
+        "cake",
+        "candles",
+        "celebration",
+        "dessert",
+        "frosting",
+        "holiday",
+        "party",
+        "pastry",
+        "sweet"
+      ],
+      "ru": [
+        "годовщина",
+        "кондитерская",
+        "день рождения",
+        "торт на день рождения",
+        "торт",
+        "свечи",
+        "праздник",
+        "десерт",
+        "глазурь",
+        "праздничный",
+        "вечеринка",
+        "выпечка",
+        "сладкое"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Anniversary dinner with a special cake",
+        "Bakery cake for the party",
+        "Birthday reminder for tomorrow",
+        "Order a birthday cake today",
+        "Cake decorating for the event",
+        "Candles for the birthday cake",
+        "Celebration dinner reservation",
+        "Dessert table ideas for the party",
+        "Frosting colors for the cake",
+        "Holiday baking list",
+        "Party planning checklist",
+        "Pastry shop near the venue",
+        "Sweet birthday treat order",
+        "Anniversary gift and dinner plan tonight",
+        "Bakery cake decorated for the event",
+        "Birthday plans finalized for Saturday",
+        "Birthday cake candles — how many this year",
+        "Cake batter mixed and ready to bake",
+        "Candles burned all evening at the table",
+        "Celebration planned at the restaurant",
+        "Dessert run after the movie tonight",
+        "Frosting bag and tips ordered online",
+        "Holiday baking marathon this weekend",
+        "Party theme and cake design decided",
+        "Pastry course enrollment for next month",
+        "Sweet snacks for the office event"
+      ],
+      "ru": [
+        "Праздничный ужин на годовщину с тортом",
+        "Торт из кондитерской для вечеринки",
+        "Напоминание о дне рождения на завтра",
+        "Заказать торт на день рождения сегодня",
+        "Украшение торта для мероприятия",
+        "Свечи для торта на день рождения",
+        "Бронирование ужина по случаю праздника",
+        "Идеи для десертного стола на вечеринке",
+        "Цвета глазури для торта",
+        "Список праздничной выпечки",
+        "Чеклист планирования вечеринки",
+        "Кондитерская рядом с площадкой",
+        "Заказать сладкое угощение на день рождения",
+        "Подарок и план ужина на годовщину",
+        "Торт из пекарни украшен к мероприятию",
+        "Планы на день рождения в субботу согласованы",
+        "Свечи на торт — сколько в этом году",
+        "Тесто замешано и готово к выпечке",
+        "Свечи горели весь вечер за столом",
+        "Празднование запланировано в ресторане",
+        "Десерт после кино сегодня вечером",
+        "Заказан кондитерский мешок и насадки",
+        "Марафон праздничной выпечки в выходные",
+        "Тема вечеринки и дизайн торта определены",
+        "Запись на кондитерские курсы на следующий месяц",
+        "Сладкое угощение для офисного мероприятия"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Blow out the candles and make a wish",
+        "Pick up the birthday cake from the bakery",
+        "Bake a chocolate cake for the occasion",
+        "Surprise birthday party setup",
+        "Number of candles for the age",
+        "Wedding anniversary celebration dinner",
+        "Order custom cake for the event",
+        "Birthday candle colors to buy",
+        "Set up for the birthday party",
+        "Cupcake tower instead of a birthday cake"
+      ],
+      "ru": [
+        "Задуть свечи и загадать желание",
+        "Забрать торт на день рождения из кондитерской",
+        "Испечь шоколадный торт по случаю",
+        "Подготовить сюрприз-вечеринку на день рождения",
+        "Количество свечей по возрасту",
+        "Праздничный ужин на годовщину свадьбы",
+        "Заказать торт на заказ для мероприятия",
+        "Купить свечи для торта нужного цвета",
+        "Подготовиться к вечеринке на день рождения",
+        "Башня из кексов вместо торта на день рождения"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "don't forget to grab the birthday cake",
+        "whose birthday is it again",
+        "we need candles for the cake",
+        "big celebration dinner tonight"
+      ],
+      "ru": [
+        "не забудь забрать торт на день рождения",
+        "чей там день рождения снова",
+        "нам нужны свечи для торта",
+        "большой праздничный ужин сегодня вечером"
+      ]
+    },
+    "typo": {
+      "en": [
+        "birhtday cake from the bakrey",
+        "anniversarry celebration dinner",
+        "order the celebartion cake",
+        "candels for the bday cake"
+      ],
+      "ru": [
+        "торт на деь рождения из кондитерскй",
+        "праздничный ужин на годовщинну",
+        "заказать тот праздничный тот",
+        "свечки для тота на день рождения"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Box of cookies for the office treat",
+        "Cupcakes without the candles for the office",
+        "Ice cream sundae for the celebration",
+        "Pie from the bakery for Thanksgiving",
+        "Brownie batch for the party guests",
+        "Donut tower instead of a cake"
+      ],
+      "ru": [
+        "Коробка печенья для угощения в офисе",
+        "Кексы без свечей для офиса",
+        "Мороженое на праздник",
+        "Пирог из кондитерской на День благодарения",
+        "Партия брауни для гостей вечеринки",
+        "Башня из пончиков вместо торта"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Birthday cake pickup from the bakery",
+        "Candles for tonight's birthday celebration",
+        "Anniversary cake design ideas"
+      ],
+      "ru": [
+        "Забрать торт на день рождения из кондитерской",
+        "Свечи для сегодняшнего праздника",
+        "Идеи дизайна торта на годовщину"
+      ]
+    },
+    "test": {
+      "en": [
+        "Blowing out birthday candles",
+        "Order a celebration cake",
+        "Bake a birthday cake for the party"
+      ],
+      "ru": [
+        "Задуть свечи на торте ко дню рождения",
+        "Заказать праздничный торт",
+        "Испечь торт на день рождения для вечеринки"
+      ]
+    }
+  }
+}

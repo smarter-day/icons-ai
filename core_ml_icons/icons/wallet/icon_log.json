@@ -1,0 +1,148 @@
+{
+  "icon": "wallet",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "billfold",
+        "cash",
+        "currency",
+        "money",
+        "salary"
+      ],
+      "ru": [
+        "бумажник",
+        "наличные",
+        "валюта",
+        "деньги",
+        "зарплата"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "billfold wallet leather thin",
+        "billfold slim card holder",
+        "cash in wallet paper money",
+        "wallet cash payment",
+        "currency wallet exchange",
+        "wallet currency foreign",
+        "money wallet finance",
+        "wallet money store",
+        "salary wallet paycheck",
+        "salary deposited wallet"
+      ],
+      "ru": [
+        "тонкий кожаный бумажник",
+        "тонкий держатель карт бумажник",
+        "наличные в бумажнике",
+        "бумажник наличная оплата",
+        "бумажник валюта обмен",
+        "бумажник иностранная валюта",
+        "деньги бумажник финансы",
+        "бумажник хранить деньги",
+        "зарплата бумажник чек",
+        "зарплата поступила в бумажник"
+      ]
+    },
+    "regular": {
+      "en": [
+        "leather bifold wallet with cards",
+        "digital wallet Apple Pay",
+        "wallet full of credit cards",
+        "slim minimalist card wallet",
+        "money wallet zip around",
+        "wallet stolen lost emergency",
+        "travel wallet passport holder",
+        "coin wallet zippered pocket",
+        "wallet app payment mobile",
+        "back pocket wallet sitting"
+      ],
+      "ru": [
+        "кожаный двухпанельный бумажник с картами",
+        "цифровой бумажник Apple Pay",
+        "бумажник полный кредитных карт",
+        "тонкий минималистичный держатель карт",
+        "бумажник на молнии по кругу",
+        "бумажник украден потеря экстренная",
+        "туристический бумажник держатель паспорта",
+        "монетница бумажник кармашек на молнии",
+        "приложение бумажника мобильная оплата",
+        "сидеть на бумажнике в заднем кармане"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a wallet icon for the payment section",
+        "add a billfold symbol to the money feature",
+        "show a wallet for the finance category",
+        "use the wallet icon for the salary screen"
+      ],
+      "ru": [
+        "нужна иконка бумажника для раздела оплаты",
+        "добавь символ бумажника к денежной функции",
+        "покажи бумажник для финансовой категории",
+        "используй иконку бумажника для экрана зарплаты"
+      ]
+    },
+    "typo": {
+      "en": [
+        "walet leather card",
+        "billfod slim wallet",
+        "mony wallet cash",
+        "curreny wallet pay"
+      ],
+      "ru": [
+        "бумажник кожаный карта",
+        "тонкий бумажник",
+        "деньги бумажник наличные",
+        "валюта бумажник оплата"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "purse handbag fashion woman",
+        "credit card payment plastic",
+        "money bill cash paper",
+        "coin pouch change purse",
+        "bank account mobile finance",
+        "briefcase business document bag"
+      ],
+      "ru": [
+        "кошелёк дамская сумка мода",
+        "кредитная карта оплата пластик",
+        "купюра наличные бумага",
+        "монетница сдача кошелёк",
+        "банковский счёт мобильные финансы",
+        "портфель деловая сумка документы"
+      ]
+    },
+    "valid": {
+      "en": [
+        "wallet leather icon",
+        "billfold money symbol",
+        "payment wallet finance"
+      ],
+      "ru": [
+        "иконка кожаного бумажника",
+        "символ денежного бумажника",
+        "оплата бумажник финансы"
+      ]
+    },
+    "test": {
+      "en": [
+        "wallet icon money",
+        "billfold symbol",
+        "cash wallet payment"
+      ],
+      "ru": [
+        "иконка бумажника деньги",
+        "символ бумажника",
+        "наличные бумажник оплата"
+      ]
+    }
+  }
+}

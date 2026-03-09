@@ -1,0 +1,172 @@
+{
+  "icon": "stocking",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "christmas",
+        "clothing",
+        "decoration",
+        "gift",
+        "holiday",
+        "present",
+        "sock",
+        "tradition",
+        "xmas"
+      ],
+      "ru": [
+        "рождество",
+        "одежда",
+        "украшение",
+        "подарок",
+        "праздник",
+        "презент",
+        "носок",
+        "традиция",
+        "рождество-сокр"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "christmas stocking hung by fireplace",
+        "christmas stocking stuffed with gifts",
+        "clothing stocking pattern knitted",
+        "nylon stocking clothing item",
+        "holiday decoration stocking mantle",
+        "stocking as holiday decoration",
+        "gift stuffed stocking surprise",
+        "stocking gift for child",
+        "holiday stocking on chimney",
+        "festive holiday stocking tradition",
+        "present inside christmas stocking",
+        "stocking presents for santa",
+        "sock shaped stocking holiday",
+        "long sock stocking decoration",
+        "stocking tradition family heirloom",
+        "christmas stocking tradition started",
+        "xmas stocking embroidered name",
+        "xmas stocking personalized"
+      ],
+      "ru": [
+        "рождественский носок у камина",
+        "рождественский носок набитый подарками",
+        "вязаный узор рождественского носка",
+        "нейлоновый чулок предмет одежды",
+        "праздничное украшение носок на каминной полке",
+        "носок как праздничное украшение",
+        "подарок в носке сюрприз",
+        "подарок в носке для ребёнка",
+        "праздничный носок у трубы",
+        "нарядный рождественский носок традиция",
+        "презент внутри рождественского носка",
+        "подарки в носке для Санты",
+        "носок-чулок праздничный",
+        "длинный носок-украшение",
+        "традиция рождественского носка семейная реликвия",
+        "как началась традиция рождественского носка",
+        "рождественский носок с вышитым именем",
+        "именной рождественский носок"
+      ]
+    },
+    "regular": {
+      "en": [
+        "red and white knitted christmas stocking",
+        "stocking hung on fireplace mantle",
+        "personalized family stocking with name",
+        "oversized novelty christmas stocking",
+        "stocking stuffers small gifts inside",
+        "santa filling stockings on christmas eve",
+        "vintage embroidered christmas stocking",
+        "hanging multiple stockings by family",
+        "stocking with candy cane and orange",
+        "felt christmas stocking craft activity"
+      ],
+      "ru": [
+        "красно-белый вязаный рождественский носок",
+        "носок на каминной полке",
+        "именной семейный рождественский носок",
+        "гигантский праздничный носок",
+        "мелкие подарки в рождественском носке",
+        "Санта наполняет носки в рождественскую ночь",
+        "винтажный вышитый рождественский носок",
+        "несколько носков для всей семьи",
+        "носок с леденцом и мандарином",
+        "рождественский носок из фетра поделка"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a stocking icon for the christmas category",
+        "add a stocking symbol to the holiday decorations",
+        "show a stocking for the gift tracking feature",
+        "use the christmas stocking for festive events"
+      ],
+      "ru": [
+        "нужна иконка носка для рождественской категории",
+        "добавь символ носка к праздничным украшениям",
+        "покажи носок для функции отслеживания подарков",
+        "используй рождественский носок для праздничных событий"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chrstmas stocking gift",
+        "holdiay sock mantle",
+        "xams stocking hung",
+        "decoraton stocking"
+      ],
+      "ru": [
+        "рождетвенский носок подарок",
+        "праздничный носк на полке",
+        "рождест-носок подвешен",
+        "украшение носок"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "gift box wrapped with ribbon bow",
+        "christmas ornament ball on tree",
+        "santa claus hat red with white trim",
+        "candy cane striped holiday sweet",
+        "wreath green holiday door decoration",
+        "regular ankle sock clothing item"
+      ],
+      "ru": [
+        "подарочная коробка с лентой и бантом",
+        "рождественский шар на ёлке",
+        "шапка Санта-Клауса красная с белой отделкой",
+        "леденец полосатый праздничная конфета",
+        "венок зелёный праздничное украшение двери",
+        "обычный носок до щиколотки одежда"
+      ]
+    },
+    "valid": {
+      "en": [
+        "christmas stocking hung by fireplace",
+        "holiday stocking decoration",
+        "stocking full of gifts"
+      ],
+      "ru": [
+        "рождественский носок у камина",
+        "праздничное украшение носок",
+        "носок полный подарков"
+      ]
+    },
+    "test": {
+      "en": [
+        "xmas stocking icon",
+        "knitted christmas stocking",
+        "stocking stuffed with presents"
+      ],
+      "ru": [
+        "иконка рождественского носка",
+        "вязаный рождественский носок",
+        "носок с подарками"
+      ]
+    }
+  }
+}

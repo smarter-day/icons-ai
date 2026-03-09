@@ -1,0 +1,124 @@
+{
+  "icon": "rupiah-sign",
+  "rows": {
+    "train_en": 27,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "currency"
+      ],
+      "ru": [
+        "валюта"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Indonesian rupiah currency symbol",
+        "rupiah sign for Indonesian market"
+      ],
+      "ru": [
+        "символ индонезийской рупии",
+        "знак рупии для индонезийского рынка"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Indonesian rupiah symbol Rp in text",
+        "price shown in Indonesian rupiah",
+        "rupiah sign in e-commerce for Indonesian market",
+        "exchange rate from USD to IDR rupiah",
+        "payment in rupiah at Indonesian checkout",
+        "salary listed in Indonesian rupiah",
+        "rupiah symbol on bank transaction screen",
+        "currency converter showing IDR rupiah",
+        "budget in Indonesian rupiah for travel",
+        "rupiah currency sign on store price tag"
+      ],
+      "ru": [
+        "символ индонезийской рупии Rp в тексте",
+        "цена в индонезийских рупиях",
+        "знак рупии в электронной торговле для Индонезии",
+        "обменный курс USD/IDR рупия",
+        "оплата в рупиях на индонезийской кассе",
+        "зарплата в индонезийских рупиях",
+        "символ рупии на экране банковской транзакции",
+        "конвертер валют показывает IDR рупию",
+        "бюджет в индонезийских рупиях для путешествия",
+        "знак индонезийской рупии на ценнике магазина"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a rupiah sign icon for Indonesian pricing",
+        "add a rupiah symbol to the currency picker",
+        "show a rupiah sign for IDR price display",
+        "use the rupiah icon for Indonesian payments"
+      ],
+      "ru": [
+        "мне нужна иконка знака рупии для цен в Индонезии",
+        "добавь символ рупии в выбор валюты",
+        "покажи знак рупии для отображения цены в IDR",
+        "используй иконку рупии для индонезийских платежей"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Indonisian rupiah currency symbol",
+        "rupiah sgin for Indonesian market",
+        "exchnage rate USD to IDR rupiah",
+        "paymnet in Indonesian rupiah"
+      ],
+      "ru": [
+        "символ индонезийокй рупии",
+        "знак рупии для индонезийсокго рынка",
+        "обменный курс USD/IDR рупих",
+        "оплата в индонезийских рупияхе"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Indian rupee sign currency symbol INR",
+        "dollar sign currency symbol for USD",
+        "euro sign symbol for European currency",
+        "ruble sign symbol for Russian currency",
+        "yen sign for Japanese currency JPY",
+        "generic currency coin with dollar symbol"
+      ],
+      "ru": [
+        "символ индийской рупии INR",
+        "символ доллара для валюты США",
+        "знак евро для европейской валюты",
+        "знак рубля для российской валюты",
+        "знак иены для японской валюты JPY",
+        "монета общей валюты с символом доллара"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Indonesian rupiah currency sign",
+        "rupiah symbol for IDR pricing",
+        "currency icon for Indonesian rupiah"
+      ],
+      "ru": [
+        "знак индонезийской рупии",
+        "символ рупии для цен в IDR",
+        "иконка валюты индонезийская рупия"
+      ]
+    },
+    "test": {
+      "en": [
+        "rupiah sign for Indonesian currency",
+        "price in Indonesian rupiah IDR",
+        "rupiah symbol in currency selector"
+      ],
+      "ru": [
+        "знак рупии для индонезийской валюты",
+        "цена в индонезийских рупиях IDR",
+        "символ рупии в выборе валюты"
+      ]
+    }
+  }
+}

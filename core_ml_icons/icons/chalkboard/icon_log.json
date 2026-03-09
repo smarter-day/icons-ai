@@ -1,0 +1,154 @@
+{
+  "icon": "chalkboard",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "blackboard",
+        "learning",
+        "school",
+        "teaching",
+        "whiteboard",
+        "writing"
+      ],
+      "ru": [
+        "классная доска",
+        "обучение",
+        "школа",
+        "преподавание",
+        "доска",
+        "написание"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Write today's lesson on the blackboard",
+        "Erase the blackboard after class",
+        "Learning session scheduled for the group",
+        "Learning new skills at the workshop",
+        "School classroom chalkboard setup",
+        "Decorate the school classroom board",
+        "Teaching presentation on the board",
+        "Teaching kids with the chalkboard",
+        "Whiteboard session for the brainstorm",
+        "Clean the whiteboard before the meeting",
+        "Writing the agenda on the board",
+        "Writing notes on the chalkboard"
+      ],
+      "ru": [
+        "Написать урок дня на доске",
+        "Стереть с доски после урока",
+        "Учебная сессия для группы",
+        "Обучение новым навыкам на воркшопе",
+        "Настройка классной доски",
+        "Украсить классную доску",
+        "Презентация на доске",
+        "Обучать детей с помощью доски",
+        "Сессия на доске для брейнсторма",
+        "Почистить доску перед встречей",
+        "Написать повестку на доске",
+        "Записывать заметки на доске"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Brainstorm ideas on the whiteboard",
+        "Chalk drawing for the art class",
+        "Lesson plan written on the board",
+        "Classroom chalkboard needs cleaning",
+        "Draw the diagram on the board",
+        "Update the whiteboard for the sprint",
+        "Chalkboard menu for the restaurant",
+        "Write the schedule on the board",
+        "Team brainstorm on the whiteboard",
+        "Lecture notes on the classroom board"
+      ],
+      "ru": [
+        "Брейнсторм идей на доске",
+        "Рисование мелом для урока искусства",
+        "План урока написан на доске",
+        "Классную доску нужно почистить",
+        "Нарисовать диаграмму на доске",
+        "Обновить доску для спринта",
+        "Доска-меню для ресторана",
+        "Написать расписание на доске",
+        "Командный брейнсторм на доске",
+        "Конспект лекции на классной доске"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "got it all up on the whiteboard",
+        "drawing on the chalkboard like a kid",
+        "update the board before the meeting",
+        "whiteboard has everything we need"
+      ],
+      "ru": [
+        "всё написал на доске",
+        "рисую на доске как ребёнок",
+        "обновить доску перед встречей",
+        "на доске всё что нам нужно"
+      ]
+    },
+    "typo": {
+      "en": [
+        "whtieboard session for the brainstrom",
+        "chalckboard menu for the restrant",
+        "class room board needs cleanning",
+        "wrtie the scheduel on the bord"
+      ],
+      "ru": [
+        "доска для сессии брейнсторма",
+        "доска-меню для ресторна",
+        "классную доску нужно почиситть",
+        "написать расписание на дсоке"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Projector screen for the presentation",
+        "Sticky notes on the wall for ideas",
+        "Notebook for the lecture notes",
+        "Digital slide deck for the class",
+        "Flip chart paper for the workshop",
+        "Poster board for the project display"
+      ],
+      "ru": [
+        "Экран проектора для презентации",
+        "Стикеры на стене для идей",
+        "Тетрадь для конспекта лекции",
+        "Цифровая презентация для урока",
+        "Бумага для флипчарта на воркшопе",
+        "Стенд с плакатом для проекта"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Whiteboard session for the team brainstorm",
+        "Write the lesson plan on the board",
+        "Chalkboard menu for the new cafe"
+      ],
+      "ru": [
+        "Сессия у доски для командного брейнсторма",
+        "Написать план урока на доске",
+        "Доска-меню для нового кафе"
+      ]
+    },
+    "test": {
+      "en": [
+        "Update the board before the sprint",
+        "Clean the chalkboard after class",
+        "Draw the diagram on the whiteboard"
+      ],
+      "ru": [
+        "Обновить доску перед спринтом",
+        "Стереть с доски после урока",
+        "Нарисовать диаграмму на доске"
+      ]
+    }
+  }
+}

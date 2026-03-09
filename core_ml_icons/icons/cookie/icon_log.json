@@ -1,0 +1,99 @@
+{
+  "icon": "cookie",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "baked good",
+        "chips",
+        "chocolate",
+        "cookie",
+        "dessert",
+        "eat",
+        "snack",
+        "sweet",
+        "treat"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Bake a batch of baked goods",
+        "Buy baked goods at the store",
+        "Add chocolate chips to the dough",
+        "Chocolate chips for baking",
+        "Melt chocolate for the cookies",
+        "Make chocolate chip cookies",
+        "Bake homemade cookies",
+        "Buy cookies from the bakery",
+        "Make a dessert for the party",
+        "Pick a dessert from the menu",
+        "Eat cookies after dinner",
+        "Eat a snack between meals",
+        "Grab a snack from the pantry",
+        "Have a snack before the movie",
+        "Satisfy the sweet tooth",
+        "Make something sweet today",
+        "Give a treat to the kids",
+        "Get a treat from the bakery"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Bake chocolate chip cookies",
+        "Make cookies for the school bake sale",
+        "Buy cookies at the grocery store",
+        "Decorate cookies for the holidays",
+        "Try a new cookie recipe",
+        "Pack cookies for the road trip",
+        "Give cookies as a gift",
+        "Make peanut butter cookies",
+        "Bake snickerdoodles",
+        "Grab a cookie with coffee"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Cookie time!",
+        "Bake some cookies",
+        "Need a sweet snack",
+        "Grab a cookie"
+      ]
+    },
+    "typo": {
+      "en": [
+        "bake choclate chip cooikes",
+        "cokie recipe",
+        "buy cooikes at the store",
+        "make dessetr cookies"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Eat a cookie with a bite taken out",
+        "Bake a birthday cake",
+        "Make a brownie from scratch",
+        "Buy a cupcake at the bakery",
+        "Make muffins for breakfast",
+        "Bake a pie for dessert"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Bake homemade cookies",
+        "Buy cookies as a snack",
+        "Make chocolate chip cookies"
+      ]
+    },
+    "test": {
+      "en": [
+        "Grab a cookie for dessert",
+        "Bake cookies for the holidays",
+        "Pack cookies for a snack"
+      ]
+    }
+  }
+}

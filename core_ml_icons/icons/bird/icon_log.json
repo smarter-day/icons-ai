@@ -1,0 +1,154 @@
+{
+  "icon": "bird",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "avian",
+        "bird",
+        "feather",
+        "fowl",
+        "tweet",
+        "wing"
+      ],
+      "ru": [
+        "птичий",
+        "птица",
+        "перо",
+        "домашняя птица",
+        "твит",
+        "крыло"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "avian flu report",
+        "go bird watching",
+        "find a feather on the trail",
+        "cook the fowl for dinner",
+        "tweet about the event",
+        "study bird wing anatomy",
+        "Avian species photo collection",
+        "Bird feeder refill this morning",
+        "Feather craft project for the kids",
+        "Roast fowl recipe for Sunday dinner",
+        "Tweet scheduled for the product launch",
+        "Wing sauce for the game day"
+      ],
+      "ru": [
+        "птичий грипп — новости",
+        "понаблюдать за птицами",
+        "найти перо на тропе",
+        "приготовить домашнюю птицу на ужин",
+        "написать твит о событии",
+        "изучить анатомию крыла птицы",
+        "Коллекция фотографий птичьих видов",
+        "Пополнить кормушку для птиц утром",
+        "Поделки из перьев для детей",
+        "Рецепт запечённой птицы на воскресенье",
+        "Твит запланирован на день запуска",
+        "Острый соус к крылышкам на день игры"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Go bird watching in the park",
+        "Feed the birds in the garden",
+        "Set up a bird feeder",
+        "Identify birds on the trail",
+        "Bird watching tour at sunrise",
+        "Build a birdhouse",
+        "Watch migratory birds this season",
+        "Take photos of rare birds",
+        "Bird sanctuary visit",
+        "Join a bird watching club"
+      ],
+      "ru": [
+        "Наблюдать за птицами в парке",
+        "Кормить птиц в саду",
+        "Установить кормушку для птиц",
+        "Определять птиц на тропе",
+        "Экскурсия по наблюдению за птицами на рассвете",
+        "Построить скворечник",
+        "Наблюдать за перелётными птицами в этом сезоне",
+        "Фотографировать редких птиц",
+        "Посещение птичьего заповедника",
+        "Вступить в клуб наблюдателей за птицами"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I love watching birds in the morning",
+        "There's a cool bird in the garden",
+        "Let's go bird watching this weekend",
+        "That bird has been singing all morning"
+      ],
+      "ru": [
+        "Люблю наблюдать за птицами по утрам",
+        "В саду появилась необычная птица",
+        "Давай понаблюдаем за птицами в эти выходные",
+        "Эта птица поёт всё утро"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Bird wathing in the park",
+        "Fedde the birsd in the garden",
+        "Set up a brid feeder",
+        "Idenify bids on the trale"
+      ],
+      "ru": [
+        "Наблюдение за птцами в парке",
+        "Кормить прдиц в саду",
+        "Установть кормушку для птиц",
+        "Опредлять птиц на тропе"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Bat watching at dusk",
+        "Dragonfly near the pond",
+        "Butterfly watching",
+        "Feed the ducks at the pond",
+        "Squirrel in the garden",
+        "Cat spotting in the neighborhood"
+      ],
+      "ru": [
+        "Наблюдение за летучими мышами в сумерках",
+        "Стрекоза у пруда",
+        "Наблюдение за бабочками",
+        "Кормить уток у пруда",
+        "Белка в саду",
+        "Кот в округе"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Bird watching tour at the nature reserve",
+        "Set up a bird feeder in the garden",
+        "Spot migratory birds this season"
+      ],
+      "ru": [
+        "Экскурсия по наблюдению за птицами в заповеднике",
+        "Установить кормушку для птиц в саду",
+        "Наблюдать за перелётными птицами в этом сезоне"
+      ]
+    },
+    "test": {
+      "en": [
+        "Early morning bird watch",
+        "Build a birdhouse for the garden",
+        "Bird sanctuary visit this weekend"
+      ],
+      "ru": [
+        "Утреннее наблюдение за птицами",
+        "Построить скворечник для сада",
+        "Посещение птичьего заповедника в эти выходные"
+      ]
+    }
+  }
+}

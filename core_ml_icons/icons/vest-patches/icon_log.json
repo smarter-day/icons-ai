@@ -1,0 +1,136 @@
+{
+  "icon": "vest-patches",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "biker",
+        "fashion",
+        "style"
+      ],
+      "ru": [
+        "байкер",
+        "мода",
+        "стиль"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "biker vest with patches leather",
+        "biker patches on denim vest",
+        "fashion vest with patches trendy",
+        "patches on fashion vest",
+        "style vest patches design",
+        "style statement vest patches"
+      ],
+      "ru": [
+        "кожаный жилет байкера с нашивками",
+        "нашивки на джинсовом жилете байкера",
+        "модный жилет с нашивками трендовый",
+        "нашивки на модном жилете",
+        "дизайн жилета с нашивками стиль",
+        "жилет с нашивками стильное заявление"
+      ]
+    },
+    "regular": {
+      "en": [
+        "denim vest covered in patches",
+        "biker club vest with chapter patch",
+        "vintage band patches on jacket vest",
+        "DIY patch work vest fashion",
+        "motorcycle club colors vest patches",
+        "scouting merit badge vest",
+        "custom embroidered patch on vest",
+        "music festival vest with patches",
+        "thrift store patch vest unique",
+        "varsity jacket patches school spirit"
+      ],
+      "ru": [
+        "джинсовый жилет покрытый нашивками",
+        "жилет байкерского клуба нашивка отделения",
+        "старинные нашивки группы на жилете",
+        "DIY лоскутный жилет мода",
+        "цвета мотоциклетного клуба жилет нашивки",
+        "скаутский жилет с нашивками заслуг",
+        "вышитая нашивка на жилете",
+        "жилет с нашивками музыкального фестиваля",
+        "уникальный жилет с нашивками из секонд-хенда",
+        "нашивки спортивного пиджака школьный дух"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a vest-patches icon for the fashion section",
+        "add a biker vest symbol to the style category",
+        "show a patched vest for the clothing feature",
+        "use the vest-patches icon for the custom clothing"
+      ],
+      "ru": [
+        "нужна иконка жилета с нашивками для раздела моды",
+        "добавь символ байкерского жилета в категорию стиля",
+        "покажи жилет с нашивками для функции одежды",
+        "используй иконку жилета с нашивками для кастомной одежды"
+      ]
+    },
+    "typo": {
+      "en": [
+        "bkier vest patches",
+        "fashoin vest patches",
+        "styel vest biker",
+        "patcches on vest"
+      ],
+      "ru": [
+        "жилет байкера нашивки",
+        "модный жилет нашивки",
+        "стиль жилет байкер",
+        "нашивки на жилете"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "t-shirt plain clothing garment",
+        "jacket coat outerwear",
+        "denim jeans pants clothing",
+        "badge pin button accessory",
+        "sew needle thread craft",
+        "uniform professional work dress"
+      ],
+      "ru": [
+        "простая футболка одежда",
+        "куртка пальто верхняя одежда",
+        "джинсы брюки одежда",
+        "значок булавка кнопка аксессуар",
+        "шить иголка нить рукоделие",
+        "форма профессиональная рабочая одежда"
+      ]
+    },
+    "valid": {
+      "en": [
+        "vest with patches icon",
+        "biker patches vest symbol",
+        "fashion patched vest"
+      ],
+      "ru": [
+        "иконка жилета с нашивками",
+        "символ байкерского жилета с нашивками",
+        "модный жилет с нашивками"
+      ]
+    },
+    "test": {
+      "en": [
+        "vest-patches icon",
+        "biker vest symbol",
+        "patch vest fashion"
+      ],
+      "ru": [
+        "иконка жилета с нашивками",
+        "символ байкерского жилета",
+        "модный жилет нашивки"
+      ]
+    }
+  }
+}

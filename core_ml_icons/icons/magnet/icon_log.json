@@ -1,0 +1,160 @@
+{
+  "icon": "magnet",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Attract",
+        "attraction",
+        "horseshoe",
+        "lodestone",
+        "magnet",
+        "magnetic",
+        "tool"
+      ],
+      "ru": [
+        "притяжение",
+        "притягивать",
+        "подкова",
+        "магнетит",
+        "магнит",
+        "магнитный",
+        "инструмент"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "attract metal objects with magnet",
+        "attract iron filings experiment",
+        "magnetic attraction between poles",
+        "law of attraction physics",
+        "classic horseshoe magnet red and blue",
+        "horseshoe magnet in science class",
+        "lodestone natural magnetic mineral",
+        "lodestone found in nature",
+        "magnet sticking to refrigerator",
+        "bar magnet with poles",
+        "magnetic field lines experiment",
+        "magnetic field strength indicator",
+        "tool for picking up metal pieces",
+        "handheld tool with magnetic tip"
+      ],
+      "ru": [
+        "притягивать металлические предметы магнитом",
+        "притягивать железные опилки в эксперименте",
+        "магнитное притяжение между полюсами",
+        "закон притяжения в физике",
+        "классический магнит-подкова красный и синий",
+        "магнит-подкова на уроке физики",
+        "магнетит природный магнитный минерал",
+        "магнетит найденный в природе",
+        "магнит прилипающий к холодильнику",
+        "полосовой магнит с полюсами",
+        "линии магнитного поля в эксперименте",
+        "индикатор силы магнитного поля",
+        "инструмент для подбирания металлических деталей",
+        "ручной инструмент с магнитным наконечником"
+      ]
+    },
+    "regular": {
+      "en": [
+        "horseshoe magnet with red north and blue south poles",
+        "U-shaped permanent magnet for physics experiments",
+        "magnet attracting iron nails and clips",
+        "fridge magnet holding a note",
+        "industrial lifting magnet for scrap metal",
+        "electromagnetic crane magnet",
+        "magnet symbol in UI for attract or pull feature",
+        "neodymium magnet strong permanent magnet",
+        "bar magnet showing field lines around it",
+        "science classroom magnet demonstration"
+      ],
+      "ru": [
+        "магнит-подкова с красным северным и синим южным полюсами",
+        "U-образный постоянный магнит для экспериментов по физике",
+        "магнит притягивающий гвозди и скрепки",
+        "магнит на холодильник удерживающий записку",
+        "промышленный подъёмный магнит для металлолома",
+        "электромагнитный кран-магнит",
+        "символ магнита в интерфейсе для функции притяжения",
+        "неодимовый магнит сильный постоянный",
+        "полосовой магнит с линиями поля вокруг",
+        "демонстрация магнита на уроке физики"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a magnet icon for the attract feature",
+        "add a horseshoe magnet symbol to the physics section",
+        "show a magnet for the magnetic tools category",
+        "use the magnet icon for the pull or attract action"
+      ],
+      "ru": [
+        "Мне нужна иконка магнита для функции притяжения",
+        "добавить символ магнита-подковы в раздел физики",
+        "показать магнит для категории магнитных инструментов",
+        "использовать иконку магнита для действия притяжения"
+      ]
+    },
+    "typo": {
+      "en": [
+        "magnit horseshoe",
+        "atraction magnet",
+        "horseshoe magnett",
+        "mangnet tool"
+      ],
+      "ru": [
+        "магниит подкова",
+        "притяжние магнит",
+        "магнтный инструмент",
+        "подкова магнет"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "compass needle pointing magnetic north",
+        "bar chart showing signal strength",
+        "metal detector wand for security check",
+        "wifi signal bars indicator",
+        "antenna broadcasting wireless signal",
+        "hook for hanging objects on wall"
+      ],
+      "ru": [
+        "стрелка компаса указывающая на магнитный север",
+        "столбчатая диаграмма показывающая уровень сигнала",
+        "металлодетектор для проверки безопасности",
+        "индикатор полосок WiFi сигнала",
+        "антенна транслирующая беспроводной сигнал",
+        "крючок для подвешивания предметов на стену"
+      ]
+    },
+    "valid": {
+      "en": [
+        "horseshoe magnet attracting metal",
+        "magnet icon for physics tool",
+        "magnetic force attraction symbol"
+      ],
+      "ru": [
+        "магнит-подкова притягивающий металл",
+        "иконка магнита для физического инструмента",
+        "символ магнитного притяжения"
+      ]
+    },
+    "test": {
+      "en": [
+        "horseshoe magnet red and blue poles",
+        "permanent magnet tool",
+        "magnetic attraction icon"
+      ],
+      "ru": [
+        "магнит-подкова красный и синий полюсы",
+        "постоянный магнитный инструмент",
+        "иконка магнитного притяжения"
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "icon": "elevator",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "elevator",
+        "hoist",
+        "lift"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Take the elevator to the office",
+        "Wait for the elevator",
+        "Use the hoist to lift the equipment",
+        "Hoist supplies to the upper floor",
+        "Use the lift instead of stairs",
+        "Call the lift on this floor"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Take the elevator to the top floor",
+        "Hold the elevator for someone",
+        "Press the floor button in the elevator",
+        "Use the elevator with the stroller",
+        "Report the broken elevator",
+        "Wait for the elevator at work",
+        "Use the service elevator",
+        "Take the lift to the parking level",
+        "Check if the elevator is accessible",
+        "Use the freight elevator for moving"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Take the elevator",
+        "Lift is broken",
+        "Going up",
+        "Hold the elevator!"
+      ]
+    },
+    "typo": {
+      "en": [
+        "take the elavator",
+        "wiat for the lift",
+        "use the elevatr",
+        "pres the floor buton"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Take the stairs for exercise",
+        "Use the escalator to go up",
+        "Climb the steps to the office",
+        "Use the ramp for accessibility",
+        "Go up on the moving walkway",
+        "Use the fire exit stairwell"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Take the elevator to the office",
+        "Hold the elevator for someone",
+        "Use the lift instead of stairs"
+      ]
+    },
+    "test": {
+      "en": [
+        "Press the floor button in the elevator",
+        "Report the broken elevator",
+        "Use the elevator with heavy luggage"
+      ]
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "icon": "turtle",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cowabunga",
+        "donatello",
+        "fauna",
+        "leonardo",
+        "michaelangelo",
+        "raphael",
+        "reptile",
+        "shell",
+        "slow",
+        "terrapin",
+        "tortoise",
+        "turtle"
+      ],
+      "ru": [
+        "ковабунга",
+        "Донателло",
+        "фауна",
+        "Леонардо",
+        "Микеланджело",
+        "Рафаэль",
+        "рептилия",
+        "панцирь",
+        "медленный",
+        "черепаха-пресноводная",
+        "черепаха",
+        "черепаха"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cowabunga turtle ninja catch phrase",
+        "ninja turtle cowabunga yell",
+        "Donatello purple ninja turtle",
+        "Donatello TMNT bo staff",
+        "wildlife fauna turtle species",
+        "sea fauna turtle ocean",
+        "Leonardo blue ninja turtle leader",
+        "Leonardo TMNT katana",
+        "Michelangelo orange turtle pizza",
+        "Michaelangelo TMNT nunchucks",
+        "Raphael red ninja turtle sai",
+        "Raphael TMNT attitude",
+        "reptile turtle cold blooded",
+        "reptile family turtle species",
+        "turtle shell pattern hexagon",
+        "hard shell turtle protection",
+        "slow turtle metaphor patience",
+        "turtle slow pace racing hare",
+        "terrapin freshwater turtle",
+        "terrapin pond habitat",
+        "tortoise land turtle slow",
+        "tortoise Galapagos giant",
+        "sea turtle ocean swimming",
+        "green sea turtle reef"
+      ],
+      "ru": [
+        "ковабунга черепаха ниндзя кричит",
+        "ниндзя-черепаха ковабунга",
+        "Донателло фиолетовая черепаха ниндзя",
+        "Донателло ТМNT посох",
+        "дикая природа фауна черепаха",
+        "морская фауна черепаха океан",
+        "Леонардо синяя черепаха лидер",
+        "Леонардо катана",
+        "Микеланджело оранжевая черепаха пицца",
+        "Микеланджело ТМНТ нунчаки",
+        "Рафаэль красная черепаха ниндзя",
+        "Рафаэль ТМНТ характер",
+        "рептилия черепаха хладнокровная",
+        "семейство рептилий черепаха",
+        "узор панциря шестиугольник",
+        "прочный панцирь защита черепахи",
+        "медленная черепаха метафора терпения",
+        "медленный темп черепахи гонка с зайцем",
+        "пресноводная черепаха террапин",
+        "среда обитания пруд террапин",
+        "наземная черепаха медленная",
+        "черепаха Галапагос гигантская",
+        "морская черепаха плывёт в океане",
+        "зелёная морская черепаха риф"
+      ]
+    },
+    "regular": {
+      "en": [
+        "green sea turtle swimming in ocean",
+        "TMNT teenage mutant ninja turtle",
+        "tortoise walking slowly on land",
+        "turtle shell dome shaped pattern",
+        "baby turtle hatching from egg",
+        "turtle pond animal habitat",
+        "painted turtle sunning on log",
+        "sea turtle conservation protect",
+        "turtle mascot slow and steady",
+        "snapping turtle freshwater aggressive"
+      ],
+      "ru": [
+        "зелёная морская черепаха плывёт в океане",
+        "ТМНТ черепахи ниндзя мутанты",
+        "черепаха медленно идёт по суше",
+        "купол панциря черепахи узор",
+        "детёныш черепахи вылупляется из яйца",
+        "пруд с черепахой среда обитания",
+        "расписная черепаха греется на бревне",
+        "охрана морских черепах защита",
+        "маскот черепаха медленно и верно",
+        "кусачая черепаха пресноводная агрессивная"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a turtle icon for the animals section",
+        "add a turtle symbol to the slow pace category",
+        "show a turtle for the reptile wildlife feature",
+        "use the turtle icon for the patience metaphor"
+      ],
+      "ru": [
+        "нужна иконка черепахи для раздела животных",
+        "добавь символ черепахи в категорию медленного темпа",
+        "покажи черепаху для функции дикой природы рептилий",
+        "используй иконку черепахи для метафоры терпения"
+      ]
+    },
+    "typo": {
+      "en": [
+        "tutlre sea ocean",
+        "reptlie turtle shell",
+        "turtl ninja cowabunga",
+        "tortiose slow land"
+      ],
+      "ru": [
+        "морская черепаха океан",
+        "рептилия черепаха панцирь",
+        "черепаха ниндзя ковабунга",
+        "наземная черепаха медленная"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "snake reptile slithering",
+        "frog amphibian pond jump",
+        "alligator crocodile reptile jaw",
+        "fish aquatic swimming scales",
+        "lizard gecko reptile small",
+        "crab shell hard ocean"
+      ],
+      "ru": [
+        "змея рептилия ползёт",
+        "лягушка земноводное пруд прыжок",
+        "аллигатор крокодил рептилия челюсть",
+        "рыба водная плавание чешуя",
+        "ящерица геккон рептилия маленькая",
+        "краб твёрдый панцирь океан"
+      ]
+    },
+    "valid": {
+      "en": [
+        "turtle shell animal icon",
+        "sea turtle swimming symbol",
+        "TMNT ninja turtle"
+      ],
+      "ru": [
+        "иконка черепахи с панцирем",
+        "символ плывущей морской черепахи",
+        "ТМНТ черепаха ниндзя"
+      ]
+    },
+    "test": {
+      "en": [
+        "turtle icon animal",
+        "tortoise symbol slow",
+        "sea turtle reptile"
+      ],
+      "ru": [
+        "иконка черепахи животное",
+        "символ медленной черепахи",
+        "морская черепаха рептилия"
+      ]
+    }
+  }
+}

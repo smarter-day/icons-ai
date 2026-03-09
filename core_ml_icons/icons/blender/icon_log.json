@@ -1,0 +1,148 @@
+{
+  "icon": "blender",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cocktail",
+        "milkshake",
+        "mixer",
+        "puree",
+        "smoothie"
+      ],
+      "ru": [
+        "коктейль",
+        "молочный коктейль",
+        "миксер",
+        "пюре",
+        "смузи"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "blend cocktails for the party",
+        "make a milkshake",
+        "use the mixer for the soup",
+        "puree the vegetables",
+        "blend a smoothie for breakfast",
+        "Cocktail hour blender recipes to try",
+        "Chocolate milkshake for the kids",
+        "Stand mixer dough hook setup",
+        "Puree the soup for a smooth texture",
+        "Morning smoothie with berries and banana"
+      ],
+      "ru": [
+        "смешать коктейли для вечеринки",
+        "сделать молочный коктейль",
+        "использовать миксер для супа",
+        "сделать пюре из овощей",
+        "сделать смузи на завтрак",
+        "Рецепты коктейлей для блендера",
+        "Шоколадный молочный коктейль для детей",
+        "Насадка-крюк для теста у миксера",
+        "Пюрировать суп для однородной текстуры",
+        "Утренний смузи с ягодами и бананом"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Make a morning smoothie",
+        "Blend protein shake after workout",
+        "Puree vegetables for the soup",
+        "Clean the blender after use",
+        "Blend tropical smoothie",
+        "Make a banana milkshake",
+        "Add fruit to the blender",
+        "Batch blend smoothies for the week",
+        "Blend frozen fruit smoothie",
+        "Make a green smoothie"
+      ],
+      "ru": [
+        "Сделать утренний смузи",
+        "Смешать протеиновый коктейль после тренировки",
+        "Сделать пюре из овощей для супа",
+        "Помыть блендер после использования",
+        "Сделать тропический смузи",
+        "Приготовить банановый молочный коктейль",
+        "Добавить фрукты в блендер",
+        "Сделать смузи на неделю заранее",
+        "Смузи из замороженных фруктов",
+        "Сделать зелёный смузи"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I'm going to make a smoothie — want one?",
+        "Blending some veggies for the soup",
+        "The blender is so loud in the morning",
+        "Let's make smoothies before the gym"
+      ],
+      "ru": [
+        "Сделаю смузи — тебе тоже?",
+        "Смешиваю овощи для супа",
+        "Блендер такой громкий по утрам",
+        "Давай сделаем смузи перед спортзалом"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Make a mornng smoothy",
+        "Blend protien shake",
+        "Puure the vegettables",
+        "Make a banan milkshake"
+      ],
+      "ru": [
+        "Сделать утрений смузи",
+        "Смешть протеновый коктейль",
+        "Пюрировтаь овощщи",
+        "Приготовить бананновый молочный коктейль"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Mix a cocktail by hand",
+        "Juice the oranges",
+        "Stir the soup on the stove",
+        "Make coffee in the morning",
+        "Use the food processor",
+        "Whisk the eggs"
+      ],
+      "ru": [
+        "Смешать коктейль вручную",
+        "Выжать апельсиновый сок",
+        "Перемешать суп на плите",
+        "Приготовить утренний кофе",
+        "Использовать кухонный комбайн",
+        "Взбить яйца"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Morning smoothie before work",
+        "Blend protein shake after gym",
+        "Puree soup in the blender"
+      ],
+      "ru": [
+        "Утренний смузи перед работой",
+        "Протеиновый коктейль после тренировки",
+        "Пюрировать суп в блендере"
+      ]
+    },
+    "test": {
+      "en": [
+        "Smoothie batch for the week",
+        "Banana milkshake for dessert",
+        "Blend vegetables for the meal"
+      ],
+      "ru": [
+        "Смузи на неделю",
+        "Банановый коктейль на десерт",
+        "Смешать овощи для блюда"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "icon": "grill",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "barbecue",
+        "bbq",
+        "burger",
+        "charcoal",
+        "cook",
+        "cookout",
+        "hot",
+        "smoke"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Host a backyard barbecue",
+        "Buy a new barbecue grill",
+        "Organize a summer BBQ party",
+        "Invite friends to the BBQ",
+        "Grill burgers for the cookout",
+        "Make smash burgers on the grill",
+        "Light the charcoal grill",
+        "Use charcoal for the BBQ",
+        "Cook steaks on the grill",
+        "Cook chicken on the grill",
+        "Plan a cookout for the weekend",
+        "Get supplies for the cookout",
+        "Stay safe around the hot grill",
+        "Don't touch the hot grill",
+        "Add wood chips for smoke flavor",
+        "Smoke ribs on the grill"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Host a BBQ party",
+        "Grill burgers for the family",
+        "Light the charcoal grill",
+        "Marinate the meat before grilling",
+        "Buy propane for the grill",
+        "Clean the grill grates",
+        "Grill vegetables as a side",
+        "Cook ribs on the smoker grill",
+        "Invite neighbors to the cookout",
+        "Grill corn on the cob"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "BBQ time!",
+        "Fire up the grill",
+        "Cookout today",
+        "Grill master"
+      ]
+    },
+    "typo": {
+      "en": [
+        "host a backyard barbeque",
+        "gril burgers for famiy",
+        "lgiht the charcaol grill",
+        "clena the grill graets"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Bake a chicken in the oven",
+        "Cook burgers in the pan",
+        "Use a slow cooker for the ribs",
+        "Fry food on the stovetop",
+        "Roast vegetables in the oven",
+        "Use an air fryer for chicken"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Host a BBQ party",
+        "Grill burgers for the family",
+        "Light the charcoal grill"
+      ]
+    },
+    "test": {
+      "en": [
+        "Marinate the meat before grilling",
+        "Clean the grill grates",
+        "Cook ribs on the smoker"
+      ]
+    }
+  }
+}

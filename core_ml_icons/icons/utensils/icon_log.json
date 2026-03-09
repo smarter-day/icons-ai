@@ -1,0 +1,178 @@
+{
+  "icon": "utensils",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cooking",
+        "cutlery",
+        "dining",
+        "dinner",
+        "eat",
+        "food",
+        "fork",
+        "fork and knife",
+        "knife",
+        "restaurant"
+      ],
+      "ru": [
+        "готовка",
+        "столовые приборы",
+        "обед",
+        "ужин",
+        "есть",
+        "еда",
+        "вилка",
+        "вилка и нож",
+        "нож",
+        "ресторан"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cooking utensils set kitchen",
+        "cooking tools fork knife",
+        "cutlery set fork knife spoon",
+        "cutlery drawer kitchen",
+        "dining utensils table setting",
+        "dining room cutlery place",
+        "dinner utensils formal setting",
+        "dinner fork and knife",
+        "eat with fork and knife",
+        "utensils eat meal",
+        "food utensils serving tools",
+        "food fork knife pair",
+        "fork utensil tine prong",
+        "fork silver dining",
+        "fork and knife crossed icon",
+        "fork and knife meal icon",
+        "knife sharp blade utensil",
+        "dinner knife butter",
+        "restaurant utensils table set",
+        "restaurant cutlery set"
+      ],
+      "ru": [
+        "кухонный набор приборов готовка",
+        "кухонные инструменты вилка нож",
+        "набор столовых приборов вилка нож ложка",
+        "ящик столовых приборов кухня",
+        "столовые приборы сервировка стола",
+        "место для столовых приборов обеденный зал",
+        "формальная сервировка ужина приборы",
+        "вилка и нож для ужина",
+        "есть вилкой и ножом",
+        "приборы для приёма пищи",
+        "приборы подачи еды инструменты",
+        "пара вилки и ножа для еды",
+        "вилка зубья столовый прибор",
+        "серебряная вилка обеденная",
+        "скрещённые вилка и нож иконка",
+        "иконка вилки и ножа блюдо",
+        "острый нож лезвие столовый прибор",
+        "нож для масла ужин",
+        "набор столовых приборов ресторана",
+        "ресторанный набор столовых приборов"
+      ]
+    },
+    "regular": {
+      "en": [
+        "fork and knife crossed restaurant icon",
+        "silver cutlery set formal dinner",
+        "dining utensils table place setting",
+        "restaurant menu utensils symbol",
+        "food app icon fork and knife",
+        "camping utensil kit fork knife spoon",
+        "disposable plastic utensils picnic",
+        "kids meal utensils colorful",
+        "chopsticks alternative utensils",
+        "utensil holder on kitchen counter"
+      ],
+      "ru": [
+        "скрещённые вилка и нож иконка ресторана",
+        "серебряный набор столовых приборов формальный ужин",
+        "столовые приборы сервировка обеденного места",
+        "символ столовых приборов меню ресторана",
+        "иконка приложения еды вилка и нож",
+        "походный набор вилка нож ложка",
+        "одноразовые пластиковые приборы пикник",
+        "разноцветные приборы детского питания",
+        "палочки для еды альтернативные приборы",
+        "держатель приборов на кухонном столе"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a utensils icon for the restaurant section",
+        "add a fork and knife symbol to the dining feature",
+        "show utensils for the food category",
+        "use the utensils icon for the meal planner"
+      ],
+      "ru": [
+        "нужна иконка столовых приборов для ресторанного раздела",
+        "добавь символ вилки и ножа к функции обеда",
+        "покажи столовые приборы для категории еды",
+        "используй иконку приборов для планировщика питания"
+      ]
+    },
+    "typo": {
+      "en": [
+        "fork anf knife icon",
+        "retsaurant utensils",
+        "dinning fork knife",
+        "cutlrey set table"
+      ],
+      "ru": [
+        "вилка и нож иконка",
+        "ресторан столовые приборы",
+        "вилка нож обед",
+        "набор столовых приборов стол"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "spoon single utensil",
+        "chopsticks Asian dining utensil",
+        "plate dish empty circle",
+        "kitchen tools spatula whisk",
+        "cooking pot pan utensil",
+        "tray food serving cafeteria"
+      ],
+      "ru": [
+        "ложка одиночный столовый прибор",
+        "палочки азиатский столовый прибор",
+        "тарелка блюдо пустой круг",
+        "кухонные инструменты лопатка венчик",
+        "кастрюля сковорода кухонный инструмент",
+        "поднос сервировка еды столовая"
+      ]
+    },
+    "valid": {
+      "en": [
+        "utensils fork knife icon",
+        "dining cutlery symbol",
+        "restaurant utensils"
+      ],
+      "ru": [
+        "иконка столовых приборов вилка нож",
+        "символ обеденных приборов",
+        "ресторанные столовые приборы"
+      ]
+    },
+    "test": {
+      "en": [
+        "utensils icon",
+        "fork and knife symbol",
+        "dining utensils"
+      ],
+      "ru": [
+        "иконка столовых приборов",
+        "символ вилки и ножа",
+        "обеденные приборы"
+      ]
+    }
+  }
+}

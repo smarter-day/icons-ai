@@ -1,0 +1,148 @@
+{
+  "icon": "slider",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "adjust",
+        "configuration",
+        "modify",
+        "settings",
+        "toggle"
+      ],
+      "ru": [
+        "регулировать",
+        "конфигурация",
+        "изменить",
+        "настройки",
+        "переключатель"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "adjust volume with slider control",
+        "adjust brightness using slider",
+        "configuration slider for app settings",
+        "configuration panel with slider input",
+        "modify value by dragging slider",
+        "modify parameter with horizontal slider",
+        "settings slider for audio preferences",
+        "settings panel with range slider",
+        "toggle slider on or off",
+        "on-off toggle slider button"
+      ],
+      "ru": [
+        "регулировать громкость ползунком",
+        "регулировать яркость ползунком",
+        "ползунок конфигурации в настройках приложения",
+        "панель конфигурации с вводом ползунка",
+        "изменить значение перетаскиванием ползунка",
+        "изменить параметр горизонтальным ползунком",
+        "ползунок настроек для аудиопредпочтений",
+        "панель настроек с диапазонным ползунком",
+        "переключить ползунок вкл или выкл",
+        "кнопка-переключатель вкл/выкл"
+      ]
+    },
+    "regular": {
+      "en": [
+        "horizontal slider bar with draggable handle",
+        "volume slider in audio settings",
+        "brightness slider in display settings",
+        "price range slider on shopping site",
+        "slider control for equalizer settings",
+        "slider input in form for numeric value",
+        "range slider selecting minimum and maximum",
+        "custom slider component in UI design",
+        "slider thumb dragged to increase value",
+        "filter slider for search results"
+      ],
+      "ru": [
+        "горизонтальная полоса ползунка с перетаскиваемой ручкой",
+        "ползунок громкости в настройках звука",
+        "ползунок яркости в настройках дисплея",
+        "ползунок ценового диапазона на сайте покупок",
+        "ползунок эквалайзера",
+        "ползунок в форме для числового значения",
+        "диапазонный ползунок выбора мин и макс",
+        "пользовательский компонент ползунка в UI-дизайне",
+        "ручка ползунка для увеличения значения",
+        "ползунок фильтрации результатов поиска"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a slider icon for the settings screen",
+        "add a slider control to the audio settings panel",
+        "show a slider for the brightness adjustment feature",
+        "use the slider icon for the range input component"
+      ],
+      "ru": [
+        "мне нужна иконка ползунка для экрана настроек",
+        "добавь ползунок на панель аудионастроек",
+        "покажи ползунок для функции регулировки яркости",
+        "используй иконку ползунка для компонента ввода диапазона"
+      ]
+    },
+    "typo": {
+      "en": [
+        "hoizontal slider bar with draggable handle",
+        "volumne slider in audio settings",
+        "pricre range slider on shopping site",
+        "raneg slider for minimum and maximum"
+      ],
+      "ru": [
+        "горизонтальная полоса плозунка с ручкой",
+        "ползунок гормкости в настройках",
+        "ползунок цнеового диапазона",
+        "диапазонный плозунок для мин и макс"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "toggle switch on-off button",
+        "scrubber dot on media timeline",
+        "knob rotary dial for audio control",
+        "progress bar showing completion",
+        "checkbox checked or unchecked",
+        "radio button circular selection input"
+      ],
+      "ru": [
+        "переключатель кнопка вкл/выкл",
+        "точка ползунка на временной шкале медиа",
+        "поворотная ручка для управления звуком",
+        "полоса прогресса завершения",
+        "флажок отмечен или не отмечен",
+        "радиокнопка круглый выбор"
+      ]
+    },
+    "valid": {
+      "en": [
+        "horizontal slider for settings",
+        "volume slider draggable control",
+        "range slider for price filter"
+      ],
+      "ru": [
+        "горизонтальный ползунок для настроек",
+        "перетаскиваемый ползунок громкости",
+        "диапазонный ползунок для фильтра цен"
+      ]
+    },
+    "test": {
+      "en": [
+        "slider control in app settings",
+        "brightness adjustment slider",
+        "range input slider component"
+      ],
+      "ru": [
+        "ползунок управления в настройках",
+        "ползунок регулировки яркости",
+        "компонент ввода диапазона"
+      ]
+    }
+  }
+}

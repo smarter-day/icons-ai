@@ -1,0 +1,160 @@
+{
+  "icon": "turkey",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bird",
+        "chicken",
+        "meal",
+        "meat",
+        "poultry",
+        "seasonal",
+        "thanksgiving"
+      ],
+      "ru": [
+        "птица",
+        "курица",
+        "блюдо",
+        "мясо",
+        "птица-продукт",
+        "сезонный",
+        "День благодарения"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bird turkey roast whole",
+        "thanksgiving bird centerpiece",
+        "chicken alternative turkey meal",
+        "turkey versus chicken comparison",
+        "Thanksgiving meal turkey roast",
+        "holiday meal centerpiece turkey",
+        "turkey meat holiday dinner",
+        "sliced turkey meat sandwich",
+        "poultry turkey farm raised",
+        "poultry selection turkey choice",
+        "seasonal turkey holiday autumn",
+        "seasonal fall turkey dish",
+        "thanksgiving turkey feast family",
+        "thanksgiving turkey table centerpiece"
+      ],
+      "ru": [
+        "птица индейка жаркое целое",
+        "птица на День благодарения центральное блюдо",
+        "замена курицы индейкой блюдо",
+        "индейка против курицы сравнение",
+        "жаркое из индейки на День благодарения",
+        "праздничное блюдо центральное индейка",
+        "мясо индейки праздничный ужин",
+        "нарезанная индейка сэндвич",
+        "птицеводство индейка фермерская",
+        "выбор птицы индейка",
+        "сезонная индейка осенний праздник",
+        "осеннее блюдо из индейки",
+        "пир с индейкой День благодарения семья",
+        "индейка центральное блюдо стола"
+      ]
+    },
+    "regular": {
+      "en": [
+        "golden roasted whole turkey on platter",
+        "thanksgiving turkey with stuffing",
+        "turkey cartoon with fan tail feathers",
+        "turkey leg at state fair food",
+        "free range farm turkey",
+        "turkey brine overnight preparation",
+        "smoked turkey outdoor grill",
+        "turkey slice sandwich deli",
+        "turkey trot race thanksgiving morning",
+        "live turkey farm gobble sound"
+      ],
+      "ru": [
+        "золотистая жареная целая индейка на блюде",
+        "индейка на День благодарения с начинкой",
+        "мультяшная индейка с веером хвостовых перьев",
+        "ножка индейки на ярмарке",
+        "индейка свободного выгула с фермы",
+        "маринование индейки ночь подготовка",
+        "копчёная индейка на гриле на улице",
+        "нарезка индейки для сэндвича",
+        "бег Дня благодарения утро",
+        "живая индейка на ферме звук гоготания"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a turkey icon for the Thanksgiving section",
+        "add a poultry symbol to the holiday meal category",
+        "show a turkey for the seasonal food feature",
+        "use the turkey icon for the festive dinner planner"
+      ],
+      "ru": [
+        "нужна иконка индейки для раздела Дня благодарения",
+        "добавь символ птицы в категорию праздничных блюд",
+        "покажи индейку для сезонной функции еды",
+        "используй иконку индейки для планировщика праздничного ужина"
+      ]
+    },
+    "typo": {
+      "en": [
+        "thanskgiving turkey roast",
+        "trkey bird meal",
+        "holidya turkey dinner",
+        "poutlry turkey farm"
+      ],
+      "ru": [
+        "День благодарения индейка жаркое",
+        "индейка птица блюдо",
+        "праздничный ужин индейка",
+        "птицеводство индейка ферма"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "chicken whole roasted poultry",
+        "duck roasted holiday bird",
+        "ham leg holiday dinner meat",
+        "roast beef holiday centerpiece",
+        "goose Christmas bird roast",
+        "quail small game bird"
+      ],
+      "ru": [
+        "курица целая жареная птица",
+        "утка жареная праздничная птица",
+        "ветчина нога праздничный мясной ужин",
+        "ростбиф праздничное центральное блюдо",
+        "гусь рождественская птица жаркое",
+        "перепел маленькая дичь"
+      ]
+    },
+    "valid": {
+      "en": [
+        "turkey thanksgiving icon",
+        "roast turkey meal symbol",
+        "holiday turkey bird"
+      ],
+      "ru": [
+        "иконка индейки День благодарения",
+        "символ жаркого из индейки",
+        "праздничная птица индейка"
+      ]
+    },
+    "test": {
+      "en": [
+        "turkey icon bird",
+        "thanksgiving turkey symbol",
+        "roast turkey poultry"
+      ],
+      "ru": [
+        "иконка индейки птица",
+        "символ индейки День благодарения",
+        "жареная индейка птица"
+      ]
+    }
+  }
+}

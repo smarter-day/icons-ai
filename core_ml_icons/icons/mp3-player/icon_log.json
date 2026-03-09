@@ -1,0 +1,154 @@
+{
+  "icon": "mp3-player",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "audio",
+        "handheld",
+        "ipod",
+        "itunes",
+        "music",
+        "zune"
+      ],
+      "ru": [
+        "аудио",
+        "карманный",
+        "ipod",
+        "itunes",
+        "музыка",
+        "zune"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "audio playback device portable",
+        "audio streaming on handheld",
+        "handheld music player device",
+        "handheld gadget for listening",
+        "iPod classic music player",
+        "iPod shuffle with earbuds",
+        "iTunes music library sync",
+        "iTunes podcast subscription",
+        "music player in pocket",
+        "listen to music on the go",
+        "Zune Microsoft music player",
+        "Zune HD portable device"
+      ],
+      "ru": [
+        "портативное устройство воспроизведения аудио",
+        "потоковое аудио на карманном устройстве",
+        "карманный музыкальный плеер",
+        "карманный гаджет для прослушивания",
+        "классический музыкальный плеер iPod",
+        "iPod shuffle с наушниками",
+        "синхронизация музыкальной библиотеки iTunes",
+        "подписка на подкаст iTunes",
+        "музыкальный плеер в кармане",
+        "слушать музыку в дороге",
+        "музыкальный плеер Microsoft Zune",
+        "портативное устройство Zune HD"
+      ]
+    },
+    "regular": {
+      "en": [
+        "classic iPod with click wheel for music",
+        "pocket-sized MP3 player for jogging",
+        "music player with earbuds included",
+        "old school digital music device",
+        "portable audio player for workout",
+        "MP3 player with small screen and controls",
+        "shuffle playlist on a handheld device",
+        "digital music player for commute",
+        "retro personal music device",
+        "music storage device before streaming"
+      ],
+      "ru": [
+        "классический iPod с колесом прокрутки для музыки",
+        "карманный MP3 плеер для бега",
+        "музыкальный плеер в комплекте с наушниками",
+        "старомодное цифровое музыкальное устройство",
+        "портативный аудиоплеер для тренировки",
+        "MP3 плеер с маленьким экраном и управлением",
+        "перемешать плейлист на карманном устройстве",
+        "цифровой музыкальный плеер для поездок",
+        "ретро персональное музыкальное устройство",
+        "устройство хранения музыки до эпохи стриминга"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an MP3 player icon for the music section",
+        "add an iPod symbol to the audio devices category",
+        "show a music player for the handheld audio feature",
+        "use the mp3 player icon for the offline music screen"
+      ],
+      "ru": [
+        "Мне нужна иконка MP3 плеера для раздела музыки",
+        "добавить символ iPod в категорию аудиоустройств",
+        "показать музыкальный плеер для функции карманного аудио",
+        "использовать иконку mp3 плеера для экрана оффлайн музыки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "mp3 palyer music",
+        "ipood classic",
+        "handhled music device",
+        "musci player portable"
+      ],
+      "ru": [
+        "mp3 плерея музыка",
+        "айпод классчиеский",
+        "карманый музыкальный плеер",
+        "музка портативный плеер"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "smartphone playing music through app",
+        "CD player disc-based audio device",
+        "cassette tape Walkman player",
+        "Bluetooth speaker for music",
+        "vinyl record player turntable",
+        "radio receiver for FM music"
+      ],
+      "ru": [
+        "смартфон воспроизводящий музыку через приложение",
+        "CD плеер аудиоустройство на дисках",
+        "кассетный плеер Walkman",
+        "Bluetooth колонка для музыки",
+        "виниловый проигрыватель пластинок",
+        "FM радиоприёмник для музыки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "MP3 player portable music device",
+        "iPod style handheld music player",
+        "pocket music player icon"
+      ],
+      "ru": [
+        "портативное музыкальное устройство MP3 плеер",
+        "карманный музыкальный плеер в стиле iPod",
+        "иконка карманного музыкального плеера"
+      ]
+    },
+    "test": {
+      "en": [
+        "mp3 player icon",
+        "portable audio device",
+        "iPod music player"
+      ],
+      "ru": [
+        "иконка mp3 плеера",
+        "портативное аудиоустройство",
+        "музыкальный плеер iPod"
+      ]
+    }
+  }
+}

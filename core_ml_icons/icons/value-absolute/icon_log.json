@@ -1,0 +1,124 @@
+{
+  "icon": "value-absolute",
+  "rows": {
+    "train_en": 27,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Math"
+      ],
+      "ru": [
+        "Математика"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Math absolute value symbol",
+        "absolute value math notation"
+      ],
+      "ru": [
+        "математический символ абсолютного значения",
+        "нотация абсолютного значения математика"
+      ]
+    },
+    "regular": {
+      "en": [
+        "absolute value vertical bars math symbol",
+        "absolute value of negative number positive",
+        "absolute value function graph V shape",
+        "math notation pipes around number",
+        "absolute value distance from zero",
+        "calculate absolute value formula",
+        "absolute value in programming code",
+        "abs() function programming math",
+        "absolute value inequality solve",
+        "mathematics absolute value expression"
+      ],
+      "ru": [
+        "абсолютное значение вертикальные черты математика",
+        "абсолютное значение отрицательного числа положительное",
+        "функция абсолютного значения график V-образный",
+        "математическая нотация черты вокруг числа",
+        "абсолютное значение расстояние от нуля",
+        "вычислить формулу абсолютного значения",
+        "абсолютное значение в программном коде",
+        "функция abs() программирование математика",
+        "неравенство с абсолютным значением решить",
+        "выражение абсолютного значения математика"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an absolute value icon for the math section",
+        "add an absolute value symbol to the calculator",
+        "show absolute value for the math notation feature",
+        "use the value-absolute icon for the math expression"
+      ],
+      "ru": [
+        "нужна иконка абсолютного значения для математического раздела",
+        "добавь символ абсолютного значения в калькулятор",
+        "покажи абсолютное значение для функции математической нотации",
+        "используй иконку абсолютного значения для математического выражения"
+      ]
+    },
+    "typo": {
+      "en": [
+        "absolut value math",
+        "absoute value symbol",
+        "math absoluet value",
+        "valuee absolute math"
+      ],
+      "ru": [
+        "абсолютное знначение математика",
+        "символ абсолтного значения",
+        "математика абсолютное значние",
+        "абсолютное значение математка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "plus minus sign math",
+        "infinity symbol mathematics",
+        "square root radical symbol",
+        "pi constant mathematics",
+        "equals sign equation math",
+        "greater less than symbol"
+      ],
+      "ru": [
+        "плюс минус знак математика",
+        "знак бесконечности математика",
+        "корень квадратный радикал",
+        "пи константа математика",
+        "знак равенства уравнение",
+        "больше меньше символ"
+      ]
+    },
+    "valid": {
+      "en": [
+        "absolute value math symbol",
+        "vertical bars math notation",
+        "abs value icon"
+      ],
+      "ru": [
+        "символ абсолютного значения математика",
+        "вертикальные черты нотация",
+        "иконка абс значения"
+      ]
+    },
+    "test": {
+      "en": [
+        "value-absolute icon",
+        "math absolute symbol",
+        "abs value math"
+      ],
+      "ru": [
+        "иконка абсолютного значения",
+        "символ абс математика",
+        "абс значение математика"
+      ]
+    }
+  }
+}

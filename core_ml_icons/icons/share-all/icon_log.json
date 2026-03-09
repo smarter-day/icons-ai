@@ -1,0 +1,142 @@
+{
+  "icon": "share-all",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "forward",
+        "save",
+        "send",
+        "social"
+      ],
+      "ru": [
+        "переслать",
+        "сохранить",
+        "отправить",
+        "социальный"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "forward all content to recipients",
+        "forward all messages at once",
+        "save all shared items to device",
+        "save all attachments from share",
+        "send all files to contacts",
+        "send all selected items",
+        "social share to all platforms",
+        "social media share all button"
+      ],
+      "ru": [
+        "переслать весь контент получателям",
+        "переслать все сообщения сразу",
+        "сохранить все элементы на устройство",
+        "сохранить все вложения из общего доступа",
+        "отправить все файлы контактам",
+        "отправить все выбранные элементы",
+        "поделиться на всех платформах",
+        "кнопка поделиться везде в соцсетях"
+      ]
+    },
+    "regular": {
+      "en": [
+        "share all button distributing content widely",
+        "broadcast to all followers at once",
+        "share all selected photos to friends",
+        "one-tap share-all to social platforms",
+        "share all documents with team members",
+        "export and share all records",
+        "send all notifications to contacts",
+        "share-all icon in file manager",
+        "batch share multiple items simultaneously",
+        "share everything in folder with one tap"
+      ],
+      "ru": [
+        "кнопка поделиться везде распространяет контент",
+        "трансляция всем подписчикам сразу",
+        "поделиться всеми выбранными фото с друзьями",
+        "одно нажатие поделиться везде в соцсетях",
+        "поделиться всеми документами с командой",
+        "экспорт и публикация всех записей",
+        "отправить все уведомления контактам",
+        "иконка поделиться везде в файловом менеджере",
+        "пакетная публикация нескольких элементов",
+        "поделиться всем в папке одним нажатием"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a share-all icon for the batch export feature",
+        "add a share-all symbol to the social sharing screen",
+        "show share-all for the broadcast to all option",
+        "use the share-all icon for multi-platform sharing"
+      ],
+      "ru": [
+        "мне нужна иконка поделиться везде для пакетного экспорта",
+        "добавь символ поделиться везде на экран соцсетей",
+        "покажи поделиться везде для трансляции всем",
+        "используй иконку поделиться везде для публикации на всех платформах"
+      ]
+    },
+    "typo": {
+      "en": [
+        "shrae all button distributing content",
+        "broadcsat to all followers at once",
+        "sned all files to contacts",
+        "shar all photos with friends"
+      ],
+      "ru": [
+        "кнопка поделиься везде",
+        "трансляция всем подписчикам",
+        "отправить все файлы контактам",
+        "поделтиься всеми фото"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "share single item to one person",
+        "forward arrow sending to next recipient",
+        "export file to specific location",
+        "upload button sending to cloud",
+        "broadcast icon for live streaming",
+        "send message button in chat"
+      ],
+      "ru": [
+        "поделиться одним элементом с одним человеком",
+        "стрелка пересылки следующему получателю",
+        "экспорт файла в конкретное место",
+        "кнопка загрузки в облако",
+        "иконка трансляции для прямого эфира",
+        "кнопка отправки в чате"
+      ]
+    },
+    "valid": {
+      "en": [
+        "share all items to contacts",
+        "broadcast all content at once",
+        "one-tap share everything button"
+      ],
+      "ru": [
+        "поделиться всеми элементами",
+        "трансляция всего контента сразу",
+        "кнопка поделиться всем"
+      ]
+    },
+    "test": {
+      "en": [
+        "share-all button for batch sharing",
+        "send all files to recipients",
+        "social share all icon"
+      ],
+      "ru": [
+        "кнопка поделиться везде для пакетной публикации",
+        "отправить все файлы получателям",
+        "иконка поделиться везде"
+      ]
+    }
+  }
+}

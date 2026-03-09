@@ -1,0 +1,172 @@
+{
+  "icon": "person-walking",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "crosswalk",
+        "exercise",
+        "follow",
+        "hike",
+        "move",
+        "person walking",
+        "walk",
+        "walking",
+        "workout"
+      ],
+      "ru": [
+        "пешеходный переход",
+        "упражнение",
+        "следовать",
+        "поход",
+        "двигаться",
+        "человек идёт",
+        "идти",
+        "ходьба",
+        "тренировка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "crosswalk person walking signal",
+        "pedestrian crossing at crosswalk",
+        "exercise by walking daily",
+        "walking as daily exercise",
+        "follow the walking path",
+        "follow someone walking ahead",
+        "hike and walk outdoors",
+        "walk on hiking trail",
+        "move to next location walking",
+        "move around on foot",
+        "person walking on street",
+        "person walking silhouette",
+        "walk to the store nearby",
+        "walk in the park",
+        "walking for health benefits",
+        "walking workout routine",
+        "workout by walking briskly",
+        "daily workout walking steps"
+      ],
+      "ru": [
+        "сигнал пешеходного перехода человек идёт",
+        "пешеход переходящий по переходу",
+        "упражнение ежедневная ходьба",
+        "ходьба как ежедневное упражнение",
+        "следовать пешеходному маршруту",
+        "следовать за кем-то идущим впереди",
+        "поход и ходьба на улице",
+        "ходьба по туристической тропе",
+        "двигаться к следующему месту пешком",
+        "передвигаться пешком",
+        "человек идущий по улице",
+        "силуэт идущего человека",
+        "идти в ближайший магазин",
+        "прогулка в парке",
+        "ходьба для здоровья",
+        "ходьба тренировочная программа",
+        "тренировка быстрой ходьбой",
+        "ежедневная тренировка шаги ходьбы"
+      ]
+    },
+    "regular": {
+      "en": [
+        "pedestrian walking symbol on crosswalk sign",
+        "person walking silhouette for fitness",
+        "walking step counter icon",
+        "person in motion walking forward",
+        "pedestrian navigation walking route",
+        "walk to destination on foot",
+        "daily steps walking tracker",
+        "walking exercise for health",
+        "person walking in park",
+        "walking directions on map"
+      ],
+      "ru": [
+        "символ пешехода на знаке пешеходного перехода",
+        "силуэт идущего человека для фитнеса",
+        "иконка шагомера счётчика шагов",
+        "человек в движении идущий вперёд",
+        "навигация пешехода пешеходный маршрут",
+        "идти к пункту назначения пешком",
+        "трекер ежедневных шагов ходьбы",
+        "ходьба как упражнение для здоровья",
+        "человек идущий в парке",
+        "пешие направления на карте"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a walking person icon for the fitness app",
+        "add a pedestrian symbol to the crosswalk section",
+        "show a person walking for the step tracker",
+        "use the walking icon for the exercise mode"
+      ],
+      "ru": [
+        "Мне нужна иконка идущего человека для фитнес-приложения",
+        "добавить символ пешехода в раздел пешеходного перехода",
+        "показать идущего человека для трекера шагов",
+        "использовать иконку ходьбы для режима упражнений"
+      ]
+    },
+    "typo": {
+      "en": [
+        "walkin person",
+        "pedistrian walking",
+        "walkign exercise",
+        "persno walking"
+      ],
+      "ru": [
+        "идущий персона",
+        "пешехода ходьба",
+        "ходьбы упражнени",
+        "человк идёт"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "person running jogging faster",
+        "person hiking on mountain trail",
+        "cyclist riding bicycle",
+        "person swimming laps",
+        "pedestrian stop red signal",
+        "person dancing movement"
+      ],
+      "ru": [
+        "человек бегущий джоггинг быстрее",
+        "человек в походе на горной тропе",
+        "велосипедист едущий на велосипеде",
+        "человек плывущий в бассейне",
+        "пешеход стоп красный сигнал",
+        "человек танцующий движение"
+      ]
+    },
+    "valid": {
+      "en": [
+        "person walking icon",
+        "pedestrian walking symbol",
+        "walking for exercise"
+      ],
+      "ru": [
+        "иконка идущего человека",
+        "символ идущего пешехода",
+        "ходьба для упражнения"
+      ]
+    },
+    "test": {
+      "en": [
+        "walking person icon",
+        "crosswalk pedestrian symbol",
+        "walk exercise step"
+      ],
+      "ru": [
+        "иконка идущего человека",
+        "символ пешехода на переходе",
+        "шаг упражнение ходьба"
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "icon": "compass-drafting",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "design",
+        "map",
+        "mechanical drawing",
+        "plot",
+        "plotting"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Design the floor plan",
+        "Use a compass for geometric design",
+        "Draw circles on the map",
+        "Plot points on the map",
+        "Create a mechanical drawing",
+        "Make a precise mechanical drawing",
+        "Plot the data on a graph",
+        "Plot the route on a chart",
+        "Start plotting the house layout",
+        "Plot the architectural design"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Draw the blueprint with a drafting compass",
+        "Design the room layout on paper",
+        "Create an architectural sketch",
+        "Draw geometric shapes for the project",
+        "Measure and draw accurate circles",
+        "Plan the garden layout on paper",
+        "Draft the engineering diagram",
+        "Make precise technical drawings",
+        "Draw the map of the property",
+        "Create a detailed floor plan"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Sketch it out",
+        "Draw the plan",
+        "Draft the design",
+        "Measure and draw"
+      ]
+    },
+    "typo": {
+      "en": [
+        "drw the bluepirnt",
+        "desiign the floor plan",
+        "mechanicel drawing",
+        "use drafting compas"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Navigate with a trail compass",
+        "Use a protractor to measure angles",
+        "Draw a straight line with a ruler",
+        "Use a level to check alignment",
+        "Take compass bearings on a hike",
+        "Read the map for directions"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Draft the building blueprint",
+        "Draw the floor plan with precision",
+        "Create geometric shapes for design"
+      ]
+    },
+    "test": {
+      "en": [
+        "Make an architectural drawing",
+        "Plot the engineering diagram",
+        "Design the room layout on paper"
+      ]
+    }
+  }
+}

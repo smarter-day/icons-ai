@@ -1,0 +1,87 @@
+{
+  "icon": "file",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cv",
+        "document",
+        "page",
+        "pdf",
+        "resume"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Update the CV before applying",
+        "Send the CV to the recruiter",
+        "Save the document",
+        "Open the document in Word",
+        "Turn to the next page",
+        "Print the document page",
+        "Export the file as PDF",
+        "Send the document as PDF",
+        "Update the resume",
+        "Send the resume to the company"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Save the document to the folder",
+        "Open a new file in Word",
+        "Export the report as PDF",
+        "Update the resume",
+        "Create a new document",
+        "Rename the file",
+        "Attach the document to the email",
+        "Print the document",
+        "Share the PDF with the team",
+        "Sign the document digitally"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Save the file",
+        "Open the doc",
+        "Send the PDF",
+        "New document"
+      ]
+    },
+    "typo": {
+      "en": [
+        "save the documnet",
+        "open a neew file",
+        "exprt as pdf",
+        "update the resurme"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Save to a folder structure",
+        "Organize files in a directory",
+        "Attach a photo to the email",
+        "Create a spreadsheet",
+        "Write in a text editor",
+        "Archive old documents"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Save the document",
+        "Export the report as PDF",
+        "Update and send the resume"
+      ]
+    },
+    "test": {
+      "en": [
+        "Create a new document",
+        "Attach the file to the email",
+        "Print the document"
+      ]
+    }
+  }
+}

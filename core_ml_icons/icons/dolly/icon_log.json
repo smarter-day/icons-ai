@@ -1,0 +1,81 @@
+{
+  "icon": "dolly",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "carry",
+        "shipping",
+        "transport"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Carry heavy boxes with the dolly",
+        "Use a dolly to carry equipment",
+        "Ship the heavy items via freight",
+        "Arrange shipping for the boxes",
+        "Transport furniture with the dolly",
+        "Use the dolly to transport goods"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Use a dolly to move heavy boxes",
+        "Load boxes on the hand truck",
+        "Move furniture with the dolly",
+        "Transport equipment to the venue",
+        "Use a hand truck to carry appliances",
+        "Move boxes during the office move",
+        "Unload the delivery truck",
+        "Wheel the luggage to the room",
+        "Load the dolly at the warehouse",
+        "Move heavy items without strain"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Use the dolly",
+        "Move the boxes",
+        "Hand truck time",
+        "Heavy load move"
+      ]
+    },
+    "typo": {
+      "en": [
+        "use the dolley for boxes",
+        "carrey heavy stuff",
+        "moove furniture with dolly",
+        "shiping heavy items"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Push the shopping cart in the store",
+        "Use a forklift at the warehouse",
+        "Ship items in a container",
+        "Pack boxes for the storage unit",
+        "Use a luggage trolley at the airport",
+        "Carry a backpack for the move"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Use the dolly to move boxes",
+        "Load equipment on the hand truck",
+        "Transport heavy items with a dolly"
+      ]
+    },
+    "test": {
+      "en": [
+        "Move furniture with the dolly",
+        "Unload boxes from the truck",
+        "Use a dolly at the warehouse"
+      ]
+    }
+  }
+}

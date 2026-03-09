@@ -1,0 +1,84 @@
+{
+  "icon": "diagram-venn",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "chart",
+        "intersection",
+        "logic",
+        "overlap"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Create a chart to compare options",
+        "Build a comparison chart",
+        "Find the intersection of two sets",
+        "Show the intersection in the diagram",
+        "Apply logic to the problem",
+        "Use logic to categorize items",
+        "Show where two groups overlap",
+        "Highlight the overlap between categories"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Draw a Venn diagram to compare",
+        "Use a Venn diagram in the presentation",
+        "Show the overlap between two ideas",
+        "Compare two groups with a Venn diagram",
+        "Teach logic with a Venn diagram",
+        "Find common ground between options",
+        "Visualize intersecting categories",
+        "Map out shared features of two products",
+        "Use Venn diagram for brainstorming",
+        "Compare two data sets with a diagram"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Venn diagram it",
+        "Find the overlap",
+        "Compare the two",
+        "Logic diagram"
+      ]
+    },
+    "typo": {
+      "en": [
+        "draw a venn daigram",
+        "find the intersecton",
+        "compair two groups",
+        "show the overalp"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Make a pie chart for the budget",
+        "Create a bar graph for the report",
+        "Build a network flow diagram",
+        "Use a PERT chart for the project",
+        "Create a Gantt chart timeline",
+        "Draw a mind map for brainstorming"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Draw a Venn diagram to compare",
+        "Show the overlap between two groups",
+        "Use a Venn diagram in the presentation"
+      ]
+    },
+    "test": {
+      "en": [
+        "Compare two options with a Venn diagram",
+        "Find the intersection of categories",
+        "Visualize shared features"
+      ]
+    }
+  }
+}

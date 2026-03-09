@@ -1,0 +1,96 @@
+{
+  "icon": "gem",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "diamond",
+        "gem",
+        "gem stone",
+        "jewel",
+        "jewelry",
+        "sapphire",
+        "stone",
+        "treasure"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "diamond gemstone ring",
+        "faceted diamond gem with brilliant cut",
+        "colorful gem in the display case",
+        "gem found in the mine",
+        "gem stone polished and cut",
+        "gemstone set in the jewelry",
+        "jewel set in the crown",
+        "jewel of the collection",
+        "jewelry store gem display",
+        "jewelry with a precious gem",
+        "blue sapphire gemstone ring",
+        "sapphire gem in the gold ring",
+        "precious stone cut into a gem",
+        "stone polished into a gemstone",
+        "treasure chest with gems inside",
+        "rare gem in the treasure"
+      ]
+    },
+    "regular": {
+      "en": [
+        "faceted diamond gem with a brilliant cut",
+        "precious gemstone in the jewelry display case",
+        "blue sapphire gem set in a gold ring",
+        "rare gem found deep in the mine",
+        "gemstone collection in a museum case",
+        "ruby red gem on the crown",
+        "in-game gem currency for the mobile game",
+        "emerald green gemstone necklace",
+        "diamond gem shaped to sparkle",
+        "gemstone ring given as a gift"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a gem icon for the in-game store",
+        "add a gemstone symbol to the jewelry section",
+        "show a gem for the premium currency",
+        "use the diamond gem icon for the rewards page"
+      ]
+    },
+    "typo": {
+      "en": [
+        "dimaond gemstone ring",
+        "sapphire gme in gold",
+        "jewlery gem display",
+        "precous stone gem"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "clear crystal quartz on the shelf",
+        "gold ring with a smooth band",
+        "gold coin embossed with a design",
+        "diamond necklace hanging on a chain",
+        "crown with jewels set in the rim",
+        "pearl necklace with a clasp"
+      ]
+    },
+    "valid": {
+      "en": [
+        "faceted gem with brilliant cut",
+        "precious gemstone in a ring",
+        "diamond gem icon"
+      ]
+    },
+    "test": {
+      "en": [
+        "gem icon",
+        "gemstone symbol",
+        "diamond gem"
+      ]
+    }
+  }
+}

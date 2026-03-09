@@ -1,0 +1,105 @@
+{
+  "icon": "coin",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "coin",
+        "dime",
+        "gold",
+        "metal",
+        "money",
+        "nickel",
+        "penny",
+        "premium",
+        "quarter",
+        "silver",
+        "treasure"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "gold coin on the table",
+        "coin flipped to decide",
+        "shiny dime worth ten cents",
+        "dime coin for the vending machine",
+        "gold coin from the treasure chest",
+        "gold coin reward in the game",
+        "metal coin from the mint",
+        "shiny metal coin in the palm",
+        "coin as money for the piggy bank",
+        "money coin for the vending machine",
+        "nickel coin worth five cents",
+        "nickel in the jar",
+        "penny tossed in the fountain",
+        "shiny penny for good luck",
+        "premium coin for the subscription",
+        "premium gold coin reward",
+        "quarter coin for the parking meter",
+        "quarter worth twenty-five cents",
+        "silver coin from the collection",
+        "silver coin minted in the treasury",
+        "treasure chest full of gold coins",
+        "treasure coin found in the ruins"
+      ]
+    },
+    "regular": {
+      "en": [
+        "shiny gold coin with an embossed design",
+        "coin tossed in the air for a decision",
+        "pile of coins in the piggy bank",
+        "gold coin reward in the mobile game",
+        "ancient coin found on an archaeological dig",
+        "coin collection displayed in a glass case",
+        "vending machine accepting coin payment",
+        "coin flip to decide the starting team",
+        "silver coin minted with the national emblem",
+        "treasure chest full of golden coins"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a coin icon for the in-game currency",
+        "add a gold coin to the rewards section",
+        "show a coin for the payment feature",
+        "use the coin icon for the premium currency"
+      ]
+    },
+    "typo": {
+      "en": [
+        "goid coin reward",
+        "tresuare chest of coins",
+        "silvr coin collection",
+        "premuim coin earned"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "paper dollar bill in the wallet",
+        "credit card swiped at the terminal",
+        "gold bar stacked in the vault",
+        "piggy bank for saving spare change",
+        "stack of poker chips on the table",
+        "gem or diamond for in-game currency"
+      ]
+    },
+    "valid": {
+      "en": [
+        "gold coin for in-game currency",
+        "shiny coin with embossed design",
+        "coin tossed for a decision"
+      ]
+    },
+    "test": {
+      "en": [
+        "coin icon",
+        "gold coin symbol",
+        "coin for payment"
+      ]
+    }
+  }
+}

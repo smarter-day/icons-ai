@@ -1,0 +1,96 @@
+{
+  "icon": "dollar-sign",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "coupon",
+        "currency",
+        "dollar",
+        "investment",
+        "money",
+        "premium",
+        "revenue",
+        "salary"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Use a coupon at the store",
+        "Find a coupon for the restaurant",
+        "Exchange currency at the bank",
+        "Check the currency rate",
+        "Pay with a dollar bill",
+        "Count the dollar bills",
+        "Make an investment decision",
+        "Research investment options",
+        "Save money this month",
+        "Budget the money carefully",
+        "Upgrade to a premium plan",
+        "Get premium features",
+        "Track monthly revenue",
+        "Report on annual revenue",
+        "Negotiate the salary",
+        "Ask for a salary raise"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Check the price of the item",
+        "Pay the bill",
+        "Budget for the month",
+        "Track expenses and income",
+        "Negotiate a higher salary",
+        "Invest money in savings",
+        "Find a discount or coupon",
+        "Split the bill with friends",
+        "Transfer money to savings",
+        "Check the bank balance"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Money talk",
+        "Check the price",
+        "Pay up",
+        "Dollar day"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pay the bil",
+        "budgte for the month",
+        "negociate a sallary",
+        "investt money in savigns"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Count coins in the jar",
+        "Use a credit card for payment",
+        "Get a discount badge",
+        "Pay with a check",
+        "Transfer money via bank app",
+        "Check the price tag on the item"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Budget for the month",
+        "Negotiate a salary raise",
+        "Track monthly revenue"
+      ]
+    },
+    "test": {
+      "en": [
+        "Pay the bill",
+        "Find a coupon for the store",
+        "Check the investment options"
+      ]
+    }
+  }
+}

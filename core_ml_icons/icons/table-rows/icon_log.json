@@ -1,0 +1,136 @@
+{
+  "icon": "table-rows",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cell",
+        "spreadsheet",
+        "table"
+      ],
+      "ru": [
+        "ячейка",
+        "электронная таблица",
+        "таблица"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cell in table row highlighted",
+        "cell value in row",
+        "spreadsheet row data entry",
+        "spreadsheet rows and columns",
+        "table rows horizontal layout",
+        "data table rows"
+      ],
+      "ru": [
+        "ячейка в строке таблицы выделена",
+        "значение ячейки в строке",
+        "строки таблицы ввод данных",
+        "строки и столбцы таблицы",
+        "горизонтальный макет строк таблицы",
+        "строки таблицы данных"
+      ]
+    },
+    "regular": {
+      "en": [
+        "spreadsheet horizontal rows of data",
+        "table with alternating row colors",
+        "database table rows records",
+        "selected row highlighted in table",
+        "add delete row in spreadsheet",
+        "row height adjustment in table",
+        "frozen header row in spreadsheet",
+        "sort rows ascending descending",
+        "table row grouping expand collapse",
+        "CSV file rows of text data"
+      ],
+      "ru": [
+        "горизонтальные строки данных электронной таблицы",
+        "таблица с чередующимися цветами строк",
+        "строки записей таблицы базы данных",
+        "выбранная строка выделена в таблице",
+        "добавить удалить строку в таблице",
+        "регулировка высоты строки в таблице",
+        "закреплённая строка заголовка в таблице",
+        "сортировка строк по возрастанию убыванию",
+        "группировка строк таблицы развернуть свернуть",
+        "файл CSV строки текстовых данных"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a table-rows icon for the spreadsheet view",
+        "add a rows symbol to the data table feature",
+        "show rows for the list layout option",
+        "use the table rows icon for data entry screens"
+      ],
+      "ru": [
+        "нужна иконка строк таблицы для вида электронной таблицы",
+        "добавь символ строк к функции таблицы данных",
+        "покажи строки для варианта макета списка",
+        "используй иконку строк таблицы для экранов ввода данных"
+      ]
+    },
+    "typo": {
+      "en": [
+        "tabel rows data",
+        "spreadshet rows",
+        "taable row selected",
+        "cel in row"
+      ],
+      "ru": [
+        "строки таблцы данные",
+        "строки таблцы",
+        "строка таблицы выбрана",
+        "ячйека в строке"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "table columns vertical layout split",
+        "grid all cells visible table",
+        "list view items stacked vertical",
+        "chart bar graph horizontal bars",
+        "gantt chart timeline rows",
+        "calendar week rows days"
+      ],
+      "ru": [
+        "столбцы таблицы вертикальный макет разделение",
+        "сетка все ячейки видимы таблица",
+        "вид списка элементы сложены вертикально",
+        "диаграмма гистограмма горизонтальные полосы",
+        "диаграмма Ганта строки временной шкалы",
+        "календарь недельные строки дни"
+      ]
+    },
+    "valid": {
+      "en": [
+        "table rows horizontal data",
+        "spreadsheet rows icon",
+        "row layout in table"
+      ],
+      "ru": [
+        "горизонтальные строки таблицы данные",
+        "иконка строк таблицы",
+        "строчный макет в таблице"
+      ]
+    },
+    "test": {
+      "en": [
+        "rows icon table",
+        "spreadsheet row symbol",
+        "data rows table view"
+      ],
+      "ru": [
+        "иконка строк таблица",
+        "символ строки таблицы",
+        "вид строк данных"
+      ]
+    }
+  }
+}

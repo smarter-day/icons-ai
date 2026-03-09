@@ -1,0 +1,90 @@
+{
+  "icon": "duck",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bath",
+        "bird",
+        "duck",
+        "fauna",
+        "quack",
+        "rubber"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Give the baby a bath",
+        "Bath time with the rubber duck",
+        "Watch a bird swim in the pond",
+        "Spot a bird at the lake",
+        "Feed the ducks at the pond",
+        "See a duck swim by",
+        "Observe local fauna",
+        "See fauna at the nature reserve",
+        "Hear a duck quack",
+        "Listen to ducks quacking",
+        "Play with the rubber duck in the bath",
+        "Buy a rubber duck for the kids"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Feed ducks at the park pond",
+        "Watch ducks swim with the kids",
+        "Buy a rubber duck for bath time",
+        "Take kids to see ducks",
+        "Photograph ducks at the lake",
+        "Spot a mother duck with ducklings",
+        "Watch ducks in the rain",
+        "See ducks at the nature reserve",
+        "Bring bread to feed the ducks",
+        "Watch ducks dive underwater"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Ducks at the pond!",
+        "Rubber ducky",
+        "Feed the ducks",
+        "Quack quack"
+      ]
+    },
+    "typo": {
+      "en": [
+        "feed the dukcs",
+        "rubber dukc in the bath",
+        "watcch ducks swming",
+        "see duckks at the pond"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Watch a swan glide on the lake",
+        "Feed geese at the park",
+        "Spot a heron at the river",
+        "Watch penguins at the zoo",
+        "See pelicans at the beach",
+        "Observe pigeons in the city"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Feed ducks at the park",
+        "Buy a rubber duck for the bath",
+        "Watch ducks swim"
+      ]
+    },
+    "test": {
+      "en": [
+        "Take kids to see ducks",
+        "Photograph ducks at the pond",
+        "Spot ducklings at the lake"
+      ]
+    }
+  }
+}

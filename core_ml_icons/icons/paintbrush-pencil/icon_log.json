@@ -1,0 +1,136 @@
+{
+  "icon": "paintbrush-pencil",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "art",
+        "creative",
+        "modify"
+      ],
+      "ru": [
+        "искусство",
+        "творческий",
+        "изменить"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "art tools brush and pencil together",
+        "art creation with two tools",
+        "creative design workflow icon",
+        "creative editing combined tools",
+        "modify artwork with brush or pencil",
+        "modify document creatively"
+      ],
+      "ru": [
+        "инструменты искусства кисть и карандаш вместе",
+        "создание искусства двумя инструментами",
+        "иконка рабочего процесса творческого дизайна",
+        "инструменты совместного творческого редактирования",
+        "изменить произведение кистью или карандашом",
+        "творческое изменение документа"
+      ]
+    },
+    "regular": {
+      "en": [
+        "paintbrush and pencil icon side by side",
+        "combined art tool for drawing and painting",
+        "creative tools icon for design apps",
+        "dual-mode drawing instrument",
+        "art and edit combined symbol",
+        "draw or paint toggle in creative app",
+        "pencil for sketching brush for coloring",
+        "hybrid creative tool icon",
+        "edit and create combined action",
+        "artistic tool combo for digital canvas"
+      ],
+      "ru": [
+        "иконка кисти и карандаша рядом",
+        "комбинированный художественный инструмент для рисования",
+        "иконка творческих инструментов для дизайн-приложений",
+        "двухрежимный инструмент рисования",
+        "комбинированный символ искусства и редактирования",
+        "переключение рисования в творческом приложении",
+        "карандаш для эскизов кисть для раскрашивания",
+        "иконка гибридного творческого инструмента",
+        "объединённое действие редактирования и создания",
+        "комбо художественного инструмента для цифрового холста"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a brush and pencil icon for the art tools",
+        "add a creative tools symbol to the editor",
+        "show a paintbrush-pencil for the design modify feature",
+        "use the dual art tool icon for the creative section"
+      ],
+      "ru": [
+        "Мне нужна иконка кисти и карандаша для художественных инструментов",
+        "добавить символ творческих инструментов в редактор",
+        "показать кисть-карандаш для функции изменения дизайна",
+        "использовать иконку двойного инструмента для творческого раздела"
+      ]
+    },
+    "typo": {
+      "en": [
+        "paintbrush pencli tool",
+        "creatve art tools",
+        "modifiy with brush",
+        "paitbrush pencil"
+      ],
+      "ru": [
+        "кисть карандш инструмент",
+        "творческие нструменты",
+        "иземнить кистью",
+        "кисть карандша"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "paintbrush alone without pencil",
+        "pencil alone for writing",
+        "marker thick felt-tip pen",
+        "eraser for removing marks",
+        "scissors and paste design tools",
+        "stylus pen for tablet drawing"
+      ],
+      "ru": [
+        "кисть одна без карандаша",
+        "карандаш один для письма",
+        "маркер толстый фломастер",
+        "ластик для удаления отметин",
+        "ножницы и клей инструменты дизайна",
+        "стилус для рисования на планшете"
+      ]
+    },
+    "valid": {
+      "en": [
+        "paintbrush and pencil art tool",
+        "creative drawing tool icon",
+        "brush pencil combined"
+      ],
+      "ru": [
+        "инструмент кисть и карандаш",
+        "иконка творческого инструмента рисования",
+        "кисть карандаш вместе"
+      ]
+    },
+    "test": {
+      "en": [
+        "paintbrush pencil icon",
+        "art creative tools",
+        "modify with brush and pencil"
+      ],
+      "ru": [
+        "иконка кисти карандаша",
+        "творческие художественные инструменты",
+        "изменить кистью и карандашом"
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "icon": "hood-cloak",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "clothing",
+        "d&d",
+        "fantasy",
+        "rogue",
+        "stealth"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Wear a hood cloak costume",
+        "Buy a cloak for the costume party",
+        "Play D&D tonight",
+        "Set up the D&D session",
+        "Design a fantasy character",
+        "Build a fantasy world",
+        "Play the rogue class in the campaign",
+        "Sneak as a rogue",
+        "Use stealth to pass the enemy",
+        "Move in stealth mode"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Play a rogue character in D&D",
+        "Wear a cloak for the Halloween costume",
+        "Design a hooded character in the game",
+        "Use stealth in the RPG game",
+        "Build a rogue for the D&D campaign",
+        "Read a fantasy book with a hooded hero",
+        "Watch a fantasy movie tonight",
+        "Find a cloak prop for the costume",
+        "Write a fantasy story with a rogue",
+        "Play as the shadowy rogue class"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Rogue character",
+        "D&D stealth",
+        "Cloak up",
+        "Fantasy game"
+      ]
+    },
+    "typo": {
+      "en": [
+        "play a rogu in dnd",
+        "weare a cloak costume",
+        "use stealth in rpg gamme",
+        "fantsy rogue character"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Wear battle armor as a knight",
+        "Use a wizard hat for magic",
+        "Equip a paladin helmet",
+        "Wear a party hat for the celebration",
+        "Use a winter coat outdoors",
+        "Wear a raincoat in the rain"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Play a rogue in the D&D campaign",
+        "Wear a hood cloak for Halloween",
+        "Use stealth in the fantasy game"
+      ]
+    },
+    "test": {
+      "en": [
+        "Design a hooded character",
+        "Build a rogue for D&D",
+        "Read a fantasy book with a hooded hero"
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "icon": "hand-heart",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "care",
+        "charity",
+        "donate",
+        "help",
+        "wishlist"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Care for others in need",
+        "Show care and kindness",
+        "Donate to charity this month",
+        "Support a local charity",
+        "Donate clothes to the shelter",
+        "Donate money to the cause",
+        "Help a neighbor in need",
+        "Help the community",
+        "Add a gift to the wishlist",
+        "Check the holiday wishlist"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Donate to a local charity",
+        "Volunteer at the food bank",
+        "Give blood at the donation center",
+        "Support a crowdfunding campaign",
+        "Help a friend move",
+        "Donate old clothes to the shelter",
+        "Participate in a charity run",
+        "Raise money for a good cause",
+        "Give a gift to someone in need",
+        "Sponsor a child's education"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Give back",
+        "Help others",
+        "Donate today",
+        "Care for someone"
+      ]
+    },
+    "typo": {
+      "en": [
+        "donatte to chrity",
+        "volnteer at food bank",
+        "give blood at dontion center",
+        "help a freind in need"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy a gift for a friend",
+        "Pay for someone's meal",
+        "Write a thank-you card",
+        "Send flowers to someone",
+        "Give a compliment",
+        "Cook dinner for a neighbor"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Donate to a local charity",
+        "Volunteer at the food bank",
+        "Help a friend in need"
+      ]
+    },
+    "test": {
+      "en": [
+        "Support a crowdfunding campaign",
+        "Donate old clothes to the shelter",
+        "Participate in a charity run"
+      ]
+    }
+  }
+}

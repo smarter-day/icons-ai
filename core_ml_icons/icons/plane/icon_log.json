@@ -1,0 +1,166 @@
+{
+  "icon": "plane",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "airplane",
+        "airport",
+        "destination",
+        "fly",
+        "location",
+        "mode",
+        "travel",
+        "trip"
+      ],
+      "ru": [
+        "самолёт",
+        "аэропорт",
+        "пункт назначения",
+        "летать",
+        "местоположение",
+        "режим",
+        "путешествие",
+        "поездка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "airplane flying in sky",
+        "commercial airplane route",
+        "airport terminal for boarding",
+        "airport check-in area",
+        "destination reached by airplane",
+        "fly to destination abroad",
+        "fly non-stop to city",
+        "fly across the country",
+        "location of airplane in flight",
+        "flight location tracker",
+        "airplane mode on smartphone",
+        "mode for disabling signals",
+        "travel by air plane",
+        "travel internationally by plane",
+        "round trip by airplane",
+        "vacation trip by plane"
+      ],
+      "ru": [
+        "самолёт летящий в небе",
+        "маршрут коммерческого самолёта",
+        "аэровокзал для посадки",
+        "зона регистрации в аэропорту",
+        "пункт назначения достигнутый самолётом",
+        "лететь к пункту назначения за рубеж",
+        "беспосадочный перелёт до города",
+        "перелёт через страну",
+        "местоположение самолёта в полёте",
+        "трекер местоположения рейса",
+        "режим самолёта на смартфоне",
+        "режим отключения сигналов",
+        "путешествие на самолёте",
+        "международное путешествие на самолёте",
+        "туда и обратно на самолёте",
+        "отпускная поездка на самолёте"
+      ]
+    },
+    "regular": {
+      "en": [
+        "commercial airliner flying overhead",
+        "airplane icon for travel or flight",
+        "boarding a plane at the gate",
+        "flight path shown on world map",
+        "airplane mode toggle in phone settings",
+        "air travel booking icon",
+        "takeoff or landing airplane",
+        "military fighter jet",
+        "paper plane for sending messages",
+        "airport transportation icon"
+      ],
+      "ru": [
+        "коммерческий авиалайнер летящий над головой",
+        "иконка самолёта для путешествий или рейсов",
+        "посадка в самолёт у выхода",
+        "маршрут полёта на карте мира",
+        "переключение режима самолёта в настройках телефона",
+        "иконка бронирования авиаперелётов",
+        "взлёт или посадка самолёта",
+        "военный истребитель",
+        "бумажный самолётик для отправки сообщений",
+        "иконка аэропортового транспорта"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a plane icon for the travel booking screen",
+        "add an airplane symbol to the flight section",
+        "show an airplane for the airport navigation feature",
+        "use the plane icon for the trip planner"
+      ],
+      "ru": [
+        "Мне нужна иконка самолёта для экрана бронирования поездки",
+        "добавить символ самолёта в раздел рейсов",
+        "показать самолёт для функции навигации в аэропорту",
+        "использовать иконку самолёта для планировщика поездок"
+      ]
+    },
+    "typo": {
+      "en": [
+        "ariplane travel",
+        "palne fly",
+        "airprot airplane",
+        "airplaen mode"
+      ],
+      "ru": [
+        "самолёт путешествые",
+        "самолёт летать",
+        "аэропрот самолёт",
+        "режим самолтёа"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "helicopter with rotor blades",
+        "hot air balloon flying",
+        "paper plane origami airplane",
+        "rocket ship launching to space",
+        "airport building terminal",
+        "drone quadcopter flying"
+      ],
+      "ru": [
+        "вертолёт с несущими винтами",
+        "воздушный шар летящий",
+        "бумажный самолётик оригами",
+        "ракета запускающаяся в космос",
+        "здание аэропорта терминал",
+        "дрон квадрокоптер летящий"
+      ]
+    },
+    "valid": {
+      "en": [
+        "airplane plane for travel",
+        "commercial airplane flying",
+        "plane icon for flights"
+      ],
+      "ru": [
+        "самолёт для путешествий",
+        "коммерческий самолёт летящий",
+        "иконка самолёта для рейсов"
+      ]
+    },
+    "test": {
+      "en": [
+        "plane icon",
+        "airplane travel trip",
+        "flight airplane mode"
+      ],
+      "ru": [
+        "иконка самолёта",
+        "поездка самолётом путешествие",
+        "режим полёта самолёта"
+      ]
+    }
+  }
+}

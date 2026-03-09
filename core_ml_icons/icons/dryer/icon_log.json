@@ -1,0 +1,87 @@
+{
+  "icon": "dryer",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "clean",
+        "clothes",
+        "laundromat",
+        "laundry",
+        "washing machine"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Keep the house clean",
+        "Clean the appliance filter",
+        "Dry the clothes after washing",
+        "Tumble dry clothes on low heat",
+        "Go to the laundromat",
+        "Use the laundromat dryer",
+        "Do the laundry today",
+        "Sort laundry before washing",
+        "Use the washing machine first",
+        "Transfer from washing machine to dryer"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Dry clothes after the wash cycle",
+        "Clean the dryer lint filter",
+        "Put the wet clothes in the dryer",
+        "Set the dryer to low heat",
+        "Use the dryer for bedsheets",
+        "Dry a load of towels",
+        "Check if clothes are dry",
+        "Reduce drying time with dryer balls",
+        "Fix the dryer that won't heat",
+        "Do laundry and dry it today"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Dryer's running",
+        "Laundry day",
+        "Clothes in the dryer",
+        "Dry that load"
+      ]
+    },
+    "typo": {
+      "en": [
+        "put cltohs in the dryer",
+        "clena the lint filtter",
+        "do the laudnry",
+        "use the wahing machine"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Hang clothes on the line to dry",
+        "Iron the shirts after drying",
+        "Use the washing machine for cleaning",
+        "Fold and put away the laundry",
+        "Buy laundry detergent",
+        "Dry clean the delicate items"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Put clothes in the dryer",
+        "Clean the dryer lint filter",
+        "Do a load of laundry"
+      ]
+    },
+    "test": {
+      "en": [
+        "Dry the bedsheets",
+        "Use the dryer on low heat",
+        "Transfer clothes to the dryer"
+      ]
+    }
+  }
+}

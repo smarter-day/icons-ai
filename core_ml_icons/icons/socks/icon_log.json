@@ -1,0 +1,166 @@
+{
+  "icon": "socks",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "business socks",
+        "business time",
+        "clothing",
+        "feet",
+        "flight of the conchords",
+        "socks",
+        "stocking",
+        "wednesday"
+      ],
+      "ru": [
+        "деловые носки",
+        "рабочее время",
+        "одежда",
+        "ноги",
+        "полёт конкорд",
+        "носки",
+        "чулок",
+        "среда"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "business socks worn under dress trousers",
+        "business socks in black or navy",
+        "business time means putting on socks",
+        "it is business time socks joke",
+        "clothing item socks for feet",
+        "clothing drawer full of paired socks",
+        "cold feet in need of warm socks",
+        "socks keeping feet cozy in winter",
+        "Flight of the Conchords business time socks",
+        "comedy reference socks",
+        "pair of socks fresh from laundry",
+        "colorful socks pattern on feet",
+        "stocking hung by fireplace Christmas",
+        "knee-high stocking with pattern",
+        "Wednesday Addams black striped socks",
+        "striped socks on Wednesday"
+      ],
+      "ru": [
+        "деловые носки под классические брюки",
+        "деловые носки чёрные или тёмно-синие",
+        "рабочее время значит надеть носки",
+        "шутка о рабочем времени и носках",
+        "носки как предмет одежды для ног",
+        "ящик одежды полный парных носков",
+        "холодным ногам нужны тёплые носки",
+        "носки согревают ноги зимой",
+        "Flight of the Conchords рабочее время носки",
+        "комедийная отсылка носки",
+        "пара носков из стирки",
+        "яркие носки с узором на ногах",
+        "чулок у камина на Рождество",
+        "гольфы с узором",
+        "чёрные полосатые носки Среды Аддамс",
+        "полосатые носки в среду"
+      ]
+    },
+    "regular": {
+      "en": [
+        "pair of colorful patterned socks",
+        "ankle socks for casual wear",
+        "knee-high wool socks for winter",
+        "sports socks with cushioned sole",
+        "mismatched socks fashion trend",
+        "sock drawer organized by color",
+        "no-show invisible socks in sneakers",
+        "compression socks for travel",
+        "toe socks with individual compartments",
+        "socks with funny emoji or food prints"
+      ],
+      "ru": [
+        "пара ярких носков с узором",
+        "носки по щиколотку для повседневной носки",
+        "гольфы из шерсти на зиму",
+        "спортивные носки с мягкой подошвой",
+        "тренд несовпадающих носков",
+        "ящик носков разложен по цвету",
+        "невидимые носки в кроссовках",
+        "компрессионные носки для путешествий",
+        "носки с отдельными отсеками для пальцев",
+        "носки с забавными принтами эмодзи"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a socks icon for the clothing app",
+        "add a socks symbol to the wardrobe section",
+        "show socks for the outfit planning feature",
+        "use the socks icon for the laundry category"
+      ],
+      "ru": [
+        "мне нужна иконка носков для приложения одежды",
+        "добавь символ носков в раздел гардероба",
+        "покажи носки для функции планирования образа",
+        "используй иконку носков для категории стирки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pair of colrful patterned socks",
+        "knee-ihgh wool socks for winter",
+        "sprotss socks with cushioned sole",
+        "sock darwer organized by color"
+      ],
+      "ru": [
+        "пара ярки носков с узором",
+        "шерстяные гольфы дла зимы",
+        "спортивные носки с мягкой подошевой",
+        "ящик носоков разложен по цвету"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "shoe sneaker footwear for walking",
+        "boot tall footwear for winter",
+        "sandal open-toe summer footwear",
+        "gloves for cold weather hand protection",
+        "hat beanie for cold head warmth",
+        "underwear briefs base clothing layer"
+      ],
+      "ru": [
+        "кроссовок обувь для ходьбы",
+        "ботинок высокая обувь для зимы",
+        "сандалия открытая обувь для лета",
+        "перчатки для защиты рук от холода",
+        "шапка бини для тепла",
+        "нижнее бельё трусы базовый слой"
+      ]
+    },
+    "valid": {
+      "en": [
+        "colorful patterned socks",
+        "socks for feet in winter",
+        "pair of socks from laundry"
+      ],
+      "ru": [
+        "яркие носки с узором",
+        "носки для ног зимой",
+        "пара носков из стирки"
+      ]
+    },
+    "test": {
+      "en": [
+        "ankle socks for everyday wear",
+        "socks icon for clothing app",
+        "knee-high wool socks"
+      ],
+      "ru": [
+        "носки по щиколотку для ежедневной носки",
+        "иконка носков для приложения одежды",
+        "шерстяные гольфы"
+      ]
+    }
+  }
+}

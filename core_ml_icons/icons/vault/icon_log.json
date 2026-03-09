@@ -1,0 +1,172 @@
+{
+  "icon": "vault",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bank",
+        "important",
+        "investment",
+        "lock",
+        "money",
+        "premium",
+        "privacy",
+        "safe",
+        "salary"
+      ],
+      "ru": [
+        "банк",
+        "важный",
+        "инвестиции",
+        "замок",
+        "деньги",
+        "премиум",
+        "приватность",
+        "сейф",
+        "зарплата"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bank vault secure room",
+        "bank vault heavy door",
+        "important vault protection",
+        "important secure vault",
+        "investment vault portfolio secure",
+        "investment safe vault",
+        "vault lock combination dial",
+        "lock vault security",
+        "money vault bank storage",
+        "vault full of money",
+        "premium vault access exclusive",
+        "premium content vault",
+        "privacy vault hidden data",
+        "private vault app secure",
+        "safe vault home security",
+        "vault safe combination",
+        "salary vault employee pay",
+        "salary secure vault lock"
+      ],
+      "ru": [
+        "банковский сейф защищённая комната",
+        "банковский сейф тяжёлая дверь",
+        "важная защита сейфа",
+        "важный защищённый сейф",
+        "инвестиционный сейф портфель безопасный",
+        "инвестиционный надёжный сейф",
+        "кодовый замок комбинация сейфа",
+        "замок безопасность сейфа",
+        "деньги в сейфе банк хранение",
+        "сейф полный денег",
+        "премиум доступ к сейфу эксклюзивный",
+        "контент премиум сейф",
+        "приватность сейф скрытые данные",
+        "приложение сейф безопасный",
+        "домашний сейф безопасность",
+        "сейф кодовая комбинация",
+        "зарплата в сейфе оплата труда",
+        "зарплата защищённый сейф замок"
+      ]
+    },
+    "regular": {
+      "en": [
+        "bank vault heavy steel door dial",
+        "home safe vault combination lock",
+        "digital vault encrypted storage app",
+        "vault room bank robbery movie",
+        "wall safe hidden behind painting",
+        "vault open revealing gold bars",
+        "password vault app secure login",
+        "corporate vault asset protection",
+        "vault door handle spinning",
+        "premium vault content paywall"
+      ],
+      "ru": [
+        "банковский сейф тяжёлая стальная дверь",
+        "домашний сейф кодовый замок",
+        "цифровой сейф зашифрованное хранилище",
+        "комната сейфа ограбление банка кино",
+        "настенный сейф скрытый за картиной",
+        "открытый сейф золотые слитки",
+        "приложение хранилища паролей",
+        "корпоративный сейф защита активов",
+        "ручка двери сейфа вращение",
+        "контент премиум сейф платная стена"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a vault icon for the security section",
+        "add a safe symbol to the premium feature",
+        "show a vault for the bank or money category",
+        "use the vault icon for the password manager"
+      ],
+      "ru": [
+        "нужна иконка сейфа для раздела безопасности",
+        "добавь символ сейфа к премиум функции",
+        "покажи сейф для категории банка или денег",
+        "используй иконку сейфа для менеджера паролей"
+      ]
+    },
+    "typo": {
+      "en": [
+        "bnak vault security",
+        "vaul combination lock",
+        "premim vault access",
+        "saef vault home"
+      ],
+      "ru": [
+        "банковский сейф безопасность",
+        "сейф комбинация замок",
+        "премиум сейф доступ",
+        "домашний сейф"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "lock padlock security closed",
+        "safe deposit box bank",
+        "treasure chest gold loot",
+        "briefcase business secure",
+        "shield protected security",
+        "key lock open access"
+      ],
+      "ru": [
+        "замок навесной безопасность закрыт",
+        "банковская ячейка депозит",
+        "сундук с сокровищами золото лут",
+        "портфель деловой безопасный",
+        "щит защита безопасность",
+        "ключ замок открытый доступ"
+      ]
+    },
+    "valid": {
+      "en": [
+        "vault bank security icon",
+        "safe combination lock symbol",
+        "premium vault icon"
+      ],
+      "ru": [
+        "иконка сейфа безопасность банка",
+        "символ сейфа кодовый замок",
+        "иконка премиум сейфа"
+      ]
+    },
+    "test": {
+      "en": [
+        "vault icon safe",
+        "bank vault symbol",
+        "secure vault lock"
+      ],
+      "ru": [
+        "иконка сейфа",
+        "символ банковского сейфа",
+        "защищённый сейф замок"
+      ]
+    }
+  }
+}

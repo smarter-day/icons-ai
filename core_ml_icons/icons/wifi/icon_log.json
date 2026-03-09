@@ -1,0 +1,160 @@
+{
+  "icon": "wifi",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "connection",
+        "hotspot",
+        "internet",
+        "network",
+        "signal",
+        "wireless",
+        "www"
+      ],
+      "ru": [
+        "подключение",
+        "хот-спот",
+        "интернет",
+        "сеть",
+        "сигнал",
+        "беспроводной",
+        "www"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "stable internet connection",
+        "fast broadband connection",
+        "mobile hotspot sharing",
+        "personal hotspot enabled",
+        "wireless internet access",
+        "high-speed internet service",
+        "WiFi network available",
+        "home network settings",
+        "full signal strength bars",
+        "weak signal indicator",
+        "wireless data transmission",
+        "wireless router device",
+        "world wide web browser",
+        "www address bar"
+      ],
+      "ru": [
+        "стабильное подключение к интернету",
+        "быстрое широкополосное подключение",
+        "мобильная раздача хот-спот",
+        "включён личный хот-спот",
+        "беспроводной доступ в интернет",
+        "высокоскоростной интернет-сервис",
+        "доступна сеть WiFi",
+        "настройки домашней сети",
+        "полная шкала силы сигнала",
+        "слабый индикатор сигнала",
+        "передача данных по Wi-Fi",
+        "беспроводной роутер",
+        "браузер всемирной паутины",
+        "адресная строка www"
+      ]
+    },
+    "regular": {
+      "en": [
+        "curved WiFi signal bars radiating",
+        "wireless router broadcasting signal",
+        "internet connectivity indicator",
+        "no WiFi connection lost",
+        "strong wireless network signal",
+        "public WiFi hotspot icon",
+        "home network router symbol",
+        "wireless password protected network",
+        "5GHz WiFi band connection",
+        "mobile device connected to WiFi"
+      ],
+      "ru": [
+        "изогнутые полосы сигнала WiFi",
+        "беспроводной роутер транслирует сигнал",
+        "индикатор подключения к интернету",
+        "нет подключения WiFi потеряно",
+        "сильный сигнал беспроводной сети",
+        "иконка публичного хот-спота WiFi",
+        "символ роутера домашней сети",
+        "беспроводная сеть с паролем",
+        "подключение к диапазону 5GHz WiFi",
+        "мобильное устройство подключено к WiFi"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a WiFi icon for the network settings",
+        "add a signal symbol to the connectivity section",
+        "show a WiFi icon for the internet connection screen",
+        "use the wireless icon for hotspot settings"
+      ],
+      "ru": [
+        "мне нужна иконка WiFi для настроек сети",
+        "добавь символ сигнала в раздел подключения",
+        "покажи иконку WiFi для экрана интернет-подключения",
+        "используй иконку беспроводной сети для настроек хот-спота"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wfi network connection",
+        "wiif signal strength",
+        "conneciton wireless internet",
+        "hotpsot wifi enabled"
+      ],
+      "ru": [
+        "вайфай подкулючение сеть",
+        "сигнал вайфаай сила",
+        "подкключение беспроводной интернет",
+        "хотспот вайфай включён"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Bluetooth pairing symbol",
+        "cellular signal bars mobile network",
+        "ethernet cable wired connection",
+        "satellite dish receiving signal",
+        "NFC near-field communication tap",
+        "mobile data LTE 4G bars"
+      ],
+      "ru": [
+        "символ сопряжения Bluetooth",
+        "полосы сотового сигнала мобильной сети",
+        "проводное подключение ethernet кабель",
+        "спутниковая тарелка принимает сигнал",
+        "NFC касание для связи ближнего поля",
+        "полосы мобильных данных LTE 4G"
+      ]
+    },
+    "valid": {
+      "en": [
+        "WiFi wireless connection signal",
+        "internet network connectivity symbol",
+        "wireless router signal bars"
+      ],
+      "ru": [
+        "сигнал беспроводного подключения WiFi",
+        "символ подключения к интернет-сети",
+        "полосы сигнала беспроводного роутера"
+      ]
+    },
+    "test": {
+      "en": [
+        "WiFi signal strength indicator",
+        "wireless internet connection",
+        "network WiFi connectivity icon"
+      ],
+      "ru": [
+        "индикатор силы сигнала WiFi",
+        "беспроводное подключение к интернету",
+        "иконка подключения к сети WiFi"
+      ]
+    }
+  }
+}

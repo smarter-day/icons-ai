@@ -1,0 +1,148 @@
+{
+  "icon": "plate-utensils",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "dinner",
+        "food",
+        "fork",
+        "knife",
+        "plate"
+      ],
+      "ru": [
+        "ужин",
+        "еда",
+        "вилка",
+        "нож",
+        "тарелка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "dinner plate with utensils set",
+        "dinner restaurant table setting",
+        "food plate on dinner table",
+        "serve food on plate",
+        "fork and knife on plate",
+        "fork placed left of plate",
+        "knife for cutting meal",
+        "steak knife on dinner plate",
+        "empty plate for meal",
+        "dinner plate and silverware"
+      ],
+      "ru": [
+        "тарелка для ужина с приборами",
+        "сервировка стола ресторана",
+        "тарелка еды на обеденном столе",
+        "подать еду на тарелку",
+        "вилка и нож на тарелке",
+        "вилка слева от тарелки",
+        "нож для резки еды",
+        "нож для стейка на тарелке",
+        "пустая тарелка для еды",
+        "тарелка для ужина и столовые приборы"
+      ]
+    },
+    "regular": {
+      "en": [
+        "plate with fork and knife for restaurant",
+        "food service icon with utensils",
+        "dinner setting plate and silverware",
+        "restaurant table setting icon",
+        "lunch or dinner plate icon",
+        "meal served on plate",
+        "dietary tracker meal plate",
+        "fine dining plate with utensils",
+        "buffet plate and cutlery icon",
+        "meal planning plate icon"
+      ],
+      "ru": [
+        "тарелка с вилкой и ножом для ресторана",
+        "иконка обслуживания еды с приборами",
+        "тарелка и столовые приборы для ужина",
+        "иконка сервировки стола в ресторане",
+        "иконка тарелки обеда или ужина",
+        "еда поданная на тарелке",
+        "тарелка трекера питания",
+        "тарелка изысканного ужина с приборами",
+        "тарелка шведского стола и столовые приборы",
+        "иконка тарелки планирования питания"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a plate with fork and knife icon for the restaurant",
+        "add a dinner plate to the food category",
+        "show utensils plate for the meal tracker",
+        "use the plate utensils icon for the dining section"
+      ],
+      "ru": [
+        "Мне нужна иконка тарелки с вилкой и ножом для ресторана",
+        "добавить тарелку для ужина в категорию еды",
+        "показать тарелку с приборами для трекера питания",
+        "использовать иконку тарелки с приборами для раздела питания"
+      ]
+    },
+    "typo": {
+      "en": [
+        "palte utensils",
+        "diner fork knife",
+        "frok and knife plate",
+        "foood plate"
+      ],
+      "ru": [
+        "тарелак приборы",
+        "вилака нож тарелка",
+        "ужни тарелка",
+        "тарелак еда"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "bowl with soup and spoon",
+        "chopsticks for Asian food",
+        "tray with multiple dishes",
+        "cutting board with knife",
+        "pot of food for cooking",
+        "spoon alone for soup"
+      ],
+      "ru": [
+        "миска с супом и ложкой",
+        "палочки для азиатской еды",
+        "поднос с несколькими блюдами",
+        "разделочная доска с ножом",
+        "кастрюля с едой для приготовления",
+        "ложка одна для супа"
+      ]
+    },
+    "valid": {
+      "en": [
+        "plate with fork and knife",
+        "dinner plate utensils icon",
+        "meal plate for restaurant"
+      ],
+      "ru": [
+        "тарелка с вилкой и ножом",
+        "иконка тарелки с приборами",
+        "тарелка ресторана"
+      ]
+    },
+    "test": {
+      "en": [
+        "plate utensils icon",
+        "fork knife dinner plate",
+        "food plate restaurant"
+      ],
+      "ru": [
+        "иконка тарелки с приборами",
+        "вилка нож тарелка ужина",
+        "тарелка ресторана"
+      ]
+    }
+  }
+}

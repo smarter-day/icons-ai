@@ -1,0 +1,136 @@
+{
+  "icon": "pallet-box",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "inventory",
+        "package",
+        "shipping"
+      ],
+      "ru": [
+        "инвентарь",
+        "упаковка",
+        "доставка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "inventory box on pallet",
+        "track inventory in pallet box",
+        "package on shipping pallet",
+        "package wrapped on pallet",
+        "shipping pallet with box",
+        "ship goods on pallet box"
+      ],
+      "ru": [
+        "коробка инвентаря на поддоне",
+        "отслеживать инвентарь в коробке на поддоне",
+        "упаковка на отгрузочном поддоне",
+        "упаковка обёрнутая на поддоне",
+        "отгрузочный поддон с коробкой",
+        "отправлять товары на коробке-поддоне"
+      ]
+    },
+    "regular": {
+      "en": [
+        "single box placed on a wooden pallet",
+        "packaged goods on pallet for shipping",
+        "warehouse pallet with sealed box",
+        "inventory box labeled on pallet",
+        "freight pallet with package secured",
+        "distribution center pallet and box",
+        "logistics icon for packaged pallet",
+        "order fulfillment pallet with box",
+        "receiving dock pallet box unloading",
+        "barcode on pallet box for scanning"
+      ],
+      "ru": [
+        "одна коробка размещённая на деревянном поддоне",
+        "упакованные товары на поддоне для отправки",
+        "поддон склада с запечатанной коробкой",
+        "маркированная коробка инвентаря на поддоне",
+        "грузовой поддон с закреплённой упаковкой",
+        "поддон и коробка распределительного центра",
+        "иконка логистики упакованного поддона",
+        "поддон с коробкой для выполнения заказа",
+        "разгрузка коробки с поддоном на грузовой платформе",
+        "штрих-код на коробке поддона для сканирования"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pallet box icon for the shipping tracker",
+        "add a box on pallet symbol to the logistics view",
+        "show a pallet package for the inventory section",
+        "use the pallet box icon for the order fulfillment screen"
+      ],
+      "ru": [
+        "Мне нужна иконка коробки на поддоне для трекера доставки",
+        "добавить символ коробки на поддоне в логистический вид",
+        "показать упаковку на поддоне для раздела инвентаря",
+        "использовать иконку коробки-поддона для экрана выполнения заказа"
+      ]
+    },
+    "typo": {
+      "en": [
+        "palletbox shiping",
+        "inventroy box pallet",
+        "packge on pallet",
+        "pallet bxo"
+      ],
+      "ru": [
+        "коробка поддна доставка",
+        "инветарь коробка поддон",
+        "упаковак на поддоне",
+        "поддон коробак"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "empty pallet without box",
+        "box alone without pallet",
+        "shipping container for bulk freight",
+        "crate open wooden box",
+        "envelope package for mail",
+        "warehouse shelf without pallet"
+      ],
+      "ru": [
+        "пустой поддон без коробки",
+        "коробка одна без поддона",
+        "грузовой контейнер для оптовых грузов",
+        "открытый деревянный ящик",
+        "упаковка конверт для почты",
+        "стеллаж склада без поддона"
+      ]
+    },
+    "valid": {
+      "en": [
+        "pallet with box for shipping",
+        "inventory package on pallet",
+        "pallet box logistics icon"
+      ],
+      "ru": [
+        "поддон с коробкой для отправки",
+        "упаковка инвентаря на поддоне",
+        "иконка логистики коробки-поддона"
+      ]
+    },
+    "test": {
+      "en": [
+        "pallet box icon",
+        "package on shipping pallet",
+        "inventory pallet box"
+      ],
+      "ru": [
+        "иконка коробки-поддона",
+        "упаковка на отгрузочном поддоне",
+        "коробка инвентаря на поддоне"
+      ]
+    }
+  }
+}

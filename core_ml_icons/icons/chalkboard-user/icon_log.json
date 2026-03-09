@@ -1,0 +1,166 @@
+{
+  "icon": "chalkboard-user",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "blackboard",
+        "instructor",
+        "learning",
+        "professor",
+        "school",
+        "uer",
+        "whiteboard",
+        "writing"
+      ],
+      "ru": [
+        "классная доска",
+        "инструктор",
+        "обучение",
+        "профессор",
+        "школа",
+        "пользователь",
+        "доска",
+        "написание"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Instructor at the blackboard during class",
+        "Draw diagrams on the blackboard for students",
+        "Instructor presenting at the whiteboard",
+        "Instructor-led training session today",
+        "Learning facilitated by the teacher at the board",
+        "Group learning with the instructor at the board",
+        "Professor writing on the chalkboard",
+        "Professor's lecture notes on the board",
+        "School teacher at the classroom board",
+        "School class led by the instructor",
+        "User demonstration on the whiteboard",
+        "User walkthrough at the board",
+        "Whiteboard training with the coach",
+        "Instructor at the whiteboard for review",
+        "Writing lesson content on the board",
+        "Writing feedback on the chalkboard"
+      ],
+      "ru": [
+        "Преподаватель у доски во время урока",
+        "Рисовать диаграммы на доске для студентов",
+        "Инструктор на презентации у доски",
+        "Обучение под руководством инструктора",
+        "Обучение под руководством преподавателя",
+        "Групповое обучение с инструктором у доски",
+        "Профессор пишет на доске",
+        "Конспект лекции профессора на доске",
+        "Учитель у классной доски",
+        "Школьный урок под руководством учителя",
+        "Демонстрация пользователем на доске",
+        "Пошаговый показ у доски",
+        "Тренинг у доски с тренером",
+        "Инструктор у доски для обзора",
+        "Запись содержания урока на доске",
+        "Обратная связь на доске"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Teacher presenting at the front of the class",
+        "Professor leading the lecture at the board",
+        "Instructor explains the concept on the board",
+        "Training session with the coach at the whiteboard",
+        "Mentor demonstrating steps on the chalkboard",
+        "Classroom teacher writing the lesson",
+        "Presenter at the whiteboard during the workshop",
+        "Tutor working through the problem on the board",
+        "Educator writing key points for the class",
+        "Coach drawing the play on the whiteboard"
+      ],
+      "ru": [
+        "Учитель ведёт урок у доски",
+        "Профессор читает лекцию у доски",
+        "Преподаватель объясняет концепт на доске",
+        "Тренинг с тренером у доски",
+        "Наставник демонстрирует шаги на доске",
+        "Учитель пишет урок на доске",
+        "Ведущий у доски на воркшопе",
+        "Репетитор разбирает задачу у доски",
+        "Педагог записывает ключевые тезисы",
+        "Тренер рисует тактику на доске"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "teacher's writing something on the board",
+        "prof going over it on the whiteboard",
+        "coach walked us through it at the board",
+        "instructor had it all mapped out up there"
+      ],
+      "ru": [
+        "учитель что-то пишет на доске",
+        "проф разбирает это у доски",
+        "тренер провёл нас через это у доски",
+        "инструктор всё расписал там наверху"
+      ]
+    },
+    "typo": {
+      "en": [
+        "isntructor at the whtieboard for class",
+        "prfoessor writting on the chalckboard",
+        "taecher presentin at the bord",
+        "trainning sesion with coch at whitebord"
+      ],
+      "ru": [
+        "прподаватель у доски для урока",
+        "прфессор пишет на доске",
+        "учитель пресентует у доски",
+        "тренинг с тренром у доски"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Empty chalkboard with no teacher present",
+        "Whiteboard with only text no instructor",
+        "Online tutorial video without a board",
+        "Student writing on the board not teacher",
+        "Presentation slide deck for remote class",
+        "Lecture notes taken on a tablet"
+      ],
+      "ru": [
+        "Пустая доска без учителя",
+        "Только текст на доске без преподавателя",
+        "Видеоурок онлайн без доски",
+        "Студент пишет у доски не учитель",
+        "Слайды для дистанционного урока",
+        "Конспект лекции на планшете"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Instructor at the whiteboard for the training",
+        "Professor explaining at the chalkboard",
+        "Teacher-led class at the board"
+      ],
+      "ru": [
+        "Инструктор у доски на тренинге",
+        "Профессор объясняет у доски",
+        "Урок под руководством учителя у доски"
+      ]
+    },
+    "test": {
+      "en": [
+        "Coach at the whiteboard for tactics",
+        "Instructor writing on the board",
+        "Professor at the chalkboard"
+      ],
+      "ru": [
+        "Тренер у доски для тактики",
+        "Инструктор пишет на доске",
+        "Профессор у классной доски"
+      ]
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "icon": "bacon",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bacon",
+        "blt",
+        "breakfast",
+        "food",
+        "ham",
+        "lard",
+        "meat",
+        "pancetta",
+        "pork",
+        "rasher"
+      ],
+      "ru": [
+        "бекон",
+        "BLT",
+        "завтрак",
+        "еда",
+        "ветчина",
+        "сало",
+        "мясо",
+        "панчетта",
+        "свинина",
+        "ломтик"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cook some bacon",
+        "make a BLT for lunch",
+        "full breakfast this morning",
+        "prep hearty food",
+        "get some ham for the sandwich",
+        "use lard for cooking",
+        "buy some smoked meat",
+        "add pancetta to the pasta",
+        "cook the pork belly",
+        "fry a rasher of bacon",
+        "Crispy bacon strips for the salad",
+        "BLT sandwich ingredients on the list",
+        "Breakfast prep for the whole family",
+        "Healthy food swap this week",
+        "Honey ham for the holiday dinner",
+        "Lard substitute for the pastry dough",
+        "Deli meat platter for the party",
+        "Pancetta and mushroom pasta dish",
+        "Roast pork for Sunday dinner",
+        "Two rashers in the morning fry-up"
+      ],
+      "ru": [
+        "пожарить бекон",
+        "сделать BLT на обед",
+        "полноценный завтрак сегодня утром",
+        "приготовить сытную еду",
+        "взять ветчину для сэндвича",
+        "использовать сало для готовки",
+        "купить копчёного мяса",
+        "добавить панчетту в пасту",
+        "приготовить свиную грудинку",
+        "поджарить ломтик бекона",
+        "Хрустящие полоски бекона для салата",
+        "Ингредиенты для сэндвича БЛТ в списке",
+        "Завтрак для всей семьи",
+        "Здоровая замена блюдам на этой неделе",
+        "Медовая ветчина на праздничный стол",
+        "Заменитель сала для теста",
+        "Мясная нарезка для вечеринки",
+        "Паста с панчеттой и грибами",
+        "Жаркое из свинины на воскресный обед",
+        "Два ломтика бекона на утреннюю жарку"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Cook bacon for breakfast",
+        "Buy bacon at the store",
+        "Make BLT sandwiches",
+        "Sunday bacon and eggs",
+        "Prep breakfast for the family",
+        "Meal prep: bacon wraps",
+        "Grab some ham from the deli",
+        "Cook a hearty breakfast",
+        "Make bacon-wrapped appetizers",
+        "Add bacon to the shopping list"
+      ],
+      "ru": [
+        "Приготовить бекон на завтрак",
+        "Купить бекон в магазине",
+        "Сделать сэндвич BLT",
+        "Воскресные яйца с беконом",
+        "Приготовить завтрак для семьи",
+        "Meal prep: рулеты с беконом",
+        "Взять ветчину в гастрономе",
+        "Приготовить плотный завтрак",
+        "Сделать закуску с беконом",
+        "Добавить бекон в список покупок"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I could really go for some bacon right now",
+        "Make a proper cooked breakfast",
+        "Get the good crispy bacon",
+        "Grab some smoked meat for dinner"
+      ],
+      "ru": [
+        "Очень хочу бекон прямо сейчас",
+        "Сделать нормальный жареный завтрак",
+        "Купить хрустящий бекон",
+        "Взять копчёного мяса на ужин"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Ccok bacon for breakfst",
+        "Buy bakon",
+        "Make BLT sandwichs",
+        "Prepear the meat"
+      ],
+      "ru": [
+        "Приготовть бекон на зафтрак",
+        "Купить бикон",
+        "Сделать сэндич BLT",
+        "Подготовть мясо"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Grocery shopping",
+        "Make a sandwich",
+        "Cook dinner",
+        "Breakfast meeting",
+        "Buy sausages",
+        "BBQ tomorrow"
+      ],
+      "ru": [
+        "Поход в продуктовый",
+        "Сделать бутерброд",
+        "Приготовить ужин",
+        "Деловой завтрак",
+        "Купить сосиски",
+        "Барбекю завтра"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Meal plan for the week includes bacon",
+        "Try making pancetta at home",
+        "Pick up something for a big breakfast"
+      ],
+      "ru": [
+        "Включить бекон в план питания на неделю",
+        "Попробовать приготовить панчетту дома",
+        "Купить что-нибудь для плотного завтрака"
+      ]
+    },
+    "test": {
+      "en": [
+        "Greasy spoon breakfast this morning",
+        "Ham and eggs before the gym",
+        "Smoked meat platter for guests"
+      ],
+      "ru": [
+        "Жареный завтрак сегодня утром",
+        "Яичница с ветчиной перед спортзалом",
+        "Тарелка с копчёным мясом для гостей"
+      ]
+    }
+  }
+}

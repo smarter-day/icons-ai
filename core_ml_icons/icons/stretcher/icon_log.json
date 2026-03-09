@@ -1,0 +1,148 @@
+{
+  "icon": "stretcher",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ambulance",
+        "bed",
+        "emergency",
+        "er",
+        "patient"
+      ],
+      "ru": [
+        "скорая помощь",
+        "кровать",
+        "скорая",
+        "приёмный покой",
+        "пациент"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "stretcher loaded into ambulance",
+        "ambulance paramedic stretcher",
+        "hospital bed on wheels stretcher",
+        "stretcher bed transport",
+        "emergency stretcher scene",
+        "stretcher at emergency scene",
+        "ER stretcher patient waiting",
+        "stretcher in emergency room",
+        "patient on stretcher moved",
+        "injured patient on stretcher"
+      ],
+      "ru": [
+        "носилки загружены в скорую",
+        "носилки парамедик скорая помощь",
+        "больничная койка на колёсах носилки",
+        "транспортировка на носилках",
+        "носилки на месте происшествия",
+        "носилки у скорой помощи",
+        "носилки в приёмном покое ожидание",
+        "носилки в отделении скорой помощи",
+        "пациент на носилках перемещается",
+        "раненый пациент на носилках"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wheeled hospital stretcher gurney",
+        "paramedic securing patient on stretcher",
+        "ER bed on wheels with rails",
+        "ambulance interior with stretcher loaded",
+        "stretcher parked in hospital hallway",
+        "foldable portable stretcher field use",
+        "orthopedic stretcher for spine injuries",
+        "crash cart and stretcher emergency",
+        "stretcher transfer between facilities",
+        "first responder using stretcher at accident"
+      ],
+      "ru": [
+        "больничная каталка-носилки на колёсах",
+        "парамедик фиксирует пациента на носилках",
+        "каталка в приёмном покое с поручнями",
+        "интерьер скорой с погружёнными носилками",
+        "носилки в коридоре больницы",
+        "складные переносные носилки для поля",
+        "ортопедические носилки для травм позвоночника",
+        "реанимационная тележка и носилки экстренная",
+        "транспортировка на носилках между учреждениями",
+        "первый помощник использует носилки на месте ДТП"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a stretcher icon for the medical emergency section",
+        "add a stretcher symbol to the hospital category",
+        "show a stretcher for the ER patient flow",
+        "use the stretcher icon for ambulance tasks"
+      ],
+      "ru": [
+        "нужна иконка носилок для раздела медицинской скорой",
+        "добавь символ носилок в категорию больниц",
+        "покажи носилки для потока пациентов в приёмном покое",
+        "используй иконку носилок для задач скорой помощи"
+      ]
+    },
+    "typo": {
+      "en": [
+        "strtcher ambulance patient",
+        "emergancy stretcher ER",
+        "hosptal bed gurney",
+        "pateint on stretcher"
+      ],
+      "ru": [
+        "носилки скорй помощи",
+        "экстреная каталка",
+        "больничная кроватт на колёсах",
+        "пациент на носилкак"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "hospital bed with rails patient resting",
+        "wheelchair mobility disability",
+        "ambulance vehicle emergency transport",
+        "first aid kit medical supplies",
+        "operating table in surgery room",
+        "gurney bed for post-op recovery"
+      ],
+      "ru": [
+        "больничная кровать с поручнями пациент отдыхает",
+        "инвалидная коляска мобильность",
+        "машина скорой помощи транспорт",
+        "аптечка первой помощи медицинские принадлежности",
+        "операционный стол в операционной",
+        "каталка для послеоперационного восстановления"
+      ]
+    },
+    "valid": {
+      "en": [
+        "ambulance stretcher for patient",
+        "hospital gurney on wheels",
+        "emergency stretcher icon"
+      ],
+      "ru": [
+        "носилки скорой помощи для пациента",
+        "больничная каталка на колёсах",
+        "иконка аварийных носилок"
+      ]
+    },
+    "test": {
+      "en": [
+        "stretcher ER patient transport",
+        "medical stretcher wheeled bed",
+        "paramedic stretcher"
+      ],
+      "ru": [
+        "носилки в приёмном покое транспорт",
+        "медицинские носилки каталка",
+        "носилки парамедика"
+      ]
+    }
+  }
+}

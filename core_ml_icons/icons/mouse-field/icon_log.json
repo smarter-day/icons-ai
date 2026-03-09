@@ -1,0 +1,154 @@
+{
+  "icon": "mouse-field",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cheese",
+        "mickey",
+        "minnie",
+        "rat",
+        "rodent",
+        "squeak"
+      ],
+      "ru": [
+        "сыр",
+        "микки",
+        "минни",
+        "крыса",
+        "грызун",
+        "писк"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cheese wedge for mouse bait",
+        "slice of cheese for mouse",
+        "Mickey Mouse iconic cartoon character",
+        "Mickey Mouse ears silhouette",
+        "Minnie Mouse with polka dot bow",
+        "Minnie Mouse Disney character",
+        "rat in the field or kitchen",
+        "rat running through maze",
+        "small rodent in a field",
+        "rodent like mouse or hamster",
+        "mouse squeak noise sound",
+        "squeaky mouse toy"
+      ],
+      "ru": [
+        "кусок сыра для приманки мыши",
+        "ломтик сыра для мыши",
+        "культовый мультяшный персонаж Микки Маус",
+        "силуэт ушей Микки Мауса",
+        "Минни Маус с бантом в горошек",
+        "персонаж Disney Минни Маус",
+        "крыса в поле или на кухне",
+        "крыса бегущая через лабиринт",
+        "маленький грызун в поле",
+        "грызун как мышь или хомяк",
+        "писк мыши звук",
+        "пищащая игрушка-мышь"
+      ]
+    },
+    "regular": {
+      "en": [
+        "cute cartoon mouse in a field",
+        "small gray mouse with round ears",
+        "Disney Mickey Mouse silhouette icon",
+        "field mouse foraging for food",
+        "mouse holding a piece of cheese",
+        "rat with long tail in house",
+        "computer mouse pun with animal",
+        "mouse trap with cheese bait",
+        "fluffy hamster or mouse pet",
+        "rodent pest control symbol"
+      ],
+      "ru": [
+        "милая мультяшная мышь в поле",
+        "маленькая серая мышь с круглыми ушами",
+        "иконка силуэта Микки Мауса Disney",
+        "полевая мышь в поисках еды",
+        "мышь держащая кусочек сыра",
+        "крыса с длинным хвостом в доме",
+        "каламбур компьютерная мышь и животное",
+        "мышеловка с приманкой из сыра",
+        "пушистый хомяк или мышь-питомец",
+        "символ борьбы с грызунами-вредителями"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a mouse icon for the cute animal section",
+        "add a rodent symbol to the farm animals category",
+        "show a mouse character for the children's app",
+        "use the mouse field icon for the pest control feature"
+      ],
+      "ru": [
+        "Мне нужна иконка мыши для раздела милых животных",
+        "добавить символ грызуна в категорию фермерских животных",
+        "показать персонажа мышь для детского приложения",
+        "использовать иконку мыши для функции борьбы с вредителями"
+      ]
+    },
+    "typo": {
+      "en": [
+        "mose field animal",
+        "mouce with cheese",
+        "rodant squeak",
+        "Micky Mouse icon"
+      ],
+      "ru": [
+        "мышк в поле",
+        "крыас с сыром",
+        "грызну писк",
+        "Мики Маус икона"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "computer mouse for cursor control",
+        "rabbit hopping in a field",
+        "hamster running in wheel",
+        "squirrel collecting nuts",
+        "hedgehog curled into ball",
+        "gopher poking head from burrow"
+      ],
+      "ru": [
+        "компьютерная мышь для управления курсором",
+        "кролик прыгающий по полю",
+        "хомяк бегущий в колесе",
+        "белка собирающая орехи",
+        "ёж свернувшийся в клубок",
+        "суслик высовывающий голову из норы"
+      ]
+    },
+    "valid": {
+      "en": [
+        "mouse animal in field",
+        "cartoon mouse with cheese",
+        "small rodent mouse icon"
+      ],
+      "ru": [
+        "мышь животное в поле",
+        "мультяшная мышь с сыром",
+        "иконка маленького грызуна"
+      ]
+    },
+    "test": {
+      "en": [
+        "mouse field icon",
+        "cute mouse rodent",
+        "Mickey Mouse style animal"
+      ],
+      "ru": [
+        "иконка мыши в поле",
+        "милый грызун мышь",
+        "животное в стиле Микки Мауса"
+      ]
+    }
+  }
+}

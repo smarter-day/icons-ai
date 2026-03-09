@@ -1,0 +1,148 @@
+{
+  "icon": "braille",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "alphabet",
+        "blind",
+        "dots",
+        "raised",
+        "vision"
+      ],
+      "ru": [
+        "алфавит",
+        "слепой",
+        "точки",
+        "рельефный",
+        "зрение"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "learn the braille alphabet",
+        "accessibility for blind users",
+        "raised dots reading",
+        "raised text for the visually impaired",
+        "vision impairment accessibility",
+        "Braille alphabet chart on the wall",
+        "Blind-accessible design for the app",
+        "Dots pattern on the keypad buttons",
+        "Raised surface label for the jar lid",
+        "Vision test scheduled for next week"
+      ],
+      "ru": [
+        "выучить алфавит Брайля",
+        "доступность для слабовидящих",
+        "чтение рельефных точек",
+        "рельефный текст для слабовидящих",
+        "доступность при нарушении зрения",
+        "Таблица алфавита Брайля на стене",
+        "Дизайн приложения для незрячих пользователей",
+        "Точечный рисунок на кнопках клавиатуры",
+        "Рельефная этикетка для крышки банки",
+        "Проверка зрения запланирована на следующей неделе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Learn to read braille",
+        "Add braille labels to the buttons",
+        "Braille reading tutorial",
+        "Accessibility features for blind users",
+        "Print materials in braille",
+        "Braille signage for the building",
+        "Study braille for the project",
+        "Braille awareness workshop",
+        "Request braille materials for the event",
+        "Install braille signs in the office"
+      ],
+      "ru": [
+        "Научиться читать шрифт Брайля",
+        "Добавить метки Брайля на кнопки",
+        "Обучение чтению шрифта Брайля",
+        "Функции доступности для слабовидящих",
+        "Напечатать материалы шрифтом Брайля",
+        "Вывески шрифтом Брайля для здания",
+        "Изучить шрифт Брайля для проекта",
+        "Семинар по шрифту Брайля",
+        "Запросить материалы Брайля для мероприятия",
+        "Установить таблички Брайля в офисе"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I want to learn how to read braille",
+        "The museum should have braille labels",
+        "Let's add braille to the signage",
+        "Accessibility needs to include braille"
+      ],
+      "ru": [
+        "Хочу научиться читать шрифт Брайля",
+        "В музее должны быть таблички Брайля",
+        "Давайте добавим Брайль к табличкам",
+        "Доступность должна включать шрифт Брайля"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Lern to read brail",
+        "Add braile labels to the buttons",
+        "Brail signge for the building",
+        "Acessibility featrues for blnd users"
+      ],
+      "ru": [
+        "Научтьися читать шрит Брайля",
+        "Добавить меткки Брайля на кнопки",
+        "Вывески Брайла для здния",
+        "Функции дотупности для слбовидящих"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Accessibility audit for the website",
+        "Sign language interpreter booking",
+        "Hearing aid fitting appointment",
+        "Wheelchair ramp installation",
+        "Large print materials request",
+        "Screen reader setup"
+      ],
+      "ru": [
+        "Аудит доступности сайта",
+        "Запись переводчика жестового языка",
+        "Запись на подбор слухового аппарата",
+        "Установка пандуса для инвалидной коляски",
+        "Запрос материалов крупным шрифтом",
+        "Настройка программы экранного чтения"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Add braille labels to the elevator buttons",
+        "Braille accessibility workshop",
+        "Learn the braille alphabet this month"
+      ],
+      "ru": [
+        "Добавить таблички Брайля к кнопкам лифта",
+        "Семинар по доступности Брайля",
+        "Выучить алфавит Брайля в этом месяце"
+      ]
+    },
+    "test": {
+      "en": [
+        "Install braille signs in the building",
+        "Request braille materials for the event",
+        "Braille reading practice session"
+      ],
+      "ru": [
+        "Установить таблички Брайля в здании",
+        "Запросить материалы Брайля для мероприятия",
+        "Практика чтения шрифта Брайля"
+      ]
+    }
+  }
+}

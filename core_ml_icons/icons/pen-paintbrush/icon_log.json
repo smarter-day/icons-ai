@@ -1,0 +1,154 @@
+{
+  "icon": "pen-paintbrush",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "art",
+        "design",
+        "modify",
+        "paint",
+        "pencil",
+        "write"
+      ],
+      "ru": [
+        "искусство",
+        "дизайн",
+        "изменить",
+        "краска",
+        "карандаш",
+        "писать"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "art tools pen and paintbrush",
+        "create art with pen or brush",
+        "design with pen and brush combo",
+        "vector design and painting",
+        "modify artwork with pen or brush",
+        "modify design creatively",
+        "paint with digital brush or pen",
+        "paint tool switching",
+        "pencil sketch and paint combo",
+        "pencil and paintbrush together",
+        "write or paint with dual tool",
+        "writing and painting modes"
+      ],
+      "ru": [
+        "инструменты искусства ручка и кисть",
+        "создавать искусство ручкой или кистью",
+        "дизайн с комбо ручки и кисти",
+        "векторный дизайн и рисование",
+        "изменить произведение ручкой или кистью",
+        "творческое изменение дизайна",
+        "рисовать цифровой кистью или ручкой",
+        "переключение инструментов рисования",
+        "эскиз карандашом и комбо краски",
+        "карандаш и кисть вместе",
+        "писать или рисовать двойным инструментом",
+        "режимы письма и рисования"
+      ]
+    },
+    "regular": {
+      "en": [
+        "pen and paintbrush crossed icon for art",
+        "creative tools pen and brush combined",
+        "design software pen and paintbrush tool",
+        "artist's dual tool for drawing and painting",
+        "vector path pen and color brush",
+        "art app toolbar with pen and brush",
+        "modify icon with pen and paintbrush",
+        "edit and paint combined creative icon",
+        "pencil and brush for design work",
+        "digital art tool pen and paint"
+      ],
+      "ru": [
+        "скрещенные ручка и кисть для искусства",
+        "творческие инструменты ручка и кисть вместе",
+        "инструмент ручка и кисть в дизайн-программе",
+        "двойной инструмент художника для рисования",
+        "вектор путь ручка и цветная кисть",
+        "панель инструментов приложения с ручкой и кистью",
+        "иконка изменения с ручкой и кистью",
+        "объединённая творческая иконка редактирования и рисования",
+        "карандаш и кисть для дизайн-работы",
+        "цифровой художественный инструмент ручка и краска"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pen and paintbrush icon for the creative tools",
+        "add a pen-brush symbol to the art section",
+        "show a combined tool for the modify feature",
+        "use the pen paintbrush icon for the design editor"
+      ],
+      "ru": [
+        "Мне нужна иконка ручки и кисти для творческих инструментов",
+        "добавить символ ручки-кисти в раздел искусства",
+        "показать объединённый инструмент для функции изменения",
+        "использовать иконку ручки и кисти для дизайн-редактора"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pen paintburhsh art",
+        "dessign pen brush",
+        "modifiy paint",
+        "pencli paintbrush"
+      ],
+      "ru": [
+        "ручка кисть искутсво",
+        "дизайн ручка кисть",
+        "изменть краска",
+        "кисть карандш"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "paintbrush alone for painting",
+        "pen alone for writing paths",
+        "marker pen thick lines",
+        "eraser tool for deleting",
+        "selection tool arrow cursor",
+        "crop tool for images"
+      ],
+      "ru": [
+        "кисть одна для рисования",
+        "ручка одна для написания путей",
+        "маркер ручка толстые линии",
+        "инструмент ластик для удаления",
+        "инструмент выделения стрелка курсор",
+        "инструмент обрезки для изображений"
+      ]
+    },
+    "valid": {
+      "en": [
+        "pen and paintbrush art tool",
+        "creative tool pen brush icon",
+        "design modify pen brush"
+      ],
+      "ru": [
+        "инструмент ручка и кисть",
+        "иконка творческого инструмента кисть",
+        "дизайн изменить ручка кисть"
+      ]
+    },
+    "test": {
+      "en": [
+        "pen paintbrush icon",
+        "art design pen and brush",
+        "modify with pen and paint"
+      ],
+      "ru": [
+        "иконка ручки и кисти",
+        "искусство дизайн ручка и кисть",
+        "изменить ручкой и краской"
+      ]
+    }
+  }
+}

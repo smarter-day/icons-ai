@@ -1,0 +1,196 @@
+{
+  "icon": "taxi",
+  "rows": {
+    "train_en": 63,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cab",
+        "cabbie",
+        "car",
+        "car service",
+        "lyft",
+        "machine",
+        "oncoming",
+        "oncoming taxi",
+        "taxi",
+        "transportation",
+        "travel",
+        "uber",
+        "vehicle"
+      ],
+      "ru": [
+        "такси",
+        "таксист",
+        "машина",
+        "автосервис",
+        "лифт",
+        "автомобиль",
+        "встречный",
+        "встречное такси",
+        "такси",
+        "транспорт",
+        "поездка",
+        "убер",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cab hailing on street corner",
+        "yellow cab NYC taxi",
+        "cabbie driver waiting at stand",
+        "cabbie tip after ride",
+        "taxi car yellow sedan",
+        "car service premium taxi",
+        "car service airport pickup",
+        "car service black town car",
+        "Lyft rideshare app ride",
+        "Lyft pink mustache logo",
+        "taxi machine meter running",
+        "cab machine fare calculate",
+        "oncoming taxi approaching",
+        "oncoming car headlights taxi",
+        "oncoming taxi in traffic",
+        "flag down oncoming taxi",
+        "taxi stand waiting line",
+        "taxi rank airport",
+        "transportation taxi commute",
+        "daily transportation taxi",
+        "travel by taxi city tour",
+        "travel taxi ride sightseeing",
+        "Uber ride request app",
+        "Uber driver arriving soon",
+        "vehicle taxi yellow marked",
+        "vehicle for hire taxi"
+      ],
+      "ru": [
+        "поймать такси на перекрёстке",
+        "жёлтое такси Нью-Йорк",
+        "таксист ждёт на стоянке",
+        "чаевые таксисту после поездки",
+        "жёлтый автомобиль такси",
+        "премиальный автосервис такси",
+        "трансфер из аэропорта",
+        "чёрный таун-кар автосервис",
+        "поездка на Lyft приложение",
+        "розовый логотип Lyft усы",
+        "счётчик такси работает",
+        "счётчик расчёта стоимости поездки",
+        "встречное такси приближается",
+        "встречный автомобиль фары такси",
+        "встречное такси в пробке",
+        "остановить встречное такси",
+        "стоянка такси очередь ожидания",
+        "стоянка такси аэропорт",
+        "транспорт поездка на такси",
+        "ежедневный транспорт такси",
+        "путешествие на такси городской тур",
+        "экскурсия на такси",
+        "заказ Uber через приложение",
+        "водитель Uber скоро прибудет",
+        "такси жёлтый отмеченный автомобиль",
+        "транспортное средство такси"
+      ]
+    },
+    "regular": {
+      "en": [
+        "yellow taxi cab on city street",
+        "Uber app requesting nearby driver",
+        "airport taxi pickup zone sign",
+        "taxi meter showing fare amount",
+        "taxi driver license ID displayed",
+        "tourist hailing yellow cab",
+        "ride sharing app map driver",
+        "black car service corporate travel",
+        "taxi rank queue at train station",
+        "electric taxi cab eco friendly"
+      ],
+      "ru": [
+        "жёлтое такси на городской улице",
+        "приложение Uber запрос ближайшего водителя",
+        "зона подачи такси в аэропорту",
+        "счётчик такси показывает сумму",
+        "удостоверение таксиста отображается",
+        "турист останавливает жёлтое такси",
+        "приложение совместных поездок карта водителя",
+        "черный автомобиль корпоративные поездки",
+        "стоянка такси у вокзала",
+        "электрический таксомотор экологичный"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a taxi icon for the transportation section",
+        "add a cab symbol to the ride booking feature",
+        "show a taxi for the travel category",
+        "use the taxi icon for the commute planner"
+      ],
+      "ru": [
+        "нужна иконка такси для раздела транспорта",
+        "добавь символ такси к функции заказа поездки",
+        "покажи такси для категории путешествий",
+        "используй иконку такси для планировщика поездок"
+      ]
+    },
+    "typo": {
+      "en": [
+        "yello taxi cab city",
+        "uebr ride request",
+        "tranportation taxi ride",
+        "cab srevice airport"
+      ],
+      "ru": [
+        "жёлтое такси город",
+        "заказ Убер поездка",
+        "транспорт такси поездка",
+        "автосервис аэропорт"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "bus public transit route",
+        "subway metro underground train",
+        "car personal vehicle driving",
+        "ambulance emergency vehicle",
+        "police car law enforcement vehicle",
+        "rideshare bicycle bike rental"
+      ],
+      "ru": [
+        "автобус общественный транспорт маршрут",
+        "метро подземный поезд",
+        "личный автомобиль вождение",
+        "машина скорой помощи",
+        "полицейская машина правоохранительное транспортное средство",
+        "велосипед совместная поездка аренда"
+      ]
+    },
+    "valid": {
+      "en": [
+        "yellow taxi cab icon",
+        "Uber taxi ride symbol",
+        "taxi transportation"
+      ],
+      "ru": [
+        "иконка жёлтого такси",
+        "символ поездки Uber такси",
+        "транспорт такси"
+      ]
+    },
+    "test": {
+      "en": [
+        "taxi icon city",
+        "cab ride symbol",
+        "taxi vehicle transportation"
+      ],
+      "ru": [
+        "иконка такси город",
+        "символ поездки на такси",
+        "такси транспортное средство"
+      ]
+    }
+  }
+}

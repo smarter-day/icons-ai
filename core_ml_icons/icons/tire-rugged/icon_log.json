@@ -1,0 +1,154 @@
+{
+  "icon": "tire-rugged",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "auto",
+        "car",
+        "offroad",
+        "rim",
+        "rubber",
+        "wheel"
+      ],
+      "ru": [
+        "авто",
+        "машина",
+        "внедорожье",
+        "диск",
+        "резина",
+        "колесо"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "auto rugged tire heavy duty",
+        "auto tire off-road knobby",
+        "car offroad tire muddy terrain",
+        "car rugged tyre for trails",
+        "offroad tire deep tread pattern",
+        "offroad mudding tire chunky",
+        "rim with off-road tire mounted",
+        "rugged rim all terrain",
+        "rubber tire thick sidewall",
+        "rubber chunky off-road tire",
+        "wheel rugged all terrain",
+        "off-road wheel large diameter"
+      ],
+      "ru": [
+        "авто внедорожная шина прочная",
+        "шина авто для бездорожья зубчатая",
+        "внедорожная шина грязная трасса",
+        "грубая шина для внедорожных трасс",
+        "внедорожная шина глубокий протектор",
+        "внедорожная шина для грязи крупная",
+        "диск с внедорожной шиной",
+        "прочный диск полный привод",
+        "резиновая шина толстый боковик",
+        "крупная внедорожная резина",
+        "колесо прочное все дороги",
+        "внедорожное колесо большой диаметр"
+      ]
+    },
+    "regular": {
+      "en": [
+        "knobby off-road tire for 4x4 vehicle",
+        "mud terrain tire deep lug pattern",
+        "rugged tire for rock crawling",
+        "all-terrain tire truck SUV",
+        "off-road tire aired down soft terrain",
+        "aggressive tread rugged tire sidewall",
+        "lifted truck with massive off-road tires",
+        "spare rugged tire mounted on back",
+        "off-road tire spinning in mud",
+        "rugged tire comparison road vs trail"
+      ],
+      "ru": [
+        "зубчатая внедорожная шина для полноприводного авто",
+        "грязевая шина глубокий рисунок протектора",
+        "прочная шина для скалолазания",
+        "шина для любого бездорожья грузовик внедорожник",
+        "внедорожная шина спущенное давление мягкий грунт",
+        "агрессивный протектор прочная шина боковик",
+        "лифтованный грузовик с массивными внедорожными шинами",
+        "запасная внедорожная шина на задней двери",
+        "внедорожная шина буксует в грязи",
+        "сравнение шин дорога против бездорожья"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a rugged tire icon for the off-road section",
+        "add an all-terrain wheel symbol to the vehicle features",
+        "show a rugged tire for the 4x4 category",
+        "use the tire-rugged icon for the trail activity"
+      ],
+      "ru": [
+        "нужна иконка прочной шины для внедорожного раздела",
+        "добавь символ шины полного привода к функциям транспорта",
+        "покажи прочную шину для категории полного привода",
+        "используй иконку внедорожной шины для активностей на трейлах"
+      ]
+    },
+    "typo": {
+      "en": [
+        "rugedd offroad tire",
+        "offrroad mud tire",
+        "4x4 tyre ruggd",
+        "ofroad tire knobby"
+      ],
+      "ru": [
+        "внедорожная прочная шина",
+        "внедорожная грязевая шна",
+        "шина полного привода прочная",
+        "внедорожная шина зубчатая"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "regular car tire smooth tread",
+        "bicycle tire thin road",
+        "motorcycle tire lean grip",
+        "tractor tire large agricultural",
+        "steering wheel car driving",
+        "rim alloy decorative car wheel"
+      ],
+      "ru": [
+        "обычная автомобильная шина гладкий протектор",
+        "велосипедная шина тонкое шоссе",
+        "мотоциклетная шина наклон сцепление",
+        "шина трактора большая сельскохозяйственная",
+        "руль управление автомобилем",
+        "легкосплавный диск декоративное колесо"
+      ]
+    },
+    "valid": {
+      "en": [
+        "off-road rugged tire icon",
+        "knobby all-terrain tire",
+        "4x4 mud tire"
+      ],
+      "ru": [
+        "иконка внедорожной шины",
+        "зубчатая шина полного привода",
+        "грязевая шина 4x4"
+      ]
+    },
+    "test": {
+      "en": [
+        "rugged tire offroad",
+        "all terrain tire symbol",
+        "mud tire SUV"
+      ],
+      "ru": [
+        "внедорожная прочная шина",
+        "символ шины бездорожья",
+        "грязевая шина внедорожник"
+      ]
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "icon": "memory",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "DIMM",
+        "RAM",
+        "hardware",
+        "storage",
+        "technology"
+      ],
+      "ru": [
+        "DIMM",
+        "ОЗУ",
+        "оборудование",
+        "хранилище",
+        "технологии"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "DIMM stick for desktop computer",
+        "DIMM memory module upgrade",
+        "RAM module installed in motherboard",
+        "RAM upgrade for faster computer",
+        "computer hardware components memory",
+        "hardware store for PC parts",
+        "storage upgrade with RAM stick",
+        "system storage and RAM combined",
+        "technology upgrade memory module",
+        "technology hardware RAM chip"
+      ],
+      "ru": [
+        "планка DIMM для настольного компьютера",
+        "модуль памяти DIMM апгрейд",
+        "модуль ОЗУ установленный в материнскую плату",
+        "апгрейд ОЗУ для быстрого компьютера",
+        "компоненты аппаратного обеспечения компьютера",
+        "магазин для деталей ПК",
+        "апгрейд хранилища планкой ОЗУ",
+        "системное хранилище и ОЗУ",
+        "апгрейд технологий модуль памяти",
+        "микросхема ОЗУ аппаратного обеспечения"
+      ]
+    },
+    "regular": {
+      "en": [
+        "RAM stick inserted into motherboard slot",
+        "DDR5 memory module for gaming PC",
+        "computer RAM upgrade for better performance",
+        "DIMM module with heat spreader",
+        "system memory for running applications",
+        "memory chip on circuit board",
+        "laptop SO-DIMM memory card",
+        "server memory module for data center",
+        "RAM indicator in system settings",
+        "install RAM to speed up computer"
+      ],
+      "ru": [
+        "планка ОЗУ вставленная в слот материнской платы",
+        "модуль памяти DDR5 для игрового ПК",
+        "апгрейд ОЗУ компьютера для лучшей производительности",
+        "модуль DIMM с теплораспределителем",
+        "системная память для запуска приложений",
+        "микросхема памяти на плате",
+        "карта памяти SO-DIMM для ноутбука",
+        "серверный модуль памяти для дата-центра",
+        "индикатор ОЗУ в системных настройках",
+        "установить ОЗУ для ускорения компьютера"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a RAM icon for the system specs section",
+        "add a memory module symbol to the hardware tab",
+        "show a memory stick for the upgrade guide",
+        "use the RAM icon for the computer performance screen"
+      ],
+      "ru": [
+        "Мне нужна иконка ОЗУ для раздела системных характеристик",
+        "добавить символ модуля памяти на вкладку аппаратного обеспечения",
+        "показать планку памяти для руководства по апгрейду",
+        "использовать иконку ОЗУ для экрана производительности компьютера"
+      ]
+    },
+    "typo": {
+      "en": [
+        "RAm module upgrade",
+        "DIMM momory stick",
+        "memorry module",
+        "hardawre RAM"
+      ],
+      "ru": [
+        "модуль ОЗУ апгреды",
+        "планка памяит DIMM",
+        "память модуль аарудование",
+        "ОЗУ микросхема комьпютер"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "CPU processor chip on motherboard",
+        "SSD solid state drive for storage",
+        "hard drive HDD spinning disk",
+        "graphics card GPU for gaming",
+        "microchip integrated circuit board",
+        "USB flash drive for portable storage"
+      ],
+      "ru": [
+        "процессор CPU на материнской плате",
+        "SSD твердотельный накопитель для хранения",
+        "жёсткий диск HDD вращающийся",
+        "видеокарта GPU для игр",
+        "микросхема интегральная схема",
+        "USB флешка для портативного хранения"
+      ]
+    },
+    "valid": {
+      "en": [
+        "RAM memory module for computer",
+        "DIMM stick hardware upgrade",
+        "computer memory chip"
+      ],
+      "ru": [
+        "модуль ОЗУ памяти для компьютера",
+        "планка DIMM апгрейд оборудования",
+        "микросхема памяти компьютера"
+      ]
+    },
+    "test": {
+      "en": [
+        "memory RAM icon",
+        "DIMM module hardware",
+        "RAM stick upgrade"
+      ],
+      "ru": [
+        "иконка памяти ОЗУ",
+        "аппаратное обеспечение модуль DIMM",
+        "апгрейд планки ОЗУ"
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "icon": "bin",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "collect",
+        "container",
+        "jug",
+        "plastics",
+        "recycle"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "collect recyclables in the bin",
+        "collection bin at the entrance",
+        "plastic container for sorting waste",
+        "container for recycling materials",
+        "plastic jug in the recycling bin",
+        "jug recycling at the depot",
+        "plastics sorted into the recycling bin",
+        "recycle plastics at the depot",
+        "recycle bin placed at the curb",
+        "put the bottles in the recycle bin"
+      ]
+    },
+    "regular": {
+      "en": [
+        "blue recycling bin with recycle symbol on the lid",
+        "sorting bottles and cans into the recycle bin",
+        "plastic container at the recycling depot",
+        "bring plastics to the collection bin",
+        "curbside recycle bin on pickup day",
+        "sorted recycling in blue and green bins",
+        "recycling symbol on the plastic container",
+        "take out the recycling bin on Monday morning",
+        "plastic bottles and cans in the recycle bin",
+        "recycle jug at the grocery store entrance"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a bin icon for the waste sorting feature",
+        "add a recycle bin symbol to the eco section",
+        "show a container for the recycling reminder",
+        "use the bin icon for the collection schedule page"
+      ]
+    },
+    "typo": {
+      "en": [
+        "recyle bin at the curb",
+        "plastcis container for sorting",
+        "colect the recyclables today",
+        "recycl jug at the depot"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "black trash can at the curb on pickup day",
+        "office wastebasket overflowing with paper",
+        "large dumpster behind the restaurant",
+        "shopping basket at the grocery store",
+        "laundry basket full of clothes",
+        "compost bin for food scraps"
+      ]
+    },
+    "valid": {
+      "en": [
+        "blue recycle bin for plastics",
+        "recycling container at the depot",
+        "collect recyclables in the bin"
+      ]
+    },
+    "test": {
+      "en": [
+        "recycle bin symbol",
+        "plastic recycling container",
+        "bin for sorting waste"
+      ]
+    }
+  }
+}

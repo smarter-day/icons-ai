@@ -1,0 +1,148 @@
+{
+  "icon": "sandwich",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bread",
+        "deli",
+        "grilled cheese",
+        "sandwich",
+        "toast"
+      ],
+      "ru": [
+        "хлеб",
+        "гастроном",
+        "жареный сыр",
+        "сэндвич",
+        "тост"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bread slices stacked for sandwich",
+        "fresh bread loaf for making sandwiches",
+        "deli counter sandwich with turkey and swiss",
+        "deli-style sandwich wrapped in paper",
+        "grilled cheese sandwich toasted golden",
+        "grilled cheese on buttered pan",
+        "sandwich stacked high with fillings",
+        "club sandwich with three layers",
+        "toast sandwich on toasted white bread",
+        "toasted bread sandwich for breakfast"
+      ],
+      "ru": [
+        "ломтики хлеба для сэндвича",
+        "свежий хлеб для приготовления сэндвичей",
+        "сэндвич с гастрономическим прилавка с индейкой",
+        "сэндвич из гастронома завёрнут в бумагу",
+        "жареный сыр поджарен до золотистого",
+        "жареный сыр на сковороде с маслом",
+        "сэндвич высоко сложен с начинкой",
+        "клаб-сэндвич с тремя слоями",
+        "тостовый сэндвич на поджаренном белом хлебе",
+        "тостовый сэндвич на завтрак"
+      ]
+    },
+    "regular": {
+      "en": [
+        "classic BLT sandwich with bacon lettuce tomato",
+        "deli sub sandwich loaded with meats and cheese",
+        "grilled cheese sandwich with melted cheddar",
+        "peanut butter and jelly sandwich cut diagonally",
+        "club sandwich stacked with turkey and avocado",
+        "egg salad sandwich on whole wheat bread",
+        "panini pressed sandwich with grill marks",
+        "tuna melt sandwich open-faced on toast",
+        "breakfast sandwich with egg sausage and biscuit",
+        "wrap sandwich rolled in flatbread"
+      ],
+      "ru": [
+        "классический сэндвич BLT с беконом и помидором",
+        "сэндвич-саб из гастронома с мясом и сыром",
+        "жареный сыр с расплавленным чеддером",
+        "сэндвич с арахисовым маслом и желе разрезан по диагонали",
+        "клаб-сэндвич с индейкой и авокадо",
+        "сэндвич с яичным салатом на цельнозерновом хлебе",
+        "прессованный панини с полосами гриля",
+        "тунец-мелт открытый на тосте",
+        "сэндвич на завтрак с яйцом колбасой и булочкой",
+        "сэндвич-ролл в лепёшке"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sandwich icon for the lunch menu section",
+        "add a sandwich symbol to the food ordering feature",
+        "show a sandwich for the deli category",
+        "use the sandwich icon for the meal planning screen"
+      ],
+      "ru": [
+        "мне нужна иконка сэндвича для раздела обеденного меню",
+        "добавь символ сэндвича в функцию заказа еды",
+        "покажи сэндвич для категории гастрономии",
+        "используй иконку сэндвича для экрана планирования питания"
+      ]
+    },
+    "typo": {
+      "en": [
+        "clasic BLT sandwhich with bacon",
+        "griled cheese sandwich with cheddar",
+        "peanut buttr and jelly sandwich",
+        "egg salad sanwich on wheat bread"
+      ],
+      "ru": [
+        "классческий сэндвич BLT с беконом",
+        "жарений сыр с расплавленным чеддером",
+        "сэндвич с арахисовым масолм и желе",
+        "сэндвич с яичным салтом на хлебе"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "hamburger bun with beef patty and toppings",
+        "hot dog in bun with mustard and ketchup",
+        "pizza slice with tomato sauce and cheese",
+        "burrito wrapped in flour tortilla",
+        "bagel with cream cheese on breakfast plate",
+        "taco with meat lettuce and salsa"
+      ],
+      "ru": [
+        "булочка для гамбургера с котлетой и добавками",
+        "хот-дог в булочке с горчицей и кетчупом",
+        "кусок пиццы с томатным соусом и сыром",
+        "буррито завёрнут в мучную тортилью",
+        "бублик со сливочным сыром на завтрак",
+        "тако с мясом салатом и сальсой"
+      ]
+    },
+    "valid": {
+      "en": [
+        "classic sandwich with two slices of bread",
+        "grilled cheese sandwich on toast",
+        "deli sandwich stacked with fillings"
+      ],
+      "ru": [
+        "классический сэндвич с двумя ломтиками хлеба",
+        "жареный сыр на тосте",
+        "сэндвич из гастронома высоко сложен"
+      ]
+    },
+    "test": {
+      "en": [
+        "BLT sandwich with bacon lettuce tomato",
+        "peanut butter and jelly sandwich",
+        "club sandwich with three layers"
+      ],
+      "ru": [
+        "сэндвич BLT с беконом листьями и помидором",
+        "сэндвич с арахисовым маслом и желе",
+        "клаб-сэндвич с тремя слоями"
+      ]
+    }
+  }
+}

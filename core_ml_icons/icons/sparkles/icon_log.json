@@ -1,0 +1,172 @@
+{
+  "icon": "sparkles",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "*",
+        "glitter",
+        "magic",
+        "new",
+        "sparkle",
+        "sparkles",
+        "special",
+        "star",
+        "twinkle"
+      ],
+      "ru": [
+        "*",
+        "блёстки",
+        "магия",
+        "новый",
+        "сверкание",
+        "искры",
+        "особый",
+        "звезда",
+        "мерцание"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "wildcard sparkle symbol in text",
+        "special character sparkle asterisk",
+        "glitter sparkles on craft project",
+        "glitter effect with sparkles",
+        "magic sparkles from wizard wand",
+        "sparkles indicating magic effect",
+        "new feature badge with sparkles",
+        "new content marked with sparkle",
+        "sparkle animation on screen",
+        "sparkle effect on text",
+        "sparkles burst for special moment",
+        "sparkles celebrate achievement",
+        "special offer highlighted with sparkles",
+        "special badge with star sparkles",
+        "star sparkle twinkling in night sky",
+        "star sparkle decoration",
+        "twinkle twinkle little star sparkles",
+        "twinkling sparkle animation"
+      ],
+      "ru": [
+        "символ искры звёздочки в тексте",
+        "специальный символ звёздочка-искра",
+        "блёстки-искры в творческом проекте",
+        "эффект блёсток с искрами",
+        "магические искры от волшебной палочки",
+        "искры обозначают магический эффект",
+        "значок новой функции с искрами",
+        "новый контент отмечен искрой",
+        "анимация искры на экране",
+        "эффект искры на тексте",
+        "вспышка искр для особого момента",
+        "искры отмечают достижение",
+        "специальное предложение выделено искрами",
+        "особый значок со звёздными искрами",
+        "мерцающая звезда-искра в ночном небе",
+        "звёздная искра декорация",
+        "мерцание маленькой звезды искры",
+        "анимация мерцающей искры"
+      ]
+    },
+    "regular": {
+      "en": [
+        "three sparkle stars indicating magic or new",
+        "sparkles emoji for excitement or special",
+        "AI sparkle icon for smart features",
+        "sparkles badge on new app update",
+        "glitter sparkle effect on celebration",
+        "sparkle animation for premium content",
+        "fairy wand with sparkle trail",
+        "cleaning product sparkle clean shine",
+        "sparkles indicating fresh or new item",
+        "star sparkles in greeting card design"
+      ],
+      "ru": [
+        "три звезды-искры обозначают магию или новизну",
+        "эмодзи искр для восторга или особого",
+        "иконка искры ИИ для умных функций",
+        "значок искр на новом обновлении приложения",
+        "эффект блёсток на праздновании",
+        "анимация искр для премиум-контента",
+        "волшебная палочка феи со следом искр",
+        "сверкающий чистый блеск чистящего средства",
+        "искры обозначают свежий или новый элемент",
+        "звёздные искры в дизайне поздравительной открытки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sparkles icon for the AI or magic feature",
+        "add sparkles to the new badge indicator",
+        "show sparkles for the special offer highlight",
+        "use the sparkles icon for the celebration effect"
+      ],
+      "ru": [
+        "мне нужна иконка искр для функции ИИ или магии",
+        "добавь искры к индикатору нового значка",
+        "покажи искры для выделения специального предложения",
+        "используй иконку искр для эффекта праздника"
+      ]
+    },
+    "typo": {
+      "en": [
+        "three sparkel stars for magic or new",
+        "sparkels emoji for excitement",
+        "AI sparke icon for smart features",
+        "glittre sparkle effect on celebration"
+      ],
+      "ru": [
+        "три звезды-исркы для магии или нового",
+        "эмодзи исрк для восторга",
+        "иконка исрки ИИ для умных функций",
+        "эффект блёсток на праздновнаии"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "star single five-pointed shape",
+        "fireworks explosion in night sky",
+        "lightning bolt electric flash symbol",
+        "confetti falling at celebration",
+        "wand magic stick without sparkles",
+        "shine sun rays glow symbol"
+      ],
+      "ru": [
+        "звезда одиночная пятиконечная форма",
+        "фейерверк взрыв в ночном небе",
+        "молния электрическая вспышка символ",
+        "конфетти падает на праздновании",
+        "волшебная палочка без искр",
+        "сияние лучей солнца символ блеска"
+      ]
+    },
+    "valid": {
+      "en": [
+        "sparkles for new or magic feature",
+        "three sparkle stars animation",
+        "sparkles emoji for celebration"
+      ],
+      "ru": [
+        "искры для новой или магической функции",
+        "анимация трёх звёзд-искр",
+        "эмодзи искр для праздника"
+      ]
+    },
+    "test": {
+      "en": [
+        "AI sparkle icon for smart feature",
+        "sparkles on new app update badge",
+        "glitter sparkle effect"
+      ],
+      "ru": [
+        "иконка искры ИИ для умной функции",
+        "искры на значке нового обновления",
+        "эффект блёсток-искр"
+      ]
+    }
+  }
+}

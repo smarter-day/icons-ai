@@ -1,0 +1,214 @@
+{
+  "icon": "toilet",
+  "rows": {
+    "train_en": 72,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bathroom",
+        "flush",
+        "john",
+        "loo",
+        "pee",
+        "plumbing",
+        "poop",
+        "porcelain",
+        "potty",
+        "restroom",
+        "throne",
+        "toile",
+        "toilet",
+        "washroom",
+        "waste",
+        "wc"
+      ],
+      "ru": [
+        "ванная",
+        "смыв",
+        "унитаз-жарг",
+        "туалет-жарг",
+        "пи-пи",
+        "сантехника",
+        "какать",
+        "фарфор",
+        "горшок",
+        "уборная",
+        "трон",
+        "туалет-фр",
+        "унитаз",
+        "туалет",
+        "отходы",
+        "WC"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bathroom toilet white porcelain",
+        "bathroom needs new toilet",
+        "flush toilet after use",
+        "toilet flush handle push",
+        "john slang for toilet",
+        "go to the john",
+        "loo British slang toilet",
+        "pop to the loo",
+        "pee toilet restroom stop",
+        "need to pee toilet",
+        "plumbing toilet installation",
+        "toilet plumbing repair",
+        "poop emoji toilet humor",
+        "need to poop toilet",
+        "porcelain toilet bowl clean",
+        "white porcelain toilet seat",
+        "potty training child toilet",
+        "potty chair toddler",
+        "restroom toilet facilities",
+        "public restroom toilet stall",
+        "throne sit on the throne",
+        "king on his throne joke",
+        "toile French word for toilet",
+        "toile de jouy toilet",
+        "toilet seat lid cover",
+        "toilet paper holder",
+        "washroom toilet sink area",
+        "hotel washroom toilet",
+        "waste toilet flush waste",
+        "toilet waste water",
+        "WC sign toilet room",
+        "WC water closet sign"
+      ],
+      "ru": [
+        "туалет белый фарфоровый",
+        "ванная нужен новый унитаз",
+        "смыть после использования",
+        "ручка смыва унитаза",
+        "унитаз жаргонное название",
+        "пойти в туалет жарг",
+        "туалет британский жаргон",
+        "быстро в туалет жарг",
+        "пи-пи туалет уборная",
+        "нужно в туалет пи-пи",
+        "монтаж унитаза сантехника",
+        "ремонт унитаза сантехника",
+        "эмодзи какашки туалетный юмор",
+        "нужно в туалет покакать",
+        "фарфоровый унитаз чистый",
+        "белое фарфоровое сиденье унитаза",
+        "приучение к горшку ребёнок",
+        "детский горшок малыш",
+        "туалет уборная помещения",
+        "общественный туалет кабинка",
+        "трон сидеть на троне",
+        "шутка про трон",
+        "туалет по-французски toile",
+        "туалет французский сортир",
+        "сиденье крышка унитаза",
+        "держатель туалетной бумаги",
+        "туалет раковина зона",
+        "туалет гостиницы",
+        "отходы смыть в унитаз",
+        "сточные воды унитаза",
+        "знак WC туалетная комната",
+        "WC ватерклозет вывеска"
+      ]
+    },
+    "regular": {
+      "en": [
+        "white porcelain toilet in bathroom",
+        "toilet flush handle push button",
+        "public restroom toilet stall door",
+        "toilet seat up or down debate",
+        "toilet paper roll on holder",
+        "clogged toilet plunger needed",
+        "smart toilet heated seat Japan",
+        "toilet bowl cleaner blue tablet",
+        "camping portable toilet outdoor",
+        "toddler potty training toilet seat"
+      ],
+      "ru": [
+        "белый фарфоровый унитаз в ванной",
+        "ручка смыва унитаза кнопка",
+        "дверь кабинки общественного туалета",
+        "споры о крышке унитаза поднять опустить",
+        "рулон туалетной бумаги на держателе",
+        "засорённый унитаз нужен вантуз",
+        "умный унитаз подогретое сиденье Япония",
+        "таблетка для очистки унитаза синяя",
+        "переносной туалет для кемпинга",
+        "сиденье на унитаз для приучения малыша"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a toilet icon for the bathroom category",
+        "add a restroom symbol to the facility finder",
+        "show a toilet for the plumbing task",
+        "use the toilet icon for the WC locator"
+      ],
+      "ru": [
+        "нужна иконка унитаза для категории ванной",
+        "добавь символ туалета к поиску объектов",
+        "покажи унитаз для задачи по сантехнике",
+        "используй иконку туалета для указателя WC"
+      ]
+    },
+    "typo": {
+      "en": [
+        "toielt bathroom flush",
+        "restoom toilet stall",
+        "plumibng toilet repair",
+        "porcelin toilet white"
+      ],
+      "ru": [
+        "унитаз ванная смыв",
+        "туалет кабинка уборная",
+        "ремонт унитаза сантехника",
+        "фарфоровый унитаз белый"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "bathtub soaking tub bathroom",
+        "sink washbasin tap faucet",
+        "shower stall bathroom standing",
+        "toilet paper roll tissue",
+        "urinal wall mounted bathroom",
+        "bidet hygiene bathroom fixture"
+      ],
+      "ru": [
+        "ванна для принятия ванны",
+        "раковина умывальник кран",
+        "душевая кабина стоя",
+        "рулон туалетной бумаги",
+        "писсуар настенный туалет",
+        "биде гигиена ванная"
+      ]
+    },
+    "valid": {
+      "en": [
+        "toilet bathroom icon",
+        "porcelain toilet symbol",
+        "restroom toilet WC"
+      ],
+      "ru": [
+        "иконка унитаза ванная",
+        "символ фарфорового унитаза",
+        "туалет WC уборная"
+      ]
+    },
+    "test": {
+      "en": [
+        "toilet icon restroom",
+        "flush toilet symbol",
+        "bathroom toilet plumbing"
+      ],
+      "ru": [
+        "иконка туалета уборная",
+        "символ смыва унитаза",
+        "ванная унитаз сантехника"
+      ]
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "icon": "salad",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bowl",
+        "food",
+        "green",
+        "green salad",
+        "health",
+        "lettuce",
+        "salad",
+        "spinach",
+        "vegan",
+        "vegetable",
+        "vegetarian"
+      ],
+      "ru": [
+        "миска",
+        "еда",
+        "зелень",
+        "зелёный салат",
+        "здоровье",
+        "салат-латук",
+        "салат",
+        "шпинат",
+        "веган",
+        "овощи",
+        "вегетарианский"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "salad bowl with mixed greens",
+        "bowl of fresh chopped salad",
+        "healthy food choice for lunch",
+        "food plated as a colourful salad",
+        "green leaves tossed in dressing",
+        "green food items in salad bowl",
+        "green salad with cucumber and tomato",
+        "green salad for healthy eating",
+        "health benefits of eating salad daily",
+        "health food symbol for nutrition",
+        "crispy romaine lettuce in Caesar salad",
+        "lettuce leaves washed and torn",
+        "fresh salad with seasonal toppings",
+        "mixed salad platter for restaurant",
+        "baby spinach salad with walnuts",
+        "spinach leaves in green salad",
+        "vegan salad with no animal products",
+        "vegan restaurant menu salad option",
+        "fresh vegetable salad with dressing",
+        "chopped vegetable medley in bowl",
+        "vegetarian main course salad",
+        "vegetarian diet salad for lunch"
+      ],
+      "ru": [
+        "миска салата со свежей зеленью",
+        "миска свежего нарезанного салата",
+        "здоровый выбор еды на обед",
+        "еда как красочный салат",
+        "зелёные листья в заправке",
+        "зелёные продукты в миске салата",
+        "зелёный салат с огурцом и томатом",
+        "зелёный салат для здорового питания",
+        "польза для здоровья от ежедневного салата",
+        "символ здорового питания",
+        "хрустящий римский салат в Цезаре",
+        "листья латука промыты и порваны",
+        "свежий салат с сезонными добавками",
+        "тарелка смешанного салата в ресторане",
+        "салат из шпината с грецкими орехами",
+        "листья шпината в зелёном салате",
+        "веганский салат без животных продуктов",
+        "веганский салат в меню ресторана",
+        "свежий овощной салат с заправкой",
+        "нарезанное овощное ассорти в миске",
+        "вегетарианское основное блюдо салат",
+        "вегетарианский обеденный салат"
+      ]
+    },
+    "regular": {
+      "en": [
+        "green salad with leafy greens in a bowl",
+        "Caesar salad with croutons and parmesan",
+        "Greek salad with olives feta and cucumber",
+        "colorful Buddha bowl with grains and vegetables",
+        "garden salad tossed with vinaigrette",
+        "protein-packed salad with grilled chicken",
+        "arugula salad with lemon dressing",
+        "vegan salad platter at health restaurant",
+        "spinach salad with strawberries and almonds",
+        "side salad served beside main course"
+      ],
+      "ru": [
+        "зелёный салат с листовой зеленью в миске",
+        "Цезарь с гренками и пармезаном",
+        "греческий салат с оливками фетой и огурцом",
+        "красочный боул с крупами и овощами",
+        "огородный салат в винегретной заправке",
+        "богатый белком салат с курицей гриль",
+        "салат из рукколы с лимонной заправкой",
+        "веганская тарелка салата в ресторане здорового питания",
+        "салат из шпината с клубникой и миндалём",
+        "гарнирный салат к основному блюду"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a salad icon for the healthy meals section",
+        "add a green salad symbol to the vegetarian menu",
+        "show a salad bowl for the vegan recipe feature",
+        "use the salad icon for the nutrition tracker"
+      ],
+      "ru": [
+        "мне нужна иконка салата для раздела здорового питания",
+        "добавь символ зелёного салата в вегетарианское меню",
+        "покажи миску салата для функции веганских рецептов",
+        "используй иконку салата для трекера питания"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Casear salad with croutons and parmesan",
+        "grene salad with leafy greens in bowl",
+        "vegan salat platter at health restaurant",
+        "spinach salad with strawberires and almonds"
+      ],
+      "ru": [
+        "Цезарь с гренеками и пармезаном",
+        "зелённый салат с листовой зеленью",
+        "веганский салт на тарелке",
+        "салат из шпинта с клубникой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "soup bowl with steaming vegetable broth",
+        "fruit bowl with sliced apples and berries",
+        "sushi plate with rolls and soy sauce",
+        "pasta plate with tomato sauce and basil",
+        "sandwich with layered vegetables and bread",
+        "smoothie bowl topped with granola and fruit"
+      ],
+      "ru": [
+        "миска супа с дымящимся овощным бульоном",
+        "миска фруктов с нарезанными яблоками",
+        "тарелка суши с роллами и соевым соусом",
+        "тарелка пасты с томатным соусом и базиликом",
+        "сэндвич с овощами и хлебом",
+        "боул-смузи с гранолой и фруктами"
+      ]
+    },
+    "valid": {
+      "en": [
+        "fresh green salad in a bowl",
+        "leafy salad with vegetables and dressing",
+        "vegan salad for healthy eating"
+      ],
+      "ru": [
+        "свежий зелёный салат в миске",
+        "листовой салат с овощами и заправкой",
+        "веганский салат для здорового питания"
+      ]
+    },
+    "test": {
+      "en": [
+        "Caesar salad with romaine and croutons",
+        "vegetarian salad bowl for lunch",
+        "spinach salad with colorful toppings"
+      ],
+      "ru": [
+        "Цезарь с романо и гренками",
+        "вегетарианская миска салата на обед",
+        "салат из шпината с красочными добавками"
+      ]
+    }
+  }
+}

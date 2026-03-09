@@ -1,0 +1,136 @@
+{
+  "icon": "scrubber",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "circle",
+        "dot",
+        "toggle"
+      ],
+      "ru": [
+        "круг",
+        "точка",
+        "переключатель"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "circle dot on media timeline scrubber",
+        "progress circle scrubber handle",
+        "dot indicator on playback position",
+        "dot marking current time in video player",
+        "toggle scrubber position in audio editor",
+        "toggle scrubber left or right on timeline"
+      ],
+      "ru": [
+        "круговая точка на временной шкале",
+        "ползунок прогресса с кружком",
+        "точечный индикатор положения воспроизведения",
+        "точка отмечает текущее время в видеоплеере",
+        "переключить положение ползунка в аудиоредакторе",
+        "двигать ползунок влево или вправо"
+      ]
+    },
+    "regular": {
+      "en": [
+        "timeline scrubber dot dragged to rewind",
+        "video player seek scrubber on progress bar",
+        "audio editor scrubber position handle",
+        "podcast scrubber jumping to timestamp",
+        "music player circular scrubber on waveform",
+        "scrubber dot snapping to chapter markers",
+        "video editor playhead scrubber position",
+        "media scrubber for fast-forward and rewind",
+        "progress bar dot indicator for position",
+        "drag the scrubber to navigate video"
+      ],
+      "ru": [
+        "точка ползунка временной шкалы перетаскивается назад",
+        "ползунок видеоплеера на полосе прогресса",
+        "ползунок положения в аудиоредакторе",
+        "ползунок подкаста переход к временной метке",
+        "круговой ползунок в музыкальном плеере",
+        "ползунок снапится к меткам глав",
+        "ползунок плейхеда в видеоредакторе",
+        "ползунок для перемотки вперёд и назад",
+        "точечный индикатор полосы прогресса",
+        "тяни ползунок для навигации по видео"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a scrubber icon for the video player timeline",
+        "add a dot scrubber to the audio editing screen",
+        "show a scrubber for the media playback position",
+        "use the scrubber icon for the progress bar feature"
+      ],
+      "ru": [
+        "мне нужна иконка ползунка для временной шкалы видеоплеера",
+        "добавь точечный ползунок на экран аудиоредактора",
+        "покажи ползунок для позиции воспроизведения медиа",
+        "используй иконку ползунка для полосы прогресса"
+      ]
+    },
+    "typo": {
+      "en": [
+        "timelin scrubber dot dragged to rewind",
+        "video payer seek scrubber on bar",
+        "podcsat scrubber jumping to timestamp",
+        "darg the scrubber to navigate video"
+      ],
+      "ru": [
+        "точка ползунка временной шкелы",
+        "ползунок вдиеоплеера на полосе прогресса",
+        "ползунок подкатса переход к метке",
+        "тяни плзунок для навигации по видео"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "volume slider bar adjusting sound level",
+        "brightness slider controlling screen intensity",
+        "progress bar showing percentage completed",
+        "toggle switch on and off button",
+        "seek bar in video player timeline",
+        "range slider with two handle endpoints"
+      ],
+      "ru": [
+        "ползунок громкости регулирует уровень звука",
+        "ползунок яркости управляет интенсивностью экрана",
+        "полоса прогресса показывает процент завершения",
+        "переключатель кнопки вкл/выкл",
+        "полоса прокрутки на временной шкале видео",
+        "диапазонный ползунок с двумя крайними точками"
+      ]
+    },
+    "valid": {
+      "en": [
+        "scrubber dot on video timeline bar",
+        "media player seek scrubber position",
+        "drag scrubber to navigate playback"
+      ],
+      "ru": [
+        "точка ползунка на временной шкале видео",
+        "положение ползунка в медиаплеере",
+        "тяни ползунок для навигации воспроизведения"
+      ]
+    },
+    "test": {
+      "en": [
+        "timeline scrubber for video editor",
+        "audio scrubber handle position dot",
+        "progress bar circle scrubber icon"
+      ],
+      "ru": [
+        "ползунок временной шкалы для видеоредактора",
+        "точка ползунка позиции в аудиоредакторе",
+        "иконка кружка ползунка полосы прогресса"
+      ]
+    }
+  }
+}

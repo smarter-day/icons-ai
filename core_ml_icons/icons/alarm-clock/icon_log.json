@@ -1,0 +1,190 @@
+{
+  "icon": "alarm-clock",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "alarm",
+        "alarm clock",
+        "clock",
+        "date",
+        "late",
+        "pending",
+        "reminder",
+        "sleep",
+        "snooze",
+        "timer",
+        "timestamp",
+        "watch"
+      ],
+      "ru": [
+        "будильник",
+        "будильник-звонок",
+        "часы",
+        "дата",
+        "опоздание",
+        "ожидание",
+        "напоминание",
+        "сон",
+        "отложить",
+        "таймер",
+        "временная метка",
+        "наручные часы"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Get up at 7",
+        "Early morning run",
+        "Don't oversleep",
+        "Reminder before the flight",
+        "Wake up call at 5am",
+        "Schedule morning alarm",
+        "Reminder 30 min before",
+        "Alert for the appointment",
+        "Set up daily alarm",
+        "Be on time for school",
+        "Wake me up tomorrow",
+        "Don't let me forget this",
+        "Turn off the alarm in the morning",
+        "Set the alarm clock for 6am",
+        "Check what time it is now",
+        "Mark the date on the calendar",
+        "Running late for the meeting",
+        "Review all pending tasks today",
+        "Add a reminder for the dentist",
+        "Improve my sleep schedule",
+        "Hit snooze one more time",
+        "Kitchen timer for the pasta",
+        "Log the timestamp of the entry",
+        "Track time with the watch"
+      ],
+      "ru": [
+        "Встать в 7",
+        "Ранняя утренняя пробежка",
+        "Не проспать",
+        "Напоминание перед вылетом",
+        "Звонок будильника в 5 утра",
+        "Запланировать утренний будильник",
+        "Напоминание за 30 минут",
+        "Оповещение о встрече",
+        "Настроить ежедневный будильник",
+        "Прийти в школу вовремя",
+        "Разбуди меня завтра",
+        "Не дай мне забыть об этом",
+        "Выключить будильник утром",
+        "Поставить будильник на 6 утра",
+        "Посмотреть который час",
+        "Отметить дату в календаре",
+        "Опаздываю на встречу",
+        "Просмотреть все отложенные задачи",
+        "Добавить напоминание к стоматологу",
+        "Улучшить режим сна",
+        "Отложить будильник ещё раз",
+        "Таймер для пасты на кухне",
+        "Записать временную метку записи",
+        "Следить за временем по часам"
+      ]
+    },
+    "regular": {
+      "en": [
+        "I need a reminder",
+        "Set an alarm for me",
+        "Alram clock",
+        "Alarrm",
+        "Remindar",
+        "Snooze alrm",
+        "Morning jog",
+        "Meeting at 9am",
+        "Bedtime routine",
+        "Time management"
+      ],
+      "ru": [
+        "Мне нужно напоминание",
+        "Поставь мне будильник",
+        "Будильик",
+        "Будилник",
+        "Напоминане",
+        "Отложить будилник",
+        "Утренняя пробежка",
+        "Встреча в 9 утра",
+        "Вечерний ритуал",
+        "Управление временем"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Daily standup",
+        "Check calendar",
+        "set a morning alarm",
+        "alarm clock for 6am"
+      ],
+      "ru": [
+        "Ежедневный стендап",
+        "Проверить календарь",
+        "поставить утренний будильник",
+        "будильник на 6 утра"
+      ]
+    },
+    "typo": {
+      "en": [
+        "clock reminder",
+        "date reminder",
+        "don't be late",
+        "pending reminder"
+      ],
+      "ru": [
+        "напоминание по часам",
+        "напоминание по дате",
+        "не опоздать",
+        "ожидающее напоминание"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "set a reminder",
+        "sleep schedule",
+        "stop snooze habit",
+        "timer before meeting",
+        "add a timestamp",
+        "watch the clock"
+      ],
+      "ru": [
+        "установить напоминание",
+        "режим сна",
+        "перестать откладывать будильник",
+        "таймер перед встречей",
+        "добавить временную метку",
+        "следить за временем"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Time to wake up",
+        "Don't miss the bus",
+        "Alert me before the call"
+      ],
+      "ru": [
+        "Пора просыпаться",
+        "Не опоздать на автобус",
+        "Предупредить меня перед звонком"
+      ]
+    },
+    "test": {
+      "en": [
+        "Up bright and early",
+        "Remind me at sunrise",
+        "Set a morning alert"
+      ],
+      "ru": [
+        "Встать пораньше",
+        "Напомнить с утра пораньше",
+        "Поставить утреннее оповещение"
+      ]
+    }
+  }
+}

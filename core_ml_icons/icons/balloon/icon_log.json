@@ -1,0 +1,96 @@
+{
+  "icon": "balloon",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "balloon",
+        "birthday",
+        "celebrate",
+        "celebration",
+        "helium",
+        "party",
+        "pop",
+        "up"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "colorful balloon tied to a string",
+        "balloon floating in the air",
+        "birthday balloon for the party",
+        "balloon tied to birthday chair",
+        "celebrate with balloons and confetti",
+        "balloons to celebrate the milestone",
+        "balloon decoration at the celebration",
+        "release balloons for the celebration event",
+        "helium balloon floating upward",
+        "helium-filled balloon drifting to the ceiling",
+        "party balloon bouquet on the table",
+        "balloon tied to the party tent",
+        "pop the balloon with a needle",
+        "balloon ready to pop at the game",
+        "balloon floating up to the sky",
+        "up and away with helium balloon"
+      ]
+    },
+    "regular": {
+      "en": [
+        "round helium balloon on a long string",
+        "colorful birthday balloon bouquet",
+        "balloon floating toward the ceiling",
+        "balloon tied to a young child's wrist",
+        "party decoration with inflated balloons",
+        "heart-shaped balloon on Valentine's Day",
+        "cluster of colorful balloons at the entrance",
+        "red balloon drifting away in the open sky",
+        "balloon popping loudly at the party game",
+        "birthday message written on an inflated balloon"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a balloon icon for the birthday reminder feature",
+        "add a party balloon to the event celebration screen",
+        "show balloons when the user achieves a milestone",
+        "use the balloon icon for the party invitation page"
+      ]
+    },
+    "typo": {
+      "en": [
+        "heliun balloon floating up",
+        "birthdya balloon for the party",
+        "celebraiton balloon decoration",
+        "paty balloon tied to the tent"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "speech bubble above a character in a comic strip",
+        "soap bubble floating in the summer air",
+        "colorful kite flying high in the breeze",
+        "white fluffy cloud shape in the blue sky",
+        "water droplet falling from a leaf",
+        "rubber ball bouncing on the playground floor"
+      ]
+    },
+    "valid": {
+      "en": [
+        "helium balloon floating on a string",
+        "birthday party balloon decoration",
+        "colorful balloon floating upward"
+      ]
+    },
+    "test": {
+      "en": [
+        "party balloon for celebration",
+        "balloon tied with a string",
+        "birthday balloon icon"
+      ]
+    }
+  }
+}

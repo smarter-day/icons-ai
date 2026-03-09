@@ -1,0 +1,130 @@
+{
+  "icon": "toilet-portable",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "outhouse",
+        "toilet"
+      ],
+      "ru": [
+        "уличный туалет",
+        "туалет"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "outhouse portable field toilet",
+        "outhouse wood plank structure",
+        "portable toilet at event site",
+        "portable toilet construction site"
+      ],
+      "ru": [
+        "переносной туалет полевой",
+        "дощатый уличный туалет",
+        "переносной туалет на мероприятии",
+        "переносной туалет на стройке"
+      ]
+    },
+    "regular": {
+      "en": [
+        "blue portable toilet at outdoor event",
+        "construction site porta-potty row",
+        "portable toilet at music festival",
+        "camping portable composting toilet",
+        "chemical portable toilet emptying service",
+        "outhouse wooden structure country property",
+        "portable restroom rental company",
+        "porta-john at marathon race",
+        "portable toilet with hand sanitizer",
+        "outhouse moon door crescent cutout"
+      ],
+      "ru": [
+        "синий переносной туалет на уличном мероприятии",
+        "ряд порта-потти на стройке",
+        "переносной туалет на музыкальном фестивале",
+        "переносной компостный туалет кемпинг",
+        "химический переносной туалет услуга откачки",
+        "деревянная конструкция уличного туалета",
+        "аренда переносных туалетов компания",
+        "переносной туалет на марафоне",
+        "переносной туалет с антисептиком",
+        "уличный туалет дверь с луной"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a portable toilet icon for outdoor events",
+        "add an outhouse symbol to the camping category",
+        "show a portable toilet for the construction section",
+        "use the toilet-portable icon for festival planning"
+      ],
+      "ru": [
+        "нужна иконка переносного туалета для уличных мероприятий",
+        "добавь символ уличного туалета к категории кемпинга",
+        "покажи переносной туалет для строительного раздела",
+        "используй иконку переносного туалета для планирования фестиваля"
+      ]
+    },
+    "typo": {
+      "en": [
+        "portble toilet event",
+        "outhuse camping toilet",
+        "porta-poty festival",
+        "constrution site toilet"
+      ],
+      "ru": [
+        "переносной туалет событие",
+        "уличный туалет кемпинг",
+        "порта-потти фестиваль",
+        "туалет стройка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "regular porcelain toilet bathroom",
+        "urinal wall mounted restroom",
+        "portable shower outdoor camping",
+        "trash can outdoor waste",
+        "first aid station portable event",
+        "tent camping outdoor shelter"
+      ],
+      "ru": [
+        "обычный фарфоровый унитаз ванная",
+        "писсуар настенный туалет",
+        "переносной душ кемпинг на улице",
+        "мусорный бак уличные отходы",
+        "переносная медицинская станция на событии",
+        "палатка кемпинг уличное укрытие"
+      ]
+    },
+    "valid": {
+      "en": [
+        "portable toilet outdoor event",
+        "porta-potty construction site",
+        "outhouse camping toilet"
+      ],
+      "ru": [
+        "переносной туалет уличное мероприятие",
+        "порта-потти на стройке",
+        "уличный туалет кемпинг"
+      ]
+    },
+    "test": {
+      "en": [
+        "portable toilet icon",
+        "outhouse symbol",
+        "porta-john event"
+      ],
+      "ru": [
+        "иконка переносного туалета",
+        "символ уличного туалета",
+        "порта-джон мероприятие"
+      ]
+    }
+  }
+}

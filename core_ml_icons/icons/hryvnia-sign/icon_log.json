@@ -1,0 +1,78 @@
+{
+  "icon": "hryvnia-sign",
+  "rows": {
+    "train_en": 30,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Hryvnia Sign",
+        "currency"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Pay in hryvnia in Ukraine",
+        "Check the hryvnia exchange rate",
+        "Exchange currency to hryvnia",
+        "Convert hryvnia to dollars"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Exchange money to Ukrainian hryvnia",
+        "Check the UAH exchange rate",
+        "Pay in hryvnia while in Ukraine",
+        "Send money in hryvnia",
+        "Convert hryvnia to euros",
+        "Find the best hryvnia exchange rate",
+        "Budget the trip in hryvnia",
+        "Withdraw hryvnia from the ATM",
+        "Pay the invoice in hryvnia",
+        "Transfer hryvnia internationally"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Ukraine trip budget",
+        "Convert to hryvnia",
+        "Pay in UAH",
+        "Check UAH rate"
+      ]
+    },
+    "typo": {
+      "en": [
+        "exchagne to hryvnai",
+        "pay in hrivnia",
+        "check uah excahnge rate",
+        "convrt hryvnia to euros"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Pay in euros",
+        "Exchange to US dollars",
+        "Use Russian rubles",
+        "Pay in Polish zloty",
+        "Exchange for British pounds",
+        "Use a credit card abroad"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Exchange money to hryvnia",
+        "Pay in hryvnia in Ukraine",
+        "Check the UAH exchange rate"
+      ]
+    },
+    "test": {
+      "en": [
+        "Convert hryvnia to euros",
+        "Withdraw hryvnia from the ATM",
+        "Budget the Ukraine trip"
+      ]
+    }
+  }
+}

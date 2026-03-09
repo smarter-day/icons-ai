@@ -1,0 +1,204 @@
+{
+  "icon": "map-location",
+  "rows": {
+    "train_en": 67,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "address",
+        "coordinates",
+        "destination",
+        "gps",
+        "localize",
+        "location",
+        "map",
+        "navigation",
+        "paper",
+        "pin",
+        "place",
+        "point of interest",
+        "position",
+        "route",
+        "travel"
+      ],
+      "ru": [
+        "адрес",
+        "координаты",
+        "пункт назначения",
+        "gps",
+        "локализация",
+        "местоположение",
+        "карта",
+        "навигация",
+        "бумага",
+        "булавка",
+        "место",
+        "достопримечательность",
+        "позиция",
+        "маршрут",
+        "путешествие"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "address displayed on map with pin",
+        "find address on map",
+        "GPS coordinates shown on map view",
+        "pinned coordinates on map",
+        "destination shown on map screen",
+        "navigate to destination on map",
+        "GPS map showing current location",
+        "GPS navigation on map",
+        "localize position on map screen",
+        "localize nearby places on map",
+        "location dot placed on map",
+        "map with location pin",
+        "digital map for navigation",
+        "map screen in navigation app",
+        "paper map with marked location",
+        "folded map with a marked pin",
+        "pin dropped on map location",
+        "map pin at specific point",
+        "place marked on map",
+        "tourist place on location map",
+        "point of interest on map view",
+        "labeled point of interest on map",
+        "current position shown on map",
+        "GPS position on location map",
+        "route drawn to destination on map",
+        "navigation route on map",
+        "travel map with destination pin",
+        "travel route map"
+      ],
+      "ru": [
+        "адрес отображён на карте с булавкой",
+        "найти адрес на карте",
+        "GPS координаты показаны на карте",
+        "закреплённые координаты на карте",
+        "пункт назначения на экране карты",
+        "навигация к пункту назначения по карте",
+        "GPS карта показывающая текущее положение",
+        "GPS навигация на карте",
+        "локализовать позицию на экране карты",
+        "локализовать ближайшие места на карте",
+        "точка местоположения на карте",
+        "карта с булавкой местоположения",
+        "цифровая карта для навигации",
+        "экран карты в навигационном приложении",
+        "бумажная карта с отмеченным местом",
+        "сложенная карта с отмеченной булавкой",
+        "булавка упала на место на карте",
+        "булавка карты в конкретной точке",
+        "место отмечено на карте",
+        "туристическое место на карте местоположения",
+        "достопримечательность на карте",
+        "обозначенная достопримечательность на карте",
+        "текущая позиция на карте",
+        "GPS позиция на карте местоположения",
+        "маршрут к пункту назначения на карте",
+        "навигационный маршрут на карте",
+        "карта путешествия с булавкой назначения",
+        "карта маршрута путешествия"
+      ]
+    },
+    "regular": {
+      "en": [
+        "map view with a location pin dropped",
+        "navigation app showing map with marked destination",
+        "map screen with current GPS position",
+        "address book location shown on map",
+        "zoomed-in map with a place marked",
+        "map with route and destination marker",
+        "point of interest highlighted on map view",
+        "city map with meeting point pinned",
+        "shared location pin on map screen",
+        "map showing saved favorite places"
+      ],
+      "ru": [
+        "вид карты с упавшей булавкой местоположения",
+        "приложение навигации показывающее карту с отмеченным пунктом",
+        "экран карты с текущей GPS позицией",
+        "местоположение адресной книги на карте",
+        "карта с приближением и отмеченным местом",
+        "карта с маршрутом и маркером пункта назначения",
+        "достопримечательность выделенная на виде карты",
+        "городская карта с закреплённой точкой встречи",
+        "общая булавка местоположения на экране карты",
+        "карта показывающая сохранённые любимые места"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a map with location pin for the places screen",
+        "add a map-location icon to the navigation tab",
+        "show a map with pin for the saved addresses",
+        "use the map location icon for the destination selector"
+      ],
+      "ru": [
+        "Мне нужна карта с булавкой для экрана мест",
+        "добавить иконку карты с местоположением на вкладку навигации",
+        "показать карту с булавкой для сохранённых адресов",
+        "использовать иконку карты для выбора пункта назначения"
+      ]
+    },
+    "typo": {
+      "en": [
+        "map locatoin pin",
+        "naviagtion map pin",
+        "destiantion on map",
+        "maap with location"
+      ],
+      "ru": [
+        "карта с местоположениам",
+        "навигациа карта булавка",
+        "пункт назначениа на карте",
+        "крата с булавкой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "standalone location dot without map",
+        "folded paper map without any pin",
+        "GPS crosshairs targeting a position",
+        "globe showing worldwide locations",
+        "compass for direction without map",
+        "map pin icon standing alone"
+      ],
+      "ru": [
+        "отдельная точка местоположения без карты",
+        "сложенная бумажная карта без булавки",
+        "GPS прицел нацеленный на позицию",
+        "глобус показывающий мировые местоположения",
+        "компас для направления без карты",
+        "отдельная иконка булавки карты"
+      ]
+    },
+    "valid": {
+      "en": [
+        "map with location pin marked",
+        "navigation map with destination",
+        "map showing current position"
+      ],
+      "ru": [
+        "карта с отмеченной булавкой",
+        "навигационная карта с пунктом назначения",
+        "карта показывающая текущую позицию"
+      ]
+    },
+    "test": {
+      "en": [
+        "map location icon",
+        "map view with pin",
+        "location on map screen"
+      ],
+      "ru": [
+        "иконка местоположения на карте",
+        "вид карты с булавкой",
+        "местоположение на экране карты"
+      ]
+    }
+  }
+}

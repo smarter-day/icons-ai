@@ -1,0 +1,220 @@
+{
+  "icon": "map",
+  "rows": {
+    "train_en": 75,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "address",
+        "coordinates",
+        "destination",
+        "gps",
+        "localize",
+        "location",
+        "map",
+        "navigation",
+        "paper",
+        "pin",
+        "place",
+        "point of interest",
+        "position",
+        "route",
+        "travel",
+        "world",
+        "world map"
+      ],
+      "ru": [
+        "адрес",
+        "координаты",
+        "пункт назначения",
+        "gps",
+        "локализация",
+        "местоположение",
+        "карта",
+        "навигация",
+        "бумага",
+        "булавка",
+        "место",
+        "достопримечательность",
+        "позиция",
+        "маршрут",
+        "путешествие",
+        "мир",
+        "карта мира"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "street address shown on folded map",
+        "map address lookup tool",
+        "GPS coordinates on paper map",
+        "map coordinates grid",
+        "destination marked on road map",
+        "route to destination on map",
+        "GPS route displayed on map view",
+        "GPS navigation map screen",
+        "localize results on a map view",
+        "localize places on regional map",
+        "location shown on printed map",
+        "drop location on map sheet",
+        "road map of a city",
+        "map view of a neighborhood",
+        "navigation via paper map",
+        "map-based navigation for road trips",
+        "paper map folded for travel",
+        "printed paper map of region",
+        "pin on map marking a landmark",
+        "multiple pins on a city map",
+        "scenic place on the map",
+        "tourist place marked on map",
+        "point of interest labeled on map",
+        "tourist point of interest on map",
+        "current position on map view",
+        "GPS position on map",
+        "route drawn on a road map",
+        "scenic route highlighted on map",
+        "travel itinerary shown on map",
+        "travel route across countries",
+        "world map showing all continents",
+        "global world map poster",
+        "world map wallpaper with countries",
+        "world map for geography class"
+      ],
+      "ru": [
+        "адрес улицы на сложенной карте",
+        "инструмент поиска адреса на карте",
+        "GPS координаты на бумажной карте",
+        "сетка координат карты",
+        "пункт назначения отмечен на дорожной карте",
+        "маршрут до пункта назначения на карте",
+        "GPS маршрут на экране карты",
+        "экран GPS навигации карты",
+        "локализовать результаты на карте",
+        "локализовать места на региональной карте",
+        "местоположение показано на напечатанной карте",
+        "бросить местоположение на лист карты",
+        "дорожная карта города",
+        "вид карты района",
+        "навигация по бумажной карте",
+        "навигация по карте в дорожных поездках",
+        "бумажная карта сложенная для путешествия",
+        "напечатанная карта региона",
+        "булавка на карте отмечающая ориентир",
+        "несколько булавок на городской карте",
+        "живописное место на карте",
+        "туристическое место отмеченное на карте",
+        "достопримечательность обозначена на карте",
+        "туристическая достопримечательность на карте",
+        "текущая позиция на виде карты",
+        "GPS позиция на карте",
+        "маршрут нарисованный на дорожной карте",
+        "живописный маршрут выделенный на карте",
+        "маршрут путешествия показан на карте",
+        "маршрут путешествия по странам",
+        "карта мира со всеми континентами",
+        "глобальный плакат карты мира",
+        "обои с картой мира и странами",
+        "карта мира для урока географии"
+      ]
+    },
+    "regular": {
+      "en": [
+        "folded paper road map for a road trip",
+        "tourist map of a city with landmarks",
+        "topographic map with elevation lines",
+        "world map showing all countries and oceans",
+        "physical map with terrain features",
+        "digital map displayed on a screen",
+        "subway map for public transit navigation",
+        "hiking trail map for outdoor adventure",
+        "treasure map leading to a hidden location",
+        "weather map showing regional forecast"
+      ],
+      "ru": [
+        "сложенная бумажная дорожная карта для поездки",
+        "туристическая карта города с достопримечательностями",
+        "топографическая карта с линиями высот",
+        "карта мира со всеми странами и океанами",
+        "физическая карта с рельефными особенностями",
+        "цифровая карта на экране",
+        "схема метро для навигации общественным транспортом",
+        "карта пешеходных маршрутов для активного отдыха",
+        "карта сокровищ ведущая к тайному месту",
+        "карта погоды показывающая региональный прогноз"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a map icon for the travel section",
+        "add a map symbol to the navigation feature",
+        "show a map for the route planning screen",
+        "use the map icon for the world view"
+      ],
+      "ru": [
+        "Мне нужна иконка карты для раздела путешествий",
+        "добавить символ карты в функцию навигации",
+        "показать карту для экрана планирования маршрута",
+        "использовать иконку карты для мирового вида"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wrold map view",
+        "navigaiton map",
+        "rout on map",
+        "destiantion map"
+      ],
+      "ru": [
+        "крата мира",
+        "навигациа карта",
+        "маршурт на карте",
+        "пункт назначениа карта"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "teardrop location pin dropped on a map",
+        "GPS crosshairs targeting a position",
+        "globe showing the entire earth",
+        "map showing a pin with location dot",
+        "compass rose for navigation direction",
+        "satellite view of terrain from above"
+      ],
+      "ru": [
+        "каплевидная булавка местоположения на карте",
+        "GPS прицел нацеленный на позицию",
+        "глобус показывающий всю землю",
+        "карта показывающая булавку с точкой",
+        "роза ветров для навигации",
+        "спутниковый вид рельефа сверху"
+      ]
+    },
+    "valid": {
+      "en": [
+        "folded paper map for navigation",
+        "world map showing countries",
+        "road map for travel planning"
+      ],
+      "ru": [
+        "сложенная бумажная карта для навигации",
+        "карта мира со странами",
+        "дорожная карта для планирования поездки"
+      ]
+    },
+    "test": {
+      "en": [
+        "map icon for travel",
+        "paper road map folded",
+        "city map with landmarks"
+      ],
+      "ru": [
+        "иконка карты для путешествий",
+        "сложенная бумажная дорожная карта",
+        "городская карта с достопримечательностями"
+      ]
+    }
+  }
+}

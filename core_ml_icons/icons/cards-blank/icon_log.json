@@ -1,0 +1,148 @@
+{
+  "icon": "cards-blank",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "card",
+        "magic the gathering",
+        "mtg",
+        "playing card",
+        "pokemon"
+      ],
+      "ru": [
+        "карта",
+        "Магия: Сбор",
+        "МТГ",
+        "игральная карта",
+        "Покемон"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Card deck for the game night",
+        "Magic the Gathering card sleeve order",
+        "MTG deck building session",
+        "Playing card for the magic trick",
+        "Pokemon card collection update",
+        "Card game rules review before the tournament",
+        "Magic the Gathering booster pack opening",
+        "MTG trade binder update this session",
+        "Playing card shuffle technique practice",
+        "Pokemon card grading service submission"
+      ],
+      "ru": [
+        "Колода карт для игрового вечера",
+        "Заказ протекторов для карт Magic: the Gathering",
+        "Сборка колоды МТГ",
+        "Игральная карта для фокуса",
+        "Обновление коллекции карт Pokemon",
+        "Повторить правила карточной игры перед турниром",
+        "Вскрытие бустера Magic the Gathering",
+        "Обновление трейд-биндера MTG",
+        "Тренировка техники тасования карт",
+        "Подача коллекции Pokemon карт на оценку"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Set up the card game tonight",
+        "Blank card template for the design",
+        "Shuffle the deck before the game",
+        "Design custom playing cards",
+        "Print blank cards for the workshop",
+        "Card game with friends this weekend",
+        "Blank card for the note",
+        "Deal the cards for the round",
+        "Create flashcards for studying",
+        "Placeholder card for the project"
+      ],
+      "ru": [
+        "Подготовить карточную игру на вечер",
+        "Пустой шаблон карточки для дизайна",
+        "Перетасовать колоду перед игрой",
+        "Разработать дизайн игральных карт",
+        "Напечатать пустые карточки для воркшопа",
+        "Карточная игра с друзьями в выходные",
+        "Пустая карточка для заметки",
+        "Раздать карты для раунда",
+        "Создать флэш-карточки для учёбы",
+        "Карточка-заглушка для проекта"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "need some blank cards for this",
+        "just a card with nothing on it",
+        "blank slate — write what you want",
+        "shuffle and deal the blank ones"
+      ],
+      "ru": [
+        "нужны пустые карточки для этого",
+        "просто карточка без ничего на ней",
+        "чистый лист — пиши что хочешь",
+        "перемешать и раздать пустые"
+      ]
+    },
+    "typo": {
+      "en": [
+        "blnak card for the game",
+        "plaiyng card deck for tonight",
+        "mtg deck buildign session",
+        "poekmon card collection update"
+      ],
+      "ru": [
+        "пустая каточка для игры",
+        "колода игарльных карт на вечер",
+        "сборка колоды мтг",
+        "обновление коллекции карт поекмон"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Greeting card with a handwritten message",
+        "Business card design for the event",
+        "Flashcard set for the exam revision",
+        "Credit card payment at checkout",
+        "Index card notes for the lecture",
+        "Gift card from the store"
+      ],
+      "ru": [
+        "Открытка с рукописным сообщением",
+        "Дизайн визитки для мероприятия",
+        "Набор флэш-карточек для подготовки к экзамену",
+        "Оплата кредитной картой на кассе",
+        "Карточки с заметками для лекции",
+        "Подарочная карта из магазина"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Blank card design for the game",
+        "MTG deck for Friday night",
+        "Custom playing card print order"
+      ],
+      "ru": [
+        "Дизайн пустой карточки для игры",
+        "Колода МТГ на пятничный вечер",
+        "Заказ на печать игральных карт"
+      ]
+    },
+    "test": {
+      "en": [
+        "Card deck for the game night",
+        "Blank template for the card set",
+        "Pokemon card trade session"
+      ],
+      "ru": [
+        "Колода карт для игрового вечера",
+        "Пустой шаблон для набора карточек",
+        "Обмен картами Pokemon"
+      ]
+    }
+  }
+}

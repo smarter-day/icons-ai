@@ -1,0 +1,154 @@
+{
+  "icon": "shield-cat",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "animal",
+        "feline",
+        "pet",
+        "protect",
+        "safety",
+        "veterinary"
+      ],
+      "ru": [
+        "животное",
+        "кошка",
+        "питомец",
+        "защита",
+        "безопасность",
+        "ветеринарный"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "shield protecting animal from harm",
+        "animal protection symbol with shield",
+        "feline cat face on shield icon",
+        "feline protection logo",
+        "protect pet cat with shield symbol",
+        "pet safety icon for cat owner",
+        "protect loved pet from danger",
+        "shield protecting small pet",
+        "safety symbol for cat vaccination",
+        "pet safety reminder for feline care",
+        "veterinary protection for cat health",
+        "veterinary shield for feline medicine"
+      ],
+      "ru": [
+        "щит защищает животное от вреда",
+        "символ защиты животного со щитом",
+        "мордочка кошки на иконке щита",
+        "логотип защиты кошки",
+        "защитить питомца кошку символом щита",
+        "иконка безопасности питомца для владельца кошки",
+        "защитить любимого питомца от опасности",
+        "щит защищает маленького питомца",
+        "символ безопасности для вакцинации кошки",
+        "напоминание о безопасности питомца для ухода за кошкой",
+        "ветеринарная защита здоровья кошки",
+        "ветеринарный щит для кошачьей медицины"
+      ]
+    },
+    "regular": {
+      "en": [
+        "cat face inside protective shield icon",
+        "pet insurance shield for cat coverage",
+        "veterinary protection badge for cat health",
+        "feline safety symbol in pet care app",
+        "cat vaccination reminder with shield icon",
+        "cat guard protection from fleas and ticks",
+        "kitten safety icon for new pet owner",
+        "shield-cat icon for lost pet protection",
+        "pet wellness shield tracking cat health",
+        "cat microchip safety identification badge"
+      ],
+      "ru": [
+        "морда кошки внутри защитного щита",
+        "страховка питомца щит для кошки",
+        "ветеринарный значок защиты здоровья кошки",
+        "символ безопасности кошки в приложении по уходу",
+        "напоминание о вакцинации кошки с иконкой щита",
+        "защита кошки от блох и клещей",
+        "иконка безопасности котёнка для нового владельца",
+        "иконка щит-кошка для защиты пропавшего питомца",
+        "щит здоровья питомца для отслеживания состояния кошки",
+        "бейдж безопасности с чипом кошки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a shield-cat icon for the pet protection feature",
+        "add a cat shield symbol to the veterinary section",
+        "show a shield-cat for the pet safety screen",
+        "use the shield-cat icon for feline health tracking"
+      ],
+      "ru": [
+        "мне нужна иконка щит-кошка для функции защиты питомца",
+        "добавь символ щита кошки в ветеринарный раздел",
+        "покажи щит-кошку для экрана безопасности питомца",
+        "используй иконку щит-кошка для отслеживания здоровья кошки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cat face insdie protective shield icon",
+        "pet insurnace shield for cat coverage",
+        "felien safety symbol in pet care app",
+        "cat vacination reminder with shield"
+      ],
+      "ru": [
+        "морда кошкли внутри защитного щита",
+        "страховка пиотмца щит для кошки",
+        "символ безопаснотси кошки в приложении",
+        "напоминание о вакцинаци кошки со щитом"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "shield-dog protection badge for canine pet",
+        "paw print icon for pet tracking app",
+        "cat face emoji without shield",
+        "veterinary cross medical symbol",
+        "pet collar with ID tag attached",
+        "cat carrier box for travel"
+      ],
+      "ru": [
+        "значок защиты щит-собака для питомца пса",
+        "след лапы для приложения отслеживания питомца",
+        "эмодзи мордочки кошки без щита",
+        "ветеринарный крест медицинский символ",
+        "ошейник питомца с идентификационным жетоном",
+        "переноска для кошки для путешествий"
+      ]
+    },
+    "valid": {
+      "en": [
+        "cat shield protection icon",
+        "veterinary feline safety badge",
+        "shield-cat for pet care app"
+      ],
+      "ru": [
+        "иконка защиты щит-кошка",
+        "ветеринарный значок безопасности кошки",
+        "щит-кошка для приложения по уходу"
+      ]
+    },
+    "test": {
+      "en": [
+        "cat face on shield symbol",
+        "pet protection icon for cat",
+        "feline safety shield in vet app"
+      ],
+      "ru": [
+        "морда кошки на символе щита",
+        "иконка защиты питомца для кошки",
+        "щит безопасности кошки в ветприложении"
+      ]
+    }
+  }
+}

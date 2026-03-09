@@ -1,0 +1,160 @@
+{
+  "icon": "raccoon",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "mammal",
+        "mask",
+        "panda",
+        "paw",
+        "raccoon",
+        "tail",
+        "trash"
+      ],
+      "ru": [
+        "млекопитающее",
+        "маска",
+        "панда",
+        "лапа",
+        "енот",
+        "хвост",
+        "мусор"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "nocturnal mammal foraging at night",
+        "North American forest mammal",
+        "bandit mask markings around raccoon eyes",
+        "black mask face pattern",
+        "raccoon resembles a small panda bear",
+        "panda-like mask on raccoon face",
+        "muddy paw prints from raccoon",
+        "raccoon paw tracks in the mud",
+        "raccoon rummaging through garbage",
+        "raccoon climbing fence in backyard",
+        "ringed tail of raccoon striped with black",
+        "bushy ringed tail wagging",
+        "raccoon tipping over trash can at night",
+        "trash bin knocked over by raccoon"
+      ],
+      "ru": [
+        "ночное млекопитающее ищет пищу ночью",
+        "североамериканское лесное млекопитающее",
+        "маска разбойника вокруг глаз енота",
+        "чёрный узор маски на морде",
+        "енот похож на маленькую панду",
+        "маска на морде енота как у панды",
+        "грязные следы лап енота",
+        "отпечатки лап енота в грязи",
+        "енот роется в мусорном ведре",
+        "енот лезет через забор во дворе",
+        "полосатый хвост енота с чёрными кольцами",
+        "пушистый полосатый хвост машет",
+        "енот опрокидывает мусорное ведро ночью",
+        "мусорный бак, опрокинутый енотом"
+      ]
+    },
+    "regular": {
+      "en": [
+        "raccoon with distinctive black mask around eyes",
+        "ringed bushy tail of a raccoon",
+        "raccoon digging through trash can at night",
+        "raccoon washing food in a stream",
+        "urban raccoon adapted to city life",
+        "raccoon looking through fence with curious eyes",
+        "baby raccoon kit with fuzzy striped tail",
+        "raccoon paw print in soft mud",
+        "nocturnal raccoon scavenging in suburban backyard",
+        "raccoon mascot character with mischievous grin"
+      ],
+      "ru": [
+        "енот с характерной чёрной маской вокруг глаз",
+        "пушистый полосатый хвост енота",
+        "енот роется в мусорном ведре ночью",
+        "енот полощет еду в ручье",
+        "городской енот, приспособленный к жизни в городе",
+        "енот смотрит сквозь забор с любопытными глазами",
+        "детёныш енота с пушистым полосатым хвостом",
+        "след лапы енота в мягкой грязи",
+        "ночной енот ищет пищу на загородном участке",
+        "персонаж-маскот енот с озорной ухмылкой"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a raccoon icon for my wildlife app",
+        "add a raccoon symbol to the nocturnal animals section",
+        "show a raccoon for the trash management feature",
+        "use the raccoon icon for the mischievous character category"
+      ],
+      "ru": [
+        "мне нужна иконка енота для приложения о дикой природе",
+        "добавь символ енота в раздел ночных животных",
+        "покажи енота для функции управления отходами",
+        "используй иконку енота для категории озорных персонажей"
+      ]
+    },
+    "typo": {
+      "en": [
+        "racocon digging through trash at night",
+        "raccoon with blakc mask around eyes",
+        "rignged tail of the raccoon",
+        "urban racoon in suburban backyard"
+      ],
+      "ru": [
+        "енот копетася в мусоре ночью",
+        "енот с чёрной маскйо вокруг глаз",
+        "полостатый хвост енота",
+        "городскй енот во дворе"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "badger with black and white striped face",
+        "skunk with white stripe down the back",
+        "red panda with rusty fur and ringed tail",
+        "opossum hanging by tail from a branch",
+        "fox with orange fur and bushy tail",
+        "giant panda bear with black and white patches"
+      ],
+      "ru": [
+        "барсук с чёрно-белой полосатой мордой",
+        "скунс с белой полосой на спине",
+        "красная панда с рыжим мехом и полосатым хвостом",
+        "опоссум висит на хвосте с ветки",
+        "лиса с оранжевым мехом и пушистым хвостом",
+        "большая панда с чёрно-белыми пятнами"
+      ]
+    },
+    "valid": {
+      "en": [
+        "raccoon with black mask and ringed tail",
+        "nocturnal raccoon digging through trash",
+        "raccoon paw print in the mud"
+      ],
+      "ru": [
+        "енот с чёрной маской и полосатым хвостом",
+        "ночной енот роется в мусоре",
+        "след лапы енота в грязи"
+      ]
+    },
+    "test": {
+      "en": [
+        "raccoon with distinctive eye mask",
+        "bushy striped tail of raccoon",
+        "urban raccoon knocking over trash can"
+      ],
+      "ru": [
+        "енот с характерной маской вокруг глаз",
+        "пушистый полосатый хвост енота",
+        "городской енот опрокидывает мусорное ведро"
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "icon": "golf-club",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "caddy",
+        "eagle",
+        "putt",
+        "tee"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Hire a caddy for the round",
+        "Ask the caddy for advice",
+        "Score an eagle on hole 5",
+        "Aim for an eagle",
+        "Sink the putt on the green",
+        "Practice putting",
+        "Place the ball on the tee",
+        "Hit off the tee"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Play a round of golf",
+        "Book a tee time at the course",
+        "Practice at the driving range",
+        "Buy new golf clubs",
+        "Take a golf lesson",
+        "Play golf with colleagues",
+        "Watch the PGA tournament",
+        "Improve the golf swing",
+        "Play mini golf with the kids",
+        "Check the golf course weather"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Golf day!",
+        "Tee off time",
+        "Golf round",
+        "Hit the links"
+      ]
+    },
+    "typo": {
+      "en": [
+        "play a rounf of golf",
+        "book a tee tiem",
+        "practce at the drivng range",
+        "buy new gollf clubs"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Hit a tennis ball on the court",
+        "Swing the baseball bat",
+        "Play croquet in the garden",
+        "Hit a hockey puck",
+        "Play badminton in the park",
+        "Putt in mini golf"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Play a round of golf",
+        "Book a tee time",
+        "Practice at the driving range"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy new golf clubs",
+        "Take a golf lesson",
+        "Watch the PGA tournament"
+      ]
+    }
+  }
+}

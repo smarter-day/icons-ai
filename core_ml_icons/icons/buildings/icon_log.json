@@ -1,0 +1,160 @@
+{
+  "icon": "buildings",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "apartment",
+        "business",
+        "city",
+        "company",
+        "office",
+        "urban",
+        "work"
+      ],
+      "ru": [
+        "апартаменты",
+        "бизнес",
+        "город",
+        "компания",
+        "офис",
+        "городской",
+        "работа"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Search apartment buildings in downtown",
+        "Business district office tour",
+        "City skyline view planning",
+        "Company headquarters location",
+        "Office buildings near me",
+        "Urban development project",
+        "Work commute to the building",
+        "Apartment complex near the train station",
+        "Business park tour next Tuesday",
+        "City hall appointment this afternoon",
+        "Company retreat at the new campus",
+        "Office renovation underway on this floor",
+        "Urban planning meeting tomorrow morning",
+        "Work building access badge renewal"
+      ],
+      "ru": [
+        "Поиск жилых домов в центре города",
+        "Экскурсия по деловому району",
+        "Планирование вида на городской горизонт",
+        "Расположение штаб-квартиры компании",
+        "Офисные здания поблизости",
+        "Проект городского развития",
+        "Дорога на работу до здания",
+        "Жилой комплекс у железнодорожной станции",
+        "Экскурсия в бизнес-парк в следующий вторник",
+        "Запись в мэрию на сегодняшний вечер",
+        "Корпоратив на новом кампусе",
+        "Ремонт офиса на этом этаже",
+        "Встреча по городскому планированию завтра утром",
+        "Продление пропуска в рабочее здание"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Visit the downtown office complex",
+        "City center high-rise meeting",
+        "Corporate building directory update",
+        "Commercial real estate tour",
+        "New office building construction update",
+        "Tall buildings on the skyline",
+        "Business district lunch meeting",
+        "Urban office space rental",
+        "Meeting at the glass tower",
+        "Campus office building map"
+      ],
+      "ru": [
+        "Посетить офисный комплекс в центре города",
+        "Встреча в высотке в центре города",
+        "Обновление справочника корпоративных зданий",
+        "Тур по коммерческой недвижимости",
+        "Новости строительства офисного здания",
+        "Высокие здания на горизонте",
+        "Деловой обед в деловом районе",
+        "Аренда офисного пространства в городе",
+        "Встреча в стеклянной башне",
+        "Карта офисных зданий кампуса"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "those big office towers downtown",
+        "need to find the right building",
+        "heading to the business district",
+        "got a thing at the corporate campus"
+      ],
+      "ru": [
+        "вон те большие офисные башни в центре",
+        "нужно найти нужное здание",
+        "еду в деловой квартал",
+        "есть дело на корпоративном кампусе"
+      ]
+    },
+    "typo": {
+      "en": [
+        "office buldings in the city",
+        "comapny headquartes visit",
+        "bussiness district meeting",
+        "urban developemnt tour"
+      ],
+      "ru": [
+        "офисные зданния в городе",
+        "посещение штаб-квортиры компании",
+        "встреча в деловом кварттале",
+        "тур по гродскому развитию"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Single office building on the corner",
+        "Downtown cityscape of tall skyscrapers",
+        "Corporate complex with several buildings",
+        "Cluster of residential apartments in the block",
+        "Business park with multiple structures",
+        "Row of commercial properties on the avenue"
+      ],
+      "ru": [
+        "Одно офисное здание на углу",
+        "Городской пейзаж высотных небоскрёбов",
+        "Корпоративный комплекс из нескольких зданий",
+        "Группа жилых домов в квартале",
+        "Бизнес-парк с несколькими строениями",
+        "Ряд коммерческих объектов на проспекте"
+      ]
+    },
+    "valid": {
+      "en": [
+        "City block with corporate offices",
+        "Urban skyline shot for the project",
+        "Office district navigation"
+      ],
+      "ru": [
+        "Городской квартал с корпоративными офисами",
+        "Городской горизонт для проекта",
+        "Навигация по офисному кварталу"
+      ]
+    },
+    "test": {
+      "en": [
+        "Downtown building cluster",
+        "Multiple towers in the business zone",
+        "Corporate campus layout"
+      ],
+      "ru": [
+        "Группа зданий в центре",
+        "Несколько башен в деловой зоне",
+        "Планировка корпоративного кампуса"
+      ]
+    }
+  }
+}

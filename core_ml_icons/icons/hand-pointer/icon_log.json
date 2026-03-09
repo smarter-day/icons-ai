@@ -1,0 +1,81 @@
+{
+  "icon": "hand-pointer",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "arrow",
+        "cursor",
+        "select"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Click the arrow to proceed",
+        "Follow the arrow to the exit",
+        "Move the cursor to the button",
+        "Click the cursor on the link",
+        "Select the option from the menu",
+        "Select all the items"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Click the button on the screen",
+        "Point to the correct option",
+        "Select the file to open",
+        "Click the link to open the page",
+        "Use the pointer to highlight",
+        "Select items in the list",
+        "Click the icon to launch the app",
+        "Point the cursor to the right area",
+        "Select all and copy",
+        "Click the submit button"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Click here",
+        "Point to it",
+        "Select that",
+        "Tap to open"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cilck the buton",
+        "selecct the optoin",
+        "moev the cursro",
+        "ponit to the icon"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use the arrow keys to navigate",
+        "Drag and drop the file",
+        "Right-click to open the menu",
+        "Use a touchscreen to tap",
+        "Use a stylus to draw",
+        "Scroll to see more options"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Click the button on the screen",
+        "Select the file to open",
+        "Point the cursor to the right area"
+      ]
+    },
+    "test": {
+      "en": [
+        "Click the link to open the page",
+        "Select all and copy",
+        "Click the submit button"
+      ]
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "icon": "truck-pickup",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cargo",
+        "maintenance",
+        "pick-up",
+        "pickup",
+        "pickup truck",
+        "truck",
+        "vehicle"
+      ],
+      "ru": [
+        "груз",
+        "обслуживание",
+        "пикап",
+        "пикап",
+        "пикап-грузовик",
+        "грузовик",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cargo in pickup truck bed",
+        "pickup truck cargo haul",
+        "maintenance pickup truck service",
+        "truck maintenance crew vehicle",
+        "pick-up truck pulling trailer",
+        "pick-up load heavy duty",
+        "pickup truck classic American",
+        "pickup truck model year",
+        "pickup truck for work",
+        "pickup truck farm ranch",
+        "truck pickup big wheels",
+        "pickup truck lifted",
+        "vehicle pickup truck personal",
+        "pickup vehicle four door"
+      ],
+      "ru": [
+        "груз в кузове пикапа",
+        "пикап буксирует груз",
+        "пикап обслуживания сервис",
+        "техническое обслуживание бригада пикап",
+        "пикап тянет прицеп",
+        "пикап тяжёлый груз",
+        "классический американский пикап",
+        "модель пикапа год выпуска",
+        "пикап для работы",
+        "пикап ферма ранчо",
+        "пикап большие колёса",
+        "лифтованный пикап",
+        "персональный пикап транспортное средство",
+        "пикап четырёхдверный"
+      ]
+    },
+    "regular": {
+      "en": [
+        "classic American pickup truck on road",
+        "lifted pickup truck off-road mudding",
+        "pickup truck bed loaded with lumber",
+        "double cab pickup truck family",
+        "work truck pickup ladder rack",
+        "electric pickup truck Tesla Rivian",
+        "pickup truck towing boat trailer",
+        "farm pickup truck dirty worn",
+        "pickup truck parking lot urban",
+        "small pickup truck compact model"
+      ],
+      "ru": [
+        "классический американский пикап на дороге",
+        "лифтованный пикап бездорожье",
+        "кузов пикапа загружен пиломатериалами",
+        "пикап с двойной кабиной семейный",
+        "рабочий пикап с лестничной стойкой",
+        "электрический пикап Tesla Rivian",
+        "пикап буксирует лодочный прицеп",
+        "фермерский пикап потрёпанный грязный",
+        "пикап парковка городской",
+        "компактный пикап небольшая модель"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pickup truck icon for the vehicle section",
+        "add a pickup symbol to the work vehicle category",
+        "show a pickup truck for the hauling feature",
+        "use the truck-pickup icon for the cargo section"
+      ],
+      "ru": [
+        "нужна иконка пикапа для раздела транспорта",
+        "добавь символ пикапа к категории рабочих транспортных средств",
+        "покажи пикап для функции перевозки грузов",
+        "используй иконку пикапа для раздела грузов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pciup truck cargo",
+        "picup truck american",
+        "trcuk pickup haul",
+        "vehicel pickup farm"
+      ],
+      "ru": [
+        "пикап грузовик кузов",
+        "американский пикап",
+        "пикап буксировка груз",
+        "транспортное средство пикап"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "moving truck large van",
+        "SUV sport utility vehicle",
+        "sedan four door car",
+        "jeep off-road vehicle open",
+        "van cargo delivery closed",
+        "flatbed truck commercial hauling"
+      ],
+      "ru": [
+        "грузовик переезда большой фургон",
+        "внедорожник SUV",
+        "седан четырёхдверный автомобиль",
+        "джип внедорожный автомобиль открытый",
+        "фургон грузовой доставка закрытый",
+        "платформенный грузовик коммерческий"
+      ]
+    },
+    "valid": {
+      "en": [
+        "pickup truck icon",
+        "cargo pickup vehicle",
+        "American truck symbol"
+      ],
+      "ru": [
+        "иконка пикапа",
+        "грузовой пикап транспортное средство",
+        "символ американского грузовика"
+      ]
+    },
+    "test": {
+      "en": [
+        "truck-pickup icon",
+        "pickup truck symbol",
+        "work truck vehicle"
+      ],
+      "ru": [
+        "иконка пикапа",
+        "символ пикапа",
+        "рабочий грузовик транспортное средство"
+      ]
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "icon": "garage",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "auto",
+        "car",
+        "door",
+        "storage",
+        "structure",
+        "warehouse"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Fix the auto in the garage",
+        "Park the auto in the garage",
+        "Park the car in the garage",
+        "Take the car out of the garage",
+        "Open the garage door",
+        "Replace the garage door opener",
+        "Organize garage storage",
+        "Use the garage for extra storage",
+        "Build a garage structure",
+        "Reinforce the garage structure",
+        "Convert the garage into a workshop",
+        "Use the garage as a warehouse"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Clean out the garage",
+        "Park the car in the garage",
+        "Organize the garage shelves",
+        "Fix the garage door opener",
+        "Set up a workshop in the garage",
+        "Store seasonal items in the garage",
+        "Epoxy coat the garage floor",
+        "Install shelving in the garage",
+        "Park both cars in the garage",
+        "Use the garage for the home gym"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Clean the garage",
+        "Park in the garage",
+        "Garage door broke",
+        "Garage workshop"
+      ]
+    },
+    "typo": {
+      "en": [
+        "clen out the gaarge",
+        "park the cra in garage",
+        "fix the garaged oor",
+        "ogranize the gaargae"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Park the car in the driveway",
+        "Store items in a storage unit",
+        "Fix the car at the auto shop",
+        "Park in the underground parking",
+        "Use a carport instead of a garage",
+        "Organize the basement storage"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Park the car in the garage",
+        "Clean out the garage",
+        "Fix the garage door opener"
+      ]
+    },
+    "test": {
+      "en": [
+        "Organize the garage shelves",
+        "Set up a workshop in the garage",
+        "Store seasonal items in the garage"
+      ]
+    }
+  }
+}

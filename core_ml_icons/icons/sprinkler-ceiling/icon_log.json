@@ -1,0 +1,136 @@
+{
+  "icon": "sprinkler-ceiling",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "emergency",
+        "fire",
+        "water"
+      ],
+      "ru": [
+        "аварийный",
+        "пожар",
+        "вода"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "emergency fire sprinkler activates",
+        "emergency water sprinkler on ceiling",
+        "fire sprinkler head on ceiling",
+        "fire suppression sprinkler system",
+        "water sprinkler releasing over fire",
+        "sprinkler water flow ceiling mounted"
+      ],
+      "ru": [
+        "аварийный пожарный спринклер активируется",
+        "аварийный водяной спринклер на потолке",
+        "пожарная спринклерная головка на потолке",
+        "система подавления пожара спринклерами",
+        "водяной спринклер тушит пожар",
+        "поток воды из потолочного спринклера"
+      ]
+    },
+    "regular": {
+      "en": [
+        "ceiling-mounted fire sprinkler head",
+        "sprinkler system activating over fire",
+        "smoke triggers ceiling sprinkler",
+        "industrial sprinkler grid in warehouse",
+        "hotel room ceiling sprinkler safety",
+        "sprinkler head with glass bulb fuse",
+        "fire suppression water sprinkler symbol",
+        "sprinkler coverage map for building floor",
+        "sprinkler inspection maintenance tag",
+        "ceiling sprinkler icon for fire safety"
+      ],
+      "ru": [
+        "потолочная пожарная спринклерная головка",
+        "спринклерная система активируется при пожаре",
+        "дым срабатывает потолочный спринклер",
+        "промышленная сетка спринклеров на складе",
+        "спринклер безопасности в номере отеля",
+        "спринклерная головка со стеклянной колбой",
+        "символ водяного пожарного спринклера",
+        "карта покрытия спринклеров этажа здания",
+        "бирка технического обслуживания спринклера",
+        "иконка потолочного спринклера для пожарной безопасности"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sprinkler icon for the fire safety app",
+        "add a ceiling sprinkler to the emergency systems section",
+        "show a sprinkler for the fire suppression feature",
+        "use the sprinkler-ceiling icon for the safety checklist"
+      ],
+      "ru": [
+        "мне нужна иконка спринклера для приложения пожарной безопасности",
+        "добавь потолочный спринклер в раздел аварийных систем",
+        "покажи спринклер для функции пожаротушения",
+        "используй иконку спринклера для контрольного списка безопасности"
+      ]
+    },
+    "typo": {
+      "en": [
+        "celing-mounted fire sprinkler head",
+        "sprnkler system activating over fire",
+        "smkoe triggers ceiling sprinkler",
+        "sprinlker icon for fire safety app"
+      ],
+      "ru": [
+        "потолочная пожарная спркинлерная головка",
+        "система спрникелров активируется",
+        "дым срабатывает спркинлер",
+        "иконка спркинлера для пожарной безопасности"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "fire extinguisher red cylinder on wall",
+        "smoke detector alarm on ceiling",
+        "fire alarm pull station red box",
+        "emergency exit sign glowing green",
+        "fire hose reel cabinet on wall",
+        "gas sensor carbon monoxide detector"
+      ],
+      "ru": [
+        "красный огнетушитель на стене",
+        "дымовой датчик тревоги на потолке",
+        "красная коробка пожарной тревоги",
+        "светящийся зелёный знак аварийного выхода",
+        "шкаф с пожарным шлангом на стене",
+        "датчик угарного газа"
+      ]
+    },
+    "valid": {
+      "en": [
+        "ceiling fire sprinkler head",
+        "sprinkler system for fire suppression",
+        "emergency water sprinkler activated"
+      ],
+      "ru": [
+        "потолочная пожарная спринклерная головка",
+        "спринклерная система для пожаротушения",
+        "аварийный водяной спринклер активирован"
+      ]
+    },
+    "test": {
+      "en": [
+        "sprinkler on ceiling above fire",
+        "fire suppression sprinkler icon",
+        "ceiling sprinkler safety system"
+      ],
+      "ru": [
+        "спринклер на потолке над пожаром",
+        "иконка спринклера пожаротушения",
+        "система безопасности потолочного спринклера"
+      ]
+    }
+  }
+}

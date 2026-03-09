@@ -1,0 +1,154 @@
+{
+  "icon": "shield-dog",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "animal",
+        "canine",
+        "pet",
+        "protect",
+        "safety",
+        "veterinary"
+      ],
+      "ru": [
+        "животное",
+        "собака",
+        "питомец",
+        "защита",
+        "безопасность",
+        "ветеринарный"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "animal protection shield for dog",
+        "shield guarding animal from danger",
+        "canine dog face on shield badge",
+        "canine protection symbol",
+        "protect dog pet with shield",
+        "pet safety icon for dog owner",
+        "protect dog from fleas ticks disease",
+        "shield protecting dog from harm",
+        "safety symbol for dog vaccination",
+        "dog safety collar and shield icon",
+        "veterinary shield for dog health",
+        "veterinary protection canine medicine"
+      ],
+      "ru": [
+        "щит защиты животного для собаки",
+        "щит ограждает животное от опасности",
+        "морда собаки на значке-щите",
+        "символ защиты собаки",
+        "защитить питомца собаку щитом",
+        "иконка безопасности питомца для владельца",
+        "защитить собаку от блох клещей болезней",
+        "щит защищает собаку от вреда",
+        "символ безопасности для вакцинации собаки",
+        "иконка ошейника безопасности собаки",
+        "ветеринарный щит для здоровья собаки",
+        "ветеринарная защита кинологической медицины"
+      ]
+    },
+    "regular": {
+      "en": [
+        "dog face inside protective shield icon",
+        "pet insurance shield for dog coverage",
+        "veterinary protection badge for dog health",
+        "canine safety symbol in pet care app",
+        "dog vaccination reminder with shield icon",
+        "dog guard protection from fleas and heartworm",
+        "puppy safety icon for new dog owner",
+        "shield-dog icon for lost pet protection",
+        "dog microchip safety identification badge",
+        "pet wellness shield tracking dog health checks"
+      ],
+      "ru": [
+        "морда собаки внутри защитного щита",
+        "страховка питомца щит для собаки",
+        "ветеринарный значок защиты здоровья собаки",
+        "символ безопасности собаки в приложении по уходу",
+        "напоминание о вакцинации собаки со щитом",
+        "защита собаки от блох и сердечных глистов",
+        "иконка безопасности щенка для нового владельца",
+        "иконка щит-собака для защиты пропавшего питомца",
+        "бейдж безопасности с чипом собаки",
+        "щит здоровья для контрольных осмотров собаки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a shield-dog icon for the pet protection feature",
+        "add a dog shield symbol to the veterinary section",
+        "show a shield-dog for the canine safety screen",
+        "use the shield-dog icon for dog health tracking"
+      ],
+      "ru": [
+        "мне нужна иконка щит-собака для функции защиты питомца",
+        "добавь символ щита собаки в ветеринарный раздел",
+        "покажи щит-собаку для экрана безопасности собаки",
+        "используй иконку щит-собака для отслеживания здоровья собаки"
+      ]
+    },
+    "typo": {
+      "en": [
+        "dog face insdie protective shield icon",
+        "pet insurnace shield for dog coverage",
+        "caniine safety symbol in pet care app",
+        "dog vacination reminder with shield"
+      ],
+      "ru": [
+        "морда собки внутри защитного щита",
+        "страховка питмца щит для собаки",
+        "символ безопасноти собаки в приложении",
+        "напоминание о вакцинаци собаки со щитом"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "shield-cat protection badge for feline pet",
+        "paw print icon for pet tracking app",
+        "dog face emoji without shield",
+        "veterinary cross medical symbol for clinic",
+        "dog collar with ID tag attached",
+        "dog leash and harness for walks"
+      ],
+      "ru": [
+        "значок защиты щит-кошка для питомца",
+        "след лапы для приложения отслеживания",
+        "эмодзи мордочки собаки без щита",
+        "ветеринарный крест для клиники",
+        "ошейник собаки с идентификационным жетоном",
+        "поводок и шлейка для прогулок"
+      ]
+    },
+    "valid": {
+      "en": [
+        "dog shield protection icon",
+        "veterinary canine safety badge",
+        "shield-dog for pet care app"
+      ],
+      "ru": [
+        "иконка защиты щит-собака",
+        "ветеринарный значок безопасности собаки",
+        "щит-собака для приложения по уходу"
+      ]
+    },
+    "test": {
+      "en": [
+        "dog face on shield symbol",
+        "pet protection icon for dog",
+        "canine safety shield in vet app"
+      ],
+      "ru": [
+        "морда собаки на символе щита",
+        "иконка защиты питомца для собаки",
+        "щит безопасности собаки в ветприложении"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "icon": "briefcase-medical",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "doctor",
+        "emt",
+        "first aid",
+        "health"
+      ],
+      "ru": [
+        "врач",
+        "фельдшер",
+        "первая помощь",
+        "здоровье"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "doctor's appointment today",
+        "EMT on call tonight",
+        "restock the first aid kit",
+        "health checkup appointment",
+        "Doctor referral letter needed this week",
+        "EMT certification renewal course booked",
+        "First aid kit replenished in the car",
+        "Health insurance renewal this month"
+      ],
+      "ru": [
+        "запись к врачу сегодня",
+        "фельдшер на дежурстве сегодня ночью",
+        "пополнить аптечку первой помощи",
+        "запись на профилактический осмотр",
+        "Нужно направление к врачу на этой неделе",
+        "Курс продления сертификации фельдшера",
+        "Аптечка первой помощи в машине пополнена",
+        "Продление медицинской страховки в этом месяце"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Doctor's appointment this morning",
+        "Restock the first aid kit",
+        "Medical checkup scheduled",
+        "Pick up prescription at the pharmacy",
+        "Health screening appointment",
+        "First aid training session",
+        "Pack the medical kit for the trip",
+        "Emergency contact list update",
+        "Book a health consultation",
+        "Annual physical exam reminder"
+      ],
+      "ru": [
+        "Запись к врачу утром",
+        "Пополнить аптечку",
+        "Запись на медицинский осмотр",
+        "Забрать рецепт в аптеке",
+        "Запись на профилактическое обследование",
+        "Курсы первой помощи",
+        "Собрать медицинскую сумку для поездки",
+        "Обновить список экстренных контактов",
+        "Записаться на консультацию к врачу",
+        "Напоминание о ежегодном осмотре"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need to see a doctor about this",
+        "The first aid kit needs restocking",
+        "Time to schedule a checkup",
+        "Don't forget the doctor's appointment"
+      ],
+      "ru": [
+        "Мне нужно обратиться к врачу по этому поводу",
+        "Аптечку надо пополнить",
+        "Пора записаться на осмотр",
+        "Не забудь про запись к врачу"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Doctar's appointmet this morning",
+        "Restok the first aid kit",
+        "Medcal chekup schduled",
+        "Anual physcel exam reminer"
+      ],
+      "ru": [
+        "Запис к врачу утромм",
+        "Попалнить аптечку",
+        "Запись на медецинский осмотр",
+        "Ежегодный фзический осмотр напоминание"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy medicine at the pharmacy",
+        "Hospital visit for a friend",
+        "Ambulance call emergency",
+        "Health insurance renewal",
+        "Therapy appointment booking",
+        "Dental checkup"
+      ],
+      "ru": [
+        "Купить лекарства в аптеке",
+        "Посетить больницу для друга",
+        "Вызов скорой помощи",
+        "Продление медицинской страховки",
+        "Запись на психотерапию",
+        "Профилактический осмотр у стоматолога"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Doctor's appointment this week",
+        "Restock the first aid kit at home",
+        "Annual health checkup reminder"
+      ],
+      "ru": [
+        "Запись к врачу на этой неделе",
+        "Пополнить домашнюю аптечку",
+        "Напоминание о ежегодном медосмотре"
+      ]
+    },
+    "test": {
+      "en": [
+        "Medical bag ready for the shift",
+        "First aid refresher training",
+        "Book health consultation online"
+      ],
+      "ru": [
+        "Медицинская сумка готова к смене",
+        "Курсы оказания первой помощи",
+        "Записаться на медицинскую консультацию онлайн"
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "icon": "inbox",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "archive",
+        "email",
+        "mail",
+        "message"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Archive old emails",
+        "Move emails to the archive folder",
+        "Check the email inbox",
+        "Clear the email inbox",
+        "Check the mail inbox",
+        "Sort the incoming mail",
+        "Reply to the message in inbox",
+        "Check unread messages"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Check the inbox for new emails",
+        "Clear out the inbox",
+        "Reply to unread messages",
+        "Sort emails into folders",
+        "Check for new messages",
+        "Archive old emails",
+        "Mark all as read in the inbox",
+        "Search the inbox for the email",
+        "Set up an auto-reply for the inbox",
+        "Check the inbox first thing in the morning"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Check inbox",
+        "New messages",
+        "Clear the inbox",
+        "Unread emails"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chekc the inbxo",
+        "clera out the inbox",
+        "repyl to unread mesages",
+        "sort emials into foldrers"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Send an email from the outbox",
+        "Check the spam folder",
+        "Read messages in the sent folder",
+        "Check the notification tray",
+        "Read texts on the phone",
+        "Check the physical mailbox outside"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Check inbox for new emails",
+        "Clear out the inbox",
+        "Reply to unread messages"
+      ]
+    },
+    "test": {
+      "en": [
+        "Archive old emails",
+        "Sort emails into folders",
+        "Search the inbox for an email"
+      ]
+    }
+  }
+}

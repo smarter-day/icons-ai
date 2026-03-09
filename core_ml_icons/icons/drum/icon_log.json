@@ -1,0 +1,93 @@
+{
+  "icon": "drum",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "drum",
+        "drumsticks",
+        "instrument",
+        "music",
+        "percussion",
+        "snare",
+        "sound"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "beat the drum in the band",
+        "drum set in the recording studio",
+        "drumsticks striking the snare",
+        "pair of drumsticks on the kit",
+        "drum as a musical instrument",
+        "instrument played in the band",
+        "music played on the drum",
+        "drum music in the rhythm section",
+        "percussion drum in the orchestra",
+        "percussion section of the band",
+        "snare drum roll at the parade",
+        "tight snare drum sound",
+        "sound of the drum beat",
+        "deep bass drum sound"
+      ]
+    },
+    "regular": {
+      "en": [
+        "drum kit in the recording studio",
+        "drummer playing snare drum on stage",
+        "African djembe drum played by hand",
+        "marching band bass drum at the parade",
+        "drumsticks resting on the snare drum",
+        "steel drum played at a Caribbean festival",
+        "drum solo at the rock concert",
+        "bongo drums for rhythm practice",
+        "drum machine producing beats in the studio",
+        "parade drummer keeping the marching tempo"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a drum icon for the music app",
+        "add a drum symbol to the percussion section",
+        "show a drum for the band instruments category",
+        "use the drum icon for the rhythm game"
+      ]
+    },
+    "typo": {
+      "en": [
+        "snare durm roll",
+        "drumstciks on kit",
+        "percusion drum",
+        "musci played on drum"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "electric guitar on the concert stage",
+        "grand piano in the concert hall",
+        "brass trumpet playing a fanfare",
+        "tambourine shaken in the rhythm section",
+        "violin bow drawn across the strings",
+        "bass guitar played in the band"
+      ]
+    },
+    "valid": {
+      "en": [
+        "drum kit in the studio",
+        "snare drum roll",
+        "percussion drum instrument"
+      ]
+    },
+    "test": {
+      "en": [
+        "drum icon",
+        "drum symbol for music",
+        "snare drum beat"
+      ]
+    }
+  }
+}

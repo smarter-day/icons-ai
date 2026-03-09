@@ -1,0 +1,93 @@
+{
+  "icon": "hammer",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "equipment",
+        "fix",
+        "hammer",
+        "maintenance",
+        "repair",
+        "settings",
+        "tool"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Use the right equipment for the job",
+        "Buy equipment for the renovation",
+        "Fix the broken shelf",
+        "Fix the loose cabinet hinge",
+        "Hang a picture with a hammer",
+        "Use the hammer to nail",
+        "Schedule home maintenance",
+        "Do regular maintenance on the house",
+        "Repair the fence",
+        "Repair the broken step",
+        "Open the settings to adjust",
+        "Update settings for the repair tool",
+        "Use the right tool for the job",
+        "Buy a new set of tools"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Hang a picture on the wall",
+        "Fix the broken fence",
+        "Nail the boards together",
+        "Use a hammer for the home repair",
+        "Build a shelf for the garage",
+        "Repair the loose floorboard",
+        "Renovate the bathroom",
+        "Hang shelves in the bedroom",
+        "Build a birdhouse",
+        "Fix the squeaky stair"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Nail it!",
+        "Fix it up",
+        "Home repair",
+        "Hammer time"
+      ]
+    },
+    "typo": {
+      "en": [
+        "hang a picturre on the wal",
+        "fix the brokne fence",
+        "use a hamemr for repair",
+        "buid a shleving unit"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use a screwdriver to fix the screw",
+        "Apply paint with a brush",
+        "Use a wrench to tighten the bolt",
+        "Saw the wood to size",
+        "Use a drill for the hole",
+        "Fix with a staple gun"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Hang a picture with a hammer",
+        "Fix the broken fence",
+        "Build a shelf for the garage"
+      ]
+    },
+    "test": {
+      "en": [
+        "Use a hammer for the home repair",
+        "Nail the boards together",
+        "Repair the loose floorboard"
+      ]
+    }
+  }
+}

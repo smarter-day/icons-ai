@@ -1,0 +1,87 @@
+{
+  "icon": "game-board",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "checkers",
+        "chess",
+        "gaming",
+        "grid",
+        "tabletop"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Play checkers with a friend",
+        "Set up the checkers board",
+        "Play chess online",
+        "Learn chess openings",
+        "Try a new gaming experience",
+        "Gaming session tonight",
+        "Draw a grid for the game",
+        "Set up the grid on the board",
+        "Play a tabletop game",
+        "Organize a tabletop gaming night"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Play a board game with the family",
+        "Host a game night",
+        "Set up the chess board",
+        "Play checkers with the kids",
+        "Try a new tabletop game",
+        "Buy a new board game",
+        "Play Scrabble on game night",
+        "Organize a board game tournament",
+        "Play a strategy board game",
+        "Invite friends for a tabletop session"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Game night!",
+        "Chess time",
+        "Board game fun",
+        "Set up the board"
+      ]
+    },
+    "typo": {
+      "en": [
+        "play chekers with frined",
+        "set up the chsess board",
+        "tabletpo gaming night",
+        "buy a new bord game"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Play a video game on the console",
+        "Roll the dice for a dice game",
+        "Play cards for poker night",
+        "Play a word game on the phone",
+        "Use a gamepad for the video game",
+        "Play an arcade game"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Set up the chess board",
+        "Host a board game night",
+        "Play checkers with the kids"
+      ]
+    },
+    "test": {
+      "en": [
+        "Try a new tabletop game",
+        "Organize a board game tournament",
+        "Play a strategy game"
+      ]
+    }
+  }
+}

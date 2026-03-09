@@ -1,0 +1,148 @@
+{
+  "icon": "stamp",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "art",
+        "certificate",
+        "imprint",
+        "rubber",
+        "seal"
+      ],
+      "ru": [
+        "искусство",
+        "сертификат",
+        "оттиск",
+        "резиновый",
+        "печать"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "stamp art for scrapbooking",
+        "hand carved art stamp",
+        "official certificate stamp",
+        "stamp for certificate validation",
+        "ink imprint on paper",
+        "custom imprint design",
+        "rubber stamp with custom text",
+        "rubber stamp for crafts",
+        "seal stamp on document",
+        "wax seal stamp"
+      ],
+      "ru": [
+        "штамп для скрапбукинга",
+        "резной штамп для искусства",
+        "официальная печать сертификата",
+        "штамп для заверения документа",
+        "оттиск на бумаге",
+        "индивидуальный оттиск",
+        "резиновый штамп с текстом",
+        "штамп для творчества",
+        "печать на документе",
+        "восковая печать"
+      ]
+    },
+    "regular": {
+      "en": [
+        "rubber stamp with ink pad",
+        "office approval stamp on documents",
+        "custom logo stamp for branding",
+        "hand stamp at entrance",
+        "postage stamp collector hobby",
+        "notary public seal stamp",
+        "date stamp for filing",
+        "approved rejected stamp marks",
+        "stamp pad and rubber block",
+        "craft store stamping supplies"
+      ],
+      "ru": [
+        "резиновый штамп с чернильной подушкой",
+        "штамп согласования в офисе",
+        "фирменный штамп для бренда",
+        "штамп на входе на мероприятие",
+        "коллекционирование почтовых марок",
+        "нотариальная печать",
+        "датирующий штамп для архивирования",
+        "штамп одобрено/отклонено",
+        "чернильная подушка и резиновый блок",
+        "материалы для штамповки в магазине"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a stamp icon for the document approval screen",
+        "add a stamp symbol to the certification feature",
+        "show a stamp for the validated status",
+        "use the stamp icon for official records"
+      ],
+      "ru": [
+        "нужна иконка штампа для экрана согласования документов",
+        "добавь символ печати к функции сертификации",
+        "покажи штамп для статуса проверен",
+        "используй иконку штампа для официальных записей"
+      ]
+    },
+    "typo": {
+      "en": [
+        "stmap approval",
+        "ruber stamp",
+        "seel on document",
+        "certifcate stamp"
+      ],
+      "ru": [
+        "штамб утверждения",
+        "резниновый штамп",
+        "печатть документа",
+        "сертификта штамп"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "wax seal letter envelope classic",
+        "postage stamp with perforated edge",
+        "signet ring seal imprint",
+        "official embossed seal on certificate",
+        "label sticker on package",
+        "tag price label attached"
+      ],
+      "ru": [
+        "восковая печать на конверте",
+        "почтовая марка с перфорированным краем",
+        "печатка перстень с оттиском",
+        "тисненая печать на сертификате",
+        "наклейка этикетка на упаковке",
+        "ценник этикетка на товаре"
+      ]
+    },
+    "valid": {
+      "en": [
+        "rubber stamp for approval",
+        "stamp icon for documents",
+        "custom ink stamp"
+      ],
+      "ru": [
+        "штамп для согласования",
+        "иконка печати для документов",
+        "индивидуальный штамп с чернилами"
+      ]
+    },
+    "test": {
+      "en": [
+        "official stamp mark",
+        "office stamp on paper",
+        "seal stamp design"
+      ],
+      "ru": [
+        "официальная отметка штампа",
+        "штамп на бумаге",
+        "дизайн печати"
+      ]
+    }
+  }
+}

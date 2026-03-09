@@ -1,0 +1,142 @@
+{
+  "icon": "tv",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "computer",
+        "display",
+        "monitor",
+        "television"
+      ],
+      "ru": [
+        "компьютер",
+        "дисплей",
+        "монитор",
+        "телевизор"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "computer TV display output",
+        "computer connected to TV",
+        "display screen TV panel",
+        "wide display TV screen",
+        "monitor TV desktop screen",
+        "TV monitor dual display",
+        "television watching shows",
+        "television remote control"
+      ],
+      "ru": [
+        "компьютер вывод на телевизор",
+        "компьютер подключён к ТВ",
+        "дисплей экрана телевизора",
+        "широкий экран ТВ панель",
+        "монитор ТВ экран рабочего стола",
+        "ТВ монитор двойной дисплей",
+        "телевизор смотреть передачи",
+        "телевизор пульт дистанционного управления"
+      ]
+    },
+    "regular": {
+      "en": [
+        "flat screen TV on wall mount",
+        "smart TV with apps Netflix",
+        "4K OLED television display",
+        "living room TV entertainment center",
+        "TV remote control buttons",
+        "TV antenna old broadcast",
+        "TV streaming device connected",
+        "outdoor TV weather resistant",
+        "gaming TV low latency mode",
+        "TV guide program schedule"
+      ],
+      "ru": [
+        "плоский телевизор на настенном кронштейне",
+        "смарт-ТВ с приложениями Netflix",
+        "4K OLED телевизор дисплей",
+        "телевизор в гостиной центр развлечений",
+        "кнопки пульта ТВ",
+        "антенна телевизора старое вещание",
+        "подключённое потоковое устройство ТВ",
+        "уличный телевизор влагостойкий",
+        "игровой телевизор режим низкой задержки",
+        "программа передач расписание"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a TV icon for the entertainment section",
+        "add a television symbol to the media category",
+        "show a TV for the streaming feature",
+        "use the TV icon for the display settings"
+      ],
+      "ru": [
+        "нужна иконка телевизора для раздела развлечений",
+        "добавь символ телевизора в медиакатегорию",
+        "покажи ТВ для функции стриминга",
+        "используй иконку ТВ для настроек дисплея"
+      ]
+    },
+    "typo": {
+      "en": [
+        "televisoin screen watch",
+        "mnitor TV display",
+        "flatscreeen TV wall",
+        "smrat TV apps"
+      ],
+      "ru": [
+        "телевизор экран смотреть",
+        "монтор телевизор дисплей",
+        "плоский телевизор стена",
+        "смарт-ТВ приложения"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "monitor computer desktop screen",
+        "projector screen cinema display",
+        "tablet screen portable device",
+        "smartphone screen small display",
+        "billboard large outdoor screen",
+        "laptop screen folding display"
+      ],
+      "ru": [
+        "монитор компьютер настольный экран",
+        "проектор кинотеатральный экран",
+        "экран планшета портативное устройство",
+        "экран смартфона маленький дисплей",
+        "рекламный щит большой уличный экран",
+        "ноутбук складной дисплей"
+      ]
+    },
+    "valid": {
+      "en": [
+        "television TV icon",
+        "flat screen TV symbol",
+        "smart TV display"
+      ],
+      "ru": [
+        "иконка телевизора ТВ",
+        "символ плоского телевизора",
+        "смарт-ТВ дисплей"
+      ]
+    },
+    "test": {
+      "en": [
+        "TV icon screen",
+        "television monitor symbol",
+        "display TV"
+      ],
+      "ru": [
+        "иконка ТВ экран",
+        "символ телевизора монитор",
+        "дисплей ТВ"
+      ]
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "icon": "steering-wheel",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "auto",
+        "car",
+        "direction",
+        "driving",
+        "navigation"
+      ],
+      "ru": [
+        "авто",
+        "машина",
+        "направление",
+        "вождение",
+        "навигация"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "auto steering wheel interior",
+        "luxury auto steering wheel controls",
+        "car steering wheel grip",
+        "sports car steering wheel design",
+        "direction change via steering wheel",
+        "steering wheel turn direction",
+        "driving lesson steering wheel",
+        "hands on steering wheel driving",
+        "navigation screen on steering wheel",
+        "in-car navigation controls"
+      ],
+      "ru": [
+        "рулевое колесо авто интерьер",
+        "роскошное авто рулевое колесо кнопки",
+        "руль автомобиля хват",
+        "спортивный автомобиль рулевое колесо",
+        "смена направления рулём",
+        "поворот руля смена курса",
+        "урок вождения рулевое колесо",
+        "руки на руле вождение",
+        "навигационный экран на руле",
+        "органы управления навигацией в авто"
+      ]
+    },
+    "regular": {
+      "en": [
+        "leather wrapped car steering wheel",
+        "racing wheel with flat bottom design",
+        "airbag center of steering wheel",
+        "horn button on steering wheel",
+        "cruise control buttons on wheel",
+        "heated steering wheel luxury car",
+        "ergonomic steering wheel grip",
+        "steering column tilt and telescoping",
+        "race car driver gripping wheel",
+        "go-kart small steering wheel"
+      ],
+      "ru": [
+        "кожаный руль автомобиля",
+        "гоночный руль с плоским нижним краем",
+        "подушка безопасности в центре руля",
+        "кнопка клаксона на руле",
+        "кнопки круиз-контроля на руле",
+        "подогреваемый руль в люксовом авто",
+        "эргономичный хват руля",
+        "рулевая колонка наклон и регулировка",
+        "гонщик держит руль",
+        "маленький руль карта"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a steering wheel icon for the driving section",
+        "add a wheel symbol to the car navigation feature",
+        "show a steering wheel for the auto category",
+        "use the steering wheel icon for the driver mode"
+      ],
+      "ru": [
+        "нужна иконка руля для раздела вождения",
+        "добавь символ руля к навигационной функции авто",
+        "покажи руль для категории автомобилей",
+        "используй иконку руля для режима водителя"
+      ]
+    },
+    "typo": {
+      "en": [
+        "sterring wheel car",
+        "driivng wheel auto",
+        "car stering column",
+        "naviagtion wheel"
+      ],
+      "ru": [
+        "рулевое колесо атомобиля",
+        "колесо вождения авто",
+        "рулевая колонка машины",
+        "навигционный руль"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "gear shift stick inside car console",
+        "pedals accelerator brake clutch",
+        "dashboard speedometer and gauges",
+        "car seat belt safety buckle",
+        "rearview mirror inside car",
+        "joystick game controller directional"
+      ],
+      "ru": [
+        "рычаг переключения передач в консоли авто",
+        "педали газ тормоз сцепление",
+        "приборная панель спидометр",
+        "ремень безопасности пряжка",
+        "зеркало заднего вида в авто",
+        "джойстик игровой контроллер направление"
+      ]
+    },
+    "valid": {
+      "en": [
+        "car steering wheel icon",
+        "driving wheel symbol",
+        "auto wheel control"
+      ],
+      "ru": [
+        "иконка рулевого колеса",
+        "символ руля вождения",
+        "управление авто руль"
+      ]
+    },
+    "test": {
+      "en": [
+        "steering wheel for car",
+        "driving control wheel",
+        "leather steering wheel"
+      ],
+      "ru": [
+        "руль для автомобиля",
+        "колесо управления вождением",
+        "кожаный руль"
+      ]
+    }
+  }
+}

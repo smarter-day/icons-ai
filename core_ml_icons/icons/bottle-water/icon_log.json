@@ -1,0 +1,136 @@
+{
+  "icon": "bottle-water",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "h2o",
+        "plastic",
+        "water"
+      ],
+      "ru": [
+        "H2O",
+        "пластик",
+        "вода"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "drink enough h2o today",
+        "recycle the plastic bottle",
+        "drink more water",
+        "H2O intake tracker for the day",
+        "Plastic-free bottle swap this month",
+        "Refill the water bottle before the gym"
+      ],
+      "ru": [
+        "выпить достаточно H2O сегодня",
+        "переработать пластиковую бутылку",
+        "пить больше воды",
+        "Учёт потребления воды на сегодня",
+        "Отказ от пластика — замена бутылки в этом месяце",
+        "Наполнить бутылку воды перед залом"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy water bottles for the hike",
+        "Refill the water bottle",
+        "Stay hydrated throughout the day",
+        "Pack water bottles for the trip",
+        "Get a new reusable water bottle",
+        "Drink 8 glasses of water today",
+        "Water bottle on the gym bag",
+        "Buy a case of water",
+        "Fill up the water bottle before the run",
+        "Bring a water bottle to the meeting"
+      ],
+      "ru": [
+        "Купить бутылки с водой для похода",
+        "Наполнить бутылку с водой",
+        "Оставаться гидратированным в течение дня",
+        "Взять бутылки с водой в поездку",
+        "Купить новую многоразовую бутылку",
+        "Выпить 8 стаканов воды сегодня",
+        "Бутылка воды в спортивную сумку",
+        "Купить упаковку воды",
+        "Наполнить бутылку перед пробежкой",
+        "Взять бутылку воды на встречу"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need to drink more water today",
+        "Don't forget your water bottle",
+        "I've been forgetting to stay hydrated",
+        "Grab a water bottle on the way out"
+      ],
+      "ru": [
+        "Мне нужно пить больше воды сегодня",
+        "Не забудь взять бутылку воды",
+        "Всё время забываю про водный баланс",
+        "Возьми бутылку воды на выход"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Buy watr botles for the hike",
+        "Refill the watr botle",
+        "Stay hydarted all day",
+        "Drnik more waeter"
+      ],
+      "ru": [
+        "Купить бутлки с водой для похода",
+        "Наплнить бутылку водой",
+        "Оствааться гидртированным весь день",
+        "Пить больше воды"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy a soda from the store",
+        "Coffee before the meeting",
+        "Juice for breakfast",
+        "Sports drink after the workout",
+        "Recycling the plastic bottle",
+        "Fill the kettle with water"
+      ],
+      "ru": [
+        "Купить газировку в магазине",
+        "Кофе перед встречей",
+        "Сок на завтрак",
+        "Спортивный напиток после тренировки",
+        "Переработать пластиковую бутылку",
+        "Наполнить чайник водой"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Pack water bottles for the hike",
+        "Refill the reusable water bottle",
+        "Drink more water today"
+      ],
+      "ru": [
+        "Взять бутылки с водой в поход",
+        "Наполнить многоразовую бутылку",
+        "Пить больше воды сегодня"
+      ]
+    },
+    "test": {
+      "en": [
+        "Stay hydrated throughout the day",
+        "Water bottle for the morning run",
+        "Buy a case of water for the trip"
+      ],
+      "ru": [
+        "Оставаться гидратированным в течение дня",
+        "Бутылка воды для утренней пробежки",
+        "Купить упаковку воды для поездки"
+      ]
+    }
+  }
+}

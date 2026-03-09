@@ -1,0 +1,172 @@
+{
+  "icon": "sun-cloud",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cloud",
+        "day",
+        "lighter",
+        "sol",
+        "solar",
+        "star",
+        "sun",
+        "sun behind small cloud",
+        "weather"
+      ],
+      "ru": [
+        "облако",
+        "день",
+        "светлее",
+        "солнце-исп",
+        "солнечный",
+        "звезда",
+        "солнце",
+        "солнце за маленьким облаком",
+        "погода"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "cloud covering sun partly",
+        "thin cloud over sunny sky",
+        "partly cloudy day weather",
+        "day with scattered clouds",
+        "screen lighter partly cloudy mode",
+        "lighter setting for cloudy day",
+        "sol behind cloud Spanish weather",
+        "Spanish sol overcast symbol",
+        "solar energy reduced by clouds",
+        "solar panel cloud obstruction",
+        "star behind nebula space cloud",
+        "star partially hidden by cloud",
+        "sun peeking through cloud break",
+        "sun behind white cloud",
+        "sun behind small cloud symbol",
+        "partially cloudy sun icon",
+        "weather app partly cloudy symbol",
+        "forecast partly cloudy weather"
+      ],
+      "ru": [
+        "облако частично закрывает солнце",
+        "тонкое облако над солнечным небом",
+        "переменная облачность погода",
+        "день с рассеянными облаками",
+        "режим экрана ярче при облачности",
+        "настройка яркости облачный день",
+        "испанское sol за облаком погода",
+        "испанский символ sol пасмурный",
+        "солнечная энергия снижена облаками",
+        "облако мешает солнечным панелям",
+        "звезда за туманностью в космосе",
+        "звезда частично скрыта облаком",
+        "солнце пробивается сквозь облака",
+        "солнце за белым облаком",
+        "символ солнца за маленьким облаком",
+        "частично облачная иконка солнца",
+        "символ переменной облачности погода",
+        "прогноз переменная облачность"
+      ]
+    },
+    "regular": {
+      "en": [
+        "sun partially hidden by white cloud",
+        "partly cloudy weather icon",
+        "morning cloud with afternoon sun break",
+        "weather app partly cloudy symbol",
+        "solar irradiance reduced by cloud cover",
+        "overcast but brightness still visible",
+        "cloud passing in front of sun",
+        "outdoor picnic weather partly sunny",
+        "UV warning even on cloudy day",
+        "beach day with some clouds sun still warm"
+      ],
+      "ru": [
+        "солнце частично скрыто белым облаком",
+        "иконка переменной облачности",
+        "утреннее облако и дневное просветление",
+        "символ переменной облачности в приложении погоды",
+        "солнечная радиация снижена облачным покровом",
+        "пасмурно но яркость всё ещё видна",
+        "облако проходит перед солнцем",
+        "пикник на природе переменная облачность",
+        "УФ-предупреждение даже в облачный день",
+        "пляжный день с облаками солнце ещё греет"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a sun-cloud icon for the partly cloudy weather",
+        "add a cloudy sun symbol to the weather widget",
+        "show a sun behind cloud for mixed weather",
+        "use the sun-cloud icon for the forecast section"
+      ],
+      "ru": [
+        "нужна иконка солнце-облако для переменной облачности",
+        "добавь символ облачного солнца в виджет погоды",
+        "покажи солнце за облаком для переменной погоды",
+        "используй иконку солнце-облако для раздела прогноза"
+      ]
+    },
+    "typo": {
+      "en": [
+        "partly cloudly weather",
+        "sun begind cloud",
+        "clouyd day sun",
+        "wheather partly sunny"
+      ],
+      "ru": [
+        "переменнная облачность",
+        "солнце за облаком погда",
+        "облачный день солнце",
+        "погода переменная"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "full sun clear blue sky no clouds",
+        "rain cloud heavy downpour",
+        "storm cloud lightning bolt",
+        "foggy mist low visibility weather",
+        "snow cloud winter precipitation",
+        "wind cloud gusts weather icon"
+      ],
+      "ru": [
+        "полное солнце чистое голубое небо без облаков",
+        "дождевое облако сильный ливень",
+        "грозовое облако молния",
+        "туман низкая видимость погода",
+        "снеговое облако зимние осадки",
+        "облако с ветром порывы иконка погоды"
+      ]
+    },
+    "valid": {
+      "en": [
+        "partly cloudy sun icon weather",
+        "sun behind cloud symbol",
+        "mixed weather sun cloud"
+      ],
+      "ru": [
+        "иконка переменной облачности погода",
+        "символ солнца за облаком",
+        "переменная погода солнце облако"
+      ]
+    },
+    "test": {
+      "en": [
+        "sun-cloud weather symbol",
+        "partly sunny icon",
+        "cloud covering sun"
+      ],
+      "ru": [
+        "символ погоды солнце-облако",
+        "иконка переменной солнечности",
+        "облако закрывает солнце"
+      ]
+    }
+  }
+}

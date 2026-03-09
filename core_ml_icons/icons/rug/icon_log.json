@@ -1,0 +1,142 @@
+{
+  "icon": "rug",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "blanket",
+        "carpet",
+        "rug",
+        "textile"
+      ],
+      "ru": [
+        "одеяло",
+        "ковёр",
+        "коврик",
+        "текстиль"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "wool blanket spread on sofa",
+        "picnic blanket laid on grass",
+        "wall-to-wall carpet in living room",
+        "deep pile carpet in bedroom",
+        "decorative rug in entry hallway",
+        "Persian rug with intricate pattern",
+        "woven textile rug for floor décor",
+        "textile floor covering in warm tones"
+      ],
+      "ru": [
+        "шерстяное одеяло накинуто на диван",
+        "пикниковый плед на траве",
+        "ковёр от стены до стены в гостиной",
+        "пушистый ковёр в спальне",
+        "декоративный коврик в прихожей",
+        "персидский ковёр с замысловатым узором",
+        "тканый коврик для декора пола",
+        "текстильное покрытие пола в тёплых тонах"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Persian rug with colorful geometric patterns",
+        "rectangular area rug in living room",
+        "shag rug with deep fluffy pile",
+        "outdoor rug on patio or deck",
+        "doormat rug at entrance of home",
+        "vintage rug at antique market",
+        "bathroom bath mat rug beside tub",
+        "prayer rug folded for storage",
+        "flat-woven kilim rug with tribal design",
+        "rolled-up area rug for moving or storage"
+      ],
+      "ru": [
+        "персидский ковёр с красочными геометрическими узорами",
+        "прямоугольный ковёр в гостиной",
+        "лохматый ковёр с глубоким пушистым ворсом",
+        "уличный ковёр на патио или террасе",
+        "придверный коврик у входа в дом",
+        "старинный ковёр на антикварном рынке",
+        "банный коврик у ванны в ванной комнате",
+        "молитвенный ковёр сложен на хранение",
+        "плоскотканый ковёр килим с племенным узором",
+        "скатанный ковёр для переезда или хранения"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a rug icon for the home decor section",
+        "add a carpet symbol to the interior design feature",
+        "show a rug for the floor covering category",
+        "use the rug icon for the textile home items"
+      ],
+      "ru": [
+        "мне нужна иконка ковра для раздела домашнего декора",
+        "добавь символ ковра в функцию дизайна интерьера",
+        "покажи коврик для категории напольных покрытий",
+        "используй иконку ковра для домашнего текстиля"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Persain rug with geometric patterns",
+        "shag rgu with deep fluffy pile",
+        "rectangular aera rug in living room",
+        "doormat rgu at home entrance"
+      ],
+      "ru": [
+        "персидкий ковёр с геометрическими узорами",
+        "лохматый кровёр с пушистым ворсом",
+        "прямоугольный ковёр в гостионой",
+        "придверный крвёр у входа"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "hardwood floor with wood grain texture",
+        "ceramic tile floor in bathroom",
+        "sofa cushion on upholstered couch",
+        "curtain drape hanging in window frame",
+        "throw pillow with decorative pattern",
+        "woven basket for storage in home"
+      ],
+      "ru": [
+        "паркетный пол с текстурой дерева",
+        "керамическая плитка в ванной комнате",
+        "подушка дивана на обитом диване",
+        "занавес на окне",
+        "декоративная подушка с узором",
+        "плетёная корзина для хранения"
+      ]
+    },
+    "valid": {
+      "en": [
+        "decorative area rug on living room floor",
+        "Persian carpet with colorful patterns",
+        "soft rug textile floor covering"
+      ],
+      "ru": [
+        "декоративный ковёр на полу в гостиной",
+        "персидский ковёр с красочными узорами",
+        "мягкий коврик текстильное покрытие пола"
+      ]
+    },
+    "test": {
+      "en": [
+        "patterned rug for home interior",
+        "bedroom carpet with deep soft pile",
+        "rolled rug ready for moving"
+      ],
+      "ru": [
+        "коврик с узором для интерьера",
+        "ковёр в спальне с мягким ворсом",
+        "скатанный ковёр готов к переезду"
+      ]
+    }
+  }
+}

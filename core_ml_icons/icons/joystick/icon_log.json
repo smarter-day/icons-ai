@@ -1,0 +1,96 @@
+{
+  "icon": "joystick",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "arcade",
+        "atari",
+        "controller",
+        "game",
+        "joystick",
+        "retro",
+        "video game",
+        "vintage"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Play at the arcade",
+        "Find an old-school arcade",
+        "Collect an Atari console",
+        "Play Atari games",
+        "Buy a joystick controller",
+        "Plug in the joystick",
+        "Play a game with a joystick",
+        "Win the game with a joystick",
+        "Use the joystick for the game",
+        "Learn to use a joystick",
+        "Find retro gaming equipment",
+        "Play retro video games",
+        "Play a classic video game",
+        "Try a vintage video game",
+        "Find vintage gaming gear",
+        "Buy a vintage joystick"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Play a retro arcade game",
+        "Buy a joystick for the PC",
+        "Set up an Atari console",
+        "Play classic video games",
+        "Visit a retro gaming arcade",
+        "Collect vintage game controllers",
+        "Use a joystick for flight simulation",
+        "Play an old-school game",
+        "Set up the joystick for gaming",
+        "Stream retro gaming on Twitch"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Retro gaming!",
+        "Joystick time",
+        "Arcade fun",
+        "Classic game"
+      ]
+    },
+    "typo": {
+      "en": [
+        "play a retro arcad game",
+        "buy a joystkc for pc",
+        "set up an atari consoel",
+        "play clasic video gaems"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use a modern game controller",
+        "Play on a gamepad",
+        "Use a keyboard and mouse for gaming",
+        "Play a board game instead",
+        "Use a touchscreen to play",
+        "Play a mobile phone game"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Play a retro arcade game",
+        "Buy a joystick controller",
+        "Set up an Atari console"
+      ]
+    },
+    "test": {
+      "en": [
+        "Visit a retro gaming arcade",
+        "Use a joystick for flight simulation",
+        "Collect vintage game controllers"
+      ]
+    }
+  }
+}

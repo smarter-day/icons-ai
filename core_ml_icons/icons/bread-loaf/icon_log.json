@@ -1,0 +1,202 @@
+{
+  "icon": "bread-loaf",
+  "rows": {
+    "train_en": 66,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bake",
+        "bakery",
+        "baking",
+        "bread",
+        "dough",
+        "flour",
+        "gluten",
+        "grain",
+        "loaf",
+        "sandwich",
+        "sourdough",
+        "toast",
+        "wheat",
+        "yeast"
+      ],
+      "ru": [
+        "выпекать",
+        "пекарня",
+        "выпечка",
+        "хлеб",
+        "тесто",
+        "мука",
+        "глютен",
+        "зерно",
+        "буханка",
+        "сэндвич",
+        "закваска",
+        "тост",
+        "пшеница",
+        "дрожжи"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bake a fresh loaf of bread",
+        "visit the local bakery",
+        "baking bread this weekend",
+        "buy a loaf of bread",
+        "let the dough rise overnight",
+        "buy flour for baking",
+        "gluten-free bread options",
+        "whole grain bread for the week",
+        "slice the loaf for sandwiches",
+        "make sandwiches with the fresh bread",
+        "sourdough loaf from the bakery",
+        "toast a slice for breakfast",
+        "whole wheat bread on the shopping list",
+        "activate yeast for the bread dough",
+        "oven ready to bake the dough",
+        "fresh pastries at the corner bakery",
+        "try a new bread baking recipe",
+        "slice the bread for the kids",
+        "knead the dough before baking",
+        "sift the flour into the bowl",
+        "check for gluten in the ingredient list",
+        "whole grain loaf on the shelf",
+        "grab a loaf on the way home",
+        "prepare sandwich fillings for lunch",
+        "start a sourdough starter this week",
+        "make avocado toast for breakfast",
+        "wheat flour bread from scratch",
+        "proof the yeast in warm water"
+      ],
+      "ru": [
+        "испечь свежую буханку хлеба",
+        "зайти в местную пекарню",
+        "печь хлеб в эти выходные",
+        "купить буханку хлеба",
+        "дать тесту подняться на ночь",
+        "купить муку для выпечки",
+        "варианты хлеба без глютена",
+        "цельнозерновой хлеб на неделю",
+        "нарезать буханку для сэндвичей",
+        "сделать сэндвичи со свежим хлебом",
+        "буханка хлеба на закваске из пекарни",
+        "поджарить ломтик на завтрак",
+        "цельнозерновой хлеб в список покупок",
+        "активировать дрожжи для теста",
+        "разогреть духовку для выпечки теста",
+        "свежая выпечка в пекарне на углу",
+        "попробовать новый рецепт хлеба",
+        "нарезать хлеб для детей",
+        "вымесить тесто перед выпечкой",
+        "просеять муку в миску",
+        "проверить наличие глютена в составе",
+        "цельнозерновая буханка на полке",
+        "взять буханку по дороге домой",
+        "подготовить начинку для сэндвичей на обед",
+        "запустить закваску на этой неделе",
+        "приготовить тост с авокадо на завтрак",
+        "хлеб из пшеничной муки с нуля",
+        "активировать дрожжи в тёплой воде"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Bake a sourdough loaf this weekend",
+        "Pick up a fresh loaf from the bakery",
+        "Slice the bread for sandwiches",
+        "Make homemade bread for dinner",
+        "Order artisan bread online",
+        "Whole wheat loaf for the week",
+        "Bread recipe with yeast",
+        "Buy a rustic loaf at the market",
+        "Fresh bread for the cheese platter",
+        "Bake bread for the party"
+      ],
+      "ru": [
+        "Испечь буханку хлеба на закваске в эти выходные",
+        "Купить свежую буханку в пекарне",
+        "Нарезать хлеб для сэндвичей",
+        "Приготовить домашний хлеб к ужину",
+        "Заказать ремесленный хлеб онлайн",
+        "Цельнозерновая буханка на неделю",
+        "Рецепт хлеба с дрожжами",
+        "Купить деревенскую буханку на рынке",
+        "Свежий хлеб для сырной тарелки",
+        "Испечь хлеб для вечеринки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Nothing like the smell of fresh bread",
+        "I want to try baking my own bread",
+        "That bakery has the best sourdough loaf",
+        "Let's grab a fresh loaf on the way home"
+      ],
+      "ru": [
+        "Нет ничего лучше запаха свежего хлеба",
+        "Хочу попробовать испечь хлеб сам",
+        "В той пекарне лучший хлеб на закваске",
+        "Давай захватим свежую буханку по дороге домой"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Bake a soardough loef this weeknd",
+        "Pick up a fresch loaf from the bakry",
+        "Slce the bread for sandwichs",
+        "Homemade beerd for dinner"
+      ],
+      "ru": [
+        "Испечь буханку хлеба на заквасе в ети выходные",
+        "Купить свеежую буханку из пекарни",
+        "Нарзать хлеб для сэндвичей",
+        "Домашний хлеп к ужину"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Pick up a baguette",
+        "Grab a bagel from the bakery",
+        "Get some croissants",
+        "Slice of bread for the sandwich",
+        "Buy crackers for the cheese board",
+        "Roll recipe for dinner"
+      ],
+      "ru": [
+        "Купить багет",
+        "Взять бейгл из пекарни",
+        "Купить круассанов",
+        "Ломтик хлеба для сэндвича",
+        "Купить крекеры для сырной тарелки",
+        "Рецепт булочек к ужину"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Fresh sourdough loaf from the bakery",
+        "Bake a whole wheat loaf this weekend",
+        "Slice the bread for the week"
+      ],
+      "ru": [
+        "Свежий хлеб на закваске из пекарни",
+        "Испечь цельнозерновую буханку в эти выходные",
+        "Нарезать хлеб на неделю"
+      ]
+    },
+    "test": {
+      "en": [
+        "Homemade bread loaf recipe",
+        "Artisan bread at the farmers market",
+        "Toast slices from the loaf for breakfast"
+      ],
+      "ru": [
+        "Рецепт домашнего хлеба",
+        "Ремесленный хлеб на фермерском рынке",
+        "Поджарить ломтики из буханки на завтрак"
+      ]
+    }
+  }
+}

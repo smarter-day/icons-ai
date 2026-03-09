@@ -1,0 +1,96 @@
+{
+  "icon": "faucet",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "drinking",
+        "drip",
+        "hygiene",
+        "kitchen",
+        "potable water",
+        "sanitation",
+        "sink",
+        "water"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Drink clean drinking water",
+        "Filter drinking water",
+        "Fix the dripping faucet",
+        "Stop the drip to save water",
+        "Practice good hygiene habits",
+        "Wash hands for hygiene",
+        "Clean the kitchen faucet",
+        "Replace the kitchen faucet",
+        "Make sure the water is potable",
+        "Test if the water is potable",
+        "Maintain sanitation in the kitchen",
+        "Improve sanitation at home",
+        "Wash dishes in the sink",
+        "Unclog the sink drain",
+        "Turn off the water faucet",
+        "Check water pressure"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Fix the leaking faucet",
+        "Wash hands before eating",
+        "Turn off the tap to save water",
+        "Replace the old kitchen faucet",
+        "Unclog the sink drain",
+        "Clean the faucet aerator",
+        "Install a water filter on the tap",
+        "Check the water pressure",
+        "Repair the dripping tap",
+        "Call a plumber for the faucet"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Fix that drip",
+        "Turn off the tap",
+        "Leaking faucet",
+        "Wash your hands"
+      ]
+    },
+    "typo": {
+      "en": [
+        "fix the leakign faucet",
+        "wash hads before eating",
+        "trun off the taap",
+        "replace the kitcen faucet"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Fix the leaking shower head",
+        "Repair the toilet flush",
+        "Unclog the bathtub drain",
+        "Replace the bathroom faucet",
+        "Fix the leaking pipe under the sink",
+        "Install a new water heater"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Fix the leaking faucet",
+        "Wash hands before cooking",
+        "Turn off the tap to save water"
+      ]
+    },
+    "test": {
+      "en": [
+        "Replace the kitchen faucet",
+        "Repair the dripping tap",
+        "Install a water filter on the faucet"
+      ]
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "icon": "maximize",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "arrows",
+        "bigger",
+        "enlarge",
+        "expand",
+        "fullscreen",
+        "maximize",
+        "resize",
+        "scale",
+        "size"
+      ],
+      "ru": [
+        "стрелки",
+        "больше",
+        "увеличить",
+        "развернуть",
+        "полный экран",
+        "максимизировать",
+        "изменить размер",
+        "масштаб",
+        "размер"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "arrows pointing outward to expand",
+        "four corner arrows for resize",
+        "make window bigger",
+        "bigger view on screen",
+        "enlarge the image to fill screen",
+        "enlarge window to maximum",
+        "expand panel to full size",
+        "expand content area",
+        "fullscreen button in video player",
+        "enter fullscreen mode",
+        "maximize window button",
+        "maximize app to fill screen",
+        "resize window to maximum size",
+        "resize element to fill container",
+        "scale up the UI component",
+        "scale content to fit viewport",
+        "adjust size to maximum",
+        "size of window expanded"
+      ],
+      "ru": [
+        "стрелки указывающие наружу для расширения",
+        "стрелки четырёх углов для изменения размера",
+        "сделать окно больше",
+        "более крупный вид на экране",
+        "увеличить изображение на весь экран",
+        "увеличить окно до максимума",
+        "развернуть панель до полного размера",
+        "развернуть область содержимого",
+        "кнопка полного экрана в видеоплеере",
+        "войти в режим полного экрана",
+        "кнопка максимизации окна",
+        "максимизировать приложение на весь экран",
+        "изменить размер окна до максимума",
+        "изменить размер элемента до контейнера",
+        "масштабировать UI компонент вверх",
+        "масштабировать содержимое под вьюпорт",
+        "отрегулировать размер до максимума",
+        "размер окна развёрнут"
+      ]
+    },
+    "regular": {
+      "en": [
+        "four outward-pointing arrows for maximize",
+        "expand window to fill entire screen",
+        "fullscreen toggle button in video app",
+        "maximize icon in window title bar",
+        "corner arrows indicating expand action",
+        "zoom to fit entire display",
+        "make a modal or panel full size",
+        "scale up a thumbnail to full view",
+        "expand a map to fill screen",
+        "full-screen mode button in presentation"
+      ],
+      "ru": [
+        "четыре стрелки указывающие наружу для максимизации",
+        "развернуть окно на весь экран",
+        "кнопка переключения полного экрана в видеоприложении",
+        "иконка максимизации в заголовке окна",
+        "угловые стрелки указывающие на расширение",
+        "масштабировать под весь дисплей",
+        "сделать модальное окно или панель полным размером",
+        "увеличить миниатюру до полного вида",
+        "развернуть карту на весь экран",
+        "кнопка полного экрана в презентации"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a maximize icon for the window controls",
+        "add a fullscreen button to the video player",
+        "show a maximize symbol for the expand action",
+        "use the maximize icon to enlarge the panel"
+      ],
+      "ru": [
+        "Мне нужна иконка максимизации для элементов управления окном",
+        "добавить кнопку полного экрана в видеоплеер",
+        "показать символ максимизации для действия расширения",
+        "использовать иконку максимизации для увеличения панели"
+      ]
+    },
+    "typo": {
+      "en": [
+        "maximzie window",
+        "fulscren button",
+        "exapnd to fill screen",
+        "rezise to maximum"
+      ],
+      "ru": [
+        "максимзировать окно",
+        "полный экарн",
+        "развенруть на весь экран",
+        "увеличть размер"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "minimize button to shrink window to taskbar",
+        "collapse panel to smaller size",
+        "restore down to previous window size",
+        "close button X for dismissing window",
+        "zoom out to see more content",
+        "shrink or scale down content"
+      ],
+      "ru": [
+        "кнопка минимизации для свёртывания окна в панель задач",
+        "свернуть панель до меньшего размера",
+        "восстановить до предыдущего размера окна",
+        "кнопка закрыть X для закрытия окна",
+        "уменьшить масштаб для большего вида",
+        "сжать или уменьшить содержимое"
+      ]
+    },
+    "valid": {
+      "en": [
+        "maximize window to fullscreen",
+        "expand arrows to fill screen",
+        "fullscreen maximize button"
+      ],
+      "ru": [
+        "максимизировать окно на полный экран",
+        "стрелки расширения на весь экран",
+        "кнопка максимизации полного экрана"
+      ]
+    },
+    "test": {
+      "en": [
+        "maximize icon",
+        "expand to fullscreen",
+        "window maximize button"
+      ],
+      "ru": [
+        "иконка максимизации",
+        "развернуть на полный экран",
+        "кнопка максимизации окна"
+      ]
+    }
+  }
+}

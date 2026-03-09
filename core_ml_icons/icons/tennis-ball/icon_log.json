@@ -1,0 +1,154 @@
+{
+  "icon": "tennis-ball",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ball",
+        "racket",
+        "racquet",
+        "sport",
+        "tennis",
+        "us open"
+      ],
+      "ru": [
+        "мяч",
+        "ракетка",
+        "ракетка-альт",
+        "спорт",
+        "теннис",
+        "US Open"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "tennis ball yellow fuzzy",
+        "ball bouncing on court",
+        "tennis racket and ball",
+        "racket hitting ball serve",
+        "tennis racquet grip handle",
+        "racquet string tension",
+        "tennis sport court outdoor",
+        "tennis sport professional",
+        "tennis game match play",
+        "tennis game singles doubles",
+        "US Open tennis grand slam",
+        "US Open flushing meadows"
+      ],
+      "ru": [
+        "жёлтый пушистый теннисный мяч",
+        "мяч отскакивает от корта",
+        "теннисная ракетка и мяч",
+        "ракетка бьёт по мячу подача",
+        "хват рукоятки теннисной ракетки",
+        "натяжение струн ракетки",
+        "теннис спорт открытый корт",
+        "теннис профессиональный спорт",
+        "теннисный матч игра",
+        "игра в теннис одиночка пара",
+        "Открытый чемпионат США теннис большой шлем",
+        "US Open Флашинг Медоус"
+      ]
+    },
+    "regular": {
+      "en": [
+        "yellow fuzzy tennis ball on court",
+        "tennis serve ball toss up",
+        "Wimbledon tennis grass court",
+        "clay court tennis ball red",
+        "tennis ball machine automatic",
+        "dog chewing on tennis ball",
+        "tennis ball can sealed pressurized",
+        "pick up balls after tennis match",
+        "tennis ball mark on racket strings",
+        "new pressurized tennis ball bounce"
+      ],
+      "ru": [
+        "жёлтый пушистый теннисный мяч на корте",
+        "теннисная подача подбросить мяч вверх",
+        "теннис Уимблдон травяной корт",
+        "глиняный корт красный теннисный мяч",
+        "автоматическая пушка для теннисных мячей",
+        "собака жуёт теннисный мяч",
+        "закрытая баночка с теннисными мячами",
+        "подобрать мячи после теннисного матча",
+        "след теннисного мяча на струнах ракетки",
+        "новый теннисный мяч отскок давление"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a tennis ball icon for the sports section",
+        "add a tennis symbol to the sport category",
+        "show a tennis ball for the court booking feature",
+        "use the tennis ball icon for the racket sport"
+      ],
+      "ru": [
+        "нужна иконка теннисного мяча для спортивного раздела",
+        "добавь символ тенниса в категорию видов спорта",
+        "покажи теннисный мяч для функции бронирования корта",
+        "используй иконку теннисного мяча для ракеточного вида спорта"
+      ]
+    },
+    "typo": {
+      "en": [
+        "tenins ball yellow",
+        "racekt tennis sport",
+        "sprot tennis game",
+        "tenis ball court"
+      ],
+      "ru": [
+        "теннисный мчя жёлтый",
+        "теннисная ракетак спорт",
+        "теннис игра спорт",
+        "теннисный мяч крот"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "golf ball small dimpled white",
+        "ping pong table tennis ball",
+        "baseball white leather stitched",
+        "soccer ball black white pentagon",
+        "basketball orange round bounce",
+        "volleyball white blue net sport"
+      ],
+      "ru": [
+        "мяч для гольфа маленький белый с ямочками",
+        "мяч для настольного тенниса пинг-понг",
+        "бейсбол белая кожаная прострочка",
+        "футбольный мяч чёрно-белый пятиугольник",
+        "баскетбол оранжевый круглый",
+        "волейбольный мяч бело-синий сеть"
+      ]
+    },
+    "valid": {
+      "en": [
+        "tennis ball sport icon",
+        "yellow fuzzy tennis ball",
+        "tennis racket and ball"
+      ],
+      "ru": [
+        "иконка теннисного мяча спорт",
+        "жёлтый пушистый теннисный мяч",
+        "теннисная ракетка и мяч"
+      ]
+    },
+    "test": {
+      "en": [
+        "tennis ball icon",
+        "tennis sport symbol",
+        "US Open tennis ball"
+      ],
+      "ru": [
+        "иконка теннисного мяча",
+        "символ тенниса спорт",
+        "US Open теннисный мяч"
+      ]
+    }
+  }
+}

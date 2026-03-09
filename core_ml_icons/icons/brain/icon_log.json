@@ -1,0 +1,105 @@
+{
+  "icon": "brain",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "brain",
+        "cerebellum",
+        "gray matter",
+        "intellect",
+        "intelligent",
+        "knowledge",
+        "medulla oblongata",
+        "mind",
+        "noodle",
+        "scholar",
+        "wit"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "human brain organ diagram",
+        "brain activity scan image",
+        "cerebellum at the back of the brain",
+        "cerebellum controlling motor function",
+        "gray matter of the cerebral cortex",
+        "gray matter neurons in the brain",
+        "sharp intellect represented by brain",
+        "intellect and brain power icon",
+        "intelligent mind symbol",
+        "intelligent reasoning brain",
+        "brain as a vessel of knowledge",
+        "knowledge stored in the brain",
+        "medulla oblongata in the brain stem",
+        "medulla oblongata controlling breathing",
+        "mind and brain working together",
+        "mind map starting from the brain icon",
+        "using your noodle to solve the problem",
+        "noodle as slang for brain thinking",
+        "scholar with a well-trained brain",
+        "brain power of the academic scholar",
+        "sharp wit and a quick brain",
+        "wit and intelligence of the thinker"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wrinkled human brain with two hemispheres",
+        "brain anatomy diagram showing cortex folds",
+        "glowing brain representing artificial intelligence",
+        "brain scan activity shown in a medical image",
+        "cartoon brain with a lightning bolt for ideas",
+        "left and right brain hemisphere split",
+        "brain health icon for a memory app",
+        "neuron connections in the cerebral cortex",
+        "intelligent brain symbol for a quiz game",
+        "meditation app icon with a calm brain graphic"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a brain icon for the mental health app",
+        "add a brain symbol to the intelligence section",
+        "show a brain for the knowledge quiz category",
+        "use the brain icon for the learning platform logo"
+      ]
+    },
+    "typo": {
+      "en": [
+        "barin activity scan",
+        "intelect and brain power",
+        "knoweldge stored in brain",
+        "intellignet mind symbol"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "lightbulb representing a new idea",
+        "human head profile with thoughts inside",
+        "CPU microchip on a circuit board",
+        "anatomical heart with blood vessels",
+        "eye icon representing vision or perception",
+        "neural network diagram with connected nodes"
+      ]
+    },
+    "valid": {
+      "en": [
+        "human brain anatomy symbol",
+        "brain icon for intelligence app",
+        "mind and brain knowledge icon"
+      ]
+    },
+    "test": {
+      "en": [
+        "brain organ symbol",
+        "cerebral brain icon",
+        "knowledge and intellect brain"
+      ]
+    }
+  }
+}

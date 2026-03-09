@@ -1,0 +1,148 @@
+{
+  "icon": "star-christmas",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bethlehem",
+        "christmas",
+        "holiday",
+        "north",
+        "xmas"
+      ],
+      "ru": [
+        "вифлеем",
+        "рождество",
+        "праздник",
+        "север",
+        "рождество-сокр"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "star of bethlehem over nativity",
+        "bethlehem guiding star biblical",
+        "christmas star on tree topper",
+        "christmas decorating star ornament",
+        "holiday star glowing bright",
+        "holiday star decoration display",
+        "north star guiding light",
+        "north star navigation at night",
+        "xmas star cut out decoration",
+        "xmas silver star hanging"
+      ],
+      "ru": [
+        "вифлеемская звезда над яслями",
+        "звезда вифлеема библейская",
+        "рождественская звезда на макушке ёлки",
+        "украшение рождественской ёлки звездой",
+        "праздничная звезда сияет ярко",
+        "праздничная звезда декоративная",
+        "полярная звезда путеводная",
+        "навигация по полярной звезде ночью",
+        "рождественская звезда-вырезка",
+        "серебряная рождественская звезда подвесная"
+      ]
+    },
+    "regular": {
+      "en": [
+        "glowing five pointed christmas star",
+        "star tree topper for holiday decoration",
+        "gold star atop decorated christmas tree",
+        "bethlehem star leading wise men",
+        "paper star christmas craft project",
+        "star shaped holiday window cling",
+        "advent calendar with star motif",
+        "christmas star lantern outdoor decoration",
+        "shiny star ornament with sparkles",
+        "children drawing christmas star card"
+      ],
+      "ru": [
+        "сияющая пятиконечная рождественская звезда",
+        "звезда на макушке ёлки праздничное украшение",
+        "золотая звезда на вершине ёлки",
+        "звезда вифлеема ведёт волхвов",
+        "бумажная звезда рождественский кружок",
+        "звездообразная рождественская наклейка на окно",
+        "адвент-календарь со звёздным мотивом",
+        "рождественский звёздный фонарь уличный",
+        "блестящая звёздная игрушка с блёстками",
+        "дети рисуют рождественскую открытку со звездой"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a christmas star icon for the holiday section",
+        "add a star symbol to the christmas theme",
+        "show a star for the holiday event type",
+        "use the christmas star icon for the season"
+      ],
+      "ru": [
+        "нужна иконка рождественской звезды для праздничного раздела",
+        "добавь символ звезды в рождественскую тему",
+        "покажи звезду для типа праздничного события",
+        "используй иконку рождественской звезды для сезона"
+      ]
+    },
+    "typo": {
+      "en": [
+        "chrstmas star tree",
+        "xams star decor",
+        "holdiay star light",
+        "bethlhem star"
+      ],
+      "ru": [
+        "рождественска звезда ёлка",
+        "рождество-звезда декор",
+        "праздничная звзда",
+        "звезда вифлеема"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "snowflake white crystal holiday decoration",
+        "christmas ornament ball on tree branch",
+        "star of david jewish symbol",
+        "shooting star streak across night sky",
+        "gold star rating five stars",
+        "sparkle glitter scattered stars effect"
+      ],
+      "ru": [
+        "белая снежинка хрустальное праздничное украшение",
+        "рождественский шар на ветке ёлки",
+        "звезда давида еврейский символ",
+        "падающая звезда след на ночном небе",
+        "золотая звезда рейтинг пять звёзд",
+        "блёстки рассыпанные звёздочки эффект"
+      ]
+    },
+    "valid": {
+      "en": [
+        "christmas star tree topper",
+        "holiday star decoration",
+        "xmas star ornament"
+      ],
+      "ru": [
+        "рождественская звезда на макушку ёлки",
+        "праздничное украшение звезда",
+        "рождественская звёздная игрушка"
+      ]
+    },
+    "test": {
+      "en": [
+        "glowing star christmas decoration",
+        "bethlehem star icon",
+        "star holiday motif"
+      ],
+      "ru": [
+        "сияющая рождественская звезда",
+        "иконка звезды вифлеема",
+        "звезда праздничный мотив"
+      ]
+    }
+  }
+}

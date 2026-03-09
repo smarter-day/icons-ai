@@ -1,0 +1,184 @@
+{
+  "icon": "baseball",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ball",
+        "baseball",
+        "foul",
+        "glove",
+        "hardball",
+        "league",
+        "leather",
+        "mlb",
+        "softball",
+        "sport",
+        "underarm"
+      ],
+      "ru": [
+        "мяч",
+        "бейсбол",
+        "фол",
+        "перчатка",
+        "хардбол",
+        "лига",
+        "кожа",
+        "MLB",
+        "софтбол",
+        "спорт",
+        "бросок снизу"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "buy a baseball",
+        "watch the baseball game",
+        "that was a foul ball",
+        "buy a new baseball glove",
+        "play hardball this season",
+        "join the baseball league",
+        "break in the leather glove",
+        "watch the MLB game tonight",
+        "sign up for softball",
+        "play a sport this summer",
+        "practice underarm throw",
+        "Throw the ball at practice today",
+        "Baseball season tickets renewal",
+        "Foul ball caught by a fan in the stands",
+        "Worn-out glove needs replacing",
+        "Hardball negotiation skills workshop",
+        "Draft night for the fantasy baseball league",
+        "Leather glove conditioning oil needed",
+        "MLB playoffs schedule this week",
+        "Softball tournament registration deadline",
+        "Sport equipment sale at the store",
+        "Underarm pitch technique training"
+      ],
+      "ru": [
+        "купить бейсбольный мяч",
+        "посмотреть бейсбольный матч",
+        "это был фол",
+        "купить новую бейсбольную перчатку",
+        "сыграть в хардбол в этом сезоне",
+        "вступить в бейсбольную лигу",
+        "разработать кожаную перчатку",
+        "смотреть матч MLB сегодня вечером",
+        "записаться на софтбол",
+        "заняться спортом этим летом",
+        "отработать бросок снизу",
+        "Бросить мяч на тренировке сегодня",
+        "Продление абонемента на бейсбольный сезон",
+        "Фол пойманный болельщиком на трибуне",
+        "Старая перчатка требует замены",
+        "Тренинг по навыкам жёстких переговоров",
+        "Ночь драфта для фэнтези-бейсбольной лиги",
+        "Кожаная перчатка — нужно масло для ухода",
+        "Расписание плей-офф MLB на этой неделе",
+        "Дедлайн регистрации на турнир по софтболу",
+        "Распродажа спортивного инвентаря в магазине",
+        "Тренировка броска снизу"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Go to the baseball game tonight",
+        "Buy tickets for the Yankees game",
+        "Sign up for baseball practice",
+        "Watch the World Series",
+        "Baseball training this Saturday",
+        "Take the kids to the ballpark",
+        "Join the company softball team",
+        "Register for the baseball league",
+        "Get baseball gear for the season",
+        "Coach little league this year"
+      ],
+      "ru": [
+        "Пойти на бейсбольный матч сегодня вечером",
+        "Купить билеты на матч Yankees",
+        "Записаться на тренировку по бейсболу",
+        "Смотреть Мировую серию",
+        "Тренировка по бейсболу в эту субботу",
+        "Сводить детей на стадион",
+        "Вступить в корпоративную команду по софтболу",
+        "Зарегистрироваться в бейсбольной лиге",
+        "Купить снаряжение для бейсбола на сезон",
+        "Тренировать детскую лигу в этом году"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Anyone want to catch a game tonight?",
+        "We should go to a baseball game this summer",
+        "I haven't played baseball in ages",
+        "Let's take the kids to see a game"
+      ],
+      "ru": [
+        "Кто хочет сходить на матч сегодня?",
+        "Стоит сходить на бейсбол этим летом",
+        "Давно не играл в бейсбол",
+        "Давай сводим детей на матч"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Basebal game tonight",
+        "Buy tickts for the game",
+        "Basball practice on Saterday",
+        "Signe up for softball leauge"
+      ],
+      "ru": [
+        "Матч по бейсблу сегодня вечером",
+        "Купить балеты на матч",
+        "Тренировка по бейсблу в суботу",
+        "Записаться в лигу по сотболу"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Soccer practice after school",
+        "Tennis match this weekend",
+        "Basketball game on Friday",
+        "Hit the batting cages",
+        "Football game on Sunday",
+        "Cricket match tomorrow"
+      ],
+      "ru": [
+        "Тренировка по футболу после школы",
+        "Теннисный матч в эти выходные",
+        "Матч по баскетболу в пятницу",
+        "Зайти на площадку для бейсбола",
+        "Матч по американскому футболу в воскресенье",
+        "Матч по крикету завтра"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Catch the baseball game this weekend",
+        "Try out for the softball team",
+        "Baseball practice with the kids"
+      ],
+      "ru": [
+        "Сходить на бейсбольный матч в эти выходные",
+        "Попробоваться в команду по софтболу",
+        "Тренировка по бейсболу с детьми"
+      ]
+    },
+    "test": {
+      "en": [
+        "Little league game on Saturday",
+        "World Series watch party",
+        "Sign up for the baseball tournament"
+      ],
+      "ru": [
+        "Матч детской лиги в субботу",
+        "Вечеринка для просмотра Мировой серии",
+        "Записаться на турнир по бейсболу"
+      ]
+    }
+  }
+}

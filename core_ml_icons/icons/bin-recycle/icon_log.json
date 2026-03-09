@@ -1,0 +1,142 @@
+{
+  "icon": "bin-recycle",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "collect",
+        "jug",
+        "plastics",
+        "recycle"
+      ],
+      "ru": [
+        "собирать",
+        "кувшин",
+        "пластик",
+        "перерабатывать"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "put recyclables out for collection",
+        "rinse and recycle the jug",
+        "separate plastics for recycling",
+        "recycle all the waste",
+        "schedule a recycling collection pickup",
+        "clean and flatten the plastic jug",
+        "sort all plastics into the right bins",
+        "drop off recyclables at the local centre"
+      ],
+      "ru": [
+        "выставить вторсырьё на вывоз",
+        "промыть и сдать кувшин",
+        "отделить пластик для переработки",
+        "переработать все отходы",
+        "запланировать вывоз вторсырья",
+        "помыть и сплющить пластиковый кувшин",
+        "рассортировать весь пластик по нужным контейнерам",
+        "сдать вторсырьё в местный пункт приёма"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Put the recycling out on collection day",
+        "Sort paper and cardboard for recycling",
+        "Empty the recycling bin",
+        "Recycle all the household waste",
+        "Take the recycling to the curb",
+        "Sort recyclables into the right bins",
+        "Set up a recycling system at home",
+        "Recycling collection tomorrow",
+        "Check what goes in the recycling",
+        "Bring out the recycling bins"
+      ],
+      "ru": [
+        "Выставить переработку в день вывоза",
+        "Рассортировать бумагу и картон",
+        "Опустошить контейнер для вторсырья",
+        "Переработать все бытовые отходы",
+        "Вынести вторсырьё на улицу",
+        "Рассортировать вторсырьё по нужным контейнерам",
+        "Организовать систему переработки дома",
+        "Вывоз вторсырья завтра",
+        "Проверить что идёт в переработку",
+        "Выставить контейнеры для вторсырья"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "The recycling is overflowing",
+        "Let's get the recycling sorted tonight",
+        "Don't forget — recycling goes out tomorrow",
+        "We need to sort all this recycling"
+      ],
+      "ru": [
+        "Переработка переполнена",
+        "Давай разберёмся с переработкой сегодня вечером",
+        "Не забудь — вторсырьё вывозят завтра",
+        "Надо рассортировать всю эту переработку"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Pout the recycing out",
+        "Sort recyclbles",
+        "Emptie the recycle bin",
+        "Recyclng collecation day"
+      ],
+      "ru": [
+        "Вынести перерботку",
+        "Рассотировать вторсрьё",
+        "Опуростошить контайнер",
+        "Дено вывоза вторсырья"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Separate plastic bottles from general recycling",
+        "Bottle drop-off at the recycling center",
+        "Put bottles and jugs in the plastic bin",
+        "Empty the bottle collection bin",
+        "Take out the trash",
+        "Compost the food scraps"
+      ],
+      "ru": [
+        "Отделить пластиковые бутылки от вторсырья",
+        "Сдача бутылок в пункт приёма",
+        "Положить бутылки и кувшины в контейнер для пластика",
+        "Опустошить контейнер для сбора бутылок",
+        "Вынести мусор",
+        "Сделать компост из пищевых отходов"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Recycling day tomorrow — put it out",
+        "Sort all recycling before collection",
+        "Empty and clean the recycling bin"
+      ],
+      "ru": [
+        "День переработки завтра — выставить",
+        "Рассортировать всё вторсырьё перед вывозом",
+        "Опустошить и помыть контейнер для вторсырья"
+      ]
+    },
+    "test": {
+      "en": [
+        "Put recycling out for pickup",
+        "Recycling bin needs emptying",
+        "Collection day for all recyclables"
+      ],
+      "ru": [
+        "Выставить вторсырьё на вывоз",
+        "Контейнер для переработки нужно опустошить",
+        "День вывоза всего вторсырья"
+      ]
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "icon": "crab",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "claws",
+        "crabmeat",
+        "crustacean",
+        "seafood",
+        "shellfish",
+        "zodiac"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Watch out for the crab claws",
+        "Pick crab claws for dinner",
+        "Buy fresh crabmeat at the fish market",
+        "Cook crabmeat pasta",
+        "Learn about crustaceans",
+        "Cook a crustacean dinner",
+        "Order seafood at the restaurant",
+        "Buy fresh seafood",
+        "Try a shellfish platter",
+        "Avoid shellfish if allergic",
+        "Check your zodiac sign Cancer",
+        "Read about the Cancer zodiac"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Order crab legs at the restaurant",
+        "Cook fresh crab for dinner",
+        "Go crabbing at the beach",
+        "Buy live crabs at the market",
+        "Make crab cakes",
+        "Pick crab meat from the shell",
+        "Find out if seafood is fresh",
+        "Try a crab bisque soup",
+        "Make seafood pasta with crab",
+        "Visit the seafood market"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Crab dinner!",
+        "Seafood night",
+        "Go crabbing",
+        "Fresh crab tonight"
+      ]
+    },
+    "typo": {
+      "en": [
+        "order crab lesg",
+        "buy freesh crab",
+        "make craab cakes",
+        "seafood nigt at the restaurant"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Order lobster at the restaurant",
+        "Buy fresh shrimp at the market",
+        "Make a clam chowder",
+        "Grill fish for dinner",
+        "Try oysters for the first time",
+        "Buy mussels at the fish market"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Cook crab for dinner",
+        "Buy fresh crabmeat",
+        "Order seafood at the restaurant"
+      ]
+    },
+    "test": {
+      "en": [
+        "Make crab cakes",
+        "Go crabbing at the beach",
+        "Try a crab bisque"
+      ]
+    }
+  }
+}

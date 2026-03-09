@@ -1,0 +1,81 @@
+{
+  "icon": "kazoo",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "buzz",
+        "instrument",
+        "music"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Make a buzzing sound with the kazoo",
+        "Buzz along to the music",
+        "Play a simple instrument",
+        "Buy a cheap instrument for fun",
+        "Play music at the party",
+        "Make music with the kids"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Play the kazoo at the party",
+        "Buy a kazoo for the kids",
+        "Learn a simple tune on the kazoo",
+        "Make music with a kazoo",
+        "Use a kazoo in the sing-along",
+        "Bring a kazoo to the parade",
+        "Play the kazoo as a joke instrument",
+        "Give kazoos as party favors",
+        "Hum a melody through the kazoo",
+        "Use a kazoo in a fun band"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Play the kazoo!",
+        "Kazoo time",
+        "Fun instrument",
+        "Party music"
+      ]
+    },
+    "typo": {
+      "en": [
+        "play the kazoo at pary",
+        "buy a kazoo fo the kids",
+        "lern a tune on kazoo",
+        "make musci with a kazoo"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Play the harmonica",
+        "Use a recorder for music class",
+        "Play the flute",
+        "Use a whistle to signal",
+        "Blow a party horn",
+        "Play the trumpet"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Play the kazoo at the party",
+        "Buy a kazoo for the kids",
+        "Give kazoos as party favors"
+      ]
+    },
+    "test": {
+      "en": [
+        "Use a kazoo in the sing-along",
+        "Hum a melody through the kazoo",
+        "Bring a kazoo to the parade"
+      ]
+    }
+  }
+}

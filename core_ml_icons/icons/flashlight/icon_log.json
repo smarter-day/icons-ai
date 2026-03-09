@@ -1,0 +1,90 @@
+{
+  "icon": "flashlight",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "camping",
+        "flashlight",
+        "lamp",
+        "light",
+        "tool",
+        "torch"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Pack a flashlight for camping",
+        "Use a flashlight at the campsite",
+        "Grab the flashlight for the power outage",
+        "Find things with the flashlight",
+        "Replace the lamp batteries",
+        "Buy a bright lamp",
+        "Turn on the light in the dark",
+        "Find the light switch",
+        "Pack the torch as a tool",
+        "Use the tool for the job",
+        "Use the torch to navigate in the dark",
+        "Carry a torch on the night hike"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Pack a flashlight for the camping trip",
+        "Use the flashlight during a power outage",
+        "Check the batteries in the flashlight",
+        "Carry a torch on the night hike",
+        "Buy a headlamp for camping",
+        "Find the way in the dark with a torch",
+        "Keep a flashlight in the car",
+        "Search the attic with a flashlight",
+        "Use the phone flashlight in a pinch",
+        "Set up emergency lights"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Grab the flashlight",
+        "Power's out",
+        "Dark in here",
+        "Need a torch"
+      ]
+    },
+    "typo": {
+      "en": [
+        "pack a flashlgiht for camping",
+        "use the troch in the dark",
+        "chekc the flashlgiht batteries",
+        "by a hedlamp"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Turn on the room light switch",
+        "Set up a camping lantern",
+        "Use a candle during a power outage",
+        "Install outdoor security lights",
+        "Use the phone as a light source",
+        "Set up a lamp in the living room"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Pack a flashlight for camping",
+        "Use the torch during the power outage",
+        "Keep a flashlight in the car"
+      ]
+    },
+    "test": {
+      "en": [
+        "Search the attic with a flashlight",
+        "Carry a torch on the night hike",
+        "Check the flashlight batteries"
+      ]
+    }
+  }
+}

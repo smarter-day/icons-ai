@@ -1,0 +1,96 @@
+{
+  "icon": "dolphin",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "aquarium",
+        "dolphin",
+        "fish",
+        "flipper",
+        "mammal",
+        "marine",
+        "maritime",
+        "porpoise"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Visit the aquarium this weekend",
+        "Buy tickets to the aquarium",
+        "Watch dolphins jump",
+        "See a dolphin in the wild",
+        "Watch the fish in the tank",
+        "Feed the fish at the aquarium",
+        "Watch the dolphin use its flipper",
+        "Flipper the dolphin show",
+        "See the marine mammals at the show",
+        "Learn about marine mammals",
+        "Go on a marine wildlife tour",
+        "Learn about marine ecosystems",
+        "Take a maritime tour",
+        "Enjoy a maritime experience",
+        "Learn about porpoises",
+        "Spot a porpoise in the water"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Visit an aquarium",
+        "Watch the dolphin show",
+        "Go whale watching",
+        "Swim with dolphins",
+        "See dolphins at the beach",
+        "Book a dolphin watching tour",
+        "Learn about marine life",
+        "Take kids to the aquarium",
+        "Watch dolphins play in the waves",
+        "See dolphins from the boat"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Dolphin show!",
+        "Aquarium visit",
+        "Swim with dolphins",
+        "Marine life fun"
+      ]
+    },
+    "typo": {
+      "en": [
+        "see dolhpins at the beach",
+        "visit the aquareum",
+        "wach the dolpin show",
+        "swm with dolphins"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Watch whales on the ocean tour",
+        "See sharks at the aquarium",
+        "Watch sea lions perform",
+        "Go scuba diving to see fish",
+        "See penguins at the zoo",
+        "Watch an octopus at the aquarium"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Visit the aquarium",
+        "Watch the dolphin show",
+        "Go on a dolphin watching tour"
+      ]
+    },
+    "test": {
+      "en": [
+        "Swim with dolphins",
+        "Take kids to the aquarium",
+        "See dolphins from the boat"
+      ]
+    }
+  }
+}

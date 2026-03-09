@@ -1,0 +1,172 @@
+{
+  "icon": "steak",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "beef",
+        "chop",
+        "cut of meat",
+        "grill",
+        "lambchop",
+        "meat",
+        "porkchop",
+        "sirloin",
+        "steak"
+      ],
+      "ru": [
+        "говядина",
+        "отбивная",
+        "кусок мяса",
+        "гриль",
+        "бараньи котлеты",
+        "мясо",
+        "свиная отбивная",
+        "сирлойн",
+        "стейк"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "grilled beef steak on plate",
+        "juicy beef burger patty",
+        "pork chop grilled dinner",
+        "chop served with vegetables",
+        "cut of meat butcher selection",
+        "prime cut of meat restaurant",
+        "backyard barbecue grill hot coals",
+        "charcoal grill for steaks",
+        "lamb chop herb crusted dinner",
+        "lambchop with rosemary garnish",
+        "meat lover plate various cuts",
+        "deli meat selection",
+        "pork chop with apple sauce",
+        "boneless porkchop pan seared",
+        "sirloin steak medium rare",
+        "sirloin cut with bone",
+        "steak sizzling on cast iron",
+        "steak dinner at steakhouse"
+      ],
+      "ru": [
+        "говяжий стейк на гриле на тарелке",
+        "сочная говяжья котлета для бургера",
+        "свиная отбивная на гриле ужин",
+        "отбивная с овощами на гарнир",
+        "кусок мяса в мясной лавке",
+        "премиальный кусок мяса в ресторане",
+        "барбекю на заднем дворе угли",
+        "угольный гриль для стейков",
+        "баранья отбивная в панировке из трав",
+        "баранья отбивная с розмарином",
+        "тарелка для любителя мяса разные куски",
+        "мясная нарезка выбор",
+        "свиная отбивная с яблочным соусом",
+        "бескостная отбивная на сковороде",
+        "сирлойн стейк средней прожарки",
+        "сирлойн с костью",
+        "шипящий стейк на чугунной сковороде",
+        "ужин со стейком в стейк-хаусе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "sizzling ribeye steak on cast iron skillet",
+        "restaurant grade sirloin medium rare",
+        "butcher shop prime cut display",
+        "outdoor bbq grilling thick steak",
+        "steak with grill marks plated",
+        "surf and turf shrimp and steak combo",
+        "steak dinner with mashed potato sides",
+        "wagyu beef marbling premium",
+        "food photography juicy cut of meat",
+        "steak knife cutting through tenderloin"
+      ],
+      "ru": [
+        "шипящий рибай на чугунной сковороде",
+        "сирлойн ресторанного уровня средней прожарки",
+        "премиальная нарезка в витрине мясной лавки",
+        "толстый стейк на открытом барбекю",
+        "стейк с полосками гриля на тарелке",
+        "сёрф-энд-тёрф креветки и стейк комбо",
+        "ужин со стейком и гарниром из картофельного пюре",
+        "мраморность вагю-говядина премиум",
+        "кулинарная фотография сочного куска мяса",
+        "нож для стейка нарезает вырезку"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a steak icon for the restaurant category",
+        "add a meat symbol to the food and dining section",
+        "show a steak for the grilling event",
+        "use the steak icon for the bbq planner"
+      ],
+      "ru": [
+        "нужна иконка стейка для категории ресторанов",
+        "добавь символ мяса в раздел еды и ресторанов",
+        "покажи стейк для события барбекю",
+        "используй иконку стейка для планировщика барбекю"
+      ]
+    },
+    "typo": {
+      "en": [
+        "steack on grill",
+        "beeef steak dinner",
+        "sirolin cut meat",
+        "prok chop dinner"
+      ],
+      "ru": [
+        "стейк на гриле",
+        "говяжий стейк ужин",
+        "сирлойн кусок мяса",
+        "свиная отбивнная"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "chicken drumstick roasted on plate",
+        "fish fillet on plate seafood",
+        "hamburger burger bun sesame",
+        "hot dog sausage in bun",
+        "ribs rack barbecue smoked",
+        "lamb leg roast sunday dinner"
+      ],
+      "ru": [
+        "куриная ножка запечённая на тарелке",
+        "рыбное филе на тарелке морепродукты",
+        "гамбургер булочка кунжут",
+        "хот-дог сосиска в булочке",
+        "рёбра решётка барбекю копчёные",
+        "баранья нога жаркое воскресный обед"
+      ]
+    },
+    "valid": {
+      "en": [
+        "grilled steak on plate",
+        "beef sirloin dinner icon",
+        "meat cut for bbq"
+      ],
+      "ru": [
+        "жареный стейк на тарелке",
+        "говяжий сирлойн ужин иконка",
+        "кусок мяса для барбекю"
+      ]
+    },
+    "test": {
+      "en": [
+        "steak dinner icon",
+        "grilled beef cut",
+        "sirloin meat symbol"
+      ],
+      "ru": [
+        "иконка ужина со стейком",
+        "жареная говядина кусок",
+        "символ сирлойна"
+      ]
+    }
+  }
+}

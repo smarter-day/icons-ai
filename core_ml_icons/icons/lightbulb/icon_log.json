@@ -1,0 +1,93 @@
+{
+  "icon": "lightbulb",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bulb",
+        "electric",
+        "energy",
+        "idea",
+        "innovation",
+        "inspiration",
+        "light"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Replace the old light bulb",
+        "Buy LED bulbs for the home",
+        "Use an electric light",
+        "Check the electric circuit",
+        "Save energy with LED bulbs",
+        "Reduce energy consumption",
+        "Get a great idea",
+        "Write down the idea",
+        "Start an innovation project",
+        "Work on an innovation challenge",
+        "Find inspiration for the project",
+        "Get inspired by a new concept",
+        "Turn on the light",
+        "Fix the broken light"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Replace the light bulb",
+        "Switch to LED for energy savings",
+        "Come up with a new idea",
+        "Brainstorm ideas for the project",
+        "Find inspiration online",
+        "Write down a creative idea",
+        "Buy smart light bulbs",
+        "Fix the lamp that won't turn on",
+        "Install a dimmer for the bulb",
+        "Get a brainwave for the solution"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Great idea!",
+        "Light bulb moment",
+        "New idea",
+        "Change the bulb"
+      ]
+    },
+    "typo": {
+      "en": [
+        "replcae the lgiht bulb",
+        "swich to led blubs",
+        "com up with a new ieda",
+        "brainstrom idaes"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Turn on the ceiling light",
+        "Use a flashlight instead",
+        "Hang string lights for decoration",
+        "Set up a neon sign",
+        "Turn on the desk lamp",
+        "Buy a lava lamp for decoration"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Replace the light bulb",
+        "Switch to LED for energy savings",
+        "Come up with a new idea"
+      ]
+    },
+    "test": {
+      "en": [
+        "Brainstorm ideas for the project",
+        "Find inspiration online",
+        "Install smart light bulbs"
+      ]
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "icon": "book-sparkles",
+  "rows": {
+    "train_en": 78,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Dungeons & Dragons",
+        "d&d",
+        "dark arts",
+        "dnd",
+        "documentation",
+        "evil",
+        "fantasy",
+        "halloween",
+        "holiday",
+        "library",
+        "mage",
+        "magic",
+        "read",
+        "research",
+        "sorcery",
+        "voodoo",
+        "witch",
+        "wizard"
+      ],
+      "ru": [
+        "Dungeons & Dragons",
+        "d&d",
+        "тёмные искусства",
+        "dnd",
+        "документация",
+        "злое",
+        "фэнтези",
+        "хэллоуин",
+        "праздник",
+        "библиотека",
+        "маг",
+        "магия",
+        "читать",
+        "исследование",
+        "колдовство",
+        "вуду",
+        "ведьма",
+        "волшебник"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "plan the next D&D session",
+        "d&d campaign tonight",
+        "study the dark arts for the roleplay",
+        "dnd character creation",
+        "read the documentation",
+        "evil spell book for Halloween",
+        "fantasy novel reading",
+        "spooky book for Halloween",
+        "holiday reading list",
+        "visit the library",
+        "mage character build for the campaign",
+        "magic tricks research",
+        "read the new book",
+        "research for the project",
+        "sorcery rules in d&d",
+        "voodoo props for Halloween",
+        "witch costume research",
+        "wizard staff for the costume",
+        "D&D starter kit purchase this week",
+        "D&D dungeon map creation session",
+        "Dark arts book prop for the photo shoot",
+        "DnD monster manual reference lookup",
+        "Software documentation update for the team",
+        "Evil villain design for the game",
+        "Fantasy world-building session tonight",
+        "Halloween spell book prop for the table",
+        "Holiday book gift for the wishlist",
+        "Library card renewal this month",
+        "Mage spell list for the next session",
+        "Magic show prop preparation",
+        "Read a chapter before bed tonight",
+        "Research paper outline due Friday",
+        "Sorcery class in the game campaign",
+        "Voodoo doll costume accessory",
+        "Witch spell book for the shelf display",
+        "Wizard school sorting ceremony idea"
+      ],
+      "ru": [
+        "запланировать следующую сессию D&D",
+        "кампания d&d сегодня вечером",
+        "изучить тёмные искусства для ролевой игры",
+        "создание персонажа dnd",
+        "читать документацию",
+        "книга злых заклинаний для Хэллоуина",
+        "чтение фэнтезийного романа",
+        "жуткая книга на Хэллоуин",
+        "список праздничного чтения",
+        "посетить библиотеку",
+        "сборка персонажа мага для кампании",
+        "исследование фокусов",
+        "прочитать новую книгу",
+        "исследование для проекта",
+        "правила колдовства в d&d",
+        "реквизит вуду для Хэллоуина",
+        "исследование костюма ведьмы",
+        "посох волшебника для костюма",
+        "Стартовый набор D&D — купить на этой неделе",
+        "Создание карты подземелья для D&D",
+        "Книга тёмных искусств как реквизит для фотосессии",
+        "Руководство по монстрам DnD",
+        "Обновить документацию к программе для команды",
+        "Дизайн злодея для игры",
+        "Вечер создания фэнтезийного мира",
+        "Книга заклинаний как реквизит для стола на Хэллоуин",
+        "Книга в подарок на праздник в список желаний",
+        "Продление читательского билета в этом месяце",
+        "Список заклинаний мага для следующей сессии",
+        "Подготовка реквизита для шоу иллюзиониста",
+        "Прочитать главу перед сном",
+        "Набросок реферата — дедлайн в пятницу",
+        "Класс колдовства в игровой кампании",
+        "Аксессуар куклы вуду для костюма",
+        "Книга заклинаний ведьмы для выставки на полке",
+        "Идея церемонии распределения в школе волшебников"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Plan the D&D campaign session",
+        "Read a fantasy novel",
+        "Visit the library this weekend",
+        "Research for the school project",
+        "Write the magic spellbook for the game",
+        "Get the grimoire for the Halloween party",
+        "Read the new fantasy book",
+        "Magic spell research for D&D",
+        "Library book pickup",
+        "Spooky reading for Halloween"
+      ],
+      "ru": [
+        "Запланировать сессию кампании D&D",
+        "Прочитать фэнтезийный роман",
+        "Посетить библиотеку в эти выходные",
+        "Исследование для школьного проекта",
+        "Написать книгу заклинаний для игры",
+        "Достать гримуар для вечеринки на Хэллоуин",
+        "Прочитать новое фэнтези",
+        "Исследование магических заклинаний для D&D",
+        "Забрать книгу из библиотеки",
+        "Жуткое чтение на Хэллоуин"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I've been dying to start that fantasy series",
+        "Let's plan the next D&D session",
+        "I found the most magical book",
+        "Nothing like a good fantasy read"
+      ],
+      "ru": [
+        "Давно хочу начать ту фэнтезийную серию",
+        "Давайте запланируем следующую сессию D&D",
+        "Нашёл самую волшебную книгу",
+        "Ничто не сравнится с хорошим фэнтези"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Plan the D&D campaing sesion",
+        "Read a fantsy novell",
+        "Visit the libary this weeknd",
+        "Spooky boks for Halwoeen"
+      ],
+      "ru": [
+        "Запланировать D&D кампангию",
+        "Прочитать фэнтезийный ромн",
+        "Посетить библиотеу в эти выходные",
+        "Жуткие книги на Хэлоуин"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Read a regular novel",
+        "Study for the exam",
+        "Research online",
+        "Halloween party planning",
+        "Write the fantasy script",
+        "Play a video game"
+      ],
+      "ru": [
+        "Прочитать обычный роман",
+        "Подготовиться к экзамену",
+        "Поиск в интернете",
+        "Планирование вечеринки на Хэллоуин",
+        "Написать фэнтезийный сценарий",
+        "Сыграть в видеоигру"
+      ]
+    },
+    "valid": {
+      "en": [
+        "D&D session planning for Friday",
+        "Fantasy reading list for the weekend",
+        "Library visit for research"
+      ],
+      "ru": [
+        "Планирование сессии D&D на пятницу",
+        "Список фэнтезийного чтения на выходные",
+        "Поход в библиотеку для исследования"
+      ]
+    },
+    "test": {
+      "en": [
+        "Magic spellbook for the Halloween party",
+        "Read the fantasy novel tonight",
+        "Plan the wizard character for D&D"
+      ],
+      "ru": [
+        "Книга магических заклинаний для вечеринки на Хэллоуин",
+        "Прочитать фэнтезийный роман сегодня вечером",
+        "Запланировать персонажа волшебника для D&D"
+      ]
+    }
+  }
+}

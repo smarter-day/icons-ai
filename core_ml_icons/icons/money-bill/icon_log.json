@@ -1,0 +1,190 @@
+{
+  "icon": "money-bill",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "buy",
+        "cash",
+        "checkout",
+        "coupon",
+        "investment",
+        "money",
+        "payment",
+        "premium",
+        "price",
+        "purchase",
+        "revenue",
+        "salary"
+      ],
+      "ru": [
+        "купить",
+        "наличные",
+        "касса",
+        "купон",
+        "инвестиция",
+        "деньги",
+        "оплата",
+        "премиум",
+        "цена",
+        "покупка",
+        "доход",
+        "зарплата"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "buy an item with cash",
+        "buy ticket at the counter",
+        "pay with cash money bill",
+        "cash payment at register",
+        "checkout with money bill",
+        "checkout process payment screen",
+        "coupon discount on total bill",
+        "coupon savings on grocery bill",
+        "financial investment return",
+        "investment portfolio money",
+        "money bill folded in wallet",
+        "paper money denomination",
+        "payment using paper bill",
+        "online payment with credit",
+        "premium subscription price",
+        "premium tier pricing",
+        "price tag showing bill amount",
+        "price comparison before buying",
+        "purchase with cash or card",
+        "purchase receipt with amount",
+        "revenue generated from sales",
+        "monthly revenue report",
+        "salary paid in cash",
+        "paycheck money bill"
+      ],
+      "ru": [
+        "купить товар за наличные",
+        "купить билет у кассы",
+        "оплатить наличными купюрой",
+        "оплата наличными у кассы",
+        "оплата на кассе купюрой",
+        "экран процесса оплаты",
+        "скидка по купону на итоговый счёт",
+        "экономия по купону на счёте за продукты",
+        "финансовая отдача от инвестиций",
+        "деньги инвестиционного портфеля",
+        "денежная купюра сложенная в кошелёк",
+        "номинал бумажных денег",
+        "оплата бумажной купюрой",
+        "онлайн оплата кредитом",
+        "цена премиум подписки",
+        "ценообразование премиум уровня",
+        "ценник показывающий сумму",
+        "сравнение цен перед покупкой",
+        "покупка за наличные или карту",
+        "чек покупки с суммой",
+        "выручка от продаж",
+        "ежемесячный отчёт о доходах",
+        "зарплата выплаченная наличными",
+        "чек оплаты труда купюрой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "paper money dollar bill",
+        "cash register showing payment",
+        "green US dollar bill with portrait",
+        "money bills in a wallet",
+        "paycheck or salary in cash",
+        "price tag with money bill icon",
+        "budget and spending tracker",
+        "money for shopping and bills",
+        "financial transaction money symbol",
+        "revenue and income money icon"
+      ],
+      "ru": [
+        "бумажные деньги долларовая купюра",
+        "кассовый аппарат показывающий оплату",
+        "зелёная долларовая купюра с портретом",
+        "денежные купюры в кошельке",
+        "зарплата или аванс наличными",
+        "ценник с иконкой денежной купюры",
+        "трекер бюджета и расходов",
+        "деньги для покупок и счетов",
+        "символ финансовой транзакции",
+        "иконка дохода и выручки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a money bill icon for the payment screen",
+        "add a cash symbol to the checkout feature",
+        "show a money icon for the salary tracker",
+        "use the bill icon for the price or revenue section"
+      ],
+      "ru": [
+        "Мне нужна иконка денежной купюры для экрана оплаты",
+        "добавить символ наличных для функции кассы",
+        "показать иконку денег для трекера зарплаты",
+        "использовать иконку купюры для раздела цен или доходов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "monye bill payment",
+        "chackout with cash",
+        "salarry payment",
+        "puchase price"
+      ],
+      "ru": [
+        "денжная купюра",
+        "оплтаа наличными",
+        "зарплтаа выплата",
+        "ценa покупка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "credit card for digital payment",
+        "coin currency for small change",
+        "bank check for large payments",
+        "digital wallet payment app",
+        "receipt showing itemized purchase",
+        "piggy bank for saving money"
+      ],
+      "ru": [
+        "кредитная карта для цифровой оплаты",
+        "монетная валюта для мелкой сдачи",
+        "банковский чек для крупных платежей",
+        "приложение цифрового кошелька",
+        "чек с детализацией покупки",
+        "копилка-свинья для экономии денег"
+      ]
+    },
+    "valid": {
+      "en": [
+        "money bill for payment",
+        "cash dollar bill icon",
+        "paper money payment symbol"
+      ],
+      "ru": [
+        "купюра для оплаты",
+        "иконка долларовой купюры",
+        "символ оплаты бумажными деньгами"
+      ]
+    },
+    "test": {
+      "en": [
+        "money bill icon",
+        "cash payment bill",
+        "dollar bill currency"
+      ],
+      "ru": [
+        "иконка денежной купюры",
+        "оплата наличными купюрой",
+        "долларовая купюра валюта"
+      ]
+    }
+  }
+}

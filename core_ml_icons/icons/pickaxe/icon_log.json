@@ -1,0 +1,160 @@
+{
+  "icon": "pickaxe",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "axe",
+        "climb",
+        "ice",
+        "mine",
+        "mining",
+        "mountaineering",
+        "rock"
+      ],
+      "ru": [
+        "топор",
+        "подъём",
+        "лёд",
+        "шахта",
+        "горнодобыча",
+        "альпинизм",
+        "скала"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "axe and pickaxe for digging",
+        "battle axe compared to pickaxe",
+        "climb with ice axe",
+        "rock climbing with pickaxe",
+        "ice axe for glacier climbing",
+        "ice pickaxe for frozen surface",
+        "mine ore with a pickaxe",
+        "dig for gold in mine",
+        "mining operation pickaxe tool",
+        "coal mining with pickaxe",
+        "mountaineering ice axe gear",
+        "mountaineering pickaxe equipment",
+        "rock breaking with pickaxe",
+        "rock quarrying pickaxe"
+      ],
+      "ru": [
+        "топор и кирка для копки",
+        "боевой топор в сравнении с киркой",
+        "подъём с ледорубом",
+        "скалолазание с киркой",
+        "ледоруб для подъёма по леднику",
+        "ледяная кирка для замёрзшей поверхности",
+        "добывать руду киркой",
+        "копать золото в шахте",
+        "кирка для горнодобывающей операции",
+        "добыча угля киркой",
+        "снаряжение ледоруба для альпинизма",
+        "оборудование кирки для альпинизма",
+        "разбивать камень киркой",
+        "карьерная добыча камня киркой"
+      ]
+    },
+    "regular": {
+      "en": [
+        "pickaxe for breaking rock or ore",
+        "miner holding pickaxe underground",
+        "ice climbing axe for mountaineering",
+        "Minecraft pickaxe for block mining",
+        "gold rush prospector with pickaxe",
+        "excavation tool pickaxe and shovel",
+        "quarry worker with heavy pickaxe",
+        "adventure game pickaxe weapon or tool",
+        "geology field pickaxe for rock samples",
+        "construction site digging pickaxe"
+      ],
+      "ru": [
+        "кирка для разбивания камня или руды",
+        "шахтёр с киркой под землёй",
+        "ледоруб для альпинизма",
+        "кирка Minecraft для добычи блоков",
+        "старатель золотой лихорадки с киркой",
+        "инструмент для раскопок кирка и лопата",
+        "рабочий карьера с тяжёлой киркой",
+        "кирка как оружие или инструмент в приключенческой игре",
+        "кирка для отбора образцов пород геологии",
+        "кирка для рытья на стройплощадке"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a pickaxe icon for the mining game",
+        "add a pickaxe symbol to the outdoor adventure section",
+        "show a pickaxe for the mining feature",
+        "use the pickaxe icon for the rock climbing screen"
+      ],
+      "ru": [
+        "Мне нужна иконка кирки для горнодобывающей игры",
+        "добавить символ кирки в раздел приключений на улице",
+        "показать кирку для функции добычи",
+        "использовать иконку кирки для экрана скалолазания"
+      ]
+    },
+    "typo": {
+      "en": [
+        "picaxe mining",
+        "iice axe climb",
+        "minning pickaxe",
+        "pikaxe rock"
+      ],
+      "ru": [
+        "кирка добча",
+        "ледруб подъём",
+        "горнодобчыа кирка",
+        "кирак скала"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "shovel for digging dirt and soil",
+        "axe for chopping wood",
+        "hammer for driving nails",
+        "chisel for carving stone",
+        "drill for boring holes",
+        "crowbar for prying open"
+      ],
+      "ru": [
+        "лопата для копки земли и почвы",
+        "топор для рубки дров",
+        "молоток для забивания гвоздей",
+        "зубило для резьбы по камню",
+        "дрель для сверления отверстий",
+        "гвоздодёр для откупоривания"
+      ]
+    },
+    "valid": {
+      "en": [
+        "pickaxe for mining icon",
+        "ice axe for mountaineering",
+        "rock breaking pickaxe"
+      ],
+      "ru": [
+        "кирка для горнодобычи",
+        "ледоруб для альпинизма",
+        "кирка для разбивания камня"
+      ]
+    },
+    "test": {
+      "en": [
+        "pickaxe icon",
+        "mining pickaxe tool",
+        "ice climbing pickaxe"
+      ],
+      "ru": [
+        "иконка кирки",
+        "инструмент кирки для горнодобычи",
+        "ледяная кирка для подъёма"
+      ]
+    }
+  }
+}

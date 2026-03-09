@@ -1,0 +1,87 @@
+{
+  "icon": "hat-chef",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cook",
+        "cuisine",
+        "culinary",
+        "dining",
+        "kitchen"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Cook a new recipe tonight",
+        "Learn to cook from scratch",
+        "Try a new cuisine this week",
+        "Explore international cuisine",
+        "Take a culinary class",
+        "Improve culinary skills",
+        "Book a fine dining experience",
+        "Enjoy a dining experience",
+        "Organize the kitchen",
+        "Cook in a professional kitchen"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Take a cooking class",
+        "Wear the chef hat at the event",
+        "Cook a professional meal at home",
+        "Try a new recipe from scratch",
+        "Watch a cooking show for inspiration",
+        "Follow a culinary course online",
+        "Host a dinner party",
+        "Learn French cuisine techniques",
+        "Cook a gourmet meal",
+        "Prepare a multi-course dinner"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Chef mode on",
+        "Cook something fancy",
+        "Culinary adventure",
+        "Kitchen time!"
+      ]
+    },
+    "typo": {
+      "en": [
+        "take a cookin class",
+        "weare the chef hat",
+        "cook a profesional meal",
+        "try a new recpie"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Order from a professional chef online",
+        "Buy a cooking apron",
+        "Watch a restaurant review show",
+        "Set a dinner table with cutlery",
+        "Use a kitchen timer",
+        "Buy kitchen utensils"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Take a cooking class",
+        "Cook a gourmet meal at home",
+        "Try a new culinary technique"
+      ]
+    },
+    "test": {
+      "en": [
+        "Host a dinner party",
+        "Follow a culinary course",
+        "Cook a professional meal"
+      ]
+    }
+  }
+}

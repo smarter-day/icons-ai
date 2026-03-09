@@ -1,0 +1,172 @@
+{
+  "icon": "paint-roller",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "acrylic",
+        "art",
+        "brush",
+        "color",
+        "fill",
+        "maintenance",
+        "paint",
+        "pigment",
+        "watercolor"
+      ],
+      "ru": [
+        "акрил",
+        "искусство",
+        "кисть",
+        "цвет",
+        "заливка",
+        "обслуживание",
+        "краска",
+        "пигмент",
+        "акварель"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "acrylic paint roller application",
+        "acrylic wall coating with roller",
+        "art project using paint roller",
+        "large-scale art with roller",
+        "roller brush for wall painting",
+        "paint roller brush extension",
+        "color coverage with wide roller",
+        "apply color with paint roller",
+        "fill wall with flat paint roller",
+        "fill large areas quickly",
+        "home maintenance painting walls",
+        "maintenance repaint faded walls",
+        "paint roller for room renovation",
+        "paint wall with roller tool",
+        "pigment applied by roller evenly",
+        "pigment spread across large surface",
+        "watercolor roller effect on paper",
+        "watercolor application with roller"
+      ],
+      "ru": [
+        "нанесение акриловой краски валиком",
+        "покрытие стен акрилом валиком",
+        "художественный проект с валиком для краски",
+        "масштабное искусство с валиком",
+        "кисть-валик для покраски стен",
+        "малярный валик с удлинителем",
+        "покрытие цветом широким валиком",
+        "нанесение цвета малярным валиком",
+        "заполнить стену плоским малярным валиком",
+        "быстро заполнить большие площади",
+        "техническое обслуживание покраска стен",
+        "перекрасить выцветшие стены",
+        "малярный валик для ремонта комнаты",
+        "покрасить стену инструментом валик",
+        "пигмент равномерно нанесённый валиком",
+        "пигмент распределённый по большой поверхности",
+        "эффект акварельного валика на бумаге",
+        "нанесение акварели валиком"
+      ]
+    },
+    "regular": {
+      "en": [
+        "paint roller on a handle for wall painting",
+        "house painter rolling paint on wall",
+        "cover wall with smooth paint roller",
+        "paint roller tray and roller set",
+        "home renovation painting with roller",
+        "large foam roller for craft project",
+        "apply primer with paint roller",
+        "rolling paint ceiling with extension pole",
+        "paint roller leaving textured surface",
+        "interior painter using wall roller"
+      ],
+      "ru": [
+        "малярный валик на ручке для покраски стены",
+        "маляр катящий краску по стене",
+        "покрыть стену гладким малярным валиком",
+        "поднос и комплект малярного валика",
+        "ремонт дома покраска валиком",
+        "большой поролоновый валик для творческого проекта",
+        "нанесение грунтовки малярным валиком",
+        "красить потолок валиком с удлинительной штангой",
+        "малярный валик оставляющий фактурную поверхность",
+        "маляр интерьеров использующий настенный валик"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a paint roller icon for the renovation feature",
+        "add a roller brush to the painting tools category",
+        "show a paint roller for the home maintenance section",
+        "use the roller icon for the fill color action"
+      ],
+      "ru": [
+        "Мне нужна иконка малярного валика для функции ремонта",
+        "добавить кисть-валик в категорию малярных инструментов",
+        "показать малярный валик для раздела технического обслуживания",
+        "использовать иконку валика для действия заливки цветом"
+      ]
+    },
+    "typo": {
+      "en": [
+        "paint rollr wall",
+        "painitng roller brush",
+        "coloer fill roller",
+        "maitenance paint"
+      ],
+      "ru": [
+        "малярный влаик",
+        "покраска ваиком",
+        "цветовая залвика валик",
+        "обслуживани покраска"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "paintbrush with fine tip for detail work",
+        "spray paint can for even coverage",
+        "paint bucket and fill tool icon",
+        "sponge for painting texture effects",
+        "palette knife for mixing paints",
+        "pressure washer for cleaning surfaces"
+      ],
+      "ru": [
+        "кисть с тонким наконечником для детальной работы",
+        "баллончик с краской для равномерного покрытия",
+        "ведро краски и инструмент заливки",
+        "губка для создания текстурных эффектов",
+        "шпатель для смешивания красок",
+        "мойка высокого давления для очистки поверхностей"
+      ]
+    },
+    "valid": {
+      "en": [
+        "paint roller for wall painting",
+        "roller brush for home renovation",
+        "paint coverage roller icon"
+      ],
+      "ru": [
+        "малярный валик для покраски стен",
+        "кисть-валик для ремонта дома",
+        "иконка валика для покрытия краской"
+      ]
+    },
+    "test": {
+      "en": [
+        "paint roller icon",
+        "wall painting roller",
+        "home renovation roller brush"
+      ],
+      "ru": [
+        "иконка малярного валика",
+        "валик для покраски стен",
+        "кисть-валик для ремонта"
+      ]
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "icon": "billboard",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "advertising",
+        "promotion",
+        "sign",
+        "signboard",
+        "slogan poster"
+      ],
+      "ru": [
+        "реклама",
+        "продвижение",
+        "знак",
+        "вывеска",
+        "слоган плакат"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "plan the advertising campaign",
+        "set up the promotion",
+        "design the sign for the store",
+        "order a new signboard",
+        "write a slogan for the poster",
+        "Outdoor advertising space rental",
+        "Promotion live on the billboard now",
+        "Sign off on the new store design",
+        "Signboard installation this Friday",
+        "Slogan brainstorm for the poster campaign"
+      ],
+      "ru": [
+        "спланировать рекламную кампанию",
+        "настроить продвижение",
+        "разработать знак для магазина",
+        "заказать новую вывеску",
+        "написать слоган для плаката",
+        "Аренда рекламного щита на улице",
+        "Акция запущена на рекламном щите",
+        "Согласовать дизайн нового магазина",
+        "Монтаж вывески в пятницу",
+        "Придумать слоган для плакатной кампании"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Design a billboard for the campaign",
+        "Book a billboard spot downtown",
+        "Create an ad for the billboard",
+        "Outdoor advertising campaign setup",
+        "Design the store signboard",
+        "Billboard marketing strategy",
+        "Print the promotional poster",
+        "Put up the new store sign",
+        "Ad campaign for the product launch",
+        "Roadside billboard placement"
+      ],
+      "ru": [
+        "Разработать дизайн билборда для кампании",
+        "Забронировать место под билборд в центре",
+        "Создать рекламу для билборда",
+        "Настройка кампании наружной рекламы",
+        "Разработать вывеску для магазина",
+        "Маркетинговая стратегия для билборда",
+        "Напечатать рекламный плакат",
+        "Установить новую вывеску магазина",
+        "Рекламная кампания к запуску продукта",
+        "Размещение дорожного билборда"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "We need a good billboard for this campaign",
+        "Let's get a sign made for the event",
+        "I saw a great billboard design online",
+        "Our store needs a proper signboard out front"
+      ],
+      "ru": [
+        "Нам нужен хороший билборд для этой кампании",
+        "Давай закажем вывеску для мероприятия",
+        "Видел отличный дизайн билборда в интернете",
+        "У нашего магазина должна быть нормальная вывеска снаружи"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Billbord design for the campagn",
+        "Book a bilboard spot",
+        "Advertisng campain setup",
+        "Prommotional poster design"
+      ],
+      "ru": [
+        "Дизайн билборта для кампнии",
+        "Забронировать место под биллборд",
+        "Насройка рекламной кампаниеии",
+        "Дизайн рекламного пплаката"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Social media ad campaign",
+        "Business card design",
+        "Flyer for the event",
+        "Banner for the website",
+        "Newspaper advertisement",
+        "Email marketing campaign"
+      ],
+      "ru": [
+        "Рекламная кампания в соцсетях",
+        "Дизайн визитных карточек",
+        "Флаер для мероприятия",
+        "Баннер для сайта",
+        "Реклама в газете",
+        "Рассылка по электронной почте"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Billboard campaign for the product launch",
+        "Design the outdoor advertisement",
+        "Book a signboard spot in the city"
+      ],
+      "ru": [
+        "Рекламная кампания на билборде к запуску продукта",
+        "Разработать наружную рекламу",
+        "Забронировать место под вывеску в городе"
+      ]
+    },
+    "test": {
+      "en": [
+        "Billboard ad for the grand opening",
+        "Promotional sign for the store",
+        "Outdoor ad campaign planning"
+      ],
+      "ru": [
+        "Реклама на билборде к открытию",
+        "Рекламный знак для магазина",
+        "Планирование кампании наружной рекламы"
+      ]
+    }
+  }
+}

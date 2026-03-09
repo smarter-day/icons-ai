@@ -1,0 +1,87 @@
+{
+  "icon": "flatbread",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "arepa",
+        "flatbread",
+        "lavash",
+        "naan",
+        "pita"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Make an arepa for breakfast",
+        "Try Colombian arepa",
+        "Bake flatbread at home",
+        "Buy flatbread at the bakery",
+        "Make lavash wraps",
+        "Use lavash for the appetizer",
+        "Order naan with the curry",
+        "Bake naan in the oven",
+        "Buy pita bread at the store",
+        "Make pita from scratch"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Make naan to go with the curry",
+        "Buy pita bread for the dip",
+        "Bake homemade flatbread",
+        "Make an arepa for breakfast",
+        "Use lavash for a wrap",
+        "Toast the flatbread before serving",
+        "Dip flatbread in hummus",
+        "Make a flatbread pizza",
+        "Order naan from the Indian restaurant",
+        "Serve warm flatbread with dinner"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Naan with curry!",
+        "Bake flatbread",
+        "Pita and hummus",
+        "Flatbread time"
+      ]
+    },
+    "typo": {
+      "en": [
+        "make naaan for curry",
+        "buy pita berad",
+        "bake flatbrad at home",
+        "lavsah wrap recipe"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy a stuffed pita with falafel",
+        "Make a gyro wrap",
+        "Toast a regular bread slice",
+        "Make a sourdough loaf",
+        "Bake a baguette",
+        "Make a pizza on thick dough"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Bake flatbread at home",
+        "Make naan with the curry",
+        "Buy pita for the dip"
+      ]
+    },
+    "test": {
+      "en": [
+        "Toast flatbread before serving",
+        "Dip flatbread in hummus",
+        "Make a flatbread pizza"
+      ]
+    }
+  }
+}

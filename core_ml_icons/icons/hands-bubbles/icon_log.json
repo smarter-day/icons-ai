@@ -1,0 +1,81 @@
+{
+  "icon": "hands-bubbles",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "hygiene",
+        "soap",
+        "wash"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Practice good hygiene habits",
+        "Teach kids about hygiene",
+        "Use soap to wash hands",
+        "Buy antibacterial soap",
+        "Wash hands before eating",
+        "Wash hands after using the bathroom"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Wash hands before cooking",
+        "Use soap and water to wash hands",
+        "Wash hands for 20 seconds",
+        "Buy hand soap for the bathroom",
+        "Teach kids to wash hands properly",
+        "Wash hands after the gym",
+        "Use hand sanitizer when soap is unavailable",
+        "Wash hands after handling raw meat",
+        "Keep soap near the sink",
+        "Wash hands before eating"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Wash your hands!",
+        "Soap up",
+        "Hygiene first",
+        "Clean hands"
+      ]
+    },
+    "typo": {
+      "en": [
+        "wahs hands before eaitng",
+        "use saop to wash hads",
+        "clen hands wiht soap",
+        "teahc kids to was hands"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Take a shower",
+        "Brush your teeth",
+        "Use hand lotion after washing",
+        "Use a hand dryer after washing",
+        "Sanitize the kitchen counter",
+        "Clean the bathroom sink"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Wash hands before cooking",
+        "Use soap for 20 seconds",
+        "Buy hand soap for the bathroom"
+      ]
+    },
+    "test": {
+      "en": [
+        "Teach kids to wash hands",
+        "Wash hands after the gym",
+        "Keep soap near the sink"
+      ]
+    }
+  }
+}

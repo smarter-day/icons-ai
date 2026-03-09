@@ -1,0 +1,184 @@
+{
+  "icon": "treasure-chest",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Dungeons & Dragons",
+        "booty",
+        "d&d",
+        "dnd",
+        "fantasy",
+        "gold",
+        "hidden",
+        "loot",
+        "premium",
+        "reward",
+        "trap"
+      ],
+      "ru": [
+        "Подземелья и Драконы",
+        "добыча",
+        "ДнД",
+        "ролевая игра",
+        "фэнтези",
+        "золото",
+        "спрятанное",
+        "лут",
+        "премиум",
+        "награда",
+        "ловушка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Dungeons and Dragons treasure chest loot",
+        "D&D chest dungeon find",
+        "pirate booty treasure chest gold",
+        "booty hidden treasure",
+        "d&d chest trap inside",
+        "d&d role playing chest",
+        "dnd loot chest dungeon crawl",
+        "dnd dungeon master chest",
+        "fantasy treasure chest magical",
+        "fantasy RPG loot box",
+        "gold coins in treasure chest",
+        "gold treasure overflowing",
+        "hidden treasure chest buried",
+        "hidden chest secret room",
+        "loot chest reward game",
+        "loot box open reward",
+        "premium treasure chest exclusive",
+        "premium loot chest subscription",
+        "reward chest opened bonus",
+        "reward chest game achievement",
+        "trap chest dangerous mimic",
+        "chest trap spring loaded"
+      ],
+      "ru": [
+        "лут сундука подземелий и драконов",
+        "сундук подземелья ДнД находка",
+        "пиратская добыча золото сундук",
+        "спрятанная добыча клад",
+        "ловушка внутри сундука ДнД",
+        "ролевой сундук ДнД",
+        "лут сундука исследование подземелья",
+        "сундук ведущего ДнД",
+        "магический сундук с сокровищами фэнтези",
+        "лут-бокс RPG фэнтези",
+        "золотые монеты в сундуке с сокровищами",
+        "переполненный золотом клад",
+        "закопанный сундук с сокровищами",
+        "спрятанный сундук тайная комната",
+        "лут-сундук награда игры",
+        "открыть лут-бокс награда",
+        "премиум сундук с сокровищами эксклюзив",
+        "премиум лут-сундук подписка",
+        "открытый сундук награды бонус",
+        "достижение игры сундук награды",
+        "ловушка-сундук опасный мимик",
+        "пружинная ловушка сундука"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wooden treasure chest with gold coins",
+        "pirate chest washed up on beach",
+        "D&D dungeon mimic chest trap",
+        "RPG loot chest reward on quest",
+        "treasure hunt chest buried on island",
+        "fantasy chest glowing magical items",
+        "chest overflowing with gems jewels",
+        "reward chest app gamification",
+        "treasure chest padlock key",
+        "antique chest historical artifacts"
+      ],
+      "ru": [
+        "деревянный сундук с золотыми монетами",
+        "пиратский сундук на пляже",
+        "ловушка-мимик сундук ДнД подземелья",
+        "лут-сундук RPG награда в квесте",
+        "поиск сокровищ сундук закопан на острове",
+        "фэнтезийный светящийся сундук с магическими предметами",
+        "переполненный сундук с драгоценностями",
+        "сундук наград в геймификации приложений",
+        "замок ключ сундука с сокровищами",
+        "антикварный сундук исторические артефакты"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a treasure chest icon for the rewards section",
+        "add a loot chest symbol to the game achievement",
+        "show a treasure chest for the premium feature",
+        "use the treasure-chest icon for the bonus reveal"
+      ],
+      "ru": [
+        "нужна иконка сундука с сокровищами для раздела наград",
+        "добавь символ лут-сундука к игровому достижению",
+        "покажи сундук с сокровищами для премиум функции",
+        "используй иконку сундука для раскрытия бонуса"
+      ]
+    },
+    "typo": {
+      "en": [
+        "treasurechest gold loot",
+        "treasur chest dnd",
+        "fantsy chest reward",
+        "priate chest gold"
+      ],
+      "ru": [
+        "сундук с сокровищами лут",
+        "сундук ДнД фэнтези",
+        "сундук награды фентези",
+        "пиратский сундук золото"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "gift box wrapped ribbon bow",
+        "safe vault locked combination",
+        "backpack bag carry loot",
+        "coin bag money gold",
+        "box cardboard package delivery",
+        "trophy award achievement cup"
+      ],
+      "ru": [
+        "подарочная коробка обёрнутая лентой",
+        "сейф запертый кодовый замок",
+        "рюкзак нести лут сумка",
+        "мешок монет золото деньги",
+        "картонная коробка посылка доставка",
+        "кубок трофей достижение награда"
+      ]
+    },
+    "valid": {
+      "en": [
+        "treasure chest reward icon",
+        "loot chest gold symbol",
+        "D&D chest dungeon"
+      ],
+      "ru": [
+        "иконка сундука с сокровищами награда",
+        "символ лут-сундука золото",
+        "сундук ДнД подземелье"
+      ]
+    },
+    "test": {
+      "en": [
+        "treasure chest icon",
+        "loot box symbol",
+        "fantasy chest gold"
+      ],
+      "ru": [
+        "иконка сундука клада",
+        "символ лут-бокса",
+        "фэнтезийный сундук золото"
+      ]
+    }
+  }
+}

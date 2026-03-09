@@ -1,0 +1,148 @@
+{
+  "icon": "rv",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "camping",
+        "cousin eddie",
+        "recreational",
+        "travel",
+        "vehicle"
+      ],
+      "ru": [
+        "кемпинг",
+        "кузен Эдди",
+        "отдых",
+        "путешествие",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "camping trip in an RV motorhome",
+        "camping spot at national park with RV",
+        "cousin Eddie RV in Christmas vacation movie",
+        "cousin Eddie emptying chemical toilet",
+        "recreational vehicle parked at campsite",
+        "recreational motorhome on highway",
+        "travel by RV across the country",
+        "travel destination road trip in motorhome",
+        "vehicle with living quarters for family trips",
+        "large vehicle with beds and kitchen inside"
+      ],
+      "ru": [
+        "кемпинговая поездка на автодоме",
+        "место в кемпинге нацпарка с автодомом",
+        "автодом кузена Эдди из Рождественских каникул",
+        "кузен Эдди опустошает химический туалет",
+        "рекреационный автомобиль на стоянке кемпинга",
+        "автодом на шоссе",
+        "путешествие на автодоме по стране",
+        "дорожный тур на мотодоме",
+        "транспортное средство с жилым отсеком",
+        "большое ТС с кроватями и кухней"
+      ]
+    },
+    "regular": {
+      "en": [
+        "recreational vehicle RV parked at campground",
+        "motorhome driving on scenic open highway",
+        "Class A large motorcoach RV on road trip",
+        "pop-up camper trailer hitched to SUV",
+        "fifth-wheel RV at desert campsite",
+        "RV interior with kitchenette and sleeping area",
+        "family loading up RV for summer vacation",
+        "slide-out extended living room in parked RV",
+        "solar panels on RV roof for off-grid camping",
+        "RV park with hookups for water and electricity"
+      ],
+      "ru": [
+        "автодом на стоянке кемпинга",
+        "мотодом едет по живописному шоссе",
+        "большой автобус-мотодом класса A на дорожном туре",
+        "складной кемпер-прицеп прицеплен к внедорожнику",
+        "автодом типа пятое колесо на пустынной стоянке",
+        "интерьер автодома с кухонькой и спальной зоной",
+        "семья грузит автодом для летнего отпуска",
+        "раздвижная гостиная в припаркованном автодоме",
+        "солнечные панели на крыше автодома",
+        "стоянка для автодомов с подключением воды и электричества"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need an RV icon for the road trip planner",
+        "add a motorhome symbol to the camping section",
+        "show an RV for the recreational travel feature",
+        "use the RV icon for the vehicle type selector"
+      ],
+      "ru": [
+        "мне нужна иконка автодома для планировщика дорожного тура",
+        "добавь символ мотодома в раздел кемпинга",
+        "покажи автодом для функции рекреационного путешествия",
+        "используй иконку автодома для выбора типа ТС"
+      ]
+    },
+    "typo": {
+      "en": [
+        "motorhome drivign on open highway",
+        "famly loading up RV for vacation",
+        "RV pakred at campground hookups",
+        "campper trailer hitched to SUV"
+      ],
+      "ru": [
+        "мотодом едет по шоссе",
+        "семья грузит атводом для отпуска",
+        "автодом на стоянке кемпигна",
+        "складной кемпер прицплен к внедорожнику"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "camping tent pitched in forest clearing",
+        "travel trailer smaller than full RV",
+        "camper van converted Sprinter for travel",
+        "bus converted into tiny home on wheels",
+        "pickup truck with rooftop tent",
+        "caravan trailer being towed on highway"
+      ],
+      "ru": [
+        "туристическая палатка в лесной поляне",
+        "прицеп-дача меньше полноценного автодома",
+        "кемпер-фургон Sprinter переоборудованный для путешествий",
+        "автобус переоборудован в крошечный дом на колёсах",
+        "пикап с палаткой на крыше",
+        "жилой прицеп буксируется по шоссе"
+      ]
+    },
+    "valid": {
+      "en": [
+        "recreational vehicle RV at campground",
+        "motorhome driving on highway road trip",
+        "large RV with living quarters inside"
+      ],
+      "ru": [
+        "автодом на стоянке кемпинга",
+        "мотодом на шоссе в дорожном туре",
+        "большой автодом с жилым отсеком"
+      ]
+    },
+    "test": {
+      "en": [
+        "RV parked at national park campsite",
+        "family motorhome for road trip travel",
+        "recreational vehicle camping icon"
+      ],
+      "ru": [
+        "автодом на стоянке национального парка",
+        "семейный мотодом для дорожного тура",
+        "иконка рекреационного транспорта для кемпинга"
+      ]
+    }
+  }
+}

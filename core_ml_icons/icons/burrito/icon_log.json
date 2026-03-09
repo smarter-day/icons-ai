@@ -1,0 +1,172 @@
+{
+  "icon": "burrito",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "beans",
+        "breakfast",
+        "burrito",
+        "chimichanga",
+        "mexican",
+        "salsa",
+        "taco",
+        "tortilla",
+        "wrap"
+      ],
+      "ru": [
+        "фасоль",
+        "завтрак",
+        "буррито",
+        "чимичанга",
+        "мексиканский",
+        "сальса",
+        "тако",
+        "тортилья",
+        "ролл"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Black beans and rice for the burrito",
+        "Breakfast burrito with eggs and salsa",
+        "Burrito bowl for lunch",
+        "Chimichanga recipe for dinner",
+        "Mexican restaurant for date night",
+        "Salsa and chips before the meal",
+        "Taco Tuesday this week",
+        "Warm the tortilla wraps",
+        "Wrap up the leftovers",
+        "Soak the beans overnight for dinner",
+        "Breakfast burrito ingredients on the list",
+        "Big burrito from that place downtown",
+        "Try the chimichanga at the new spot",
+        "Mexican food night with the family",
+        "Fresh salsa for the taco bar",
+        "Order tacos for the whole group",
+        "Heat up the tortillas before serving",
+        "Wrap the sandwich tight for the trip"
+      ],
+      "ru": [
+        "Чёрная фасоль с рисом для буррито",
+        "Буррито на завтрак с яйцами и сальсой",
+        "Боул с буррито на обед",
+        "Рецепт чимичанги на ужин",
+        "Мексиканский ресторан для свидания",
+        "Сальса и чипсы перед едой",
+        "Такосы по вторникам на этой неделе",
+        "Разогреть тортильи",
+        "Завернуть остатки еды",
+        "Замочить фасоль на ночь для ужина",
+        "Ингредиенты для завтрашнего буррито в списке",
+        "Большое буррито из того места в центре",
+        "Попробовать чимичангу в новом месте",
+        "Вечер мексиканской кухни с семьёй",
+        "Свежая сальса для бара с тако",
+        "Заказать тако для всей группы",
+        "Подогреть лепёшки перед подачей",
+        "Плотно завернуть сэндвич для поездки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Chicken burrito with sour cream",
+        "Build your own burrito at home",
+        "Burrito delivery from the Mexican place",
+        "Meal prep burritos for the week",
+        "Carnitas burrito from the food truck",
+        "Beef and cheese burrito for dinner",
+        "Burrito night with the family",
+        "Extra guacamole on the burrito",
+        "Veggie burrito bowl option",
+        "Spicy burrito challenge at the restaurant"
+      ],
+      "ru": [
+        "Куриное буррито со сметаной",
+        "Приготовить своё буррито дома",
+        "Доставка буррито из мексиканского места",
+        "Заготовить буррито на неделю",
+        "Буррито с карнитас из фудтрака",
+        "Буррито с говядиной и сыром на ужин",
+        "Вечер буррито с семьёй",
+        "Дополнительный гуакамоле к буррито",
+        "Вегетарианский боул с буррито",
+        "Острый буррито-челлендж в ресторане"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "grabbing a burrito on the way",
+        "burrito or tacos? both honestly",
+        "obsessed with that burrito place",
+        "wrap it up and eat on the go"
+      ],
+      "ru": [
+        "возьму буррито по дороге",
+        "буррито или тако? честно оба",
+        "фанат того заведения с буррито",
+        "завернуть и есть на ходу"
+      ]
+    },
+    "typo": {
+      "en": [
+        "burritto with extra guac",
+        "mexcian food tonight for sure",
+        "chicken bureeto for dinner",
+        "tortila wrap with beans and cheese"
+      ],
+      "ru": [
+        "бурритто с гуакамоле",
+        "мексианская еда сегодня вечером",
+        "куриное бурито на ужин",
+        "тортила с фасолью и сыром"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Burger in a bun not a tortilla",
+        "Two small tacos instead of one wrap",
+        "Flatbread wrap with hummus",
+        "Gyro in a pita not a tortilla",
+        "Sub sandwich with cold cuts",
+        "Sushi roll wrapped in nori"
+      ],
+      "ru": [
+        "Бургер в булочке а не в тортилье",
+        "Два маленьких тако вместо одного ролла",
+        "Лаваш с хумусом",
+        "Гирос в питте а не в тортилье",
+        "Сэндвич-сабвей с мясной нарезкой",
+        "Ролл суши завёрнутый в нори"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Burrito from the food truck downtown",
+        "Make burritos for the party",
+        "Breakfast burrito tomorrow morning"
+      ],
+      "ru": [
+        "Буррито из фудтрака в центре",
+        "Приготовить буррито для вечеринки",
+        "Буррито на завтрак завтра утром"
+      ]
+    },
+    "test": {
+      "en": [
+        "Burrito run after work",
+        "Chicken and rice burrito",
+        "Extra hot salsa on the burrito"
+      ],
+      "ru": [
+        "Поход за буррито после работы",
+        "Буррито с курицей и рисом",
+        "Очень острая сальса к буррито"
+      ]
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "icon": "globe",
+  "rows": {
+    "train_en": 69,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "country",
+        "earth",
+        "global",
+        "globe",
+        "internet",
+        "language",
+        "location",
+        "map",
+        "network",
+        "online",
+        "planet",
+        "translate",
+        "travel",
+        "world",
+        "www"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "country shown on the globe",
+        "country selector on the globe icon",
+        "earth globe viewed from space",
+        "globe of the earth",
+        "global network on the globe",
+        "global reach shown by the globe",
+        "globe with meridian lines",
+        "spinning globe icon",
+        "internet globe symbol",
+        "globe for internet connectivity",
+        "language selector globe icon",
+        "translate language on the globe",
+        "location pinned on the globe",
+        "pinpoint location on the globe",
+        "globe showing a world map",
+        "map of the entire globe",
+        "global network globe icon",
+        "network connection around the globe",
+        "online presence shown by globe",
+        "globe for online service",
+        "planet earth globe",
+        "globe of the planet earth",
+        "translate language on the globe",
+        "globe translate icon",
+        "travel the globe icon",
+        "globe icon for travel app",
+        "world globe spinning",
+        "world map on the globe",
+        "www globe for website",
+        "internet www globe symbol"
+      ]
+    },
+    "regular": {
+      "en": [
+        "globe with meridian lines showing the world",
+        "world map on a spinning globe",
+        "internet globe icon for a website",
+        "globe symbol for international reach",
+        "language selector with a globe icon",
+        "travel the world globe graphic",
+        "blue globe of the earth",
+        "network connectivity globe symbol",
+        "translate button with a globe icon",
+        "global audience shown by a globe"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a globe icon for the world map feature",
+        "add a globe symbol to the language selector",
+        "show a globe for the international section",
+        "use the globe icon for the website URL"
+      ]
+    },
+    "typo": {
+      "en": [
+        "intenet globe icon",
+        "glboe with meridians",
+        "globl network icon",
+        "wrold map on globe"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "flat world map pinned to the wall",
+        "earth photographed from space",
+        "compass rose pointing north",
+        "country flag for the location",
+        "satellite dish pointing at the sky",
+        "map pin dropped on a location"
+      ]
+    },
+    "valid": {
+      "en": [
+        "world globe with meridian lines",
+        "globe icon for internet",
+        "travel the globe"
+      ]
+    },
+    "test": {
+      "en": [
+        "globe icon",
+        "world globe symbol",
+        "earth globe"
+      ]
+    }
+  }
+}

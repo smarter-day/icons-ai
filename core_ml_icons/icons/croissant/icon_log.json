@@ -1,0 +1,102 @@
+{
+  "icon": "croissant",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bakery",
+        "bread",
+        "breakfast",
+        "butter",
+        "crescent",
+        "croissant",
+        "dough",
+        "french",
+        "pastry",
+        "roll"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Visit the local bakery",
+        "Buy fresh pastries from the bakery",
+        "Buy a fresh loaf of bread",
+        "Bake bread at home",
+        "Make a light breakfast",
+        "Have a croissant for breakfast",
+        "Spread butter on the croissant",
+        "Butter the warm croissant",
+        "Shape the dough into a crescent",
+        "Crescent-shaped pastry for breakfast",
+        "Buy a fresh croissant",
+        "Warm up the croissant",
+        "Knead the dough for pastry",
+        "Let the dough rise overnight",
+        "Try French cuisine",
+        "Get a French pastry for breakfast",
+        "Buy pastries for the meeting",
+        "Make homemade pastry",
+        "Make a buttery bread roll",
+        "Serve warm rolls at dinner"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy croissants at the bakery",
+        "Make homemade croissants",
+        "Have a croissant with coffee",
+        "Try almond croissants",
+        "Pack a croissant for breakfast",
+        "Get a ham and cheese croissant",
+        "Order croissants for the office",
+        "Visit a French bakery",
+        "Make a croissant sandwich",
+        "Bake croissants for the weekend"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Croissant time",
+        "Fresh bakery run",
+        "French breakfast",
+        "Buttery croissant"
+      ]
+    },
+    "typo": {
+      "en": [
+        "buy a fresh corissant",
+        "croissent from the bakery",
+        "frech pastry breakfast",
+        "make homemade criossant"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Buy a fresh bagel",
+        "Get a baguette from the bakery",
+        "Make a blueberry muffin",
+        "Toast an English muffin",
+        "Buy a sourdough loaf",
+        "Make a cinnamon roll for breakfast"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Buy croissants at the bakery",
+        "Have a croissant with coffee",
+        "Make a croissant sandwich"
+      ]
+    },
+    "test": {
+      "en": [
+        "Order croissants for the office",
+        "Visit a French bakery",
+        "Pack a croissant for breakfast"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "icon": "forklift",
+  "rows": {
+    "train_en": 48,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "archive",
+        "inventory",
+        "lorry",
+        "maintenance",
+        "pallet",
+        "shipping",
+        "tractor",
+        "warehouse"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Archive old stock in the warehouse",
+        "Move archived items",
+        "Do a full inventory count",
+        "Update the inventory system",
+        "Drive the lorry to the warehouse",
+        "Load the lorry for delivery",
+        "Schedule forklift maintenance",
+        "Check forklift maintenance log",
+        "Load a pallet with boxes",
+        "Move the pallet to the dock",
+        "Arrange shipping from the warehouse",
+        "Track the shipping pallet",
+        "Use the tractor to move goods",
+        "Drive the warehouse tractor",
+        "Organize the warehouse floor",
+        "Manage warehouse operations"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Operate the forklift in the warehouse",
+        "Load pallets with the forklift",
+        "Move heavy goods with the forklift",
+        "Get forklift certification",
+        "Drive the forklift safely",
+        "Stack pallets in the warehouse",
+        "Unload the delivery truck with the forklift",
+        "Inspect the forklift before use",
+        "Use the forklift to stock shelves",
+        "Check forklift safety procedures"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Forklift time",
+        "Move that pallet",
+        "Warehouse work",
+        "Load the goods"
+      ]
+    },
+    "typo": {
+      "en": [
+        "oprate the forklfit",
+        "load pallets in warehuose",
+        "moov heavy goods",
+        "get foklift certfication"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Move boxes with a hand dolly",
+        "Use a conveyor belt to move goods",
+        "Push a pallet jack manually",
+        "Drive a delivery truck",
+        "Use a hand truck to carry boxes",
+        "Operate a crane at the construction site"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Operate the forklift in the warehouse",
+        "Load pallets with the forklift",
+        "Get forklift certification"
+      ]
+    },
+    "test": {
+      "en": [
+        "Move heavy goods with the forklift",
+        "Stack pallets in the warehouse",
+        "Inspect the forklift before use"
+      ]
+    }
+  }
+}

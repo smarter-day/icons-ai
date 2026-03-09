@@ -1,0 +1,168 @@
+{
+  "icon": "shuffle",
+  "rows": {
+    "train_en": 49,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "arrow",
+        "arrows",
+        "crossed",
+        "shuffle",
+        "shuffle tracks button",
+        "sort",
+        "swap",
+        "switch",
+        "transfer"
+      ],
+      "ru": [
+        "стрелка",
+        "стрелки",
+        "скрещенные",
+        "перемешать",
+        "кнопка перемешивания",
+        "сортировка",
+        "поменять",
+        "переключить",
+        "перенос"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "crossed arrows shuffle icon",
+        "arrow pair crossing to indicate shuffle",
+        "two arrows crossing for shuffle",
+        "arrows pointing in opposite direction",
+        "shuffle icon with crossed arrows",
+        "shuffle button in music player",
+        "shuffle tracks button in playlist",
+        "tap shuffle for random playback",
+        "sort items in random shuffle order",
+        "sort list randomly with shuffle",
+        "swap two items position",
+        "swap card order in deck",
+        "switch to shuffle mode for songs",
+        "switch order randomly",
+        "transfer items between lists shuffled",
+        "transfer between queues with shuffle"
+      ],
+      "ru": [
+        "иконка перемешивания со скрещенными стрелками",
+        "пара стрелок скрещена для обозначения перемешивания",
+        "две стрелки пересекаются для перемешивания",
+        "стрелки указывают в противоположных направлениях",
+        "иконка перемешивания со скрещенными стрелками",
+        "кнопка перемешивания в музыкальном плеере",
+        "кнопка перемешивания треков в плейлисте",
+        "нажать перемешать для случайного воспроизведения",
+        "упорядочить элементы в случайном порядке",
+        "случайная сортировка списка",
+        "поменять местами два элемента",
+        "поменять порядок карт в колоде",
+        "переключиться в режим перемешивания",
+        "переключить порядок случайно",
+        "перенести элементы между перемешанными списками",
+        "перенос между очередями с перемешиванием"
+      ]
+    },
+    "regular": {
+      "en": [
+        "shuffle button with two crossed arrows",
+        "music player shuffle mode activated",
+        "playlist in random shuffle order",
+        "shuffle deck of cards randomly",
+        "crossed arrows indicating random order",
+        "shuffle icon in Spotify or Apple Music",
+        "randomize list with shuffle function",
+        "shuffle algorithm mixing array elements",
+        "crossed arrows transfer swap icon",
+        "shuffle mode toggled on for music"
+      ],
+      "ru": [
+        "кнопка перемешивания с двумя скрещенными стрелками",
+        "режим перемешивания активирован в музыкальном плеере",
+        "плейлист в случайном порядке перемешивания",
+        "случайное тасование колоды карт",
+        "скрещенные стрелки обозначают случайный порядок",
+        "иконка перемешивания в Spotify или Apple Music",
+        "случайная перестановка списка функцией shuffle",
+        "алгоритм перемешивания элементов массива",
+        "иконка перекрёстной передачи",
+        "режим перемешивания включён для музыки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a shuffle icon for the music player",
+        "add a shuffle symbol to the playlist controls",
+        "show a shuffle button for the random playback feature",
+        "use the shuffle icon for the randomize option"
+      ],
+      "ru": [
+        "мне нужна иконка перемешивания для музыкального плеера",
+        "добавь символ перемешивания в управление плейлистом",
+        "покажи кнопку перемешивания для случайного воспроизведения",
+        "используй иконку перемешивания для функции случайного порядка"
+      ]
+    },
+    "typo": {
+      "en": [
+        "shuffel button with two crossed arrows",
+        "musci player shuffle mode activated",
+        "randomzie list with shuffle function",
+        "shuffel mode toggled on for music"
+      ],
+      "ru": [
+        "кнопка перемшевания со скрещенными стрелками",
+        "режим перемшевания в музыкальном плеере",
+        "случайная перестановка спсика",
+        "режим перемшевания включён для музыки"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "repeat button looping same track",
+        "next track arrow skipping forward",
+        "previous track arrow going back",
+        "random order dice for board game",
+        "sort ascending alphabetical order arrow",
+        "swap exchange two items positions"
+      ],
+      "ru": [
+        "кнопка повтора для зацикливания трека",
+        "стрелка следующего трека вперёд",
+        "стрелка предыдущего трека назад",
+        "кубик случайного порядка для настольной игры",
+        "сортировка по возрастанию в алфавитном порядке",
+        "обмен двух позиций элементов"
+      ]
+    },
+    "valid": {
+      "en": [
+        "shuffle crossed arrows for music player",
+        "random playback shuffle button",
+        "shuffle mode icon in playlist"
+      ],
+      "ru": [
+        "скрещенные стрелки перемешивания в плеере",
+        "кнопка случайного воспроизведения",
+        "иконка режима перемешивания"
+      ]
+    },
+    "test": {
+      "en": [
+        "shuffle button in music app",
+        "two crossed arrows shuffle icon",
+        "randomize playlist with shuffle"
+      ],
+      "ru": [
+        "кнопка перемешивания в музыкальном приложении",
+        "иконка двух скрещенных стрелок",
+        "случайный порядок плейлиста"
+      ]
+    }
+  }
+}

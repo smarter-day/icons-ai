@@ -1,0 +1,190 @@
+{
+  "icon": "cauldron",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "boil",
+        "bubble",
+        "cooking",
+        "halloween",
+        "holiday",
+        "magic",
+        "pot",
+        "sorcery",
+        "toil",
+        "trouble",
+        "witch",
+        "wizard"
+      ],
+      "ru": [
+        "кипение",
+        "пузыри",
+        "готовка",
+        "хэллоуин",
+        "праздник",
+        "магия",
+        "котёл",
+        "колдовство",
+        "труд",
+        "беда",
+        "ведьма",
+        "волшебник"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Boil ingredients in the cauldron",
+        "Bubble and brew the potion",
+        "Cooking over the cauldron tonight",
+        "Halloween cauldron decoration",
+        "Holiday witch cauldron prop",
+        "Magic potion brewing session",
+        "Big pot for the outdoor stew",
+        "Sorcery supplies for the costume",
+        "Toil and trouble recipe",
+        "Trouble brewing in the cauldron",
+        "Witch costume accessory — cauldron",
+        "Wizard potion crafting evening",
+        "Boil the water for the pasta tonight",
+        "Bubble bath soap display in the cauldron",
+        "Cooking class in the outdoor kitchen this weekend",
+        "Halloween cauldron candy bowl filled up",
+        "Holiday witch costume with cauldron prop",
+        "Magic show cauldron smoke effect planned",
+        "Big pot of soup for the church fundraiser",
+        "Sorcery-themed birthday party ideas",
+        "Toil and trouble party snack ideas",
+        "Trouble brewing — stir the cauldron prop",
+        "Witch cackle sound effect for the cauldron",
+        "Wizard stew recipe for the dinner table"
+      ],
+      "ru": [
+        "Кипятить ингредиенты в котле",
+        "Пузыри и варка зелья",
+        "Готовить в котле сегодня вечером",
+        "Декор котла на Хэллоуин",
+        "Реквизит котла ведьмы на праздник",
+        "Варка волшебного зелья",
+        "Большой котёл для тушёного блюда на улице",
+        "Принадлежности для колдовского костюма",
+        "Рецепт с трудом и бедой",
+        "Беда варится в котле",
+        "Атрибут костюма ведьмы — котёл",
+        "Вечер создания зелий волшебника",
+        "Вскипятить воду для пасты сегодня вечером",
+        "Пена для ванны в котле на витрине",
+        "Кулинарный класс на открытой кухне в выходные",
+        "Котёл с конфетами для Хэллоуина наполнен",
+        "Костюм ведьмы с котлом для праздника",
+        "Дымовой эффект с котлом для шоу иллюзий",
+        "Большой котёл супа для церковного сбора",
+        "Идеи для вечеринки в стиле колдовства",
+        "Снеки для вечеринки в стиле котла",
+        "Зелье бурлит — помешать котёл",
+        "Звуковой эффект смеха ведьмы у котла",
+        "Рецепт рагу волшебника для ужина"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Set up the Halloween cauldron outside",
+        "Brew a potion in the cauldron",
+        "Cauldron candy bowl for trick or treaters",
+        "Witch costume with cauldron prop",
+        "Bubbling cauldron effect for the party",
+        "Outdoor cauldron for the bonfire night",
+        "Cauldron smoke effect with dry ice",
+        "Stir the cauldron for the costume",
+        "Cauldron decoration for the front porch",
+        "D&D potion crafting with cauldron"
+      ],
+      "ru": [
+        "Установить котёл на Хэллоуин на улице",
+        "Варить зелье в котле",
+        "Котёл как миска с конфетами для трикетеров",
+        "Костюм ведьмы с котлом в качестве реквизита",
+        "Эффект кипящего котла для вечеринки",
+        "Уличный котёл для ночи костров",
+        "Эффект дыма из котла с сухим льдом",
+        "Помешать котёл для костюма",
+        "Украшение котлом крыльца",
+        "Создание зелий для D&D с котлом"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "love the bubbling cauldron at the party",
+        "double double toil and trouble",
+        "smoke machine in the cauldron looks epic",
+        "witch cauldron is the best prop"
+      ],
+      "ru": [
+        "обожаю бурлящий котёл на вечеринке",
+        "пузырись пузырись труд и беда",
+        "машина дыма в котле выглядит эпично",
+        "котёл ведьмы — лучший реквизит"
+      ]
+    },
+    "typo": {
+      "en": [
+        "haloween caudron decoration",
+        "witch cauldon prop for costume",
+        "bubblling caulderon at the party",
+        "magic potin brewing tonite"
+      ],
+      "ru": [
+        "украшение котлом на хелоуин",
+        "реквизит котла ведмы для костюма",
+        "бурлящий котел на вечеринке",
+        "варка магическго зелья сегодня"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Large soup pot on the stovetop",
+        "Pressure cooker for the stew",
+        "Pumpkin carving for Halloween",
+        "Witch hat decoration without cauldron",
+        "Fireworks at New Year",
+        "Campfire cooking over open flame"
+      ],
+      "ru": [
+        "Большая кастрюля для супа на плите",
+        "Скороварка для тушёного блюда",
+        "Резьба по тыкве на Хэллоуин",
+        "Украшение в виде шляпы ведьмы без котла",
+        "Фейерверк на Новый год",
+        "Приготовление еды на костре"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Halloween cauldron prop for the party",
+        "Bubbling potion cauldron decoration",
+        "Witch costume with cauldron this year"
+      ],
+      "ru": [
+        "Реквизит котла на Хэллоуин для вечеринки",
+        "Украшение в виде бурлящего котла с зельем",
+        "Костюм ведьмы с котлом в этом году"
+      ]
+    },
+    "test": {
+      "en": [
+        "Cauldron setup for Halloween",
+        "Brew a potion for the party",
+        "D&D wizard potion night"
+      ],
+      "ru": [
+        "Установить котёл на Хэллоуин",
+        "Сварить зелье для вечеринки",
+        "Вечер зелий волшебника для D&D"
+      ]
+    }
+  }
+}

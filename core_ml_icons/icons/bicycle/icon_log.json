@@ -1,0 +1,154 @@
+{
+  "icon": "bicycle",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bicycle",
+        "bike",
+        "gears",
+        "pedal",
+        "transportation",
+        "vehicle"
+      ],
+      "ru": [
+        "велосипед",
+        "байк",
+        "передачи",
+        "педали",
+        "транспорт",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "ride the bicycle to work",
+        "bike ride this weekend",
+        "fix the bike gears",
+        "pedal to the store",
+        "bike as daily transportation",
+        "register the vehicle",
+        "Bicycle tune-up at the shop",
+        "Bike helmet replacement needed",
+        "Adjust the gears before the long ride",
+        "Pedal faster on the uphill stretch",
+        "Eco-friendly transportation choice today",
+        "Vehicle storage arranged for the winter"
+      ],
+      "ru": [
+        "ехать на велосипеде на работу",
+        "поездка на байке в эти выходные",
+        "починить передачи велосипеда",
+        "педалировать до магазина",
+        "велосипед как ежедневный транспорт",
+        "зарегистрировать транспортное средство",
+        "Техосмотр велосипеда в мастерской",
+        "Нужна новая велосипедная каска",
+        "Настроить передачи перед длинной поездкой",
+        "Крутить педали быстрее в горку",
+        "Экологичный выбор транспорта на сегодня",
+        "Хранение транспортного средства на зиму"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Bike ride through the park",
+        "Cycle to work tomorrow",
+        "Fix the flat tire on the bike",
+        "Buy a new bicycle",
+        "Bike maintenance check",
+        "Register for the cycling race",
+        "Ride the bike to the coffee shop",
+        "Tune up the bike before summer",
+        "Rent a bike for the day",
+        "Evening bike ride with the family"
+      ],
+      "ru": [
+        "Велопрогулка через парк",
+        "Добираться до работы на велосипеде завтра",
+        "Починить спущенную шину на велосипеде",
+        "Купить новый велосипед",
+        "Техосмотр велосипеда",
+        "Записаться на велогонку",
+        "Доехать до кофейни на велосипеде",
+        "Настроить велосипед перед летом",
+        "Арендовать велосипед на день",
+        "Вечерняя велопрогулка с семьёй"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Let's go for a bike ride this weekend",
+        "I've been meaning to fix my bike for ages",
+        "Cycling to work sounds great today",
+        "We should do a family bike ride"
+      ],
+      "ru": [
+        "Давай съездим на велосипедах в эти выходные",
+        "Уже давно хочу починить свой велосипед",
+        "Сегодня хорошая погода — можно на велосипеде на работу",
+        "Устроим семейную велопрогулку"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Bycicle ride to work",
+        "Fix the biek gears",
+        "Bike maintnance chek",
+        "Rent a bycycle for the day"
+      ],
+      "ru": [
+        "Езда на велесипеде на работу",
+        "Почнить передачи вилесипеда",
+        "Техосмтор велосипеда",
+        "Арендовать велесипед на день"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Walk to the store",
+        "Scooter ride downtown",
+        "Skateboard session at the park",
+        "Bus commute to work",
+        "Jog through the neighborhood",
+        "Motorcycle service appointment"
+      ],
+      "ru": [
+        "Пойти пешком до магазина",
+        "Поездка на самокате в центр",
+        "Скейтборд в парке",
+        "Добираться на автобусе на работу",
+        "Пробежка по кварталу",
+        "Запись на техосмотр мотоцикла"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Morning bike ride before work",
+        "Fix the bicycle chain",
+        "Cycle to the farmers market"
+      ],
+      "ru": [
+        "Утренняя велопрогулка до работы",
+        "Починить цепь велосипеда",
+        "Поехать на велосипеде на фермерский рынок"
+      ]
+    },
+    "test": {
+      "en": [
+        "Rent a bike for the afternoon",
+        "Bike tune-up before the weekend",
+        "Cycling route through the park"
+      ],
+      "ru": [
+        "Арендовать велосипед на вечер",
+        "Настройка велосипеда перед выходными",
+        "Велосипедный маршрут через парк"
+      ]
+    }
+  }
+}

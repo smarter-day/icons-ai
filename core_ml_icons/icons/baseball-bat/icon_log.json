@@ -1,0 +1,90 @@
+{
+  "icon": "baseball-bat",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bat",
+        "league",
+        "mlb",
+        "slugger",
+        "softball",
+        "sport"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "wooden baseball bat in the dugout",
+        "aluminum bat for little league",
+        "little league baseball game",
+        "major league baseball season",
+        "MLB World Series playoff",
+        "MLB team roster update",
+        "home run slugger at the plate",
+        "slugger swinging hard at the pitch",
+        "softball bat for the weekend game",
+        "softball team practice with bats",
+        "sport equipment including baseball bat",
+        "bat as sport equipment"
+      ]
+    },
+    "regular": {
+      "en": [
+        "wooden baseball bat leaning on the dugout wall",
+        "batter holding the bat at home plate",
+        "aluminum little league bat in the equipment bag",
+        "baseball bat and ball ready for the game",
+        "player swinging the bat at a fastball",
+        "bat cracking against the baseball with a loud pop",
+        "MLB slugger warming up in the on-deck circle",
+        "bat signed by the home run champion",
+        "softball game played with aluminum bats",
+        "children practicing batting at the park"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a baseball bat icon for my sports app",
+        "add a bat symbol to the baseball stats section",
+        "show a bat icon for the slugger leaderboard",
+        "use the baseball bat for the sports equipment category"
+      ]
+    },
+    "typo": {
+      "en": [
+        "basball bat at home plate",
+        "sluger swinging at the pitch",
+        "softbal bat for the game",
+        "basebal leageu season"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "flat cricket bat used in the wicket game",
+        "hockey stick gliding across the ice",
+        "golf club hitting the ball on the fairway",
+        "tennis racket swinging at the serve",
+        "pool cue resting on the billiard table",
+        "badminton racket for the backyard game"
+      ]
+    },
+    "valid": {
+      "en": [
+        "wooden baseball bat for the game",
+        "MLB slugger at the plate",
+        "softball bat in the bag"
+      ]
+    },
+    "test": {
+      "en": [
+        "baseball bat icon",
+        "slugger bat symbol",
+        "bat for sport"
+      ]
+    }
+  }
+}

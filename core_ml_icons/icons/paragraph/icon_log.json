@@ -1,0 +1,148 @@
+{
+  "icon": "paragraph",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "Pilcrow Sign",
+        "edit",
+        "format",
+        "text",
+        "writing"
+      ],
+      "ru": [
+        "Знак абзаца",
+        "редактировать",
+        "форматирование",
+        "текст",
+        "письмо"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "pilcrow sign paragraph mark",
+        "pilcrow used in typography",
+        "edit paragraph in text editor",
+        "edit block of text",
+        "format paragraph spacing",
+        "text format paragraph style",
+        "text paragraph block writing",
+        "body text paragraph",
+        "writing a paragraph structure",
+        "writing formatted paragraph"
+      ],
+      "ru": [
+        "знак абзаца пилкроу",
+        "пилкроу используемый в типографике",
+        "редактировать абзац в текстовом редакторе",
+        "редактировать блок текста",
+        "форматирование отступа абзаца",
+        "стиль форматирования абзаца текста",
+        "блок написания текстового абзаца",
+        "основной текст абзаца",
+        "написание структуры абзаца",
+        "написание отформатированного абзаца"
+      ]
+    },
+    "regular": {
+      "en": [
+        "paragraph mark symbol in word processor",
+        "pilcrow symbol for editing text",
+        "show hidden formatting marks in document",
+        "paragraph indentation formatting",
+        "text block with paragraph break",
+        "word processor paragraph style setting",
+        "editorial proofreading pilcrow mark",
+        "reveal formatting with paragraph symbol",
+        "body text paragraph in document",
+        "align and format paragraph text"
+      ],
+      "ru": [
+        "символ абзаца в текстовом процессоре",
+        "символ пилкроу для редактирования текста",
+        "показать скрытые знаки форматирования в документе",
+        "форматирование отступа абзаца",
+        "текстовый блок с разрывом абзаца",
+        "настройка стиля абзаца в текстовом процессоре",
+        "редакторский знак коррекции пилкроу",
+        "показать форматирование с символом абзаца",
+        "основной текст абзаца в документе",
+        "выровнять и отформатировать текст абзаца"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a paragraph icon for the text editor",
+        "add a pilcrow symbol to the format toolbar",
+        "show a paragraph mark for the writing section",
+        "use the paragraph icon for the text formatting feature"
+      ],
+      "ru": [
+        "Мне нужна иконка абзаца для текстового редактора",
+        "добавить символ пилкроу на панель форматирования",
+        "показать знак абзаца для раздела письма",
+        "использовать иконку абзаца для функции форматирования текста"
+      ]
+    },
+    "typo": {
+      "en": [
+        "paragrph text",
+        "pilcorw sign",
+        "formatt text",
+        "editin paragraph"
+      ],
+      "ru": [
+        "абзца текст",
+        "знак пиклров",
+        "формативорание текст",
+        "редакторвание абзаца"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "heading H1 large title text",
+        "bullet list unordered items",
+        "numbered ordered list",
+        "text alignment left right center",
+        "font style bold italic underline",
+        "line spacing between text rows"
+      ],
+      "ru": [
+        "заголовок H1 крупный текст",
+        "маркированный список неупорядоченных пунктов",
+        "нумерованный упорядоченный список",
+        "выравнивание текста влево вправо по центру",
+        "стиль шрифта жирный курсив подчёркнутый",
+        "межстрочный интервал между строками"
+      ]
+    },
+    "valid": {
+      "en": [
+        "paragraph mark for text editing",
+        "pilcrow symbol in document",
+        "format paragraph icon"
+      ],
+      "ru": [
+        "знак абзаца для редактирования текста",
+        "символ пилкроу в документе",
+        "иконка форматирования абзаца"
+      ]
+    },
+    "test": {
+      "en": [
+        "paragraph icon",
+        "text format pilcrow",
+        "edit paragraph symbol"
+      ],
+      "ru": [
+        "иконка абзаца",
+        "формат текста пилкроу",
+        "символ редактирования абзаца"
+      ]
+    }
+  }
+}

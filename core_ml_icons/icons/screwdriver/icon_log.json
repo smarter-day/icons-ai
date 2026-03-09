@@ -1,0 +1,190 @@
+{
+  "icon": "screwdriver",
+  "rows": {
+    "train_en": 60,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "admin",
+        "configuration",
+        "equipment",
+        "fix",
+        "maintenance",
+        "mechanic",
+        "modify",
+        "repair",
+        "screw",
+        "screwdriver",
+        "settings",
+        "tool"
+      ],
+      "ru": [
+        "администрирование",
+        "конфигурация",
+        "оборудование",
+        "исправить",
+        "техобслуживание",
+        "механик",
+        "изменить",
+        "ремонт",
+        "винт",
+        "отвёртка",
+        "настройки",
+        "инструмент"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "admin panel opened with screwdriver icon",
+        "admin tools for system configuration",
+        "configuration settings accessed by screwdriver",
+        "configuration tool icon in app",
+        "screwdriver equipment in toolbox",
+        "repair equipment including screwdriver",
+        "fix loose screw with screwdriver",
+        "fix broken appliance with repair tools",
+        "maintenance schedule including screwdriver work",
+        "regular maintenance using screwdriver",
+        "mechanic using screwdriver on engine",
+        "mechanic toolkit with screwdriver",
+        "modify component by unscrewing it",
+        "modify device settings using tool icon",
+        "repair furniture with Phillips screwdriver",
+        "repair electronic device with screwdriver",
+        "screw tightened with manual screwdriver",
+        "screw loosened for disassembly",
+        "flathead screwdriver for slotted screws",
+        "electric screwdriver for quick assembly",
+        "settings icon represented as screwdriver",
+        "gear and screwdriver settings icon",
+        "tool for assembling flat-pack furniture",
+        "general purpose tool for repairs"
+      ],
+      "ru": [
+        "панель администратора с иконкой отвёртки",
+        "инструменты администратора для конфигурации",
+        "настройки конфигурации через иконку отвёртки",
+        "иконка инструмента настройки в приложении",
+        "отвёртка в инструментальном ящике",
+        "инструменты для ремонта включая отвёртку",
+        "исправить слабый винт отвёрткой",
+        "исправить неисправный прибор инструментами",
+        "план техобслуживания включает работу с отвёрткой",
+        "регулярное обслуживание отвёрткой",
+        "механик использует отвёртку на двигателе",
+        "инструментарий механика с отвёрткой",
+        "изменить компонент откручивая его",
+        "изменить настройки устройства через иконку",
+        "отремонтировать мебель крестовой отвёрткой",
+        "ремонт электронного устройства отвёрткой",
+        "винт затянут ручной отвёрткой",
+        "винт откручен для разборки",
+        "плоская отвёртка для прямых шлицевых винтов",
+        "электрическая отвёртка для быстрой сборки",
+        "иконка настроек в виде отвёртки",
+        "иконка настроек шестерёнка и отвёртка",
+        "инструмент для сборки мебели с плоской упаковкой",
+        "универсальный инструмент для ремонта"
+      ]
+    },
+    "regular": {
+      "en": [
+        "flathead screwdriver for slotted screws",
+        "Phillips cross-head screwdriver in toolbox",
+        "electric drill driver replacing manual screwdriver",
+        "screwdriver icon representing settings in app",
+        "mechanic using screwdriver on car interior",
+        "jeweler screwdriver for tiny electronics screws",
+        "screwdriver assembling IKEA flat-pack furniture",
+        "magnetic tip screwdriver holding screw in place",
+        "torx screwdriver for tamper-resistant screws",
+        "screwdriver removing battery cover on device"
+      ],
+      "ru": [
+        "плоская отвёртка для прямых шлицевых винтов",
+        "крестовая отвёртка Phillips в инструментальном ящике",
+        "электрошуруповёрт заменяет ручную отвёртку",
+        "иконка отвёртки как символ настроек в приложении",
+        "механик работает отвёрткой в салоне авто",
+        "ювелирная отвёртка для крошечных винтов электроники",
+        "отвёртка для сборки мебели IKEA",
+        "магнитная отвёртка удерживает винт",
+        "отвёртка Torx для винтов с защитой от вскрытия",
+        "отвёртка снимает крышку батарейного отсека"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a screwdriver icon for the settings screen",
+        "add a screwdriver symbol to the admin tools section",
+        "show a screwdriver for the maintenance feature",
+        "use the screwdriver icon for the configuration panel"
+      ],
+      "ru": [
+        "мне нужна иконка отвёртки для экрана настроек",
+        "добавь символ отвёртки в раздел инструментов администратора",
+        "покажи отвёртку для функции техобслуживания",
+        "используй иконку отвёртки для панели конфигурации"
+      ]
+    },
+    "typo": {
+      "en": [
+        "flatehad screwdriver for slotted screws",
+        "Phlilips cross-head screwdriver",
+        "mechanic usign screwdriver on car",
+        "scerwdriver icon for settings in app"
+      ],
+      "ru": [
+        "плоская отвёртак для шлицевых винтов",
+        "крестовая отвётрка Phillips",
+        "механик исопльзует отвёртку в авто",
+        "иконка отвётрки как настройки"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "wrench tightening nut on pipe fitting",
+        "hammer striking nail into wood",
+        "drill making hole in wall",
+        "pliers gripping wire for bending",
+        "utility knife cutting cardboard box",
+        "level tool checking horizontal surface"
+      ],
+      "ru": [
+        "гаечный ключ затягивает гайку на трубе",
+        "молоток забивает гвоздь в дерево",
+        "дрель делает отверстие в стене",
+        "плоскогубцы сгибают проволоку",
+        "канцелярский нож режет картонную коробку",
+        "уровень проверяет горизонтальную поверхность"
+      ]
+    },
+    "valid": {
+      "en": [
+        "screwdriver icon for settings panel",
+        "flathead screwdriver for repair work",
+        "screwdriver in toolbox for maintenance"
+      ],
+      "ru": [
+        "иконка отвёртки для панели настроек",
+        "плоская отвёртка для ремонтных работ",
+        "отвёртка в инструментальном ящике"
+      ]
+    },
+    "test": {
+      "en": [
+        "Phillips screwdriver for assembly",
+        "settings icon with screwdriver",
+        "mechanic screwdriver repair tool"
+      ],
+      "ru": [
+        "крестовая отвёртка для сборки",
+        "иконка настроек с отвёрткой",
+        "инструмент для ремонта отвёртка"
+      ]
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "icon": "puzzle",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "add-on",
+        "addon",
+        "clue",
+        "game",
+        "interlocking",
+        "jigsaw",
+        "piece",
+        "puzzle",
+        "puzzle piece",
+        "section"
+      ],
+      "ru": [
+        "дополнение",
+        "аддон",
+        "подсказка",
+        "игра",
+        "стыкующийся",
+        "пазл",
+        "деталь",
+        "головоломка",
+        "деталь пазла",
+        "секция"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "browser add-on for extending functionality",
+        "software add-on plugin",
+        "addon component for custom features",
+        "addon installed in the application",
+        "clue to solving the puzzle",
+        "missing clue piece in a mystery game",
+        "strategy game with puzzle mechanics",
+        "board game puzzle challenge",
+        "interlocking puzzle pieces fitting together",
+        "interlocking sections of a jigsaw",
+        "classic jigsaw puzzle spread on table",
+        "jigsaw pieces sorted by color",
+        "missing piece of the jigsaw puzzle",
+        "last piece placed in puzzle",
+        "puzzle challenge to solve on rainy day",
+        "puzzle icon representing modularity",
+        "puzzle piece shaped browser extension icon",
+        "puzzle piece fitting into slot",
+        "section of a larger puzzle image",
+        "highlighted section in a complex puzzle"
+      ],
+      "ru": [
+        "расширение браузера для дополнительных функций",
+        "программный плагин-дополнение",
+        "компонент-аддон для пользовательских функций",
+        "аддон, установленный в приложении",
+        "подсказка для решения головоломки",
+        "недостающая подсказка в детективной игре",
+        "стратегическая игра с механикой головоломки",
+        "настольная игра-головоломка",
+        "стыкующиеся детали пазла",
+        "стыкующиеся секции пазла",
+        "классический пазл разложен на столе",
+        "детали пазла отсортированы по цвету",
+        "недостающая деталь пазла",
+        "последняя деталь пазла на месте",
+        "головоломка для дождливого дня",
+        "иконка головоломки символизирует модульность",
+        "расширение браузера в форме детали пазла",
+        "деталь пазла, вставляемая в слот",
+        "секция большой картинки пазла",
+        "выделенная секция сложного пазла"
+      ]
+    },
+    "regular": {
+      "en": [
+        "classic cardboard jigsaw puzzle with interlocking pieces",
+        "missing puzzle piece that completes the picture",
+        "browser extension icon shaped like a puzzle piece",
+        "colorful puzzle spread across the dining table",
+        "500-piece puzzle of a landscape scene",
+        "puzzle metaphor for problem solving and logic",
+        "plugin or add-on represented as a puzzle piece",
+        "interlocking tabs and blanks of jigsaw pieces",
+        "child playing with large foam puzzle floor mat",
+        "3D puzzle cube challenge on a desk"
+      ],
+      "ru": [
+        "классический картонный пазл со стыкующимися деталями",
+        "недостающая деталь, завершающая картинку пазла",
+        "иконка расширения браузера в форме детали пазла",
+        "красочный пазл на обеденном столе",
+        "пазл из 500 деталей с пейзажем",
+        "метафора головоломки для решения задач и логики",
+        "плагин или аддон в виде детали пазла",
+        "выступы и пазы деталей пазла",
+        "ребёнок играет с большим пенным ковриком-пазлом",
+        "3D кубик-головоломка на столе"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a puzzle icon for my extension management screen",
+        "add a jigsaw piece symbol to the plugins section",
+        "show a puzzle piece for the add-ons feature",
+        "use the puzzle icon for the modular components area"
+      ],
+      "ru": [
+        "мне нужна иконка пазла для экрана управления расширениями",
+        "добавь символ детали пазла в раздел плагинов",
+        "покажи деталь пазла для функции дополнений",
+        "используй иконку пазла для области модульных компонентов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "jigsaw puzle spread on table",
+        "missing peice of the puzzle",
+        "brwoser extension puzzle icon",
+        "interlcoking puzzle pieces"
+      ],
+      "ru": [
+        "пазл раложен на столе",
+        "недостающая делать пазла",
+        "иконка раcширения браузера пазл",
+        "стыкуюшиеся детали пазла"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "chess board with black and white squares",
+        "dice showing six dots on a game board",
+        "rubik's cube colorful 3x3 grid toy",
+        "crossword puzzle grid with black squares",
+        "maze with winding paths to find exit",
+        "playing cards dealt face up on table"
+      ],
+      "ru": [
+        "шахматная доска с чёрными и белыми клетками",
+        "кубик с шестью точками на игровом поле",
+        "кубик рубика красочная игрушка 3x3",
+        "кроссворд с сеткой и чёрными клетками",
+        "лабиринт с извилистыми путями",
+        "игральные карты, раздаваемые на стол"
+      ]
+    },
+    "valid": {
+      "en": [
+        "jigsaw puzzle piece fitting into place",
+        "browser add-on represented as a puzzle piece",
+        "interlocking puzzle pieces on a table"
+      ],
+      "ru": [
+        "деталь пазла встаёт на место",
+        "расширение браузера в виде детали пазла",
+        "стыкующиеся детали пазла на столе"
+      ]
+    },
+    "test": {
+      "en": [
+        "classic jigsaw puzzle spread out",
+        "puzzle piece icon for plugin or extension",
+        "missing piece completing the jigsaw"
+      ],
+      "ru": [
+        "классический пазл разложен на столе",
+        "иконка детали пазла для плагина или расширения",
+        "недостающая деталь завершает пазл"
+      ]
+    }
+  }
+}

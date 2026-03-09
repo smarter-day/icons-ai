@@ -1,0 +1,184 @@
+{
+  "icon": "receipt",
+  "rows": {
+    "train_en": 57,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "accounting",
+        "bookkeeping",
+        "check",
+        "coupon",
+        "evidence",
+        "invoice",
+        "money",
+        "pay",
+        "proof",
+        "receipt",
+        "table"
+      ],
+      "ru": [
+        "бухгалтерия",
+        "учёт",
+        "чек",
+        "купон",
+        "доказательство",
+        "счёт-фактура",
+        "деньги",
+        "оплата",
+        "подтверждение",
+        "квитанция",
+        "таблица"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "accounting ledger with receipt records",
+        "accounting document for expense tracking",
+        "bookkeeping entries on receipt",
+        "bookkeeping record of transactions",
+        "check total at restaurant table",
+        "check please at end of meal",
+        "discount coupon attached to receipt",
+        "coupon code printed on receipt",
+        "evidence of purchase on paper receipt",
+        "receipt as legal evidence of transaction",
+        "invoice receipt for business expense",
+        "invoice total on printed receipt",
+        "money spent listed on receipt",
+        "money transaction confirmed by receipt",
+        "pay at checkout and receive receipt",
+        "pay and get a paper receipt",
+        "proof of purchase on store receipt",
+        "proof of payment for warranty claim",
+        "paper receipt with itemized list",
+        "receipt from grocery store checkout",
+        "table of items on receipt",
+        "receipt table of purchases"
+      ],
+      "ru": [
+        "бухгалтерская книга с записями чеков",
+        "бухгалтерский документ для учёта расходов",
+        "бухгалтерские записи на квитанции",
+        "запись транзакций для учёта",
+        "счёт к оплате за столиком ресторана",
+        "попросить счёт в конце ужина",
+        "скидочный купон прикреплён к чеку",
+        "код купона напечатан на квитанции",
+        "доказательство покупки на бумажном чеке",
+        "квитанция как юридическое доказательство сделки",
+        "счёт-фактура для деловых расходов",
+        "итоговая сумма на распечатанном счёте",
+        "потраченные деньги в перечне на чеке",
+        "денежная транзакция подтверждена квитанцией",
+        "оплата на кассе и получение чека",
+        "оплатить и получить бумажный чек",
+        "подтверждение покупки на магазинном чеке",
+        "подтверждение оплаты для гарантийной претензии",
+        "бумажный чек с детальным перечнем",
+        "квитанция с кассы магазина",
+        "таблица товаров на квитанции",
+        "таблица покупок на чеке"
+      ]
+    },
+    "regular": {
+      "en": [
+        "paper receipt with itemized list of purchases",
+        "long grocery store receipt with multiple items",
+        "digital receipt emailed after online purchase",
+        "restaurant check with subtotal and tip line",
+        "thermal printed receipt from POS terminal",
+        "receipt showing date time and total amount",
+        "expense receipt for business reimbursement",
+        "tax invoice receipt for VAT purposes",
+        "receipt curling up after printing from register",
+        "return policy printed at bottom of receipt"
+      ],
+      "ru": [
+        "бумажный чек с детальным перечнем покупок",
+        "длинный чек из продуктового магазина",
+        "электронный чек отправлен после онлайн-покупки",
+        "счёт ресторана с промежуточным итогом и строкой чаевых",
+        "термочек с кассового POS-терминала",
+        "чек с датой, временем и итоговой суммой",
+        "квитанция о расходах для возмещения",
+        "счёт-фактура для целей НДС",
+        "чек скручивается после печати на кассе",
+        "политика возврата напечатана внизу чека"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a receipt icon for the expense tracking screen",
+        "add an invoice symbol to the payments section",
+        "show a receipt for the proof of purchase feature",
+        "use the receipt icon for the accounting dashboard"
+      ],
+      "ru": [
+        "мне нужна иконка квитанции для экрана учёта расходов",
+        "добавь символ счёта-фактуры в раздел платежей",
+        "покажи квитанцию для функции подтверждения покупки",
+        "используй иконку чека для панели бухгалтерии"
+      ]
+    },
+    "typo": {
+      "en": [
+        "paeper receipt with itemized list",
+        "restautant check with tip line",
+        "receit from grocery store checkout",
+        "invocie total on printed receipt"
+      ],
+      "ru": [
+        "бумажный чкек с перечнем покупок",
+        "счёт ресторна со строкой чаевых",
+        "квитация с кассы магазина",
+        "итоговая сума на распечатанном счёте"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "credit card statement with monthly transactions",
+        "bank check written for bill payment",
+        "spreadsheet with expense categories and totals",
+        "cash register displaying sale amount",
+        "barcode on product packaging for scanning",
+        "tax return form with income fields"
+      ],
+      "ru": [
+        "выписка кредитной карты с ежемесячными транзакциями",
+        "банковский чек для оплаты счёта",
+        "таблица с категориями расходов и итогами",
+        "кассовый аппарат показывает сумму продажи",
+        "штрихкод на упаковке товара для сканирования",
+        "налоговая декларация с полями дохода"
+      ]
+    },
+    "valid": {
+      "en": [
+        "paper receipt from store checkout",
+        "itemized receipt for expense report",
+        "proof of purchase on printed receipt"
+      ],
+      "ru": [
+        "бумажный чек с кассы магазина",
+        "чек с перечнем для отчёта о расходах",
+        "подтверждение покупки на чеке"
+      ]
+    },
+    "test": {
+      "en": [
+        "grocery receipt with items and total",
+        "restaurant check with tip line",
+        "digital receipt for online purchase"
+      ],
+      "ru": [
+        "чек из магазина с товарами и суммой",
+        "счёт ресторана со строкой чаевых",
+        "электронный чек за онлайн-покупку"
+      ]
+    }
+  }
+}

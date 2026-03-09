@@ -1,0 +1,178 @@
+{
+  "icon": "broom-wide",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "broom",
+        "brush",
+        "clean",
+        "clear",
+        "delete",
+        "dust",
+        "erase",
+        "remove",
+        "sweep",
+        "witch"
+      ],
+      "ru": [
+        "метла",
+        "щётка",
+        "чистый",
+        "очистить",
+        "удалить",
+        "пыль",
+        "стереть",
+        "убрать",
+        "подметать",
+        "ведьма"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "wide broom for the garage",
+        "dust brush for the shelves",
+        "clean the whole area",
+        "clear out the clutter",
+        "delete old files",
+        "dust the furniture",
+        "erase the whiteboard",
+        "remove the dirt from the floor",
+        "sweep the wide area",
+        "wide broom witch costume",
+        "Wide broom for the patio area",
+        "Scrub brush for the outdoor tiles",
+        "Clean the driveway with the push broom",
+        "Clear the desk before the meeting",
+        "Delete duplicate files on the hard drive",
+        "Dust the ceiling fans this weekend",
+        "Erase the notes from the whiteboard",
+        "Remove the old paint from the wall",
+        "Sweep the gym floor after practice",
+        "Witch broom decoration for the front porch"
+      ],
+      "ru": [
+        "широкая метла для гаража",
+        "щётка для пыли на полках",
+        "убрать всю площадь",
+        "очистить от беспорядка",
+        "удалить старые файлы",
+        "вытереть пыль с мебели",
+        "стереть с доски",
+        "убрать грязь с пола",
+        "подмести широкую площадь",
+        "широкая метла для костюма ведьмы",
+        "Широкая метла для зоны патио",
+        "Щётка-скраб для уличной плитки",
+        "Почистить подъездную дорожку толчковой метлой",
+        "Убрать стол перед встречей",
+        "Удалить дубликаты файлов на жёстком диске",
+        "Протереть потолочные вентиляторы в выходные",
+        "Стереть заметки с белой доски",
+        "Убрать старую краску со стены",
+        "Подмести пол в зале после тренировки",
+        "Украшение в виде ведьминой метлы на крыльцо"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Sweep the garage floor",
+        "Clean the driveway with a wide broom",
+        "Clear out the storage area",
+        "Delete old files from the computer",
+        "Dust the entire room",
+        "Erase the meeting notes from the whiteboard",
+        "Remove cobwebs from the ceiling",
+        "Sweep the patio",
+        "Clear the desk of clutter",
+        "Wide sweep of the warehouse floor"
+      ],
+      "ru": [
+        "Подмести пол в гараже",
+        "Убрать подъездную дорожку широкой метлой",
+        "Расчистить место для хранения",
+        "Удалить старые файлы с компьютера",
+        "Вытереть пыль во всей комнате",
+        "Стереть заметки с доски после встречи",
+        "Убрать паутину с потолка",
+        "Подмести патио",
+        "Убрать беспорядок с рабочего стола",
+        "Подметание широкой площади склада"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Need to clear this whole area out",
+        "The garage needs a proper sweep",
+        "Let's just wipe the board clean",
+        "Time to clear all the junk out"
+      ],
+      "ru": [
+        "Нужно расчистить всю эту площадь",
+        "В гараже нужно как следует подмести",
+        "Давайте просто сотрём доску",
+        "Пора убрать весь этот хлам"
+      ]
+    },
+    "typo": {
+      "en": [
+        "Swep the gaage flor",
+        "Clen the drivwey with a wide broom",
+        "Cler out the storge area",
+        "Delet old fils from the computr"
+      ],
+      "ru": [
+        "Падмести гарааж",
+        "Убарть подъездную дорожку широкой метлой",
+        "Растчистить место для хранения",
+        "Удалть старые файлы с компьютра"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Sweep with a narrow broom",
+        "Mop the floor",
+        "Delete files from the phone",
+        "Vacuum the carpet",
+        "Wipe down the counters",
+        "Clear notifications"
+      ],
+      "ru": [
+        "Подмести узкой метлой",
+        "Помыть пол шваброй",
+        "Удалить файлы с телефона",
+        "Пропылесосить ковёр",
+        "Протереть столешницы",
+        "Очистить уведомления"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Wide sweep of the garage floor",
+        "Clear out and clean the storage area",
+        "Dust and sweep the whole room"
+      ],
+      "ru": [
+        "Широкое подметание пола в гараже",
+        "Расчистить и убрать место для хранения",
+        "Вытереть пыль и подмести всю комнату"
+      ]
+    },
+    "test": {
+      "en": [
+        "Sweep the driveway with the wide broom",
+        "Clear the clutter from the desk",
+        "Clean the patio area"
+      ],
+      "ru": [
+        "Подмести подъездную дорожку широкой метлой",
+        "Убрать беспорядок с рабочего стола",
+        "Убрать на патио"
+      ]
+    }
+  }
+}

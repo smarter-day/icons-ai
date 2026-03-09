@@ -1,0 +1,154 @@
+{
+  "icon": "paperclip",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "attach",
+        "attachment",
+        "connect",
+        "link",
+        "papercli",
+        "paperclip"
+      ],
+      "ru": [
+        "прикрепить",
+        "вложение",
+        "соединить",
+        "ссылка",
+        "скрепка",
+        "скрепка"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "attach file to email",
+        "attach document to message",
+        "email attachment icon",
+        "file attachment symbol",
+        "connect documents with clip",
+        "connect pages with a clip",
+        "link to external file",
+        "link two items together",
+        "paperclip holding papers",
+        "metal paperclip on documents",
+        "paperclip icon for attaching",
+        "classic paperclip shape"
+      ],
+      "ru": [
+        "прикрепить файл к email",
+        "прикрепить документ к сообщению",
+        "иконка вложения email",
+        "символ вложения файла",
+        "соединить документы скрепкой",
+        "соединить страницы зажимом",
+        "ссылка на внешний файл",
+        "связать два элемента вместе",
+        "скрепка удерживающая бумаги",
+        "металлическая скрепка на документах",
+        "иконка скрепки для прикрепления",
+        "классическая форма скрепки"
+      ]
+    },
+    "regular": {
+      "en": [
+        "metal paperclip for holding pages together",
+        "email attachment paperclip icon",
+        "clip to connect two documents",
+        "paperclip symbol in messaging apps",
+        "office supply bent wire clip",
+        "attach a photo or file using clip",
+        "document attached with small clip",
+        "link files using paperclip action",
+        "paper clip icon in document editor",
+        "Clippy the Microsoft paperclip assistant"
+      ],
+      "ru": [
+        "металлическая скрепка для скрепления страниц",
+        "иконка скрепки для вложения email",
+        "зажим для соединения двух документов",
+        "символ скрепки в приложениях для сообщений",
+        "канцелярская принадлежность изогнутая проволока",
+        "прикрепить фото или файл скрепкой",
+        "документ прикреплённый маленьким зажимом",
+        "связать файлы действием скрепки",
+        "иконка скрепки в редакторе документов",
+        "Clippy помощник Microsoft в виде скрепки"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a paperclip icon for the attachment feature",
+        "add a clip symbol to the file upload section",
+        "show a paperclip for the connect or link action",
+        "use the paperclip icon for the attach file button"
+      ],
+      "ru": [
+        "Мне нужна иконка скрепки для функции вложения",
+        "добавить символ зажима в раздел загрузки файла",
+        "показать скрепку для действия соединения или ссылки",
+        "использовать иконку скрепки для кнопки прикрепления файла"
+      ]
+    },
+    "typo": {
+      "en": [
+        "papercliip attach",
+        "atach file clip",
+        "attachemnt icon",
+        "papercilp link"
+      ],
+      "ru": [
+        "скрепак прикрепить",
+        "вложени файл",
+        "скрепка присоединть",
+        "скрпека ссылка"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "staple for binding pages permanently",
+        "binder clip bulldog clip for thick stack",
+        "bookmark for saving page position",
+        "chain link for URL linking",
+        "pin for bulletin board",
+        "rubber band for holding bundle"
+      ],
+      "ru": [
+        "скоба для постоянного скрепления страниц",
+        "биндерный зажим для толстой стопки",
+        "закладка для сохранения позиции страницы",
+        "звено цепи для URL ссылки",
+        "кнопка для доски объявлений",
+        "резинка для скрепления пачки"
+      ]
+    },
+    "valid": {
+      "en": [
+        "paperclip for file attachment",
+        "metal clip to attach documents",
+        "email attachment paperclip icon"
+      ],
+      "ru": [
+        "скрепка для прикрепления файла",
+        "металлическая скрепка для документов",
+        "иконка скрепки вложения email"
+      ]
+    },
+    "test": {
+      "en": [
+        "paperclip icon",
+        "attach file with clip",
+        "connect documents paperclip"
+      ],
+      "ru": [
+        "иконка скрепки",
+        "прикрепить файл зажимом",
+        "соединить документы скрепкой"
+      ]
+    }
+  }
+}

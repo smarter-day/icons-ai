@@ -1,0 +1,84 @@
+{
+  "icon": "candy",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "candy",
+        "sugar",
+        "sweet",
+        "wrapper"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "wrapped hard candy on the table",
+        "candy in a colorful foil wrapper",
+        "sugar candy in a glass jar",
+        "sugar-coated hard candy pieces",
+        "sweet candy treat for kids",
+        "sweet tooth satisfied by candy",
+        "candy wrapper with twisted ends",
+        "foil wrapper around the candy"
+      ]
+    },
+    "regular": {
+      "en": [
+        "colorful hard candy in a twisted wrapper",
+        "candy in a glass jar on the counter",
+        "wrapped piece of candy for the holidays",
+        "sugar candy with a striped pattern",
+        "trick-or-treat candy in a bowl",
+        "old-fashioned candy store display",
+        "candy cane with red and white stripes",
+        "individually wrapped candy pieces",
+        "candy dish at the reception desk",
+        "sweet hard candy with a fruit flavor"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a candy icon for the sweets category",
+        "add a candy symbol to the treats section",
+        "show a candy for the Halloween feature",
+        "use the wrapped candy icon for the confectionery page"
+      ]
+    },
+    "typo": {
+      "en": [
+        "canyd wrapper twisted",
+        "suagr candy in jar",
+        "swet candy treat for kids",
+        "wraaper on the candy"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "round lollipop on a white stick",
+        "chocolate chip cookie on a plate",
+        "frosted cupcake with sprinkles on top",
+        "ice cream cone with two scoops",
+        "glazed donut with colorful sprinkles",
+        "chocolate bar broken into squares"
+      ]
+    },
+    "valid": {
+      "en": [
+        "hard candy in a twisted wrapper",
+        "sweet candy treat icon",
+        "sugar candy in colorful foil"
+      ]
+    },
+    "test": {
+      "en": [
+        "candy wrapped in foil",
+        "sweet candy symbol",
+        "candy treat for holidays"
+      ]
+    }
+  }
+}

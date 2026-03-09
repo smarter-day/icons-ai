@@ -1,0 +1,178 @@
+{
+  "icon": "abacus",
+  "rows": {
+    "train_en": 54,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "abacus",
+        "addition",
+        "ancient",
+        "arithmetic",
+        "calculation",
+        "calculator",
+        "counting",
+        "hexadecimal",
+        "math",
+        "subtraction"
+      ],
+      "ru": [
+        "абакус",
+        "сложение",
+        "древний",
+        "арифметика",
+        "вычисление",
+        "калькулятор",
+        "счёт",
+        "шестнадцатеричная",
+        "математика",
+        "вычитание"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Add up expenses",
+        "Figure out the budget",
+        "Tally up sales",
+        "Balance the books",
+        "Work out the totals",
+        "Review the numbers",
+        "Check the figures",
+        "Compute quarterly stats",
+        "Number practice",
+        "Math drills",
+        "Teach kids on the abacus",
+        "Add up the grocery bill",
+        "Old-fashioned way to count",
+        "Brush up on arithmetic",
+        "Run the calculations again",
+        "Pull out the calculator app",
+        "Keep a running tally",
+        "Convert decimal to hex",
+        "Help with math homework",
+        "Practice subtraction drills"
+      ],
+      "ru": [
+        "Сложить расходы",
+        "Разобраться с бюджетом",
+        "Подсчитать продажи",
+        "Свести баланс",
+        "Посчитать итоги",
+        "Проверить цифры",
+        "Сверить показатели",
+        "Рассчитать квартальную статистику",
+        "Практика по числам",
+        "Упражнения по математике",
+        "Научить детей на счётах",
+        "Сложить сумму за продукты",
+        "Старинный способ считать",
+        "Повторить арифметику",
+        "Пересчитать итоги",
+        "Открыть приложение-калькулятор",
+        "Вести нарастающий итог",
+        "Перевести из десятичной в шестнадцатеричную",
+        "Помочь с домашним заданием по математике",
+        "Потренироваться в вычитании"
+      ]
+    },
+    "regular": {
+      "en": [
+        "I need to crunch some numbers",
+        "Work through those math problems",
+        "Figure out what we spent",
+        "Add up all the receipts",
+        "Calcualte the tip",
+        "Aritmectic practice",
+        "Cound inventory",
+        "Blance the books",
+        "Pay bills",
+        "Plan the budget"
+      ],
+      "ru": [
+        "Надо посчитать цифры",
+        "Разобраться с задачами по математике",
+        "Выяснить сколько потратили",
+        "Сложить все чеки",
+        "Расчитать чаевые",
+        "Практика арыфметики",
+        "Подщитать товары",
+        "Збалансировать бухгалтерию",
+        "Оплатить счета",
+        "Спланировать бюджет"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Study for exam",
+        "Review quarterly report",
+        "Convert currencies",
+        "Statistics homework"
+      ],
+      "ru": [
+        "Подготовиться к экзамену",
+        "Проверить квартальный отчёт",
+        "Конвертировать валюты",
+        "Домашнее задание по статистике"
+      ]
+    },
+    "typo": {
+      "en": [
+        "learn to use an abacus",
+        "practice addition",
+        "ancient counting techniques",
+        "do arithmetic"
+      ],
+      "ru": [
+        "научиться пользоваться абакусом",
+        "практиковать сложение",
+        "древние техники счёта",
+        "заниматься арифметикой"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "run a quick calculation",
+        "use a calculator",
+        "counting exercise",
+        "convert to hexadecimal",
+        "math practice",
+        "subtraction drill"
+      ],
+      "ru": [
+        "быстрое вычисление",
+        "использовать калькулятор",
+        "упражнения по счёту",
+        "перевести в шестнадцатеричную систему",
+        "практика по математике",
+        "упражнения по вычитанию"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Run through the calculations again",
+        "Check if the numbers add up",
+        "Verify the arithmetic"
+      ],
+      "ru": [
+        "Ещё раз пройтись по расчётам",
+        "Проверить сходятся ли цифры",
+        "Сверить арифметику"
+      ]
+    },
+    "test": {
+      "en": [
+        "Double-check my math",
+        "Go over the sums",
+        "Work through the figures"
+      ],
+      "ru": [
+        "Перепроверить математику",
+        "Пройтись по суммам",
+        "Разобраться с показателями"
+      ]
+    }
+  }
+}

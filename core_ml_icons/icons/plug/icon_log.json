@@ -1,0 +1,160 @@
+{
+  "icon": "plug",
+  "rows": {
+    "train_en": 45,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "connect",
+        "electric",
+        "electric plug",
+        "electricity",
+        "online",
+        "plug",
+        "power"
+      ],
+      "ru": [
+        "подключить",
+        "электрический",
+        "электрическая вилка",
+        "электричество",
+        "онлайн",
+        "вилка",
+        "питание"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "connect device with electric plug",
+        "connect appliance to outlet",
+        "electric cord plug end",
+        "electric plug two-prong",
+        "electric plug for socket",
+        "standard electric plug",
+        "plug in electricity supply",
+        "electricity supply plug",
+        "go online plug in device",
+        "online connection plug icon",
+        "plug into wall socket",
+        "plug power cable in",
+        "power supply plug connector",
+        "power on by plugging in"
+      ],
+      "ru": [
+        "подключить устройство электрической вилкой",
+        "подключить прибор к розетке",
+        "конец шнура вилка",
+        "двухштырьковая электрическая вилка",
+        "электрическая вилка для розетки",
+        "стандартная вилка",
+        "включить подачу электричества",
+        "штепсель питания",
+        "подключиться онлайн воткнув устройство",
+        "иконка онлайн подключения",
+        "воткнуть в настенную розетку",
+        "подключить кабель питания",
+        "разъём кабеля питания",
+        "включить воткнув вилку"
+      ]
+    },
+    "regular": {
+      "en": [
+        "two-prong electric plug for outlet",
+        "plug in charger to power up",
+        "USB connector plug for device",
+        "IEC power cord plug",
+        "smart plug with WiFi control",
+        "extension cord plug end",
+        "power adapter plug for travel",
+        "electric vehicle charging plug",
+        "power plug icon for connection",
+        "UK three-prong plug standard"
+      ],
+      "ru": [
+        "двухштырьковая вилка для розетки",
+        "воткнуть зарядник для питания",
+        "USB разъём вилка",
+        "вилка кабеля IEC",
+        "умная вилка с WiFi",
+        "вилка конца удлинителя",
+        "переходник питания для путешествий",
+        "зарядная вилка электромобиля",
+        "иконка электрической вилки",
+        "трёхштырьковая вилка UK"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a plug icon for the power connection",
+        "add an electric plug to the connection section",
+        "show a plug for the power on screen",
+        "use the plug icon for the device connect feature"
+      ],
+      "ru": [
+        "Мне нужна иконка вилки для питания",
+        "добавить электрическую вилку в раздел подключения",
+        "показать вилку для экрана включения",
+        "использовать иконку вилки для подключения устройства"
+      ]
+    },
+    "typo": {
+      "en": [
+        "electrc plug",
+        "plgu in outlet",
+        "conect with plug",
+        "powre plug"
+      ],
+      "ru": [
+        "электрческая вилка",
+        "воткнуть розетка",
+        "подключть вилкой",
+        "питание вилак"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "wall outlet socket to plug into",
+        "power cord cable wire",
+        "battery for cordless power",
+        "USB port for data connection",
+        "switch or toggle power button",
+        "cable connector multi-pin"
+      ],
+      "ru": [
+        "настенная розетка",
+        "шнур кабель провод",
+        "батарейка для беспроводного питания",
+        "USB порт",
+        "переключатель питания",
+        "многоштырьковый разъём"
+      ]
+    },
+    "valid": {
+      "en": [
+        "electric plug for power connection",
+        "plug into wall outlet",
+        "power plug connector icon"
+      ],
+      "ru": [
+        "электрическая вилка для питания",
+        "воткнуть в розетку",
+        "иконка разъёма вилки"
+      ]
+    },
+    "test": {
+      "en": [
+        "plug icon",
+        "electric plug power",
+        "connect device plug"
+      ],
+      "ru": [
+        "иконка вилки",
+        "электрическая вилка питание",
+        "подключить устройство вилкой"
+      ]
+    }
+  }
+}

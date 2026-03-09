@@ -1,0 +1,4 @@
+text,label
+reflect both axes in image editor,reflect-both
+mirror object symmetrically on both sides,reflect-both
+flip horizontal and vertical combined transform,reflect-both

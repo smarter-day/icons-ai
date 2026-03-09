@@ -1,0 +1,202 @@
+{
+  "icon": "carpool",
+  "rows": {
+    "train_en": 66,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "auto",
+        "automobile",
+        "car",
+        "caravan",
+        "carpool",
+        "oncoming",
+        "oncoming automobile",
+        "passengers",
+        "rideshare",
+        "sedan",
+        "transportation",
+        "travel",
+        "vanpool",
+        "vehicle"
+      ],
+      "ru": [
+        "авто",
+        "автомобиль",
+        "машина",
+        "колонна",
+        "совместная поездка",
+        "встречный",
+        "встречный автомобиль",
+        "пассажиры",
+        "совместные поездки",
+        "седан",
+        "транспорт",
+        "поездка",
+        "ванпул",
+        "транспортное средство"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Auto shared ride to the office",
+        "Automobile carpool arrangement",
+        "Car sharing to the event",
+        "Caravan of cars on the road trip",
+        "Carpool lane on the highway",
+        "Oncoming vehicles on the shared route",
+        "Oncoming automobile in the carpool lane",
+        "Passengers for the shared ride",
+        "Rideshare to the airport",
+        "Sedan shared to the conference",
+        "Transportation arrangement for the group",
+        "Travel together to save costs",
+        "Vanpool for the office commute",
+        "Vehicle sharing agreement for the trip",
+        "Auto ride sharing agreement signed today",
+        "Automobile sharing route confirmed for tomorrow",
+        "Car pool sign-up sheet at the office",
+        "Caravan of carpoolers heading downtown",
+        "Carpool buddy system for the daily commute",
+        "Oncoming carpool traffic backed up this morning",
+        "Watch for the oncoming automobile in the carpool lane",
+        "Passengers picked up along the way in",
+        "Rideshare driver rating left after the trip",
+        "Sedan carpool for four colleagues today",
+        "Transportation cost split evenly between riders",
+        "Travel together this week to save on fuel",
+        "Vanpool schedule for the factory night shift",
+        "Vehicle capacity checked for the group commute"
+      ],
+      "ru": [
+        "Совместная поездка на авто в офис",
+        "Договор о совместных поездках",
+        "Карпул на мероприятие",
+        "Колонна машин в дорожной поездке",
+        "Полоса для совместных поездок на шоссе",
+        "Встречные автомобили на общем маршруте",
+        "Встречный автомобиль в полосе карпула",
+        "Пассажиры для совместной поездки",
+        "Совместная поездка в аэропорт",
+        "Седан для совместной поездки на конференцию",
+        "Организация транспорта для группы",
+        "Ехать вместе чтобы сэкономить",
+        "Ванпул для ежедневного маршрута",
+        "Соглашение о совместном использовании машины",
+        "Соглашение о совместном использовании авто подписано",
+        "Маршрут совместной поездки подтверждён на завтра",
+        "Запись на карпул в офис",
+        "Колонна карпулеров едет в центр",
+        "Система напарников карпула для ежедневных поездок",
+        "Встречный поток карпула встал утром",
+        "Следить за встречным автомобилем в полосе карпула",
+        "Пассажиры подобраны по дороге",
+        "Оценка водителя совместной поездки оставлена",
+        "Совместная поездка на седане для четырёх коллег",
+        "Расходы на транспорт поделены поровну",
+        "Ехать вместе на этой неделе — так дешевле",
+        "Расписание вэнпула на ночную заводскую смену",
+        "Вместимость транспортного средства проверена для группы"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Set up a carpool with coworkers",
+        "Carpool to the game this weekend",
+        "Rideshare app pickup at 8am",
+        "Shared ride to the airport",
+        "Carpool schedule for the school run",
+        "Split fuel costs on the commute",
+        "Carpool lane access on the freeway",
+        "Group ride to the conference",
+        "Arrange carpool for the team outing",
+        "Van pool from the suburbs to the city"
+      ],
+      "ru": [
+        "Организовать карпул с коллегами",
+        "Совместная поездка на матч в выходные",
+        "Подача в приложении для совместных поездок в 8 утра",
+        "Совместная поездка в аэропорт",
+        "Расписание карпула для школы",
+        "Разделить расходы на топливо",
+        "Доступ в полосу карпула на трассе",
+        "Групповая поездка на конференцию",
+        "Организовать карпул для командной прогулки",
+        "Ванпул из пригорода в город"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "anyone want to carpool tomorrow",
+        "splitting the ride with a few people",
+        "saves so much on fuel",
+        "who's driving us to the event"
+      ],
+      "ru": [
+        "кто хочет поехать вместе завтра",
+        "делим поездку с несколькими людьми",
+        "экономит кучу на топливе",
+        "кто везёт нас на мероприятие"
+      ]
+    },
+    "typo": {
+      "en": [
+        "carpol to the office today",
+        "ridshare from the hotel to airport",
+        "shard ride with coworkers",
+        "vanpoll for the daily commute"
+      ],
+      "ru": [
+        "карпол в офис сегодня",
+        "совместная поездка из отеля в аэропорт",
+        "общая поездка с коллегами",
+        "ванпол для ежедневного маршрута"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Taxi cab from the hotel alone",
+        "City bus commute to the office",
+        "Private car with solo driver",
+        "Bike to work today",
+        "Train pass for the monthly commute",
+        "Ride-share app without carpooling"
+      ],
+      "ru": [
+        "Такси из отеля в одиночку",
+        "Автобусный маршрут в офис",
+        "Личная машина с водителем в одиночку",
+        "Ехать на велосипеде на работу",
+        "Проездной на поезд на месяц",
+        "Приложение для поездок без карпула"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Carpool arrangement for the work week",
+        "Shared ride to the airport tomorrow",
+        "Set up rideshare for the conference"
+      ],
+      "ru": [
+        "Организация карпула на рабочую неделю",
+        "Совместная поездка в аэропорт завтра",
+        "Организовать совместные поездки на конференцию"
+      ]
+    },
+    "test": {
+      "en": [
+        "Carpool with colleagues today",
+        "Split the ride to the venue",
+        "Vanpool from the suburbs"
+      ],
+      "ru": [
+        "Карпул с коллегами сегодня",
+        "Разделить поездку до места",
+        "Ванпул из пригорода"
+      ]
+    }
+  }
+}

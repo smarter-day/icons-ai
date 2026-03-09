@@ -1,0 +1,148 @@
+{
+  "icon": "video",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "camera",
+        "film",
+        "movie",
+        "record",
+        "video-camera"
+      ],
+      "ru": [
+        "камера",
+        "фильм",
+        "кино",
+        "запись",
+        "видеокамера"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "camera video recording button",
+        "camera icon video call",
+        "film video cinematic shot",
+        "film recording video project",
+        "movie video streaming platform",
+        "movie video file play",
+        "record video camera button",
+        "record video event capture",
+        "video camera icon recording",
+        "video camera on tripod"
+      ],
+      "ru": [
+        "камера кнопка записи видео",
+        "иконка камеры видеозвонок",
+        "кинематографичная съёмка видео",
+        "запись видеопроекта фильм",
+        "стриминговая платформа кино видео",
+        "видеофайл воспроизведение кино",
+        "кнопка записи видеокамера",
+        "запись события видео",
+        "иконка видеокамеры запись",
+        "видеокамера на штативе"
+      ]
+    },
+    "regular": {
+      "en": [
+        "video camera icon for recording",
+        "video call button FaceTime",
+        "video streaming play movie",
+        "video camera mounted on tripod",
+        "video production camcorder",
+        "video thumbnail preview frame",
+        "video conference grid view",
+        "surveillance camera video monitor",
+        "action camera GoPro video",
+        "video file format MP4"
+      ],
+      "ru": [
+        "иконка видеокамеры для записи",
+        "кнопка видеозвонка FaceTime",
+        "потоковое воспроизведение видео кино",
+        "видеокамера на штативе",
+        "видеокамера производства контента",
+        "превью миниатюра видеокадра",
+        "сетка видеоконференции",
+        "камера видеонаблюдения монитор",
+        "экшн-камера GoPro видео",
+        "формат видеофайла MP4"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a video icon for the media section",
+        "add a camera symbol to the video call feature",
+        "show a video camera for the recording option",
+        "use the video icon for the streaming section"
+      ],
+      "ru": [
+        "нужна иконка видео для медиараздела",
+        "добавь символ камеры к функции видеозвонка",
+        "покажи видеокамеру для функции записи",
+        "используй иконку видео для раздела стриминга"
+      ]
+    },
+    "typo": {
+      "en": [
+        "vidoe camera record",
+        "camrea video call",
+        "recrod video button",
+        "moive video streaming"
+      ],
+      "ru": [
+        "видео камера запись",
+        "камера видеозвонок",
+        "запись видео кнопка",
+        "кино видео стриминг"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "photo camera still image",
+        "film reel cinema strip",
+        "screen play button triangle",
+        "microphone audio record",
+        "speaker sound playback",
+        "streaming icon play arrow"
+      ],
+      "ru": [
+        "фотокамера неподвижное изображение",
+        "катушка плёнки кинолента",
+        "экран кнопка воспроизведения треугольник",
+        "микрофон запись аудио",
+        "динамик воспроизведение звука",
+        "иконка стриминга стрелка воспроизведения"
+      ]
+    },
+    "valid": {
+      "en": [
+        "video camera icon",
+        "recording video symbol",
+        "film video camera"
+      ],
+      "ru": [
+        "иконка видеокамеры",
+        "символ записи видео",
+        "фильм видеокамера"
+      ]
+    },
+    "test": {
+      "en": [
+        "video icon camera",
+        "record video symbol",
+        "movie video camera"
+      ],
+      "ru": [
+        "иконка видео камера",
+        "символ записи видео",
+        "кино видеокамера"
+      ]
+    }
+  }
+}

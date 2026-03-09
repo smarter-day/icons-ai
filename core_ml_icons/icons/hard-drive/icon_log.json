@@ -1,0 +1,84 @@
+{
+  "icon": "hard-drive",
+  "rows": {
+    "train_en": 36,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "hard drive",
+        "machine",
+        "save",
+        "storage"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Replace the old hard drive",
+        "Upgrade the hard drive capacity",
+        "Fix the machine that won't start",
+        "Service the machine",
+        "Save the work to the hard drive",
+        "Save a backup to the drive",
+        "Add more storage to the computer",
+        "Buy external storage"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Back up files to the hard drive",
+        "Replace the failing hard drive",
+        "Buy an external hard drive",
+        "Format the hard drive",
+        "Transfer files to the new hard drive",
+        "Check how much storage is left",
+        "Delete old files to free up space",
+        "Recover deleted files from the drive",
+        "Upgrade to a solid state drive",
+        "Clone the hard drive before replacing"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Back up the drive",
+        "Storage full",
+        "New hard drive",
+        "Free up space"
+      ]
+    },
+    "typo": {
+      "en": [
+        "bakcup fiels to hard driv",
+        "replcae the failign drive",
+        "buy an extenral hard driv",
+        "formatt the hard drive"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Save to a USB flash drive",
+        "Upload to cloud storage",
+        "Save to an SD card",
+        "Use a NAS for network storage",
+        "Back up to the floppy disk",
+        "Store files on a DVD disc"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Back up files to the hard drive",
+        "Replace the failing hard drive",
+        "Check how much storage is left"
+      ]
+    },
+    "test": {
+      "en": [
+        "Buy an external hard drive",
+        "Delete old files to free up space",
+        "Upgrade to a solid state drive"
+      ]
+    }
+  }
+}

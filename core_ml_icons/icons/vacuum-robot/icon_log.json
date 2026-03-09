@@ -1,0 +1,148 @@
+{
+  "icon": "vacuum-robot",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "cleaning",
+        "floor",
+        "roomba",
+        "suck",
+        "suction"
+      ],
+      "ru": [
+        "уборка",
+        "пол",
+        "Румба",
+        "всасывание",
+        "всасывание-альт"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "robot cleaning vacuum autonomous",
+        "robot cleaner floor automatic",
+        "floor robot vacuum cleaner",
+        "floor vacuum robot mapping",
+        "Roomba robot vacuum cleaner",
+        "Roomba iRobot schedule clean",
+        "robot suck up dirt autonomous",
+        "robot suck floor dirt",
+        "suction robot vacuum power",
+        "strong suction robot vacuum"
+      ],
+      "ru": [
+        "робот уборщик пылесос автономный",
+        "роботизированный уборщик пола автоматический",
+        "робот-пылесос для пола",
+        "маппинг пола робот-пылесос",
+        "Roomba роботизированный пылесос",
+        "Roomba iRobot расписание уборки",
+        "робот всасывает грязь автономно",
+        "робот всасывает грязь с пола",
+        "мощность всасывания робот-пылесоса",
+        "сильное всасывание роботизированного пылесоса"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Roomba robot vacuum on hardwood floor",
+        "robot vacuum mapping room plan",
+        "robot vacuum dock charging station",
+        "scheduled robot vacuum cleaning",
+        "robot vacuum obstacle avoidance",
+        "pet hair robot vacuum filter",
+        "robot vacuum app control phone",
+        "self-emptying robot vacuum base",
+        "robot vacuum under furniture couch",
+        "robot vacuum stuck help noise"
+      ],
+      "ru": [
+        "Roomba на деревянном полу",
+        "робот-пылесос картирование плана комнаты",
+        "зарядная станция робот-пылесос докинг",
+        "запланированная уборка робот-пылесоса",
+        "обход препятствий робот-пылесоса",
+        "фильтр шерсти питомцев робот-пылесос",
+        "управление робот-пылесосом через приложение",
+        "база самоочищения робот-пылесоса",
+        "робот-пылесос под мебелью диваном",
+        "застрял робот-пылесос звук помощи"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a vacuum robot icon for the smart home section",
+        "add a Roomba symbol to the cleaning automation feature",
+        "show a robot vacuum for the floor cleaning task",
+        "use the vacuum-robot icon for the autonomous cleaner"
+      ],
+      "ru": [
+        "нужна иконка робота-пылесоса для умного дома",
+        "добавь символ Roomba к функции автоматической уборки",
+        "покажи робот-пылесос для задачи уборки пола",
+        "используй иконку робота-пылесоса для автономного уборщика"
+      ]
+    },
+    "typo": {
+      "en": [
+        "rooboa robot vacuum",
+        "robotc vacuum floor",
+        "vaccum robot cleaning",
+        "suctoin robot floor"
+      ],
+      "ru": [
+        "Румба робот пылесос",
+        "роботизированный пылесос пол",
+        "пылесос робот уборка",
+        "всасывание робот пол"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "regular upright vacuum cleaner",
+        "mop robot floor wet cleaning",
+        "drone aerial flying robot",
+        "robot arm industrial machine",
+        "smart speaker voice assistant",
+        "air purifier filter indoor"
+      ],
+      "ru": [
+        "обычный вертикальный пылесос",
+        "робот-швабра влажная уборка пола",
+        "дрон воздушный летающий робот",
+        "робот-рука промышленная машина",
+        "умная колонка голосовой помощник",
+        "очиститель воздуха фильтр внутри"
+      ]
+    },
+    "valid": {
+      "en": [
+        "robot vacuum Roomba icon",
+        "autonomous floor cleaner symbol",
+        "vacuum robot cleaning"
+      ],
+      "ru": [
+        "иконка робота-пылесоса Roomba",
+        "символ автономного уборщика пола",
+        "уборка роботом-пылесосом"
+      ]
+    },
+    "test": {
+      "en": [
+        "vacuum-robot icon",
+        "Roomba symbol",
+        "floor robot cleaner"
+      ],
+      "ru": [
+        "иконка робота-пылесоса",
+        "символ Roomba",
+        "роботизированный уборщик пола"
+      ]
+    }
+  }
+}

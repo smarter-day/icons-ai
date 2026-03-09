@@ -1,0 +1,148 @@
+{
+  "icon": "music-note",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "lyrics",
+        "melody",
+        "note",
+        "sing",
+        "sound"
+      ],
+      "ru": [
+        "слова",
+        "мелодия",
+        "нота",
+        "петь",
+        "звук"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "lyrics displayed on screen",
+        "song lyrics scrolling in app",
+        "melody hummed or whistled",
+        "musical melody in a song",
+        "musical note symbol on page",
+        "quarter note or eighth note",
+        "sing along to a music note",
+        "sing a tune with musical notes",
+        "sound of music playing",
+        "background sound music note"
+      ],
+      "ru": [
+        "слова отображённые на экране",
+        "слова песни прокручивающиеся в приложении",
+        "мелодия напеваемая или свистимая",
+        "музыкальная мелодия в песне",
+        "символ музыкальной ноты на странице",
+        "четвертная или восьмая нота",
+        "петь под музыкальную ноту",
+        "петь мелодию с музыкальными нотами",
+        "звук играющей музыки",
+        "фоновый звук музыкальная нота"
+      ]
+    },
+    "regular": {
+      "en": [
+        "single musical note symbol for music",
+        "eighth note with curved stem",
+        "two beamed music notes icon",
+        "music note in a circle for audio",
+        "playlist icon with music note",
+        "music app icon with note symbol",
+        "ringtone music note notification",
+        "karaoke app note symbol",
+        "concert poster with music note",
+        "audio track note icon in player"
+      ],
+      "ru": [
+        "символ одиночной музыкальной ноты",
+        "восьмая нота с изогнутым штилем",
+        "иконка двух сгруппированных нот",
+        "музыкальная нота в круге для аудио",
+        "иконка плейлиста с музыкальной нотой",
+        "иконка музыкального приложения с символом ноты",
+        "музыкальная нота уведомления рингтона",
+        "символ ноты в приложении карнавала",
+        "нота на афише концерта",
+        "иконка аудиодорожки в плеере"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a music note icon for the audio player",
+        "add a note symbol to the songs section",
+        "show a music note for the melody feature",
+        "use the note icon for the ringtone selector"
+      ],
+      "ru": [
+        "Мне нужна иконка музыкальной ноты для аудиоплеера",
+        "добавить символ ноты в раздел песен",
+        "показать музыкальную ноту для функции мелодии",
+        "использовать иконку ноты для выбора рингтона"
+      ]
+    },
+    "typo": {
+      "en": [
+        "musci note sound",
+        "meldy note",
+        "snig music note",
+        "lryics note"
+      ],
+      "ru": [
+        "мзука нота звук",
+        "мелодяи нота",
+        "петь музкальная нота",
+        "слоав ноты"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "treble clef symbol for music staff",
+        "musical staff with five lines",
+        "piano keys for playing music",
+        "speaker symbol for audio output",
+        "headphones icon for listening",
+        "vinyl record with music grooves"
+      ],
+      "ru": [
+        "скрипичный ключ для нотного стана",
+        "нотный стан с пятью линейками",
+        "клавиши пианино для игры музыки",
+        "символ динамика для вывода звука",
+        "иконка наушников для прослушивания",
+        "виниловая пластинка с бороздками"
+      ]
+    },
+    "valid": {
+      "en": [
+        "music note symbol for audio",
+        "musical note icon",
+        "note symbol for songs"
+      ],
+      "ru": [
+        "символ музыкальной ноты для аудио",
+        "иконка музыкальной ноты",
+        "символ ноты для песен"
+      ]
+    },
+    "test": {
+      "en": [
+        "music note icon",
+        "note symbol in music app",
+        "eighth note audio symbol"
+      ],
+      "ru": [
+        "иконка музыкальной ноты",
+        "символ ноты в музыкальном приложении",
+        "символ аудио восьмой ноты"
+      ]
+    }
+  }
+}

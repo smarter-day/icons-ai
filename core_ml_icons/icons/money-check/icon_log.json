@@ -1,0 +1,172 @@
+{
+  "icon": "money-check",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "bank check",
+        "buy",
+        "checkout",
+        "cheque",
+        "money",
+        "payment",
+        "price",
+        "purchase",
+        "salary"
+      ],
+      "ru": [
+        "банковский чек",
+        "купить",
+        "касса",
+        "чек",
+        "деньги",
+        "оплата",
+        "цена",
+        "покупка",
+        "зарплата"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "bank check for large payments",
+        "write a bank check to landlord",
+        "buy with a personal check",
+        "buy goods using a cheque",
+        "checkout with a paper check",
+        "checkout payment via check",
+        "cheque written for full amount",
+        "cheque payment to service provider",
+        "money check written out",
+        "money payment via paper check",
+        "payment by check to vendor",
+        "check payment for invoice",
+        "price on check for service",
+        "check amount for final price",
+        "purchase with personal check",
+        "purchase order with check",
+        "salary check cashed at bank",
+        "paycheck signed and cashed"
+      ],
+      "ru": [
+        "банковский чек для крупных платежей",
+        "написать банковский чек арендодателю",
+        "купить по личному чеку",
+        "купить товары по чеку",
+        "оплата на кассе бумажным чеком",
+        "оплата через кассу по чеку",
+        "чек выписанный на полную сумму",
+        "чек оплаты поставщику услуг",
+        "денежный чек выписанный",
+        "денежная оплата бумажным чеком",
+        "оплата чеком поставщику",
+        "оплата счёта чеком",
+        "цена в чеке за услугу",
+        "сумма чека за итоговую цену",
+        "покупка личным чеком",
+        "заказ на покупку с чеком",
+        "зарплатный чек обналиченный в банке",
+        "подписанный и обналиченный чек"
+      ]
+    },
+    "regular": {
+      "en": [
+        "blank check with signature line and amount",
+        "personal check written to pay rent",
+        "payroll check from employer",
+        "bank-issued cashier's check",
+        "writing a check for utility bills",
+        "check cashing at the bank teller",
+        "voided check for direct deposit setup",
+        "corporate check for vendor payment",
+        "signed check as payment proof",
+        "paper check with routing and account numbers"
+      ],
+      "ru": [
+        "незаполненный чек с линией для подписи и суммой",
+        "личный чек выписанный для оплаты аренды",
+        "зарплатный чек от работодателя",
+        "кассирский чек выданный банком",
+        "написание чека для оплаты коммунальных услуг",
+        "обналичивание чека у банковского кассира",
+        "аннулированный чек для настройки прямого депозита",
+        "корпоративный чек для оплаты поставщику",
+        "подписанный чек как подтверждение оплаты",
+        "бумажный чек с номером маршрута и счёта"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a money check icon for the payment methods screen",
+        "add a cheque symbol to the salary feature",
+        "show a bank check for the checkout options",
+        "use the check icon for the payment by cheque flow"
+      ],
+      "ru": [
+        "Мне нужна иконка денежного чека для экрана способов оплаты",
+        "добавить символ чека в функцию зарплаты",
+        "показать банковский чек для вариантов оплаты",
+        "использовать иконку чека для процесса оплаты чеком"
+      ]
+    },
+    "typo": {
+      "en": [
+        "bank chekc payment",
+        "cheuqe for salary",
+        "chekout with check",
+        "pruchase by check"
+      ],
+      "ru": [
+        "банковски чек оплата",
+        "зарплтаный чек",
+        "оплатаа чеком",
+        "покупка по чеку"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "dollar bill cash paper money",
+        "credit card for electronic payment",
+        "receipt showing purchase total",
+        "coin pile for change",
+        "bank transfer digital transaction",
+        "invoice document for billing"
+      ],
+      "ru": [
+        "долларовая купюра бумажные деньги",
+        "кредитная карта для электронной оплаты",
+        "чек показывающий итог покупки",
+        "стопка монет для сдачи",
+        "банковский перевод цифровая транзакция",
+        "документ счёта для выставления счёта"
+      ]
+    },
+    "valid": {
+      "en": [
+        "bank check for payment",
+        "cheque written for salary",
+        "paper check icon"
+      ],
+      "ru": [
+        "банковский чек для оплаты",
+        "чек выписанный на зарплату",
+        "иконка бумажного чека"
+      ]
+    },
+    "test": {
+      "en": [
+        "money check icon",
+        "personal cheque payment",
+        "bank check symbol"
+      ],
+      "ru": [
+        "иконка денежного чека",
+        "оплата личным чеком",
+        "символ банковского чека"
+      ]
+    }
+  }
+}

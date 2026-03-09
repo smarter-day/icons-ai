@@ -1,0 +1,154 @@
+{
+  "icon": "table-columns",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "browser",
+        "category",
+        "dashboard",
+        "organize",
+        "panes",
+        "split"
+      ],
+      "ru": [
+        "браузер",
+        "категория",
+        "панель управления",
+        "организация",
+        "панели",
+        "разделение"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "browser columns multi-pane layout",
+        "split browser window columns",
+        "category columns organize content",
+        "grouped category column view",
+        "dashboard metric columns layout",
+        "analytics dashboard columns",
+        "organize data into columns",
+        "organize table with columns",
+        "side by side panes split view",
+        "two pane column layout",
+        "split screen column view",
+        "split document into columns"
+      ],
+      "ru": [
+        "браузер колонки многопанельный макет",
+        "разделённое окно браузера колонки",
+        "колонки категорий организация контента",
+        "сгруппированный вид категорий колонками",
+        "колонки метрик панели управления",
+        "колонки аналитики на дашборде",
+        "организовать данные по колонкам",
+        "организация таблицы со столбцами",
+        "панели бок о бок разделённый вид",
+        "двухпанельный столбчатый макет",
+        "разделённый экран вид колонок",
+        "разделить документ на столбцы"
+      ]
+    },
+    "regular": {
+      "en": [
+        "spreadsheet table with multiple columns",
+        "two column layout side by side",
+        "newspaper multi-column text layout",
+        "database table column headers",
+        "kanban board column organization",
+        "web page multi-column CSS grid",
+        "comparison table columns side by side",
+        "split pane code editor columns",
+        "column resize drag header",
+        "freeze first column in spreadsheet"
+      ],
+      "ru": [
+        "электронная таблица с несколькими столбцами",
+        "двухстолбчатый макет бок о бок",
+        "многоколоночный текстовый макет газеты",
+        "заголовки столбцов таблицы базы данных",
+        "организация столбцов канбан-доски",
+        "многостолбчатая CSS-сетка веб-страницы",
+        "таблица сравнения столбцы рядом",
+        "разделённые панели редактора кода столбцами",
+        "изменение размера столбца перетаскивание заголовка",
+        "зафиксировать первый столбец в таблице"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a table-columns icon for the layout settings",
+        "add a columns symbol to the organize view",
+        "show columns for the dashboard layout option",
+        "use the table columns icon for the split view toggle"
+      ],
+      "ru": [
+        "нужна иконка столбцов таблицы для настроек макета",
+        "добавь символ столбцов к виду организации",
+        "покажи столбцы для варианта макета дашборда",
+        "используй иконку столбцов таблицы для переключения разделённого вида"
+      ]
+    },
+    "typo": {
+      "en": [
+        "tabel columns layout",
+        "dashbaord columns view",
+        "splti panes view",
+        "coulmns organize"
+      ],
+      "ru": [
+        "столбцы таблцы макет",
+        "столбцы дашборда вид",
+        "разделённые панелеи вид",
+        "столбцы организация"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "table rows horizontal lines data",
+        "grid squares layout all cells",
+        "list view vertical items",
+        "sidebar single panel navigation",
+        "split horizontal rows not columns",
+        "spreadsheet cell single selected"
+      ],
+      "ru": [
+        "строки таблицы горизонтальные линии данные",
+        "сетка квадраты макет все ячейки",
+        "вид списка вертикальные элементы",
+        "боковая панель навигация",
+        "разделение горизонтальными строками не столбцами",
+        "ячейка таблицы одна выбранная"
+      ]
+    },
+    "valid": {
+      "en": [
+        "table columns split view",
+        "multi-column layout icon",
+        "organized column view"
+      ],
+      "ru": [
+        "столбцы таблицы разделённый вид",
+        "иконка многостолбчатого макета",
+        "организованный вид столбцов"
+      ]
+    },
+    "test": {
+      "en": [
+        "columns icon layout",
+        "table columns symbol",
+        "split column view"
+      ],
+      "ru": [
+        "иконка столбцов макет",
+        "символ столбцов таблицы",
+        "разделённый вид столбцов"
+      ]
+    }
+  }
+}

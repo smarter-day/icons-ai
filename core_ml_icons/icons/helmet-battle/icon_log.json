@@ -1,0 +1,87 @@
+{
+  "icon": "helmet-battle",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "armor",
+        "d&d",
+        "fantasy",
+        "knight",
+        "paladin"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Equip armor for the battle",
+        "Find better armor in the dungeon",
+        "Play D&D as a knight",
+        "Set up the D&D campaign",
+        "Build a fantasy character",
+        "Read a fantasy novel",
+        "Play as the noble knight",
+        "Knight the character in the game",
+        "Choose the paladin class",
+        "Level up the paladin"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Play a knight character in D&D",
+        "Build a paladin for the campaign",
+        "Equip battle armor in the game",
+        "Read a medieval fantasy book",
+        "Watch a knights and dragons movie",
+        "Design a knight costume for Halloween",
+        "Visit a medieval castle exhibit",
+        "Play a tabletop RPG as a knight",
+        "Write a fantasy story with knights",
+        "Play a video game with medieval armor"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "D&D night",
+        "Knight character",
+        "Fantasy game",
+        "Suit up for battle"
+      ]
+    },
+    "typo": {
+      "en": [
+        "equip armro for battle",
+        "play a kngiht in dnd",
+        "chooese the paldin class",
+        "fantsy character creation"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Play as a rogue in the game",
+        "Wear a wizard hat for D&D",
+        "Use a hood cloak for stealth",
+        "Equip a dagger instead of armor",
+        "Cast spells as a mage",
+        "Wear a hockey helmet for sport"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Play a knight in the D&D campaign",
+        "Equip battle armor in the game",
+        "Choose the paladin class"
+      ]
+    },
+    "test": {
+      "en": [
+        "Build a knight character for D&D",
+        "Read a medieval fantasy story",
+        "Design a knight costume"
+      ]
+    }
+  }
+}

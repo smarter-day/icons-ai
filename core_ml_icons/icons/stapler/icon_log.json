@@ -1,0 +1,148 @@
+{
+  "icon": "stapler",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "desktop",
+        "milton",
+        "office",
+        "paperclip",
+        "staple"
+      ],
+      "ru": [
+        "настольный",
+        "мильтон",
+        "офис",
+        "скрепка",
+        "скоба"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "desktop stapler for office use",
+        "compact desktop stapler",
+        "milton stapler from office space",
+        "milton red stapler meme",
+        "office stapler binding papers",
+        "stapler in office supply room",
+        "stapler versus paperclip for binding",
+        "paper fastened with staple not paperclip",
+        "staple through stacked papers",
+        "staple gun for documents"
+      ],
+      "ru": [
+        "настольный степлер для офиса",
+        "компактный настольный степлер",
+        "степлер мильтон из офисного пространства",
+        "красный степлер мильтон мем",
+        "офисный степлер для скрепления бумаг",
+        "степлер в кабинете офисных принадлежностей",
+        "степлер против скрепки для скрепления",
+        "бумага скреплена скобой а не скрепкой",
+        "скоба через стопку бумаг",
+        "степлер для документов"
+      ]
+    },
+    "regular": {
+      "en": [
+        "red desktop stapler office supply",
+        "electric stapler for heavy duty use",
+        "long reach stapler for booklets",
+        "staple remover and stapler set",
+        "mini stapler for on the go",
+        "bookbinding stapler for thick stacks",
+        "stapler runs out of staples",
+        "refilling stapler cartridge",
+        "stapler jam clearing",
+        "office stapler on desk next to tape dispenser"
+      ],
+      "ru": [
+        "красный настольный степлер офисные принадлежности",
+        "электрический степлер для больших объёмов",
+        "степлер с длинным рычагом для буклетов",
+        "антистеплер и степлер комплект",
+        "мини-степлер для мобильного использования",
+        "переплётный степлер для толстых стопок",
+        "степлер заканчиваются скобы",
+        "заправка картриджа степлера",
+        "устранение заклинивания степлера",
+        "офисный степлер на столе рядом с диспенсером скотча"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a stapler icon for office tools section",
+        "add a stapler symbol to the supplies category",
+        "show a stapler for the document binding feature",
+        "use the stapler icon for office equipment"
+      ],
+      "ru": [
+        "нужна иконка степлера для раздела офисных инструментов",
+        "добавь символ степлера в категорию принадлежностей",
+        "покажи степлер для функции скрепления документов",
+        "используй иконку степлера для офисного оборудования"
+      ]
+    },
+    "typo": {
+      "en": [
+        "staplre for papers",
+        "ofice stapler",
+        "stapple gun",
+        "deskop stapler"
+      ],
+      "ru": [
+        "степлер для бумаг",
+        "офиский степлер",
+        "скоба пистолет",
+        "настольный степрер"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "paper clip holding loose sheets together",
+        "binder clip on thick stack of papers",
+        "tape dispenser on office desk",
+        "three hole punch for binder filing",
+        "scissors cutting paper on desk",
+        "rubber band around rolled papers"
+      ],
+      "ru": [
+        "скрепка удерживает листы вместе",
+        "зажим для толстой стопки бумаг",
+        "диспенсер скотча на офисном столе",
+        "дырокол для папки-скоросшивателя",
+        "ножницы режут бумагу на столе",
+        "резинка вокруг свёрнутых бумаг"
+      ]
+    },
+    "valid": {
+      "en": [
+        "office stapler for binding papers",
+        "desktop stapler icon",
+        "stapler for documents"
+      ],
+      "ru": [
+        "офисный степлер для скрепления бумаг",
+        "иконка настольного степлера",
+        "степлер для документов"
+      ]
+    },
+    "test": {
+      "en": [
+        "red stapler office supply",
+        "stapler binding sheets",
+        "paper stapler desk"
+      ],
+      "ru": [
+        "красный степлер офисные принадлежности",
+        "степлер скрепляет листы",
+        "степлер на столе"
+      ]
+    }
+  }
+}

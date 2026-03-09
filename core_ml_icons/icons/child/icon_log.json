@@ -1,0 +1,90 @@
+{
+  "icon": "child",
+  "rows": {
+    "train_en": 42,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "boy",
+        "girl",
+        "kid",
+        "toddler",
+        "young",
+        "youth"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "young boy playing outside",
+        "boy running in the park",
+        "little girl with a colorful backpack",
+        "girl playing with toys",
+        "kid on the playground slide",
+        "child kid at the school yard",
+        "toddler taking first steps",
+        "toddler playing with building blocks",
+        "young child learning to read",
+        "young kid at the playground",
+        "youth program for children",
+        "youth activities at the community center"
+      ]
+    },
+    "regular": {
+      "en": [
+        "small child playing at the playground",
+        "child holding a parent's hand while crossing",
+        "toddler running on the grass",
+        "young girl reading a picture book",
+        "child waving with a big smile",
+        "kid on the school playground",
+        "child icon for parental controls",
+        "young boy kicking a ball",
+        "child safety feature indicator",
+        "group of children playing together"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a child icon for the parental control section",
+        "add a kid symbol to the family app",
+        "show a child for the children's mode feature",
+        "use the child icon for the youth category"
+      ]
+    },
+    "typo": {
+      "en": [
+        "toddler takng first steps",
+        "yonung child playing outside",
+        "kdi on the playground",
+        "chid safety feature"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "baby lying in a crib",
+        "adult person standing upright",
+        "family group with parents and children",
+        "stroller with a baby inside",
+        "teenager with a school backpack",
+        "elderly person with a walking cane"
+      ]
+    },
+    "valid": {
+      "en": [
+        "child playing at the playground",
+        "kid with a backpack",
+        "toddler taking first steps"
+      ]
+    },
+    "test": {
+      "en": [
+        "child icon",
+        "kid symbol for family",
+        "young child figure"
+      ]
+    }
+  }
+}

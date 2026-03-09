@@ -1,0 +1,148 @@
+{
+  "icon": "shapes",
+  "rows": {
+    "train_en": 39,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "blocks",
+        "build",
+        "circle",
+        "square",
+        "triangle"
+      ],
+      "ru": [
+        "блоки",
+        "строить",
+        "круг",
+        "квадрат",
+        "треугольник"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "building blocks of circle square triangle",
+        "wooden blocks for toddler play",
+        "build shapes from basic geometry",
+        "build design using primitive shapes",
+        "circle shape used in graphic design",
+        "perfect circle drawn with compass",
+        "square shape as basic design element",
+        "four-sided equal square shape",
+        "triangle shape pointing upward",
+        "equilateral triangle in geometry class"
+      ],
+      "ru": [
+        "строительные блоки круг квадрат треугольник",
+        "деревянные блоки для игры малышей",
+        "строить фигуры из базовой геометрии",
+        "строить дизайн из примитивных фигур",
+        "круглая форма в графическом дизайне",
+        "идеальный круг нарисован циркулем",
+        "квадратная форма как базовый элемент дизайна",
+        "четырёхугольник равносторонний квадрат",
+        "треугольник указывает вверх",
+        "равносторонний треугольник на уроке геометрии"
+      ]
+    },
+    "regular": {
+      "en": [
+        "circle triangle and square basic shapes",
+        "geometric shapes in graphic design software",
+        "children's shape sorter toy with blocks",
+        "overlapping colorful shapes on canvas",
+        "vector shapes tool in design application",
+        "shapes layer in presentation slide",
+        "insert shape button in word processor",
+        "shapes used for flowchart building blocks",
+        "primary shapes for logo design",
+        "3D shapes cube sphere pyramid"
+      ],
+      "ru": [
+        "круг треугольник и квадрат базовые фигуры",
+        "геометрические фигуры в программе графического дизайна",
+        "детская игрушка-сортировщик фигур с блоками",
+        "перекрывающиеся яркие фигуры на холсте",
+        "инструмент векторных фигур в приложении дизайна",
+        "слой фигур в слайде презентации",
+        "кнопка вставки фигуры в текстовом редакторе",
+        "фигуры для блок-схем",
+        "базовые фигуры для дизайна логотипа",
+        "3D фигуры куб сфера пирамида"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a shapes icon for the drawing tools panel",
+        "add a shapes symbol to the design features",
+        "show shapes for the geometry learning section",
+        "use the shapes icon for the insert element menu"
+      ],
+      "ru": [
+        "мне нужна иконка фигур для панели инструментов рисования",
+        "добавь символ фигур в функции дизайна",
+        "покажи фигуры для раздела обучения геометрии",
+        "используй иконку фигур для меню вставки элементов"
+      ]
+    },
+    "typo": {
+      "en": [
+        "cricle triangle and square basic shapes",
+        "geomteric shapes in graphic design",
+        "childrens shape sorter toy with blocks",
+        "vcetor shapes tool in design app"
+      ],
+      "ru": [
+        "круг тругольник и квадрат базовые фигуры",
+        "геометрческие фигуры в графическом дизайне",
+        "детская игрушак-сортировщик с блоками",
+        "инструмент векторных фигру в дизайне"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "line drawing tool for straight paths",
+        "pencil tool for freehand sketching",
+        "color palette swatches for selection",
+        "grid layout for aligning elements",
+        "path node editing in vector software",
+        "sticker emoji library in messaging app"
+      ],
+      "ru": [
+        "инструмент линии для прямых путей",
+        "карандаш для рисования от руки",
+        "палитра образцов цветов для выбора",
+        "сетка для выравнивания элементов",
+        "редактирование узлов пути в векторном ПО",
+        "библиотека стикеров-эмодзи в мессенджере"
+      ]
+    },
+    "valid": {
+      "en": [
+        "circle square and triangle shapes",
+        "geometric shapes in design tool",
+        "basic shapes for building layouts"
+      ],
+      "ru": [
+        "круг квадрат и треугольник",
+        "геометрические фигуры в дизайне",
+        "базовые фигуры для построения макетов"
+      ]
+    },
+    "test": {
+      "en": [
+        "shapes tool for design software",
+        "overlapping geometric shapes",
+        "children's shape blocks toy"
+      ],
+      "ru": [
+        "инструмент фигур для дизайна",
+        "перекрывающиеся геометрические фигуры",
+        "детские кубики-фигуры"
+      ]
+    }
+  }
+}

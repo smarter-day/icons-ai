@@ -1,0 +1,99 @@
+{
+  "icon": "backpack",
+  "rows": {
+    "train_en": 51,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "backpack",
+        "bag",
+        "book",
+        "carry",
+        "hiking",
+        "rucksack",
+        "satchel",
+        "school",
+        "travel"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "student backpack with zipper pockets",
+        "hiking backpack strapped to shoulders",
+        "canvas bag with padded shoulder straps",
+        "heavy bag for the school commute",
+        "book bag for the school year",
+        "backpack filled with textbooks",
+        "carry backpack on your back",
+        "carry-on backpack for airplane travel",
+        "hiking backpack with external frame",
+        "hiking daypack for mountain trails",
+        "military rucksack for a long march",
+        "rucksack packed for a multi-day hike",
+        "leather satchel with brass buckles",
+        "satchel bag over one shoulder",
+        "school backpack hanging on the coat hook",
+        "school bag with a name tag",
+        "lightweight travel backpack for a weekend",
+        "travel backpack with a laptop sleeve"
+      ]
+    },
+    "regular": {
+      "en": [
+        "zippered backpack with multiple front pockets",
+        "student carrying a heavy backpack to class",
+        "hiking daypack with hip belt and chest strap",
+        "school bag hanging on the classroom hook",
+        "travel backpack packed for a weekend trip",
+        "water bottle in the side mesh pocket of a backpack",
+        "laptop backpack with a padded back panel",
+        "child with a bright-colored school backpack",
+        "military-style rucksack for a camping expedition",
+        "ergonomic backpack with adjustable padded straps"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "I need a backpack icon for the travel essentials page",
+        "add a school bag symbol to the student profile",
+        "show a hiking pack for the outdoor activities section",
+        "use the backpack icon for the packing checklist feature"
+      ]
+    },
+    "typo": {
+      "en": [
+        "backpakc for school",
+        "rucsack for hiking",
+        "satchel wiht brass buckles",
+        "shcool bag on the hook"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "leather briefcase for a business meeting",
+        "rolling suitcase at airport check-in",
+        "shoulder handbag for everyday errands",
+        "gym duffel bag with a shoe compartment",
+        "crossbody messenger bag worn over shoulder",
+        "woven tote bag with long handles"
+      ]
+    },
+    "valid": {
+      "en": [
+        "student backpack with zipper",
+        "hiking rucksack on the trail",
+        "school bag packed with books"
+      ]
+    },
+    "test": {
+      "en": [
+        "travel backpack for weekend trip",
+        "hiking daypack with shoulder straps",
+        "school backpack for student"
+      ]
+    }
+  }
+}

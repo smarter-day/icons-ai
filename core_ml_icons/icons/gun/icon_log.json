@@ -1,0 +1,81 @@
+{
+  "icon": "gun",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "firearm",
+        "pistol",
+        "weapon"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Clean the firearm safely",
+        "Store the firearm securely",
+        "Practice with the pistol at the range",
+        "Buy a holster for the pistol",
+        "Handle the weapon responsibly",
+        "Lock up the weapon at home"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Go to the shooting range",
+        "Clean the gun after use",
+        "Store the gun safely at home",
+        "Take a gun safety course",
+        "Renew the firearms license",
+        "Buy ammunition at the store",
+        "Lock the gun in the safe",
+        "Practice target shooting",
+        "Join a shooting sports club",
+        "Inspect the pistol before use"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Shooting range trip",
+        "Gun safety",
+        "Target practice",
+        "Clean the pistol"
+      ]
+    },
+    "typo": {
+      "en": [
+        "go to the shootign range",
+        "clen the gun after use",
+        "strore the gun safly",
+        "take a gun safty course"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Use a bow and arrow for archery",
+        "Play a laser tag game",
+        "Use a slingshot for target practice",
+        "Shoot with a paintball gun",
+        "Play a shooting video game",
+        "Use a crossbow for sport"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Go to the shooting range",
+        "Store the gun safely",
+        "Take a gun safety course"
+      ]
+    },
+    "test": {
+      "en": [
+        "Clean the gun after use",
+        "Practice target shooting",
+        "Renew the firearms license"
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "icon": "hockey-sticks",
+  "rows": {
+    "train_en": 33,
+    "valid_en": 3,
+    "test_en": 3
+  },
+  "categories": {
+    "search_terms": {
+      "en": [
+        "ice",
+        "nhl",
+        "sport"
+      ]
+    },
+    "phrase_per_search_term": {
+      "en": [
+        "Skate on the ice with the team",
+        "Practice on ice",
+        "Watch the NHL match",
+        "Follow NHL standings",
+        "Play hockey as a sport",
+        "Train for the sport"
+      ]
+    },
+    "regular": {
+      "en": [
+        "Buy a new hockey stick",
+        "Practice stick handling drills",
+        "Choose the right hockey stick flex",
+        "Tape the hockey stick blade",
+        "Join a hockey team",
+        "Play street hockey with sticks",
+        "Watch the hockey game",
+        "Sign kids up for hockey",
+        "Find a good hockey stick for beginners",
+        "Repair the cracked hockey stick"
+      ]
+    },
+    "conversational": {
+      "en": [
+        "Hockey drills",
+        "Tape the stick",
+        "New hockey stick",
+        "Stick handling"
+      ]
+    },
+    "typo": {
+      "en": [
+        "buy a new hocky stikc",
+        "pratice stick handlign",
+        "tape the hocky stick blaed",
+        "jion a hocky team"
+      ]
+    },
+    "boundary": {
+      "en": [
+        "Shoot the puck with the stick",
+        "Use a lacrosse stick instead",
+        "Swing a baseball bat",
+        "Use a golf club on the course",
+        "Hit with a tennis racket",
+        "Use a cricket bat"
+      ]
+    },
+    "valid": {
+      "en": [
+        "Buy a new hockey stick",
+        "Practice stick handling",
+        "Join a hockey team"
+      ]
+    },
+    "test": {
+      "en": [
+        "Tape the hockey stick blade",
+        "Play street hockey with sticks",
+        "Sign kids up for hockey"
+      ]
+    }
+  }
+}
