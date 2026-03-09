@@ -87,20 +87,51 @@
       align-items: center;
     }
 
-    input[type="text"] {
+    .icon-count {
+      font-size: 12px;
+      color: var(--muted);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .search-wrap {
+      position: relative;
       flex: 1;
+    }
+    .search-wrap input[type="text"] {
+      width: 100%;
       border: 1px solid var(--line);
       border-radius: 8px;
-      padding: 7px 10px;
+      padding: 7px 28px 7px 10px;
       font-size: 13px;
       color: var(--text);
       background: #fafbfd;
       outline: none;
+      box-sizing: border-box;
     }
-    input[type="text"]:focus {
+    .search-wrap input[type="text"]:focus {
       border-color: var(--accent);
       background: #fff;
     }
+    .search-clear {
+      position: absolute;
+      right: 7px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1;
+      padding: 2px 4px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.15s;
+    }
+    .search-clear.visible { opacity: 1; pointer-events: auto; }
+    .search-clear:hover { color: var(--text); }
+
 
     button {
       border: 1px solid var(--line);
@@ -745,7 +776,10 @@
           </div>
         </div>
         <div class="search-row">
-          <input id="searchInput" type="text" placeholder="Search icons...">
+          <div class="search-wrap">
+            <input id="searchInput" type="text" placeholder="Search icons...">
+            <button id="searchClear" class="search-clear" title="Clear">✕</button>
+          </div>
           <button id="showSelectedBtn">Only selected</button>
           <button id="showAllBtn">Show all</button>
         </div>
@@ -753,6 +787,7 @@
 
       <!-- Selected bar -->
       <div class="selected-bar">
+        <span id="iconCount" class="icon-count"></span>
         <span class="selected-bar-count">Selected: <strong id="selCount">0</strong></span>
         <div id="selChips" class="sel-chips"></div>
         <div class="sel-bar-btns">
@@ -1117,6 +1152,17 @@
       });
 
       // ── Render ────────────────────────────────────────────────
+      const iconCountEl = document.getElementById("iconCount");
+
+      function updateIconCount(shown, total) {
+        const term = searchInput.value.trim();
+        if (term) {
+          iconCountEl.textContent = `${shown} of ${total}`;
+        } else {
+          iconCountEl.textContent = `${shown} icons`;
+        }
+      }
+
       function render() {
         candidatesToolbar.style.display = currentView === "candidates" ? "" : "none";
         if (currentView === "list") renderList();
@@ -1133,10 +1179,12 @@
 
         const term = searchInput.value.trim().toLowerCase();
         tableBody.textContent = "";
+        let count = 0;
 
         for (const item of data) {
           if (!matchesFilter(item, term)) continue;
           if (selectedOnly && !selected.has(item.name)) continue;
+          count++;
 
           const tr = document.createElement("tr");
           if (selected.has(item.name)) tr.classList.add("selected");
@@ -1173,6 +1221,7 @@
 
           tableBody.appendChild(tr);
         }
+        updateIconCount(count, data.length);
       }
 
       function clearViews() {
@@ -1197,10 +1246,12 @@
         wrap.appendChild(grid);
 
         const term = searchInput.value.trim().toLowerCase();
+        let count = 0;
 
         for (const item of data) {
           if (!matchesFilter(item, term)) continue;
           if (selectedOnly && !selected.has(item.name)) continue;
+          count++;
 
           const card = document.createElement("div");
           card.className = "gallery-card" + (selected.has(item.name) ? " selected" : "");
@@ -1238,6 +1289,7 @@
           grid.appendChild(card);
         }
 
+        updateIconCount(count);
         document.querySelector(".panel").appendChild(wrap);
       }
 
@@ -1245,6 +1297,9 @@
         clearViews();
 
         const term = searchInput.value.trim().toLowerCase();
+        const total = candidateData.filter(item =>
+          !hideIrrelevant || !irrelevantIcons.has(item.name)
+        ).length;
         const candidates = candidateData.filter(item =>
           matchesFilter(item, term) &&
           (!hideIrrelevant || !irrelevantIcons.has(item.name))
@@ -1310,6 +1365,7 @@
         }
 
         document.querySelector(".panel").appendChild(wrap);
+        updateIconCount(candidates.length, total);
       }
 
       // ── View toggle ───────────────────────────────────────────
@@ -1351,7 +1407,19 @@
         try { await navigator.clipboard.writeText(selectedNamesInOrder().join(", ")); } catch (_) {}
       });
 
-      searchInput.addEventListener("input", render);
+      const searchClear = document.getElementById("searchClear");
+
+      searchInput.addEventListener("input", () => {
+        searchClear.classList.toggle("visible", !!searchInput.value);
+        render();
+      });
+
+      searchClear.addEventListener("click", () => {
+        searchInput.value = "";
+        searchClear.classList.remove("visible");
+        searchInput.focus();
+        render();
+      });
 
       // ── Init ──────────────────────────────────────────────────
       // restore active view button
