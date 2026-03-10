@@ -1,0 +1,67 @@
+{
+  "icon": "bottle-baby",
+  "search_terms": [
+    "baby",
+    "bottle",
+    "formula",
+    "infant",
+    "nurse",
+    "nursing"
+  ],
+  "phrase_per_search_term": [
+    "baby fed with a bottle before bedtime",
+    "baby bottle warmed in a bowl of water",
+    "bottle sterilized in the microwave before use",
+    "glass bottle with a silicone nipple",
+    "formula prepared and poured into the bottle",
+    "powdered formula measured for a feed",
+    "infant drinking from a held bottle",
+    "infant hunger cue responded to with a bottle",
+    "nurse handing a bottle to the new parent",
+    "nurse teaching bottle-feeding technique",
+    "nursing parent switching between breast and bottle",
+    "nursing schedule tracked in a baby app"
+  ],
+  "regular": [
+    "baby bottle with measurement marks on the side",
+    "plastic baby bottle with a silicone teat",
+    "bottle of infant formula ready to feed",
+    "baby bottle icon for a parenting or infant app",
+    "warming a baby bottle under warm running water",
+    "sterilized baby bottle in the drying rack",
+    "formula-filled bottle for a newborn feeding",
+    "dad holding a bottle for the baby at night",
+    "bottle with a slow-flow nipple for a newborn",
+    "baby bottle symbol in a feeding schedule app"
+  ],
+  "conversational": [
+    "I need a baby bottle icon for my parenting app",
+    "add a bottle symbol to the feeding tracker",
+    "show a baby bottle for the infant schedule screen",
+    "use the bottle-baby icon for the formula section"
+  ],
+  "typo": [
+    "baaby bottle warmed before feeding",
+    "infnat bottle with silicone nipple",
+    "fomrula poured into the baby bottle",
+    "nurssing schedule tracked in the app"
+  ],
+  "boundary": [
+    "pacifier soother rubber nipple for calming",
+    "sippy cup toddler transition drinking cup",
+    "milk carton school lunch dairy container",
+    "breast pump electric double-pump device",
+    "baby food jar with pureed fruit inside",
+    "water bottle reusable adult drink container"
+  ],
+  "valid": [
+    "baby bottle icon",
+    "infant bottle symbol",
+    "bottle-baby feeding icon"
+  ],
+  "test": [
+    "baby bottle formula icon",
+    "infant feeding bottle",
+    "bottle-baby parenting app"
+  ]
+}

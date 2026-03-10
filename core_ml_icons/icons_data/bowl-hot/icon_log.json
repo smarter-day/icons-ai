@@ -1,0 +1,76 @@
+{
+  "icon": "bowl-hot",
+  "search_terms": [
+    "bisque",
+    "bouillon",
+    "bowl",
+    "broth",
+    "chicken",
+    "chowder",
+    "gazpacho",
+    "ramen",
+    "stew"
+  ],
+  "phrase_per_search_term": [
+    "lobster bisque served in a warm bowl",
+    "creamy bisque with a swirl of cream",
+    "bouillon cube dissolved in hot water",
+    "chicken bouillon for a quick broth base",
+    "bowl of steaming soup on the table",
+    "ceramic bowl with a lid keeping it hot",
+    "warm broth sipped on a cold evening",
+    "broth ladled from the pot into a bowl",
+    "chicken soup remedy for a winter cold",
+    "chicken noodle soup in a deep bowl",
+    "clam chowder served in a bread bowl",
+    "thick New England chowder with cream",
+    "cold gazpacho poured into a chilled bowl",
+    "gazpacho blended from fresh tomatoes",
+    "ramen bowl topped with a soft-boiled egg",
+    "steaming ramen delivered to the table",
+    "beef stew simmered for three hours",
+    "hearty stew with vegetables and dumplings"
+  ],
+  "regular": [
+    "steaming bowl of hot soup with vapor rising",
+    "ceramic bowl filled with ramen and toppings",
+    "hot soup bowl icon for a food delivery app",
+    "bowl of broth with noodles and vegetables",
+    "chicken soup in a large white bowl",
+    "stew ladled into a bowl at dinnertime",
+    "hot bowl of chowder on a wooden table",
+    "steam curling from a freshly served bowl",
+    "bowl of soup emoji for a comfort food app",
+    "instant noodle bowl heated in the microwave"
+  ],
+  "conversational": [
+    "I need a hot bowl icon for my food app",
+    "add a soup bowl symbol to the menu section",
+    "show a steaming bowl for the hot meals feature",
+    "use the bowl-hot icon for the ramen category"
+  ],
+  "typo": [
+    "steamig bowl of ramen with soft-boiled egg",
+    "chickne soup in a large cerarmic bowl",
+    "hot boowl of stew on the dinner table",
+    "ramne bowl topped with nori and egg"
+  ],
+  "boundary": [
+    "plate flat dish with food served on it",
+    "mug handle cup for hot coffee or tea",
+    "pot large cooking vessel on the stove",
+    "salad bowl cold greens and vegetables",
+    "cup and saucer for a warm beverage",
+    "ladle long-handled spoon for serving soup"
+  ],
+  "valid": [
+    "hot bowl soup icon",
+    "steaming bowl symbol",
+    "bowl-hot ramen icon"
+  ],
+  "test": [
+    "hot bowl food app",
+    "soup bowl steaming icon",
+    "bowl-hot stew symbol"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "icon": "badge-sheriff",
+  "search_terms": [
+    "cowboy",
+    "justice",
+    "law",
+    "western"
+  ],
+  "phrase_per_search_term": [
+    "cowboy sheriff pinning a badge on his vest",
+    "cowboy hat and star badge in the old west",
+    "justice served by the county sheriff",
+    "justice symbol on a star-shaped badge",
+    "law enforcement badge worn by the sheriff",
+    "law and order in a western town",
+    "western sheriff keeping the peace in town",
+    "western film hero with a shiny star badge"
+  ],
+  "regular": [
+    "gold star-shaped sheriff badge pinned to a vest",
+    "western sheriff badge with a star cutout",
+    "county sheriff badge engraved with a name",
+    "old west lawman wearing a tin star badge",
+    "sheriff badge icon for a western-themed app",
+    "deputy sheriff badge smaller than the sheriff's star",
+    "badge of authority pinned on a cowboy sheriff",
+    "sheriff star badge on a leather holster belt",
+    "law enforcement badge for a security game app",
+    "sheriff badge symbol for a roles and ranks feature"
+  ],
+  "conversational": [
+    "I need a sheriff badge icon for my game app",
+    "add a badge-sheriff symbol to the law section",
+    "show a sheriff star for the western role feature",
+    "use the badge-sheriff icon for the officer rank"
+  ],
+  "typo": [
+    "gold sehriff badge pinned to the vest",
+    "western sherif star badge of authority",
+    "sherrif badge in the old west town",
+    "cownboy law badge for the deputy"
+  ],
+  "boundary": [
+    "police officer badge round shield design",
+    "medal award ribbon hanging from a pin",
+    "star gold five-point star shape symbol",
+    "crown royalty symbol with jewels",
+    "seal official wax impression on a document",
+    "ribbon award rosette with a center disc"
+  ],
+  "valid": [
+    "sheriff badge star icon",
+    "western sheriff badge symbol",
+    "badge-sheriff icon"
+  ],
+  "test": [
+    "sheriff star badge law",
+    "cowboy sheriff badge icon",
+    "badge-sheriff western"
+  ]
+}
