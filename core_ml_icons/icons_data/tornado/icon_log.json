@@ -1,0 +1,79 @@
+{
+  "icon": "tornado",
+  "search_terms": [
+    "cloud",
+    "cyclone",
+    "dorothy",
+    "landspout",
+    "tornado",
+    "toto",
+    "twister",
+    "waterspout",
+    "weather",
+    "whirlwind"
+  ],
+  "phrase_per_search_term": [
+    "dark storm cloud spawning a tornado below",
+    "rotating cloud funnel descending from the sky",
+    "cyclone warning issued for the coastal region",
+    "tropical cyclone spinning in the ocean",
+    "dorothy swept away by a Kansas tornado",
+    "wizard of Oz Dorothy and the twister",
+    "landspout tornado forming over flat terrain",
+    "short-lived landspout dust devil",
+    "tornado touching down in a field",
+    "tornado siren going off in the town",
+    "toto the dog in the tornado scene",
+    "toto swept up in Dorothy's tornado",
+    "twister tornado spinning across the plains",
+    "twister game board with colorful spots",
+    "waterspout tornado rising from the ocean surface",
+    "waterspout seen off the Florida coast",
+    "severe weather warning for tornado activity",
+    "weather icon for a storm alert app",
+    "whirlwind spinning debris into the air",
+    "whirlwind effect icon in a weather app"
+  ],
+  "regular": [
+    "funnel-shaped tornado descending from a dark cloud",
+    "tornado warning siren activated in the county",
+    "severe weather icon for a storm alert app",
+    "narrow spinning vortex touching the ground below",
+    "take shelter when a tornado watch is issued",
+    "natural disaster icon in an emergency preparedness app",
+    "tornado silhouette with debris swirling at the base",
+    "tornado path tracked on a storm chaser map",
+    "weather hazard icon in a radar or forecast app",
+    "spinning funnel cloud narrowing toward the earth"
+  ],
+  "conversational": [
+    "I need a tornado icon for my weather alert app",
+    "add a tornado symbol to the severe weather section",
+    "show a tornado for the natural disaster feature",
+    "use the tornado icon for the storm tracking screen"
+  ],
+  "typo": [
+    "torando warning for the county",
+    "tornaod touching down in the field",
+    "torndo funnel cloud",
+    "tornadoo spinning across the plains"
+  ],
+  "boundary": [
+    "hurricane spiral viewed from satellite above",
+    "tropical hurricane making landfall on the coast",
+    "lightning bolt striking during a thunderstorm",
+    "dark storm cloud with heavy rain below",
+    "whirlpool drain spinning in a body of water",
+    "ocean whirlpool pulling objects in a spiral"
+  ],
+  "valid": [
+    "tornado funnel touching down",
+    "tornado icon for a weather app",
+    "spinning tornado vortex"
+  ],
+  "test": [
+    "tornado warning for a storm app",
+    "tornado funnel cloud descending",
+    "severe weather tornado symbol"
+  ]
+}

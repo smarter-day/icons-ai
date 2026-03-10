@@ -1,0 +1,76 @@
+{
+  "icon": "trumpet",
+  "search_terms": [
+    "brass",
+    "bugle",
+    "classical",
+    "cornet",
+    "instrument",
+    "jazz",
+    "music",
+    "orchestra",
+    "trumpet"
+  ],
+  "phrase_per_search_term": [
+    "brass instrument with a bright golden finish",
+    "brass section of a marching band",
+    "bugle sounding a military reveille call",
+    "simple bugle with no valves",
+    "classical trumpet solo in a concert hall",
+    "classical orchestra featuring trumpets and horns",
+    "cornet similar to a trumpet but shorter",
+    "brass cornet used in a brass band",
+    "wind instrument requiring strong breath control",
+    "brass instrument icon for a music app",
+    "jazz trumpet player in a smoky club",
+    "jazz solo improvised on the trumpet",
+    "music played on a shiny brass trumpet",
+    "music icon featuring a trumpet",
+    "orchestra trumpet section playing forte",
+    "orchestra pit with a row of trumpet players",
+    "gleaming trumpet with three valves on top",
+    "play the trumpet in a marching band"
+  ],
+  "regular": [
+    "gold trumpet with three valves and a wide bell",
+    "play the trumpet in a jazz quartet",
+    "music instrument icon for a band or orchestra app",
+    "shiny brass trumpet viewed from the side",
+    "practice the trumpet scales every morning",
+    "brass section icon in a music education app",
+    "trumpet bell flaring outward at the end",
+    "fanfare trumpet announcing an important event",
+    "instrument icon for a music learning platform",
+    "classic trumpet silhouette in a musical context"
+  ],
+  "conversational": [
+    "I need a trumpet icon for my music app",
+    "add a trumpet symbol to the brass instruments section",
+    "show a trumpet for the jazz music feature",
+    "use the trumpet icon for the orchestra category"
+  ],
+  "typo": [
+    "trupmte solo in a jazz bar",
+    "trumpt in the marching band",
+    "trumept player in the orchestra",
+    "trumpett with a golden finish"
+  ],
+  "boundary": [
+    "curved saxophone with a wide flared bell",
+    "jazz saxophonist playing on stage",
+    "trombone with a long sliding tube",
+    "brass trombone player in a marching band",
+    "round French horn coiled in a circle",
+    "French horn player in an orchestra pit"
+  ],
+  "valid": [
+    "gold trumpet with three valves",
+    "trumpet icon for a music app",
+    "brass trumpet for a jazz band"
+  ],
+  "test": [
+    "trumpet solo in a jazz club",
+    "trumpet in a marching band",
+    "trumpet instrument icon"
+  ]
+}

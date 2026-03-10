@@ -1,0 +1,70 @@
+{
+  "icon": "snowman",
+  "search_terms": [
+    "cold",
+    "decoration",
+    "frost",
+    "frosty",
+    "holiday",
+    "snow",
+    "snowman"
+  ],
+  "phrase_per_search_term": [
+    "cold winter day perfect for building a snowman",
+    "cold weather icon for a weather forecast app",
+    "snowman decoration in a holiday window display",
+    "yard decoration snowman with a scarf and hat",
+    "frost on the ground the morning after a snowstorm",
+    "frosty the snowman standing in the yard",
+    "frosty snowman with coal eyes and a carrot nose",
+    "frosty winter icon for a holiday greeting card",
+    "holiday snowman decoration for Christmas",
+    "winter holiday icon in a seasonal app",
+    "snow packed into a round snowman body",
+    "snow covering the ground on a winter morning",
+    "classic three-ball snowman with a top hat",
+    "build a snowman with the kids after school"
+  ],
+  "regular": [
+    "three stacked snowballs making a classic snowman",
+    "build a snowman after a heavy snowfall",
+    "winter holiday icon for a seasonal or Christmas app",
+    "snowman with a carrot nose and coal buttons",
+    "snowman wearing a scarf and top hat outside",
+    "festive decoration icon for a holiday app",
+    "cheerful snowman with stick arms and a smile",
+    "children rolling snowballs to build a snowman",
+    "winter season icon in a weather or calendar app",
+    "glowing snowman ornament on a snowy lawn"
+  ],
+  "conversational": [
+    "I need a snowman icon for my winter app",
+    "add a snowman symbol to the holiday season section",
+    "show a snowman for the winter activities feature",
+    "use the snowman icon for the Christmas decoration category"
+  ],
+  "typo": [
+    "snowmaan wearing a top hat",
+    "snoman standing in the yard",
+    "snowamn built in the yard",
+    "snoaman with a carrot nose"
+  ],
+  "boundary": [
+    "tall decorated Christmas tree with a star on top",
+    "green Christmas tree with ornaments and lights",
+    "santa claus with a red hat and white beard",
+    "jolly Santa holding a bag of presents",
+    "dome-shaped igloo made from packed snow blocks",
+    "arctic igloo with an entrance tunnel"
+  ],
+  "valid": [
+    "classic three-ball snowman with a top hat",
+    "snowman icon for a winter app",
+    "frosty snowman in the yard"
+  ],
+  "test": [
+    "snowman with a carrot nose",
+    "build a snowman after snowfall",
+    "winter snowman decoration"
+  ]
+}
