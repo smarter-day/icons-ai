@@ -1,0 +1,64 @@
+{
+  "icon": "watch",
+  "search_terms": [
+    "alert",
+    "clock",
+    "time",
+    "watch",
+    "wristwatch"
+  ],
+  "phrase_per_search_term": [
+    "watch alert vibrating on the wrist",
+    "alert notification on a smartwatch screen",
+    "analog clock face on a wristwatch",
+    "clock icon for a time tracking feature",
+    "check the time on your wrist watch",
+    "time icon in a schedule or calendar app",
+    "classic wristwatch with leather strap",
+    "smartwatch displaying the current time",
+    "luxury wristwatch with a sapphire crystal",
+    "wristwatch on a wooden display stand"
+  ],
+  "regular": [
+    "round wristwatch with an analog dial face",
+    "glance at the watch to check the time",
+    "time icon for a schedule or clock app",
+    "smartwatch with a digital screen on the wrist",
+    "set a reminder on the wristwatch for the meeting",
+    "wearable device icon in a health or fitness app",
+    "watch with a metal bracelet and hour markers",
+    "track workout time and heart rate on the watch",
+    "time management icon in a productivity app",
+    "vintage watch with Roman numeral hour markers"
+  ],
+  "conversational": [
+    "I need a watch icon for my time tracking app",
+    "add a watch symbol to the schedule section",
+    "show a watch for the time management feature",
+    "use the watch icon for the wearable device screen"
+  ],
+  "typo": [
+    "wtach strapped to the wrist",
+    "watcch on the wrist",
+    "wathc vibrating with an alert",
+    "atch on a leather strap"
+  ],
+  "boundary": [
+    "round wall clock with hour and minute hands",
+    "analog alarm clock on a bedside table",
+    "countdown timer ticking down to zero",
+    "kitchen timer set for 20 minutes",
+    "stopwatch used to time a sprint",
+    "sports stopwatch with a lap button"
+  ],
+  "valid": [
+    "analog wristwatch with a round dial",
+    "watch icon for a time tracking app",
+    "smartwatch on the wrist"
+  ],
+  "test": [
+    "glance at the watch to check time",
+    "wristwatch for a schedule app",
+    "watch icon in a productivity app"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "icon": "wave",
+  "search_terms": [
+    "barrel",
+    "beach",
+    "break",
+    "shore",
+    "surf",
+    "tsunami",
+    "water",
+    "wave"
+  ],
+  "phrase_per_search_term": [
+    "barrel wave forming a perfect tube",
+    "barrel roll inside a breaking wave",
+    "beach waves crashing on the sand",
+    "beach vacation with rolling surf",
+    "wave breaking on the rocky shore",
+    "break point where surfers wait",
+    "foamy shore where waves meet land",
+    "shore walk watching waves roll in",
+    "surf session catching big waves",
+    "surf forecast showing swell height",
+    "massive tsunami wave approaching the coast",
+    "tsunami warning issued for coastal areas",
+    "water ripple expanding outward",
+    "water current moving in the ocean",
+    "ocean wave crest rising and falling",
+    "wave pattern decorative border"
+  ],
+  "regular": [
+    "curling ocean wave with white foam crest",
+    "surfer riding inside the barrel of a big wave",
+    "wave icon for a beach or surf forecast app",
+    "tsunami alert shown with a massive wave symbol",
+    "gentle shore waves lapping on the sand",
+    "ocean swell building offshore before breaking",
+    "wave pattern used as a decorative divider",
+    "blue water wave emoji for messaging",
+    "storm wave crashing against the sea wall",
+    "wave height measurement on a surf report"
+  ],
+  "conversational": [
+    "I need a wave icon for my surf app",
+    "add a wave symbol to the ocean conditions section",
+    "show a wave for the beach forecast feature",
+    "use the wave icon for the tsunami alert page"
+  ],
+  "typo": [
+    "surfing the bareel wave at the point",
+    "ocean waev crashing on the beach",
+    "tusnami wave warning on the coast",
+    "suft forecast for big wave conditions"
+  ],
+  "boundary": [
+    "water droplet single blue teardrop falling",
+    "swimming person doing laps in a pool",
+    "sailboat on calm water with white sail",
+    "rain cloud with water drops falling",
+    "river winding through a landscape",
+    "wind turbine spinning in a coastal breeze"
+  ],
+  "valid": [
+    "ocean wave icon",
+    "surf wave symbol",
+    "wave beach icon"
+  ],
+  "test": [
+    "wave crashing shore",
+    "tsunami wave alert",
+    "wave surf forecast icon"
+  ]
+}

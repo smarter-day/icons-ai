@@ -1,0 +1,67 @@
+{
+  "icon": "cherries",
+  "search_terms": [
+    "berries",
+    "cherries",
+    "cherry",
+    "fruit",
+    "red",
+    "stem"
+  ],
+  "phrase_per_search_term": [
+    "assorted berries in a summer dessert",
+    "wild berries picked from the hedgerow",
+    "bowl of cherries on the kitchen counter",
+    "cherries dipped in dark chocolate",
+    "cherry on top of an ice cream sundae",
+    "maraschino cherry in a cocktail glass",
+    "stone fruit harvest in early summer",
+    "fruit tart topped with fresh cherries",
+    "red cherry gleaming with ripe color",
+    "red round cherries hanging on the tree",
+    "stem attached to a pair of cherries",
+    "tie the cherry stem with your tongue"
+  ],
+  "regular": [
+    "two red cherries hanging from a shared green stem",
+    "ripe cherry glossy red with a long stem",
+    "cherry pair emoji for messaging apps",
+    "bowl of sweet cherries fresh from the orchard",
+    "cherry blossoms falling like pink snow",
+    "sour cherries used for pie filling",
+    "cherry on top of a layered sundae",
+    "cherry juice dark red in a small glass",
+    "cherry season arriving in late spring",
+    "cherry icon for a food journaling app"
+  ],
+  "conversational": [
+    "I need a cherries icon for my recipe app",
+    "add a cherries symbol to the fruit category",
+    "show cherries for the dessert topping section",
+    "use the cherries icon for the fresh produce page"
+  ],
+  "typo": [
+    "pair of cherreis on a green stem",
+    "red cheries dipped in chocolate",
+    "maraschino chery in the cocktail",
+    "fresh cherryes from the orchard"
+  ],
+  "boundary": [
+    "red strawberry heart-shaped berry with seeds",
+    "grapes purple cluster hanging from vine",
+    "tomato red round fruit on the vine",
+    "apple red round fruit with a stem",
+    "cranberries red tart berries in sauce",
+    "pomegranate red seeded fruit cut in half"
+  ],
+  "valid": [
+    "red cherries fruit icon",
+    "pair of cherries on stem",
+    "cherries produce symbol"
+  ],
+  "test": [
+    "cherries emoji fruit",
+    "fresh cherries icon",
+    "cherry pair dessert"
+  ]
+}

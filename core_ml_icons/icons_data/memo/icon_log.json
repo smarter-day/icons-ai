@@ -1,0 +1,70 @@
+{
+  "icon": "memo",
+  "search_terms": [
+    "cv",
+    "file",
+    "idea",
+    "note",
+    "notepad",
+    "page",
+    "paper"
+  ],
+  "phrase_per_search_term": [
+    "cv attached as a memo for HR review",
+    "cv template formatted as a memo document",
+    "file saved as a memo in the folder",
+    "file icon representing a short memo",
+    "idea scribbled on a memo pad",
+    "idea captured in a quick memo",
+    "note left on the fridge for the family",
+    "sticky note reminder memo on the desk",
+    "notepad memo pages torn off and handed over",
+    "notepad filled with handwritten memos",
+    "page of a memo with bullet points",
+    "one-page memo circulated to the team",
+    "paper memo printed and posted on the board",
+    "paper note folded and slipped under the door"
+  ],
+  "regular": [
+    "short memo document with lined pages",
+    "sticky note memo jotted down quickly",
+    "office memo printed and distributed to staff",
+    "memo icon for a notes and reminders app",
+    "handwritten memo with key points listed",
+    "inter-office memo sent between departments",
+    "memo page with a folded corner",
+    "quick memo captured on a phone",
+    "memo template for a corporate briefing",
+    "notebook memo pad icon for productivity app"
+  ],
+  "conversational": [
+    "I need a memo icon for my notes app",
+    "add a memo symbol to the document section",
+    "show a memo for the quick note feature",
+    "use the memo icon for the internal message board"
+  ],
+  "typo": [
+    "quick mmo jotted on the notepad",
+    "ofice memmo distributed to the team",
+    "sicky note memoo on the fridge",
+    "memo documnet saved in the folder"
+  ],
+  "boundary": [
+    "clipboard with a checklist attached",
+    "notebook spiral-bound with many pages",
+    "envelope sealed letter ready to mail",
+    "calendar page with a date marked",
+    "to-do list with checkboxes on paper",
+    "document file with multiple pages stacked"
+  ],
+  "valid": [
+    "memo note icon",
+    "quick memo document",
+    "memo notepad symbol"
+  ],
+  "test": [
+    "office memo icon",
+    "memo note reminder",
+    "memo document page"
+  ]
+}

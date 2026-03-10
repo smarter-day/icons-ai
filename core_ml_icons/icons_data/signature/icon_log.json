@@ -1,0 +1,61 @@
+{
+  "icon": "signature",
+  "search_terms": [
+    "cursive",
+    "name",
+    "username",
+    "writing"
+  ],
+  "phrase_per_search_term": [
+    "cursive script flowing across the page",
+    "cursive handwriting in a personal letter",
+    "sign your name at the bottom of the form",
+    "name written in a stylized signature",
+    "create a username for your profile",
+    "username displayed on the login screen",
+    "writing a signature on the dotted line",
+    "writing your autograph on a document"
+  ],
+  "regular": [
+    "handwritten signature on a contract document",
+    "stylized cursive signature with a flourish",
+    "e-signature captured on a touch screen",
+    "doctor's illegible signature on a prescription",
+    "autograph signed by a celebrity on a photo",
+    "digital signature field in a PDF form",
+    "signature icon for a document signing app",
+    "ink pen signing a legal agreement",
+    "signature verification for identity check",
+    "unique handwritten name as a personal mark"
+  ],
+  "conversational": [
+    "I need a signature icon for my contract app",
+    "add a signature symbol to the document signing screen",
+    "show a signature for the approval workflow",
+    "use the signature icon for the e-sign feature"
+  ],
+  "typo": [
+    "sign your signaure on the dotted line",
+    "cursive signtaure on the contract",
+    "handwriten signatre looks unique",
+    "digital signture captured on the pad"
+  ],
+  "boundary": [
+    "pen writing on paper open notepad",
+    "pencil sketching a drawing on paper",
+    "stamp seal impression on a document",
+    "fingerprint unique biometric identifier",
+    "certificate with ribbon and wax seal",
+    "handwriting text flowing cursive script"
+  ],
+  "valid": [
+    "handwritten signature icon",
+    "e-signature symbol",
+    "cursive signature mark"
+  ],
+  "test": [
+    "signature contract icon",
+    "sign document symbol",
+    "signature writing icon"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "icon": "citrus",
+  "search_terms": [
+    "fruit",
+    "grapefruit",
+    "juice",
+    "mandarin",
+    "orange",
+    "tangerine"
+  ],
+  "phrase_per_search_term": [
+    "tropical fruit salad with citrus slices",
+    "fruit basket with lemons and oranges",
+    "pink grapefruit halved on the counter",
+    "grapefruit juice squeezed for breakfast",
+    "freshly squeezed citrus juice in a glass",
+    "juice bar serving fresh orange and lemon",
+    "mandarin orange easy to peel snack",
+    "mandarin segments in a lunchbox",
+    "fresh orange cross-section showing segments",
+    "orange peel zested for baking",
+    "tangerine small sweet citrus fruit",
+    "tangerine peeled and separated into segments"
+  ],
+  "regular": [
+    "orange citrus fruit sliced to show juicy segments",
+    "cross-section of a grapefruit with pink flesh",
+    "pile of ripe citrus fruits on a market stall",
+    "citrus juicer squeezing an orange half",
+    "vitamin C-rich citrus for a health app",
+    "mandarin peeled into segments for a snack",
+    "citrus zest grated over a dessert",
+    "lemon lime orange tangerine citrus variety",
+    "citrus slice icon for a juice bar app",
+    "fresh citrus scent icon for a home care product"
+  ],
+  "conversational": [
+    "I need a citrus icon for my nutrition app",
+    "add a citrus symbol to the vitamin C section",
+    "show a citrus fruit for the juice recipe list",
+    "use the citrus icon for the fresh produce category"
+  ],
+  "typo": [
+    "fresh citurus fruit on the counter",
+    "sliced cirtus on a cutting board",
+    "grapefruti juice for breakfast",
+    "mandaring orange easy to peel"
+  ],
+  "boundary": [
+    "yellow lemon wedge on a cocktail rim",
+    "green lime slice for guacamole",
+    "pineapple tropical fruit with spiky leaves",
+    "pomelo large pale citrus variety",
+    "peach fuzzy stone fruit in summer",
+    "mango yellow tropical drupe fruit"
+  ],
+  "valid": [
+    "citrus fruit icon",
+    "orange citrus slice",
+    "citrus produce symbol"
+  ],
+  "test": [
+    "citrus juice icon",
+    "grapefruit citrus fruit",
+    "mandarin citrus segment"
+  ]
+}

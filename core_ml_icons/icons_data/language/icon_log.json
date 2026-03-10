@@ -1,0 +1,67 @@
+{
+  "icon": "language",
+  "search_terms": [
+    "dialect",
+    "idiom",
+    "localize",
+    "speech",
+    "translate",
+    "vernacular"
+  ],
+  "phrase_per_search_term": [
+    "regional dialect spoken in the countryside",
+    "dialect differences between cities",
+    "common idiom used in everyday conversation",
+    "idiom lost in translation between languages",
+    "localize the app for Japanese users",
+    "localize strings for a global release",
+    "speech bubble showing foreign language text",
+    "speech recognition translating on the fly",
+    "translate the document into Spanish",
+    "translate button in the browser toolbar",
+    "vernacular slang used by local speakers",
+    "vernacular expressions in native speech"
+  ],
+  "regular": [
+    "globe with speech bubbles in different languages",
+    "translate button converting text to another language",
+    "language selector dropdown in app settings",
+    "multilingual interface supporting ten languages",
+    "language learning app showing vocabulary cards",
+    "speech bubble with foreign script characters",
+    "language icon for a localization settings screen",
+    "international flag representing a language choice",
+    "language detection switching to native tongue",
+    "translation app converting spoken words in real time"
+  ],
+  "conversational": [
+    "I need a language icon for my translation app",
+    "add a language symbol to the localization settings",
+    "show a language selector for the app onboarding",
+    "use the language icon for the multilingual feature"
+  ],
+  "typo": [
+    "translate the documnet into French",
+    "localise the app for Japanees users",
+    "langauge selector in the settings menu",
+    "speech recogniton in a foreign languge"
+  ],
+  "boundary": [
+    "keyboard typing letters on a layout",
+    "chat bubble conversation message icon",
+    "book open pages of written text",
+    "microphone recording spoken words",
+    "flag country identifier national symbol",
+    "font letter A typography text formatting"
+  ],
+  "valid": [
+    "language translation icon",
+    "multilingual language symbol",
+    "language selector icon"
+  ],
+  "test": [
+    "translate language icon",
+    "language localization symbol",
+    "language app settings"
+  ]
+}
