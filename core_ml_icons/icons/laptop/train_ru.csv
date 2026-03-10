@@ -1,9 +1,9 @@
 text,label
 компьютер,laptop
 ноутбук,laptop
-mac,laptop
-macbook,laptop
-pc,laptop
+мак,laptop
+макбук,laptop
+пк,laptop
 купить новый компьютер для работы,laptop
 исправить проблему с компьютером,laptop
 купить лёгкий ноутбук,laptop
@@ -14,16 +14,10 @@ pc,laptop
 настроить параметры MacBook,laptop
 купить ноутбук на Windows,laptop
 использовать ПК для работы,laptop
-купить новый ноутбук для работы,laptop
-настроить MacBook,laptop
-работать за ноутбуком в кафе,laptop
-обновить ПО ноутбука,laptop
 сделать резервную копию файлов ноутбука,laptop
 починить медленный ноутбук,laptop
-подключить ноутбук к монитору,laptop
 зарядить аккумулятор ноутбука,laptop
 почистить экран ноутбука,laptop
-заменить аккумулятор ноутбука,laptop
 новый ноутбук,laptop
 настройка MacBook,laptop
 работать с ноутбука,laptop

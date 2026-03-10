@@ -2,39 +2,37 @@ text,label
 диаграмма,diagram-project
 график,diagram-project
 сеть,diagram-project
-дерзкий,diagram-project
+pert,diagram-project
 статистика,diagram-project
-Постройте диаграмму проекта,diagram-project
-Просмотрите диаграмму проекта вместе с командой,diagram-project
-Создайте гистограмму для отчета,diagram-project
-Прочитайте результаты графика,diagram-project
-Составьте схему сети,diagram-project
-Проектирование топологии сети,diagram-project
-Используйте диаграмму PERT для планирования.,diagram-project
-Создайте диаграмму PERT для проекта.,diagram-project
-Анализировать статистику проекта,diagram-project
-Поделитесь статистикой в презентации,diagram-project
-Создайте блок-схему проекта,diagram-project
-Сопоставьте зависимости между задачами,diagram-project
-Планируйте этапы проекта,diagram-project
-Постройте сетевую диаграмму для проекта,diagram-project
-Просмотрите диаграмму проекта вместе с командой,diagram-project
-Используйте диаграмму PERT для планирования.,diagram-project
-Визуализируйте график проекта,diagram-project
-Нарисуйте диаграмму зависимости задач,diagram-project
-Планирование этапов на диаграмме,diagram-project
-Обновите диаграмму рабочего процесса проекта.,diagram-project
-Составьте карту проекта,diagram-project
-Нарисуйте рабочий процесс,diagram-project
-Схема проекта,diagram-project
-Блок-схема задач,diagram-project
+построить проектную диаграмму,diagram-project
+обсудить проектную диаграмму с командой,diagram-project
+создать столбчатый график для отчёта,diagram-project
+прочитать результаты графика,diagram-project
+составить сетевую диаграмму,diagram-project
+спроектировать топологию сети,diagram-project
+использовать диаграмму pert для планирования,diagram-project
+создать pert-диаграмму для проекта,diagram-project
+анализировать статистику проекта,diagram-project
+показать статистику в презентации,diagram-project
+сопоставить зависимости между задачами,diagram-project
+спланировать этапы проекта,diagram-project
+построить сетевую диаграмму для проекта,diagram-project
+просмотреть диаграмму проекта с командой,diagram-project
+использовать pert для планирования,diagram-project
+визуализировать график проекта,diagram-project
+планировать этапы на диаграмме,diagram-project
+обновить диаграмму проектного потока,diagram-project
+составить карту проекта,diagram-project
+нарисовать рабочий процесс,diagram-project
+схема проекта,diagram-project
+блок-схема задач,diagram-project
 создать диаграмму проекта,diagram-project
 планировать ход проекта,diagram-project
-схема сети,diagram-project
-отличная диаграмма для планирования,diagram-project
-Создайте круговую диаграмму для бюджета,diagram-project
-Создайте диаграмму Ганта для расписания,diagram-project
-Нарисуйте диаграмму Венна,diagram-project
-Постройте гистограмму для статистики,diagram-project
-Постройте линейный график тренда,diagram-project
-Создайте электронную таблицу,diagram-project
+сетевая схема,diagram-project
+pert-диаграмма для планирования,diagram-project
+создать круговую диаграмму бюджета,diagram-project
+создать диаграмму ганта для расписания,diagram-project
+нарисовать диаграмму венна,diagram-project
+построить гистограмму для статистики,diagram-project
+построить линейный график тренда,diagram-project
+создать электронную таблицу,diagram-project

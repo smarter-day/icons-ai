@@ -19,7 +19,7 @@ text,label
 Резервное копирование файла проекта,floppy-disk
 Загрузите установочный файл,floppy-disk
 Соберите старые дискеты,floppy-disk
-Найдите USB-устройство чтения гибких дисков.,floppy-disk
+Найдите usb-ридер для дискет,floppy-disk
 Перенос старых файлов с дискеты,floppy-disk
 Часто сохраняйте работу,floppy-disk
 Загрузите и сохраните вложение,floppy-disk
@@ -30,11 +30,11 @@ text,label
 Загрузите это,floppy-disk
 сохраните документ,floppy-disk
 скачать флай,floppy-disk
-резервная копия на dki,floppy-disk
+резервная копия на дискете,floppy-disk
 старые дискеты,floppy-disk
-Сохраняем на USB-накопитель,floppy-disk
+Сохранить на usb-накопитель,floppy-disk
 Загрузить в облачное хранилище,floppy-disk
 Запись данных на компакт-диск,floppy-disk
 Копирование на внешний жесткий диск,floppy-disk
 Сохранить на SD-карту,floppy-disk
-Загрузите файл на Google Диск,floppy-disk
+Загрузить файл в облачное хранилище,floppy-disk

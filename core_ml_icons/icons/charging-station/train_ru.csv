@@ -20,13 +20,11 @@ text,label
 Время зарядки Tesla на станции,charging-station
 Проверка совместимости разъёма зарядки,charging-station
 Статус зарядки транспортного средства,charging-station
-Найти ближайшую зарядную станцию,charging-station
 Сессия зарядки электромобиля в процессе,charging-station
 Подключить машину к зарядной точке,charging-station
 Время ожидания на зарядной станции,charging-station
 Проверить запас хода перед дальней поездкой,charging-station
 Установка домашней зарядки,charging-station
-Членство в сети зарядных станций,charging-station
 Пополнить заряд на трассе,charging-station
 Запланировать ночную зарядку,charging-station
 Расчёт стоимости зарядки,charging-station

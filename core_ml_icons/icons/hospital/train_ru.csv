@@ -12,11 +12,8 @@ text,label
 пациенты с covid-19 в больнице,hospital
 врач в больнице,hospital
 врач работает в больничной палате,hospital
-emergency room at the hospital,hospital
 посещение отделения неотложной помощи в ночное время,hospital
 Значок больницы на карте,hospital
-символ здания больницы,hospital
-"медицинский центр, больница",hospital
 здание медицинского центра,hospital
 лекарство выдается в больнице,hospital
 больничная аптечка,hospital
@@ -36,7 +33,6 @@ emergency room at the hospital,hospital
 используйте значок больницы для страницы медицинского центра,hospital
 здание больницы,hospital
 посещение отделения неотложной помощи,hospital
-больница на карте,hospital
 врач в больнице,hospital
 аптека с зеленым крестом,hospital
 офисное здание клиники для приема на прием,hospital

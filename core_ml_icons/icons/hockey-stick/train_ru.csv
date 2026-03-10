@@ -3,7 +3,7 @@ text,label
 хоккей,hockey-stick
 лед,hockey-stick
 хоккей с шайбой,hockey-stick
-НХЛ,hockey-stick
+лига,hockey-stick
 шайба,hockey-stick
 спорт,hockey-stick
 палка,hockey-stick
@@ -15,8 +15,8 @@ text,label
 "клюшка, используемая на льду",hockey-stick
 хоккейная клюшка и шайба,hockey-stick
 хоккейная игра с клюшкой,hockey-stick
-Хоккейная клюшка НХЛ для игры,hockey-stick
-Игрок НХЛ размахивает клюшкой,hockey-stick
+Хоккейная клюшка для игры,hockey-stick
+Игрок размахивает клюшкой,hockey-stick
 хоккейная клюшка бьет по шайбе,hockey-stick
 шайба отправлена клюшкой,hockey-stick
 хоккейная клюшка для спорта,hockey-stick
