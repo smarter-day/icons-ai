@@ -1,0 +1,67 @@
+{
+  "icon": "nose",
+  "search_terms": [
+    "face",
+    "nasal",
+    "nostril",
+    "smell",
+    "sniff",
+    "snout"
+  ],
+  "phrase_per_search_term": [
+    "nose in the center of the face",
+    "face icon highlighting the nose feature",
+    "nasal passage blocked during a cold",
+    "nasal spray for allergy relief",
+    "nostril flare when smelling something strong",
+    "twin nostril openings in a nose icon",
+    "smell the freshly baked bread",
+    "ability to smell diminished during illness",
+    "sniff the wine to detect the aroma",
+    "dog sniff behavior icon for a pet app",
+    "cartoon snout for an animal character",
+    "pig snout design in a children's app"
+  ],
+  "regular": [
+    "simple outline of a human nose from the side",
+    "nose icon for a health symptom tracker",
+    "body part icon in a medical or anatomy app",
+    "front-facing nose with rounded nostrils",
+    "track nasal congestion in a cold symptom log",
+    "face anatomy icon in a healthcare app",
+    "rounded nose shape with a slight bump on the bridge",
+    "nose sensitivity icon for an allergy tracking app",
+    "sense of smell icon in a food or fragrance app",
+    "cartoon nose icon in a facial expression set"
+  ],
+  "conversational": [
+    "I need a nose icon for my symptom tracker app",
+    "add a nose symbol to the face anatomy section",
+    "show a nose for the allergy and cold tracker",
+    "use the nose icon for the sense of smell feature"
+  ],
+  "typo": [
+    "noes running after coming in from the cold",
+    "noze sensitivity to strong smells",
+    "nosse blocked from the cold",
+    "sniff with your noe"
+  ],
+  "boundary": [
+    "open mouth with visible teeth and tongue",
+    "simple mouth or lips outline for a face icon",
+    "ear with a curved outer shell and canal",
+    "hearing ear symbol for an audio or accessibility app",
+    "round eye with a colored iris and dark pupil",
+    "eye outline for a visibility or view icon"
+  ],
+  "valid": [
+    "nose icon for a face or anatomy app",
+    "human nose with two nostrils",
+    "nose symbol for a smell tracker"
+  ],
+  "test": [
+    "nose in a health symptom app",
+    "nasal icon for allergy tracking",
+    "cartoon nose for a face emoji"
+  ]
+}

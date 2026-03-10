@@ -1,0 +1,64 @@
+{
+  "icon": "sailboat",
+  "search_terms": [
+    "dinghy",
+    "mast",
+    "sailboat",
+    "sailing",
+    "yacht"
+  ],
+  "phrase_per_search_term": [
+    "small dinghy with a single white sail",
+    "sailing dinghy on a calm lake",
+    "tall mast with a billowing sail in the wind",
+    "mast snapped during a storm at sea",
+    "sailboat gliding across a blue ocean",
+    "classic sailboat with a white triangular sail",
+    "sailing on the open sea on a summer day",
+    "sailing trip across the harbor",
+    "luxury yacht with multiple sails hoisted",
+    "sleek racing yacht in a regatta"
+  ],
+  "regular": [
+    "white triangular sail on a small sailboat",
+    "sailing across the harbor on a sunny afternoon",
+    "transport icon for a sailing or nautical app",
+    "sailboat hull cutting through calm blue waves",
+    "take a sailboat out for the weekend on the bay",
+    "travel icon for a coastal or marina booking app",
+    "single-mast sailboat viewed from the side",
+    "learn to sail on a small dinghy in the harbor",
+    "recreation icon for an outdoor water sports app",
+    "sailboat with a colorful spinnaker sail deployed"
+  ],
+  "conversational": [
+    "I need a sailboat icon for my marina booking app",
+    "add a sailboat symbol to the water sports section",
+    "show a sailboat for the sailing trips feature",
+    "use the sailboat icon for the nautical activities category"
+  ],
+  "typo": [
+    "sailbota crossing the bay",
+    "slaiboat on a calm lake",
+    "sailboatt with a white sail",
+    "sailbat in the harbor"
+  ],
+  "boundary": [
+    "speedboat racing across the water with a wake",
+    "motor boat pulling a water skier",
+    "large cruise ship on the open ocean",
+    "cargo ship loaded with shipping containers",
+    "narrow canoe paddled across a calm river",
+    "two people kayaking on a lake"
+  ],
+  "valid": [
+    "white sailboat on the open water",
+    "sailboat icon for a marina app",
+    "sailing trip on a sunny day"
+  ],
+  "test": [
+    "sailboat crossing the bay",
+    "dinghy with a white triangular sail",
+    "sailboat in a water sports app"
+  ]
+}

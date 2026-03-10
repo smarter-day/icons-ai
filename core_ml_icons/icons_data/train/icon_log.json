@@ -1,0 +1,67 @@
+{
+  "icon": "train",
+  "search_terms": [
+    "bullet",
+    "commute",
+    "locomotive",
+    "railway",
+    "subway",
+    "train"
+  ],
+  "phrase_per_search_term": [
+    "bullet train speeding at 300 km per hour",
+    "japanese bullet train on the shinkansen",
+    "daily commute on the train to work",
+    "commute time tracked in a travel app",
+    "steam locomotive pulling passenger cars",
+    "diesel locomotive on a freight line",
+    "railway station with multiple platforms",
+    "railway map for a transit planning app",
+    "subway train arriving at the underground station",
+    "subway map icon for a city transit app",
+    "passenger train crossing a bridge",
+    "book a train ticket for the weekend trip"
+  ],
+  "regular": [
+    "side view of a passenger train with many windows",
+    "take the train to skip the morning traffic jam",
+    "transit icon for a railway or commuting app",
+    "streamlined bullet train on an elevated track",
+    "track departure times for the next train",
+    "public transport icon for a city navigation app",
+    "train engine at the front of a long passenger set",
+    "ride the overnight train across the country",
+    "railway schedule icon in a travel planner",
+    "steam train with a smoke plume from the funnel"
+  ],
+  "conversational": [
+    "I need a train icon for my commute tracker app",
+    "add a train symbol to the public transport section",
+    "show a train for the railway schedule feature",
+    "use the train icon for the travel booking screen"
+  ],
+  "typo": [
+    "trian leaving the station now",
+    "traiin arriving on platform three",
+    "trein to the city center",
+    "trani on the metro line"
+  ],
+  "boundary": [
+    "yellow tram on city rails in the street",
+    "streetcar tram gliding along a busy avenue",
+    "double-decker bus on a city road",
+    "city bus pulling up to a bus stop",
+    "underground metro train in a tiled station",
+    "metro map showing colored lines and stations"
+  ],
+  "valid": [
+    "passenger train on a railway track",
+    "train icon for a commuting app",
+    "train arriving at the station"
+  ],
+  "test": [
+    "bullet train at high speed",
+    "train schedule in a travel app",
+    "locomotive pulling passenger cars"
+  ]
+}

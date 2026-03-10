@@ -1,0 +1,67 @@
+{
+  "icon": "scarf",
+  "search_terms": [
+    "clothing",
+    "knitted",
+    "neck",
+    "scarf",
+    "seasonal",
+    "warmth"
+  ],
+  "phrase_per_search_term": [
+    "winter clothing including a warm scarf",
+    "clothing icon for cold weather accessories",
+    "knitted scarf in a chunky wool pattern",
+    "hand-knitted scarf as a holiday gift",
+    "scarf wrapped around the neck for warmth",
+    "neck warmer wrapped tightly on a cold day",
+    "woolen scarf in a striped pattern",
+    "scarf tied loosely around the collar",
+    "seasonal accessory for cold winter months",
+    "seasonal winter icon for a weather app",
+    "wrap a scarf for warmth in the cold",
+    "warmth and comfort of a thick wool scarf"
+  ],
+  "regular": [
+    "long striped scarf wrapped around a neck",
+    "tie a scarf before heading out into the cold",
+    "winter clothing icon in a fashion or wardrobe app",
+    "chunky knit scarf with fringe at the ends",
+    "scarf as a cozy accessory for a winter outfit",
+    "seasonal accessory icon in a cold weather app",
+    "brightly colored wool scarf looped once around",
+    "add a scarf to the laundry or packing list",
+    "clothing category icon for cold weather accessories",
+    "plaid scarf neatly folded on a store shelf"
+  ],
+  "conversational": [
+    "I need a scarf icon for my wardrobe tracker app",
+    "add a scarf symbol to the winter accessories section",
+    "show a scarf for the cold weather clothing category",
+    "use the scarf icon for the seasonal fashion feature"
+  ],
+  "typo": [
+    "scraf tied around the neck",
+    "scaarf for a cold winter day",
+    "scafr wrapping around the collar",
+    "scarft with a fringe at the end"
+  ],
+  "boundary": [
+    "woolly beanie hat pulled down over the ears",
+    "winter knit hat with a pom pom on top",
+    "pair of leather gloves for cold weather",
+    "knitted mittens hanging from a clothesline",
+    "long wool coat with large buttons",
+    "warm parka jacket zipped up to the chin"
+  ],
+  "valid": [
+    "knitted scarf wrapped around the neck",
+    "scarf icon for a winter wardrobe app",
+    "striped wool scarf for cold weather"
+  ],
+  "test": [
+    "scarf tied before going out in the cold",
+    "chunky knit scarf on a hanger",
+    "scarf in a fashion or clothing app"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "icon": "pumpkin",
+  "search_terms": [
+    "autumn",
+    "gourd",
+    "halloween",
+    "harvest",
+    "squash",
+    "thanksgiving",
+    "vegetable"
+  ],
+  "phrase_per_search_term": [
+    "round orange pumpkin in an autumn display",
+    "autumn harvest icon with pumpkin and leaves",
+    "large orange gourd on a wooden porch",
+    "decorative gourd used for fall centerpieces",
+    "carved halloween pumpkin with a glowing face",
+    "jack-o-lantern pumpkin at the front door",
+    "pumpkin harvest at a fall farm",
+    "harvest festival pumpkin picking event",
+    "pumpkin squash grown in a garden patch",
+    "winter squash variety with a thick orange skin",
+    "pumpkin centerpiece on a Thanksgiving table",
+    "pumpkin pie served at Thanksgiving dinner",
+    "pumpkin as a winter vegetable in soups",
+    "vegetable icon including pumpkin in fall cooking"
+  ],
+  "regular": [
+    "round orange pumpkin with a ribbed surface",
+    "carve a pumpkin for Halloween night",
+    "autumn icon for a seasonal or holiday app",
+    "pumpkin with a thick brown curved stem on top",
+    "bake a pumpkin pie from scratch for Thanksgiving",
+    "Halloween decoration icon for an event planning app",
+    "small to medium orange pumpkin on a porch step",
+    "pick a pumpkin at the local pumpkin patch",
+    "fall season icon for a harvest or farming app",
+    "jack-o-lantern pumpkin with a carved smiling face"
+  ],
+  "conversational": [
+    "I need a pumpkin icon for my Halloween app",
+    "add a pumpkin symbol to the autumn season section",
+    "show a pumpkin for the harvest festival feature",
+    "use the pumpkin icon for the Thanksgiving category"
+  ],
+  "typo": [
+    "pumpikn carving for Halloween",
+    "pumkin picked at the farm",
+    "pumpkon on the porch step",
+    "pumpkin piee at Thanksgiving"
+  ],
+  "boundary": [
+    "yellow butternut squash with a long curved neck",
+    "acorn squash with a dark green ridged surface",
+    "corn cob with yellow kernels and green husk",
+    "dried corn hanging on a fall decoration wreath",
+    "scarecrow in a field dressed in old clothes",
+    "straw-stuffed scarecrow in a vegetable garden"
+  ],
+  "valid": [
+    "round orange pumpkin with a ribbed surface",
+    "pumpkin icon for a Halloween app",
+    "carved pumpkin jack-o-lantern"
+  ],
+  "test": [
+    "pumpkin at the fall harvest",
+    "carved Halloween pumpkin",
+    "pumpkin pie for Thanksgiving"
+  ]
+}

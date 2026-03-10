@@ -1,0 +1,55 @@
+{
+  "icon": "pepper",
+  "search_terms": [
+    "bell pepper",
+    "capsicum"
+  ],
+  "phrase_per_search_term": [
+    "red bell pepper sliced for a salad",
+    "stuffed bell pepper baked in the oven",
+    "capsicum used in a stir fry dish",
+    "capsicum pepper in a grocery list"
+  ],
+  "regular": [
+    "bright red bell pepper with a green stem on top",
+    "slice bell peppers for a stir fry or salad",
+    "vegetable icon for a recipe or grocery app",
+    "green yellow and red peppers arranged together",
+    "roast whole bell peppers in the oven until charred",
+    "ingredient icon for a Mexican or Italian recipe",
+    "glossy bell pepper with a dimpled base",
+    "stuff a bell pepper with rice and ground meat",
+    "fresh produce icon in a meal planning app",
+    "bell pepper with four lobes on the bottom"
+  ],
+  "conversational": [
+    "I need a pepper icon for my recipe app",
+    "add a pepper symbol to the vegetable section",
+    "show a bell pepper for the fresh produce category",
+    "use the pepper icon for the cooking ingredients feature"
+  ],
+  "typo": [
+    "peppr sliced for the stir fry",
+    "pepepr chopped for the salad",
+    "peper stuffed with rice and meat",
+    "peppper roasted in the oven"
+  ],
+  "boundary": [
+    "thin red chili pepper with a fiery pointed tip",
+    "dried chili pepper used as a spicy seasoning",
+    "round red tomato with a bright green stem",
+    "cherry tomatoes on a vine in a garden",
+    "purple eggplant with a long green stem",
+    "eggplant sliced and grilled on a hot skillet"
+  ],
+  "valid": [
+    "red bell pepper with a green stem",
+    "bell pepper for a recipe app",
+    "colorful capsicum vegetable icon"
+  ],
+  "test": [
+    "bell pepper sliced for cooking",
+    "pepper in a grocery app",
+    "stuffed bell pepper for a recipe"
+  ]
+}

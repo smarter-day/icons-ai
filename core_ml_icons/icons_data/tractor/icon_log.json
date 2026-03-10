@@ -1,0 +1,61 @@
+{
+  "icon": "tractor",
+  "search_terms": [
+    "agriculture",
+    "farm",
+    "tractor",
+    "vehicle"
+  ],
+  "phrase_per_search_term": [
+    "agriculture equipment used on a large farm",
+    "agriculture icon for a farming tracker app",
+    "farm tractor plowing a field",
+    "farm vehicle parked in a barn",
+    "red tractor driving across a wheat field",
+    "old tractor with large rear wheels",
+    "farm vehicle pulling a trailer",
+    "heavy vehicle icon for an agricultural app"
+  ],
+  "regular": [
+    "large red tractor with big rear wheels in a field",
+    "plowing the field with a tractor before planting",
+    "agriculture icon for a farm management app",
+    "tractor with an exhaust pipe and enclosed cab",
+    "harvesting crops with a tractor and attachment",
+    "farming equipment icon in a rural lifestyle app",
+    "green tractor parked next to a red barn",
+    "tractor pulling a plow through muddy soil",
+    "vehicle icon for an agricultural machinery catalog",
+    "tractor tire track left in a freshly plowed field"
+  ],
+  "conversational": [
+    "I need a tractor icon for my farm management app",
+    "add a tractor symbol to the agriculture section",
+    "show a tractor for the equipment tracking feature",
+    "use the tractor icon for the farm vehicle category"
+  ],
+  "typo": [
+    "tarctor plowing the soil",
+    "tracor pulling a trailer",
+    "trctor in a wheat field",
+    "tractir with a powerful engine"
+  ],
+  "boundary": [
+    "combine harvester cutting through a grain field",
+    "grain harvester with a wide cutting head",
+    "flatbed truck hauling equipment on the highway",
+    "pickup truck parked outside the farm store",
+    "yellow bulldozer pushing soil on a construction site",
+    "construction bulldozer leveling the ground"
+  ],
+  "valid": [
+    "red tractor with large rear wheels",
+    "farm tractor in an agriculture app",
+    "tractor plowing a field"
+  ],
+  "test": [
+    "tractor on a wheat farm",
+    "agriculture tractor vehicle",
+    "tractor icon for a farm app"
+  ]
+}

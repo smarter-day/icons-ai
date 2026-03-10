@@ -1,0 +1,64 @@
+{
+  "icon": "lobster",
+  "search_terms": [
+    "bisque",
+    "crustacean",
+    "lobster",
+    "seafood",
+    "shellfish"
+  ],
+  "phrase_per_search_term": [
+    "lobster bisque served in a warm bowl",
+    "rich bisque made from lobster shells",
+    "large crustacean from the cold Atlantic waters",
+    "crustacean with two large front claws",
+    "red boiled lobster on a seafood platter",
+    "fresh lobster caught off the Maine coast",
+    "seafood restaurant icon with a lobster",
+    "seafood platter with lobster and shrimp",
+    "shellfish allergy warning on a menu",
+    "shellfish section in a seafood market"
+  ],
+  "regular": [
+    "red lobster with large claws and a segmented tail",
+    "cracking open a fresh lobster at a seafood dinner",
+    "seafood icon for a restaurant or food delivery app",
+    "boiled lobster with bright red shell on a white plate",
+    "order lobster for a special occasion dinner",
+    "premium seafood category in a menu or recipe app",
+    "lobster with long antennae and five pairs of legs",
+    "lobster dipped in melted butter with lemon",
+    "marine creature icon for an ocean-themed app",
+    "side view of a lobster with claws extended"
+  ],
+  "conversational": [
+    "I need a lobster icon for my seafood restaurant app",
+    "add a lobster symbol to the seafood menu section",
+    "show a lobster for the premium dining category",
+    "use the lobster icon for the ocean food feature"
+  ],
+  "typo": [
+    "lobstre with large front claws",
+    "lobsetr on a seafood platter",
+    "lobster bisqeu soup",
+    "lboster from Maine"
+  ],
+  "boundary": [
+    "red crab with wide claws on a beach",
+    "crab claw cracking open at a seafood restaurant",
+    "pink shrimp curled on a plate of cocktail sauce",
+    "grilled shrimp skewer at a barbecue",
+    "octopus with eight tentacles floating in water",
+    "grilled octopus tentacle on a Mediterranean plate"
+  ],
+  "valid": [
+    "red lobster with large claws",
+    "lobster for a seafood restaurant app",
+    "boiled lobster on a platter"
+  ],
+  "test": [
+    "fresh lobster from the ocean",
+    "lobster on a seafood menu",
+    "lobster icon for a dining app"
+  ]
+}
