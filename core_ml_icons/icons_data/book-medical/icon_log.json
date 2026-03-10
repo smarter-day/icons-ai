@@ -1,0 +1,76 @@
+{
+  "icon": "book-medical",
+  "search_terms": [
+    "diary",
+    "documentation",
+    "health",
+    "history",
+    "journal",
+    "library",
+    "read",
+    "record",
+    "research"
+  ],
+  "phrase_per_search_term": [
+    "medical diary tracking daily symptoms",
+    "diary of patient observations logged daily",
+    "clinical documentation filed after each visit",
+    "documentation requirements for hospital records",
+    "health log maintained by the primary care doctor",
+    "health history reviewed before surgery",
+    "patient history recorded in the medical chart",
+    "history of medications listed in the file",
+    "medical journal with peer-reviewed articles",
+    "research journal published quarterly",
+    "hospital library stocked with medical references",
+    "library of clinical guidelines for staff",
+    "read the patient chart before the consultation",
+    "read the research paper on drug interactions",
+    "health record updated after the appointment",
+    "record of vaccinations in the patient file",
+    "medical research notes compiled in a notebook",
+    "research data published in the journal"
+  ],
+  "regular": [
+    "medical book with a red cross on the cover",
+    "patient health record kept in a medical book",
+    "clinical reference book on a doctor's desk",
+    "medical journal documenting patient history",
+    "health log icon for an electronic records app",
+    "medical textbook used in nursing school",
+    "diagnostic manual referenced during consultation",
+    "medical record book with tabbed sections",
+    "research notebook filled with clinical findings",
+    "medical book icon for a healthcare platform"
+  ],
+  "conversational": [
+    "I need a medical book icon for my health app",
+    "add a medical book symbol to the records section",
+    "show a medical journal for the patient history screen",
+    "use the medical book icon for the clinical notes feature"
+  ],
+  "typo": [
+    "medical diray tracking patient symptoms",
+    "clincial documentation filed after visit",
+    "helath history reviewed before operation",
+    "patinet record updated after appointment"
+  ],
+  "boundary": [
+    "clipboard with a patient checklist attached",
+    "stethoscope doctor listening to heartbeat",
+    "pill bottle prescription medication container",
+    "heart rate monitor ECG waveform icon",
+    "folder patient file stored in a cabinet",
+    "notebook plain journal without medical cross"
+  ],
+  "valid": [
+    "medical book icon",
+    "health record book symbol",
+    "medical journal icon"
+  ],
+  "test": [
+    "medical book patient history",
+    "health record book icon",
+    "medical reference book"
+  ]
+}
