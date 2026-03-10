@@ -1,4 +1,4 @@
 text,label
-Подсчёт кассы в конце дня,cash-register
-Пробить продажу у стойки,cash-register
-POS-система для нового магазина,cash-register
+посчитать кассу при закрытии,cash-register
+пробить покупателя на кассе,cash-register
+открыть кассовый аппарат,cash-register

@@ -1,11 +1,10 @@
 text,label
-airwaves,tower-cell
-antenna,tower-cell
-communication,tower-cell
-radio,tower-cell
-reception,tower-cell
-signal,tower-cell
-waves,tower-cell
+cell airwaves,tower-cell
+cell antenna,tower-cell
+cell communication,tower-cell
+cell radio signal,tower-cell
+cell reception,tower-cell
+cell signal waves,tower-cell
 airwaves cell tower 5G,tower-cell
 cell tower airwaves mobile,tower-cell
 cell tower antenna structure,tower-cell
@@ -30,10 +29,10 @@ disguised tree cell tower stealth,tower-cell
 cell tower signal map coverage,tower-cell
 indoor cell tower femtocell device,tower-cell
 5G cell tower new installation,tower-cell
-I need a cell tower icon for the network status,tower-cell
-add an antenna symbol to the connectivity section,tower-cell
-show a cell tower for the signal strength feature,tower-cell
-use the tower-cell icon for the mobile coverage,tower-cell
+check mobile coverage,tower-cell
+show cell signal strength,tower-cell
+find the nearest cell tower,tower-cell
+check 5G tower coverage,tower-cell
 cel tower signal bars,tower-cell
 sinal cell tower 5G,tower-cell
 moble network tower,tower-cell

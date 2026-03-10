@@ -1,4 +1,4 @@
 text,label
-иконка вещательной башни сигнал,tower-broadcast
-символ радиоантенной башни,tower-broadcast
-волны сигнала башня,tower-broadcast
+передавать радиосигнал,tower-broadcast
+отправить сигнал с вышки,tower-broadcast
+показать вещательную антенну,tower-broadcast

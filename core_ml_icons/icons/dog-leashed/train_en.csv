@@ -1,16 +1,12 @@
 text,label
-animal,dog-leashed
 canine,dog-leashed
 guide dog,dog-leashed
-mammal,dog-leashed
 pet,dog-leashed
 puppy,dog-leashed
 walk,dog-leashed
 See the animal on the leash,dog-leashed
 Keep the animal on a leash in public,dog-leashed
 Train the canine on a leash,dog-leashed
-Canine leash training class,dog-leashed
-Get a guide dog for assistance,dog-leashed
 Work with a guide dog trainer,dog-leashed
 Walk with the mammal on a leash,dog-leashed
 Mammals must be on leash in the park,dog-leashed
@@ -19,9 +15,6 @@ Register the pet at the vet,dog-leashed
 Train the puppy to walk on a leash,dog-leashed
 Take the puppy on a leash walk,dog-leashed
 Go for a walk with the dog,dog-leashed
-Walk the dog on the trail,dog-leashed
-Walk the dog on a leash,dog-leashed
-Buy a new dog leash,dog-leashed
 Train the dog to heel on leash,dog-leashed
 Keep the dog leashed in the park,dog-leashed
 Get a retractable leash,dog-leashed

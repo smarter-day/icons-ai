@@ -1,4 +1,4 @@
 text,label
-иконка вещательной башни,tower-broadcast
-антенна сигнальная башня,tower-broadcast
-радиовышка трансляция,tower-broadcast
+сигнал радиостанции,tower-broadcast
+вышка для прямой трансляции,tower-broadcast
+вести передачу с антенны,tower-broadcast

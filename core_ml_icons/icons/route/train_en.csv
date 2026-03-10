@@ -1,10 +1,7 @@
 text,label
 directions,route
-navigation,route
-travel,route
 turn-by-turn directions on navigation app,route
 driving directions to the destination,route
-navigation route highlighted on map,route
 navigation path from A to B,route
 travel route planned for road trip,route
 travel path between two cities,route

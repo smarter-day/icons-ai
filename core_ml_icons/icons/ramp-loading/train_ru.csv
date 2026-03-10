@@ -1,8 +1,5 @@
 text,label
-инвентарь,ramp-loading
 перевозка,ramp-loading
-доставка,ramp-loading
-хранение,ramp-loading
 склад,ramp-loading
 инвентарь погружается по пандусу склада,ramp-loading
 управление инвентарём у погрузочной платформы,ramp-loading

@@ -1,21 +1,17 @@
 text,label
-address,map
-coordinates,map
-destination,map
-gps,map
-localize,map
-location,map
-map,map
-navigation,map
-paper,map
-pin,map
-place,map
-point of interest,map
-position,map
-route,map
-travel,map
-world,map
-world map,map
+street map,map
+map coordinates,map
+destination map,map
+gps map,map
+local area map,map
+open the map,map
+map without pins,map
+city map,map
+tourist map,map
+current area map,map
+route map,map
+global map,map
+world atlas map,map
 street address shown on folded map,map
 map address lookup tool,map
 GPS coordinates on paper map,map
@@ -60,17 +56,24 @@ subway map for public transit navigation,map
 hiking trail map for outdoor adventure,map
 treasure map leading to a hidden location,map
 weather map showing regional forecast,map
-I need a map icon for the travel section,map
-add a map symbol to the navigation feature,map
-show a map for the route planning screen,map
-use the map icon for the world view,map
+plan a route on the map,map
+open map navigation,map
+view the route on the map,map
+browse the world map,map
 wrold map view,map
 navigaiton map,map
 rout on map,map
 destiantion map,map
 teardrop location pin dropped on a map,map
-GPS crosshairs targeting a position,map
+GPS route across the map,map
 globe showing the entire earth,map
 map showing a pin with location dot,map
 compass rose for navigation direction,map
 satellite view of terrain from above,map
+folded road map used for planning a route,map
+city map layout with streets and districts,map
+paper map opened on a travel desk,map
+check the area map,map
+"regional map showing roads, rivers, and borders",map
+review the full area map,map
+map sheet showing districts without a pinned marker,map

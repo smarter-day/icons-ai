@@ -1,11 +1,8 @@
 text,label
 agriculture,sheep
-animal,sheep
 ewe,sheep
 farming,sheep
-fauna,sheep
 female,sheep
-mammal,sheep
 sheep,sheep
 wool,sheep
 yarn,sheep
@@ -24,7 +21,6 @@ female mammal sheep in flock,sheep
 fluffy mammal with curly wool coat,sheep
 grass-eating mammal in herd,sheep
 sheep counted while falling asleep,sheep
-flock of sheep being herded,sheep
 raw wool sheared from sheep,sheep
 knitting wool from sheep fleece,sheep
 yarn spun from sheep wool fiber,sheep

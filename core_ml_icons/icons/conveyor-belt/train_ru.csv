@@ -1,28 +1,27 @@
 text,label
 карусель,conveyor-belt
-инвентарь,conveyor-belt
 производство,conveyor-belt
 упаковка,conveyor-belt
-перевозки,conveyor-belt
+лента для отправки грузов,conveyor-belt
 Следите за сумками на багажной карусели,conveyor-belt
 Заберите чемодан с карусели,conveyor-belt
 Обновить складские запасы,conveyor-belt
-Проведите полную инвентаризацию,conveyor-belt
+пересчитать коробки на ленте,conveyor-belt
 Экскурсия по производству,conveyor-belt
 Контролировать процесс изготовления,conveyor-belt
 Настроить упаковочную линию,conveyor-belt
-Ускорьте процесс упаковки,conveyor-belt
-Отслеживать заказ на доставку,conveyor-belt
-Оптимизируйте рабочий процесс доставки,conveyor-belt
+поддерживать быструю упаковочную линию,conveyor-belt
+отслеживать посылки на конвейере,conveyor-belt
+ускорить поток на конвейере,conveyor-belt
 Получите багаж в аэропорту,conveyor-belt
 Следить за производственной линией,conveyor-belt
 Осмотрите детали на сборочной линии,conveyor-belt
 Ускорьте процесс упаковки,conveyor-belt
 "Проверка товаров, проходящих через завод",conveyor-belt
-Оптимизируйте работу склада,conveyor-belt
+оптимизировать линию сортировки,conveyor-belt
 Настройте автоматическую сортировку,conveyor-belt
 Отслеживание товаров на сборочной линии,conveyor-belt
-Управлять производственным графиком,conveyor-belt
+запустить производственную линию,conveyor-belt
 Посетите завод-производитель,conveyor-belt
 Следите за поясом,conveyor-belt
 Проверка заводской линии,conveyor-belt
@@ -32,9 +31,10 @@ text,label
 настройка упаковочной линии,conveyor-belt
 инвентарь на поясе,conveyor-belt
 процесс производства,conveyor-belt
-Упаковать коробки и отправить на склад,conveyor-belt
-Отправляем товар в контейнере,conveyor-belt
-Сортировка документов в картотеке,conveyor-belt
-Разгрузить грузовик доставки,conveyor-belt
-Организуйте вещи на полках склада,conveyor-belt
-Отслеживать доставку посылки,conveyor-belt
+отправить коробки по конвейеру,conveyor-belt
+перемещать посылки по ленте,conveyor-belt
+сортировать коробки на конвейере,conveyor-belt
+разгрузить коробки на ленту,conveyor-belt
+подавать товары на конвейер,conveyor-belt
+смотреть как коробки едут по линии,conveyor-belt
+конвейер для сортировки посылок,conveyor-belt

@@ -1,28 +1,21 @@
 text,label
-configuration,gear
+app configuration,gear
 gear,gear
-mechanical,gear
-modify,gear
-settings,gear
-tool,gear
+system settings,gear
 Open the app configuration,gear
 Update the system configuration,gear
 Switch to a lower gear on the bike,gear
 Check the gear in the car,gear
-Fix the mechanical issue,gear
 Inspect the mechanical parts,gear
 Modify the app behavior,gear
 Modify the settings,gear
 Open the settings menu,gear
 Change the app settings,gear
-Use the right tool for the job,gear
-Pack the tools for the repair,gear
-Open the app settings,gear
-Configure the system preferences,gear
+open device settings,gear
+manage app preferences,gear
 Adjust the settings for the device,gear
 Change the notification settings,gear
 Update app settings,gear
-Fix the mechanical problem,gear
 Set up preferences in the app,gear
 Tweak the configuration file,gear
 Manage the app permissions,gear
@@ -34,10 +27,10 @@ Settings menu,gear
 oen the app settnigs,gear
 conifgure the systme,gear
 adjsut the sttings,gear
-fix the mechancial issue,gear
-Use a wrench to tighten the bolt,gear
+fix the app configuration,gear
+adjust system preferences,gear
 Open the control panel,gear
-Use a hammer to fix the problem,gear
+change device preferences,gear
 Adjust the dial on the device,gear
 Change the app theme,gear
-Use a screwdriver for the repair,gear
+open advanced settings,gear

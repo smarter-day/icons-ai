@@ -1,12 +1,5 @@
 text,label
-купон,dollar-sign
-валюта,dollar-sign
-доллар,dollar-sign
-инвестиции,dollar-sign
-деньги,dollar-sign
-премиум,dollar-sign
 выручка,dollar-sign
-зарплата,dollar-sign
 использовать купон в магазине,dollar-sign
 найти купон для ресторана,dollar-sign
 долларовая валюта для платежа,dollar-sign
@@ -17,7 +10,7 @@ text,label
 обсудить повышение зарплаты,dollar-sign
 оплатить счёт в долларах,dollar-sign
 проверить доход от инвестиций,dollar-sign
-получить купон на скидку,dollar-sign
+показать цену в долларах,dollar-sign
 доход и выручка за месяц,dollar-sign
 долларовый символ для цены,dollar-sign
 оплатить подписку в долларах,dollar-sign
@@ -32,7 +25,7 @@ text,label
 доход компании за квартал,dollar-sign
 зарплата и бонусы,dollar-sign
 стоимость премиум-функции,dollar-sign
-символ денег в приложении,dollar-sign
+проверить сумму в долларах,dollar-sign
 купон на скидку для заказа,dollar-sign
 счёт в долларах за услугу,dollar-sign
 инвестиции в акции,dollar-sign

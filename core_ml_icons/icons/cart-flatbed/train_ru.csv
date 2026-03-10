@@ -1,7 +1,5 @@
 text,label
 перевозить,cart-flatbed
-инвентарь,cart-flatbed
-доставка,cart-flatbed
 транспортировка,cart-flatbed
 Перевозить тяжёлые предметы на тележке,cart-flatbed
 Перемещение инвентаря на складской тележке,cart-flatbed

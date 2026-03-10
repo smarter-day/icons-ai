@@ -1,12 +1,11 @@
 text,label
-connect,nfc
-data,nfc
+tap to connect,nfc
+data transfer by tap,nfc
 near field communication,nfc
 nfc,nfc
 scan,nfc
-signal,nfc
 transfer,nfc
-wireless,nfc
+contactless tap,nfc
 connect device via NFC tap,nfc
 connect two phones by touching,nfc
 transfer data using NFC,nfc
@@ -33,10 +32,10 @@ NFC symbol on device or card,nfc
 pairing devices with NFC tap,nfc
 smart sticker with NFC chip,nfc
 quick NFC scan to launch app,nfc
-I need an NFC icon for the contactless payment screen,nfc
-add an NFC symbol to the wireless connection feature,nfc
-show an NFC tag icon for the scan function,nfc
-use the NFC icon for the tap-to-pay section,nfc
+pay by tapping the phone,nfc
+connect devices with NFC,nfc
+scan an NFC tag,nfc
+tap to pay at checkout,nfc
 NFC scna payment,nfc
 nfcc wireless,nfc
 near feild communication,nfc

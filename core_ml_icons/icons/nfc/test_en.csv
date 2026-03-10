@@ -1,4 +1,4 @@
 text,label
-NFC icon,nfc
-tap to pay NFC,nfc
-NFC scan wireless,nfc
+pair the phone with NFC,nfc
+use contactless payment,nfc
+tap the card reader,nfc

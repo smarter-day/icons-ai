@@ -1,4 +1,4 @@
 text,label
-note medical icon,note-medical
-sticky note medical,note-medical
-doctor's note memo,note-medical
+write a note in the health record,note-medical
+save the prescription note,note-medical
+review the doctor's note,note-medical

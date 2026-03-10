@@ -1,12 +1,8 @@
 text,label
 сумка,bags-shopping
-купить,bags-shopping
-касса,bags-shopping
 отель,bags-shopping
 заказ,bags-shopping
-шопинг,bags-shopping
 пакеты для покупок,bags-shopping
-магазин,bags-shopping
 собрать сумку в дорогу,bags-shopping
 купить кое-что в торговом центре,bags-shopping
 перейти к оплате,bags-shopping
@@ -25,7 +21,7 @@ text,label
 Забрать онлайн-заказ,bags-shopping
 Вечер шопинга,bags-shopping
 Купить подарки всем,bags-shopping
-Мне нужно как следует пошопиться,bags-shopping
+купить сразу много вещей,bags-shopping
 Давай сходим по магазинам в выходные,bags-shopping
 Надо собрать вещи в поездку,bags-shopping
 Пора устроить небольшой шопинг-марафон,bags-shopping
@@ -33,11 +29,8 @@ text,label
 Собарть сумки в отпуск,bags-shopping
 Чекаут в магазне,bags-shopping
 Шопинк в торговом центре,bags-shopping
-Купить продукты по дороге домой,bags-shopping
 Еженедельная закупка продуктов,bags-shopping
-Купить товары для дома,bags-shopping
 Взять пару вещей из супермаркета,bags-shopping
-Быстрый поход за продуктами,bags-shopping
 Пополнить запасы на кухне,bags-shopping
 оставить сумку на стойке регистрации,bags-shopping
 купить подарок кому-нибудь особенному,bags-shopping
@@ -45,5 +38,5 @@ text,label
 заселиться в отель со всеми сумками,bags-shopping
 отследить статус доставки заказа,bags-shopping
 послеобеденный шопинг с друзьями,bags-shopping
-использовать пакеты от прошлого раза,bags-shopping
+нести все покупки в пакетах,bags-shopping
 зайти в магазин по дороге обратно,bags-shopping

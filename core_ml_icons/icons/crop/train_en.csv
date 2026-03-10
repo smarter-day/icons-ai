@@ -2,7 +2,6 @@ text,label
 design,crop
 frame,crop
 mask,crop
-modify,crop
 resize,crop
 shrink,crop
 Crop the image for the design,crop
@@ -13,13 +12,10 @@ Apply a mask to the photo layer,crop
 Mask out the background,crop
 Modify the photo before posting,crop
 Modify the image dimensions,crop
-Resize the image for the web,crop
 Resize the photo before uploading,crop
 Shrink the image file size,crop
 Shrink the photo to fit the screen,crop
-Crop the profile photo,crop
 Trim the video clip,crop
-Crop the screenshot before sending,crop
 Resize image for the presentation,crop
 Adjust the aspect ratio,crop
 Crop out unwanted background,crop
@@ -31,7 +27,6 @@ Crop that photo,crop
 Trim the image,crop
 Quick crop,crop
 Edit the pic,crop
-croop the profile photo,crop
 rezise the image,crop
 tirm the photo edges,crop
 modfiy the photo size,crop

@@ -6,7 +6,6 @@ dough,bread-slice
 flour,bread-slice
 gluten,bread-slice
 grain,bread-slice
-sandwich,bread-slice
 sourdough,bread-slice
 toast,bread-slice
 wheat,bread-slice
@@ -28,7 +27,6 @@ Sandwich bread for the week,bread-slice
 Toast bread for breakfast,bread-slice
 Slice of bread with jam,bread-slice
 Buy sandwich bread at the store,bread-slice
-Toasted bread with avocado,bread-slice
 Bread slice for the French toast,bread-slice
 White bread for the lunch box,bread-slice
 Whole grain bread slices,bread-slice

@@ -1,4 +1,4 @@
 text,label
-cell tower mobile network icon,tower-cell
-5G antenna tower symbol,tower-cell
-signal coverage tower,tower-cell
+review mobile coverage,tower-cell
+show the 5G tower,tower-cell
+locate the nearest cell tower,tower-cell

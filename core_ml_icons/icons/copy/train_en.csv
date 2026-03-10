@@ -2,7 +2,6 @@ text,label
 clone,copy
 duplicate,copy
 file,copy
-paper,copy
 paste,copy
 Clone the repository,copy
 Clone the existing template,copy
@@ -29,8 +28,6 @@ Duplicate it,copy
 Just copy-paste,copy
 Make a copy,copy
 coppy the text,copy
-duplciate the file,copy
-paste the copeid text,copy
 mak a copy of the doc,copy
 Move the file to the new folder,copy
 Cut and paste the paragraph,copy

@@ -1,4 +1,4 @@
 text,label
-map pin marking a location,map-pin
-pushpin dropped on map,map-pin
-navigation pin for destination,map-pin
+drop a pin on the destination,map-pin
+pin this address on the map,map-pin
+save a pin for the meeting spot,map-pin

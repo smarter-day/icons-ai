@@ -2,8 +2,6 @@ text,label
 machine,train-subway
 railway,train-subway
 train,train-subway
-transportation,train-subway
-vehicle,train-subway
 subway machine underground train,train-subway
 subway train car machine,train-subway
 railway subway underground line,train-subway

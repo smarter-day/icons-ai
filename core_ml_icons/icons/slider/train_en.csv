@@ -1,8 +1,6 @@
 text,label
 adjust,slider
 configuration,slider
-modify,slider
-settings,slider
 toggle,slider
 adjust volume with slider control,slider
 adjust brightness using slider,slider

@@ -1,19 +1,18 @@
 text,label
-ответ,comment
-пузырь,comment
-чат,comment
-комментарий,comment
-разговор,comment
-обсуждение,comment
-обратная связь,comment
-сообщение,comment
-заметка,comment
-уведомление,comment
-смс,comment
-речь,comment
-говорить,comment
-сказать,comment
-переписка,comment
+ответ в комментариях,comment
+пузырь комментария,comment
+чат комментариев,comment
+комментарий к посту,comment
+разговор в комментариях,comment
+дискуссия в комментариях,comment
+комментарий с обратной связью,comment
+сообщение в комментариях,comment
+заметка в комментарии,comment
+смс-комментарий,comment
+речевой комментарий,comment
+говорить в комментариях,comment
+сказать в комментарии,comment
+переписка в комментариях,comment
 ответить в комментариях,comment
 оставить ответный комментарий,comment
 облачко комментария,comment

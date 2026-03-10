@@ -1,9 +1,7 @@
 text,label
 Cent Sign,cent-sign
-currency,cent-sign
 Cent sign for the price label,cent-sign
 Currency denomination in cents,cent-sign
-Price tag showing 99 cents,cent-sign
 Penny count at the register,cent-sign
 Change in cents at the counter,cent-sign
 Small denomination currency,cent-sign
@@ -12,7 +10,6 @@ Total in cents for the transaction,cent-sign
 Add up the loose change,cent-sign
 Coin roll of pennies and cents,cent-sign
 Sales price ending in 99 cents,cent-sign
-Budget item under a dollar,cent-sign
 every cent counts here,cent-sign
 that's only 50 cents — grab it,cent-sign
 change jar is full of cents,cent-sign

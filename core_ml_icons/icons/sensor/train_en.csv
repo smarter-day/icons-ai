@@ -1,6 +1,5 @@
 text,label
 alarm,sensor
-alert,sensor
 carbon monoxide,sensor
 detector,sensor
 fire,sensor
@@ -10,14 +9,12 @@ alarm sensor detecting intrusion,sensor
 alert from smoke sensor activated,sensor
 alert notification from detector,sensor
 carbon monoxide sensor in kitchen,sensor
-carbon monoxide detector alarm,sensor
 detector mounted on bedroom ceiling,sensor
 smoke detector device in hallway,sensor
 fire sensor triggering sprinkler system,sensor
 fire detector above kitchen stove,sensor
 smoke sensor blinking red light,sensor
 smoke alarm battery low beeping,sensor
-round smoke detector mounted on ceiling,sensor
 carbon monoxide alarm in living room,sensor
 fire sensor with red blinking light,sensor
 smart home sensor connected to app,sensor

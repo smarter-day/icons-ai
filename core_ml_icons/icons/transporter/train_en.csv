@@ -3,7 +3,6 @@ move,transporter
 teleport,transporter
 transfer,transporter
 translocate,transporter
-travel,transporter
 move transporter beam up,transporter
 move items transporter,transporter
 teleport person transporter beam,transporter
@@ -29,7 +28,6 @@ add a beam symbol to the sci-fi section,transporter
 show a transporter for the instant travel option,transporter
 use the transporter icon for the transfer animation,transporter
 teleorpt transporter beam,transporter
-transporer sci-fi move,transporter
 bema up transporter,transporter
 trasfer transpoter,transporter
 rocket ship launch travel,transporter

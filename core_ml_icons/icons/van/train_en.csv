@@ -2,9 +2,6 @@ text,label
 airport,van
 bus,van
 minibus,van
-transportation,van
-travel,van
-vehicle,van
 airport shuttle van picking up passengers,van
 airport van transfer to the terminal,van
 city bus route on the schedule,van

@@ -1,11 +1,10 @@
 text,label
-connection,wifi
-hotspot,wifi
-internet,wifi
-network,wifi
-signal,wifi
-wireless,wifi
-www,wifi
+wifi connection,wifi
+wifi hotspot,wifi
+wifi internet,wifi
+wifi network,wifi
+wireless internet,wifi
+browse on wifi,wifi
 stable internet connection,wifi
 fast broadband connection,wifi
 mobile hotspot sharing,wifi
@@ -30,10 +29,10 @@ home network router symbol,wifi
 wireless password protected network,wifi
 5GHz WiFi band connection,wifi
 mobile device connected to WiFi,wifi
-I need a WiFi icon for the network settings,wifi
-add a signal symbol to the connectivity section,wifi
-show a WiFi icon for the internet connection screen,wifi
-use the wireless icon for hotspot settings,wifi
+connect to wifi,wifi
+check wifi signal,wifi
+open wifi settings,wifi
+turn on the hotspot,wifi
 wfi network connection,wifi
 wiif signal strength,wifi
 conneciton wireless internet,wifi

@@ -1,21 +1,16 @@
 text,label
-admin,screwdriver
-configuration,screwdriver
-equipment,screwdriver
-fix,screwdriver
-maintenance,screwdriver
-mechanic,screwdriver
-modify,screwdriver
-repair,screwdriver
-screw,screwdriver
+tighten the screw,screwdriver
+loosen the screw,screwdriver
+manual screwdriver,screwdriver
+fix the screw,screwdriver
+repair with screwdriver,screwdriver
+turn the screw,screwdriver
+drive a screw,screwdriver
 screwdriver,screwdriver
-settings,screwdriver
-tool,screwdriver
-admin panel opened with screwdriver icon,screwdriver
-admin tools for system configuration,screwdriver
-configuration settings accessed by screwdriver,screwdriver
-configuration tool icon in app,screwdriver
-screwdriver equipment in toolbox,screwdriver
+tighten the cabinet screw,screwdriver
+unscrew the back panel,screwdriver
+assemble furniture with a screwdriver,screwdriver
+open the battery cover with a screwdriver,screwdriver
 repair equipment including screwdriver,screwdriver
 fix loose screw with screwdriver,screwdriver
 fix broken appliance with repair tools,screwdriver
@@ -24,15 +19,15 @@ regular maintenance using screwdriver,screwdriver
 mechanic using screwdriver on engine,screwdriver
 mechanic toolkit with screwdriver,screwdriver
 modify component by unscrewing it,screwdriver
-modify device settings using tool icon,screwdriver
+remove the screw from the hinge,screwdriver
 repair furniture with Phillips screwdriver,screwdriver
 repair electronic device with screwdriver,screwdriver
 screw tightened with manual screwdriver,screwdriver
 screw loosened for disassembly,screwdriver
-flathead screwdriver for slotted screws,screwdriver
+flathead screwdriver for small screws,screwdriver
 electric screwdriver for quick assembly,screwdriver
-settings icon represented as screwdriver,screwdriver
-gear and screwdriver settings icon,screwdriver
+use a flathead screwdriver,screwdriver
+use a Phillips screwdriver,screwdriver
 tool for assembling flat-pack furniture,screwdriver
 general purpose tool for repairs,screwdriver
 flathead screwdriver for slotted screws,screwdriver
@@ -45,10 +40,10 @@ screwdriver assembling IKEA flat-pack furniture,screwdriver
 magnetic tip screwdriver holding screw in place,screwdriver
 torx screwdriver for tamper-resistant screws,screwdriver
 screwdriver removing battery cover on device,screwdriver
-I need a screwdriver icon for the settings screen,screwdriver
-add a screwdriver symbol to the admin tools section,screwdriver
-show a screwdriver for the maintenance feature,screwdriver
-use the screwdriver icon for the configuration panel,screwdriver
+repair the loose screw,screwdriver
+use the screwdriver for assembly,screwdriver
+grab the screwdriver from the toolbox,screwdriver
+replace the battery screw,screwdriver
 flatehad screwdriver for slotted screws,screwdriver
 Phlilips cross-head screwdriver,screwdriver
 mechanic usign screwdriver on car,screwdriver

@@ -1,19 +1,15 @@
 text,label
-адрес,map-location
-координаты,map-location
-пункт назначения,map-location
-gps,map-location
-локализация,map-location
-местоположение,map-location
-карта,map-location
-навигация,map-location
-бумага,map-location
-булавка,map-location
-место,map-location
-достопримечательность,map-location
-позиция,map-location
-маршрут,map-location
-путешествие,map-location
+адрес на карте,map-location
+координаты с точкой на карте,map-location
+пункт назначения на карте,map-location
+gps точка на карте,map-location
+найти место на карте,map-location
+карта с булавкой,map-location
+сохраненное место на карте,map-location
+показать достопримечательность на карте,map-location
+позиция на карте,map-location
+маршрут на карте с маркером,map-location
+маршрут с отметкой на карте,map-location
 адрес отображён на карте с булавкой,map-location
 найти адрес на карте,map-location
 GPS координаты показаны на карте,map-location
@@ -52,17 +48,23 @@ GPS позиция на карте местоположения,map-location
 городская карта с закреплённой точкой встречи,map-location
 общая булавка местоположения на экране карты,map-location
 карта показывающая сохранённые любимые места,map-location
-Мне нужна карта с булавкой для экрана мест,map-location
-добавить иконку карты с местоположением на вкладку навигации,map-location
-показать карту с булавкой для сохранённых адресов,map-location
-использовать иконку карты для выбора пункта назначения,map-location
+посмотреть сохраненные места на карте,map-location
+открыть карту мест,map-location
+показать сохраненные адреса на карте,map-location
+выбрать пункт назначения на карте,map-location
 карта с местоположениам,map-location
 навигациа карта булавка,map-location
 пункт назначениа на карте,map-location
 крата с булавкой,map-location
 отдельная точка местоположения без карты,map-location
 сложенная бумажная карта без булавки,map-location
-GPS прицел нацеленный на позицию,map-location
+GPS точка отмечена на карте,map-location
 глобус показывающий мировые местоположения,map-location
 компас для направления без карты,map-location
 отдельная иконка булавки карты,map-location
+карта с уже выделенным отмеченным местом,map-location
+городская карта с одним явным маркером пункта назначения,map-location
+выбрать адрес на карте,map-location
+открыть адрес на карте,map-location
+отметить место встречи на карте,map-location
+пройти по маршруту к отмеченному пункту назначения,map-location

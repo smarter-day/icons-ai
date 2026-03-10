@@ -1,15 +1,14 @@
 text,label
-connection,wireless
-hotspot,wireless
-internet,wireless
-network,wireless
-nfc,wireless
-rss,wireless
-scan,wireless
-signal,wireless
-wifi,wireless
-wireless,wireless
-www,wireless
+wireless connection,wireless
+wireless hotspot,wireless
+turn on wireless internet,wireless
+wireless network mode,wireless
+wireless feature,wireless
+wireless feed,wireless
+scan wireless networks,wireless
+wifi wireless signal,wireless
+wireless mode,wireless
+wireless web access,wireless
 wireless connection established on the device,wireless
 stable connection icon in network settings,wireless
 mobile hotspot sharing internet over wifi,wireless
@@ -42,10 +41,10 @@ wireless icon showing four signal strength bars,wireless
 enable wireless to connect to the internet,wireless
 network status icon in a mobile device settings menu,wireless
 wireless signal radiating from a central tower,wireless
-I need a wireless icon for my network settings app,wireless
-add a wireless symbol to the connectivity section,wireless
-show a wireless icon for the wifi status feature,wireless
-use the wireless icon for the internet connection screen,wireless
+turn on wireless mode,wireless
+enable wireless connection,wireless
+scan for a wireless network,wireless
+check wireless signal bars,wireless
 wireles signal in the settings bar,wireless
 wirelss connection to the router,wireless
 wirelese network available nearby,wireless

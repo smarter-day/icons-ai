@@ -4,7 +4,6 @@ crop,frame
 grid,frame
 group,frame
 viewbox,frame
-Set up the artboard in the design tool,frame
 Resize the artboard,frame
 Crop the image to the frame,frame
 Crop the design to size,frame
@@ -21,9 +20,7 @@ Arrange elements within the frame,frame
 Group UI components together,frame
 Use a frame for the app screen layout,frame
 Set up a frame for the presentation slide,frame
-Resize the design frame,frame
 Nest frames in the design file,frame
-Export the frame as an image,frame
 New frame,frame
 Design frame,frame
 Set the canvas,frame

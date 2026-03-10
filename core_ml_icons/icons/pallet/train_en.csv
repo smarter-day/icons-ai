@@ -1,15 +1,15 @@
 text,label
-archive,pallet
-box,pallet
-inventory,pallet
-shipping,pallet
-warehouse,pallet
+stacked pallet,pallet
+wood pallet,pallet
+loaded pallet,pallet
+shipping pallet,pallet
+storage pallet,pallet
 archive items stacked on pallet,pallet
 storage archive on wooden pallet,pallet
 cardboard boxes stacked on pallet,pallet
 boxes loaded on shipping pallet,pallet
-inventory pallet in warehouse,pallet
-pallet of inventory to count,pallet
+warehouse pallet load,pallet
+count the loaded pallet,pallet
 shipping pallet loaded for freight,pallet
 pallet wrapped for shipping,pallet
 warehouse floor pallet storage,pallet
@@ -18,16 +18,16 @@ wooden shipping pallet on warehouse floor,pallet
 forklift moving loaded pallet,pallet
 stack of boxes on a wooden pallet,pallet
 shrink-wrapped pallet ready for shipment,pallet
-logistics supply chain pallet icon,pallet
+move the freight pallet,pallet
 pallet racking in distribution center,pallet
 manual pallet jack lifting pallet,pallet
 empty wooden pallet for recycling,pallet
 freight truck loading pallets,pallet
 inventory management pallet scan,pallet
-I need a pallet icon for the warehouse management,pallet
-add a shipping pallet to the logistics section,pallet
-show a pallet for the inventory tracking feature,pallet
-use the pallet icon for the freight shipping screen,pallet
+prepare a pallet for shipment,pallet
+stack boxes on a pallet,pallet
+wrap the pallet for shipping,pallet
+move freight on a pallet,pallet
 pallet warehous,pallet
 shiping pallet,pallet
 invnetory pallet,pallet

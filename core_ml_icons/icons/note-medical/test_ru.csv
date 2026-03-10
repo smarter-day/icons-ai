@@ -1,4 +1,4 @@
 text,label
-иконка медицинской заметки,note-medical
-медицинский стикер,note-medical
-заметка записки врача,note-medical
+сделать запись в медицинской карте,note-medical
+сохранить заметку к рецепту,note-medical
+проверить запись врача,note-medical

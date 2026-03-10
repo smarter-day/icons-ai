@@ -1,4 +1,4 @@
 text,label
-иконка медицинского стикера,note-medical
-заметка врача,note-medical
-заметка медицинской карты,note-medical
+добавить заметку в карту пациента,note-medical
+запись врача после приёма,note-medical
+обновить заметку в медкарте,note-medical

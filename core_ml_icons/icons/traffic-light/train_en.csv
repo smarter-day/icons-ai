@@ -3,11 +3,9 @@ direction,traffic-light
 go,traffic-light
 light,traffic-light
 road,traffic-light
-signal,traffic-light
 slow,traffic-light
 stop,traffic-light
 traffic,traffic-light
-travel,traffic-light
 vertical traffic light,traffic-light
 direction from traffic light signal,traffic-light
 traffic light direction arrow,traffic-light

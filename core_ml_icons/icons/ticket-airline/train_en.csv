@@ -4,7 +4,6 @@ arrival,ticket-airline
 boarding pass,ticket-airline
 departure,ticket-airline
 ticket,ticket-airline
-travel,ticket-airline
 airplane boarding pass scan,ticket-airline
 airplane ticket itinerary,ticket-airline
 flight arrival terminal gate,ticket-airline

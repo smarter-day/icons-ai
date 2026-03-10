@@ -1,12 +1,11 @@
 text,label
-airwaves,tower-broadcast
-antenna,tower-broadcast
-communication,tower-broadcast
+broadcast airwaves,tower-broadcast
+broadcast antenna,tower-broadcast
+broadcast communication,tower-broadcast
 emergency,tower-broadcast
-radio,tower-broadcast
-reception,tower-broadcast
-signal,tower-broadcast
-waves,tower-broadcast
+radio broadcast,tower-broadcast
+broadcast reception,tower-broadcast
+broadcast waves,tower-broadcast
 airwaves broadcast tower signal,tower-broadcast
 radio airwaves transmission,tower-broadcast
 antenna tower broadcast tall,tower-broadcast
@@ -33,10 +32,10 @@ broadcast tower blinking red lights,tower-broadcast
 satellite uplink broadcast tower,tower-broadcast
 public radio broadcast antenna,tower-broadcast
 storm warning broadcast tower alert,tower-broadcast
-I need a broadcast tower icon for the signal feature,tower-broadcast
-add an antenna symbol to the radio category,tower-broadcast
-show a broadcast tower for the emergency alert,tower-broadcast
-use the tower-broadcast icon for the communication section,tower-broadcast
+send an emergency broadcast,tower-broadcast
+show the radio tower signal,tower-broadcast
+open the broadcast alert,tower-broadcast
+check broadcast coverage,tower-broadcast
 broacast tower signal,tower-broadcast
 anteanna tower radio,tower-broadcast
 rado tower broadcast,tower-broadcast

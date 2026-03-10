@@ -1,9 +1,6 @@
 text,label
-здание,warehouse
 вместимость,warehouse
 гараж,warehouse
-инвентарь,warehouse
-хранение,warehouse
 здание склада большое промышленное,warehouse
 склад здание хранение,warehouse
 вместимость склада полный запас,warehouse

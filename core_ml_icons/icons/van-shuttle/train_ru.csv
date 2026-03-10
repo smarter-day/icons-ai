@@ -3,9 +3,6 @@ text,label
 автобус,van-shuttle
 минибус,van-shuttle
 общественный транспорт,van-shuttle
-транспорт,van-shuttle
-путешествие,van-shuttle
-транспортное средство,van-shuttle
 шаттл-фургон трансфер аэропорт,van-shuttle
 шаттл-фургон отель аэропорт,van-shuttle
 маршрут шаттл-фургона автобус,van-shuttle

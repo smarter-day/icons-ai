@@ -14,7 +14,6 @@ open lock for admin access,lock-open
 lock in open state,lock-open
 open padlock not locked,lock-open
 lock open and unlocked,lock-open
-open padlock with shackle raised,lock-open
 padlock open and unlocked,lock-open
 open padlock on the gate,lock-open
 password revealed open lock,lock-open
@@ -29,7 +28,6 @@ security lock in open state,lock-open
 open lock security warning,lock-open
 unlock with open padlock,lock-open
 unlock the door open lock,lock-open
-open padlock with the shackle raised,lock-open
 unlocked icon after a successful login,lock-open
 open lock symbol for accessible content,lock-open
 padlock opened after entering the password,lock-open

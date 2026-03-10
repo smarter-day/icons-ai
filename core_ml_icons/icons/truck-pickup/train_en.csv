@@ -1,11 +1,9 @@
 text,label
 cargo,truck-pickup
-maintenance,truck-pickup
 pick-up,truck-pickup
 pickup,truck-pickup
 pickup truck,truck-pickup
 truck,truck-pickup
-vehicle,truck-pickup
 cargo in pickup truck bed,truck-pickup
 pickup truck cargo haul,truck-pickup
 maintenance pickup truck service,truck-pickup

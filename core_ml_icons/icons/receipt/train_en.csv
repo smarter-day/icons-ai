@@ -5,7 +5,6 @@ check,receipt
 coupon,receipt
 evidence,receipt
 invoice,receipt
-money,receipt
 pay,receipt
 proof,receipt
 receipt,receipt

@@ -4,11 +4,10 @@ text,label
 фол,baseball
 перчатка,baseball
 хардбол,baseball
-лига,baseball
+бейсбольная лига,baseball
 кожа,baseball
-MLB,baseball
-софтбол,baseball
-спорт,baseball
+матч MLB по бейсболу,baseball
+запись на софтбол,baseball
 бросок снизу,baseball
 купить бейсбольный мяч,baseball
 посмотреть бейсбольный матч,baseball
@@ -56,3 +55,4 @@ MLB,baseball
 Дедлайн регистрации на турнир по софтболу,baseball
 Распродажа спортивного инвентаря в магазине,baseball
 Тренировка броска снизу,baseball
+играть в бейсбол после работы,baseball

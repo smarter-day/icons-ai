@@ -1,4 +1,4 @@
 text,label
-location crosshairs symbol,location-crosshairs
-precise GPS targeting crosshair,location-crosshairs
-map crosshairs for coordinates,location-crosshairs
+locate me on the map,location-crosshairs
+recenter on current location,location-crosshairs
+pinpoint my live location,location-crosshairs

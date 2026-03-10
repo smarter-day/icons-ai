@@ -1,11 +1,5 @@
 text,label
-currency,coins
-dime,coins
 financial,coins
-gold,coins
-money,coins
-penny,coins
-premium,coins
 Exchange currency at the airport,coins
 Check the currency exchange rate,coins
 Find a dime on the sidewalk,coins
@@ -24,7 +18,6 @@ Save loose change in a jar,coins
 Count coins from the piggy bank,coins
 Pay for parking with coins,coins
 Sort coins by denomination,coins
-Deposit coins at the bank,coins
 Give kids their weekly allowance,coins
 Check the change from the store,coins
 Roll coins to deposit at the bank,coins
@@ -38,9 +31,9 @@ save som money,coins
 exchagne currency for trip,coins
 count the conis,coins
 finanical planning session,coins
-Use a credit card for payment,coins
-Transfer money via the bank app,coins
-Check account balance,coins
-Invest in the stock market,coins
-Pay with cash at the register,coins
-Get a discount coupon,coins
+count a pile of coins,coins
+save loose change in a jar,coins
+roll coins for the bank,coins
+collect spare coins for laundry,coins
+sort coins by value,coins
+count spare change before the trip,coins

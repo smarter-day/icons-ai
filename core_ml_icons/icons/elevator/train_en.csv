@@ -2,17 +2,12 @@ text,label
 elevator,elevator
 hoist,elevator
 lift,elevator
-Take the elevator to the office,elevator
 Wait for the elevator,elevator
 Use the hoist to lift the equipment,elevator
 Hoist supplies to the upper floor,elevator
-Use the lift instead of stairs,elevator
 Call the lift on this floor,elevator
 Take the elevator to the top floor,elevator
-Hold the elevator for someone,elevator
-Press the floor button in the elevator,elevator
 Use the elevator with the stroller,elevator
-Report the broken elevator,elevator
 Wait for the elevator at work,elevator
 Use the service elevator,elevator
 Take the lift to the parking level,elevator

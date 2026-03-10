@@ -1,4 +1,4 @@
 text,label
-crosshairs targeting a map location,location-crosshairs
-GPS crosshairs for precise positioning,location-crosshairs
-navigation crosshairs on map,location-crosshairs
+find where I am right now,location-crosshairs
+recenter the map on me,location-crosshairs
+detect the exact GPS position,location-crosshairs

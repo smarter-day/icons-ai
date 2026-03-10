@@ -1,7 +1,5 @@
 text,label
-инвентарь,pallet-box
 упаковка,pallet-box
-доставка,pallet-box
 отслеживать инвентарь в коробке на поддоне,pallet-box
 упаковка обёрнутая на поддоне,pallet-box
 отгрузочный поддон с коробкой,pallet-box

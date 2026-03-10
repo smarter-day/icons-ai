@@ -1,4 +1,4 @@
 text,label
-End of day register count,cash-register
-Ring up the sale at the counter,cash-register
-POS system for the new store,cash-register
+count the register at closing,cash-register
+ring up the customer,cash-register
+open the cash register,cash-register

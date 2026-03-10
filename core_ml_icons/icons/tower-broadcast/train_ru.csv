@@ -1,12 +1,11 @@
 text,label
-эфир,tower-broadcast
-антенна,tower-broadcast
-связь,tower-broadcast
+вещательный эфир,tower-broadcast
+вещательная антенна,tower-broadcast
+вещательная связь,tower-broadcast
 экстренный,tower-broadcast
-радио,tower-broadcast
-приём,tower-broadcast
-сигнал,tower-broadcast
-волны,tower-broadcast
+радиовещание,tower-broadcast
+вещательный приём,tower-broadcast
+вещательные волны,tower-broadcast
 эфирная башня трансляция сигнал,tower-broadcast
 радиоволны передача в эфир,tower-broadcast
 высокая антенная башня трансляция,tower-broadcast
@@ -14,7 +13,7 @@ text,label
 коммуникационная вышка ретранслятор,tower-broadcast
 сигнал связи трансляция,tower-broadcast
 экстренная вещательная башня тревога,tower-broadcast
-система экстренного оповещения башня,tower-broadcast
+система экстренного вещания башня,tower-broadcast
 радиовышка AM FM трансляция,tower-broadcast
 радиостанция вышка трансляции,tower-broadcast
 приём сигнала вещательная башня,tower-broadcast
@@ -33,10 +32,10 @@ text,label
 башня спутниковой связи трансляция,tower-broadcast
 антенна общественного радио,tower-broadcast
 предупреждение о буре башня трансляции,tower-broadcast
-нужна иконка вещательной башни для функции сигнала,tower-broadcast
-добавь символ антенны к радиокатегории,tower-broadcast
-покажи вещательную башню для экстренного оповещения,tower-broadcast
-используй иконку башни трансляции для раздела связи,tower-broadcast
+отправить экстренное вещание,tower-broadcast
+показать сигнал радиовышки,tower-broadcast
+открыть вещательное оповещение,tower-broadcast
+проверить покрытие вещания,tower-broadcast
 вещательная башня сигнал,tower-broadcast
 антенная вышка радио,tower-broadcast
 радио башня трансляция,tower-broadcast

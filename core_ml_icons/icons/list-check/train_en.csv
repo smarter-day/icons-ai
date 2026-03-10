@@ -2,7 +2,6 @@ text,label
 checklist,list-check
 progress,list-check
 project management,list-check
-settings,list-check
 summary,list-check
 to do,list-check
 working,list-check
@@ -20,16 +19,10 @@ Make a to-do list,list-check
 Check off the to-do items,list-check
 Stay working on the task,list-check
 Keep working through the list,list-check
-Check off completed tasks,list-check
-Create a project task list,list-check
-Track progress on the checklist,list-check
-Mark items as done on the list,list-check
 Review the checklist before submitting,list-check
 Make a shopping checklist,list-check
-Follow the setup checklist,list-check
 Keep track of project milestones,list-check
 Use a checklist for the process,list-check
-Complete all items on the list,list-check
 Check it off,list-check
 Task list,list-check
 Mark as done,list-check

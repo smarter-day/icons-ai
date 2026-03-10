@@ -1,16 +1,13 @@
 text,label
 повар,knife-kitchen
 приготовление пищи,knife-kitchen
-резать,knife-kitchen
-оборудование,knife-kitchen
+нарезать овощи,knife-kitchen
 Хэллоуин,knife-kitchen
 хочо,knife-kitchen
-кухонный нож,knife-kitchen
+шеф-нож,knife-kitchen
 нож,knife-kitchen
-острый,knife-kitchen
+лезвие поварского ножа,knife-kitchen
 нарезка,knife-kitchen
-инструмент,knife-kitchen
-оружие,knife-kitchen
 поварской нож на кухне,knife-kitchen
 "повар использует нож, чтобы нарезать",knife-kitchen
 кулинарный нож на разделочной доске,knife-kitchen
@@ -45,10 +42,10 @@ text,label
 повар готовит еду острым ножом,knife-kitchen
 нож для очистки фруктов,knife-kitchen
 разделочный нож за обеденным столом,knife-kitchen
-Мне нужен значок ножа для кулинарного приложения.,knife-kitchen
-добавить кухонный нож в раздел инструментов для рецептов,knife-kitchen
-показать нож для категории шеф-повара,knife-kitchen
-используйте значок ножа для функции приготовления еды,knife-kitchen
+кулинарное приложение с шеф-ножом,knife-kitchen
+раздел кухонных инструментов для рецептов,knife-kitchen
+категория шеф-ножей,knife-kitchen
+функция нарезки ингредиентов,knife-kitchen
 повара на кухне,knife-kitchen
 резка кухонным ножом,knife-kitchen
 лезвие острого ножа,knife-kitchen
@@ -59,3 +56,4 @@ text,label
 меч с богато украшенной рукоятью,knife-kitchen
 нож для пиццы катится по тесту,knife-kitchen
 нож для очистки овощей от кожицы,knife-kitchen
+подготовить нож для шинковки,knife-kitchen

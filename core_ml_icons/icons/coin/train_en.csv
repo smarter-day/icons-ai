@@ -1,12 +1,7 @@
 text,label
 coin,coin
-dime,coin
-gold,coin
 metal,coin
-money,coin
 nickel,coin
-penny,coin
-premium,coin
 quarter,coin
 silver,coin
 treasure,coin
@@ -42,10 +37,11 @@ vending machine accepting coin payment,coin
 coin flip to decide the starting team,coin
 silver coin minted with the national emblem,coin
 treasure chest full of golden coins,coin
-I need a coin icon for the in-game currency,coin
-add a gold coin to the rewards section,coin
-show a coin for the payment feature,coin
-use the coin icon for the premium currency,coin
+collect one gold coin,coin
+pick up a bonus coin,coin
+pay with one coin,coin
+spend a coin in the game,coin
+find a coin on the ground,coin
 goid coin reward,coin
 tresuare chest of coins,coin
 silvr coin collection,coin

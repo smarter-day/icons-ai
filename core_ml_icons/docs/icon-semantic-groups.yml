@@ -1,0 +1,1488 @@
+version: 1
+updated: "2026-03-10"
+purpose: >
+  Source of truth for semantically close icon groups that require explicit
+  disambiguation during dataset cleanup, manual phrase generation, and EN/RU translation.
+
+rules:
+  - Do not add broad shared terms to multiple icons in the same group without context.
+  - When adding a phrase for one icon in a group, compare it against all neighbors in that group.
+  - Add EN and RU phrases in pairs with the same intent.
+  - Prefer differentiating phrases over generic category phrases.
+
+groups:
+  - name: navigation-location
+    priority: high
+    icons:
+      - globe
+      - location-crosshairs
+      - location-dot
+      - map
+      - map-location
+      - map-pin
+      - thumbtack
+    dangerous_shared_terms:
+      en: [travel, location, navigation, map, position, place, pin]
+      ru: [путешествие, локация, местоположение, навигация, карта, точка, место, пин]
+    differentiation:
+      globe:
+        en: [world, earth, global, international, countries]
+        ru: [мир, земной шар, глобальный, международный, страны]
+      location-crosshairs:
+        en: [gps target, geolocation target, crosshair marker, precise location]
+        ru: [gps-цель, точка геолокации, перекрестие, точное местоположение]
+      location-dot:
+        en: [current location, place marker, location marker, pinned location]
+        ru: [текущее местоположение, маркер места, отметка локации, точка на карте]
+      map:
+        en: [city map, route map, folded map, street map]
+        ru: [карта города, маршрут на карте, сложенная карта, уличная карта]
+      map-location:
+        en: [map with marker, map plus pin, marked map]
+        ru: [карта с меткой, карта с пином, отмеченная карта]
+      map-pin:
+        en: [drop a pin, pinned place, save this pin, pin on map]
+        ru: [поставить пин, закреплённая точка, сохранить пин, пин на карте]
+      thumbtack:
+        en: [pin to board, bulletin pin, pushpin, tack note]
+        ru: [кнопка на доске, канцелярская кнопка, кнопка для заметки, приколоть лист]
+
+  - name: comments-messages
+    priority: high
+    icons:
+      - comment
+      - message
+      - memo
+      - note-medical
+    dangerous_shared_terms:
+      en: [chat, message, comment, note, conversation, notification]
+      ru: [чат, сообщение, комментарий, заметка, переписка, уведомление]
+    differentiation:
+      comment:
+        en: [comment thread, user comment, leave a comment, comment bubble]
+        ru: [ветка комментариев, комментарий пользователя, оставить комментарий, пузырь комментария]
+      message:
+        en: [direct message, text message, send message, inbox message]
+        ru: [личное сообщение, текстовое сообщение, отправить сообщение, входящее сообщение]
+      memo:
+        en: [memo note, quick memo, written note, reminder note]
+        ru: [служебная записка, короткая заметка, письменная заметка, заметка-напоминание]
+      note-medical:
+        en: [medical note, doctor note, clinical note, patient note]
+        ru: [медицинская запись, справка врача, клиническая заметка, заметка о пациенте]
+
+  - name: tools-settings
+    priority: high
+    icons:
+      - gear
+      - hammer
+      - hammer-brush
+      - screwdriver
+      - screwdriver-wrench
+      - toolbox
+      - wrench
+    dangerous_shared_terms:
+      en: [tool, settings, repair, maintenance, equipment, fix, modify]
+      ru: [инструмент, настройки, ремонт, обслуживание, оборудование, починить, изменить]
+    differentiation:
+      gear:
+        en: [settings, configuration, system preferences, app settings]
+        ru: [настройки, конфигурация, системные параметры, настройки приложения]
+      hammer:
+        en: [hammer tool, nail hammer, construction hammer]
+        ru: [молоток, молоток для гвоздей, строительный молоток]
+      hammer-brush:
+        en: [renovation tool, paint and repair, remodel]
+        ru: [инструмент для ремонта, покраска и ремонт, ремонтные работы]
+      screwdriver:
+        en: [screwdriver tool, tighten screw, screw head]
+        ru: [отвёртка, закрутить винт, шлиц винта]
+      screwdriver-wrench:
+        en: [tools crossed, service tools, repair tools set]
+        ru: [скрещённые инструменты, сервисные инструменты, набор для ремонта]
+      toolbox:
+        en: [tool box, tool kit, maintenance kit]
+        ru: [ящик с инструментами, набор инструментов, ремонтный комплект]
+      wrench:
+        en: [spanner, wrench tool, adjust bolt]
+        ru: [гаечный ключ, ключ для болта, подкрутить болт]
+
+  - name: paint-drawing
+    priority: high
+    icons:
+      - brush
+      - paint-roller
+      - paintbrush
+      - palette
+      - pencil
+      - pen
+      - pen-paintbrush
+      - pen-ruler
+      - marker
+    dangerous_shared_terms:
+      en: [art, draw, paint, design, edit, color, creative]
+      ru: [арт, рисовать, красить, дизайн, редактировать, цвет, творчество]
+    differentiation:
+      brush:
+        en: [cleaning brush, hair brush, brush tool]
+        ru: [щётка, кисть-щётка, инструмент щётка]
+      paint-roller:
+        en: [paint roller, wall painting, roller brush]
+        ru: [малярный валик, покраска стены, валик для краски]
+      paintbrush:
+        en: [paint brush, artist brush, brush stroke]
+        ru: [кисть для рисования, художественная кисть, мазок кистью]
+      palette:
+        en: [color palette, paint tray, artist palette]
+        ru: [палитра цветов, палитра художника, планшет для красок]
+      pencil:
+        en: [pencil sketch, graphite pencil, write in pencil]
+        ru: [карандашный набросок, графитовый карандаш, писать карандашом]
+      pen:
+        en: [ink pen, write with pen, signing pen]
+        ru: [ручка, писать ручкой, ручка для подписи]
+      pen-paintbrush:
+        en: [creative tools, design tool pair, art editing]
+        ru: [творческие инструменты, пара для дизайна, художественное редактирование]
+      pen-ruler:
+        en: [drafting tools, design ruler, layout tool]
+        ru: [чертёжные инструменты, линейка для дизайна, инструмент разметки]
+      marker:
+        en: [felt tip marker, highlight marker, whiteboard marker]
+        ru: [маркер, фломастер, маркер для доски]
+
+  - name: vehicles-transport
+    priority: high
+    icons:
+      - bus
+      - car
+      - car-bolt
+      - car-key
+      - carpool
+      - taxi
+      - train-subway
+      - van
+      - van-shuttle
+    dangerous_shared_terms:
+      en: [travel, transportation, vehicle, ride, commute, trip]
+      ru: [путешествие, транспорт, машина, поездка, дорога, commute]
+    differentiation:
+      bus:
+        en: [bus route, city bus, public transport]
+        ru: [автобусный маршрут, городской автобус, общественный транспорт]
+      car:
+        en: [car, automobile, personal vehicle, sedan]
+        ru: [машина, автомобиль, личный транспорт, седан]
+      car-bolt:
+        en: [electric car, EV charging, car with electricity]
+        ru: [электромобиль, зарядка EV, машина с молнией]
+      car-key:
+        en: [car key, unlock car, vehicle key]
+        ru: [ключ от машины, открыть автомобиль, автомобильный ключ]
+      carpool:
+        en: [shared ride, carpool lane, ride together]
+        ru: [совместная поездка, carpool-полоса, ехать вместе]
+      taxi:
+        en: [taxi ride, cab, book a taxi]
+        ru: [такси, вызвать такси, поездка на такси]
+      train-subway:
+        en: [subway train, metro line, underground]
+        ru: [поезд метро, линия метро, подземка]
+      van:
+        en: [cargo van, delivery van, panel van]
+        ru: [фургон, грузовой фургон, развозной фургон]
+      van-shuttle:
+        en: [shuttle van, airport shuttle, passenger van]
+        ru: [шаттл, трансфер, пассажирский минивэн]
+
+  - name: networking-wireless
+    priority: high
+    icons:
+      - nfc
+      - router
+      - wifi
+      - wireless
+      - tower-broadcast
+      - tower-cell
+    dangerous_shared_terms:
+      en: [signal, network, wireless, internet, connection, communication]
+      ru: [сигнал, сеть, беспроводной, интернет, подключение, связь]
+    differentiation:
+      nfc:
+        en: [tap to pay, near field communication, phone tap]
+        ru: [оплата касанием, NFC, приложить телефон]
+      router:
+        en: [router device, home router, network router]
+        ru: [роутер, домашний роутер, сетевой маршрутизатор]
+      wifi:
+        en: [wifi network, wireless internet, wifi signal]
+        ru: [wifi сеть, беспроводной интернет, wifi сигнал]
+      wireless:
+        en: [wireless mode, cable-free, wireless feature]
+        ru: [беспроводной режим, без кабеля, беспроводная функция]
+      tower-broadcast:
+        en: [broadcast tower, radio tower, transmission tower]
+        ru: [радиовышка, вещательная башня, башня передачи]
+      tower-cell:
+        en: [cell tower, mobile tower, cellular network]
+        ru: [сотовая вышка, мобильная вышка, сотовая сеть]
+
+  - name: locks-access
+    priority: high
+    icons:
+      - key
+      - lock
+      - lock-open
+      - unlock
+    dangerous_shared_terms:
+      en: [lock, unlock, password, access, security, privacy]
+      ru: [замок, разблокировать, пароль, доступ, безопасность, приватность]
+    differentiation:
+      key:
+        en: [security key, access key, physical key]
+        ru: [ключ доступа, ключ безопасности, физический ключ]
+      lock:
+        en: [locked, secure, closed lock, protected]
+        ru: [закрытый замок, защищено, заблокировано, под замком]
+      lock-open:
+        en: [open lock, lock is open, unlocked lock icon]
+        ru: [открытый замок, замок открыт, иконка открытого замка]
+      unlock:
+        en: [unlock action, open access, unlock now]
+        ru: [разблокировать, открыть доступ, разблокировать сейчас]
+
+  - name: books-reading
+    priority: medium
+    icons:
+      - book
+      - books
+      - book-bible
+      - book-medical
+      - book-quran
+      - books-medical
+    dangerous_shared_terms:
+      en: [book, books, reading, library, documentation, knowledge]
+      ru: [книга, книги, чтение, библиотека, документация, знания]
+    differentiation:
+      book:
+        en: [single book, open book, one volume]
+        ru: [одна книга, открытая книга, один том]
+      books:
+        en: [stack of books, multiple books, bookshelf]
+        ru: [стопка книг, несколько книг, книжная полка]
+      book-bible:
+        en: [Bible, scripture, Christian text]
+        ru: [Библия, священное писание, христианский текст]
+      book-medical:
+        en: [medical book, clinical reference, healthcare manual]
+        ru: [медицинская книга, клинический справочник, медицинское руководство]
+      book-quran:
+        en: [Quran, исламская книга, holy Quran]
+        ru: [Коран, исламская книга, священный Коран]
+      books-medical:
+        en: [medical books, medical library, clinical references]
+        ru: [медицинские книги, медицинская библиотека, клинические справочники]
+
+  - name: food-bread-breakfast
+    priority: medium
+    icons:
+      - bagel
+      - baguette
+      - bread-loaf
+      - bread-slice
+      - bacon
+      - egg
+      - egg-fried
+      - coffee-pot
+      - cup-togo
+      - mug
+    dangerous_shared_terms:
+      en: [breakfast, bakery, bread, coffee, hot drink, food]
+      ru: [завтрак, выпечка, хлеб, кофе, горячий напиток, еда]
+    differentiation:
+      bagel:
+        en: [bagel ring, round bagel, cream cheese bagel]
+        ru: [бейгл, круглый бейгл, бейгл с крем-сыром]
+      baguette:
+        en: [baguette loaf, french bread, long bread]
+        ru: [багет, французский хлеб, длинный батон]
+      bread-loaf:
+        en: [whole loaf, bread loaf, bakery loaf]
+        ru: [целая буханка, буханка хлеба, хлеб из пекарни]
+      bread-slice:
+        en: [slice of bread, toast slice, bread slice]
+        ru: [ломтик хлеба, тост, кусок хлеба]
+      bacon:
+        en: [bacon strips, crispy bacon, fried bacon]
+        ru: [полоски бекона, хрустящий бекон, жареный бекон]
+      egg:
+        en: [whole egg, boiled egg, raw egg]
+        ru: [целое яйцо, варёное яйцо, сырое яйцо]
+      egg-fried:
+        en: [fried egg, sunny side up, pan egg]
+        ru: [яичница, глазунья, жареное яйцо]
+      coffee-pot:
+        en: [coffee pot, brew coffee, coffee maker]
+        ru: [кофейник, варить кофе, кофеварка]
+      cup-togo:
+        en: [takeaway cup, coffee to go, paper cup]
+        ru: [стакан навынос, кофе с собой, бумажный стакан]
+      mug:
+        en: [ceramic mug, tea mug, coffee mug]
+        ru: [кружка, кружка для чая, кружка для кофе]
+
+  - name: medicine-clinic
+    priority: medium
+    icons:
+      - hospital
+      - hospital-user
+      - hospitals
+      - stethoscope
+      - syringe
+      - thermometer
+      - user-doctor
+    dangerous_shared_terms:
+      en: [doctor, hospital, medicine, clinic, health, medical]
+      ru: [врач, больница, медицина, клиника, здоровье, медицинский]
+    differentiation:
+      hospital:
+        en: [hospital building, medical center, clinic building]
+        ru: [здание больницы, медцентр, клиника]
+      hospital-user:
+        en: [patient in hospital, admitted patient, hospital resident]
+        ru: [пациент в больнице, госпитализированный пациент, больничный пациент]
+      hospitals:
+        en: [multiple hospitals, hospital network, hospital group]
+        ru: [несколько больниц, сеть больниц, группа больниц]
+      stethoscope:
+        en: [listen to heartbeat, stethoscope tool, chest piece]
+        ru: [слушать сердце, стетоскоп, грудная мембрана]
+      syringe:
+        en: [injection, vaccine syringe, medical shot]
+        ru: [шприц, укол, вакцина]
+      thermometer:
+        en: [temperature, fever check, thermometer reading]
+        ru: [температура, проверка температуры, градусник]
+      user-doctor:
+        en: [doctor profile, physician user, medical specialist]
+        ru: [профиль врача, пользователь-врач, медицинский специалист]
+
+  - name: awards-badges
+    priority: medium
+    icons:
+      - award
+      - medal
+      - trophy
+      - badge-dollar
+      - badge-sheriff
+    dangerous_shared_terms:
+      en: [award, badge, winner, achievement, prize, honor]
+      ru: [награда, значок, победитель, достижение, приз, почёт]
+    differentiation:
+      award:
+        en: [award seal, quality award, generic award icon]
+        ru: [знак награды, награда за качество, общая иконка награды]
+      medal:
+        en: [medal on ribbon, sports medal, awarded medal]
+        ru: [медаль на ленте, спортивная медаль, вручённая медаль]
+      trophy:
+        en: [trophy cup, winner trophy, first place cup]
+        ru: [кубок, трофей победителя, кубок за первое место]
+      badge-dollar:
+        en: [money badge, price badge, discount badge]
+        ru: [денежный значок, ценовой бейдж, бейдж скидки]
+      badge-sheriff:
+        en: [sheriff badge, police badge, law badge]
+        ru: [значок шерифа, полицейский значок, служебный знак]
+
+  - name: payments-shopping
+    priority: high
+    icons:
+      - badge-dollar
+      - bag-shopping
+      - bags-shopping
+      - basket-shopping
+      - cart-shopping
+      - cash-register
+      - coin
+      - coins
+      - credit-card
+      - dollar-sign
+      - money-bill
+      - money-check
+      - sack
+      - sack-dollar
+      - vault
+    dangerous_shared_terms:
+      en: [money, payment, shopping, checkout, purchase, buy, price, cash]
+      ru: [деньги, оплата, покупки, касса, покупка, купить, цена, наличные]
+    differentiation:
+      badge-dollar:
+        en: [price badge, money badge, sale badge]
+        ru: [ценовой бейдж, денежный значок, бейдж скидки]
+      bag-shopping:
+        en: [shopping bag, retail bag, purchase bag]
+        ru: [пакет для покупок, магазинный пакет, пакет с покупкой]
+      bags-shopping:
+        en: [multiple shopping bags, shopping haul, retail bags]
+        ru: [несколько пакетов с покупками, шопинг-пакеты, пакеты из магазина]
+      basket-shopping:
+        en: [shopping basket, grocery basket, store basket]
+        ru: [корзина для покупок, продуктовая корзина, корзина в магазине]
+      cart-shopping:
+        en: [shopping cart, grocery cart, online cart]
+        ru: [тележка для покупок, продуктовая тележка, корзина интернет-магазина]
+      cash-register:
+        en: [cash register, checkout till, POS register]
+        ru: [кассовый аппарат, касса, POS-касса]
+      coin:
+        en: [single coin, one coin, coin token]
+        ru: [одна монета, монетка, жетон]
+      coins:
+        en: [pile of coins, coin stack, multiple coins]
+        ru: [стопка монет, несколько монет, кучка монет]
+      credit-card:
+        en: [credit card, card payment, bank card]
+        ru: [банковская карта, оплата картой, кредитная карта]
+      dollar-sign:
+        en: [currency sign, dollar symbol, price symbol]
+        ru: [знак доллара, символ валюты, денежный символ]
+      money-bill:
+        en: [cash bill, paper money, banknote]
+        ru: [банкнота, бумажные деньги, купюра]
+      money-check:
+        en: [check payment, cheque, payment check]
+        ru: [чек оплаты, банковский чек, платёжный чек]
+      sack:
+        en: [bag, sack, storage sack]
+        ru: [мешок, сумка-мешок, складской мешок]
+      sack-dollar:
+        en: [money bag, sack of cash, bag with dollar]
+        ru: [мешок денег, мешок с долларами, денежный мешок]
+      vault:
+        en: [bank vault, secure vault, money vault]
+        ru: [банковское хранилище, сейф, денежное хранилище]
+
+  - name: fantasy-adventure
+    priority: high
+    icons:
+      - book-sparkles
+      - cauldron
+      - dagger
+      - helmet-battle
+      - hood-cloak
+      - mace
+      - mandolin
+      - scroll
+      - sickle
+      - sword
+      - treasure-chest
+      - wand
+    dangerous_shared_terms:
+      en: [fantasy, magic, dnd, adventure, quest, medieval, wizard]
+      ru: [фэнтези, магия, dnd, приключение, квест, средневековье, волшебник]
+    differentiation:
+      book-sparkles:
+        en: [magic book, spell book, enchanted book]
+        ru: [магическая книга, книга заклинаний, зачарованная книга]
+      cauldron:
+        en: [witch cauldron, potion cauldron, bubbling pot]
+        ru: [ведьмин котёл, котёл с зельем, кипящий котёл]
+      dagger:
+        en: [dagger blade, short dagger, rogue weapon]
+        ru: [кинжал, короткий клинок, оружие разбойника]
+      helmet-battle:
+        en: [battle helmet, warrior helmet, combat helm]
+        ru: [боевой шлем, шлем воина, шлем для битвы]
+      hood-cloak:
+        en: [hooded cloak, rogue hood, cloak silhouette]
+        ru: [плащ с капюшоном, капюшон разбойника, силуэт плаща]
+      mace:
+        en: [spiked mace, heavy mace, blunt weapon]
+        ru: [булава, шипастая булава, тяжёлое оружие]
+      mandolin:
+        en: [mandolin instrument, bard mandolin, string lute]
+        ru: [мандолина, инструмент барда, струнный инструмент]
+      scroll:
+        en: [ancient scroll, rolled parchment, quest scroll]
+        ru: [древний свиток, свёрнутый пергамент, свиток задания]
+      sickle:
+        en: [sickle blade, curved sickle, harvesting blade]
+        ru: [серп, изогнутый серп, серповидный клинок]
+      sword:
+        en: [sword blade, long sword, knight sword]
+        ru: [меч, длинный меч, рыцарский меч]
+      treasure-chest:
+        en: [treasure chest, loot chest, chest of gold]
+        ru: [сундук с сокровищами, сундук с добычей, сундук с золотом]
+      wand:
+        en: [magic wand, wizard wand, casting wand]
+        ru: [волшебная палочка, палочка мага, палочка для заклинаний]
+
+  - name: dining-utensils
+    priority: medium
+    icons:
+      - fork
+      - fork-knife
+      - knife
+      - plate-utensils
+      - utensils
+    dangerous_shared_terms:
+      en: [food, eat, dinner, cutlery, dining, meal]
+      ru: [еда, есть, ужин, столовые приборы, приём пищи, трапеза]
+    differentiation:
+      fork:
+        en: [fork utensil, dining fork, table fork]
+        ru: [вилка, столовая вилка, прибор вилка]
+      fork-knife:
+        en: [fork and knife, dining set, cutlery pair]
+        ru: [вилка и нож, столовый набор, пара приборов]
+      knife:
+        en: [knife blade, kitchen knife, cutting knife]
+        ru: [нож, кухонный нож, режущий нож]
+      plate-utensils:
+        en: [plate with utensils, meal plate, dining plate]
+        ru: [тарелка с приборами, тарелка для еды, сервировка]
+      utensils:
+        en: [cutlery, eating utensils, dining tools]
+        ru: [столовые приборы, приборы для еды, кухонные приборы]
+
+  - name: warehouse-logistics
+    priority: medium
+    icons:
+      - container-storage
+      - conveyor-belt
+      - forklift
+      - pallet
+      - shelves
+    dangerous_shared_terms:
+      en: [warehouse, storage, logistics, inventory, loading, supply]
+      ru: [склад, хранение, логистика, инвентарь, погрузка, поставки]
+    differentiation:
+      container-storage:
+        en: [storage container, shipping container, large storage unit]
+        ru: [контейнер хранения, грузовой контейнер, складской контейнер]
+      conveyor-belt:
+        en: [conveyor belt, moving belt, assembly line]
+        ru: [конвейерная лента, движущаяся лента, производственная линия]
+      forklift:
+        en: [forklift truck, lift pallet, warehouse forklift]
+        ru: [погрузчик, вилочный погрузчик, складской погрузчик]
+      pallet:
+        en: [wood pallet, shipping pallet, pallet base]
+        ru: [поддон, деревянный паллет, грузовой поддон]
+      shelves:
+        en: [storage shelves, warehouse shelves, shelving unit]
+        ru: [стеллажи, складские полки, система хранения]
+
+  - name: holiday-decor
+    priority: medium
+    icons:
+      - gift
+      - gingerbread-man
+      - lights-holiday
+      - ornament
+      - stocking
+      - wreath
+    dangerous_shared_terms:
+      en: [holiday, christmas, festive, decoration, seasonal]
+      ru: [праздник, рождество, праздничный, декор, сезонный]
+    differentiation:
+      gift:
+        en: [gift box, wrapped present, present box]
+        ru: [подарочная коробка, упакованный подарок, коробка с подарком]
+      gingerbread-man:
+        en: [gingerbread cookie, holiday cookie, gingerbread person]
+        ru: [пряничный человечек, праздничный пряник, имбирное печенье]
+      lights-holiday:
+        en: [holiday lights, string lights, festive lights]
+        ru: [праздничные огни, гирлянда, декоративные огни]
+      ornament:
+        en: [tree ornament, hanging bauble, holiday ornament]
+        ru: [ёлочная игрушка, подвесной шар, праздничное украшение]
+      stocking:
+        en: [Christmas stocking, hanging stocking, fireplace stocking]
+        ru: [рождественский носок, подвесной носок, носок у камина]
+      wreath:
+        en: [holiday wreath, front door wreath, decorative wreath]
+        ru: [рождественский венок, венок на дверь, декоративный венок]
+
+  - name: glassware-drinks
+    priority: medium
+    icons:
+      - champagne-glass
+      - champagne-glasses
+      - glass
+      - wine-glass
+    dangerous_shared_terms:
+      en: [drink, glass, beverage, celebration, bar]
+      ru: [напиток, стакан, бокал, праздник, бар]
+    differentiation:
+      champagne-glass:
+        en: [single champagne flute, sparkling wine glass]
+        ru: [один бокал шампанского, фужер для игристого]
+      champagne-glasses:
+        en: [two champagne flutes, clinking glasses, toast glasses]
+        ru: [два бокала шампанского, бокалы для тоста, чокающиеся бокалы]
+      glass:
+        en: [drinking glass, plain glass cup, water glass]
+        ru: [стакан, обычный стеклянный стакан, стакан воды]
+      wine-glass:
+        en: [wine glass, red wine glass, stemmed wine glass]
+        ru: [бокал для вина, винный бокал, бокал на ножке]
+
+  - name: computer-screens
+    priority: medium
+    icons:
+      - computer
+      - desktop
+      - display
+    dangerous_shared_terms:
+      en: [computer, monitor, screen, desktop, device]
+      ru: [компьютер, монитор, экран, десктоп, устройство]
+    differentiation:
+      computer:
+        en: [computer device, PC, personal computer]
+        ru: [компьютер, ПК, персональный компьютер]
+      desktop:
+        en: [desktop computer, desk PC, iMac-style computer]
+        ru: [настольный компьютер, компьютер на столе, моноблок]
+      display:
+        en: [screen display, monitor panel, digital display]
+        ru: [дисплей, экран, монитор]
+
+  - name: time-tracking
+    priority: medium
+    icons:
+      - alarm-clock
+      - clock
+      - hourglass
+    dangerous_shared_terms:
+      en: [time, timer, clock, reminder, schedule]
+      ru: [время, таймер, часы, напоминание, расписание]
+    differentiation:
+      alarm-clock:
+        en: [alarm, wake up clock, bedside alarm]
+        ru: [будильник, часы для пробуждения, прикроватный будильник]
+      clock:
+        en: [time clock, wall clock, current time]
+        ru: [часы, настенные часы, текущее время]
+      hourglass:
+        en: [hourglass timer, sand timer, countdown glass]
+        ru: [песочные часы, таймер с песком, отсчёт времени]
+
+  - name: music-playback-media
+    priority: medium
+    icons:
+      - album
+      - compact-disc
+      - turntable
+    dangerous_shared_terms:
+      en: [music, record, disc, album, media, playback]
+      ru: [музыка, запись, диск, альбом, медиа, воспроизведение]
+    differentiation:
+      album:
+        en: [music album, record album, album cover]
+        ru: [музыкальный альбом, альбом записи, обложка альбома]
+      compact-disc:
+        en: [CD disc, optical disc, DVD or CD]
+        ru: [компакт-диск, оптический диск, CD/DVD]
+      turntable:
+        en: [record player, vinyl turntable, DJ turntable]
+        ru: [проигрыватель винила, виниловый проигрыватель, диджейский вертак]
+
+  - name: dental
+    priority: medium
+    icons:
+      - teeth
+      - tooth
+      - toothbrush
+    dangerous_shared_terms:
+      en: [teeth, tooth, dental, dentist, mouth]
+      ru: [зубы, зуб, стоматология, стоматолог, рот]
+    differentiation:
+      teeth:
+        en: [set of teeth, smile teeth, dental row]
+        ru: [зубы, зубной ряд, улыбка с зубами]
+      tooth:
+        en: [single tooth, molar, dental tooth]
+        ru: [один зуб, моляр, зуб как объект]
+      toothbrush:
+        en: [toothbrush, brushing teeth, dental brush]
+        ru: [зубная щётка, чистка зубов, щётка для зубов]
+
+  - name: currency-signs-europe-asia
+    priority: medium
+    icons:
+      - euro-sign
+      - hryvnia-sign
+      - lira-sign
+      - ruble-sign
+      - rupee-sign
+      - rupiah-sign
+    dangerous_shared_terms:
+      en: [currency, money sign, payment symbol, finance]
+      ru: [валюта, денежный знак, символ оплаты, финансы]
+    differentiation:
+      euro-sign:
+        en: [euro currency, euro sign, EUR]
+        ru: [евро, знак евро, EUR]
+      hryvnia-sign:
+        en: [hryvnia currency, Ukrainian hryvnia, UAH]
+        ru: [гривна, украинская гривна, UAH]
+      lira-sign:
+        en: [lira currency, Turkish lira, TRY]
+        ru: [лира, турецкая лира, TRY]
+      ruble-sign:
+        en: [ruble currency, Russian ruble, RUB]
+        ru: [рубль, российский рубль, RUB]
+      rupee-sign:
+        en: [rupee currency, Indian rupee, INR]
+        ru: [рупия, индийская рупия, INR]
+      rupiah-sign:
+        en: [rupiah currency, Indonesian rupiah, IDR]
+        ru: [рупия Индонезии, индонезийская рупия, IDR]
+
+  - name: pills-capsules
+    priority: low
+    icons:
+      - capsule
+      - capsules
+      - tablets
+    dangerous_shared_terms:
+      en: [medicine, pill, capsule, medication]
+      ru: [лекарство, таблетка, капсула, медикаменты]
+    differentiation:
+      capsule:
+        en: [single capsule, medicine capsule, one pill]
+        ru: [одна капсула, лекарственная капсула, одна таблетка]
+      capsules:
+        en: [multiple capsules, capsules pair, several pills]
+        ru: [несколько капсул, пара капсул, несколько таблеток]
+      tablets:
+        en: [tablets, medicine tablets, pill pack]
+        ru: [таблетки, лекарственные таблетки, упаковка таблеток]
+
+  - name: brass-instruments
+    priority: low
+    icons:
+      - saxophone
+      - trombone
+      - trumpet
+    dangerous_shared_terms:
+      en: [instrument, brass, music, horn, jazz]
+      ru: [инструмент, духовой, музыка, труба, джаз]
+    differentiation:
+      saxophone:
+        en: [saxophone, jazz sax, curved sax]
+        ru: [саксофон, джазовый саксофон, изогнутый саксофон]
+      trombone:
+        en: [trombone, slide trombone, brass slide]
+        ru: [тромбон, тромбон со слайдом, духовой тромбон]
+      trumpet:
+        en: [trumpet, brass trumpet, trumpet horn]
+        ru: [труба, духовая труба, трубный рожок]
+
+  - name: bells-alerts
+    priority: low
+    icons:
+      - bell
+      - bell-ring
+      - bell-school
+      - bells
+    dangerous_shared_terms:
+      en: [bell, alert, notification, chime, ring]
+      ru: [колокол, уведомление, звонок, сигнал, перезвон]
+    differentiation:
+      bell:
+        en: [notification bell, bell icon, alert bell]
+        ru: [колокольчик уведомления, иконка колокольчика, сигнальный колокол]
+      bell-ring:
+        en: [ringing bell, active alert, bell ringing]
+        ru: [звонящий колокол, активное уведомление, звенящий колокольчик]
+      bell-school:
+        en: [school bell, class bell, school schedule bell]
+        ru: [школьный звонок, звонок на урок, школьный колокол]
+      bells:
+        en: [holiday bells, pair of bells, festive bells]
+        ru: [праздничные колокольчики, пара колоколов, рождественские колокольчики]
+
+  - name: bins-recycling
+    priority: low
+    icons:
+      - bin
+      - bin-bottles
+      - bin-recycle
+      - jug-bottle
+    dangerous_shared_terms:
+      en: [bin, recycle, bottle, container, waste]
+      ru: [контейнер, переработка, бутылка, бак, отходы]
+    differentiation:
+      bin:
+        en: [trash bin, waste container, general bin]
+        ru: [мусорный бак, контейнер для отходов, обычный контейнер]
+      bin-bottles:
+        en: [bottle bin, bottle recycling bin, glass bottle container]
+        ru: [контейнер для бутылок, бак для бутылок, контейнер для стекла]
+      bin-recycle:
+        en: [recycling bin, recycle container, sorting bin]
+        ru: [контейнер для переработки, бак для сортировки, контейнер recycle]
+      jug-bottle:
+        en: [jug or bottle, container bottle, liquid jug]
+        ru: [кувшин или бутылка, бутылочная тара, ёмкость для жидкости]
+
+  - name: users-profiles
+    priority: medium
+    icons:
+      - user
+      - user-large
+    dangerous_shared_terms:
+      en: [user, person, profile, account, avatar]
+      ru: [пользователь, человек, профиль, аккаунт, аватар]
+    differentiation:
+      user:
+        en: [user profile, account user, generic avatar]
+        ru: [профиль пользователя, аккаунт, общий аватар]
+      user-large:
+        en: [large user silhouette, prominent profile, big avatar]
+        ru: [крупный силуэт пользователя, большой профиль, крупный аватар]
+
+  - name: buildings-singular-plural
+    priority: low
+    icons:
+      - building
+      - buildings
+    dangerous_shared_terms:
+      en: [building, office, city, property]
+      ru: [здание, офис, город, недвижимость]
+    differentiation:
+      building:
+        en: [single building, office building, one property]
+        ru: [одно здание, офисное здание, один объект]
+      buildings:
+        en: [city buildings, skyline blocks, multiple buildings]
+        ru: [несколько зданий, городская застройка, квартал зданий]
+
+  - name: lab-vials
+    priority: low
+    icons:
+      - vial
+      - vials
+    dangerous_shared_terms:
+      en: [vial, lab, sample, medicine, glass tube]
+      ru: [виала, пробирка, лаборатория, образец, стеклянная колба]
+    differentiation:
+      vial:
+        en: [single vial, one sample vial, lab ampule]
+        ru: [одна виала, одна пробирка, лабораторная ампула]
+      vials:
+        en: [multiple vials, sample vials, lab set]
+        ru: [несколько виал, набор пробирок, лабораторный комплект]
+
+  - name: balloons-party
+    priority: low
+    icons:
+      - balloon
+      - balloons
+    dangerous_shared_terms:
+      en: [balloon, party, celebration, helium]
+      ru: [шарик, праздник, вечеринка, гелий]
+    differentiation:
+      balloon:
+        en: [single balloon, party balloon, one helium balloon]
+        ru: [один шарик, праздничный шарик, один гелиевый шар]
+      balloons:
+        en: [multiple balloons, balloon bunch, party balloons]
+        ru: [несколько шариков, связка шаров, праздничные шары]
+
+  - name: fire-campfire
+    priority: low
+    icons:
+      - campfire
+      - fire
+    dangerous_shared_terms:
+      en: [fire, flame, heat, hot, burning]
+      ru: [огонь, пламя, жар, горячо, горение]
+    differentiation:
+      campfire:
+        en: [campfire, outdoor fire, fire with logs]
+        ru: [костёр, огонь на природе, огонь с дровами]
+      fire:
+        en: [flame icon, generic fire, burning flame]
+        ru: [иконка пламени, общий огонь, горящее пламя]
+
+  - name: cookies-desserts
+    priority: low
+    icons:
+      - cookie
+      - cookie-bite
+    dangerous_shared_terms:
+      en: [cookie, sweet, snack, dessert]
+      ru: [печенье, сладость, перекус, десерт]
+    differentiation:
+      cookie:
+        en: [whole cookie, chocolate chip cookie, intact cookie]
+        ru: [целое печенье, печенье с шоколадом, целое печенье]
+      cookie-bite:
+        en: [bitten cookie, cookie with bite, missing bite]
+        ru: [надкушенное печенье, печенье с укусом, откушенный край]
+
+  - name: layout-resize
+    priority: low
+    icons:
+      - expand
+      - maximize
+    dangerous_shared_terms:
+      en: [expand, maximize, fullscreen, resize]
+      ru: [развернуть, увеличить, полноэкранный, изменить размер]
+    differentiation:
+      expand:
+        en: [expand area, grow outward, expand panel]
+        ru: [развернуть область, расширить наружу, раскрыть панель]
+      maximize:
+        en: [maximize window, fullscreen, window maximize]
+        ru: [развернуть окно, полноэкранный режим, максимизировать окно]
+
+  - name: retail-places
+    priority: low
+    icons:
+      - shop
+      - store
+    dangerous_shared_terms:
+      en: [shop, store, retail, buy, shopping]
+      ru: [магазин, торговая точка, retail, купить, покупки]
+    differentiation:
+      shop:
+        en: [small shop, local shop, storefront]
+        ru: [лавка, небольшой магазин, витрина магазина]
+      store:
+        en: [store location, retail store, larger store]
+        ru: [магазин, торговый объект, крупный магазин]
+
+  - name: weather-sun
+    priority: low
+    icons:
+      - sun
+      - sun-cloud
+    dangerous_shared_terms:
+      en: [sun, weather, daylight, forecast]
+      ru: [солнце, погода, дневной свет, прогноз]
+    differentiation:
+      sun:
+        en: [sun icon, bright sun, clear weather]
+        ru: [иконка солнца, яркое солнце, ясная погода]
+      sun-cloud:
+        en: [partly cloudy, sun behind cloud, mixed weather]
+        ru: [переменная облачность, солнце за облаком, смешанная погода]
+
+  - name: sushi-variants
+    priority: low
+    icons:
+      - sushi
+      - sushi-roll
+    dangerous_shared_terms:
+      en: [sushi, roll, Japanese food, rice, fish]
+      ru: [суши, ролл, японская еда, рис, рыба]
+    differentiation:
+      sushi:
+        en: [sushi piece, nigiri sushi, sushi assortment]
+        ru: [кусочек суши, нигири, набор суши]
+      sushi-roll:
+        en: [sushi roll, maki roll, sliced roll]
+        ru: [ролл, маки ролл, нарезанный ролл]
+
+  - name: math-calculation
+    priority: low
+    icons:
+      - abacus
+      - calculator
+    dangerous_shared_terms:
+      en: [math, calculation, count, arithmetic]
+      ru: [математика, расчёт, считать, арифметика]
+    differentiation:
+      abacus:
+        en: [abacus beads, manual counting, counting frame]
+        ru: [счёты, костяшки абака, рамка для счёта]
+      calculator:
+        en: [calculator device, digital calculator, compute]
+        ru: [калькулятор, цифровой калькулятор, вычислить]
+
+  - name: computer-input
+    priority: low
+    icons:
+      - computer-mouse
+      - keyboard
+    dangerous_shared_terms:
+      en: [input, computer, peripheral, device]
+      ru: [ввод, компьютер, периферия, устройство]
+    differentiation:
+      computer-mouse:
+        en: [mouse device, pointer mouse, click mouse]
+        ru: [компьютерная мышь, мышка, устройство указателя]
+      keyboard:
+        en: [keyboard, typing keys, computer keyboard]
+        ru: [клавиатура, клавиши для ввода, компьютерная клавиатура]
+
+  - name: legal-marks
+    priority: low
+    icons:
+      - copyright
+      - trademark
+    dangerous_shared_terms:
+      en: [mark, legal, copyright, trademark, rights]
+      ru: [знак, юридический, авторское право, товарный знак, права]
+    differentiation:
+      copyright:
+        en: [copyright notice, authors rights, copyright symbol]
+        ru: [знак авторского права, авторские права, символ copyright]
+      trademark:
+        en: [trademark sign, TM symbol, brand mark]
+        ru: [товарный знак, символ TM, брендовый знак]
+
+  - name: packaging-boxes
+    priority: low
+    icons:
+      - box
+      - box-open
+      - boxes-packing
+    dangerous_shared_terms:
+      en: [box, package, shipping, packing]
+      ru: [коробка, упаковка, доставка, сборка]
+    differentiation:
+      box:
+        en: [closed box, package box, shipping box]
+        ru: [закрытая коробка, упаковочная коробка, коробка для доставки]
+      box-open:
+        en: [open box, unpacked box, opened package]
+        ru: [открытая коробка, распакованная коробка, открытая упаковка]
+      boxes-packing:
+        en: [stacked boxes, moving boxes, packing boxes]
+        ru: [несколько коробок, коробки для переезда, упаковочные коробки]
+
+  - name: game-controllers
+    priority: low
+    icons:
+      - gamepad
+      - joystick
+    dangerous_shared_terms:
+      en: [game controller, gaming, controller, play]
+      ru: [геймпад, игровой контроллер, управление, игра]
+    differentiation:
+      gamepad:
+        en: [gamepad, console controller, handheld controller]
+        ru: [геймпад, консольный контроллер, игровой контроллер]
+      joystick:
+        en: [joystick, flight stick, arcade stick]
+        ru: [джойстик, авиационный джойстик, аркадный стик]
+
+  - name: pets-protection
+    priority: low
+    icons:
+      - shield-cat
+      - shield-dog
+    dangerous_shared_terms:
+      en: [pet protection, animal shield, veterinary safety]
+      ru: [защита питомца, животное со щитом, ветеринарная защита]
+    differentiation:
+      shield-cat:
+        en: [cat protection, protected cat, feline shield]
+        ru: [защита кошки, кошка под защитой, кошачий щит]
+      shield-dog:
+        en: [dog protection, protected dog, canine shield]
+        ru: [защита собаки, собака под защитой, собачий щит]
+
+  - name: music-symbols
+    priority: low
+    icons:
+      - music
+      - music-note
+    dangerous_shared_terms:
+      en: [music, sound, melody, audio]
+      ru: [музыка, звук, мелодия, аудио]
+    differentiation:
+      music:
+        en: [music app, audio category, general music]
+        ru: [музыка, музыкальная категория, аудио-раздел]
+      music-note:
+        en: [musical note, note symbol, melody note]
+        ru: [нота, музыкальная нота, символ ноты]
+
+  - name: cheese-variants
+    priority: low
+    icons:
+      - cheese
+      - cheese-swiss
+    dangerous_shared_terms:
+      en: [cheese, dairy, sandwich, snack]
+      ru: [сыр, молочное, бутерброд, закуска]
+    differentiation:
+      cheese:
+        en: [generic cheese, cheese wedge, dairy cheese]
+        ru: [обычный сыр, кусок сыра, молочный сыр]
+      cheese-swiss:
+        en: [Swiss cheese, holey cheese, cheese with holes]
+        ru: [швейцарский сыр, сыр с дырками, дырчатый сыр]
+
+  - name: code-data
+    priority: low
+    icons:
+      - code
+      - database
+    dangerous_shared_terms:
+      en: [development, backend, data, system, software]
+      ru: [разработка, бэкенд, данные, система, софт]
+    differentiation:
+      code:
+        en: [source code, coding, program logic]
+        ru: [исходный код, программирование, логика программы]
+      database:
+        en: [database storage, SQL database, data store]
+        ru: [база данных, SQL-база, хранилище данных]
+
+  - name: dogs-pets
+    priority: low
+    icons:
+      - dog
+      - dog-leashed
+    dangerous_shared_terms:
+      en: [dog, pet, canine, puppy]
+      ru: [собака, питомец, пёс, щенок]
+    differentiation:
+      dog:
+        en: [dog animal, pet dog, canine icon]
+        ru: [собака, домашний пёс, иконка собаки]
+      dog-leashed:
+        en: [dog on leash, walking dog, leashed pet]
+        ru: [собака на поводке, прогулка с собакой, питомец на поводке]
+
+  - name: string-instruments
+    priority: low
+    icons:
+      - drum
+      - guitar
+      - guitar-electric
+    dangerous_shared_terms:
+      en: [music, instrument, band, performance]
+      ru: [музыка, инструмент, группа, выступление]
+    differentiation:
+      drum:
+        en: [drum, percussion, drum kit]
+        ru: [барабан, ударный инструмент, барабанная установка]
+      guitar:
+        en: [acoustic guitar, guitar strings, standard guitar]
+        ru: [акустическая гитара, струны гитары, обычная гитара]
+      guitar-electric:
+        en: [electric guitar, rock guitar, plugged guitar]
+        ru: [электрогитара, рок-гитара, гитара с подключением]
+
+  - name: beds-sleeping
+    priority: low
+    icons:
+      - bed
+      - bed-bunk
+    dangerous_shared_terms:
+      en: [bed, sleeping, bedroom, sleep]
+      ru: [кровать, сон, спальня, спать]
+    differentiation:
+      bed:
+        en: [single bed, standard bed, bedroom bed]
+        ru: [обычная кровать, односпальная кровать, кровать в спальне]
+      bed-bunk:
+        en: [bunk bed, stacked bed, hostel bed]
+        ru: [двухъярусная кровать, кровать-ярус, кровать в хостеле]
+
+  - name: lightning-bolts
+    priority: low
+    icons:
+      - bolt
+      - bolt-lightning
+    dangerous_shared_terms:
+      en: [electricity, bolt, lightning, power]
+      ru: [электричество, молния, заряд, энергия]
+    differentiation:
+      bolt:
+        en: [lightning bolt, energy bolt, electric symbol]
+        ru: [молния, энергетическая молния, электрический символ]
+      bolt-lightning:
+        en: [lightning strike, storm bolt, sharp lightning]
+        ru: [удар молнии, грозовая молния, острая молния]
+
+  - name: cleaning-tools
+    priority: low
+    icons:
+      - broom
+      - broom-wide
+    dangerous_shared_terms:
+      en: [broom, sweep, cleaning, brush]
+      ru: [метла, подметать, уборка, щётка]
+    differentiation:
+      broom:
+        en: [broom, sweep floor, classic broom]
+        ru: [метла, подметать пол, обычная метла]
+      broom-wide:
+        en: [wide broom, broad sweeper, push broom]
+        ru: [широкая метла, широкая щётка, пуш-метла]
+
+  - name: targets-aim
+    priority: low
+    icons:
+      - bullseye
+      - bullseye-pointer
+    dangerous_shared_terms:
+      en: [target, aim, goal, focus]
+      ru: [цель, прицел, попадание, фокус]
+    differentiation:
+      bullseye:
+        en: [target center, bullseye target, aiming target]
+        ru: [центр мишени, яблочко, цель]
+      bullseye-pointer:
+        en: [target with pointer, selected target, pointer on target]
+        ru: [мишень с указателем, выбранная цель, указатель на цели]
+
+  - name: burgers-fastfood
+    priority: low
+    icons:
+      - burger
+      - burger-cheese
+    dangerous_shared_terms:
+      en: [burger, fast food, sandwich, lunch]
+      ru: [бургер, фастфуд, сэндвич, обед]
+    differentiation:
+      burger:
+        en: [burger, hamburger, plain burger]
+        ru: [бургер, гамбургер, обычный бургер]
+      burger-cheese:
+        en: [cheeseburger, burger with cheese, cheese slice burger]
+        ru: [чизбургер, бургер с сыром, бургер с ломтиком сыра]
+
+  - name: teaching-boards
+    priority: low
+    icons:
+      - chalkboard
+      - chalkboard-user
+    dangerous_shared_terms:
+      en: [teaching, classroom, board, lesson]
+      ru: [обучение, класс, доска, урок]
+    differentiation:
+      chalkboard:
+        en: [chalkboard, classroom board, writing board]
+        ru: [меловая доска, классная доска, доска для письма]
+      chalkboard-user:
+        en: [teacher at board, instructor board, presentation board]
+        ru: [учитель у доски, преподаватель у доски, доска с человеком]
+
+  - name: checklists-lists
+    priority: low
+    icons:
+      - clipboard-list
+      - list-check
+    dangerous_shared_terms:
+      en: [checklist, tasks, list, todo]
+      ru: [чеклист, задачи, список, to-do]
+    differentiation:
+      clipboard-list:
+        en: [clipboard checklist, form list, clipboard tasks]
+        ru: [чеклист на планшете, список на клипборде, форма задач]
+      list-check:
+        en: [checked list, completed list, task list with checks]
+        ru: [список с галочками, выполненный список, список задач с отметками]
+
+  - name: couches-seating
+    priority: low
+    icons:
+      - couch
+      - loveseat
+    dangerous_shared_terms:
+      en: [sofa, couch, seating, furniture]
+      ru: [диван, софа, сиденье, мебель]
+    differentiation:
+      couch:
+        en: [couch, full sofa, living room sofa]
+        ru: [диван, большой диван, диван в гостиной]
+      loveseat:
+        en: [loveseat, two-seat sofa, small sofa]
+        ru: [лавсит, двухместный диван, маленький диван]
+
+  - name: farm-animals
+    priority: low
+    icons:
+      - cow
+      - deer
+      - pig
+      - sheep
+    dangerous_shared_terms:
+      en: [animal, mammal, farm, livestock]
+      ru: [животное, млекопитающее, ферма, скот]
+    differentiation:
+      cow:
+        en: [cow, cattle, dairy cow]
+        ru: [корова, крупный рогатый скот, молочная корова]
+      deer:
+        en: [deer, stag, wild deer]
+        ru: [олень, дикий олень, олень-самец]
+      pig:
+        en: [pig, hog, farm pig]
+        ru: [свинья, поросёнок, фермерская свинья]
+      sheep:
+        en: [sheep, lamb, wool sheep]
+        ru: [овца, ягнёнок, шерстяная овца]
+
+  - name: drones
+    priority: low
+    icons:
+      - drone
+      - drone-front
+    dangerous_shared_terms:
+      en: [drone, quadcopter, flying device]
+      ru: [дрон, квадрокоптер, летающее устройство]
+    differentiation:
+      drone:
+        en: [drone in flight, quadcopter, aerial drone]
+        ru: [дрон в полёте, квадрокоптер, воздушный дрон]
+      drone-front:
+        en: [drone front view, frontal drone, face-on quadcopter]
+        ru: [дрон спереди, фронтальный вид дрона, квадрокоптер анфас]
+
+  - name: laundry-appliances
+    priority: low
+    icons:
+      - dryer
+      - washing-machine
+    dangerous_shared_terms:
+      en: [laundry, washing, appliance, clothes]
+      ru: [стирка, прачечная, техника, одежда]
+    differentiation:
+      dryer:
+        en: [clothes dryer, tumble dryer, dry clothes]
+        ru: [сушилка, сушильная машина, сушить одежду]
+      washing-machine:
+        en: [washing machine, washer, wash cycle]
+        ru: [стиральная машина, стиралка, цикл стирки]
+
+  - name: weights-fitness
+    priority: low
+    icons:
+      - dumbbell
+      - kettlebell
+    dangerous_shared_terms:
+      en: [fitness, weight, workout, gym]
+      ru: [фитнес, вес, тренировка, зал]
+    differentiation:
+      dumbbell:
+        en: [dumbbell, gym dumbbell, hand weight]
+        ru: [гантель, гантеля для зала, ручной вес]
+      kettlebell:
+        en: [kettlebell, kettle weight, swing weight]
+        ru: [гиря, гиря для махов, тренировочная гиря]
+
+  - name: mail-delivery
+    priority: low
+    icons:
+      - envelope
+      - mailbox
+    dangerous_shared_terms:
+      en: [mail, message, letter, post]
+      ru: [почта, сообщение, письмо, корреспонденция]
+    differentiation:
+      envelope:
+        en: [letter envelope, email envelope, mail icon]
+        ru: [конверт, письмо, иконка почты]
+      mailbox:
+        en: [mailbox, post box, letter box]
+        ru: [почтовый ящик, ящик для писем, постбокс]
+
+  - name: science-optics
+    priority: low
+    icons:
+      - microscope
+      - telescope
+    dangerous_shared_terms:
+      en: [science, optics, lens, observation]
+      ru: [наука, оптика, линза, наблюдение]
+    differentiation:
+      microscope:
+        en: [microscope, lab microscope, close-up optics]
+        ru: [микроскоп, лабораторный микроскоп, оптика для близкого рассмотрения]
+      telescope:
+        en: [telescope, sky observation, long-distance optics]
+        ru: [телескоп, наблюдение за небом, оптика для дальнего расстояния]
+
+  - name: audio-broadcast
+    priority: low
+    icons:
+      - podcast
+      - speaker
+    dangerous_shared_terms:
+      en: [audio, sound, listen, media]
+      ru: [аудио, звук, слушать, медиа]
+    differentiation:
+      podcast:
+        en: [podcast show, audio episode, spoken show]
+        ru: [подкаст, аудиоэпизод, разговорное шоу]
+      speaker:
+        en: [speaker device, loudspeaker, audio output]
+        ru: [динамик, колонка, аудиовыход]
+
+  - name: satellite-hardware
+    priority: low
+    icons:
+      - satellite
+      - satellite-dish
+    dangerous_shared_terms:
+      en: [satellite, signal, communication, dish]
+      ru: [спутник, сигнал, связь, тарелка]
+    differentiation:
+      satellite:
+        en: [satellite in orbit, space satellite, orbital device]
+        ru: [спутник на орбите, космический спутник, орбитальный аппарат]
+      satellite-dish:
+        en: [satellite dish, receiver dish, dish antenna]
+        ru: [спутниковая тарелка, приёмная тарелка, антенна-тарелка]
+
+  - name: sliders-controls
+    priority: low
+    icons:
+      - slider
+      - sliders
+    dangerous_shared_terms:
+      en: [slider, controls, settings, adjustment]
+      ru: [ползунок, контролы, настройки, регулировка]
+    differentiation:
+      slider:
+        en: [single slider, one control, volume slider]
+        ru: [один ползунок, один контрол, ползунок громкости]
+      sliders:
+        en: [multiple sliders, settings controls, mixer sliders]
+        ru: [несколько ползунков, набор контролов, микшерные ползунки]
+
+  - name: tires
+    priority: low
+    icons:
+      - tire
+      - tire-rugged
+    dangerous_shared_terms:
+      en: [tire, wheel, vehicle, rubber]
+      ru: [шина, колесо, транспорт, резина]
+    differentiation:
+      tire:
+        en: [standard tire, car tire, plain tire]
+        ru: [обычная шина, автомобильная шина, стандартная резина]
+      tire-rugged:
+        en: [rugged tire, off-road tire, deep tread tire]
+        ru: [внедорожная шина, грубый протектор, шина для бездорожья]
+
+  - name: warehouses
+    priority: low
+    icons:
+      - warehouse
+      - warehouse-full
+    dangerous_shared_terms:
+      en: [warehouse, storage, logistics, inventory]
+      ru: [склад, хранение, логистика, инвентарь]
+    differentiation:
+      warehouse:
+        en: [warehouse building, storage warehouse, logistics center]
+        ru: [здание склада, складское помещение, логистический центр]
+      warehouse-full:
+        en: [full warehouse, packed warehouse, loaded storage]
+        ru: [полный склад, забитый склад, загруженное хранилище]

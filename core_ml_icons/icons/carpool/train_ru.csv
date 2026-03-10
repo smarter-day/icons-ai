@@ -1,7 +1,6 @@
 text,label
 авто,carpool
 автомобиль,carpool
-машина,carpool
 колонна,carpool
 совместная поездка,carpool
 встречный,carpool
@@ -9,10 +8,8 @@ text,label
 пассажиры,carpool
 совместные поездки,carpool
 седан,carpool
-транспорт,carpool
 поездка,carpool
 ванпул,carpool
-транспортное средство,carpool
 Совместная поездка на авто в офис,carpool
 Договор о совместных поездках,carpool
 Карпул на мероприятие,carpool

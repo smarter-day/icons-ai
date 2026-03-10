@@ -4,7 +4,6 @@ text,label
 посадочный талон,ticket-airline
 вылет,ticket-airline
 билет,ticket-airline
-путешествие,ticket-airline
 посадочный талон самолёта сканирование,ticket-airline
 маршрут авиабилета,ticket-airline
 прилёт рейса терминал выход,ticket-airline

@@ -1,27 +1,24 @@
 text,label
-admin,screwdriver-wrench
-configuration,screwdriver-wrench
-equipment,screwdriver-wrench
-fix,screwdriver-wrench
-maintenance,screwdriver-wrench
-modify,screwdriver-wrench
-repair,screwdriver-wrench
-screwdriver,screwdriver-wrench
-settings,screwdriver-wrench
-tools,screwdriver-wrench
-wrench,screwdriver-wrench
-admin tools panel with screwdriver and wrench,screwdriver-wrench
-admin mode toggled with tools icon,screwdriver-wrench
-configuration menu opened by tools icon,screwdriver-wrench
-system configuration tools panel,screwdriver-wrench
+repair tools set,screwdriver-wrench
+service mode,screwdriver-wrench
+maintenance tools,screwdriver-wrench
+developer tools,screwdriver-wrench
+crossed tools,screwdriver-wrench
+service toolkit,screwdriver-wrench
+general repair tools,screwdriver-wrench
+workshop tools,screwdriver-wrench
+open developer tools,screwdriver-wrench
+open maintenance mode,screwdriver-wrench
+go to service settings,screwdriver-wrench
+open the repair tools panel,screwdriver-wrench
 repair equipment screwdriver and wrench together,screwdriver-wrench
 maintenance equipment for technician,screwdriver-wrench
 fix car engine with wrench and screwdriver,screwdriver-wrench
 fix broken device with combined tools,screwdriver-wrench
 maintenance screen with tools icon,screwdriver-wrench
 scheduled maintenance using both tools,screwdriver-wrench
-modify system with screwdriver and wrench,screwdriver-wrench
-modify settings with developer tools,screwdriver-wrench
+run system maintenance,screwdriver-wrench
+open service configuration,screwdriver-wrench
 repair panel with dual tools icon,screwdriver-wrench
 general repair tools for handyman,screwdriver-wrench
 screwdriver and wrench crossed icon,screwdriver-wrench
@@ -42,10 +39,10 @@ hardware settings icon for device management,screwdriver-wrench
 admin dashboard accessed with tools symbol,screwdriver-wrench
 combined tools for general home repair,screwdriver-wrench
 service center icon showing dual tools,screwdriver-wrench
-I need a screwdriver-wrench icon for the settings screen,screwdriver-wrench
-add a tools symbol to the admin section,screwdriver-wrench
-show screwdriver and wrench for the maintenance panel,screwdriver-wrench
-use the tools icon for the developer settings,screwdriver-wrench
+launch the admin tools,screwdriver-wrench
+open the technician tools,screwdriver-wrench
+show repair tools for service,screwdriver-wrench
+use crossed tools for maintenance,screwdriver-wrench
 scerwdriver and wrench crossed tools icon,screwdriver-wrench
 settigns menu with tools icon in app,screwdriver-wrench
 maintenace mode icon with tools symbol,screwdriver-wrench

@@ -1,5 +1,4 @@
 text,label
-computer,desktop
 cpu,desktop
 desktop,desktop
 desktop computer,desktop
@@ -16,7 +15,6 @@ Replace the CPU,desktop
 Clean up the desktop,desktop
 Organize the desktop icons,desktop
 Buy a new desktop computer,desktop
-Configure the desktop computer,desktop
 Connect a new device to the network,desktop
 Set up the device,desktop
 Get a new iMac for the studio,desktop
@@ -50,6 +48,5 @@ upgarde the pc,desktop
 Buy a new laptop for travel,desktop
 Set up a tablet for the kids,desktop
 Connect a keyboard to the laptop,desktop
-Use a gaming console,desktop
 Set up a second monitor for the laptop,desktop
 Configure a server machine,desktop

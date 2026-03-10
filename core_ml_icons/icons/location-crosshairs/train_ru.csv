@@ -1,13 +1,10 @@
 text,label
-адрес,location-crosshairs
-координата,location-crosshairs
-направление,location-crosshairs
-gps,location-crosshairs
-местоположение,location-crosshairs
-карта,location-crosshairs
-навигация,location-crosshairs
-место,location-crosshairs
-где,location-crosshairs
+найти мой адрес,location-crosshairs
+точные координаты,location-crosshairs
+показать мое направление,location-crosshairs
+найти меня по GPS,location-crosshairs
+найти мое место,location-crosshairs
+где я,location-crosshairs
 поиск адреса на карте,location-crosshairs
 адрес доставки отмечен прицелом,location-crosshairs
 точка координат GPS с прицелом,location-crosshairs
@@ -31,15 +28,15 @@ gps,location-crosshairs
 точный прицел местоположения для координат,location-crosshairs
 маркер местоположения в стиле оптического прицела,location-crosshairs
 топографический прицел для точных координат,location-crosshairs
-кнопка найти меня с иконкой прицела,location-crosshairs
+найти меня сейчас,location-crosshairs
 символ географического позиционирования с прицелом,location-crosshairs
 центральный прицел для прицеливания на карте,location-crosshairs
 прицел наведения на пункт назначения,location-crosshairs
 символ точного прицеливания GPS,location-crosshairs
-Мне нужна иконка прицела для экрана GPS,location-crosshairs
-добавить прицел местоположения к функции карты,location-crosshairs
-показывать прицел при выборе пункта назначения,location-crosshairs
-использовать иконку прицела для кнопки найти меня,location-crosshairs
+найти мое текущее местоположение,location-crosshairs
+определить мое место на карте,location-crosshairs
+центрировать карту на моей позиции,location-crosshairs
+зафиксировать мое местоположение,location-crosshairs
 прицел местоположениа,location-crosshairs
 навигациа прицел,location-crosshairs
 кордината прицел,location-crosshairs
@@ -50,3 +47,9 @@ gps,location-crosshairs
 булавка карты со знаком плюс внутри,location-crosshairs
 точка местоположения отмечающая место интереса,location-crosshairs
 канцелярская кнопка воткнутая в карту,location-crosshairs
+точная GPS цель в центре прицела,location-crosshairs
+прицел найти меня для точного положения на карте,location-crosshairs
+показать где я сейчас,location-crosshairs
+получить точные GPS координаты,location-crosshairs
+центрировать карту на точке,location-crosshairs
+зафиксировать текущую геопозицию,location-crosshairs

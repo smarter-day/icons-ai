@@ -1,5 +1,4 @@
 text,label
-auto,carpool
 automobile,carpool
 car,carpool
 caravan,carpool
@@ -9,10 +8,7 @@ oncoming automobile,carpool
 passengers,carpool
 rideshare,carpool
 sedan,carpool
-transportation,carpool
-travel,carpool
 vanpool,carpool
-vehicle,carpool
 Auto shared ride to the office,carpool
 Automobile carpool arrangement,carpool
 Car sharing to the event,carpool

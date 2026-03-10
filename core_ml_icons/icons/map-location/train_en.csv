@@ -1,19 +1,14 @@
 text,label
-address,map-location
-coordinates,map-location
-destination,map-location
-gps,map-location
-localize,map-location
-location,map-location
-map,map-location
-navigation,map-location
-paper,map-location
-pin,map-location
-place,map-location
-point of interest,map-location
-position,map-location
-route,map-location
-travel,map-location
+address on map,map-location
+coordinates on map,map-location
+destination on map,map-location
+gps point on map,map-location
+find place on map,map-location
+map with pin,map-location
+saved place on map,map-location
+attraction on map,map-location
+position on map,map-location
+route on map with marker,map-location
 address displayed on map with pin,map-location
 find address on map,map-location
 GPS coordinates shown on map view,map-location
@@ -52,17 +47,24 @@ point of interest highlighted on map view,map-location
 city map with meeting point pinned,map-location
 shared location pin on map screen,map-location
 map showing saved favorite places,map-location
-I need a map with location pin for the places screen,map-location
-add a map-location icon to the navigation tab,map-location
-show a map with pin for the saved addresses,map-location
-use the map location icon for the destination selector,map-location
+view saved places on the map,map-location
+open the places map,map-location
+show saved addresses on the map,map-location
+choose destination on the map,map-location
 map locatoin pin,map-location
 naviagtion map pin,map-location
 destiantion on map,map-location
 maap with location,map-location
 standalone location dot without map,map-location
 folded paper map without any pin,map-location
-GPS crosshairs targeting a position,map-location
+GPS point marked on map,map-location
 globe showing worldwide locations,map-location
 compass for direction without map,map-location
 map pin icon standing alone,map-location
+map with a marked place already highlighted,map-location
+city map with one clear destination marker,map-location
+select a place on the map,map-location
+open address on the map,map-location
+mark a meeting point on the map,map-location
+follow route to the marked destination,map-location
+see saved place on the map,map-location

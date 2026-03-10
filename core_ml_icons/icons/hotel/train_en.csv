@@ -4,7 +4,6 @@ inn,hotel
 lodging,hotel
 motel,hotel
 resort,hotel
-travel,hotel
 Book a hotel for the trip,hotel
 Check hotel availability,hotel
 Stay at a cozy inn,hotel
@@ -13,16 +12,10 @@ Book lodging for the trip,hotel
 Compare lodging options,hotel
 Reserve a room at the motel,hotel
 Stay at a motel on the road trip,hotel
-Book a resort for the vacation,hotel
 Relax at an all-inclusive resort,hotel
 Plan the travel accommodations,hotel
 Book travel and hotel together,hotel
-Book a hotel room online,hotel
-Check into the hotel,hotel
-Find a hotel near the venue,hotel
-Compare hotel prices,hotel
 Order room service at the hotel,hotel
-Request a late checkout,hotel
 Book a resort for the honeymoon,hotel
 Find pet-friendly hotel,hotel
 Stay at a boutique hotel,hotel

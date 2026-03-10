@@ -1,0 +1,2116 @@
+{
+  "version": 1,
+  "updated": "2026-03-10",
+  "source_groups_file": "docs/icon-semantic-groups.yml",
+  "summary": {
+    "icons_total": 711,
+    "grouped": 236,
+    "pair_risk": 54,
+    "isolated": 421
+  },
+  "grouped": [
+    {
+      "icon": "podcast",
+      "group": "audio-broadcast",
+      "priority": "low"
+    },
+    {
+      "icon": "speaker",
+      "group": "audio-broadcast",
+      "priority": "low"
+    },
+    {
+      "icon": "award",
+      "group": "awards-badges",
+      "priority": "medium"
+    },
+    {
+      "icon": "badge-sheriff",
+      "group": "awards-badges",
+      "priority": "medium"
+    },
+    {
+      "icon": "medal",
+      "group": "awards-badges",
+      "priority": "medium"
+    },
+    {
+      "icon": "trophy",
+      "group": "awards-badges",
+      "priority": "medium"
+    },
+    {
+      "icon": "balloon",
+      "group": "balloons-party",
+      "priority": "low"
+    },
+    {
+      "icon": "balloons",
+      "group": "balloons-party",
+      "priority": "low"
+    },
+    {
+      "icon": "bed",
+      "group": "beds-sleeping",
+      "priority": "low"
+    },
+    {
+      "icon": "bed-bunk",
+      "group": "beds-sleeping",
+      "priority": "low"
+    },
+    {
+      "icon": "bell",
+      "group": "bells-alerts",
+      "priority": "low"
+    },
+    {
+      "icon": "bell-ring",
+      "group": "bells-alerts",
+      "priority": "low"
+    },
+    {
+      "icon": "bell-school",
+      "group": "bells-alerts",
+      "priority": "low"
+    },
+    {
+      "icon": "bells",
+      "group": "bells-alerts",
+      "priority": "low"
+    },
+    {
+      "icon": "bin",
+      "group": "bins-recycling",
+      "priority": "low"
+    },
+    {
+      "icon": "bin-bottles",
+      "group": "bins-recycling",
+      "priority": "low"
+    },
+    {
+      "icon": "bin-recycle",
+      "group": "bins-recycling",
+      "priority": "low"
+    },
+    {
+      "icon": "jug-bottle",
+      "group": "bins-recycling",
+      "priority": "low"
+    },
+    {
+      "icon": "book",
+      "group": "books-reading",
+      "priority": "medium"
+    },
+    {
+      "icon": "book-bible",
+      "group": "books-reading",
+      "priority": "medium"
+    },
+    {
+      "icon": "book-medical",
+      "group": "books-reading",
+      "priority": "medium"
+    },
+    {
+      "icon": "book-quran",
+      "group": "books-reading",
+      "priority": "medium"
+    },
+    {
+      "icon": "books",
+      "group": "books-reading",
+      "priority": "medium"
+    },
+    {
+      "icon": "books-medical",
+      "group": "books-reading",
+      "priority": "medium"
+    },
+    {
+      "icon": "saxophone",
+      "group": "brass-instruments",
+      "priority": "low"
+    },
+    {
+      "icon": "trombone",
+      "group": "brass-instruments",
+      "priority": "low"
+    },
+    {
+      "icon": "trumpet",
+      "group": "brass-instruments",
+      "priority": "low"
+    },
+    {
+      "icon": "building",
+      "group": "buildings-singular-plural",
+      "priority": "low"
+    },
+    {
+      "icon": "buildings",
+      "group": "buildings-singular-plural",
+      "priority": "low"
+    },
+    {
+      "icon": "burger",
+      "group": "burgers-fastfood",
+      "priority": "low"
+    },
+    {
+      "icon": "burger-cheese",
+      "group": "burgers-fastfood",
+      "priority": "low"
+    },
+    {
+      "icon": "clipboard-list",
+      "group": "checklists-lists",
+      "priority": "low"
+    },
+    {
+      "icon": "list-check",
+      "group": "checklists-lists",
+      "priority": "low"
+    },
+    {
+      "icon": "cheese",
+      "group": "cheese-variants",
+      "priority": "low"
+    },
+    {
+      "icon": "cheese-swiss",
+      "group": "cheese-variants",
+      "priority": "low"
+    },
+    {
+      "icon": "broom",
+      "group": "cleaning-tools",
+      "priority": "low"
+    },
+    {
+      "icon": "broom-wide",
+      "group": "cleaning-tools",
+      "priority": "low"
+    },
+    {
+      "icon": "code",
+      "group": "code-data",
+      "priority": "low"
+    },
+    {
+      "icon": "database",
+      "group": "code-data",
+      "priority": "low"
+    },
+    {
+      "icon": "comment",
+      "group": "comments-messages",
+      "priority": "high"
+    },
+    {
+      "icon": "memo",
+      "group": "comments-messages",
+      "priority": "high"
+    },
+    {
+      "icon": "message",
+      "group": "comments-messages",
+      "priority": "high"
+    },
+    {
+      "icon": "note-medical",
+      "group": "comments-messages",
+      "priority": "high"
+    },
+    {
+      "icon": "computer-mouse",
+      "group": "computer-input",
+      "priority": "low"
+    },
+    {
+      "icon": "keyboard",
+      "group": "computer-input",
+      "priority": "low"
+    },
+    {
+      "icon": "computer",
+      "group": "computer-screens",
+      "priority": "medium"
+    },
+    {
+      "icon": "desktop",
+      "group": "computer-screens",
+      "priority": "medium"
+    },
+    {
+      "icon": "display",
+      "group": "computer-screens",
+      "priority": "medium"
+    },
+    {
+      "icon": "cookie",
+      "group": "cookies-desserts",
+      "priority": "low"
+    },
+    {
+      "icon": "cookie-bite",
+      "group": "cookies-desserts",
+      "priority": "low"
+    },
+    {
+      "icon": "couch",
+      "group": "couches-seating",
+      "priority": "low"
+    },
+    {
+      "icon": "loveseat",
+      "group": "couches-seating",
+      "priority": "low"
+    },
+    {
+      "icon": "euro-sign",
+      "group": "currency-signs-europe-asia",
+      "priority": "medium"
+    },
+    {
+      "icon": "hryvnia-sign",
+      "group": "currency-signs-europe-asia",
+      "priority": "medium"
+    },
+    {
+      "icon": "lira-sign",
+      "group": "currency-signs-europe-asia",
+      "priority": "medium"
+    },
+    {
+      "icon": "ruble-sign",
+      "group": "currency-signs-europe-asia",
+      "priority": "medium"
+    },
+    {
+      "icon": "rupee-sign",
+      "group": "currency-signs-europe-asia",
+      "priority": "medium"
+    },
+    {
+      "icon": "rupiah-sign",
+      "group": "currency-signs-europe-asia",
+      "priority": "medium"
+    },
+    {
+      "icon": "teeth",
+      "group": "dental",
+      "priority": "medium"
+    },
+    {
+      "icon": "tooth",
+      "group": "dental",
+      "priority": "medium"
+    },
+    {
+      "icon": "toothbrush",
+      "group": "dental",
+      "priority": "medium"
+    },
+    {
+      "icon": "fork",
+      "group": "dining-utensils",
+      "priority": "medium"
+    },
+    {
+      "icon": "fork-knife",
+      "group": "dining-utensils",
+      "priority": "medium"
+    },
+    {
+      "icon": "knife",
+      "group": "dining-utensils",
+      "priority": "medium"
+    },
+    {
+      "icon": "plate-utensils",
+      "group": "dining-utensils",
+      "priority": "medium"
+    },
+    {
+      "icon": "utensils",
+      "group": "dining-utensils",
+      "priority": "medium"
+    },
+    {
+      "icon": "dog",
+      "group": "dogs-pets",
+      "priority": "low"
+    },
+    {
+      "icon": "dog-leashed",
+      "group": "dogs-pets",
+      "priority": "low"
+    },
+    {
+      "icon": "drone",
+      "group": "drones",
+      "priority": "low"
+    },
+    {
+      "icon": "drone-front",
+      "group": "drones",
+      "priority": "low"
+    },
+    {
+      "icon": "book-sparkles",
+      "group": "fantasy-adventure",
+      "priority": "high"
+    },
+    {
+      "icon": "cauldron",
+      "group": "fantasy-adventure",
+      "priority": "high"
+    },
+    {
+      "icon": "dagger",
+      "group": "fantasy-adventure",
+      "priority": "high"
+    },
+    {
+      "icon": "helmet-battle",
+      "group": "fantasy-adventure",
+      "priority": "high"
+    },
+    {
+      "icon": "hood-cloak",
+      "group": "fantasy-adventure",
+      "priority": "high"
+    },
+    {
+      "icon": "mace",
+      "group": "fantasy-adventure",
+      "priority": "high"
+    },
+    {
+      "icon": "mandolin",
+      "group": "fantasy-adventure",
+      "priority": "high"
+    },
+    {
+      "icon": "scroll",
+      "group": "fantasy-adventure",
+      "priority": "high"
+    },
+    {
+      "icon": "sickle",
+      "group": "fantasy-adventure",
+      "priority": "high"
+    },
+    {
+      "icon": "sword",
+      "group": "fantasy-adventure",
+      "priority": "high"
+    },
+    {
+      "icon": "treasure-chest",
+      "group": "fantasy-adventure",
+      "priority": "high"
+    },
+    {
+      "icon": "wand",
+      "group": "fantasy-adventure",
+      "priority": "high"
+    },
+    {
+      "icon": "cow",
+      "group": "farm-animals",
+      "priority": "low"
+    },
+    {
+      "icon": "deer",
+      "group": "farm-animals",
+      "priority": "low"
+    },
+    {
+      "icon": "pig",
+      "group": "farm-animals",
+      "priority": "low"
+    },
+    {
+      "icon": "sheep",
+      "group": "farm-animals",
+      "priority": "low"
+    },
+    {
+      "icon": "campfire",
+      "group": "fire-campfire",
+      "priority": "low"
+    },
+    {
+      "icon": "fire",
+      "group": "fire-campfire",
+      "priority": "low"
+    },
+    {
+      "icon": "bacon",
+      "group": "food-bread-breakfast",
+      "priority": "medium"
+    },
+    {
+      "icon": "bagel",
+      "group": "food-bread-breakfast",
+      "priority": "medium"
+    },
+    {
+      "icon": "baguette",
+      "group": "food-bread-breakfast",
+      "priority": "medium"
+    },
+    {
+      "icon": "bread-loaf",
+      "group": "food-bread-breakfast",
+      "priority": "medium"
+    },
+    {
+      "icon": "bread-slice",
+      "group": "food-bread-breakfast",
+      "priority": "medium"
+    },
+    {
+      "icon": "coffee-pot",
+      "group": "food-bread-breakfast",
+      "priority": "medium"
+    },
+    {
+      "icon": "cup-togo",
+      "group": "food-bread-breakfast",
+      "priority": "medium"
+    },
+    {
+      "icon": "egg",
+      "group": "food-bread-breakfast",
+      "priority": "medium"
+    },
+    {
+      "icon": "egg-fried",
+      "group": "food-bread-breakfast",
+      "priority": "medium"
+    },
+    {
+      "icon": "mug",
+      "group": "food-bread-breakfast",
+      "priority": "medium"
+    },
+    {
+      "icon": "gamepad",
+      "group": "game-controllers",
+      "priority": "low"
+    },
+    {
+      "icon": "joystick",
+      "group": "game-controllers",
+      "priority": "low"
+    },
+    {
+      "icon": "champagne-glass",
+      "group": "glassware-drinks",
+      "priority": "medium"
+    },
+    {
+      "icon": "champagne-glasses",
+      "group": "glassware-drinks",
+      "priority": "medium"
+    },
+    {
+      "icon": "glass",
+      "group": "glassware-drinks",
+      "priority": "medium"
+    },
+    {
+      "icon": "wine-glass",
+      "group": "glassware-drinks",
+      "priority": "medium"
+    },
+    {
+      "icon": "gift",
+      "group": "holiday-decor",
+      "priority": "medium"
+    },
+    {
+      "icon": "gingerbread-man",
+      "group": "holiday-decor",
+      "priority": "medium"
+    },
+    {
+      "icon": "lights-holiday",
+      "group": "holiday-decor",
+      "priority": "medium"
+    },
+    {
+      "icon": "ornament",
+      "group": "holiday-decor",
+      "priority": "medium"
+    },
+    {
+      "icon": "stocking",
+      "group": "holiday-decor",
+      "priority": "medium"
+    },
+    {
+      "icon": "wreath",
+      "group": "holiday-decor",
+      "priority": "medium"
+    },
+    {
+      "icon": "vial",
+      "group": "lab-vials",
+      "priority": "low"
+    },
+    {
+      "icon": "vials",
+      "group": "lab-vials",
+      "priority": "low"
+    },
+    {
+      "icon": "dryer",
+      "group": "laundry-appliances",
+      "priority": "low"
+    },
+    {
+      "icon": "washing-machine",
+      "group": "laundry-appliances",
+      "priority": "low"
+    },
+    {
+      "icon": "expand",
+      "group": "layout-resize",
+      "priority": "low"
+    },
+    {
+      "icon": "maximize",
+      "group": "layout-resize",
+      "priority": "low"
+    },
+    {
+      "icon": "copyright",
+      "group": "legal-marks",
+      "priority": "low"
+    },
+    {
+      "icon": "trademark",
+      "group": "legal-marks",
+      "priority": "low"
+    },
+    {
+      "icon": "bolt",
+      "group": "lightning-bolts",
+      "priority": "low"
+    },
+    {
+      "icon": "bolt-lightning",
+      "group": "lightning-bolts",
+      "priority": "low"
+    },
+    {
+      "icon": "key",
+      "group": "locks-access",
+      "priority": "high"
+    },
+    {
+      "icon": "lock",
+      "group": "locks-access",
+      "priority": "high"
+    },
+    {
+      "icon": "lock-open",
+      "group": "locks-access",
+      "priority": "high"
+    },
+    {
+      "icon": "unlock",
+      "group": "locks-access",
+      "priority": "high"
+    },
+    {
+      "icon": "envelope",
+      "group": "mail-delivery",
+      "priority": "low"
+    },
+    {
+      "icon": "mailbox",
+      "group": "mail-delivery",
+      "priority": "low"
+    },
+    {
+      "icon": "abacus",
+      "group": "math-calculation",
+      "priority": "low"
+    },
+    {
+      "icon": "calculator",
+      "group": "math-calculation",
+      "priority": "low"
+    },
+    {
+      "icon": "hospital",
+      "group": "medicine-clinic",
+      "priority": "medium"
+    },
+    {
+      "icon": "hospital-user",
+      "group": "medicine-clinic",
+      "priority": "medium"
+    },
+    {
+      "icon": "hospitals",
+      "group": "medicine-clinic",
+      "priority": "medium"
+    },
+    {
+      "icon": "stethoscope",
+      "group": "medicine-clinic",
+      "priority": "medium"
+    },
+    {
+      "icon": "syringe",
+      "group": "medicine-clinic",
+      "priority": "medium"
+    },
+    {
+      "icon": "thermometer",
+      "group": "medicine-clinic",
+      "priority": "medium"
+    },
+    {
+      "icon": "user-doctor",
+      "group": "medicine-clinic",
+      "priority": "medium"
+    },
+    {
+      "icon": "album",
+      "group": "music-playback-media",
+      "priority": "medium"
+    },
+    {
+      "icon": "compact-disc",
+      "group": "music-playback-media",
+      "priority": "medium"
+    },
+    {
+      "icon": "turntable",
+      "group": "music-playback-media",
+      "priority": "medium"
+    },
+    {
+      "icon": "music",
+      "group": "music-symbols",
+      "priority": "low"
+    },
+    {
+      "icon": "music-note",
+      "group": "music-symbols",
+      "priority": "low"
+    },
+    {
+      "icon": "globe",
+      "group": "navigation-location",
+      "priority": "high"
+    },
+    {
+      "icon": "location-crosshairs",
+      "group": "navigation-location",
+      "priority": "high"
+    },
+    {
+      "icon": "location-dot",
+      "group": "navigation-location",
+      "priority": "high"
+    },
+    {
+      "icon": "map",
+      "group": "navigation-location",
+      "priority": "high"
+    },
+    {
+      "icon": "map-location",
+      "group": "navigation-location",
+      "priority": "high"
+    },
+    {
+      "icon": "map-pin",
+      "group": "navigation-location",
+      "priority": "high"
+    },
+    {
+      "icon": "thumbtack",
+      "group": "navigation-location",
+      "priority": "high"
+    },
+    {
+      "icon": "nfc",
+      "group": "networking-wireless",
+      "priority": "high"
+    },
+    {
+      "icon": "router",
+      "group": "networking-wireless",
+      "priority": "high"
+    },
+    {
+      "icon": "tower-broadcast",
+      "group": "networking-wireless",
+      "priority": "high"
+    },
+    {
+      "icon": "tower-cell",
+      "group": "networking-wireless",
+      "priority": "high"
+    },
+    {
+      "icon": "wifi",
+      "group": "networking-wireless",
+      "priority": "high"
+    },
+    {
+      "icon": "wireless",
+      "group": "networking-wireless",
+      "priority": "high"
+    },
+    {
+      "icon": "box",
+      "group": "packaging-boxes",
+      "priority": "low"
+    },
+    {
+      "icon": "box-open",
+      "group": "packaging-boxes",
+      "priority": "low"
+    },
+    {
+      "icon": "boxes-packing",
+      "group": "packaging-boxes",
+      "priority": "low"
+    },
+    {
+      "icon": "brush",
+      "group": "paint-drawing",
+      "priority": "high"
+    },
+    {
+      "icon": "marker",
+      "group": "paint-drawing",
+      "priority": "high"
+    },
+    {
+      "icon": "paint-roller",
+      "group": "paint-drawing",
+      "priority": "high"
+    },
+    {
+      "icon": "paintbrush",
+      "group": "paint-drawing",
+      "priority": "high"
+    },
+    {
+      "icon": "palette",
+      "group": "paint-drawing",
+      "priority": "high"
+    },
+    {
+      "icon": "pen",
+      "group": "paint-drawing",
+      "priority": "high"
+    },
+    {
+      "icon": "pen-paintbrush",
+      "group": "paint-drawing",
+      "priority": "high"
+    },
+    {
+      "icon": "pen-ruler",
+      "group": "paint-drawing",
+      "priority": "high"
+    },
+    {
+      "icon": "pencil",
+      "group": "paint-drawing",
+      "priority": "high"
+    },
+    {
+      "icon": "badge-dollar",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "bag-shopping",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "bags-shopping",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "basket-shopping",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "cart-shopping",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "cash-register",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "coin",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "coins",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "credit-card",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "dollar-sign",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "money-bill",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "money-check",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "sack",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "sack-dollar",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "vault",
+      "group": "payments-shopping",
+      "priority": "high"
+    },
+    {
+      "icon": "shield-cat",
+      "group": "pets-protection",
+      "priority": "low"
+    },
+    {
+      "icon": "shield-dog",
+      "group": "pets-protection",
+      "priority": "low"
+    },
+    {
+      "icon": "capsule",
+      "group": "pills-capsules",
+      "priority": "low"
+    },
+    {
+      "icon": "capsules",
+      "group": "pills-capsules",
+      "priority": "low"
+    },
+    {
+      "icon": "tablets",
+      "group": "pills-capsules",
+      "priority": "low"
+    },
+    {
+      "icon": "shop",
+      "group": "retail-places",
+      "priority": "low"
+    },
+    {
+      "icon": "store",
+      "group": "retail-places",
+      "priority": "low"
+    },
+    {
+      "icon": "satellite",
+      "group": "satellite-hardware",
+      "priority": "low"
+    },
+    {
+      "icon": "satellite-dish",
+      "group": "satellite-hardware",
+      "priority": "low"
+    },
+    {
+      "icon": "microscope",
+      "group": "science-optics",
+      "priority": "low"
+    },
+    {
+      "icon": "telescope",
+      "group": "science-optics",
+      "priority": "low"
+    },
+    {
+      "icon": "slider",
+      "group": "sliders-controls",
+      "priority": "low"
+    },
+    {
+      "icon": "sliders",
+      "group": "sliders-controls",
+      "priority": "low"
+    },
+    {
+      "icon": "drum",
+      "group": "string-instruments",
+      "priority": "low"
+    },
+    {
+      "icon": "guitar",
+      "group": "string-instruments",
+      "priority": "low"
+    },
+    {
+      "icon": "guitar-electric",
+      "group": "string-instruments",
+      "priority": "low"
+    },
+    {
+      "icon": "sushi",
+      "group": "sushi-variants",
+      "priority": "low"
+    },
+    {
+      "icon": "sushi-roll",
+      "group": "sushi-variants",
+      "priority": "low"
+    },
+    {
+      "icon": "bullseye",
+      "group": "targets-aim",
+      "priority": "low"
+    },
+    {
+      "icon": "bullseye-pointer",
+      "group": "targets-aim",
+      "priority": "low"
+    },
+    {
+      "icon": "chalkboard",
+      "group": "teaching-boards",
+      "priority": "low"
+    },
+    {
+      "icon": "chalkboard-user",
+      "group": "teaching-boards",
+      "priority": "low"
+    },
+    {
+      "icon": "alarm-clock",
+      "group": "time-tracking",
+      "priority": "medium"
+    },
+    {
+      "icon": "clock",
+      "group": "time-tracking",
+      "priority": "medium"
+    },
+    {
+      "icon": "hourglass",
+      "group": "time-tracking",
+      "priority": "medium"
+    },
+    {
+      "icon": "tire",
+      "group": "tires",
+      "priority": "low"
+    },
+    {
+      "icon": "tire-rugged",
+      "group": "tires",
+      "priority": "low"
+    },
+    {
+      "icon": "gear",
+      "group": "tools-settings",
+      "priority": "high"
+    },
+    {
+      "icon": "hammer",
+      "group": "tools-settings",
+      "priority": "high"
+    },
+    {
+      "icon": "hammer-brush",
+      "group": "tools-settings",
+      "priority": "high"
+    },
+    {
+      "icon": "screwdriver",
+      "group": "tools-settings",
+      "priority": "high"
+    },
+    {
+      "icon": "screwdriver-wrench",
+      "group": "tools-settings",
+      "priority": "high"
+    },
+    {
+      "icon": "toolbox",
+      "group": "tools-settings",
+      "priority": "high"
+    },
+    {
+      "icon": "wrench",
+      "group": "tools-settings",
+      "priority": "high"
+    },
+    {
+      "icon": "user",
+      "group": "users-profiles",
+      "priority": "medium"
+    },
+    {
+      "icon": "user-large",
+      "group": "users-profiles",
+      "priority": "medium"
+    },
+    {
+      "icon": "bus",
+      "group": "vehicles-transport",
+      "priority": "high"
+    },
+    {
+      "icon": "car",
+      "group": "vehicles-transport",
+      "priority": "high"
+    },
+    {
+      "icon": "car-bolt",
+      "group": "vehicles-transport",
+      "priority": "high"
+    },
+    {
+      "icon": "car-key",
+      "group": "vehicles-transport",
+      "priority": "high"
+    },
+    {
+      "icon": "carpool",
+      "group": "vehicles-transport",
+      "priority": "high"
+    },
+    {
+      "icon": "taxi",
+      "group": "vehicles-transport",
+      "priority": "high"
+    },
+    {
+      "icon": "train-subway",
+      "group": "vehicles-transport",
+      "priority": "high"
+    },
+    {
+      "icon": "van",
+      "group": "vehicles-transport",
+      "priority": "high"
+    },
+    {
+      "icon": "van-shuttle",
+      "group": "vehicles-transport",
+      "priority": "high"
+    },
+    {
+      "icon": "container-storage",
+      "group": "warehouse-logistics",
+      "priority": "medium"
+    },
+    {
+      "icon": "conveyor-belt",
+      "group": "warehouse-logistics",
+      "priority": "medium"
+    },
+    {
+      "icon": "forklift",
+      "group": "warehouse-logistics",
+      "priority": "medium"
+    },
+    {
+      "icon": "pallet",
+      "group": "warehouse-logistics",
+      "priority": "medium"
+    },
+    {
+      "icon": "shelves",
+      "group": "warehouse-logistics",
+      "priority": "medium"
+    },
+    {
+      "icon": "warehouse",
+      "group": "warehouses",
+      "priority": "low"
+    },
+    {
+      "icon": "warehouse-full",
+      "group": "warehouses",
+      "priority": "low"
+    },
+    {
+      "icon": "sun",
+      "group": "weather-sun",
+      "priority": "low"
+    },
+    {
+      "icon": "sun-cloud",
+      "group": "weather-sun",
+      "priority": "low"
+    },
+    {
+      "icon": "dumbbell",
+      "group": "weights-fitness",
+      "priority": "low"
+    },
+    {
+      "icon": "kettlebell",
+      "group": "weights-fitness",
+      "priority": "low"
+    }
+  ],
+  "pair_risk": [
+    {
+      "icon": "axe",
+      "neighbors": [
+        {
+          "neighbor": "knife-kitchen",
+          "shared_text_count": 5
+        }
+      ]
+    },
+    {
+      "icon": "crab",
+      "neighbors": [
+        {
+          "neighbor": "fish",
+          "shared_text_count": 5
+        }
+      ]
+    },
+    {
+      "icon": "fish",
+      "neighbors": [
+        {
+          "neighbor": "crab",
+          "shared_text_count": 5
+        }
+      ]
+    },
+    {
+      "icon": "knife-kitchen",
+      "neighbors": [
+        {
+          "neighbor": "axe",
+          "shared_text_count": 5
+        }
+      ]
+    },
+    {
+      "icon": "baseball",
+      "neighbors": [
+        {
+          "neighbor": "baseball-bat",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "baseball-bat",
+      "neighbors": [
+        {
+          "neighbor": "baseball",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "burrito",
+      "neighbors": [
+        {
+          "neighbor": "taco",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "cake-candles",
+      "neighbors": [
+        {
+          "neighbor": "cake-slice",
+          "shared_text_count": 4
+        },
+        {
+          "neighbor": "cupcake",
+          "shared_text_count": 4
+        },
+        {
+          "neighbor": "pie",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "cake-slice",
+      "neighbors": [
+        {
+          "neighbor": "cake-candles",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "candy",
+      "neighbors": [
+        {
+          "neighbor": "cupcake",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "chart-gantt",
+      "neighbors": [
+        {
+          "neighbor": "chart-pie",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "chart-pie",
+      "neighbors": [
+        {
+          "neighbor": "chart-gantt",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "chess",
+      "neighbors": [
+        {
+          "neighbor": "chess-board",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "chess-board",
+      "neighbors": [
+        {
+          "neighbor": "chess",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "church",
+      "neighbors": [
+        {
+          "neighbor": "cross",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "clapperboard",
+      "neighbors": [
+        {
+          "neighbor": "video",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "cross",
+      "neighbors": [
+        {
+          "neighbor": "church",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "cupcake",
+      "neighbors": [
+        {
+          "neighbor": "cake-candles",
+          "shared_text_count": 4
+        },
+        {
+          "neighbor": "candy",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "curling-stone",
+      "neighbors": [
+        {
+          "neighbor": "ice-skate",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "dice",
+      "neighbors": [
+        {
+          "neighbor": "game-board",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "faucet",
+      "neighbors": [
+        {
+          "neighbor": "hands-bubbles",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "game-board",
+      "neighbors": [
+        {
+          "neighbor": "dice",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "hand-holding",
+      "neighbors": [
+        {
+          "neighbor": "hands-holding",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "hands-bubbles",
+      "neighbors": [
+        {
+          "neighbor": "faucet",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "hands-holding",
+      "neighbors": [
+        {
+          "neighbor": "hand-holding",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "headphones",
+      "neighbors": [
+        {
+          "neighbor": "volume",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "hockey-mask",
+      "neighbors": [
+        {
+          "neighbor": "hockey-puck",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "hockey-puck",
+      "neighbors": [
+        {
+          "neighbor": "hockey-mask",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "ice-skate",
+      "neighbors": [
+        {
+          "neighbor": "curling-stone",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "jeans",
+      "neighbors": [
+        {
+          "neighbor": "pants",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "mobile",
+      "neighbors": [
+        {
+          "neighbor": "phone",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "mosque",
+      "neighbors": [
+        {
+          "neighbor": "book-quran",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "pants",
+      "neighbors": [
+        {
+          "neighbor": "jeans",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "phone",
+      "neighbors": [
+        {
+          "neighbor": "mobile",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "pie",
+      "neighbors": [
+        {
+          "neighbor": "cake-candles",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "rabbit",
+      "neighbors": [
+        {
+          "neighbor": "dog",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "share-all",
+      "neighbors": [
+        {
+          "neighbor": "share-nodes",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "share-nodes",
+      "neighbors": [
+        {
+          "neighbor": "share-all",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "taco",
+      "neighbors": [
+        {
+          "neighbor": "burrito",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "toggle-off",
+      "neighbors": [
+        {
+          "neighbor": "toggle-on",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "toggle-on",
+      "neighbors": [
+        {
+          "neighbor": "toggle-off",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "toilet",
+      "neighbors": [
+        {
+          "neighbor": "toilet-paper",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "toilet-paper",
+      "neighbors": [
+        {
+          "neighbor": "toilet",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "trash",
+      "neighbors": [
+        {
+          "neighbor": "trash-can",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "trash-can",
+      "neighbors": [
+        {
+          "neighbor": "trash",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "truck-moving",
+      "neighbors": [
+        {
+          "neighbor": "truck-ramp",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "truck-ramp",
+      "neighbors": [
+        {
+          "neighbor": "truck-moving",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "vacuum",
+      "neighbors": [
+        {
+          "neighbor": "vacuum-robot",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "vacuum-robot",
+      "neighbors": [
+        {
+          "neighbor": "vacuum",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "video",
+      "neighbors": [
+        {
+          "neighbor": "clapperboard",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "volume",
+      "neighbors": [
+        {
+          "neighbor": "headphones",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "wand-magic",
+      "neighbors": [
+        {
+          "neighbor": "book-sparkles",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "watch",
+      "neighbors": [
+        {
+          "neighbor": "watch-fitness",
+          "shared_text_count": 4
+        }
+      ]
+    },
+    {
+      "icon": "watch-fitness",
+      "neighbors": [
+        {
+          "neighbor": "watch",
+          "shared_text_count": 4
+        }
+      ]
+    }
+  ],
+  "isolated": [
+    "address-book",
+    "airplay",
+    "anchor",
+    "ant",
+    "apartment",
+    "apple-whole",
+    "avocado",
+    "baby",
+    "baby-carriage",
+    "backpack",
+    "badminton",
+    "baht-sign",
+    "banana",
+    "bandage",
+    "barcode",
+    "basketball",
+    "bat",
+    "bath",
+    "battery-bolt",
+    "bench-tree",
+    "bicycle",
+    "billboard",
+    "binoculars",
+    "bird",
+    "bitcoin-sign",
+    "blender",
+    "blueberries",
+    "bluetooth",
+    "bone",
+    "boombox",
+    "boot",
+    "booth-curtain",
+    "bottle-baby",
+    "bottle-water",
+    "bow-arrow",
+    "bowl-food",
+    "bowl-hot",
+    "bowl-rice",
+    "bowling-ball",
+    "bra",
+    "braille",
+    "brain",
+    "brain-circuit",
+    "briefcase",
+    "briefcase-medical",
+    "broccoli",
+    "browser",
+    "bucket",
+    "bug",
+    "butter",
+    "butterfly",
+    "cabinet-filing",
+    "cable-car",
+    "calendar",
+    "camera",
+    "can-food",
+    "candy-cane",
+    "cannon",
+    "car-battery",
+    "caravan",
+    "cards-blank",
+    "carrot",
+    "cart-flatbed",
+    "cat",
+    "cent-sign",
+    "chair",
+    "chair-office",
+    "charging-station",
+    "cherries",
+    "chf-sign",
+    "child",
+    "chimney",
+    "chopsticks",
+    "citrus",
+    "clothes-hanger",
+    "cloud",
+    "cloud-meatball",
+    "cloud-music",
+    "cloud-sun",
+    "clouds-sun",
+    "command",
+    "compass",
+    "compass-drafting",
+    "copy",
+    "corn",
+    "court-sport",
+    "croissant",
+    "crop",
+    "crosshairs",
+    "crow",
+    "crown",
+    "cucumber",
+    "diagram-project",
+    "diagram-venn",
+    "dial",
+    "diploma",
+    "dna",
+    "dolly",
+    "dolphin",
+    "donut",
+    "door-closed",
+    "dove",
+    "dress",
+    "droplet",
+    "duck",
+    "ear",
+    "elephant",
+    "elevator",
+    "engine",
+    "eraser",
+    "ethernet",
+    "eye",
+    "face-exhaling",
+    "face-woozy",
+    "falafel",
+    "family",
+    "fan",
+    "fax",
+    "ferris-wheel",
+    "file",
+    "film",
+    "film-canister",
+    "fingerprint",
+    "flag",
+    "flag-checkered",
+    "flashlight",
+    "flask",
+    "flatbread",
+    "flatbread-stuffed",
+    "floppy-disk",
+    "flower",
+    "football",
+    "frame",
+    "french-fries",
+    "frog",
+    "futbol",
+    "garage",
+    "gauge",
+    "gem",
+    "gif",
+    "glasses",
+    "globe-pointer",
+    "goal-net",
+    "golf-club",
+    "grill",
+    "gun",
+    "hand",
+    "hand-heart",
+    "hand-pointer",
+    "hands",
+    "handshake",
+    "hard-drive",
+    "hat-chef",
+    "heading",
+    "headset",
+    "heart",
+    "heart-pulse",
+    "hearts",
+    "heat",
+    "helicopter",
+    "hockey-stick",
+    "hockey-sticks",
+    "horse",
+    "horse-saddle",
+    "hose-reel",
+    "hotdog",
+    "hotel",
+    "house",
+    "image",
+    "inbox",
+    "industry",
+    "infinity",
+    "jar",
+    "jar-wheat",
+    "joint",
+    "jug-detergent",
+    "kazoo",
+    "kit-medical",
+    "kitchen-set",
+    "lamp",
+    "lamp-desk",
+    "language",
+    "laptop",
+    "lasso-sparkles",
+    "lemon",
+    "light-ceiling",
+    "lightbulb",
+    "lips",
+    "litecoin-sign",
+    "loader",
+    "lobster",
+    "lungs",
+    "magnet",
+    "magnifying-glass",
+    "manhole",
+    "mask",
+    "mask-ventilator",
+    "masks-theater",
+    "meat",
+    "memory",
+    "meter",
+    "microchip",
+    "microphone",
+    "minimize",
+    "monkey",
+    "moon",
+    "moped",
+    "mortar-pestle",
+    "mosquito",
+    "motorcycle",
+    "mountain",
+    "mouse-field",
+    "mp3-player",
+    "mushroom",
+    "mustache",
+    "nose",
+    "notebook",
+    "object-group",
+    "oil-well",
+    "outlet",
+    "oven",
+    "paintbrush-pencil",
+    "pallet-box",
+    "pan-food",
+    "pan-frying",
+    "panties",
+    "paper-plane",
+    "paperclip",
+    "paragraph",
+    "party-horn",
+    "passport",
+    "paste",
+    "paw",
+    "peach",
+    "peanut",
+    "pear",
+    "pedestal",
+    "people",
+    "pepper",
+    "person",
+    "person-hiking",
+    "person-meditating",
+    "person-seat",
+    "person-walking",
+    "peso-sign",
+    "piano",
+    "pickaxe",
+    "pickleball",
+    "piggy-bank",
+    "pills",
+    "pinball",
+    "pizza",
+    "plane",
+    "plate-wheat",
+    "play",
+    "plug",
+    "police-box",
+    "popcorn",
+    "popsicle",
+    "pot-food",
+    "potato",
+    "power-off",
+    "print",
+    "projector",
+    "pump",
+    "pumpkin",
+    "puzzle",
+    "qrcode",
+    "raccoon",
+    "racquet",
+    "radiation",
+    "radio",
+    "ramp-loading",
+    "receipt",
+    "recycle",
+    "reel",
+    "reflect-both",
+    "refrigerator",
+    "reply",
+    "road",
+    "robot",
+    "route",
+    "rss",
+    "rug",
+    "ruler",
+    "rv",
+    "sailboat",
+    "salad",
+    "sandwich",
+    "sausage",
+    "scanner-image",
+    "scarf",
+    "school",
+    "scissors",
+    "scooter",
+    "screencast",
+    "scrubber",
+    "sd-card",
+    "seat",
+    "seedling",
+    "sensor",
+    "server",
+    "shapes",
+    "sheet-plastic",
+    "ship",
+    "shirt",
+    "shirt-running",
+    "shish-kebab",
+    "shoe",
+    "shorts",
+    "shovel",
+    "shower",
+    "shrimp",
+    "shuffle",
+    "shuttle-space",
+    "shuttlecock",
+    "signal",
+    "signature",
+    "sim-card",
+    "sink",
+    "siren",
+    "skull-cow",
+    "sleigh",
+    "slot-machine",
+    "smoking",
+    "snake",
+    "sneaker",
+    "snooze",
+    "snow-blowing",
+    "snowman",
+    "soap",
+    "socks",
+    "spa",
+    "sparkles",
+    "spider",
+    "spinner",
+    "spoon",
+    "sportsball",
+    "spray-can",
+    "sprinkler-ceiling",
+    "squirrel",
+    "stairs",
+    "stamp",
+    "stapler",
+    "star-christmas",
+    "starship",
+    "steak",
+    "steering-wheel",
+    "sterling-sign",
+    "stomach",
+    "stopwatch",
+    "strawberry",
+    "street-view",
+    "stretcher",
+    "stroopwafel",
+    "subtitles",
+    "suitcase",
+    "sunglasses",
+    "sunrise",
+    "sunset",
+    "swap",
+    "swatchbook",
+    "table-columns",
+    "table-rows",
+    "tablet",
+    "tag",
+    "tank-water",
+    "tape",
+    "teddy-bear",
+    "tennis-ball",
+    "tent",
+    "terminal",
+    "thought-bubble",
+    "ticket",
+    "ticket-airline",
+    "timeline",
+    "timer",
+    "toilet-portable",
+    "tomato",
+    "tornado",
+    "tractor",
+    "traffic-cone",
+    "traffic-light",
+    "trailer",
+    "train",
+    "train-track",
+    "transmission",
+    "transporter",
+    "tree",
+    "tree-city",
+    "tricycle-adult",
+    "truck",
+    "truck-pickup",
+    "turkey",
+    "turtle",
+    "tv",
+    "umbrella",
+    "usb-drive",
+    "user-police",
+    "users",
+    "utility-pole",
+    "value-absolute",
+    "vest-patches",
+    "violin",
+    "virus",
+    "volcano",
+    "volleyball",
+    "walker",
+    "walkie-talkie",
+    "wallet",
+    "watch-apple",
+    "watch-smart",
+    "water",
+    "wave",
+    "webhook",
+    "weight-scale",
+    "wheelchair",
+    "wind",
+    "window",
+    "won-sign",
+    "x-ray"
+  ]
+}

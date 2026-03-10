@@ -1,19 +1,14 @@
 text,label
-address,location-dot
-coordinates,location-dot
-destination,location-dot
-gps,location-dot
-localize,location-dot
-location,location-dot
-map,location-dot
-navigation,location-dot
-paper,location-dot
-pin,location-dot
-place,location-dot
-point of interest,location-dot
-position,location-dot
-route,location-dot
-travel,location-dot
+saved address,location-dot
+share coordinates,location-dot
+arrival point,location-dot
+my GPS spot,location-dot
+find nearby place,location-dot
+drop location marker,location-dot
+save this place,location-dot
+nearby attraction,location-dot
+current spot,location-dot
+stop on the route,location-dot
 home address marked with a dot,location-dot
 find an address on the street map,location-dot
 GPS coordinates for this spot,location-dot
@@ -54,10 +49,10 @@ GPS dot indicating current coordinates,location-dot
 pinpoint on a city map for navigation,location-dot
 drop a pin to share your exact location,location-dot
 location badge on a digital address card,location-dot
-I need a location dot for my map screen,location-dot
-add a pin icon to the destination input field,location-dot
-show a location marker for saved places,location-dot
-use the location dot for the current position indicator,location-dot
+save this location,location-dot
+set destination point,location-dot
+mark saved place,location-dot
+show current place,location-dot
 locatoin dot on map,location-dot
 destinatoin pin dropped,location-dot
 naviagtion location marker,location-dot
@@ -68,3 +63,10 @@ outlined hollow location marker,location-dot
 location pin with question mark inside,location-dot
 navigation arrow pointing forward,location-dot
 map route line with waypoints,location-dot
+filled location drop showing the current place,location-dot
+single map marker for a saved nearby place,location-dot
+mark selected address,location-dot
+show current place on map,location-dot
+save meeting location,location-dot
+mark place on the route,location-dot
+save favorite address,location-dot

@@ -1,14 +1,14 @@
 text,label
 bandwidth,router
-connection,router
+router connection,router
 dsl,router
 ethernet,router
-internet,router
+internet router,router
 modem,router
 switch,router
-wifi,router
-wireless,router
-www,router
+home wifi router,router
+wireless router,router
+internet gateway router,router
 router limiting bandwidth for guest users,router
 bandwidth usage graph on the network dashboard,router
 stable internet connection through a home router,router
@@ -39,10 +39,10 @@ router sitting next to a modem under the TV stand,router
 configure the router settings in the browser,router
 network hardware icon for a connectivity app,router
 router with port lights flashing as data flows,router
-I need a router icon for my network monitor app,router
-add a router symbol to the internet settings screen,router
-show a router for the WiFi configuration section,router
-use the router icon for the network devices feature,router
+restart the home router,router
+set up the router,router
+open router settings,router
+check the router status,router
 routre blinking on the shelf,router
 routerr keeps disconnecting,router
 rotuer reset needed,router

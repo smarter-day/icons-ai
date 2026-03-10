@@ -1,6 +1,5 @@
 text,label
 astronomy,telescope
-knowledge,telescope
 lens,telescope
 look,telescope
 microscope,telescope
@@ -10,7 +9,6 @@ scope,telescope
 search,telescope
 space,telescope
 telescope,telescope
-tool,telescope
 view,telescope
 astronomy club meeting to observe the stars,telescope
 astronomy app showing tonight's sky map,telescope

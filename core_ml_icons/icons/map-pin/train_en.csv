@@ -1,20 +1,16 @@
 text,label
-address,map-pin
-agree,map-pin
-coordinates,map-pin
-destination,map-pin
-gps,map-pin
-localize,map-pin
-location,map-pin
-map,map-pin
-marker,map-pin
-navigation,map-pin
-pin,map-pin
-place,map-pin
-position,map-pin
-pushpin,map-pin
-round pushpin,map-pin
-travel,map-pin
+pin this address,map-pin
+meeting pin,map-pin
+pin these coordinates,map-pin
+destination pin,map-pin
+gps pin,map-pin
+pin my location,map-pin
+map marker pin,map-pin
+drop a pin,map-pin
+pin this place,map-pin
+selected pin,map-pin
+save with a pin,map-pin
+round map pin,map-pin
 home address pinned on map,map-pin
 delivery address map pin,map-pin
 agree to meet at this pin,map-pin
@@ -57,10 +53,10 @@ drop a pin for meeting location,map-pin
 hotel pin on travel map,map-pin
 multi-stop route with several pins,map-pin
 custom color-coded map pin,map-pin
-I need a map pin for the location picker,map-pin
-add a pushpin icon to the saved places list,map-pin
-show a map pin for the destination input,map-pin
-use the pin icon for marking locations on the map,map-pin
+choose a place on the map,map-pin
+save this pinned place,map-pin
+pin the destination,map-pin
+mark a place on the map,map-pin
 map pni dropped,map-pin
 pushpin locatoin,map-pin
 destiantion pin,map-pin
@@ -71,3 +67,9 @@ location dot with filled solid circle,map-pin
 map showing a route line without pins,map-pin
 thumbtack pinning paper to a board,map-pin
 bookmark icon saving a web page,map-pin
+standalone map pin used in a location picker,map-pin
+drop a pin on the map to save this place,map-pin
+red pin marker for one selected destination,map-pin
+pin the meeting point,map-pin
+save one pinned place,map-pin
+keep one pinned address,map-pin

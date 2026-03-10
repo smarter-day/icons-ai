@@ -1,22 +1,17 @@
 text,label
-купить,cash-register
 дзынь,cash-register
 сдача,cash-register
-касса,cash-register
 коммерция,cash-register
 таблица лидеров,cash-register
 аппарат,cash-register
 платить,cash-register
-оплата,cash-register
-покупка,cash-register
-магазин,cash-register
 Купить на кассе,cash-register
 Звук кассы при продаже,cash-register
 Дать правильную сдачу покупателю,cash-register
 Очередь на кассу в магазине,cash-register
-Система коммерции для небольшого магазина,cash-register
-Таблица лидеров по продажам,cash-register
-Кассовый аппарат для розничного магазина,cash-register
+открыть кассу для покупателей,cash-register
+посчитать продажи на кассе за день,cash-register
+работать на кассе в магазине,cash-register
 Заплатить у стойки,cash-register
 Оплата проведена через кассу,cash-register
 Чек покупки из кассы,cash-register

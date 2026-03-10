@@ -1,11 +1,10 @@
 text,label
-cv,memo
-file,memo
-idea,memo
-note,memo
-notepad,memo
-page,memo
-paper,memo
+memo draft,memo
+memo file,memo
+memo idea,memo
+memo note,memo
+memo pad,memo
+memo page,memo
 cv attached as a memo for HR review,memo
 cv template formatted as a memo document,memo
 file saved as a memo in the folder,memo

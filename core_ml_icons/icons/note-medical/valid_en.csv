@@ -1,4 +1,4 @@
 text,label
-medical sticky note icon,note-medical
-doctor memo note,note-medical
-health record note,note-medical
+add a note to the patient chart,note-medical
+doctor note after the visit,note-medical
+update the medical record note,note-medical

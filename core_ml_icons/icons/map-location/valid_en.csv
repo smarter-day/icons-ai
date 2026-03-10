@@ -1,4 +1,4 @@
 text,label
-map with location pin marked,map-location
-navigation map with destination,map-location
-map showing current position,map-location
+show the map with a marked place,map-location
+open the route map with destination,map-location
+see my address on the map,map-location

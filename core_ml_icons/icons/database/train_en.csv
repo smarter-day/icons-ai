@@ -1,11 +1,9 @@
 text,label
-computer,database
 development,database
 directory,database
 memory,database
 mysql,database
 sql,database
-storage,database
 Set up the computer database,database
 Fix the computer storage issue,database
 Work on the development database,database
@@ -16,16 +14,13 @@ Expand the server memory,database
 Free up memory on the database server,database
 Optimize the MySQL database,database
 Connect to the MySQL server,database
-Run a SQL query,database
 Write an SQL script to update data,database
 Add storage to the database server,database
 Backup the database to storage,database
 Set up the database for the app,database
 Run a SQL query on the database,database
-Backup the database,database
 Optimize slow database queries,database
 Add new records to the database,database
-Create a new database table,database
 Connect the app to the database,database
 Migrate data to the new database,database
 Monitor database performance,database

@@ -1,9 +1,7 @@
 text,label
 Ringing Bell,bell-ring
 alarm,bell-ring
-alert,bell-ring
 chime,bell-ring
-notification,bell-ring
 reminder,bell-ring
 request,bell-ring
 set a ringing bell reminder,bell-ring

@@ -1,7 +1,5 @@
 text,label
-alert,traffic-cone
 construction,traffic-cone
-maintenance,traffic-cone
 road,traffic-cone
 alert traffic cone road hazard,traffic-cone
 orange alert cone warning,traffic-cone

@@ -4,7 +4,6 @@ aisle,person-seat
 chair,person-seat
 recline,person-seat
 seat,person-seat
-travel,person-seat
 airplane passenger in seat,person-seat
 airplane seating arrangement,person-seat
 aisle seat on airplane,person-seat
@@ -17,7 +16,6 @@ select a seat on the plane,person-seat
 seat reservation icon,person-seat
 travel by plane seated,person-seat
 travel seating map,person-seat
-person seated in airplane chair,person-seat
 airline seat selection map,person-seat
 reclining seat on long-haul flight,person-seat
 economy class seat with tray table,person-seat

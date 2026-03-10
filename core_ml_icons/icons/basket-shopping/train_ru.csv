@@ -1,15 +1,9 @@
 text,label
-купить,basket-shopping
-касса,basket-shopping
-продукты,basket-shopping
-оплата,basket-shopping
-покупка,basket-shopping
 купить товары на рынке,basket-shopping
 пройти на кассу,basket-shopping
 полная корзина продуктов,basket-shopping
 оплата на кассе,basket-shopping
 добавить товары в корзину,basket-shopping
-Добавить товары в корзину,basket-shopping
 Наполнить корзину в магазине,basket-shopping
 Проверить что в корзине,basket-shopping
 Поход за продуктами с корзиной,basket-shopping
@@ -25,10 +19,10 @@ text,label
 Продуктавая корзина в магазине,basket-shopping
 Касса с полной корзнной,basket-shopping
 Продуктовый шопинк с корзиной,basket-shopping
-Пойти за продуктами,basket-shopping
-Шопинг-марафон в торговом центре,basket-shopping
-Упаковать сумки для поездки,basket-shopping
-Еженедельный поход за продуктами,basket-shopping
+наполнить корзину перед кассой,basket-shopping
+взять корзину для пары покупок,basket-shopping
+собрать продукты в корзину,basket-shopping
+корзина для покупок у входа,basket-shopping
 Шопинг в аутлете,basket-shopping
 Наполнить сумку основными товарами,basket-shopping
 Купить всё необходимое на неделю,basket-shopping

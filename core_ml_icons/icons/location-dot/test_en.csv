@@ -1,4 +1,4 @@
 text,label
-dropped pin on map location,location-dot
-location dot for current position,location-dot
-teardrop map pin marker,location-dot
+current place on the map,location-dot
+mark this address,location-dot
+save the place marker,location-dot

@@ -1,14 +1,6 @@
 text,label
 bank check,money-check
-buy,money-check
-checkout,money-check
 cheque,money-check
-money,money-check
-payment,money-check
-price,money-check
-purchase,money-check
-salary,money-check
-bank check for large payments,money-check
 write a bank check to landlord,money-check
 buy with a personal check,money-check
 buy goods using a cheque,money-check
@@ -36,10 +28,10 @@ voided check for direct deposit setup,money-check
 corporate check for vendor payment,money-check
 signed check as payment proof,money-check
 paper check with routing and account numbers,money-check
-I need a money check icon for the payment methods screen,money-check
-add a cheque symbol to the salary feature,money-check
-show a bank check for the checkout options,money-check
-use the check icon for the payment by cheque flow,money-check
+pay the landlord with a check,money-check
+write a check for the invoice,money-check
+deposit the paycheck at the bank,money-check
+sign the check before mailing it,money-check
 bank chekc payment,money-check
 cheuqe for salary,money-check
 chekout with check,money-check

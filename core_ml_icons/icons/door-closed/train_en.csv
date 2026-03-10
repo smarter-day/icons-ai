@@ -10,17 +10,10 @@ Enter the building through the door,door-closed
 Hold the door open,door-closed
 Exit through the back door,door-closed
 Use the emergency exit,door-closed
-Check if the door is locked,door-closed
 Lock the door before leaving,door-closed
 Keep the door closed for privacy,door-closed
-Respect the closed door,door-closed
-Lock the front door before leaving,door-closed
-Close the office door for a meeting,door-closed
-Install a new door lock,door-closed
 Replace the worn door handle,door-closed
-Check that the door is locked,door-closed
 Keep the bedroom door closed,door-closed
-Use the back door to exit,door-closed
 Install a smart door lock,door-closed
 Knock before entering the closed door,door-closed
 Keep the door shut to save heat,door-closed

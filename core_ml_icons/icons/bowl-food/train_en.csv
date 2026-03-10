@@ -1,7 +1,6 @@
 text,label
 catfood,bowl-food
 dogfood,bowl-food
-food,bowl-food
 rice,bowl-food
 buy cat food,bowl-food
 pick up dog food,bowl-food
@@ -9,7 +8,6 @@ fill the food bowl,bowl-food
 cook rice for dinner,bowl-food
 Fill the pet food bowl,bowl-food
 Buy cat food at the pet store,bowl-food
-Cook a bowl of rice for dinner,bowl-food
 Feed the dog this evening,bowl-food
 Prepare a bowl of food for the cat,bowl-food
 Refill the dog's food bowl,bowl-food

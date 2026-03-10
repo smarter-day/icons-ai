@@ -1,9 +1,6 @@
 text,label
-animal,dog
 canine,dog
 dog,dog
-fauna,dog
-mammal,dog
 pet,dog
 pooch,dog
 puppy,dog
@@ -12,7 +9,6 @@ See the wild animal at the sanctuary,dog
 Take kids to see animals,dog
 Train the canine to sit,dog
 Canine obedience class,dog
-Walk the dog in the park,dog
 Buy food for the dog,dog
 Observe the local fauna,dog
 Learn about fauna in the park,dog
@@ -22,12 +18,10 @@ Take the pet to the vet,dog
 Buy a toy for the pet,dog
 Give the pooch a bath,dog
 Brush the pooch,dog
-Adopt a puppy from the shelter,dog
 Train the new puppy,dog
 Hear the dog woof,dog
 Teach the dog not to woof at strangers,dog
 Walk the dog in the morning,dog
-Take the dog to the vet,dog
 Buy dog food at the pet store,dog
 Train the dog to sit and stay,dog
 Groom the dog,dog
@@ -40,7 +34,6 @@ Dog walk time,dog
 Puppy cuddles,dog
 Vet appointment,dog
 Good doggo,dog
-wlak the dgo,dog
 take dog to vett,dog
 buy dgo food,dog
 adoppt a puppy,dog

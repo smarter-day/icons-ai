@@ -1,9 +1,6 @@
 text,label
-здание,warehouse-full
 вместимость,warehouse-full
 гараж,warehouse-full
-инвентарь,warehouse-full
-хранение,warehouse-full
 полный склад здание набитое,warehouse-full
 полное здание склада вместимость,warehouse-full
 максимальная вместимость склада,warehouse-full

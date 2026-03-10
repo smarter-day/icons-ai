@@ -1,7 +1,6 @@
 text,label
 cutlery,fork
 dining,fork
-food,fork
 fork,fork
 silverware,fork
 Set the table with cutlery,fork
@@ -14,13 +13,7 @@ Eat with a fork,fork
 Pick up the fork to eat,fork
 Polish the silverware,fork
 Buy sterling silverware,fork
-Set the table with a fork,fork
-Eat dinner with a fork,fork
-Buy a new cutlery set,fork
 Set out the silverware for guests,fork
-Use a fork for the salad,fork
-Wash the forks after dinner,fork
-Pack a fork for the lunch box,fork
 Find a fork in the kitchen drawer,fork
 Use the right fork at the formal dinner,fork
 Set the fork on the left side of the plate,fork

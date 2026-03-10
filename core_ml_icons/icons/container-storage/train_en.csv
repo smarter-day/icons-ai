@@ -1,11 +1,10 @@
 text,label
-archive,container-storage
-box,container-storage
+archive storage,container-storage
+storage container,container-storage
 crate,container-storage
 intermodal,container-storage
-inventory,container-storage
-shipping,container-storage
-warehouse,container-storage
+shipping container,container-storage
+warehouse container,container-storage
 Archive old files and documents,container-storage
 Move old records to archive,container-storage
 Pack items in a box,container-storage
@@ -14,33 +13,32 @@ Ship items in a wooden crate,container-storage
 Build a crate for shipping,container-storage
 Ship goods via intermodal container,container-storage
 Track the intermodal shipment,container-storage
-Do a full inventory count,container-storage
+Count items in storage,container-storage
 Update the inventory list,container-storage
-Arrange shipping for the order,container-storage
-Track the shipping container,container-storage
-Organize the warehouse shelves,container-storage
-Manage warehouse inventory,container-storage
+Load goods into the container,container-storage
+Track the freight container,container-storage
+Organize the storage container,container-storage
+Manage stored cargo,container-storage
 Organize storage in the garage,container-storage
 Pack boxes for the move,container-storage
 Label all storage boxes,container-storage
 Ship a package to a customer,container-storage
-Track the delivery,container-storage
+Track container delivery,container-storage
 Organize the storage room,container-storage
-Do an inventory check,container-storage
 Send items to the warehouse,container-storage
 Unpack boxes after moving,container-storage
 Rent a storage unit,container-storage
 Pack it up,container-storage
 Box everything,container-storage
 Ship it out,container-storage
-Storage run,container-storage
+storage unit run,container-storage
 pak the boxes,container-storage
 shiping the container,container-storage
 inventroy check,container-storage
-orgnaize the warehouse,container-storage
-Buy a storage shelf unit,container-storage
-Organize the pantry shelves,container-storage
-Send a letter by mail,container-storage
-Use cloud storage for backup,container-storage
-Manage files on the hard drive,container-storage
-Sort documents in the filing cabinet,container-storage
+organize the storage unit,container-storage
+rent a storage container,container-storage
+store moving boxes in the container,container-storage
+ship freight in a container,container-storage
+move stock into storage,container-storage
+store extra inventory in the container,container-storage
+seal the cargo container,container-storage

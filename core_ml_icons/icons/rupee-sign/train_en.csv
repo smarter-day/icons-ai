@@ -1,6 +1,5 @@
 text,label
 Rupee Sign,rupee-sign
-currency,rupee-sign
 Indian Rupee Sign symbol for INR,rupee-sign
 rupee sign used in India,rupee-sign
 currency symbol for Indian rupee,rupee-sign
@@ -23,9 +22,15 @@ Inidan rupee sign currency symbol,rupee-sign
 rupee sgin for Indian market app,rupee-sign
 currnecy selector with rupee option,rupee-sign
 paymnet in Indian rupees at checkout,rupee-sign
-dollar sign currency symbol for USD,rupee-sign
-euro sign symbol for European currency,rupee-sign
-ruble sign symbol for Russian currency,rupee-sign
-yen sign for Japanese currency,rupee-sign
-bitcoin symbol for cryptocurrency,rupee-sign
-pound sterling sign for British GBP,rupee-sign
+INR amount on the payment page,rupee-sign
+Indian prices listed in rupees,rupee-sign
+Rupee total on the invoice,rupee-sign
+Display the INR rate in the app,rupee-sign
+Rupee symbol on the bank screen,rupee-sign
+Show Indian payroll in rupees,rupee-sign
+Show the checkout total in INR,rupee-sign
+Set market prices in rupees,rupee-sign
+Bill the order in Indian rupees,rupee-sign
+Convert the budget to INR,rupee-sign
+Pay the invoice in rupees,rupee-sign
+Track salary in Indian rupees,rupee-sign

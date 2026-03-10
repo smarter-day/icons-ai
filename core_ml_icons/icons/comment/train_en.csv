@@ -1,19 +1,18 @@
 text,label
-answer,comment
-bubble,comment
-chat,comment
-commenting,comment
-conversation,comment
-discussion,comment
-feedback,comment
-message,comment
-note,comment
-notification,comment
-sms,comment
-speech,comment
-talk,comment
-talking,comment
-texting,comment
+answer in comments,comment
+comment bubble,comment
+comment chat,comment
+commenting on a post,comment
+comment conversation,comment
+comment discussion,comment
+feedback comment,comment
+comment message,comment
+comment note,comment
+comment sms style,comment
+speech comment,comment
+talk in comments,comment
+talking in comments,comment
+comment texting,comment
 answer in the comment section,comment
 reply with an answer comment,comment
 speech bubble for the comment,comment
@@ -33,7 +32,6 @@ leave a message comment,comment
 note left as a comment,comment
 note in the feedback comment box,comment
 comment notification badge,comment
-notification for a new comment,comment
 sms-style comment bubble,comment
 short comment like an sms message,comment
 speech comment in conversation,comment

@@ -1,9 +1,4 @@
 text,label
-buy,basket-shopping
-checkout,basket-shopping
-grocery,basket-shopping
-payment,basket-shopping
-purchase,basket-shopping
 buy items at the market,basket-shopping
 head to checkout,basket-shopping
 grocery basket full,basket-shopping
@@ -14,9 +9,7 @@ Fill up the basket at the store,basket-shopping
 Check what's in the basket,basket-shopping
 Grocery shopping with the basket,basket-shopping
 Put the basket back after shopping,basket-shopping
-Grab a basket at the entrance,basket-shopping
 Basket shopping at the farmers market,basket-shopping
-Check out with a full basket,basket-shopping
 Fill the basket before checkout,basket-shopping
 Pick up a basket at the store,basket-shopping
 I've got a basket full of stuff already,basket-shopping
@@ -27,9 +20,8 @@ Add to the bsket,basket-shopping
 Groccery basket at the store,basket-shopping
 Chekout with a full baskt,basket-shopping
 Grocrey shoping baskt,basket-shopping
-Go grocery shopping,basket-shopping
-Shopping spree at the mall,basket-shopping
-Pack shopping bags for the trip,basket-shopping
+fill the basket for checkout,basket-shopping
+grab a basket for a few items,basket-shopping
 Weekly grocery run,basket-shopping
 Retail therapy at the outlet,basket-shopping
 Fill the shopping bag with essentials,basket-shopping

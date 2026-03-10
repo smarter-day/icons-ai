@@ -1,9 +1,6 @@
 text,label
-машина,train-subway
 железная дорога,train-subway
 поезд,train-subway
-транспорт,train-subway
-транспортное средство,train-subway
 подземный поезд машина метро,train-subway
 вагон метро машина,train-subway
 железная дорога метро подземная линия,train-subway

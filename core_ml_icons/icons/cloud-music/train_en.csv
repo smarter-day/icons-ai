@@ -1,6 +1,5 @@
 text,label
 download,cloud-music
-music,cloud-music
 spotify,cloud-music
 streaming,cloud-music
 Download the album for offline listening,cloud-music
@@ -9,7 +8,6 @@ Listen to music on the go,cloud-music
 Discover new music today,cloud-music
 Subscribe to Spotify premium,cloud-music
 Make a Spotify playlist,cloud-music
-Stream music while working,cloud-music
 Find a music streaming service,cloud-music
 Make a playlist for the gym,cloud-music
 Listen to music while cooking,cloud-music

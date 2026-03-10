@@ -1,12 +1,10 @@
 text,label
 highway,road
-map,road
 motorway,road
 pavement,road
 road,road
 route,road
 street,road
-travel,road
 highway stretching to the horizon,road
 highway overpass with multiple lanes,road
 map showing road network in city,road

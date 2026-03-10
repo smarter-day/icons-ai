@@ -1,5 +1,4 @@
 text,label
-building,industry
 factory,industry
 industrial,industry
 manufacturing,industry
@@ -15,14 +14,8 @@ Monitor the manufacturing line,industry
 Improve manufacturing efficiency,industry
 Visit the old mill,industry
 Restore the historic mill,industry
-Manage the warehouse operations,industry
 Organize the warehouse floor,industry
-Visit the manufacturing plant,industry
 Inspect the factory equipment,industry
-Work on the production line,industry
-Manage warehouse operations,industry
-Monitor industrial output,industry
-Schedule a factory tour,industry
 Improve industrial efficiency,industry
 Order supplies for the factory,industry
 Check safety at the industrial site,industry

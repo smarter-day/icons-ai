@@ -1,5 +1,4 @@
 text,label
-building,hospital
 covid-19,hospital
 doctor,hospital
 emergency room,hospital
@@ -12,11 +11,8 @@ hospital during the covid-19 pandemic,hospital
 covid-19 patients in the hospital,hospital
 doctor at the hospital,hospital
 doctor working in the hospital ward,hospital
-emergency room at the hospital,hospital
 emergency room visit at night,hospital
 hospital icon on the map,hospital
-hospital building symbol,hospital
-medical center hospital,hospital
 medical center building,hospital
 medicine dispensed at the hospital,hospital
 hospital medicine cabinet,hospital
@@ -36,7 +32,6 @@ show a hospital for the nearest clinic feature,hospital
 use the hospital icon for the medical center page,hospital
 hospitl building,hospital
 emregency room visit,hospital
-hosiptal on the map,hospital
 docter at hospital,hospital
 pharmacy with a green cross sign,hospital
 clinic office building for appointments,hospital

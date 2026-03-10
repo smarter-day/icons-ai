@@ -5,7 +5,6 @@ text,label
 пикап,truck-pickup
 пикап-грузовик,truck-pickup
 грузовик,truck-pickup
-транспортное средство,truck-pickup
 груз в кузове пикапа,truck-pickup
 пикап буксирует груз,truck-pickup
 пикап обслуживания сервис,truck-pickup

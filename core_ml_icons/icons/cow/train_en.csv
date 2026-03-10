@@ -1,13 +1,10 @@
 text,label
 agriculture,cow
-animal,cow
 beef,cow
 bovine,cow
 cow,cow
 farm,cow
-fauna,cow
 livestock,cow
-mammal,cow
 milk,cow
 moo,cow
 Visit an agriculture fair,cow
@@ -21,7 +18,6 @@ Bovine health check,cow
 See the cows in the field,cow
 Pet the cow at the farm,cow
 Visit the local farm,cow
-Take kids to the farm,cow
 Spot wildlife and fauna,cow
 Learn about local fauna,cow
 Buy livestock at the auction,cow
@@ -32,7 +28,6 @@ Buy fresh milk at the farm,cow
 Pick up milk from the store,cow
 Hear the cow moo,cow
 Imitate a cow moo,cow
-Visit a dairy farm,cow
 Buy fresh milk from the farm,cow
 Cook beef burgers for the BBQ,cow
 Take kids to a petting zoo,cow

@@ -1,4 +1,4 @@
 text,label
-credit card for payment,credit-card
-checkout with card payment,credit-card
-debit card for purchases,credit-card
+pay by credit card,credit-card
+enter card details,credit-card
+charge the card at checkout,credit-card

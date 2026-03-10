@@ -1,4 +1,4 @@
 text,label
-символ прицела местоположения,location-crosshairs
-точный прицел GPS,location-crosshairs
-прицел карты для координат,location-crosshairs
+найти меня на карте,location-crosshairs
+вернуться к текущей геопозиции,location-crosshairs
+точно определить где я сейчас,location-crosshairs

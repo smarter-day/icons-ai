@@ -1,19 +1,18 @@
 text,label
-answer,message
-bubble,message
-chat,message
-commenting,message
-conversation,message
-discussion,message
-feedback,message
-message,message
-note,message
-notification,message
-sms,message
-speech,message
-talk,message
-talking,message
-texting,message
+reply message,message
+message bubble,message
+chat message,message
+chat reply,message
+private conversation,message
+discussion message,message
+feedback message,message
+direct message,message
+message note,message
+sms alert,message
+speech bubble,message
+talk by message,message
+talking in messenger,message
+text message,message
 waiting for an answer to my question,message
 quick answer in a chat thread,message
 speech bubble popping up in a chat,message

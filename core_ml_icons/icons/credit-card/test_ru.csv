@@ -1,4 +1,4 @@
 text,label
-символ кредитной карты,credit-card
-значок оплаты картой,credit-card
-оплата на этапе checkout,credit-card
+оплата заказа картой,credit-card
+оформить покупку картой,credit-card
+сохранить кредитную карту,credit-card

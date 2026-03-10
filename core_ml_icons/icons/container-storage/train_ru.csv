@@ -1,11 +1,9 @@
 text,label
-архив,container-storage
-коробка,container-storage
+контейнер хранения,container-storage
 ящик,container-storage
 интермодальный,container-storage
-инвентарь,container-storage
-перевозки,container-storage
-склад,container-storage
+грузовой контейнер,container-storage
+складской контейнер,container-storage
 Архивируйте старые файлы и документы,container-storage
 Переместить старые записи в архив,container-storage
 Упакуйте вещи в коробку,container-storage
@@ -14,17 +12,17 @@ text,label
 Постройте ящик для перевозки,container-storage
 Отправка товаров интермодальным контейнером,container-storage
 Отслеживайте интермодальные перевозки,container-storage
-Проведите полную инвентаризацию,container-storage
+пересчитать вещи в контейнере,container-storage
 Обновить список инвентаря,container-storage
-Организовать доставку заказа,container-storage
-Отследить транспортный контейнер,container-storage
-Организуйте складские полки,container-storage
-Управлять складскими запасами,container-storage
+загрузить товар в контейнер,container-storage
+отследить грузовой контейнер,container-storage
+организовать место в контейнере,container-storage
+управлять грузом на хранении,container-storage
 Организуйте хранение в гараже,container-storage
 Собираем коробки для переезда,container-storage
 Маркируйте все коробки для хранения,container-storage
 Отправьте посылку клиенту,container-storage
-Отслеживать доставку,container-storage
+отследить доставку контейнера,container-storage
 Организовать складское помещение,container-storage
 Отправьте товар на склад,container-storage
 Распаковка коробок после переезда,container-storage
@@ -32,14 +30,15 @@ text,label
 Собери это,container-storage
 Упакуйте все,container-storage
 Отправьте это,container-storage
-Пробег хранилища,container-storage
+поездка к складу хранения,container-storage
 упаковать коробки,container-storage
 отправка контейнера,container-storage
 инвентаризация проверка,container-storage
-организовать склад,container-storage
-Купите стеллаж для хранения вещей.,container-storage
-Организуйте полки в кладовой,container-storage
-Отправить письмо по почте,container-storage
-Используйте облачное хранилище для резервного копирования,container-storage
-Управление файлами на жестком диске,container-storage
-Сортировка документов в картотеке,container-storage
+организовать контейнер хранения,container-storage
+арендовать контейнер для хранения,container-storage
+сложить коробки в контейнер,container-storage
+отправить груз в контейнере,container-storage
+переместить запас на хранение,container-storage
+хранить лишний инвентарь в контейнере,container-storage
+запечатать грузовой контейнер,container-storage
+перевезти вещи в контейнер хранения,container-storage

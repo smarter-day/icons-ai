@@ -1,23 +1,17 @@
 text,label
-buy,credit-card
 card,credit-card
-checkout,credit-card
 credit,credit-card
 credit card,credit-card
 debit,credit-card
-money,credit-card
-payment,credit-card
-purchase,credit-card
 buy online with a credit card,credit-card
 buy now using card payment,credit-card
 swipe the card at checkout,credit-card
 tap card to pay at terminal,credit-card
-checkout with credit card payment,credit-card
 checkout payment by card,credit-card
 available credit on the account,credit-card
 credit account for purchases,credit-card
 credit card payment accepted here,credit-card
-use credit card for the booking,credit-card
+pay for the booking by card,credit-card
 debit card for daily purchases,credit-card
 pay with debit card at the store,credit-card
 money charged to the credit card,credit-card
@@ -30,16 +24,16 @@ credit card with chip and magnetic stripe,credit-card
 tap to pay with a contactless credit card,credit-card
 enter card number at the checkout form,credit-card
 payment declined notification on the card,credit-card
-add credit card to the mobile wallet,credit-card
+save the card to the mobile wallet,credit-card
 credit card statement showing recent purchases,credit-card
 secure online payment with card details,credit-card
 debit card linked to the bank account,credit-card
 swipe card at the point of sale terminal,credit-card
 credit card limit reached for the month,credit-card
-I need a credit card icon for the payments page,credit-card
-add a card symbol to the checkout flow,credit-card
-show a credit card for the billing section,credit-card
-use the card icon for the payment method settings,credit-card
+pay with a credit card,credit-card
+enter card details at checkout,credit-card
+update the billing card,credit-card
+change the payment card,credit-card
 crdit card payment failed,credit-card
 chekcout with card,credit-card
 purchaes by card,credit-card

@@ -1,42 +1,33 @@
 text,label
-archive,forklift
-inventory,forklift
+move heavy stock,forklift
 lorry,forklift
-maintenance,forklift
 pallet,forklift
-shipping,forklift
 tractor,forklift
-warehouse,forklift
-Archive old stock in the warehouse,forklift
+warehouse forklift,forklift
+move old stock with the forklift,forklift
 Move archived items,forklift
-Do a full inventory count,forklift
-Update the inventory system,forklift
+lift pallets for counting,forklift
+move stock in the warehouse,forklift
 Drive the lorry to the warehouse,forklift
 Load the lorry for delivery,forklift
 Schedule forklift maintenance,forklift
 Check forklift maintenance log,forklift
 Load a pallet with boxes,forklift
 Move the pallet to the dock,forklift
-Arrange shipping from the warehouse,forklift
-Track the shipping pallet,forklift
+load the truck with the forklift,forklift
+carry the loaded pallet,forklift
 Use the tractor to move goods,forklift
 Drive the warehouse tractor,forklift
-Organize the warehouse floor,forklift
-Manage warehouse operations,forklift
-Operate the forklift in the warehouse,forklift
-Load pallets with the forklift,forklift
-Move heavy goods with the forklift,forklift
-Get forklift certification,forklift
+clear the warehouse aisle,forklift
+run warehouse loading,forklift
 Drive the forklift safely,forklift
-Stack pallets in the warehouse,forklift
 Unload the delivery truck with the forklift,forklift
-Inspect the forklift before use,forklift
 Use the forklift to stock shelves,forklift
 Check forklift safety procedures,forklift
 Forklift time,forklift
 Move that pallet,forklift
-Warehouse work,forklift
-Load the goods,forklift
+warehouse lifting work,forklift
+load the goods with the forklift,forklift
 oprate the forklfit,forklift
 load pallets in warehuose,forklift
 moov heavy goods,forklift
@@ -44,6 +35,6 @@ get foklift certfication,forklift
 Move boxes with a hand dolly,forklift
 Use a conveyor belt to move goods,forklift
 Push a pallet jack manually,forklift
-Drive a delivery truck,forklift
+drive the forklift in the loading zone,forklift
 Use a hand truck to carry boxes,forklift
-Operate a crane at the construction site,forklift
+lift heavy cargo with the forklift,forklift

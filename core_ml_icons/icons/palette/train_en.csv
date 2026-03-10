@@ -1,16 +1,7 @@
 text,label
-acrylic,palette
-art,palette
 artist palette,palette
-brush,palette
-color,palette
-fill,palette
 museum,palette
-paint,palette
-painting,palette
 palette,palette
-pigment,palette
-watercolor,palette
 acrylic paint on artist palette,palette
 acrylic colors mixed on palette,palette
 visual art palette of colors,palette
@@ -58,4 +49,3 @@ color swatch chart without palette shape,palette
 paint roller for walls not art,palette
 ink well and fountain pen,palette
 crayon box with multiple colors,palette
-spray paint can for even coverage,palette

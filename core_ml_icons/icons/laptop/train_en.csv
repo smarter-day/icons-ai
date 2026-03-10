@@ -1,5 +1,4 @@
 text,label
-computer,laptop
 laptop,laptop
 mac,laptop
 macbook,laptop
@@ -14,16 +13,10 @@ Buy a MacBook Pro,laptop
 Configure the MacBook settings,laptop
 Buy a PC laptop,laptop
 Use the PC for work,laptop
-Buy a new laptop for work,laptop
-Set up the MacBook,laptop
-Work on the laptop at the cafe,laptop
-Update the laptop software,laptop
 Back up the laptop files,laptop
 Fix the slow laptop,laptop
-Connect the laptop to the monitor,laptop
 Charge the laptop battery,laptop
 Clean the laptop screen,laptop
-Replace the laptop battery,laptop
 New laptop!,laptop
 MacBook setup,laptop
 Work from laptop,laptop

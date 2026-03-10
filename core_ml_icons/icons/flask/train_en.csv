@@ -2,7 +2,6 @@ text,label
 beaker,flask
 chemicals,flask
 experiment,flask
-knowledge,flask
 labs,flask
 liquid,flask
 science,flask
@@ -11,13 +10,11 @@ Use a beaker in the lab,flask
 Clean the glass beaker,flask
 Handle chemicals safely,flask
 Store chemicals in labeled containers,flask
-Set up a science experiment,flask
 Run the chemistry experiment,flask
 Expand knowledge through science,flask
 Gain knowledge in the lab,flask
 Work at the research labs,flask
 Set up the labs for testing,flask
-Pour liquid into the flask,flask
 Measure liquid with precision,flask
 Learn basic science concepts,flask
 Apply science to real problems,flask

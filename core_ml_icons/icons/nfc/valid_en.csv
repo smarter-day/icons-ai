@@ -1,4 +1,4 @@
 text,label
-NFC contactless payment tap,nfc
-near field communication icon,nfc
-NFC wireless data transfer,nfc
+tap to pay with NFC,nfc
+scan the NFC tag,nfc
+send data by NFC,nfc

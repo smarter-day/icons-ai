@@ -1,23 +1,14 @@
 text,label
-buy,bag-shopping
-checkout,bag-shopping
-grocery,bag-shopping
-payment,bag-shopping
-purchase,bag-shopping
 buy something at the store,bag-shopping
 go through the checkout,bag-shopping
 grocery run this evening,bag-shopping
 prepare payment at the store,bag-shopping
 complete the purchase,bag-shopping
-Go grocery shopping,bag-shopping
-Pick up groceries on the way home,bag-shopping
 Buy groceries for the week,bag-shopping
 Do the weekly shop,bag-shopping
 Grab a few things from the store,bag-shopping
 Shopping run after work,bag-shopping
 Get supplies from the supermarket,bag-shopping
-Quick grocery trip,bag-shopping
-Buy household essentials,bag-shopping
 Restock the pantry,bag-shopping
 We're out of food - need to go shopping,bag-shopping
 Running to the store real quick,bag-shopping
@@ -31,10 +22,11 @@ Order online,bag-shopping
 Return item to store,bag-shopping
 Pay for order,bag-shopping
 Mall visit,bag-shopping
-Add to cart,bag-shopping
+buy it at the store,bag-shopping
 Check delivery status,bag-shopping
 need to buy some things today,bag-shopping
 skip the line at checkout,bag-shopping
 grocery list is getting long,bag-shopping
 split the payment at the register,bag-shopping
-finalize the purchase before closing,bag-shopping
+finish shopping before closing,bag-shopping
+carry purchases in one bag,bag-shopping

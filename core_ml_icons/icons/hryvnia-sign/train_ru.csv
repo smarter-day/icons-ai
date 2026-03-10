@@ -1,6 +1,5 @@
 text,label
 гривна,hryvnia-sign
-валюта,hryvnia-sign
 Узнать курс гривны,hryvnia-sign
 Обменять валюту на гривну,hryvnia-sign
 Перевести гривны в доллары,hryvnia-sign
@@ -19,9 +18,15 @@ text,label
 платить в гривнах,hryvnia-sign
 проверить курс гривны,hryvnia-sign
 конвертировать гривны в евро,hryvnia-sign
-Оплата в евро,hryvnia-sign
-Обмен на доллары США,hryvnia-sign
+Оплата местных счетов в гривне,hryvnia-sign
+Обменять доллары на гривну,hryvnia-sign
 Используйте российские рубли,hryvnia-sign
 Оплата в польских злотых,hryvnia-sign
 Обмен на британские фунты,hryvnia-sign
-Используйте кредитную карту за границей,hryvnia-sign
+Использовать гривну для местных платежей,hryvnia-sign
+Показать итоговые суммы в UAH,hryvnia-sign
+Перевести зарплату в гривну,hryvnia-sign
+Установить цены для Украины в гривне,hryvnia-sign
+Отправить UAH в местный банк,hryvnia-sign
+Пополнить карту в гривне,hryvnia-sign
+Заложить аренду в бюджет в украинской гривне,hryvnia-sign

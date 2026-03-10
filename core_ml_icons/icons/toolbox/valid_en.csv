@@ -1,4 +1,4 @@
 text,label
-toolbox settings icon,toolbox
-mechanic toolbox symbol,toolbox
-tools container icon,toolbox
+pick up the toolbox,toolbox
+carry the mechanic toolbox,toolbox
+open the tools box,toolbox

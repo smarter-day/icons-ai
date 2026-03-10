@@ -1,4 +1,4 @@
 text,label
-Add to cart and proceed to checkout,cart-shopping
-Weekly grocery shop this Saturday,cart-shopping
-Online cart ready to pay,cart-shopping
+add this item to cart,cart-shopping
+view the shopping cart,cart-shopping
+checkout the full cart,cart-shopping
