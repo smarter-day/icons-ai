@@ -1,0 +1,61 @@
+{
+  "icon": "pills",
+  "search_terms": [
+    "drugs",
+    "medicine",
+    "prescription",
+    "tablets"
+  ],
+  "phrase_per_search_term": [
+    "prescription drugs dispensed at the pharmacy",
+    "tracking drugs with a medication reminder app",
+    "take medicine on time with this reminder",
+    "daily medicine routine for chronic patients",
+    "pick up prescription at the local drug store",
+    "doctor prescription for a seven day course",
+    "tablets in a blister pack for daily use",
+    "small white tablets taken twice a day"
+  ],
+  "regular": [
+    "two round tablets on a white surface",
+    "daily pill reminder for morning and evening doses",
+    "medication icon for a health management app",
+    "small white and yellow circular tablets side by side",
+    "take your pills with a full glass of water",
+    "pharmaceutical icon for a drug reference app",
+    "round flat tablet and an oval capsule together",
+    "prescription tablets in a weekly pill organizer",
+    "health icon representing over the counter medication",
+    "two pills resting on an open palm"
+  ],
+  "conversational": [
+    "I need a pills icon for my medication reminder app",
+    "add a pills symbol to the daily dose tracker",
+    "show pills for the prescription management screen",
+    "use the pills icon for the pharmacy section"
+  ],
+  "typo": [
+    "pils taken twice a day",
+    "pillas with a glass of water",
+    "piils scattered on the counter",
+    "plils for the evening dose"
+  ],
+  "boundary": [
+    "red and blue gel capsule on a white background",
+    "transparent gelatin capsule with powder inside",
+    "medical syringe with a needle for injection",
+    "disposable plastic syringe being prepared",
+    "digital thermometer displaying a temperature reading",
+    "glass thermometer with a red mercury line"
+  ],
+  "valid": [
+    "round white tablets on a surface",
+    "pills for a daily medication tracker",
+    "prescription pills in a health app"
+  ],
+  "test": [
+    "two pills side by side",
+    "daily pills for medication reminder",
+    "pill icon in a pharmacy app"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "icon": "mountain",
+  "search_terms": [
+    "cold",
+    "glacier",
+    "hiking",
+    "hill",
+    "landscape",
+    "mountain",
+    "snow",
+    "snow-capped mountain",
+    "travel",
+    "view"
+  ],
+  "phrase_per_search_term": [
+    "cold alpine air on a mountain peak",
+    "cold weather gear for mountain trekking",
+    "glacier slowly moving down the valley",
+    "ancient glacier carved the valley below",
+    "hiking trail winding up the mountain",
+    "hiking boots on a rocky mountain path",
+    "rolling hill in the countryside",
+    "hill climb route for mountain bikers",
+    "dramatic mountain landscape at sunrise",
+    "landscape photography of jagged peaks",
+    "mountain range stretching across the horizon",
+    "mountain peak covered in white snow",
+    "snow covered summit of a tall mountain",
+    "fresh snow falling on mountain slopes",
+    "snow-capped mountain visible from the valley",
+    "iconic snow-capped mountain on a clear day",
+    "travel adventure to the mountains this summer",
+    "travel icon for a hiking or camping app",
+    "panoramic view from the top of the mountain",
+    "breathtaking view of the mountain summit"
+  ],
+  "regular": [
+    "jagged mountain peak with a snow-capped summit",
+    "hiking trail leading up to a mountain summit",
+    "outdoor adventure icon for a travel app",
+    "triangular mountain silhouette against a blue sky",
+    "ski resort on a snow-covered mountain slope",
+    "landscape icon for a wallpaper or photography app",
+    "rugged rocky mountain rising above the clouds",
+    "mountain climbing route for experienced trekkers",
+    "terrain elevation icon for a topography app",
+    "misty mountain range at dawn with fog below"
+  ],
+  "conversational": [
+    "I need a mountain icon for my hiking tracker app",
+    "add a mountain symbol to the outdoor adventures section",
+    "show a mountain for the travel destinations feature",
+    "use the mountain icon for the nature and landscape category"
+  ],
+  "typo": [
+    "mountian peak covered in snow",
+    "mountan trail for hiking",
+    "moutain range in the distance",
+    "mountaim summit with a glacier"
+  ],
+  "boundary": [
+    "erupting volcano with lava flowing down the side",
+    "volcano peak with smoke billowing from the top",
+    "camping tent pitched on a flat meadow",
+    "small dome tent under a starry sky",
+    "gently rolling green hills in the countryside",
+    "smooth grassy hill without any snow or peaks"
+  ],
+  "valid": [
+    "snow-capped mountain peak",
+    "mountain range for a hiking app",
+    "mountain silhouette landscape"
+  ],
+  "test": [
+    "tall mountain with snow on top",
+    "mountain trail for outdoor adventures",
+    "mountain icon in a travel app"
+  ]
+}

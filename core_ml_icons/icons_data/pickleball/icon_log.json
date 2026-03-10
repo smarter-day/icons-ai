@@ -1,0 +1,58 @@
+{
+  "icon": "pickleball",
+  "search_terms": [
+    "paddle",
+    "pickleball",
+    "wiffle"
+  ],
+  "phrase_per_search_term": [
+    "pickleball paddle on the court",
+    "lightweight paddle used in pickleball",
+    "pickleball game on an outdoor court",
+    "popular pickleball club for seniors",
+    "wiffle ball used in a pickleball game",
+    "wiffle ball with small holes for airflow"
+  ],
+  "regular": [
+    "pickleball paddle and a perforated plastic ball",
+    "playing pickleball with friends on a sunny afternoon",
+    "sports icon for a pickleball club or court booking app",
+    "solid paddle with a short handle and wide flat face",
+    "weekly pickleball league game at the recreation center",
+    "activity icon in a sports scheduling app",
+    "small plastic ball with holes next to a flat paddle",
+    "beginner pickleball class at the local gym",
+    "recreational sport icon for a wellness tracker",
+    "paddle raised and ready to hit the incoming pickleball"
+  ],
+  "conversational": [
+    "I need a pickleball icon for my sports tracker app",
+    "add a pickleball symbol to the outdoor sports section",
+    "show a pickleball for the court booking feature",
+    "use the pickleball icon for the recreational activity list"
+  ],
+  "typo": [
+    "pickelball paddle in the bag",
+    "picklball court reservation",
+    "picklebll on the outdoor court",
+    "picklbeal game at the park"
+  ],
+  "boundary": [
+    "tennis racket with a wide string head",
+    "fuzzy yellow tennis ball on a clay court",
+    "badminton shuttlecock with feather fins",
+    "badminton racket in an overhead smash position",
+    "table tennis paddle with a rubber surface",
+    "white ping pong ball bouncing off the table"
+  ],
+  "valid": [
+    "pickleball paddle and ball",
+    "playing pickleball on a court",
+    "pickleball sport icon"
+  ],
+  "test": [
+    "pickleball paddle ready to hit",
+    "pickleball game at the rec center",
+    "pickleball sports app icon"
+  ]
+}

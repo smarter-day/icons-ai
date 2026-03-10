@@ -1,0 +1,94 @@
+{
+  "icon": "message",
+  "search_terms": [
+    "answer",
+    "bubble",
+    "chat",
+    "commenting",
+    "conversation",
+    "discussion",
+    "feedback",
+    "message",
+    "note",
+    "notification",
+    "sms",
+    "speech",
+    "talk",
+    "talking",
+    "texting"
+  ],
+  "phrase_per_search_term": [
+    "waiting for an answer to my question",
+    "quick answer in a chat thread",
+    "speech bubble popping up in a chat",
+    "thought bubble floating above a character",
+    "chat icon for a messaging app",
+    "live chat support button on a website",
+    "commenting on a post in a social feed",
+    "enable commenting on the article",
+    "ongoing conversation between two people",
+    "start a conversation with a new contact",
+    "group discussion in a team channel",
+    "open discussion thread in a forum",
+    "submit feedback about the app experience",
+    "feedback form for user reviews",
+    "new message from a friend notification",
+    "send a message to the support team",
+    "leave a note for your teammate",
+    "sticky note reminder on the dashboard",
+    "notification badge on the chat icon",
+    "push notification for a new message",
+    "sms text message from your bank",
+    "receive an sms alert on your phone",
+    "speech bubble in a comic strip",
+    "speech icon for a voice-to-text feature",
+    "talk to a friend over text",
+    "tap to talk in a walkie-talkie app",
+    "two people talking in a chat window",
+    "talking bubble animation in a messenger",
+    "texting your friend about the party",
+    "stop texting while driving reminder"
+  ],
+  "regular": [
+    "rounded chat bubble with a tail pointing down",
+    "chat icon for a real-time messaging feature",
+    "customer support chat widget for a website",
+    "speech bubble with three dots indicating typing",
+    "send and receive messages from friends",
+    "messaging icon in a social media dashboard",
+    "white speech bubble on a green background",
+    "new message alert with unread count badge",
+    "in-app chat system for team collaboration",
+    "conversation bubble icon for a comment section"
+  ],
+  "conversational": [
+    "I need a message icon for my chat application",
+    "add a chat bubble symbol to the inbox screen",
+    "show a message bubble for the notifications panel",
+    "use the message icon for the support chat feature"
+  ],
+  "typo": [
+    "messge from a friend",
+    "mesage notification on my phone",
+    "messgae icon for the app",
+    "massege bubble in the chat"
+  ],
+  "boundary": [
+    "email envelope icon in an inbox folder",
+    "unopened letter envelope with a red wax seal",
+    "phone call icon with a handset silhouette",
+    "incoming call notification with a ringing icon",
+    "comment bubble with horizontal text lines inside",
+    "forum post comment thread with reply arrows"
+  ],
+  "valid": [
+    "chat message bubble icon",
+    "send a message to a contact",
+    "messaging feature in an app"
+  ],
+  "test": [
+    "text message notification",
+    "speech bubble for a chat app",
+    "message icon with unread badge"
+  ]
+}

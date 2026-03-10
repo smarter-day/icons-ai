@@ -1,0 +1,61 @@
+{
+  "icon": "peanut",
+  "search_terms": [
+    "goober",
+    "legume",
+    "nut",
+    "shell"
+  ],
+  "phrase_per_search_term": [
+    "goober candy peanut at the movie theater",
+    "southern slang goober pea snack",
+    "peanut is a legume not a true tree nut",
+    "legume crop grown underground in the soil",
+    "roasted nut in a snack mix",
+    "nut allergy warning on the food label",
+    "peanut in its outer bumpy shell",
+    "cracking the shell to get to the nut inside"
+  ],
+  "regular": [
+    "whole peanut in its tan beige shell",
+    "roasted peanuts in a bowl as a snack",
+    "food icon for a nut or allergy tracker",
+    "two peanuts inside a bumpy oval shell",
+    "spreading peanut butter on a slice of bread",
+    "allergy warning icon in a food labeling app",
+    "handful of peanuts at a baseball stadium",
+    "pale brown legume shell with ridged seams",
+    "ingredient icon for a recipe app",
+    "peanuts roasting in a bag at a street fair"
+  ],
+  "conversational": [
+    "I need a peanut icon for my allergy tracking app",
+    "add a peanut symbol to the snacks category",
+    "show a peanut for the nut allergy warning section",
+    "use the peanut icon for the healthy snacks feature"
+  ],
+  "typo": [
+    "paenut in a shell",
+    "penut roasted in a bag",
+    "peanut buttr spread on toast",
+    "peantu allergy warning"
+  ],
+  "boundary": [
+    "whole almond with a smooth brown skin",
+    "sliced almonds scattered on a baking tray",
+    "walnut with a wrinkled kernel inside a hard shell",
+    "cracked walnut half on a wooden surface",
+    "green pistachio with a cracked shell",
+    "bowl of salted pistachio nuts"
+  ],
+  "valid": [
+    "peanut in its bumpy shell",
+    "roasted peanuts as a snack",
+    "peanut icon for a food app"
+  ],
+  "test": [
+    "peanut shell cracked open",
+    "handful of peanuts at a game",
+    "peanut allergy symbol"
+  ]
+}

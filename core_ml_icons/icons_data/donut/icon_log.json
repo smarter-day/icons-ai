@@ -1,0 +1,67 @@
+{
+  "icon": "donut",
+  "search_terms": [
+    "donut",
+    "doughnut",
+    "frosting",
+    "homer simpson",
+    "jimmies",
+    "sprinkles"
+  ],
+  "phrase_per_search_term": [
+    "glazed donut from the bakery",
+    "donut box with a dozen inside",
+    "classic doughnut with a hole in the middle",
+    "freshly fried doughnut with powdered sugar",
+    "pink frosting drizzled over a donut",
+    "thick chocolate frosting on a ring donut",
+    "homer simpson reaching for a pink frosted donut",
+    "homer simpson's favorite glazed donut treat",
+    "rainbow jimmies on a glazed donut",
+    "chocolate jimmies sprinkled across the top",
+    "colorful sprinkles covering a donut",
+    "donut covered in rainbow sprinkles"
+  ],
+  "regular": [
+    "round donut with a hole and pink frosting on top",
+    "sweet treat icon for a bakery menu",
+    "dessert symbol in a food delivery app",
+    "glazed donut with colorful rainbow sprinkles",
+    "morning coffee and a fresh donut from the shop",
+    "bakery icon for a pastry shop website",
+    "ring-shaped fried dough with chocolate drizzle",
+    "donut for celebrating milestones and birthdays",
+    "sweet food icon for a cheat day tracker",
+    "cream-filled donut cut in half showing the filling"
+  ],
+  "conversational": [
+    "I need a donut icon for my bakery ordering app",
+    "add a donut symbol to the sweet treats section",
+    "show a donut for the desserts category",
+    "use the donut icon for the cheat meal tracker"
+  ],
+  "typo": [
+    "dount with sprinkles on top",
+    "donnut glazed with chocolate",
+    "donat from the bakery",
+    "dounut with pink frosting"
+  ],
+  "boundary": [
+    "round chocolate chip cookie on a plate",
+    "freshly baked sugar cookie with white icing",
+    "layered birthday cake with candles on top",
+    "slice of wedding cake with white frosting",
+    "round bagel with sesame seeds on top",
+    "toasted bagel with cream cheese spread"
+  ],
+  "valid": [
+    "glazed donut with colorful sprinkles",
+    "donut with pink frosting and a hole",
+    "sweet donut for a dessert app"
+  ],
+  "test": [
+    "ring shaped donut from the bakery",
+    "donut covered in sprinkles",
+    "donut icon for a food app"
+  ]
+}

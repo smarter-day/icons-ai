@@ -1,0 +1,61 @@
+{
+  "icon": "potato",
+  "search_terms": [
+    "potato",
+    "spud",
+    "tater",
+    "tuber"
+  ],
+  "phrase_per_search_term": [
+    "baked potato with sour cream topping",
+    "potato icon for a recipe app",
+    "boiling spuds for mashed potatoes",
+    "spud growing underground in the garden",
+    "crispy tater tots with ketchup",
+    "tater salad at a summer barbecue",
+    "starchy tuber grown in the soil",
+    "root tuber harvested in autumn"
+  ],
+  "regular": [
+    "lumpy brown potato with rough bumpy skin",
+    "baking a potato in the oven for dinner",
+    "vegetable icon for a grocery or recipe app",
+    "whole russet potato with small eyes on the skin",
+    "mashing potatoes with butter and cream",
+    "ingredient icon for a comfort food recipe",
+    "potato slice showing white starchy flesh inside",
+    "french fries made from freshly cut potatoes",
+    "root vegetable icon in a farm or harvest app",
+    "pile of potatoes in a wooden crate at the market"
+  ],
+  "conversational": [
+    "I need a potato icon for my recipe tracker app",
+    "add a potato symbol to the vegetable category",
+    "show a potato for the side dishes section",
+    "use the potato icon for the grocery shopping list"
+  ],
+  "typo": [
+    "potatoe baked in the oven",
+    "potatp in a stew",
+    "ptato chips in a bag",
+    "potaot with butter and sour cream"
+  ],
+  "boundary": [
+    "long orange carrot with feathery green top",
+    "carrot sticks cut for a snack plate",
+    "round yellow onion with dry papery skin",
+    "sliced onion rings on a wooden board",
+    "orange sweet potato with tapered ends",
+    "roasted sweet potato in a baking dish"
+  ],
+  "valid": [
+    "brown potato with rough skin",
+    "baked potato for a recipe app",
+    "potato vegetable icon"
+  ],
+  "test": [
+    "whole potato ready for baking",
+    "potato in a grocery app",
+    "mashed potato ingredient"
+  ]
+}
