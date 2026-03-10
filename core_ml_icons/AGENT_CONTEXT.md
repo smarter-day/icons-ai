@@ -20,7 +20,7 @@
 
 ## Текущее состояние (2026-03-10)
 - **711 иконок** добавлены в основной набор (`icon_browser/icons-data.js`)
-- **196 иконок** имеют обучающие данные в `icons_data/`
+- **711 иконок** имеют обучающие данные в `icons/`
 - Кандидаты для отбора: **~3493** иконок в `icon_browser/candidates-data.js`
 
 ---
@@ -58,7 +58,7 @@ for key, val in data.items():
 ```bash
 python3 gen_icons_NNN_MMM.py
 ```
-Скрипт создаёт папки в `icons_data/{icon_name}/` с файлами:
+Скрипт создаёт папки в `icons/{icon_name}/` с файлами:
 - `train_en.csv`, `valid_en.csv`, `test_en.csv`
 - `icon_log.json`
 
@@ -143,7 +143,7 @@ core_ml_icons/
 ├── categories.yml                 ← категории для IRRELEVANT_ICONS фильтра
 ├── AGENT_CONTEXT.md               ← этот файл
 │
-├── icons_data/{icon_name}/        ← обучающие данные (63 иконки)
+├── icons/{icon_name}/             ← обучающие данные по каждой иконке
 │   ├── train_en.csv
 │   ├── valid_en.csv
 │   ├── test_en.csv
@@ -151,11 +151,11 @@ core_ml_icons/
 │
 ├── gen_icons_100_119.py           ← скрипты генерации (исторические + новые)
 ├── gen_icons_120_149.py
-│   ... (до gen_icons_334_342.py)
+│   ... (до gen_icons_465_475.py)
 │
 └── icon_browser/
     ├── index.html                 ← браузер иконок
-    ├── icons-data.js              ← window.ICON_DATA (578 иконок в наборе)
+    ├── icons-data.js              ← window.ICON_DATA (711 иконок в наборе)
     └── candidates-data.js         ← window.IRRELEVANT_ICONS + window.CANDIDATE_DATA
 ```
 
@@ -165,7 +165,7 @@ core_ml_icons/
 | `icons.json` | Источник search terms и unicode для всех иконок |
 | `icon_browser/icons-data.js` | Основной набор (добавленные иконки) |
 | `icon_browser/candidates-data.js` | Кандидаты + фильтр нерелевантных |
-| `icons_data/` | Обучающие данные по каждой иконке |
+| `icons/` | Обучающие данные по каждой иконке |
 
 ---
 
@@ -177,7 +177,7 @@ core_ml_icons/
 from pathlib import Path
 import csv, json
 
-icons_dir = Path("icons_data")
+icons_dir = Path("icons")
 icons_dir.mkdir(exist_ok=True)
 
 def write_csv(path, rows):
@@ -246,6 +246,8 @@ train = len(st_en) + 2×len(st_en) + 10 reg + 4 conv + 4 typo + 6 bnd
 ### search_terms (st_en)
 - Берутся как есть из `icons.json`
 - Пропускать: Unicode-имена в PascalCase ("Raised Hand"), явные опечатки ("uer"), дубли
+- Пропускать: многословные термины когда есть однословный эквивалент ("adhesive bandage" → есть "bandage")
+- Пропускать: названия брендов ("burger king", "mcdonalds", "tesla")
 
 ### phrase_per_search_term (pst_en)
 - **2 фразы на каждый термин** — НЕ повторение термина, а фраза с ним в контексте
@@ -303,6 +305,7 @@ train = len(st_en) + 2×len(st_en) + 10 reg + 4 conv + 4 typo + 6 bnd
 | Ошибка | Правильно |
 |--------|-----------|
 | Брать search terms из icons.claude.json | Брать из **icons.json** |
+| Сохранять данные в `icons_data/` | Сохранять в **`icons/`** |
 | Забыть пересоздать candidates-data.js | Всегда выполнять Шаг 5 после добавления |
 | Не сохранить IRRELEVANT_ICONS при пересоздании | Всегда включать в candidates-data.js |
 | Нарушить сортировку кандидатов | `sort(key=lambda x: (len(x['name'].split('-')), x['name']))` |

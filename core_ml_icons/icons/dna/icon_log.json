@@ -1,0 +1,79 @@
+{
+  "icon": "dna",
+  "search_terms": [
+    "biologist",
+    "dna",
+    "evolution",
+    "gene",
+    "genetic",
+    "genetics",
+    "helix",
+    "life",
+    "molecule",
+    "protein"
+  ],
+  "phrase_per_search_term": [
+    "biologist studying cell samples under a microscope",
+    "biologist sequencing the genome in the lab",
+    "dna strand extracted from a blood sample",
+    "dna test revealing ancestry results",
+    "evolution from single cell to complex life",
+    "evolution tree showing species divergence",
+    "gene expression regulated by enzymes",
+    "gene editing with CRISPR technology",
+    "genetic mutation causing inherited disease",
+    "genetic testing for cancer risk",
+    "genetics course at the university biology department",
+    "genetics determines eye color and height",
+    "double helix structure of the DNA strand",
+    "helix coil rotating animation in a science app",
+    "life encoded in a long DNA sequence",
+    "life sciences research in the genomics lab",
+    "water molecule with two hydrogen atoms",
+    "molecule bonding in a chemistry diagram",
+    "protein folding simulation on a supercomputer",
+    "protein structure determined by gene sequence"
+  ],
+  "regular": [
+    "double helix DNA strand spiraling upward",
+    "colorful DNA illustration with base pairs",
+    "genetic code visualized as a twisted ladder",
+    "DNA sequencing result in a genomics app",
+    "biology textbook diagram of a DNA molecule",
+    "ancestry DNA test kit icon for consumer app",
+    "CRISPR gene editing tool represented by DNA",
+    "protein synthesis shown with DNA and RNA",
+    "forensic DNA evidence collected at the scene",
+    "DNA icon for a health and genomics platform"
+  ],
+  "conversational": [
+    "I need a DNA icon for my genetics app",
+    "add a DNA symbol to the biology section",
+    "show a DNA helix for the ancestry feature",
+    "use the DNA icon for the genome sequencing tool"
+  ],
+  "typo": [
+    "double helix DNA stnad spiraling up",
+    "gentic testing ancestry results",
+    "dna sequencing the gemone sample",
+    "double hleix structure of dna"
+  ],
+  "boundary": [
+    "microscope lab instrument for viewing cells",
+    "atom nucleus with electron orbits",
+    "test tube with chemical reaction inside",
+    "chromosome X shape from cell division",
+    "petri dish with bacterial colony growing",
+    "flask beaker laboratory glassware icon"
+  ],
+  "valid": [
+    "DNA double helix icon",
+    "genetics DNA strand",
+    "DNA biology symbol"
+  ],
+  "test": [
+    "DNA sequencing icon",
+    "helix gene symbol",
+    "DNA molecule science app"
+  ]
+}

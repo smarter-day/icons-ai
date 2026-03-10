@@ -1,0 +1,64 @@
+{
+  "icon": "pump",
+  "search_terms": [
+    "drain",
+    "flood",
+    "pump",
+    "sump",
+    "water"
+  ],
+  "phrase_per_search_term": [
+    "drain the flooded basement with a pump",
+    "drain pipe clearing a blocked channel",
+    "flood water rising in the street",
+    "flood relief pump deployed by emergency team",
+    "water pump transferring liquid between tanks",
+    "pump running to empty the pool",
+    "sump pump activating in heavy rain",
+    "sump pit with float switch trigger",
+    "water pump station for municipal supply",
+    "water flowing through the pump outlet"
+  ],
+  "regular": [
+    "mechanical water pump with inlet and outlet",
+    "sump pump in the basement keeping it dry",
+    "flood control pump running continuously",
+    "electric pump moving water uphill",
+    "garden water pump for irrigation system",
+    "pump icon for a plumbing services app",
+    "fire truck pump delivering water at high pressure",
+    "hand pump drawing water from a well",
+    "drain pump clearing standing water after a storm",
+    "industrial pump for liquid transfer operations"
+  ],
+  "conversational": [
+    "I need a pump icon for my home maintenance app",
+    "add a pump symbol to the plumbing section",
+    "show a pump for the flood control feature",
+    "use the pump icon for the water management tool"
+  ],
+  "typo": [
+    "supm pump running in the basement",
+    "flood watr pump at the drain",
+    "watter pump moving liquid uphill",
+    "draining the floood with a pump"
+  ],
+  "boundary": [
+    "faucet tap dripping water from a sink",
+    "water droplet single blue teardrop icon",
+    "pipe wrench plumbing repair tool",
+    "fire hydrant red street emergency water supply",
+    "water tower large storage tank on stilts",
+    "swimming pool with lane dividers aerial view"
+  ],
+  "valid": [
+    "water pump icon",
+    "sump pump symbol",
+    "pump drainage tool"
+  ],
+  "test": [
+    "flood pump icon",
+    "pump water transfer",
+    "drain pump symbol"
+  ]
+}

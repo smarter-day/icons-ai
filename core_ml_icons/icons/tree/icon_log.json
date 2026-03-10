@@ -1,0 +1,79 @@
+{
+  "icon": "tree",
+  "search_terms": [
+    "bark",
+    "evergreen tree",
+    "fall",
+    "flora",
+    "forest",
+    "investment",
+    "nature",
+    "plant",
+    "seasonal",
+    "tree"
+  ],
+  "phrase_per_search_term": [
+    "bark texture on the trunk of a tall oak",
+    "tree bark peeling off in strips",
+    "evergreen tree staying green all winter",
+    "classic evergreen tree silhouette for nature",
+    "fall tree with orange and red leaves",
+    "fall foliage season on a tree-lined street",
+    "local flora featuring native trees and shrubs",
+    "flora icon for a nature identification app",
+    "dense forest of towering trees",
+    "forest walk on a trail surrounded by trees",
+    "tree as a long-term investment in the environment",
+    "planting a tree as a green investment",
+    "nature icon featuring a tall green tree",
+    "nature walk icon in an outdoor activity app",
+    "plant a tree to offset carbon emissions",
+    "tree icon for a gardening or plant care app",
+    "seasonal tree with changing leaves throughout the year",
+    "seasonal nature icon for a calendar app",
+    "tall tree with a full leafy canopy",
+    "lone tree on a hilltop at sunset"
+  ],
+  "regular": [
+    "single tree with a round leafy canopy on top",
+    "plant a tree to help the environment",
+    "nature and environment icon for an eco app",
+    "tall oak tree with a wide spreading canopy",
+    "hike through the forest under towering trees",
+    "park or outdoor icon in a maps or travel app",
+    "simple tree silhouette with a triangular crown",
+    "water the tree weekly during the dry season",
+    "green icon representing sustainability in an app",
+    "leafy deciduous tree in full summer bloom"
+  ],
+  "conversational": [
+    "I need a tree icon for my nature tracking app",
+    "add a tree symbol to the environment section",
+    "show a tree for the outdoor activities feature",
+    "use the tree icon for the sustainability category"
+  ],
+  "typo": [
+    "tre with a large canopy",
+    "tere with orange fall leaves",
+    "treee on a hilltop at sunset",
+    "trea growing in the forest"
+  ],
+  "boundary": [
+    "lush green forest of pine trees",
+    "dense woodland with overlapping tree canopies",
+    "low rounded bush or shrub in a garden",
+    "flowering garden shrub along a walkway",
+    "tall palm tree with long fronds on a tropical beach",
+    "coconut palm leaning over the ocean waves"
+  ],
+  "valid": [
+    "tree with a round leafy canopy",
+    "tree icon for a nature app",
+    "tall tree in the park"
+  ],
+  "test": [
+    "plant a tree for the environment",
+    "forest tree silhouette",
+    "tree icon in an outdoor app"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "icon": "syringe",
+  "search_terms": [
+    "covid-19",
+    "doctor",
+    "immunizations",
+    "medical",
+    "medicine",
+    "needle",
+    "shot",
+    "sick",
+    "syringe",
+    "vaccinate",
+    "vaccine"
+  ],
+  "phrase_per_search_term": [
+    "covid-19 vaccine rolled out globally",
+    "covid-19 booster shot at the clinic",
+    "doctor preparing a syringe for injection",
+    "doctor administering the flu shot",
+    "childhood immunizations tracked in the app",
+    "immunizations required before travel abroad",
+    "medical syringe drawn up with medication",
+    "medical procedure requiring an injection",
+    "medicine injected directly into the bloodstream",
+    "medicine measured in the syringe barrel",
+    "needle inserted into the upper arm",
+    "fine needle used for an allergy test",
+    "flu shot scheduled for the autumn season",
+    "shot given at the pharmacy walk-in clinic",
+    "sick patient receiving an IV drip",
+    "sick child getting a vaccination at the doctor",
+    "syringe filled and ready for injection",
+    "syringe with plunger pulled back",
+    "vaccinate children against measles early",
+    "vaccination campaign for the whole community",
+    "vaccine stored in a cold chain fridge",
+    "vaccine approved for public distribution"
+  ],
+  "regular": [
+    "glass syringe with a metal needle and plunger",
+    "nurse drawing up a dose in a syringe",
+    "vaccine syringe icon for an immunization app",
+    "flu shot appointment reminder notification",
+    "COVID-19 vaccine injection into the upper arm",
+    "syringe and vial medication preparation",
+    "insulin syringe for diabetic self-injection",
+    "blood draw syringe used in a lab test",
+    "vaccination record updated with a new shot",
+    "syringe icon for a healthcare or clinic app"
+  ],
+  "conversational": [
+    "I need a syringe icon for my health app",
+    "add a syringe symbol to the vaccination section",
+    "show a syringe for the immunization tracker",
+    "use the syringe icon for the medical procedure log"
+  ],
+  "typo": [
+    "vacine syringe prepared for injection",
+    "flu shto administered at the clinic",
+    "syrange filled with the medication",
+    "neddle inserted into the upper arm"
+  ],
+  "boundary": [
+    "pill tablet medication capsule shape",
+    "stethoscope doctor listening to heartbeat",
+    "bandage adhesive strip on a small wound",
+    "thermometer reading a fever temperature",
+    "test tube blood sample vial in a rack",
+    "IV drip bag hanging on a hospital stand"
+  ],
+  "valid": [
+    "syringe vaccine icon",
+    "medical syringe symbol",
+    "injection needle icon"
+  ],
+  "test": [
+    "syringe shot clinic",
+    "vaccine syringe health app",
+    "needle injection symbol"
+  ]
+}

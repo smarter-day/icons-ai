@@ -1,0 +1,70 @@
+{
+  "icon": "ticket",
+  "search_terms": [
+    "admission",
+    "coupon",
+    "movie",
+    "pass",
+    "support",
+    "ticket",
+    "voucher"
+  ],
+  "phrase_per_search_term": [
+    "admission ticket to the art museum",
+    "admission price printed on the ticket stub",
+    "coupon code printed on a ticket",
+    "discount coupon clipped from a newspaper",
+    "movie ticket for the Friday night show",
+    "scan the movie ticket at the theater entrance",
+    "concert pass clipped to a lanyard",
+    "day pass for unlimited rides at the theme park",
+    "support ticket submitted to the help desk",
+    "customer support ticket number for tracking",
+    "print your ticket at home before the event",
+    "digital ticket displayed on a phone screen",
+    "gift voucher redeemable at the restaurant",
+    "voucher code entered at checkout"
+  ],
+  "regular": [
+    "rectangular ticket with a perforation line on the side",
+    "scan a QR code on a digital event ticket",
+    "event ticketing icon in a booking or venue app",
+    "torn ticket stub from a sold-out concert",
+    "buy tickets online for a sports game",
+    "customer support ticket icon in a help desk app",
+    "brightly colored ticket roll for carnival rides",
+    "admit one ticket with a star border design",
+    "print and show your ticket at the gate",
+    "ticketing symbol for an entertainment or travel app"
+  ],
+  "conversational": [
+    "I need a ticket icon for my event booking app",
+    "add a ticket symbol to the reservations section",
+    "show a ticket for the purchase and checkout feature",
+    "use the ticket icon for the support request screen"
+  ],
+  "typo": [
+    "tiket to the concert",
+    "tickt scanned at the door",
+    "ticekt for the movie tonight",
+    "tiicket stub from last night"
+  ],
+  "boundary": [
+    "airline boarding pass with seat and gate info",
+    "printed boarding pass folded in a passport",
+    "store coupon with a barcode and expiration date",
+    "discount coupon torn from a promotional mailer",
+    "name badge on a lanyard at a conference",
+    "event wristband with printed text and barcode"
+  ],
+  "valid": [
+    "event ticket with a perforation line",
+    "ticket icon for a booking app",
+    "digital ticket scanned at the door"
+  ],
+  "test": [
+    "movie ticket for tonight",
+    "ticket stub from a concert",
+    "ticket icon in an event app"
+  ]
+}

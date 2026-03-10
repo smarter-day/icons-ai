@@ -1,0 +1,67 @@
+{
+  "icon": "van",
+  "search_terms": [
+    "airport",
+    "bus",
+    "minibus",
+    "transportation",
+    "travel",
+    "vehicle"
+  ],
+  "phrase_per_search_term": [
+    "airport shuttle van picking up passengers",
+    "airport van transfer to the terminal",
+    "city bus route on the schedule",
+    "bus service running every ten minutes",
+    "minibus hired for a group tour",
+    "minibus carrying passengers downtown",
+    "public transportation van on route",
+    "transportation fleet management icon",
+    "travel van packed for a road trip",
+    "travel by van across the country",
+    "cargo vehicle for delivery service",
+    "vehicle fleet tracked by GPS"
+  ],
+  "regular": [
+    "passenger van with sliding side door",
+    "white minivan used for airport shuttles",
+    "delivery van driving through city streets",
+    "camper van parked at a national park",
+    "van icon for a ride-sharing app",
+    "family road trip in a large van",
+    "school mini-bus van with children",
+    "courier service van making deliveries",
+    "shuttle van service between hotel and airport",
+    "cargo van loaded for a moving day"
+  ],
+  "conversational": [
+    "I need a van icon for my transport app",
+    "add a van symbol to the fleet management screen",
+    "show a van for the shuttle booking feature",
+    "use the van icon for the vehicle tracking section"
+  ],
+  "typo": [
+    "airprot shuttle van service",
+    "passneger minivan for hire",
+    "cargo vna delivery route",
+    "trnaport van fleet tracking"
+  ],
+  "boundary": [
+    "large bus coach with many passenger windows",
+    "pickup truck with open flatbed cargo area",
+    "semi truck eighteen-wheeler on the highway",
+    "taxi yellow cab urban transport",
+    "ambulance emergency medical vehicle",
+    "minivan station wagon family car"
+  ],
+  "valid": [
+    "passenger van icon",
+    "minivan transport symbol",
+    "shuttle van vehicle"
+  ],
+  "test": [
+    "van delivery icon",
+    "airport shuttle van",
+    "transportation van symbol"
+  ]
+}

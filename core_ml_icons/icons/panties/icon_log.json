@@ -1,0 +1,67 @@
+{
+  "icon": "panties",
+  "search_terms": [
+    "bikini",
+    "swim",
+    "two-piece",
+    "underclothes",
+    "underclothing",
+    "underwear"
+  ],
+  "phrase_per_search_term": [
+    "bikini bottom hanging on a hook",
+    "floral bikini for a beach vacation",
+    "swim briefs for the pool",
+    "swim season clothing at the store",
+    "two-piece swimwear set for summer",
+    "matching two-piece for the beach",
+    "comfortable underclothes for everyday wear",
+    "pack underclothes for a weekend trip",
+    "underclothing section in a clothing app",
+    "basic underclothing folded in a drawer",
+    "cotton underwear in a laundry pile",
+    "buy underwear in a clothing store"
+  ],
+  "regular": [
+    "women's underwear neatly folded in a drawer",
+    "clothing icon for a lingerie or apparel category",
+    "fashion app icon representing intimate wear",
+    "lace-trimmed underwear on a white background",
+    "add panties to the wardrobe or laundry checklist",
+    "intimate apparel category in an e-commerce store",
+    "soft cotton underwear with an elastic waistband",
+    "swimwear bottom for the beach and pool",
+    "clothing icon for a fashion shopping app",
+    "bikini briefs laid flat for a product photo"
+  ],
+  "conversational": [
+    "I need a panties icon for my wardrobe tracker app",
+    "add a panties symbol to the clothing category",
+    "show panties for the intimate apparel section",
+    "use the panties icon for the fashion shopping feature"
+  ],
+  "typo": [
+    "panites in the laundry basket",
+    "panteis folded in a drawer",
+    "pantis in the underwear drawer",
+    "pandies with a lace trim"
+  ],
+  "boundary": [
+    "sports bra with a racerback design",
+    "lace bra hanging on a clothing rack",
+    "denim shorts with a frayed hem",
+    "athletic shorts for running and workouts",
+    "pair of ankle socks in a dresser drawer",
+    "colorful patterned socks on a wooden floor"
+  ],
+  "valid": [
+    "women's underwear icon",
+    "panties in a clothing app",
+    "intimate apparel symbol"
+  ],
+  "test": [
+    "bikini briefs for a wardrobe tracker",
+    "cotton underwear folded in a drawer",
+    "panties icon in a fashion app"
+  ]
+}

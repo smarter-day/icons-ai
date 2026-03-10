@@ -1,0 +1,58 @@
+{
+  "icon": "hands",
+  "search_terms": [
+    "asl",
+    "deaf",
+    "hands"
+  ],
+  "phrase_per_search_term": [
+    "asl alphabet fingerspelling letter",
+    "asl interpreter signing at event",
+    "deaf community using sign language",
+    "deaf awareness month symbol",
+    "two hands open facing up",
+    "hands raised in greeting gesture"
+  ],
+  "regular": [
+    "two open hands facing upward in sign language",
+    "sign language interpreter hands in motion",
+    "ASL hands spelling a word gesture",
+    "deaf community hand communication symbol",
+    "raised hands together for applause",
+    "open palms facing each other for exchange",
+    "hands icon for accessibility features",
+    "two hands used in American Sign Language",
+    "cupped hands holding something gently",
+    "hands gesturing during conversation"
+  ],
+  "conversational": [
+    "I need a hands icon for my accessibility settings",
+    "add a hands symbol to the sign language section",
+    "show hands for the ASL interpreter feature",
+    "use the hands icon for the deaf community page"
+  ],
+  "typo": [
+    "hads signing asl gesture",
+    "sign langauge hands icon",
+    "asl hande spelling alphabet",
+    "deaf communtiy hands signal"
+  ],
+  "boundary": [
+    "single hand waving hello gesture",
+    "handshake two people greeting each other",
+    "thumbs up approval like button",
+    "praying hands pressed together emoji",
+    "clapping hands applause celebration",
+    "pointing finger cursor direction arrow"
+  ],
+  "valid": [
+    "sign language hands",
+    "ASL hands symbol",
+    "two hands open gesture"
+  ],
+  "test": [
+    "deaf hands icon",
+    "hands signing ASL",
+    "accessibility hands symbol"
+  ]
+}

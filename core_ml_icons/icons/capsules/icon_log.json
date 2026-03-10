@@ -1,0 +1,61 @@
+{
+  "icon": "capsules",
+  "search_terms": [
+    "drugs",
+    "medicine",
+    "pills",
+    "prescription"
+  ],
+  "phrase_per_search_term": [
+    "prescription drugs in a pharmacy bag",
+    "controlled drugs tracked in a medication app",
+    "daily medicine reminder for patients",
+    "over the counter medicine in a blister pack",
+    "pills scattered on a white surface",
+    "bottle of pills on a nightstand",
+    "prescription from a doctor for antibiotics",
+    "fill prescription at the local pharmacy"
+  ],
+  "regular": [
+    "two-tone gel capsules in a medicine bottle",
+    "daily medication capsules for a health tracker",
+    "pharmacy icon for medication management",
+    "red and blue capsule on a white background",
+    "taking capsules with a full glass of water",
+    "capsule icon for a drug reminder application",
+    "capsules lined up in a pill organizer tray",
+    "supplement capsules for vitamins and minerals",
+    "medical icon representing drug dosage forms",
+    "gelatin capsule containing powdered medication"
+  ],
+  "conversational": [
+    "I need a capsules icon for my medication tracker",
+    "add a capsule symbol to the prescriptions screen",
+    "show a capsule for the daily medicine section",
+    "use the capsules icon for the pharmacy feature"
+  ],
+  "typo": [
+    "capusles medication reminder",
+    "capsuls in a pill bottle",
+    "cappules with vitamins",
+    "capslues daily dose"
+  ],
+  "boundary": [
+    "two round white tablets in a blister pack",
+    "white circular pill cut in half on a surface",
+    "plastic syringe with a metal needle",
+    "medical syringe being filled with medication",
+    "mortar and pestle grinding herbs for medicine",
+    "pharmacy pestle blending compounds in a bowl"
+  ],
+  "valid": [
+    "gel capsules in a medicine bottle",
+    "capsule for a prescription medication",
+    "drug capsules in a health app"
+  ],
+  "test": [
+    "two-tone capsule pill",
+    "capsules for daily supplements",
+    "medication capsule icon"
+  ]
+}

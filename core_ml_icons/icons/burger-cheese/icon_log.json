@@ -1,0 +1,70 @@
+{
+  "icon": "burger-cheese",
+  "search_terms": [
+    "bacon",
+    "beef",
+    "burger",
+    "grill",
+    "hamburger",
+    "sandwich",
+    "slider"
+  ],
+  "phrase_per_search_term": [
+    "crispy bacon strip on the burger",
+    "bacon cheeseburger with extra sauce",
+    "juicy beef patty on the grill",
+    "beef burger stacked with toppings",
+    "cheeseburger with melted cheddar on top",
+    "burger served with fries at the diner",
+    "grill marks on a freshly cooked patty",
+    "grill fired up for the backyard barbecue",
+    "classic hamburger at the fast food counter",
+    "hamburger bun toasted before assembly",
+    "club sandwich stacked on a plate",
+    "sandwich wrap for a lunch on the go",
+    "mini slider with a small beef patty",
+    "slider trio at the happy hour menu"
+  ],
+  "regular": [
+    "cheeseburger with melted cheese dripping over a beef patty",
+    "double burger stacked with lettuce tomato and cheese",
+    "smash burger pressed thin on a flat-top grill",
+    "fast food burger icon for a delivery app",
+    "gourmet burger with brioche bun and caramelized onions",
+    "burger and fries combo on a tray",
+    "grilled beef patty with cheddar slice melting",
+    "burger emoji for a food ordering interface",
+    "bacon cheeseburger in the restaurant menu",
+    "slider row of three mini burgers on a platter"
+  ],
+  "conversational": [
+    "I need a burger icon for my food delivery app",
+    "add a cheeseburger symbol to the fast food section",
+    "show a burger for the restaurant menu item",
+    "use the burger icon for the grill category"
+  ],
+  "typo": [
+    "juicy cheeseburge with extra bacon",
+    "beef burrger grilled to perfection",
+    "hambruger with lettuce and tomato",
+    "double burgr stacked with cheese"
+  ],
+  "boundary": [
+    "hot dog sausage in a bun with mustard",
+    "pizza slice with mozzarella and tomato",
+    "taco folded shell with meat and salsa",
+    "sandwich club with three bread layers",
+    "fried chicken sandwich in a brioche bun",
+    "wrap tortilla rolled with salad filling"
+  ],
+  "valid": [
+    "cheeseburger icon",
+    "burger beef patty symbol",
+    "hamburger food icon"
+  ],
+  "test": [
+    "burger cheese fast food",
+    "grilled hamburger icon",
+    "beef burger delivery app"
+  ]
+}

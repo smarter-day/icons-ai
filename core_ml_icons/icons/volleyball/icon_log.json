@@ -1,0 +1,67 @@
+{
+  "icon": "volleyball",
+  "search_terms": [
+    "ball",
+    "beach",
+    "game",
+    "olympics",
+    "sport",
+    "volleyball"
+  ],
+  "phrase_per_search_term": [
+    "volleyball ball with panel seams",
+    "round ball spiked over the net",
+    "beach volleyball game on the sand",
+    "beach volleyball court set up by the ocean",
+    "game of volleyball in the school gym",
+    "outdoor game of volleyball with friends",
+    "olympics volleyball match at the stadium",
+    "beach volleyball in the summer olympics",
+    "team sport played with a net and ball",
+    "sport icon for a volleyball club app",
+    "volleyball serve from behind the back line",
+    "volleyball spike at the net"
+  ],
+  "regular": [
+    "round volleyball with colored panel seams",
+    "serve the volleyball over the net to start the rally",
+    "sports icon for a volleyball club or court app",
+    "white volleyball with blue and yellow panels",
+    "beach volleyball tournament on a sunny weekend",
+    "team sport icon for a fitness or activity app",
+    "volleyball bouncing off the forearms in a bump pass",
+    "join a recreational volleyball league this season",
+    "ball sport icon for an outdoor activity tracker",
+    "volleyball floating above the net at a beach court"
+  ],
+  "conversational": [
+    "I need a volleyball icon for my sports app",
+    "add a volleyball symbol to the team sports section",
+    "show a volleyball for the beach sports feature",
+    "use the volleyball icon for the outdoor activities category"
+  ],
+  "typo": [
+    "voleyball game at the beach",
+    "volleball spike at the net",
+    "volleybal serve from the back line",
+    "volleybll on the sand court"
+  ],
+  "boundary": [
+    "orange basketball with black seam lines",
+    "basketball going through a hoop and net",
+    "black and white soccer ball on a grass field",
+    "soccer ball kicked into a goal net",
+    "fuzzy yellow tennis ball on a clay court",
+    "tennis ball bouncing on the baseline"
+  ],
+  "valid": [
+    "volleyball with colored panel seams",
+    "volleyball icon for a sports app",
+    "beach volleyball game"
+  ],
+  "test": [
+    "volleyball spiked over the net",
+    "volleyball tournament on the beach",
+    "volleyball sport icon"
+  ]
+}

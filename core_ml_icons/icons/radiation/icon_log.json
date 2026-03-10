@@ -1,0 +1,70 @@
+{
+  "icon": "radiation",
+  "search_terms": [
+    "danger",
+    "dangerous",
+    "deadly",
+    "hazard",
+    "nuclear",
+    "radioactive",
+    "warning"
+  ],
+  "phrase_per_search_term": [
+    "danger zone marked with a radiation symbol",
+    "danger warning sign outside a nuclear plant",
+    "dangerous levels of radiation detected",
+    "dangerous radioactive material in a sealed container",
+    "deadly dose of radiation exposure",
+    "deadly radioactive fallout after an explosion",
+    "hazard symbol on a nuclear waste barrel",
+    "radiation hazard sign on the door",
+    "nuclear reactor with a radiation warning",
+    "nuclear waste storage facility",
+    "radioactive isotope with a short half-life",
+    "radioactive material stored in a lead container",
+    "warning label on a radiation source",
+    "warning sign for ionizing radiation in a lab"
+  ],
+  "regular": [
+    "trefoil radiation symbol with three black arcs",
+    "radiation warning sign on a nuclear facility door",
+    "hazard icon for a safety or compliance app",
+    "three-bladed fan shape inside a yellow circle",
+    "alert for radiation exposure in a health app",
+    "nuclear safety icon for a risk management dashboard",
+    "classic black radiation trefoil on yellow background",
+    "radiation level detector alert in a monitoring app",
+    "ionizing radiation warning in a laboratory setting",
+    "biohazard-style warning icon for nuclear material"
+  ],
+  "conversational": [
+    "I need a radiation icon for my safety warning app",
+    "add a radiation symbol to the hazard alerts section",
+    "show radiation for the nuclear safety indicator",
+    "use the radiation icon for the danger zone warning"
+  ],
+  "typo": [
+    "radaition warning sign",
+    "radition hazard symbol",
+    "radioation warning level",
+    "radiaton sign on the wall"
+  ],
+  "boundary": [
+    "biohazard symbol with three interlocking circles",
+    "biohazard warning on a medical waste container",
+    "skull and crossbones on a poison label",
+    "toxic danger skull symbol on a chemical bottle",
+    "flammable warning sign with a fire triangle",
+    "explosive hazard diamond on a transport vehicle"
+  ],
+  "valid": [
+    "radiation trefoil warning symbol",
+    "radiation hazard sign on a door",
+    "nuclear radiation warning icon"
+  ],
+  "test": [
+    "radiation warning sign",
+    "radioactive hazard symbol",
+    "radiation danger icon in a safety app"
+  ]
+}

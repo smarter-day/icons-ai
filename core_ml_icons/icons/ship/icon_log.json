@@ -1,0 +1,64 @@
+{
+  "icon": "ship",
+  "search_terms": [
+    "boat",
+    "passenger",
+    "sea",
+    "ship",
+    "water"
+  ],
+  "phrase_per_search_term": [
+    "large ocean-going boat with multiple decks",
+    "boat icon for a maritime travel app",
+    "passenger ship crossing the Atlantic",
+    "passenger ferry docking at the port",
+    "ship sailing across the open sea",
+    "sea voyage on a merchant vessel",
+    "cargo ship loaded with containers at the dock",
+    "ship icon for a shipping or logistics app",
+    "water vessel navigating through ocean waves",
+    "water route planned for the cargo ship"
+  ],
+  "regular": [
+    "large ocean vessel with a tall smokestack",
+    "cargo ship delivering goods across the ocean",
+    "shipping icon for a logistics or freight app",
+    "side view of a ship with multiple decks",
+    "book a cruise ship voyage across the Mediterranean",
+    "maritime transport icon for a port management app",
+    "ship hull cutting through blue ocean waves",
+    "container ship departing from a busy seaport",
+    "naval vessel icon in a geography or travel app",
+    "silhouette of a large ship on the horizon"
+  ],
+  "conversational": [
+    "I need a ship icon for my shipping tracker app",
+    "add a ship symbol to the maritime transport section",
+    "show a ship for the ocean freight feature",
+    "use the ship icon for the cruise booking screen"
+  ],
+  "typo": [
+    "shpi crossing the Atlantic",
+    "shiip arriving at the port",
+    "shup docking at the harbor",
+    "shio on the open sea"
+  ],
+  "boundary": [
+    "white triangular sail on a small sailboat",
+    "sailboat gliding across a calm harbor",
+    "car ferry loading vehicles on the lower deck",
+    "passenger ferry crossing a river channel",
+    "submarine submerging beneath the ocean surface",
+    "military submarine with a periscope"
+  ],
+  "valid": [
+    "large ocean ship on the water",
+    "ship icon for a logistics app",
+    "cargo ship at the port"
+  ],
+  "test": [
+    "ship crossing the ocean",
+    "container ship for a shipping app",
+    "maritime vessel silhouette"
+  ]
+}

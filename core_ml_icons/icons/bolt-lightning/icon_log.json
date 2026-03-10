@@ -1,0 +1,64 @@
+{
+  "icon": "bolt-lightning",
+  "search_terms": [
+    "electricity",
+    "flash",
+    "lightning",
+    "weather",
+    "zap"
+  ],
+  "phrase_per_search_term": [
+    "electricity bolt from a power station",
+    "electricity surging through the power grid",
+    "camera flash fired in a dark room",
+    "flash of light before the thunder",
+    "lightning bolt striking a tall tree",
+    "lightning illuminating the storm clouds",
+    "severe weather alert lightning warning",
+    "weather forecast showing thunderstorms",
+    "zap icon for a quick action button",
+    "zap sound effect in a comic strip"
+  ],
+  "regular": [
+    "jagged lightning bolt striking downward",
+    "electric flash symbol for a power icon",
+    "lightning bolt badge on a superhero costume",
+    "thunderstorm lightning bolt in dark sky",
+    "fast action zap icon for an app",
+    "electric vehicle charging bolt symbol",
+    "lightning bolt warning on electrical equipment",
+    "bright white lightning bolt in a storm",
+    "energy and power represented by a bolt",
+    "lightning bolt icon for a fitness or speed app"
+  ],
+  "conversational": [
+    "I need a lightning bolt icon for my energy app",
+    "add a bolt symbol to the fast-action button",
+    "show a lightning bolt for the power indicator",
+    "use the bolt icon for the electric charge feature"
+  ],
+  "typo": [
+    "jagged ligthning bolt in the storm",
+    "electric ligntning striking the tree",
+    "thunderstorm lihgtning bolt warning",
+    "zpa quick action icon button"
+  ],
+  "boundary": [
+    "sun bright yellow circle with rays",
+    "cloud with rain drops falling",
+    "tornado funnel rotating storm column",
+    "electric plug two-prong power connector",
+    "battery charged indicator with fill level",
+    "fire flame burning orange and red"
+  ],
+  "valid": [
+    "lightning bolt icon",
+    "electric bolt symbol",
+    "lightning bolt weather"
+  ],
+  "test": [
+    "bolt lightning strike",
+    "zap bolt icon",
+    "lightning bolt power symbol"
+  ]
+}

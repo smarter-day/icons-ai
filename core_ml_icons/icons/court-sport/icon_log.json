@@ -1,0 +1,67 @@
+{
+  "icon": "court-sport",
+  "search_terms": [
+    "basketball",
+    "court",
+    "field",
+    "football",
+    "soccer",
+    "sport"
+  ],
+  "phrase_per_search_term": [
+    "basketball court with painted three-point line",
+    "basketball game played on the hardwood",
+    "court layout diagram for a sports app",
+    "court lines marked on the gymnasium floor",
+    "football field with yard markers and end zones",
+    "field goal kicked between the uprights",
+    "football played on a grass field",
+    "football stadium aerial view of the field",
+    "soccer match on a green outdoor pitch",
+    "soccer training drills on the field",
+    "team sport played on a court or field",
+    "sport facility booking app interface"
+  ],
+  "regular": [
+    "top-down view of a basketball court with lane markings",
+    "sports court diagram showing field layout",
+    "court lines for tennis or basketball",
+    "multi-sport facility map with courts",
+    "soccer field with center circle and goals",
+    "sport venue booking icon for a recreation app",
+    "basketball half-court used for practice drills",
+    "court sport icon showing field boundaries",
+    "football field diagram with goal posts",
+    "sport court icon for a gym scheduling app"
+  ],
+  "conversational": [
+    "I need a court-sport icon for my booking app",
+    "add a court symbol to the sports facility section",
+    "show a court for the game schedule feature",
+    "use the court-sport icon for the field map screen"
+  ],
+  "typo": [
+    "baskeball court with painted lane lines",
+    "soccar field with center circle marked",
+    "footbll field yard markers and end zone",
+    "spost court layout for the facility map"
+  ],
+  "boundary": [
+    "golf course green with flag in the hole",
+    "swimming pool lane dividers aerial view",
+    "ice rink oval surface with boards",
+    "baseball diamond with base paths",
+    "tennis racket and ball for match play",
+    "running track oval lanes for athletics"
+  ],
+  "valid": [
+    "sport court icon",
+    "court field layout symbol",
+    "court sport diagram"
+  ],
+  "test": [
+    "basketball court icon",
+    "soccer field layout",
+    "court sport facility"
+  ]
+}

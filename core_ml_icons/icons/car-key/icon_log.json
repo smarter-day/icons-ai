@@ -1,0 +1,79 @@
+{
+  "icon": "car-key",
+  "search_terms": [
+    "auto",
+    "automobile",
+    "car",
+    "key",
+    "lock",
+    "rental",
+    "sedan",
+    "transportation",
+    "travel",
+    "vehicle"
+  ],
+  "phrase_per_search_term": [
+    "auto repair shop handing over the keys",
+    "auto key programmed at the dealership",
+    "automobile key fob with remote buttons",
+    "automobile ignition key on the ring",
+    "car key placed on the counter at check-in",
+    "car key scratched trying to unlock the door",
+    "key cut at the locksmith for a spare",
+    "key handed to the valet at the hotel",
+    "lock disengaged by the car key fob",
+    "lock opened remotely from the pocket",
+    "rental car key picked up at the desk",
+    "rental agreement signed before getting the key",
+    "sedan key fob with push-to-start button",
+    "sedan door unlocked by the proximity key",
+    "transportation key for a fleet vehicle",
+    "transportation company tracking all keys",
+    "travel car hire key collected at the airport",
+    "travel preparation includes car rental key",
+    "vehicle key stored on a hook in the hallway",
+    "vehicle ignition key inserted to start"
+  ],
+  "regular": [
+    "car key with a fob and unlock button",
+    "ignition key inserted into the car starter",
+    "key fob unlocking the car from a distance",
+    "rental car key handed over at the counter",
+    "spare car key cut at the locksmith",
+    "valet handing back the car key after parking",
+    "car key icon for a vehicle management app",
+    "smart key proximity sensor unlocking the door",
+    "car key on a ring with a brand logo tag",
+    "lost car key emergency roadside assistance call"
+  ],
+  "conversational": [
+    "I need a car key icon for my vehicle app",
+    "add a car key symbol to the rental section",
+    "show a car key for the fleet management screen",
+    "use the car key icon for the valet booking feature"
+  ],
+  "typo": [
+    "car kye handed over at the rental desk",
+    "ignition ky inserted to start the engine",
+    "car keyfob unlockign the door remotely",
+    "rentla car key picked up at the airport"
+  ],
+  "boundary": [
+    "house key door key on a plain ring",
+    "padlock closed security icon",
+    "key safe wall-mounted box with a code",
+    "gear shift stick in a manual car",
+    "steering wheel car interior control",
+    "car silhouette without any key symbol"
+  ],
+  "valid": [
+    "car key icon",
+    "vehicle key fob symbol",
+    "car key rental icon"
+  ],
+  "test": [
+    "car key ignition icon",
+    "rental car key symbol",
+    "car key fob icon"
+  ]
+}

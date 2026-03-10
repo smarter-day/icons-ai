@@ -1,0 +1,73 @@
+{
+  "icon": "shorts",
+  "search_terms": [
+    "boxers",
+    "drawers",
+    "pants",
+    "shorts",
+    "summer",
+    "swimsuit",
+    "trunks",
+    "underwear"
+  ],
+  "phrase_per_search_term": [
+    "boxer shorts in a laundry pile",
+    "elastic waistband boxers on a hanger",
+    "dresser drawers holding folded shorts",
+    "pull out the drawers to find your shorts",
+    "casual pants cut short at the thigh",
+    "athletic pants shortened to shorts length",
+    "pair of shorts for a summer outing",
+    "denim shorts with cuffed hems",
+    "summer shorts on a beach day",
+    "bright summer shorts in a tropical print",
+    "swimsuit trunks for the pool",
+    "board shorts worn as a swimsuit at the beach",
+    "swim trunks for the outdoor pool",
+    "board trunks with a drawstring waist",
+    "cotton underwear boxer shorts",
+    "loose underwear shorts in a cotton blend"
+  ],
+  "regular": [
+    "knee-length shorts with two side pockets",
+    "wear shorts on a warm summer afternoon",
+    "clothing icon for a casual or summer fashion app",
+    "athletic shorts with a drawstring elastic waist",
+    "pack a pair of shorts for the beach vacation",
+    "summer apparel icon in a wardrobe tracker",
+    "light cotton shorts folded on a shelf",
+    "pull on shorts for a morning jog in the park",
+    "bottoms category icon in an activewear app",
+    "denim cutoff shorts with a frayed hem"
+  ],
+  "conversational": [
+    "I need a shorts icon for my wardrobe tracker app",
+    "add a shorts symbol to the summer clothing section",
+    "show shorts for the activewear category",
+    "use the shorts icon for the beach outfit feature"
+  ],
+  "typo": [
+    "shoorts for a summer day",
+    "shrots folded in a drawer",
+    "horts for the gym session",
+    "shortts with a drawstring waist"
+  ],
+  "boundary": [
+    "slim fit trousers with a front crease",
+    "navy blue dress pants for a business look",
+    "floral summer skirt above the knee",
+    "A-line skirt in a solid neutral color",
+    "one-piece swimsuit with adjustable straps",
+    "bikini top and bottom set for the beach"
+  ],
+  "valid": [
+    "knee-length shorts with side pockets",
+    "shorts icon for a summer clothing app",
+    "athletic shorts with a drawstring"
+  ],
+  "test": [
+    "denim shorts for a casual day",
+    "shorts for a beach vacation",
+    "shorts in a wardrobe tracker app"
+  ]
+}

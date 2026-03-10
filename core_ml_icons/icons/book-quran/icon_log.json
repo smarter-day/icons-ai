@@ -1,0 +1,61 @@
+{
+  "icon": "book-quran",
+  "search_terms": [
+    "book",
+    "islam",
+    "muslim",
+    "religion"
+  ],
+  "phrase_per_search_term": [
+    "holy book opened to a verse for recitation",
+    "sacred book passed down through generations",
+    "islam guided by the teachings of the Quran",
+    "islam scripture recited during prayer",
+    "muslim community reading the Quran together",
+    "muslim prayer book on the shelf",
+    "religion centered on the holy Quran",
+    "religion class studying Quranic verses"
+  ],
+  "regular": [
+    "green Quran with Arabic calligraphy on the cover",
+    "Quran opened on a wooden stand for recitation",
+    "Muslim holy scripture bound in leather",
+    "Quran icon for a faith or prayer app",
+    "Quran verse displayed in Arabic script",
+    "Quran placed on a stand at the mosque",
+    "Islamic holy book revered by the community",
+    "Quran memorized by students at the madrasa",
+    "Quran recited during the evening prayer",
+    "Quran gifted to a new Muslim convert"
+  ],
+  "conversational": [
+    "I need a Quran icon for my Islamic app",
+    "add a Quran symbol to the religion section",
+    "show a Quran for the daily verse feature",
+    "use the Quran icon for the prayer guide page"
+  ],
+  "typo": [
+    "holy quran opened for recitaiton",
+    "muslm community reading the quran",
+    "isalm scripture recited at prayer",
+    "relgion class studying Quranic verse"
+  ],
+  "boundary": [
+    "Bible Christian holy scripture on a lectern",
+    "Torah Jewish scroll rolled with handles",
+    "book open pages of general reading",
+    "scroll ancient parchment rolled document",
+    "mosque building with dome and minaret",
+    "crescent moon and star Islamic symbol"
+  ],
+  "valid": [
+    "Quran holy book icon",
+    "Islamic Quran symbol",
+    "book-quran faith icon"
+  ],
+  "test": [
+    "Quran book islam icon",
+    "muslim holy book symbol",
+    "Quran prayer app icon"
+  ]
+}

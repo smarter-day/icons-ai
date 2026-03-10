@@ -1,0 +1,73 @@
+{
+  "icon": "transmission",
+  "search_terms": [
+    "car",
+    "clutch",
+    "drivetrain",
+    "gear",
+    "gearbox",
+    "manual",
+    "shifter",
+    "transmission"
+  ],
+  "phrase_per_search_term": [
+    "car transmission rebuilt by the mechanic",
+    "car gearbox serviced at the shop",
+    "clutch pedal pressed before shifting gears",
+    "worn clutch slipping during acceleration",
+    "drivetrain sending power to all four wheels",
+    "drivetrain diagram for a mechanics course",
+    "gear engaged smoothly at highway speed",
+    "gear worn down after years of use",
+    "gearbox oil changed at the service interval",
+    "gearbox housing opened for inspection",
+    "manual transmission preferred by driving enthusiasts",
+    "manual gearshift in a sports car",
+    "gear shifter knob wrapped in leather",
+    "shifter moved into drive position",
+    "transmission fluid checked on the dipstick",
+    "automatic transmission shifting at the right RPM"
+  ],
+  "regular": [
+    "car gearbox with multiple gear positions",
+    "manual transmission shift pattern on the knob",
+    "automatic transmission cross-section diagram",
+    "transmission fluid service reminder icon",
+    "drivetrain diagram showing gearbox and axle",
+    "gear shifter inside the center console",
+    "transmission icon for a car service app",
+    "clutch and gearbox replaced after high mileage",
+    "sports car six-speed manual transmission",
+    "transmission warning light on the dashboard"
+  ],
+  "conversational": [
+    "I need a transmission icon for my car service app",
+    "add a gearbox symbol to the drivetrain section",
+    "show a transmission for the vehicle diagnostics screen",
+    "use the transmission icon for the manual shift feature"
+  ],
+  "typo": [
+    "manual transmision shifted into second gear",
+    "clutch pedal presses before gear change",
+    "gearbox servied at the mechanic shop",
+    "drivertain sending power to the wheels"
+  ],
+  "boundary": [
+    "steering wheel car interior driver control",
+    "engine block motor under the hood",
+    "brake pedal foot control stopping the car",
+    "speedometer gauge showing current speed",
+    "wrench mechanic tool for repairs",
+    "car dashboard with instrument cluster"
+  ],
+  "valid": [
+    "transmission gearbox icon",
+    "car transmission symbol",
+    "manual gearbox icon"
+  ],
+  "test": [
+    "transmission car service",
+    "gearbox drivetrain icon",
+    "transmission shift symbol"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "icon": "seat",
+  "search_terms": [
+    "chair",
+    "furniture",
+    "movie",
+    "seat",
+    "table",
+    "theater"
+  ],
+  "phrase_per_search_term": [
+    "comfortable chair reserved for the guest",
+    "chair icon for a seating arrangement app",
+    "furniture in a living room or office",
+    "furniture store icon with a seat",
+    "movie seat reservation in a cinema app",
+    "assigned movie seat number on a ticket",
+    "reserve a seat before the show starts",
+    "seat icon next to a reservation form",
+    "seat at the dining table for two",
+    "table and seat setup at the restaurant",
+    "theater seat with a fold-down cushion",
+    "assigned theater seat in row G"
+  ],
+  "regular": [
+    "fold-down theater seat with padded armrests",
+    "reserve a seat for the concert in advance",
+    "seating icon for a ticketing or booking app",
+    "single seat viewed from the front with a backrest",
+    "choose your seat on a flight booking screen",
+    "venue seat map icon for an event app",
+    "cushioned seat in a cinema row",
+    "seat assignment printed on the boarding pass",
+    "restaurant table seat booking confirmation",
+    "empty seat waiting to be claimed before the show"
+  ],
+  "conversational": [
+    "I need a seat icon for my theater booking app",
+    "add a seat symbol to the reservation section",
+    "show a seat for the venue seating map feature",
+    "use the seat icon for the cinema ticket selector"
+  ],
+  "typo": [
+    "saet reserved for the guest",
+    "seeat number on the ticket",
+    "seta in the front row",
+    "seay at the theater"
+  ],
+  "boundary": [
+    "three-seat sofa against the living room wall",
+    "comfortable couch with throw pillows",
+    "wooden park bench along a garden path",
+    "outdoor bench with a metal frame",
+    "bar stool with a round padded seat",
+    "tall kitchen stool at a breakfast counter"
+  ],
+  "valid": [
+    "theater seat with padded armrests",
+    "seat reservation icon in a booking app",
+    "assigned seat in a cinema row"
+  ],
+  "test": [
+    "reserve a seat for the concert",
+    "seat selector in a ticketing app",
+    "seat icon for a venue map"
+  ]
+}

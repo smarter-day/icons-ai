@@ -1,0 +1,76 @@
+{
+  "icon": "sword",
+  "search_terms": [
+    "blade",
+    "d&d",
+    "dagger",
+    "dnd",
+    "fantasy",
+    "fight",
+    "knife",
+    "sharp",
+    "weapon"
+  ],
+  "phrase_per_search_term": [
+    "sharp blade of a medieval sword",
+    "blade glinting in the sunlight",
+    "d&d character wielding a magic sword",
+    "d&d campaign with legendary weapon drops",
+    "dagger stabbed into a wooden table",
+    "short dagger used for close combat",
+    "dnd warrior equipped with a longsword",
+    "dnd game icon for a dungeon master app",
+    "fantasy sword with runes along the blade",
+    "epic fantasy weapon for a video game",
+    "fight scene with swords clashing",
+    "fight icon for a combat strategy game",
+    "knife-shaped blade for a hunting tool",
+    "knife icon in a survival or camping app",
+    "sharp sword edge that cuts through stone",
+    "sharp tip of a finely crafted blade",
+    "weapon icon for a game inventory",
+    "medieval weapon in an RPG adventure game"
+  ],
+  "regular": [
+    "longsword with a cross guard and leather grip",
+    "equip a sword in a role-playing game inventory",
+    "combat weapon icon for a fantasy RPG app",
+    "medieval sword with an ornate hilt and pommel",
+    "knight brandishing a sword in battle",
+    "game icon for a weapon or armory section",
+    "straight double-edged sword on a dark background",
+    "collecting legendary swords in a dungeon crawler",
+    "fantasy game symbol for attack or combat",
+    "ancient ceremonial sword mounted on a wall"
+  ],
+  "conversational": [
+    "I need a sword icon for my RPG game app",
+    "add a sword symbol to the weapons inventory section",
+    "show a sword for the combat and battle feature",
+    "use the sword icon for the fantasy adventure game"
+  ],
+  "typo": [
+    "swrod in the stone",
+    "swordl of the knight",
+    "soword with a sharp blade",
+    "swod ready for battle"
+  ],
+  "boundary": [
+    "battle axe with a wide curved blade",
+    "wood chopping axe stuck in a log",
+    "round wooden shield with an iron boss",
+    "knight's shield with a coat of arms",
+    "bow and arrow drawn back ready to fire",
+    "archery bow with a notched arrow"
+  ],
+  "valid": [
+    "medieval sword with a cross guard",
+    "sword icon for an RPG game",
+    "sharp blade weapon symbol"
+  ],
+  "test": [
+    "knight sword in a fantasy game",
+    "sword in the stone",
+    "sword icon for a combat app"
+  ]
+}

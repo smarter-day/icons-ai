@@ -1,0 +1,61 @@
+{
+  "icon": "bandage",
+  "search_terms": [
+    "bandage",
+    "boo boo",
+    "first aid",
+    "ouch"
+  ],
+  "phrase_per_search_term": [
+    "adhesive bandage covering a small cut",
+    "bandage wrapped around a sprained wrist",
+    "kiss the boo boo to make it better",
+    "cartoon boo boo with bandage on",
+    "first aid kit stocked with bandages",
+    "first aid station at the sports event",
+    "ouch that cut needs a bandage fast",
+    "ouch sticker on a child's wound"
+  ],
+  "regular": [
+    "beige adhesive bandage strip on a finger",
+    "bandage crossed diagonally on a wound",
+    "first aid bandage for minor cuts and scrapes",
+    "wound covered with a sterile bandage",
+    "waterproof bandage for swimming after injury",
+    "bandage icon for a health and wellness app",
+    "emergency bandage applied to a bleeding cut",
+    "cartoon-style bandage with crossed lines",
+    "bandage pack from the medicine cabinet",
+    "medical bandage symbolizing healing and care"
+  ],
+  "conversational": [
+    "I need a bandage icon for my first aid app",
+    "add a bandage symbol to the health tracker",
+    "show a bandage for the injury log section",
+    "use the bandage icon for the wound care reminder"
+  ],
+  "typo": [
+    "adhesive bandge on the finger",
+    "put a bnadage on that cut now",
+    "frist aid bandage in the kit",
+    "ouch I need a bandege fast"
+  ],
+  "boundary": [
+    "red cross medical symbol on a white background",
+    "syringe needle for an injection icon",
+    "pill tablet medication capsule shape",
+    "heart pulse heartbeat medical monitor",
+    "thermometer reading a fever temperature",
+    "hospital bed patient resting icon"
+  ],
+  "valid": [
+    "adhesive bandage icon",
+    "bandage first aid symbol",
+    "wound bandage strip"
+  ],
+  "test": [
+    "bandage medical icon",
+    "first aid bandage",
+    "bandage health app"
+  ]
+}

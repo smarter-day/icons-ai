@@ -1,0 +1,64 @@
+{
+  "icon": "smoking",
+  "search_terms": [
+    "cancer",
+    "cigarette",
+    "nicotine",
+    "smoking",
+    "tobacco"
+  ],
+  "phrase_per_search_term": [
+    "lung cancer risk associated with smoking",
+    "cancer warning label on a cigarette pack",
+    "lit cigarette with smoke rising",
+    "cigarette pack on a wooden table",
+    "nicotine patch as a smoking cessation aid",
+    "nicotine dependence tracked in a health app",
+    "no smoking sign at the entrance",
+    "smoking icon for a designated smoking area",
+    "tobacco smoke filling a room",
+    "tobacco product warning label"
+  ],
+  "regular": [
+    "cigarette with a lit tip and rising smoke trail",
+    "no smoking zone indicator at a public venue",
+    "health warning icon for a smoking cessation app",
+    "cigarette silhouette with a burning orange tip",
+    "track cigarettes smoked in a quit smoking app",
+    "tobacco and health icon in a medical reference app",
+    "cigarette stub in an ashtray",
+    "log your smoking habit to help quit gradually",
+    "addiction and wellness icon for a health dashboard",
+    "smoking symbol shown on a restricted area sign"
+  ],
+  "conversational": [
+    "I need a smoking icon for my quit smoking tracker",
+    "add a smoking symbol to the health habits section",
+    "show a smoking icon for the no smoking area sign",
+    "use the smoking icon for the tobacco usage feature"
+  ],
+  "typo": [
+    "smoikng habit tracker",
+    "smokign cigarette in a no smoking zone",
+    "smoknig outside the building",
+    "smoming in a restricted area"
+  ],
+  "boundary": [
+    "orange flame burning on a candle wick",
+    "campfire with logs and glowing embers",
+    "e-cigarette vape pen with a vapor cloud",
+    "electronic cigarette charging on a cable",
+    "warning triangle with an exclamation mark",
+    "danger hazard sign on a restricted zone"
+  ],
+  "valid": [
+    "cigarette with smoke rising",
+    "smoking icon for a health tracker",
+    "no smoking symbol"
+  ],
+  "test": [
+    "cigarette icon in a quit smoking app",
+    "smoking warning sign",
+    "tobacco smoking habit tracker"
+  ]
+}

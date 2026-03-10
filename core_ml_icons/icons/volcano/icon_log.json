@@ -1,0 +1,70 @@
+{
+  "icon": "volcano",
+  "search_terms": [
+    "caldera",
+    "eruption",
+    "lava",
+    "magma",
+    "mountain",
+    "smoke",
+    "volcano"
+  ],
+  "phrase_per_search_term": [
+    "caldera formed after the eruption collapsed",
+    "caldera lake inside an extinct volcano",
+    "volcanic eruption sending ash into the sky",
+    "eruption warning issued by seismologists",
+    "lava flowing down the slope at night",
+    "red lava stream hardening into rock",
+    "magma chamber pressurizing beneath the surface",
+    "magma rising toward the surface",
+    "volcanic mountain visible from the coast",
+    "mountain peak glowing with lava",
+    "smoke column rising from the crater",
+    "thick smoke billowing from the volcano",
+    "volcano erupting with fire and ash clouds",
+    "volcano icon for a natural disaster app"
+  ],
+  "regular": [
+    "volcano erupting with lava and ash plume",
+    "mountain with a glowing red crater at the top",
+    "active volcano on a tropical island",
+    "volcano icon for a geology or science app",
+    "lava flow from a Hawaiian shield volcano",
+    "volcano hazard map showing danger zones",
+    "erupting volcano for a weather or disaster app",
+    "caldera of a supervolcano from aerial view",
+    "volcanic smoke column visible for miles",
+    "volcano silhouette at dusk with glowing lava"
+  ],
+  "conversational": [
+    "I need a volcano icon for my science app",
+    "add a volcano symbol to the natural disaster section",
+    "show a volcano for the geology feature",
+    "use the volcano icon for the eruption alert page"
+  ],
+  "typo": [
+    "volocano erupting with lava and ash",
+    "volcanic erruption warning issued",
+    "lava flowng down the mountain slope",
+    "volcanoe caldera visible from above"
+  ],
+  "boundary": [
+    "mountain peak snowy summit without lava",
+    "fire flame burning orange without a crater",
+    "island tropical land mass in the ocean",
+    "earthquake crack splitting the ground",
+    "geyser hot spring shooting water upward",
+    "campfire logs burning in a ring of stones"
+  ],
+  "valid": [
+    "volcano eruption icon",
+    "volcanic mountain symbol",
+    "volcano lava icon"
+  ],
+  "test": [
+    "volcano science app icon",
+    "erupting volcano symbol",
+    "volcano lava mountain"
+  ]
+}

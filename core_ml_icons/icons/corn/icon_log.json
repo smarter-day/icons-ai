@@ -1,0 +1,73 @@
+{
+  "icon": "corn",
+  "search_terms": [
+    "cob",
+    "corn",
+    "ear",
+    "fall",
+    "grain",
+    "kernel",
+    "maize",
+    "popcorn"
+  ],
+  "phrase_per_search_term": [
+    "corn cob grilled at the summer barbecue",
+    "cob of corn boiled and buttered",
+    "fresh corn harvested from the stalk",
+    "corn on the cob at the county fair",
+    "ear of corn pulled back to reveal kernels",
+    "ear detached from the stalk at harvest",
+    "fall harvest corn displayed as decoration",
+    "fall cornucopia with corn and gourds",
+    "grain corn dried and stored in the silo",
+    "grain crop field stretching to the horizon",
+    "golden kernel popped on a hot pan",
+    "kernel by kernel corn removed from the cob",
+    "maize cultivated by indigenous farmers",
+    "maize flour ground for tortillas",
+    "popcorn kernels exploding in the microwave",
+    "buttered popcorn in a bag at the movie theater"
+  ],
+  "regular": [
+    "yellow corn cob with rows of golden kernels",
+    "corn on the cob with a green husk pulled back",
+    "field corn growing tall in the summer heat",
+    "corn icon for a recipe or harvest app",
+    "buttered corn cob at a summer cookout",
+    "dried corn hanging in the barn for fall",
+    "corn maze attraction at the pumpkin patch",
+    "popcorn made from dried corn kernels",
+    "maize crop harvested with a combine",
+    "sweet corn boiled and served at the picnic"
+  ],
+  "conversational": [
+    "I need a corn icon for my recipe app",
+    "add a corn symbol to the vegetable section",
+    "show a corn cob for the harvest tracker",
+    "use the corn icon for the fall produce page"
+  ],
+  "typo": [
+    "yellow crn cob buttered at the cookout",
+    "popcron kernels popped in the microwave",
+    "corn kerenel removed from the cob",
+    "mazie crop harvested in the fall"
+  ],
+  "boundary": [
+    "wheat stalk grain crop in a golden field",
+    "carrot orange root vegetable with leafy top",
+    "sunflower tall yellow head with seeds",
+    "pumpkin round orange gourd for fall",
+    "banana yellow curved fruit with peel",
+    "pineapple tropical fruit with spiky crown"
+  ],
+  "valid": [
+    "corn cob icon",
+    "corn vegetable symbol",
+    "corn on the cob harvest"
+  ],
+  "test": [
+    "corn grain crop icon",
+    "maize corn symbol",
+    "corn cob fall icon"
+  ]
+}

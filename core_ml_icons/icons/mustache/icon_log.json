@@ -1,0 +1,70 @@
+{
+  "icon": "mustache",
+  "search_terms": [
+    "beard",
+    "face",
+    "hair",
+    "lumberjack",
+    "shave",
+    "walrus",
+    "whiskers"
+  ],
+  "phrase_per_search_term": [
+    "thick beard and mustache combo",
+    "beard icon for a barber or grooming app",
+    "face with a handlebar mustache",
+    "face hair icon in a character customization screen",
+    "facial hair styled into a twirled mustache",
+    "hair icon for a barber shop menu",
+    "bushy lumberjack mustache with a beard",
+    "lumberjack style facial hair",
+    "shave off the mustache for a new look",
+    "shave styling kit for mustache grooming",
+    "walrus-style drooping mustache",
+    "thick walrus mustache hanging over the lip",
+    "long whiskers of a twirled mustache",
+    "waxed whiskers curling at the ends"
+  ],
+  "regular": [
+    "curly handlebar mustache on a white background",
+    "grow a mustache for Movember awareness",
+    "barber shop icon for a grooming or hairstyle app",
+    "thick dark mustache sitting above the upper lip",
+    "style a mustache with wax for a sharp curl",
+    "facial hair category in a character creator app",
+    "classic pencil-thin mustache in a silhouette",
+    "mustache disguise prop for a photo booth app",
+    "men's grooming icon for a shaving products app",
+    "bushy full mustache covering the upper lip"
+  ],
+  "conversational": [
+    "I need a mustache icon for my barber app",
+    "add a mustache symbol to the facial hair section",
+    "show a mustache for the grooming category",
+    "use the mustache icon for the character customization feature"
+  ],
+  "typo": [
+    "mustahce waxed for a curl",
+    "mustace grooming kit",
+    "moustahce style for Movember",
+    "mustche trimmed neatly"
+  ],
+  "boundary": [
+    "full thick beard covering the jaw and chin",
+    "neatly trimmed short beard on a man's face",
+    "red lips in a kissing expression",
+    "lipstick mark on a cheek as a kiss",
+    "curly wig icon for a costume or disguise",
+    "top hat and monocle for a fancy disguise"
+  ],
+  "valid": [
+    "handlebar mustache icon",
+    "mustache for a grooming app",
+    "curly mustache above the lip"
+  ],
+  "test": [
+    "twirled mustache on a white background",
+    "mustache icon for a barber app",
+    "thick mustache for Movember"
+  ]
+}

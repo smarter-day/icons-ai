@@ -1,0 +1,67 @@
+{
+  "icon": "sneaker",
+  "search_terms": [
+    "feet",
+    "laces",
+    "run",
+    "running",
+    "shoe",
+    "tennis shoe"
+  ],
+  "phrase_per_search_term": [
+    "sneakers on two feet ready for a run",
+    "comfortable sneakers for tired feet",
+    "sneaker laces tied in a double knot",
+    "untied laces dangling from a white sneaker",
+    "run a marathon in lightweight sneakers",
+    "run icon for a fitness tracker app",
+    "running sneaker with cushioned heel support",
+    "running shoes laid out before a morning jog",
+    "athletic shoe with a breathable mesh upper",
+    "casual shoe worn for everyday comfort",
+    "tennis shoe with a non-slip sole",
+    "classic white tennis shoe on a court"
+  ],
+  "regular": [
+    "white athletic sneaker with colored accents",
+    "lace up your sneakers for the morning run",
+    "footwear icon for a fitness or sports app",
+    "sneaker with a thick rubber sole and mesh upper",
+    "buy a new pair of sneakers for gym workouts",
+    "shoe category icon in a sportswear shopping app",
+    "low-top sneaker with a flat canvas design",
+    "wear sneakers for comfort on a long walking day",
+    "athletic footwear icon in a training tracker",
+    "classic retro sneaker in a side profile view"
+  ],
+  "conversational": [
+    "I need a sneaker icon for my fitness tracker app",
+    "add a sneaker symbol to the sports footwear section",
+    "show a sneaker for the running gear category",
+    "use the sneaker icon for the workout outfit feature"
+  ],
+  "typo": [
+    "sneakre with a thick rubber sole",
+    "snaeker laced up tight",
+    "snekaer for the morning run",
+    "sneeaker worn for the gym"
+  ],
+  "boundary": [
+    "polished leather dress shoe with a low heel",
+    "formal oxford shoe with a pointed toe cap",
+    "rubber rain boot for wet weather",
+    "hiking boot with thick lug sole for trails",
+    "lightweight flip flop sandal for the beach",
+    "leather sandal with ankle strap closure"
+  ],
+  "valid": [
+    "athletic sneaker with colored laces",
+    "sneaker icon for a fitness app",
+    "running sneaker with cushioned sole"
+  ],
+  "test": [
+    "white sneaker for a morning jog",
+    "sneaker in a sports shopping app",
+    "classic sneaker side profile"
+  ]
+}

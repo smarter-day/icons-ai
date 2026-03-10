@@ -1,0 +1,73 @@
+{
+  "icon": "stomach",
+  "search_terms": [
+    "abdomen",
+    "belly",
+    "food",
+    "gut",
+    "hungry",
+    "intestine",
+    "organ",
+    "tummy"
+  ],
+  "phrase_per_search_term": [
+    "pain in the abdomen after eating",
+    "abdomen icon in a body anatomy app",
+    "belly rumbling when hungry",
+    "full belly after a big meal",
+    "food digested in the stomach",
+    "food tracker showing stomach capacity",
+    "gut health tracked in a nutrition app",
+    "healthy gut microbiome symbol",
+    "stomach growling because you're hungry",
+    "hungry icon for a food ordering app",
+    "stomach connected to the intestine",
+    "intestine diagram in a biology textbook",
+    "organ diagram showing the stomach",
+    "digestive organ icon in a health app",
+    "tummy ache after eating too much",
+    "tummy grumbling sound before lunch"
+  ],
+  "regular": [
+    "rounded stomach organ shape with an opening",
+    "stomach pain tracker in a health journal",
+    "digestive system icon in a body anatomy app",
+    "stomach silhouette with folded walls inside",
+    "log what you eat and how your stomach feels",
+    "gastrointestinal health icon for a medical app",
+    "simple outlined stomach icon with a J-shape",
+    "hungry stomach symbol on a food delivery app",
+    "anatomy icon representing the digestive organ",
+    "stomach growling icon for a hunger reminder"
+  ],
+  "conversational": [
+    "I need a stomach icon for my gut health tracker",
+    "add a stomach symbol to the digestion section",
+    "show a stomach for the hunger and meal tracking feature",
+    "use the stomach icon for the body anatomy map"
+  ],
+  "typo": [
+    "stomache ache after dinner",
+    "stomch pain in the morning",
+    "stomack growling before lunch",
+    "stoamch organ diagram"
+  ],
+  "boundary": [
+    "small and large intestine coiled together",
+    "intestine diagram for a digestive health app",
+    "liver organ shown in a body anatomy illustration",
+    "liver shape used in a medical reference app",
+    "heart organ beating in the chest cavity",
+    "anatomical heart with arteries and chambers"
+  ],
+  "valid": [
+    "stomach organ icon",
+    "stomach in a digestive health app",
+    "stomach silhouette for anatomy"
+  ],
+  "test": [
+    "stomach ache tracker",
+    "stomach organ in a health app",
+    "hungry stomach icon"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "icon": "user-police",
+  "search_terms": [
+    "cop",
+    "officer",
+    "patrol",
+    "police",
+    "trooper"
+  ],
+  "phrase_per_search_term": [
+    "cop directing traffic at the intersection",
+    "cop on duty patrolling the neighborhood",
+    "police officer responding to an emergency call",
+    "officer in uniform at the precinct",
+    "patrol unit driving through the area",
+    "patrol officer checking the perimeter",
+    "police department badge icon for a safety app",
+    "police scanner picking up the call",
+    "state trooper pulling over a speeding vehicle",
+    "trooper stationed at the highway checkpoint"
+  ],
+  "regular": [
+    "police officer silhouette with a badge and cap",
+    "cop in uniform represented as a user icon",
+    "law enforcement officer avatar in a safety app",
+    "police icon for an emergency contact screen",
+    "officer on patrol shown as a person symbol",
+    "police user icon for a first responder app",
+    "security officer profile in a building management app",
+    "police trooper with a hat brim and badge",
+    "cop icon used in a neighborhood watch feature",
+    "law enforcement user symbol for a dispatch app"
+  ],
+  "conversational": [
+    "I need a police officer icon for my safety app",
+    "add a cop symbol to the emergency contact section",
+    "show a police user for the patrol tracking feature",
+    "use the officer icon for the first responder page"
+  ],
+  "typo": [
+    "plice officer responding to the emergency",
+    "cop durecting traffic at the corner",
+    "trooper patoling the highway checkpoint",
+    "officre in uniform at the precinct"
+  ],
+  "boundary": [
+    "firefighter helmet and gear silhouette",
+    "doctor person in a medical coat icon",
+    "security guard badge shield symbol",
+    "soldier military person in uniform",
+    "judge person with a gavel in court",
+    "construction worker with a hard hat"
+  ],
+  "valid": [
+    "police officer icon",
+    "cop user symbol",
+    "law enforcement icon"
+  ],
+  "test": [
+    "police user icon",
+    "officer patrol symbol",
+    "user police badge icon"
+  ]
+}

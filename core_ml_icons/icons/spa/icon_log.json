@@ -1,0 +1,64 @@
+{
+  "icon": "spa",
+  "search_terms": [
+    "flora",
+    "massage",
+    "mindfulness",
+    "plant",
+    "wellness"
+  ],
+  "phrase_per_search_term": [
+    "tropical flora in a zen garden",
+    "flora arrangement at the spa entrance",
+    "deep tissue massage at the spa",
+    "massage table with soft towels",
+    "mindfulness meditation in a calm spa space",
+    "mindfulness session for stress relief",
+    "lush green plant in a spa lobby",
+    "plant icon for a wellness or nature app",
+    "wellness retreat at a luxury spa",
+    "wellness icon for a health tracking app"
+  ],
+  "regular": [
+    "lotus flower or leaf icon in a tranquil setting",
+    "book a spa treatment for relaxation",
+    "wellness category icon in a self-care app",
+    "delicate floral symbol suggesting peace and calm",
+    "spa day for a birthday or anniversary gift",
+    "beauty and wellness icon for a booking platform",
+    "soft leaf or flower motif on a spa sign",
+    "unwind with a spa massage after a stressful week",
+    "holistic health icon representing relaxation services",
+    "serene spa symbol with a botanical design"
+  ],
+  "conversational": [
+    "I need a spa icon for my wellness booking app",
+    "add a spa symbol to the relaxation section",
+    "show a spa icon for the self-care category",
+    "use the spa icon for the mindfulness feature"
+  ],
+  "typo": [
+    "sap treatment at the resort",
+    "spaa for a relaxing weekend",
+    "spa massge booking",
+    "spa mindfulnes retreat"
+  ],
+  "boundary": [
+    "yoga pose silhouette in a meditation app",
+    "person sitting in a lotus yoga pose",
+    "scented candle flickering on a wooden surface",
+    "aromatherapy candle with a calming fragrance",
+    "hot spring pool with steam rising from the water",
+    "steaming bath icon for a hot tub or sauna"
+  ],
+  "valid": [
+    "spa wellness icon with a botanical motif",
+    "relaxing spa treatment booking",
+    "spa symbol for a self-care app"
+  ],
+  "test": [
+    "spa icon for a wellness app",
+    "massage and spa service",
+    "spa leaf or flower motif"
+  ]
+}

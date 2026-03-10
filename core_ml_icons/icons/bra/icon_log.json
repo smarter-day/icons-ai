@@ -1,0 +1,61 @@
+{
+  "icon": "bra",
+  "search_terms": [
+    "bikini",
+    "bra",
+    "brassiere",
+    "swim"
+  ],
+  "phrase_per_search_term": [
+    "bikini top worn at the beach",
+    "bikini set for a summer vacation",
+    "bra fitting appointment at the lingerie store",
+    "bra size measured for the right support",
+    "brassiere with underwire for extra support",
+    "brassiere laundered with delicate care",
+    "swim top with built-in bra lining",
+    "swimwear category in a fashion app"
+  ],
+  "regular": [
+    "bra with two cups and adjustable straps",
+    "lingerie bra icon for a clothing or fashion app",
+    "sports bra worn during a workout session",
+    "underwire bra providing shape and support",
+    "bra hanging on a drying rack after washing",
+    "swimwear bra top for beachwear",
+    "bra size guide in an apparel shopping app",
+    "strapless bra worn under an evening dress",
+    "bra icon for a women's clothing category",
+    "padded bra for everyday comfortable wear"
+  ],
+  "conversational": [
+    "I need a bra icon for my fashion app",
+    "add a bra symbol to the lingerie section",
+    "show a bra for the women's clothing category",
+    "use the bra icon for the swimwear section"
+  ],
+  "typo": [
+    "sports bra wron during the workout",
+    "bra fittign appointment at the store",
+    "brasseire with underwire for support",
+    "swimear bra top for beach season"
+  ],
+  "boundary": [
+    "underwear briefs folded in a drawer",
+    "swimsuit one-piece full-body swim garment",
+    "tank top sleeveless shirt worn casually",
+    "shirt clothing top worn as outerwear",
+    "bikini bottom paired with a swim top",
+    "dress full garment for formal occasions"
+  ],
+  "valid": [
+    "bra lingerie icon",
+    "brassiere fashion symbol",
+    "bra clothing icon"
+  ],
+  "test": [
+    "bra swimwear icon",
+    "bra fashion app symbol",
+    "bra lingerie category"
+  ]
+}

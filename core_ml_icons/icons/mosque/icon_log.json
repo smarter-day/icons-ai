@@ -1,0 +1,67 @@
+{
+  "icon": "mosque",
+  "search_terms": [
+    "building",
+    "islam",
+    "landmark",
+    "mosque",
+    "muslim",
+    "religion"
+  ],
+  "phrase_per_search_term": [
+    "building with a dome and minaret silhouette",
+    "religious building recognized worldwide",
+    "islam practiced in the mosque daily",
+    "islamic worship inside the mosque",
+    "famous landmark mosque visited by tourists",
+    "landmark mosque in the city skyline",
+    "mosque crowded during Friday prayer",
+    "mosque icon for a prayer time app",
+    "muslim community gathering at the mosque",
+    "muslim worshipper removing shoes at the door",
+    "religion centered on prayer at the mosque",
+    "religion and community meeting place"
+  ],
+  "regular": [
+    "mosque with a large dome and tall minarets",
+    "islamic mosque silhouette at sunset",
+    "mosque icon for a prayer time or Quran app",
+    "Friday prayer congregation at the mosque",
+    "ornate mosque facade with geometric patterns",
+    "minaret tower of a mosque used for the call to prayer",
+    "mosque visited by Muslim pilgrims",
+    "local mosque serving the community",
+    "historic mosque landmark in a travel app",
+    "mosque symbol for an Islamic cultural app"
+  ],
+  "conversational": [
+    "I need a mosque icon for my prayer app",
+    "add a mosque symbol to the Islamic section",
+    "show a mosque for the prayer time feature",
+    "use the mosque icon for the Muslim community page"
+  ],
+  "typo": [
+    "mosque with a large doem and minarets",
+    "islmaic mosque silouhette at sunset",
+    "mosqe icon for the prayer time app",
+    "musim community gathering at the mosuqe"
+  ],
+  "boundary": [
+    "church Christian building with a steeple",
+    "temple Hindu or Buddhist religious building",
+    "synagogue Jewish place of worship",
+    "cathedral large Gothic Christian church",
+    "crescent moon and star Islamic symbol",
+    "prayer beads rosary for counting prayers"
+  ],
+  "valid": [
+    "mosque building icon",
+    "islamic mosque symbol",
+    "mosque prayer app icon"
+  ],
+  "test": [
+    "mosque landmark icon",
+    "muslim mosque symbol",
+    "mosque religion icon"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "icon": "car-bolt",
+  "search_terms": [
+    "auto",
+    "automobile",
+    "electric",
+    "ev",
+    "sedan",
+    "transportation",
+    "travel",
+    "vehicle"
+  ],
+  "phrase_per_search_term": [
+    "auto body repair shop for EVs",
+    "auto dealership showing electric models",
+    "automobile with a charging port open",
+    "automobile fleet transitioning to electric",
+    "electric car charging at the station",
+    "electric motor powering a quiet sedan",
+    "ev range shown on the dashboard",
+    "ev charger installed in the garage",
+    "sedan silhouette with a lightning bolt",
+    "sedan electric vehicle on the highway",
+    "public transportation going electric",
+    "transportation app tracking EV routes",
+    "travel by electric car on a road trip",
+    "travel range estimator for electric vehicles",
+    "electric vehicle registered in the fleet",
+    "vehicle log with charging history"
+  ],
+  "regular": [
+    "car with a lightning bolt symbol for electric vehicle",
+    "EV sedan charging at a public station",
+    "electric car icon with a bolt on the side",
+    "zero-emission vehicle badge for a clean car",
+    "electric car range indicator on the screen",
+    "EV charging port opened on the door",
+    "green energy electric car on the road",
+    "Tesla-style sedan with electric bolt logo",
+    "fleet management app for electric vehicles",
+    "electric car symbol for a transport booking app"
+  ],
+  "conversational": [
+    "I need an electric car icon for my EV app",
+    "add a car-bolt symbol to the charging section",
+    "show an EV icon for the green transport feature",
+    "use the car-bolt icon for the electric fleet tracker"
+  ],
+  "typo": [
+    "electirc car charging at the station",
+    "ev sedna with a lightning bolt icon",
+    "electic vehicle fleet management app",
+    "car-blt symbol for electric transport"
+  ],
+  "boundary": [
+    "gas pump fuel nozzle at a station",
+    "regular car sedan without electric badge",
+    "bicycle cycling green transport icon",
+    "bus electric public transport vehicle",
+    "scooter electric ride-sharing symbol",
+    "charging station plug connector icon"
+  ],
+  "valid": [
+    "electric car icon",
+    "EV car bolt symbol",
+    "car-bolt charging icon"
+  ],
+  "test": [
+    "electric vehicle bolt",
+    "EV sedan charging",
+    "car bolt electric icon"
+  ]
+}

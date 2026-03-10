@@ -1,0 +1,67 @@
+{
+  "icon": "volume",
+  "search_terms": [
+    "audio",
+    "control",
+    "medium",
+    "music",
+    "sound",
+    "speaker"
+  ],
+  "phrase_per_search_term": [
+    "audio volume control on a media player",
+    "audio level adjusted with a volume slider",
+    "control the volume from the notification bar",
+    "volume control knob on a stereo",
+    "medium volume for background listening",
+    "set to medium volume during the meeting",
+    "music volume turned up for the workout",
+    "lower the music volume at night",
+    "sound volume raised during a movie scene",
+    "decrease the sound volume in a quiet room",
+    "speaker volume icon in the phone status bar",
+    "speaker volume slider in audio settings"
+  ],
+  "regular": [
+    "speaker icon with sound waves indicating volume",
+    "adjust the volume with the slider in settings",
+    "audio control icon in a media or music app",
+    "volume icon with three curved sound wave arcs",
+    "turn up the volume during a workout playlist",
+    "system sound icon in phone or computer settings",
+    "speaker symbol with a single arc for low volume",
+    "tap the volume icon to mute or unmute audio",
+    "media player icon for controlling audio output",
+    "volume level bars rising with increasing sound"
+  ],
+  "conversational": [
+    "I need a volume icon for my media player app",
+    "add a volume symbol to the audio controls section",
+    "show a volume icon for the sound settings feature",
+    "use the volume icon for the media playback screen"
+  ],
+  "typo": [
+    "voulme turned up for the movie",
+    "volmue setting in the app",
+    "volumee on the media player",
+    "vlume slider in settings"
+  ],
+  "boundary": [
+    "mute icon with a crossed-out speaker",
+    "speaker with an X through it for muted audio",
+    "equalizer bars adjusting audio frequency levels",
+    "music equalizer with sliders for bass and treble",
+    "bookshelf speaker with a fabric cone driver",
+    "portable bluetooth speaker on a desk"
+  ],
+  "valid": [
+    "volume icon with sound wave arcs",
+    "audio volume control symbol",
+    "speaker volume in settings"
+  ],
+  "test": [
+    "turn up the volume in a music app",
+    "volume slider in phone settings",
+    "volume icon for a media player"
+  ]
+}

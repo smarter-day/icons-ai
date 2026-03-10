@@ -1,0 +1,76 @@
+{
+  "icon": "apple-whole",
+  "search_terms": [
+    "apple",
+    "fall",
+    "fruit",
+    "fuji",
+    "green",
+    "orchard",
+    "red",
+    "seasonal",
+    "vegan"
+  ],
+  "phrase_per_search_term": [
+    "red apple polished and ready to eat",
+    "apple slice in a lunchbox",
+    "fall harvest apple picking season",
+    "fall seasonal fruit at the market",
+    "fresh fruit bowl with apples and pears",
+    "fruit smoothie with apple and ginger",
+    "fuji apple crisp and sweet variety",
+    "fuji apple grown in Japanese orchards",
+    "green granny smith apple tart flavor",
+    "green apple sliced for a cheese board",
+    "apple orchard rows in autumn color",
+    "orchard ladder leaning against a tree",
+    "red delicious apple shiny and round",
+    "red apple core after taking a bite",
+    "seasonal apple cider pressed in autumn",
+    "seasonal fruit available in fall only",
+    "vegan snack of apple slices with almond butter",
+    "vegan diet includes whole fruits like apple"
+  ],
+  "regular": [
+    "whole red apple with a green leaf and stem",
+    "shiny apple sitting on a wooden desk",
+    "apple icon for a nutrition and diet app",
+    "teacher's desk with an apple on the corner",
+    "orchard-fresh apple crisp with caramel",
+    "apple cross-section showing core and seeds",
+    "granny smith green apple for a tart pie",
+    "apple cider pressed from fall harvest",
+    "apple emoji for healthy snack reminders",
+    "whole apple produce icon in a food journal"
+  ],
+  "conversational": [
+    "I need an apple icon for my diet tracker",
+    "add an apple symbol to the healthy snack section",
+    "show an apple for the orchard produce page",
+    "use the apple icon for the nutrition log"
+  ],
+  "typo": [
+    "ripe red aple from the orchard",
+    "fuji aplpe crisp and sweet",
+    "granny smtih green apple pie",
+    "seaosnal apple cider in the fall"
+  ],
+  "boundary": [
+    "pear green teardrop-shaped fruit with a stem",
+    "orange round citrus fruit with dimpled skin",
+    "tomato red round fruit on the vine",
+    "peach fuzzy round stone fruit with a pit",
+    "cherry small red fruit pair on a stem",
+    "computer apple logo monochrome brand mark"
+  ],
+  "valid": [
+    "whole apple fruit icon",
+    "red apple produce symbol",
+    "apple orchard icon"
+  ],
+  "test": [
+    "green apple snack",
+    "whole apple nutrition",
+    "apple fall harvest icon"
+  ]
+}

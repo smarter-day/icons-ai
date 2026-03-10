@@ -1,0 +1,67 @@
+{
+  "icon": "tent",
+  "search_terms": [
+    "bivouac",
+    "campground",
+    "campsite",
+    "refugee",
+    "shelter",
+    "tent"
+  ],
+  "phrase_per_search_term": [
+    "overnight bivouac on a mountain trail",
+    "minimalist bivouac shelter in the forest",
+    "campground map showing tent sites",
+    "campground with a fire pit and picnic table",
+    "campsite with a tent and sleeping bags",
+    "reserve a campsite for the weekend",
+    "refugee tent in an emergency relief camp",
+    "refugee shelter set up by aid workers",
+    "emergency shelter for disaster relief",
+    "waterproof shelter from the rain on a hike",
+    "dome tent pitched on flat ground",
+    "tent glowing from a lantern inside at night"
+  ],
+  "regular": [
+    "triangular tent pitched on a grassy meadow",
+    "camping overnight under the stars in a tent",
+    "outdoor adventure icon for a camping or hiking app",
+    "small dome tent with a zipped front entrance",
+    "set up the tent before it gets dark outside",
+    "campsite icon for a travel or outdoor activity app",
+    "tent silhouette with stakes and guy lines",
+    "backpacking tent packed into a compact carry bag",
+    "emergency shelter icon for a disaster relief app",
+    "family tent with multiple rooms and a rain fly"
+  ],
+  "conversational": [
+    "I need a tent icon for my camping planner app",
+    "add a tent symbol to the outdoor activities section",
+    "show a tent for the campsite booking feature",
+    "use the tent icon for the emergency shelter category"
+  ],
+  "typo": [
+    "tnet set up in the field",
+    "tentt with a rain fly",
+    "teny pitched for the night",
+    "ten pitched at the campsite"
+  ],
+  "boundary": [
+    "wooden log cabin in the forest clearing",
+    "rustic mountain cabin with a front porch",
+    "camper van parked at a campground",
+    "RV motorhome on a coastal road trip",
+    "hammock strung between two palm trees",
+    "camping hammock hanging over a forest stream"
+  ],
+  "valid": [
+    "dome tent pitched at a campsite",
+    "tent icon for a camping app",
+    "outdoor tent for overnight shelter"
+  ],
+  "test": [
+    "tent set up in the woods",
+    "camping tent under the stars",
+    "tent in a travel or camping app"
+  ]
+}

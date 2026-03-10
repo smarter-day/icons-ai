@@ -1,0 +1,55 @@
+{
+  "icon": "pear",
+  "search_terms": [
+    "fruit",
+    "pear"
+  ],
+  "phrase_per_search_term": [
+    "sweet pear fruit in a fruit bowl",
+    "fresh fruit icon for a recipe app",
+    "ripe green or yellow pear on a table",
+    "juicy pear ready to eat"
+  ],
+  "regular": [
+    "rounded pear shape narrowing toward the stem",
+    "bite into a ripe pear for a sweet snack",
+    "fruit icon for a grocery or recipe app",
+    "yellow-green pear with a curved stem on top",
+    "poached pear in a red wine sauce for dessert",
+    "fresh produce icon in a meal planning app",
+    "smooth teardrop-shaped pear with a small leaf",
+    "slice a pear into wedges for a cheese board",
+    "healthy snack icon for a nutrition tracker",
+    "glossy pear on a white background"
+  ],
+  "conversational": [
+    "I need a pear icon for my fruit tracker app",
+    "add a pear symbol to the fresh produce section",
+    "show a pear for the healthy snacks category",
+    "use the pear icon for the fruit and vegetables feature"
+  ],
+  "typo": [
+    "paer with a sweet juicy bite",
+    "pear wiht a leafy stem",
+    "pear fuit for a healthy snack",
+    "prear from the orchard"
+  ],
+  "boundary": [
+    "red apple with a leaf and stem",
+    "green apple sliced on a cutting board",
+    "halved avocado showing the large pit inside",
+    "ripe avocado with dark bumpy skin",
+    "dried fig cut in half showing the pink seeds",
+    "fresh fig with a purple skin and honey drizzle"
+  ],
+  "valid": [
+    "ripe pear with a curved stem",
+    "pear icon for a fruit app",
+    "yellow pear fruit"
+  ],
+  "test": [
+    "fresh pear from the orchard",
+    "pear in a grocery app",
+    "juicy pear as a healthy snack"
+  ]
+}
