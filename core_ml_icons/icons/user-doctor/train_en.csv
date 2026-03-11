@@ -45,9 +45,3 @@ docotr user profile,user-doctor
 phycisian health icon,user-doctor
 medcial worker doctor,user-doctor
 surgon profile user,user-doctor
-user person default profile,user-doctor
-nurse hat cross medical,user-doctor
-stethoscope doctor tool,user-doctor
-hospital building facility,user-doctor
-patient lying bed sick,user-doctor
-pharmacist drug medication,user-doctor

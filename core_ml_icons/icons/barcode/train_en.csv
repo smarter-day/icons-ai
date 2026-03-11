@@ -26,12 +26,6 @@ Scan the barcod,barcode
 Barcod scaner at checkout,barcode
 Chek price with barcode,barcode
 Scna the UPC code,barcode
-Scan the QR code,barcode
-Check the price tag,barcode
-Read the NFC tag,barcode
-Scan the receipt,barcode
-Price check at the register,barcode
-Read the product label,barcode
 Product info from barcode scan,barcode
 Laser scanner malfunction at the register,barcode
 Price check with barcode reader,barcode

@@ -57,12 +57,6 @@ locatoin dot on map,location-dot
 destinatoin pin dropped,location-dot
 naviagtion location marker,location-dot
 loaction pin dropped,location-dot
-crosshairs targeting a GPS coordinate,location-dot
-location crosshair reticle on map,location-dot
-outlined hollow location marker,location-dot
-location pin with question mark inside,location-dot
-navigation arrow pointing forward,location-dot
-map route line with waypoints,location-dot
 filled location drop showing the current place,location-dot
 single map marker for a saved nearby place,location-dot
 mark selected address,location-dot

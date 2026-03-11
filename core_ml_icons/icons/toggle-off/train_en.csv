@@ -27,9 +27,3 @@ togglee off switch,toggle-off
 swithc off button,toggle-off
 togle off setting,toggle-off
 disbaled toggle,toggle-off
-toggle on green active enabled,toggle-off
-checkbox unchecked empty,toggle-off
-radio button unselected,toggle-off
-power button off hold,toggle-off
-switch off wall light,toggle-off
-slider zero off position,toggle-off

@@ -59,7 +59,16 @@ def process_icon(icon_dir: Path, apply: bool) -> dict[str, object] | None:
     if not log_path.exists() or not train_path.exists():
         return None
 
-    boundary = set(json.load(log_path.open()).get("boundary", []))
+    log = json.load(log_path.open())
+    # Support two log formats:
+    # New: {"boundary": [...]}
+    # Old: {"categories": {"boundary": {"en": [...]}}}
+    boundary_list = (
+        log.get("boundary")
+        or (log.get("categories", {}).get("boundary", {}).get("en"))
+        or []
+    )
+    boundary = set(boundary_list)
     if not boundary:
         return None
 

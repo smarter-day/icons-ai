@@ -27,9 +27,3 @@ togglee on switch,toggle-on
 swithc on button,toggle-on
 togle on setting,toggle-on
 enanbled toggle,toggle-on
-toggle off grey inactive disabled,toggle-on
-checkbox checked filled tick,toggle-on
-radio button selected dot,toggle-on
-power button on start,toggle-on
-switch on wall light ceiling,toggle-on
-slider maximum full on,toggle-on

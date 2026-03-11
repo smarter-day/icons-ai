@@ -37,9 +37,3 @@ unlocekd padlock,lock-open
 opne lock symbol,lock-open
 padlokc open,lock-open
 secruity open lock,lock-open
-closed padlock securing the gate,lock-open
-metal key inserted in the keyhole,lock-open
-open door with the handle down,lock-open
-combination safe with the door open,lock-open
-biometric scan unlocking the device,lock-open
-access badge shown for entry,lock-open

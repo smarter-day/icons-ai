@@ -28,9 +28,3 @@ tarin track rails,train-track
 railraod crossing track,train-track
 trcaks parallel train,train-track
 rail trak junction,train-track
-subway train underground rail,train-track
-road highway asphalt driving,train-track
-bridge crossing over water,train-track
-runway airport airplane landing,train-track
-bike lane cycle path marking,train-track
-trolley cable car on track,train-track

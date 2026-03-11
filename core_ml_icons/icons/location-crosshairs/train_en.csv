@@ -41,12 +41,6 @@ loaction crosshairs,location-crosshairs
 naviagtion crosshair,location-crosshairs
 crosshars target,location-crosshairs
 coordiante marker,location-crosshairs
-red teardrop location pin dropped on map,location-crosshairs
-filled circle dot showing saved destination,location-crosshairs
-blue dot for current GPS position,location-crosshairs
-map pin with plus sign inside,location-crosshairs
-location dot marking a point of interest,location-crosshairs
-pushpin stuck on a map location,location-crosshairs
 precise GPS target centered under crosshairs,location-crosshairs
 locate me reticle for exact map positioning,location-crosshairs
 show where I am right now,location-crosshairs

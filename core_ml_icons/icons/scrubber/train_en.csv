@@ -24,9 +24,3 @@ timelin scrubber dot dragged to rewind,scrubber
 video payer seek scrubber on bar,scrubber
 podcsat scrubber jumping to timestamp,scrubber
 darg the scrubber to navigate video,scrubber
-volume slider bar adjusting sound level,scrubber
-brightness slider controlling screen intensity,scrubber
-progress bar showing percentage completed,scrubber
-toggle switch on and off button,scrubber
-seek bar in video player timeline,scrubber
-range slider with two handle endpoints,scrubber

@@ -718,7 +718,7 @@
   ],
   "skipped_icons": [],
   "row_counts": {
-    "train": 29499,
+    "train": 29764,
     "valid": 2133,
     "test": 2111
   }

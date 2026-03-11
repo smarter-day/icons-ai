@@ -52,9 +52,3 @@ relect both axes in design tool,reflect-both
 mirro image along center axes,reflect-both
 fliip horizontal and vertical combined,reflect-both
 swpa x and y axis orientation,reflect-both
-flip horizontal mirror left to right only,reflect-both
-flip vertical mirror top to bottom only,reflect-both
-rotate 90 degrees clockwise around center,reflect-both
-scale transform resizing object uniformly,reflect-both
-skew transform tilting object along axis,reflect-both
-crop tool removing edges of image,reflect-both

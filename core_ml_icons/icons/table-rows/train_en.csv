@@ -24,9 +24,3 @@ tabel rows data,table-rows
 spreadshet rows,table-rows
 taable row selected,table-rows
 cel in row,table-rows
-table columns vertical layout split,table-rows
-grid all cells visible table,table-rows
-list view items stacked vertical,table-rows
-chart bar graph horizontal bars,table-rows
-gantt chart timeline rows,table-rows
-calendar week rows days,table-rows

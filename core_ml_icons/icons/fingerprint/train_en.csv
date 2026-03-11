@@ -38,9 +38,3 @@ use the fingerprint icon for the unlock screen,fingerprint
 fingerpirnt scanner,fingerprint
 biometrc fingerprint,fingerprint
 fingerpint unlock,fingerprint
-face ID scan for biometric login,fingerprint
-retina eye scan for identification,fingerprint
-PIN code entry on the keypad,fingerprint
-access card with magnetic strip,fingerprint
-password field on the login screen,fingerprint
-hand scan for biometric authentication,fingerprint

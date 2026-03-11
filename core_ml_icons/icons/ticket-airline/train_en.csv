@@ -33,9 +33,3 @@ arplane ticket booking,ticket-airline
 boardig pass scan,ticket-airline
 deparutre flight gate,ticket-airline
 travell ticket airline,ticket-airline
-train ticket rail travel,ticket-airline
-bus ticket ground transport,ticket-airline
-concert event ticket stub,ticket-airline
-parking ticket fine penalty,ticket-airline
-passport travel document,ticket-airline
-baggage claim luggage tag,ticket-airline

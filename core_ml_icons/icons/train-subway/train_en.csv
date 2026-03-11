@@ -28,9 +28,3 @@ subay train metro,train-subway
 railwy subway train,train-subway
 commut subway train,train-subway
 tranit subway vehicle,train-subway
-tram light rail street level,train-subway
-bus public transit route,train-subway
-commuter train overground rail,train-subway
-monorail elevated single rail,train-subway
-funicular cable car steep hill,train-subway
-high speed train bullet train,train-subway
