@@ -1,338 +1,236 @@
 # Icon Dataset Agent Context
 
-## Задача
-Генерация датасета для Core ML BERT-эмбеддинг модели — поиск иконок по естественному тексту в приложении Smarter Day iOS. Пользователь вводит название задачи/события → модель предлагает иконку.
-
-## Источник данных об иконках
-**`icons.json`** — полная база FontAwesome (~3800+ иконок), формат словаря:
-```json
-{
-  "key": {
-    "label": "Anchor",
-    "unicode": "f13d",
-    "styles": ["solid", "regular"],
-    "search": { "terms": ["anchor", "boat", "dock", ...] }
-  }
-}
-```
-> Всегда брать `search.terms` из `icons.json` — это официальные поисковые термины иконки.
-> Некоторые термины — технические артефакты (Unicode-имена, "uer", дубли) — их пропускать.
-
-## Текущее состояние (2026-03-10)
-- **711 иконок** добавлены в основной набор (`icon_browser/icons-data.js`)
-- **711 иконок** имеют обучающие данные в `icons/`
-- Кандидаты для отбора: **~3493** иконок в `icon_browser/candidates-data.js`
-
-## Editorial policy
-- Никакой автоматической генерации выражений.
-- Никакого автоматического машинного перевода как финального датасета.
-- Все новые фразы и переводы создаются вручную или вручную редактируются до естественного состояния.
-- `en` и `ru` должны развиваться синхронно: новые строки добавляются парой.
-- Каждое выражение должно быть осмысленным и помогать различать конкретную иконку.
-- Основной тип выражений: названия задач, короткие task-like intents и живые поисковые запросы пользователя.
-- Базовый вопрос при создании строки: "что пользователь напишет в названии задачи, чтобы ожидать эту иконку?"
-- Визуальные описания иконки допустимы только как вторичный слой, а не как основа датасета.
-- Перед добавлением новых фраз проверять, входит ли иконка в группу из `docs/icon-semantic-groups.yml`.
-- Для полного покрытия по всем иконкам использовать `docs/icon-semantic-coverage.json`.
-- Перед пополнением или слиянием датасета запускать `python3 scripts/audit_icon_dataset.py`.
+## Purpose
+Generate a bilingual (EN + RU) training dataset for a Core ML BERT text classifier.
+The model maps user task text → FontAwesome icon in the Smarter Day iOS app.
+**Primary signal:** user types a task title → model suggests a matching icon.
 
 ---
 
-## Флоу работы
+## Current Dataset State (2026-03-11)
+- **711 icons** in the main set (`icon_browser/icons-data.js`)
+- **711 icons** have training data in `icons/`
+- Avg EN train rows per icon: **~37** (target: 60+)
+- Icons with < 30 EN rows: **~141**
+- Icons with 30–49 EN rows: **~521**
+- Candidates for future addition: **~3493** in `icon_browser/candidates-data.js`
 
-### Шаг 1 — Пользователь выбирает иконки
-Пользователь смотрит браузер (`icon_browser/index.html`) в режиме Candidates и выбирает список иконок для добавления в основной набор. Присылает список названий.
-
-### Шаг 2 — Получить search terms из icons.json
-```python
-python3 -c "
-import json
-with open('icons.json') as f:
-    data = json.load(f)
-targets = ['anchor', 'bell', ...]  # список от пользователя
-for key, val in data.items():
-    label = val.get('label','')
-    name = label.lower().replace(' ', '-')
-    if name in targets:
-        terms = val.get('search',{}).get('terms',[])
-        uni = val.get('unicode','')
-        print(f'{name} ({uni}): {terms}')
-"
-```
-
-### Шаг 3 — Создать gen_icons скрипт с обучающими данными
-Имя файла: `gen_icons_{N_start}_{N_end}.py` (нумерация по общему счётчику иконок).
-
-**Текущий счётчик:** последний скрипт — `gen_icons_465_475.py`, следующий начинается с **476**.
-
-Структура скрипта — строго по шаблону (см. раздел «Шаблон скрипта» ниже).
-
-### Шаг 4 — Запустить скрипт
-```bash
-python3 gen_icons_NNN_MMM.py
-```
-Скрипт создаёт папки в `icons/{icon_name}/` с файлами:
-- `train_en.csv`, `valid_en.csv`, `test_en.csv`
-- `icon_log.json`
-
-### Шаг 4.1 — Создать и проверить русские пары вручную
-- Для каждой новой английской строки сразу создать естественную русскую пару.
-- Не копировать английские строки в `ru` и не использовать авто-перевод как готовый результат.
-- После пополнения прогонять `python3 scripts/audit_icon_dataset.py` и исправлять найденные проблемы.
-
-### Шаг 5 — Обновить icons-data.js и пересоздать candidates-data.js
-```python
-python3 << 'EOF'
-import re, json
-
-new_icons = [
-    {"name": "anchor", "canonical": "anchor", "unicode": "f13d", "label": "Anchor", "alias": False},
-    # ... остальные
-]
-
-# --- Обновить icons-data.js ---
-with open('icon_browser/icons-data.js') as f:
-    content = f.read()
-match = re.search(r'window\.ICON_DATA\s*=\s*(\[[\s\S]*?\])\s*;?', content)
-data = json.loads(match.group(1))
-existing = {i['name'] for i in data}
-added = [i for i in new_icons if i['name'] not in existing]
-data.extend(added)
-data.sort(key=lambda x: x['name'])
-
-lines = ['// Auto-generated icon data for local browser\n// Created by Igor Djugostran\n\nwindow.ICON_DATA = [\n']
-for i, icon in enumerate(data):
-    comma = ',' if i < len(data) - 1 else ''
-    lines.append(f'  {json.dumps(icon)}{comma}\n')
-lines.append('];\n')
-with open('icon_browser/icons-data.js', 'w') as f:
-    f.writelines(lines)
-
-# --- Пересоздать candidates-data.js ---
-with open('icons.json') as f:
-    raw = json.load(f)
-processed = {i['name'] for i in data}
-candidates = [
-    {"name": v.get('label','').lower().replace(' ','-'), "unicode": v.get('unicode',''), "label": v.get('label','')}
-    for v in raw.values()
-    if v.get('label','').lower().replace(' ','-') not in processed
-]
-# Сортировка: 1 слово → 2 слова → 3 слова (по дефисам), внутри — алфавит
-candidates.sort(key=lambda x: (len(x['name'].split('-')), x['name']))
-
-# Построить IRRELEVANT_ICONS
-with open('categories.yml') as f:
-    yml = f.read()
-IRRELEVANT_CATS = {'arrows','alphabet','numbers','punctuation-symbols','spinners','text-formatting','toggle','coding'}
-irrelevant = set()
-current_cat = None; in_block = False
-for line in yml.splitlines():
-    if re.match(r'^[a-z][\w-]+:$', line):
-        current_cat = line[:-1]; in_block = False
-    elif re.match(r'^  icons:$', line):
-        in_block = True
-    elif in_block and re.match(r'^    - ', line):
-        if current_cat in IRRELEVANT_CATS:
-            irrelevant.add(line.strip()[2:].strip().strip('"\''))
-    elif re.match(r'^  [a-z]', line):
-        in_block = False
-for v in raw.values():
-    if v.get('styles',[]) == ['brands']:
-        irrelevant.add(v.get('label','').lower().replace(' ','-'))
-
-out = ('// Auto-generated: core_ml_icons/icons.json minus current ICON_DATA\n'
-       'window.IRRELEVANT_ICONS = new Set(' + json.dumps(sorted(irrelevant)) + ');\n'
-       'window.CANDIDATE_DATA = ' + json.dumps(candidates) + ';\n')
-with open('icon_browser/candidates-data.js', 'w') as f:
-    f.write(out)
-
-print(f"icons-data.js: {len(data)} icons (+{len(added)})")
-print(f"candidates-data.js: {len(candidates)} candidates")
-EOF
-```
+**Active plan:** `docs/plans/icon-dataset-rewrite-plan.md`
 
 ---
 
-## Структура файлов проекта
+## File Structure
 
 ```
 core_ml_icons/
-├── icons.json                     ← источник truth: все иконки + search terms + unicode
-├── categories.yml                 ← категории для IRRELEVANT_ICONS фильтра
-├── AGENT_CONTEXT.md               ← этот файл
+├── icons.json                      ← source of truth: all icons + search terms + unicode
+├── categories.yml                  ← IRRELEVANT_ICONS filter for the browser
+├── AGENT_CONTEXT.md                ← this file
 │
-├── icons/{icon_name}/             ← обучающие данные по каждой иконке
-│   ├── train_en.csv
+├── icons/{icon_name}/              ← training data per icon
+│   ├── train_en.csv                — text,label
+│   ├── train_ru.csv
 │   ├── valid_en.csv
 │   ├── test_en.csv
-│   ├── train_ru.csv
 │   ├── valid_ru.csv
 │   ├── test_ru.csv
 │   └── icon_log.json
 │
-├── gen_icons_100_119.py           ← скрипты генерации (исторические + новые)
-├── gen_icons_120_149.py
-│   ... (до gen_icons_465_475.py)
+├── merged_icons_dataset/           ← rebuilt by merge_icon_datasets.py
+├── scripts/
+│   ├── audit_icon_dataset.py       ← run after every change
+│   ├── merge_icon_datasets.py      ← merge: --lang en --allow-missing
+│   ├── remove_devspeak.py          ← remove "I need a X icon for..." patterns
+│   └── remove_crossicon_ambiguous.py
+│
+├── docs/
+│   ├── icon-dataset-editorial-guide.md
+│   ├── icon-semantic-groups.yml    ← groups of semantically close icons
+│   ├── icon-semantic-coverage.json ← full coverage: grouped, pair-risk, isolated
+│   └── plans/
+│       └── icon-dataset-rewrite-plan.md   ← CURRENT WORK PLAN
 │
 └── icon_browser/
-    ├── index.html                 ← браузер иконок
-    ├── icons-data.js              ← window.ICON_DATA (711 иконок в наборе)
-    └── candidates-data.js         ← window.IRRELEVANT_ICONS + window.CANDIDATE_DATA
+    ├── index.html
+    ├── icons-data.js               ← window.ICON_DATA (711 icons)
+    └── candidates-data.js          ← window.IRRELEVANT_ICONS + window.CANDIDATE_DATA
 ```
-
-### Важные файлы:
-| Файл | Назначение |
-|------|-----------|
-| `icons.json` | Источник search terms и unicode для всех иконок |
-| `icon_browser/icons-data.js` | Основной набор (добавленные иконки) |
-| `icon_browser/candidates-data.js` | Кандидаты + фильтр нерелевантных |
-| `icons/` | Обучающие данные по каждой иконке |
-| `docs/icon-dataset-editorial-guide.md` | Правила ручной генерации и перевода |
-| `docs/icon-semantic-groups.yml` | Группы иконок с близким смыслом и правила различения |
-| `docs/icon-semantic-coverage.json` | Полное покрытие всех иконок: grouped, pair-risk, isolated |
-| `scripts/audit_icon_dataset.py` | Аудит синхронизации, leakage и качества данных |
 
 ---
 
-## Шаблон gen_icons скрипта
+## Editorial Rules (Non-Negotiable)
 
-```python
-#!/usr/bin/env python3
-"""Generate English training data for icons NNN-MMM."""
+1. **No automatic phrase generation.** Every phrase is written or reviewed by a human.
+2. **No raw machine translation.** Translation tools can be used as a rough draft only.
+3. **EN and RU must stay in sync.** Every new `train_en` row needs a `train_ru` row with the same intent. Same for valid/test.
+4. **Task-first phrasing.** The default question is: *"What would a user type as a task title to expect this icon?"*
+   - ✅ `buy bell peppers` / `купить болгарский перец`
+   - ❌ `bright red pepper with green stem` (visual description)
+   - ❌ `I need a pepper icon for my recipe app` (developer-speak)
+5. **No overly broad terms** without context: `food`, `travel`, `tool`, `holiday`.
+6. **Boundary phrases** (describes a DIFFERENT neighbouring icon) must NOT go into `train_en.csv` or `train_ru.csv`. They stay in `icon_log.json` only.
+
+---
+
+## New Phrase Template (Task-First)
+
+Use this for all new data. Target: **60 rows per icon** (EN) + **60 rows** (RU).
+
+### EN categories
+
+| # | Category | Count | Example (pepper) |
+|---|----------|-------|-----------------|
+| 1 | Keyword / search term | 3–5 | `bell pepper`, `capsicum` |
+| 2 | Direct task — action verb | 8–10 | `buy bell peppers`, `slice peppers for stir fry` |
+| 3 | Contextual task — with time or purpose | 6–8 | `peppers for Sunday dinner`, `don't forget peppers for taco night` |
+| 4 | Short / power-user | 4–5 | `need peppers`, `peppers - grocery run` |
+| 5 | Conversational | 4–5 | `we're out of peppers — need to buy some` |
+| 6 | Realistic typos | 4 | `pepepr sliced`, `bel pepper from store` |
+| 7 | Boundary (in `icon_log.json` only — NOT in train CSV) | 5–6 | describes avocado/chili/tomato |
+
+### RU follows the same structure
+Write naturally in Russian — not a literal translation.
+```
+болгарский перец          ← keyword
+купить болгарский перец   ← direct task
+перцы для воскресного ужина  ← contextual
+нужны перцы              ← short
+перцы закончились — надо купить  ← conversational
+перец нарблен для стир-фрая  ← typo
+```
+
+---
+
+## Current Workflow: Expand Existing Icons
+
+### Step 0 — Check current state
+```bash
+python3 scripts/audit_icon_dataset.py 2>&1 | head -20
+
+# Find lowest-coverage icons:
+python3 - <<'EOF'
+import csv
 from pathlib import Path
-import csv, json
+stats = [(sum(1 for _ in csv.DictReader(open(d/"train_en.csv"))), d.name)
+         for d in Path("icons").iterdir()
+         if d.is_dir() and (d/"train_en.csv").exists()]
+for r, n in sorted(stats)[:25]:
+    print(f"{n}: {r}")
+EOF
+```
+
+### Step 1 — Read existing data before writing anything
+```bash
+cat icons/{icon}/train_en.csv
+cat icons/{icon}/train_ru.csv
+```
+Check for: boundary rows that snuck into train, bad machine translations,
+visual descriptions, developer-speak.
+
+### Step 2 — Write batch script
+
+Name: `gen_icons_task_NNN.py` (increment NNN each batch).
+
+**Standard helper:**
+```python
+import csv
+from pathlib import Path
 
 icons_dir = Path("icons")
-icons_dir.mkdir(exist_ok=True)
 
-def write_csv(path, rows):
-    with open(path, "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        w.writerow(["text", "label"])
-        w.writerows(rows)
+def read_texts(path):
+    if not path.exists(): return []
+    with path.open(encoding="utf-8", newline="") as f:
+        return [r["text"].strip() for r in csv.DictReader(f)]
 
-def process_icon(icon, st_en, pst_en, reg_en, conv_en, typo_en, bnd_en, valid_en, test_en):
-    icon_dir = icons_dir / icon
-    icon_dir.mkdir(parents=True, exist_ok=True)
-    train_en = [(t, icon) for t in st_en + pst_en + reg_en + conv_en + typo_en + bnd_en]
-    write_csv(icon_dir / "train_en.csv", train_en)
-    write_csv(icon_dir / "valid_en.csv", [(t, icon) for t in valid_en])
-    write_csv(icon_dir / "test_en.csv",  [(t, icon) for t in test_en])
-    log = {
-        "icon": icon, "search_terms": st_en, "phrase_per_search_term": pst_en,
-        "regular": reg_en, "conversational": conv_en, "typo": typo_en,
-        "boundary": bnd_en, "valid": valid_en, "test": test_en,
-    }
-    with open(icon_dir / "icon_log.json", "w", encoding="utf-8") as f:
-        json.dump(log, f, ensure_ascii=False, indent=2)
-    n_st = len(st_en); n_pst = len(pst_en)
-    print(f"  {icon}: {len(train_en)} train rows  ({n_st} st + {n_pst} pst + 24)")
+def remove_rows(path, bad: set) -> int:
+    if not path.exists(): return 0
+    with path.open(encoding="utf-8", newline="") as f:
+        rows = list(csv.DictReader(f))
+    kept = [r for r in rows if r["text"].strip() not in bad]
+    removed = len(rows) - len(kept)
+    if removed:
+        with path.open("w", encoding="utf-8", newline="") as f:
+            w = csv.DictWriter(f, fieldnames=["text", "label"])
+            w.writeheader()
+            w.writerows(kept)
+    return removed
 
-process_icon("anchor",
-    st_en=["anchor", "boat", "dock", ...],   # из icons.json search.terms
-    pst_en=[
-        # 2 фразы на каждый term (итого len(st_en) × 2)
-        "drop anchor in the harbor", "ship anchor holding vessel",
-        ...
-    ],
-    reg_en=[
-        # 10 естественных описательных фраз (visual / use-case / professional)
-        ...
-    ],
-    conv_en=[
-        # 4 разговорных фразы со стартером:
-        # "I need a X icon for...", "add a X symbol to...",
-        # "show a X for...", "use the X icon for..."
-        ...
-    ],
-    typo_en=[
-        # 4 реалистичных опечатки (перестановка букв, пропуск буквы, соседняя клавиша)
-        ...
-    ],
-    bnd_en=[
-        # 6 фраз описывающих ДРУГУЮ похожую иконку (для обучения различению)
-        ...
-    ],
-    valid_en=["...", "...", "..."],   # 3 чистых фразы
-    test_en=["...", "...", "..."],    # 3 чистых фразы
-)
+def append_csv(path, rows):
+    with path.open("a", encoding="utf-8", newline="") as f:
+        csv.writer(f).writerows(rows)
+
+def expand(icon, new_en, new_ru, fix_en=None, fix_ru=None):
+    """Add new rows; optionally remove known-bad rows first."""
+    assert len(new_en) == len(new_ru), f"{icon}: EN/RU count mismatch"
+    en_path = icons_dir / icon / "train_en.csv"
+    ru_path = icons_dir / icon / "train_ru.csv"
+    rem_en = remove_rows(en_path, set(fix_en or []))
+    rem_ru = remove_rows(ru_path, set(fix_ru or []))
+    existing_en = set(read_texts(en_path))
+    existing_ru = set(read_texts(ru_path))
+    add_en = [(t, icon) for t in new_en if t not in existing_en]
+    add_ru = [(t, icon) for t in new_ru if t not in existing_ru]
+    append_csv(en_path, add_en)
+    append_csv(ru_path, add_ru)
+    fix_note = f" (fixed EN:{rem_en} RU:{rem_ru})" if (rem_en or rem_ru) else ""
+    print(f"  {icon}: +{len(add_en)} EN  +{len(add_ru)} RU{fix_note}")
 ```
 
-### Формула train rows:
-```
-train = len(st_en) + 2×len(st_en) + 10 reg + 4 conv + 4 typo + 6 bnd
-      = 3×len(st_en) + 24
+### Step 3 — Run, merge, audit, commit
+```bash
+python3 gen_icons_task_NNN.py
+python3 scripts/merge_icon_datasets.py --lang en --allow-missing
+python3 scripts/merge_icon_datasets.py --lang ru --allow-missing
+python3 scripts/audit_icon_dataset.py | head -20
+git add -A && git commit -m "Add task-style phrases: batch NNN (icons X–Y)"
 ```
 
 ---
 
-## Правила качества фраз
+## Adding New Icons (if needed)
 
-### search_terms (st_en)
-- Берутся как есть из `icons.json`
-- Пропускать: Unicode-имена в PascalCase ("Raised Hand"), явные опечатки ("uer"), дубли
-- Пропускать: многословные термины когда есть однословный эквивалент ("adhesive bandage" → есть "bandage")
-- Пропускать: названия брендов ("burger king", "mcdonalds", "tesla")
+### Get search terms from icons.json
+```python
+import json
+with open("icons.json") as f:
+    data = json.load(f)
+targets = ["anchor", "bell"]
+for key, val in data.items():
+    name = val.get("label","").lower().replace(" ","-")
+    if name in targets:
+        print(name, val.get("search",{}).get("terms",[]))
+```
 
-### phrase_per_search_term (pst_en)
-- **2 фразы на каждый термин** — НЕ повторение термина, а фраза с ним в контексте
-- ❌ `"anchor anchor tool"` → ✅ `"drop anchor in the harbor"`
-
-### regular (reg_en) — 10 фраз, минимум 3 разных структуры:
-- **Visual**: как выглядит → `"heavy iron anchor with chain on the dock"`
-- **Use-case**: для чего → `"anchor holding the vessel in the storm"`
-- **Professional**: профессиональный контекст → `"HTML anchor tag for navigation links"`
-
-### conversational (conv_en) — 4 фразы, всегда со стартером:
-- `"I need a X icon for [context]"`
-- `"add a X symbol to [screen]"`
-- `"show a X for [feature]"`
-- `"use the X icon for [section]"`
-
-### typo (typo_en) — 4 реалистичных опечатки:
-- Перестановка: `"ancor"` (пропуск h)
-- Транспозиция: `"baot"` (o/a)
-- Соседняя клавиша: `"ankhor"` (n→nk)
-
-### boundary (bnd_en) — 6 фраз описывают ДРУГУЮ иконку:
-- Выбрать 1–2 визуально похожих иконки и описать ИХ
-- ❌ описывать ту же иконку → ✅ описывать hook/chain/buoy для anchor
-- Иконки с похожими search_terms должны различаться через boundary
+### Update icon_browser after adding
+```python
+# See full script in git history (gen_icons_* scripts, Step 5)
+# Key: update icons-data.js, then regenerate candidates-data.js
+# Candidates sort: key=lambda x: (len(x['name'].split('-')), x['name'])
+```
 
 ---
 
-## Браузер иконок (icon_browser)
+## Quality Checklist (per phrase)
 
-### Режимы:
-- **List / Gallery** — просмотр основного набора (ICON_DATA)
-- **Candidates** — просмотр кандидатов (CANDIDATE_DATA)
-
-### Фильтр нерелевантных:
-Чекбокс «Hide irrelevant icons» скрывает иконки из `IRRELEVANT_ICONS`:
-- Категории: `arrows`, `alphabet`, `numbers`, `punctuation-symbols`, `spinners`, `text-formatting`, `toggle`, `coding`
-- Бренды: иконки где `styles == ["brands"]`
-- **Всего ~1244 нерелевантных иконок**
-
-### Сортировка кандидатов:
-По количеству слов в имени (дефис = разделитель), затем алфавит:
-1. Одиночные слова: `acorn`, `alien`, `anchor`...
-2. Двойные: `address-book`, `bell-on`...
-3. Тройные: `album-circle-plus`...
-
-### Обновление candidates-data.js:
-Пересоздаётся каждый раз при добавлении иконок в ICON_DATA (Шаг 5).
-Содержит `IRRELEVANT_ICONS` + `CANDIDATE_DATA`.
+- [ ] Sounds like a real task title a user would type in Smarter Day?
+- [ ] Specific enough to point to this icon, not a neighbour?
+- [ ] Natural in the language (EN or RU)?
+- [ ] NOT a visual description of the icon?
+- [ ] NOT a developer/designer phrase?
+- [ ] Boundary phrases are in `icon_log.json` only, NOT in train CSV?
+- [ ] EN and RU row counts are equal?
 
 ---
 
-## Частые ошибки
+## Common Mistakes
 
-| Ошибка | Правильно |
-|--------|-----------|
-| Брать search terms из icons.claude.json | Брать из **icons.json** |
-| Сохранять данные в `icons_data/` | Сохранять в **`icons/`** |
-| Забыть пересоздать candidates-data.js | Всегда выполнять Шаг 5 после добавления |
-| Не сохранить IRRELEVANT_ICONS при пересоздании | Всегда включать в candidates-data.js |
-| Нарушить сортировку кандидатов | `sort(key=lambda x: (len(x['name'].split('-')), x['name']))` |
-| boundary описывает ту же иконку | boundary = описание ДРУГОЙ похожей иконки |
-| Механическое повторение в pst | `"anchor anchor"` — плохо, нужен контекст |
+| Wrong | Correct |
+|-------|---------|
+| `bnd_en` rows in `train_en.csv` | boundary stays in `icon_log.json` only |
+| `"bright red pepper with green stem"` in train | use task-style: `"buy bell peppers"` |
+| `"I need a pepper icon for my app"` | not a user task — remove |
+| Raw machine translation in RU | write naturally, use translation as draft only |
+| EN and RU row counts unequal | always assert equal counts in script |
+| `icons_data/` directory | save to `icons/` |
+| search terms from `icons.claude.json` | always use `icons.json` |
