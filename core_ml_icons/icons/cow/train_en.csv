@@ -1,9 +1,6 @@
 text,label
-agriculture,cow
-beef,cow
 bovine,cow
 cow,cow
-farm,cow
 livestock,cow
 milk,cow
 moo,cow
@@ -19,7 +16,6 @@ See the cows in the field,cow
 Pet the cow at the farm,cow
 Visit the local farm,cow
 Spot wildlife and fauna,cow
-Learn about local fauna,cow
 Buy livestock at the auction,cow
 Care for livestock,cow
 See the large mammals at the farm,cow

@@ -1,15 +1,8 @@
 text,label
-clock,clock
-date,clock
 hour,clock
 late,clock
 minute,clock
-pending,clock
-schedule,clock
-time,clock
-timer,clock
 timestamp,clock
-watch,clock
 Check the clock on the wall,clock
 Hang a new clock in the kitchen,clock
 Check today's date,clock

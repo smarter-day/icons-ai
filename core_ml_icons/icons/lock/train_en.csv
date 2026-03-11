@@ -1,13 +1,6 @@
 text,label
-admin,lock
 closed,lock
-lock,lock
 locked,lock
-padlock,lock
-password,lock
-privacy,lock
-private,lock
-protect,lock
 security,lock
 admin lock for restricted access,lock
 lock for admin only area,lock

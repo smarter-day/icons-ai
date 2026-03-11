@@ -1,19 +1,15 @@
 text,label
-archive,mailbox
 closed,mailbox
 closed mailbox with lowered flag,mailbox
 envelope,mailbox
 letter,mailbox
 lowered,mailbox
-mail,mailbox
 mailbox,mailbox
 newsletter,mailbox
-offer,mailbox
 post office,mailbox
 postal,mailbox
 postbox,mailbox
 postcard,mailbox
-send,mailbox
 stamp,mailbox
 usps,mailbox
 archive old messages in mailbox,mailbox

@@ -1,5 +1,4 @@
 text,label
-edit,reflect-both
 exchange,reflect-both
 flip,reflect-both
 horizontal,reflect-both
@@ -9,7 +8,6 @@ mirror,reflect-both
 negative,reflect-both
 reflect,reflect-both
 swap,reflect-both
-target,reflect-both
 vertical,reflect-both
 edit tool for flipping image both axes,reflect-both
 image edit with reflect on both sides,reflect-both

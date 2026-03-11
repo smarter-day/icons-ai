@@ -1,5 +1,4 @@
 text,label
-airplane,ticket-airline
 arrival,ticket-airline
 boarding pass,ticket-airline
 departure,ticket-airline

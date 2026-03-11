@@ -1,14 +1,9 @@
 text,label
-covid-19,user-doctor
-health,user-doctor
 job,user-doctor
-medical,user-doctor
 nurse,user-doctor
 occupation,user-doctor
 physician,user-doctor
-profile,user-doctor
 surgeon,user-doctor
-uer,user-doctor
 worker,user-doctor
 covid-19 doctor treating patient,user-doctor
 frontline doctor COVID pandemic,user-doctor

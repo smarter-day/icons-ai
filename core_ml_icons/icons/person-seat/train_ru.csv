@@ -1,9 +1,6 @@
 text,label
-самолёт,person-seat
 проход,person-seat
-кресло,person-seat
 откидываться,person-seat
-сиденье,person-seat
 пассажир самолёта в кресле,person-seat
 схема посадочных мест самолёта,person-seat
 кресло у прохода в самолёте,person-seat

@@ -1,10 +1,4 @@
 text,label
-box,truck-ramp
-cargo,truck-ramp
-delivery,truck-ramp
-inventory,truck-ramp
-moving,truck-ramp
-rental,truck-ramp
 box truck ramp loading,truck-ramp
 truck ramp with boxes,truck-ramp
 cargo truck ramp unload,truck-ramp

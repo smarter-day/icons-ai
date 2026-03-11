@@ -8,7 +8,6 @@ invoice,receipt
 pay,receipt
 proof,receipt
 receipt,receipt
-table,receipt
 accounting ledger with receipt records,receipt
 accounting document for expense tracking,receipt
 bookkeeping entries on receipt,receipt

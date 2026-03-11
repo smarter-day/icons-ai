@@ -2,12 +2,9 @@ text,label
 human,fingerprint
 id,fingerprint
 identification,fingerprint
-lock,fingerprint
-privacy,fingerprint
 smudge,fingerprint
 touch,fingerprint
 unique,fingerprint
-unlock,fingerprint
 human fingerprint on the surface,fingerprint
 human fingerprint unique pattern,fingerprint
 ID fingerprint for identification,fingerprint

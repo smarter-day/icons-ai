@@ -1,5 +1,4 @@
 text,label
-directions,route
 turn-by-turn directions on navigation app,route
 driving directions to the destination,route
 navigation path from A to B,route

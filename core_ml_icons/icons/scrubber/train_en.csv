@@ -1,7 +1,5 @@
 text,label
-circle,scrubber
 dot,scrubber
-toggle,scrubber
 circle dot on media timeline scrubber,scrubber
 progress circle scrubber handle,scrubber
 dot indicator on playback position,scrubber

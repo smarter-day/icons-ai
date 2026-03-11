@@ -1,7 +1,4 @@
 text,label
-charge,battery-bolt
-power,battery-bolt
-status,battery-bolt
 charge the phone overnight,battery-bolt
 check the power level,battery-bolt
 check battery status,battery-bolt

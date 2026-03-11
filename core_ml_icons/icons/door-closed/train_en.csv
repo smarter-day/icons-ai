@@ -1,9 +1,7 @@
 text,label
-door,door-closed
 enter,door-closed
 exit,door-closed
 locked,door-closed
-privacy,door-closed
 Close the door behind you,door-closed
 Install a new door,door-closed
 Enter the building through the door,door-closed

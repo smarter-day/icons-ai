@@ -1,7 +1,5 @@
 text,label
-cell,table-rows
 spreadsheet,table-rows
-table,table-rows
 cell in table row highlighted,table-rows
 cell value in row,table-rows
 spreadsheet row data entry,table-rows

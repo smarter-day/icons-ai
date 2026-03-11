@@ -1,7 +1,5 @@
 text,label
 forward,share-nodes
-save,share-nodes
-send,share-nodes
 social,share-nodes
 forward link to another node,share-nodes
 forward post in social network,share-nodes

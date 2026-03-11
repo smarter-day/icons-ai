@@ -1,7 +1,5 @@
 text,label
 forward,share-all
-save,share-all
-send,share-all
 social,share-all
 forward all content to recipients,share-all
 forward all messages at once,share-all

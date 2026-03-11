@@ -1,7 +1,5 @@
 text,label
-дыхание,mask-ventilator
 газ,mask-ventilator
-маска,mask-ventilator
 кислород,mask-ventilator
 респиратор,mask-ventilator
 вентилятор,mask-ventilator

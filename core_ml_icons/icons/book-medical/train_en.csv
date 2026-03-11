@@ -1,12 +1,5 @@
 text,label
-diary,book-medical
-documentation,book-medical
-health,book-medical
 history,book-medical
-journal,book-medical
-library,book-medical
-read,book-medical
-research,book-medical
 medical diary tracking daily symptoms,book-medical
 diary of patient observations logged daily,book-medical
 clinical documentation filed after each visit,book-medical
@@ -43,9 +36,3 @@ medical diray tracking patient symptoms,book-medical
 clincial documentation filed after visit,book-medical
 helath history reviewed before operation,book-medical
 patinet record updated after appointment,book-medical
-clipboard with a patient checklist attached,book-medical
-stethoscope doctor listening to heartbeat,book-medical
-pill bottle prescription medication container,book-medical
-heart rate monitor ECG waveform icon,book-medical
-folder patient file stored in a cabinet,book-medical
-notebook plain journal without medical cross,book-medical

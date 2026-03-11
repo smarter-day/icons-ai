@@ -1,8 +1,6 @@
 text,label
 button,toggle-off
 off,toggle-off
-on,toggle-off
-switch,toggle-off
 button toggle off disabled,toggle-off
 toggle button in off state,toggle-off
 switch turned off position,toggle-off

@@ -1,8 +1,5 @@
 text,label
-archive,inbox
 email,inbox
-mail,inbox
-message,inbox
 Move emails to the archive folder,inbox
 Check the email inbox,inbox
 Clear the email inbox,inbox

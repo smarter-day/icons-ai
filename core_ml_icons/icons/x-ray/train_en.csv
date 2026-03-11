@@ -1,9 +1,6 @@
 text,label
-health,x-ray
-medical,x-ray
 radiological images,x-ray
 radiology,x-ray
-skeleton,x-ray
 health screening examination,x-ray
 preventive health check,x-ray
 medical imaging diagnosis,x-ray

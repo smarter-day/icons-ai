@@ -1,7 +1,4 @@
 text,label
-inventory,pallet-box
-package,pallet-box
-shipping,pallet-box
 track inventory in pallet box,pallet-box
 package wrapped on pallet,pallet-box
 shipping pallet with box,pallet-box

@@ -1,14 +1,6 @@
 text,label
-администратор,lock-open
-замок,lock-open
 открыть,lock-open
-замок,lock-open
-пароль,lock-open
-конфиденциальность,lock-open
-частный,lock-open
-защищать,lock-open
 безопасность,lock-open
-разблокировать,lock-open
 администратор может разблокировать контент,lock-open
 открыть замок для доступа администратора,lock-open
 замок в открытом состоянии,lock-open

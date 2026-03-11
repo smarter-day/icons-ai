@@ -1,8 +1,6 @@
 text,label
 button,toggle-on
 off,toggle-on
-on,toggle-on
-switch,toggle-on
 button toggle on enabled,toggle-on
 toggle button in on state,toggle-on
 switch turned on position,toggle-on

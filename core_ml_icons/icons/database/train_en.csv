@@ -1,9 +1,5 @@
 text,label
-development,database
-directory,database
 memory,database
-mysql,database
-sql,database
 Set up the computer database,database
 Fix the computer storage issue,database
 Work on the development database,database

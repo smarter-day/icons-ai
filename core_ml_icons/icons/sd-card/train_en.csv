@@ -1,9 +1,5 @@
 text,label
-image,sd-card
-img,sd-card
 memory,sd-card
-photo,sd-card
-save,sd-card
 image stored on SD card,sd-card
 image files on memory card,sd-card
 img file saved to SD card,sd-card

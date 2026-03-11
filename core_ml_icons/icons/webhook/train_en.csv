@@ -2,12 +2,10 @@ text,label
 api,webhook
 automate,webhook
 callback,webhook
-code,webhook
 communication,webhook
 http,webhook
 infastructure,webhook
 json,webhook
-message,webhook
 api endpoint integration,webhook
 RESTful api connection,webhook
 automate workflow trigger,webhook

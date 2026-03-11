@@ -1,6 +1,4 @@
 text,label
-airport,van
-bus,van
 minibus,van
 airport shuttle van picking up passengers,van
 airport van transfer to the terminal,van
@@ -32,9 +30,3 @@ airprot shuttle van service,van
 passneger minivan for hire,van
 cargo vna delivery route,van
 trnaport van fleet tracking,van
-large bus coach with many passenger windows,van
-pickup truck with open flatbed cargo area,van
-semi truck eighteen-wheeler on the highway,van
-taxi yellow cab urban transport,van
-ambulance emergency medical vehicle,van
-minivan station wagon family car,van

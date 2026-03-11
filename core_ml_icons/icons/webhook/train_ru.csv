@@ -2,12 +2,10 @@ text,label
 webhook,webhook
 входящий webhook,webhook
 исходящий webhook,webhook
-настроить webhook,webhook
 добавить webhook в интеграции,webhook
 отправить событие на webhook,webhook
 получить уведомление через webhook,webhook
 webhook для автоматизации,webhook
-webhook для интеграции,webhook
 URL для webhook,webhook
 адрес webhook,webhook
 секрет webhook,webhook

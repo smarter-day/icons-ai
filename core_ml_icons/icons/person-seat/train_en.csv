@@ -1,9 +1,6 @@
 text,label
-airplane,person-seat
 aisle,person-seat
-chair,person-seat
 recline,person-seat
-seat,person-seat
 airplane passenger in seat,person-seat
 airplane seating arrangement,person-seat
 aisle seat on airplane,person-seat

@@ -1,7 +1,6 @@
 text,label
 construction,shovel
 dig,shovel
-equipment,shovel
 excavate,shovel
 trench,shovel
 construction worker using a shovel on site,shovel
@@ -36,9 +35,3 @@ shovle stuck in the ground,shovel
 shoevl leaning against the wall,shovel
 shoval digging the garden bed,shovel
 shovell for the construction site,shovel
-steel pickaxe breaking rocky ground,shovel
-pickaxe and hammer for mining or construction,shovel
-garden rake spreading mulch across the bed,shovel
-metal rake with tines for collecting leaves,shovel
-garden hoe chopping weeds between rows,shovel
-long-handled hoe used for tilling the soil,shovel

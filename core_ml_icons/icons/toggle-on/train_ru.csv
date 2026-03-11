@@ -1,8 +1,6 @@
 text,label
 кнопка,toggle-on
 выкл,toggle-on
-вкл,toggle-on
-переключатель,toggle-on
 кнопка переключатель вкл включён,toggle-on
 переключатель в положении вкл,toggle-on
 выключатель в включённом положении,toggle-on

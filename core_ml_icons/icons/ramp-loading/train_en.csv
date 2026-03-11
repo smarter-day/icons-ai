@@ -1,8 +1,4 @@
 text,label
-inventory,ramp-loading
-moving,ramp-loading
-shipping,ramp-loading
-warehouse,ramp-loading
 inventory loaded onto warehouse ramp,ramp-loading
 inventory management at loading dock,ramp-loading
 moving boxes down loading ramp,ramp-loading

@@ -2,12 +2,9 @@ text,label
 Desktop Window,browser
 app,browser
 application,browser
-desktop,browser
 explorer,browser
-internet,browser
 web,browser
 website,browser
-www,browser
 open a new desktop window,browser
 open the app in the browser,browser
 web application development,browser

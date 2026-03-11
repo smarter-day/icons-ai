@@ -1,6 +1,5 @@
 text,label
 ekg,heart-pulse
-health,heart-pulse
 lifeline,heart-pulse
 vital signs,heart-pulse
 Get an EKG test done,heart-pulse

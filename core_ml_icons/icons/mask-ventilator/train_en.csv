@@ -1,7 +1,5 @@
 text,label
-breath,mask-ventilator
 gas,mask-ventilator
-mask,mask-ventilator
 oxygen,mask-ventilator
 respirator,mask-ventilator
 ventilator,mask-ventilator

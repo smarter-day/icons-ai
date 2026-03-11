@@ -3,9 +3,6 @@ text,label
 кот 5,ethernet
 кот 6,ethernet
 соединение,ethernet
-аппаратное обеспечение,ethernet
-Интернет,ethernet
-сеть,ethernet
 проводной,ethernet
 Подключите сетевой кабель,ethernet
 Используйте кабель cat5 для сети,ethernet

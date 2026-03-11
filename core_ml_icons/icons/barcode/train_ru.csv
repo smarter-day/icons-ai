@@ -2,7 +2,6 @@ text,label
 информация,barcode
 лазер,barcode
 цена,barcode
-сканировать,barcode
 UPC,barcode
 отсканировать для получения информации о товаре,barcode
 использовать лазерный сканер на кассе,barcode

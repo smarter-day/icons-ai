@@ -1,7 +1,4 @@
 text,label
-carry,cart-flatbed
-inventory,cart-flatbed
-shipping,cart-flatbed
 transport,cart-flatbed
 Carry heavy items on the flatbed cart,cart-flatbed
 Inventory move with the warehouse cart,cart-flatbed

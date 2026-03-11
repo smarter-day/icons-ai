@@ -1,7 +1,4 @@
 text,label
-аварийный,sprinkler-ceiling
-пожар,sprinkler-ceiling
-вода,sprinkler-ceiling
 аварийный пожарный спринклер активируется,sprinkler-ceiling
 аварийный водяной спринклер на потолке,sprinkler-ceiling
 пожарная спринклерная головка на потолке,sprinkler-ceiling

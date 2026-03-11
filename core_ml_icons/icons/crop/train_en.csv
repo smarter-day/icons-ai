@@ -1,9 +1,5 @@
 text,label
-design,crop
 frame,crop
-mask,crop
-resize,crop
-shrink,crop
 Crop the image for the design,crop
 Adjust the design canvas,crop
 Set the photo frame size,crop

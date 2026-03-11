@@ -1,10 +1,6 @@
 text,label
 collapse,minimize
-fullscreen,minimize
 minimize,minimize
-move,minimize
-resize,minimize
-shrink,minimize
 smaller,minimize
 collapse panel to hidden state,minimize
 collapse sidebar to compact view,minimize

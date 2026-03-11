@@ -1,13 +1,5 @@
 text,label
-admin,unlock
-lock,unlock
 open,unlock
-padlock,unlock
-password,unlock
-privacy,unlock
-private,unlock
-protect,unlock
-unlock,unlock
 unlocked,unlock
 admin panel access unlocked,unlock
 admin privileges granted to user,unlock
@@ -47,9 +39,3 @@ unlocke the phone with your pin,unlock
 padlokc open after authentication,unlock
 unlocked acesss granted to user,unlock
 passwrod entered to unlock account,unlock
-closed padlock locked and secured icon,unlock
-key inserted into a lock cylinder,unlock
-shield with checkmark security badge,unlock
-fingerprint biometric scan icon,unlock
-lock chain wrapped around a gate,unlock
-door knob turning to open position,unlock

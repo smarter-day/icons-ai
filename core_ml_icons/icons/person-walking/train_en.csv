@@ -1,13 +1,9 @@
 text,label
 crosswalk,person-walking
-exercise,person-walking
 follow,person-walking
 hike,person-walking
-move,person-walking
 person walking,person-walking
-walk,person-walking
 walking,person-walking
-workout,person-walking
 crosswalk person walking signal,person-walking
 pedestrian crossing at crosswalk,person-walking
 exercise by walking daily,person-walking

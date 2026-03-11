@@ -1,16 +1,8 @@
 text,label
-alarm,alarm-clock
 alarm clock,alarm-clock
-clock,alarm-clock
-date,alarm-clock
 late,alarm-clock
-pending,alarm-clock
-reminder,alarm-clock
-sleep,alarm-clock
 snooze,alarm-clock
-timer,alarm-clock
 timestamp,alarm-clock
-watch,alarm-clock
 Get up at 7,alarm-clock
 Early morning run,alarm-clock
 Don't oversleep,alarm-clock

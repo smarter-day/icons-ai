@@ -2,7 +2,6 @@ text,label
 info,barcode
 laser,barcode
 price,barcode
-scan,barcode
 upc,barcode
 scan for product info,barcode
 use laser scanner at checkout,barcode

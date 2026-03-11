@@ -2,12 +2,9 @@ text,label
 adult,user
 bust,user
 default,user
-employee,user
 gender-neutral,user
 person,user
-profile,user
 silhouette,user
-username,user
 adult user account created on the platform,user
 adult profile verified with an ID,user
 bust silhouette as a default avatar,user
@@ -44,9 +41,3 @@ defualt user silhouette before photo upload,user
 persone icon tapped for account settings,user
 proflie page showing username and bio,user
 employe user record in the directory,user
-group of people multiple users icon,user
-user with a gear settings badge overlay,user
-user with a check verified account badge,user
-user plus add a new account icon,user
-avatar photo uploaded profile picture,user
-contact person in an address book entry,user

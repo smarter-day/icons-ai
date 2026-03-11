@@ -1,9 +1,6 @@
 text,label
-alarm,sensor
 carbon monoxide,sensor
 detector,sensor
-fire,sensor
-smoke,sensor
 alarm triggered by sensor on ceiling,sensor
 alarm sensor detecting intrusion,sensor
 alert from smoke sensor activated,sensor

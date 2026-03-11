@@ -5,7 +5,6 @@ dsl,router
 ethernet,router
 internet router,router
 modem,router
-switch,router
 home wifi router,router
 wireless router,router
 internet gateway router,router
@@ -47,9 +46,3 @@ routre blinking on the shelf,router
 routerr keeps disconnecting,router
 rotuer reset needed,router
 routr not connecting,router
-cable modem with coaxial port and ethernet,router
-DSL modem with a blinking activity light,router
-wifi signal bars radiating from a center point,router
-wireless signal icon with three curved arcs,router
-network switch with many ethernet ports on the back,router
-rack-mounted network switch in a server room,router

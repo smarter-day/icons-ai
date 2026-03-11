@@ -1,8 +1,4 @@
 text,label
-business,print
-copy,print
-document,print
-office,print
 printer,print
 print a business card on demand,print
 business document sent to the printer,print
@@ -36,9 +32,3 @@ prnit the document now,print
 pritn ready in the queue,print
 prnt the boarding pass,print
 pint the document to the office printer,print
-flatbed scanner with a glass lid for documents,print
-scan a document with a handheld scanner,print
-fax machine sending a document over phone lines,print
-old fax machine with a paper feeder on top,print
-photocopier machine producing duplicate documents,print
-large office copier with a touch screen panel,print

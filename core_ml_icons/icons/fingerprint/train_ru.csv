@@ -2,12 +2,9 @@ text,label
 человек,fingerprint
 идентификатор,fingerprint
 идентификация,fingerprint
-замок,fingerprint
-конфиденциальность,fingerprint
 размазывать,fingerprint
 коснуться,fingerprint
 уникальный,fingerprint
-разблокировать,fingerprint
 Отпечаток пальца человека на поверхности,fingerprint
 уникальный рисунок отпечатков пальцев человека,fingerprint
 Отпечаток пальца для идентификации,fingerprint

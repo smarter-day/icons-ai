@@ -1,8 +1,6 @@
 text,label
-audio,volume
 control,volume
 medium,volume
-sound,volume
 speaker,volume
 audio volume control on a media player,volume
 audio level adjusted with a volume slider,volume
@@ -34,9 +32,3 @@ voulme turned up for the movie,volume
 volmue setting in the app,volume
 volumee on the media player,volume
 vlume slider in settings,volume
-mute icon with a crossed-out speaker,volume
-speaker with an X through it for muted audio,volume
-equalizer bars adjusting audio frequency levels,volume
-music equalizer with sliders for bass and treble,volume
-bookshelf speaker with a fabric cone driver,volume
-portable bluetooth speaker on a desk,volume

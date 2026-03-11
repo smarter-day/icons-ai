@@ -1,7 +1,5 @@
 text,label
-move,transporter
 teleport,transporter
-transfer,transporter
 translocate,transporter
 move transporter beam up,transporter
 move items transporter,transporter

@@ -1,12 +1,10 @@
 text,label
-car,transmission
 clutch,transmission
 drivetrain,transmission
 gear,transmission
 gearbox,transmission
 manual,transmission
 shifter,transmission
-transmission,transmission
 car transmission rebuilt by the mechanic,transmission
 car gearbox serviced at the shop,transmission
 clutch pedal pressed before shifting gears,transmission
@@ -41,9 +39,3 @@ manual transmision shifted into second gear,transmission
 clutch pedal presses before gear change,transmission
 gearbox servied at the mechanic shop,transmission
 drivertain sending power to the wheels,transmission
-steering wheel car interior driver control,transmission
-engine block motor under the hood,transmission
-brake pedal foot control stopping the car,transmission
-speedometer gauge showing current speed,transmission
-wrench mechanic tool for repairs,transmission
-car dashboard with instrument cluster,transmission

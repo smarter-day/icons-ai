@@ -1,9 +1,5 @@
 text,label
 Ringing Bell,bell-ring
-alarm,bell-ring
-chime,bell-ring
-reminder,bell-ring
-request,bell-ring
 set a ringing bell reminder,bell-ring
 set an alarm for tomorrow,bell-ring
 set an alert for the deadline,bell-ring

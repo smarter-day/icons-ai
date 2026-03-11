@@ -1,7 +1,5 @@
 text,label
 loading,loader
-pending,loader
-progress,loader
 content is loading right now,loader
 page loading indicator,loader
 request pending approval,loader

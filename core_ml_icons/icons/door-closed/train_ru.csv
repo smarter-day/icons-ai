@@ -1,9 +1,7 @@
 text,label
-дверь,door-closed
 войти,door-closed
 выход,door-closed
 закрыто,door-closed
-приватность,door-closed
 закрыть дверь за собой,door-closed
 установить новую дверь,door-closed
 войти в здание через дверь,door-closed

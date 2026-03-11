@@ -1,9 +1,7 @@
 text,label
 blog,rss
 feed,rss
-journal,rss
 news,rss
-writing,rss
 subscribe to a blog via RSS feed,rss
 blog updates delivered through an rss reader,rss
 RSS feed from a news website,rss
@@ -32,9 +30,3 @@ rss fede subscription link,rss
 rrs news feed from the blog,rss
 rss blgo update notification,rss
 rss newss aggregator,rss
-bookmark ribbon folded at the top of a page,rss
-star bookmark saving a webpage for later,rss
-share icon with a dot and two branching arrows,rss
-share sheet icon in a mobile browser,rss
-chain link icon representing a hyperlink,rss
-URL link icon for copying and sharing,rss

@@ -1,7 +1,4 @@
 text,label
-emergency,sprinkler-ceiling
-fire,sprinkler-ceiling
-water,sprinkler-ceiling
 emergency fire sprinkler activates,sprinkler-ceiling
 emergency water sprinkler on ceiling,sprinkler-ceiling
 fire sprinkler head on ceiling,sprinkler-ceiling

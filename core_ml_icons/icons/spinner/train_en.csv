@@ -1,8 +1,5 @@
 text,label
-circle,spinner
 loading,spinner
-pending,spinner
-progress,spinner
 spinning circle loading animation,spinner
 circle rotating as loading indicator,spinner
 loading spinner while page fetches,spinner

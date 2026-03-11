@@ -1,8 +1,5 @@
 text,label
-emergency,kit-medical
 emt,kit-medical
-health,kit-medical
-medical,kit-medical
 rescue,kit-medical
 Use the first aid kit in an emergency,kit-medical
 Check the emergency supplies,kit-medical

@@ -1,9 +1,7 @@
 text,label
 admission,ticket
 coupon,ticket
-movie,ticket
 pass,ticket
-support,ticket
 ticket,ticket
 voucher,ticket
 admission ticket to the art museum,ticket
@@ -38,9 +36,3 @@ tiket to the concert,ticket
 tickt scanned at the door,ticket
 ticekt for the movie tonight,ticket
 tiicket stub from last night,ticket
-airline boarding pass with seat and gate info,ticket
-printed boarding pass folded in a passport,ticket
-store coupon with a barcode and expiration date,ticket
-discount coupon torn from a promotional mailer,ticket
-name badge on a lanyard at a conference,ticket
-event wristband with printed text and barcode,ticket

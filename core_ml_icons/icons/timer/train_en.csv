@@ -1,9 +1,5 @@
 text,label
-clock,timer
 countdown,timer
-pending,timer
-stopwatch,timer
-timer,timer
 timer clock,timer
 waiting,timer
 clock timer digital display,timer

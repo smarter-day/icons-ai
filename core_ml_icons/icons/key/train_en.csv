@@ -1,10 +1,6 @@
 text,label
 key,key
-lock,key
-password,key
-private,key
 secret,key
-unlock,key
 metal key for the door lock,key
 key to unlock the door,key
 key fitting the lock,key

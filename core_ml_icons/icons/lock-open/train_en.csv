@@ -1,14 +1,6 @@
 text,label
-admin,lock-open
-lock,lock-open
 open,lock-open
-padlock,lock-open
-password,lock-open
-privacy,lock-open
-private,lock-open
-protect,lock-open
 security,lock-open
-unlock,lock-open
 admin can unlock the content,lock-open
 open lock for admin access,lock-open
 lock in open state,lock-open

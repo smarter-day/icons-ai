@@ -1,8 +1,6 @@
 text,label
 direction,traffic-light
 go,traffic-light
-light,traffic-light
-road,traffic-light
 slow,traffic-light
 stop,traffic-light
 traffic,traffic-light

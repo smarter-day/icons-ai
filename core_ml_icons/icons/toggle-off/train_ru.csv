@@ -1,8 +1,6 @@
 text,label
 кнопка,toggle-off
 выкл,toggle-off
-вкл,toggle-off
-переключатель,toggle-off
 кнопка переключатель выкл отключён,toggle-off
 переключатель в положении выкл,toggle-off
 выключатель в выключенном положении,toggle-off
