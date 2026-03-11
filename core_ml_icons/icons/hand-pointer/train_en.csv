@@ -1,28 +1,46 @@
 text,label
-arrow,hand-pointer
-cursor,hand-pointer
-select,hand-pointer
-Click the arrow to proceed,hand-pointer
-Follow the arrow to the exit,hand-pointer
-Move the cursor to the button,hand-pointer
-Click the cursor on the link,hand-pointer
-Select the option from the menu,hand-pointer
-Select all the items,hand-pointer
-Point to the correct option,hand-pointer
-Use the pointer to highlight,hand-pointer
-Select items in the list,hand-pointer
-Click the icon to launch the app,hand-pointer
-Click here,hand-pointer
-Point to it,hand-pointer
-Select that,hand-pointer
-Tap to open,hand-pointer
-cilck the buton,hand-pointer
-selecct the optoin,hand-pointer
-moev the cursro,hand-pointer
-ponit to the icon,hand-pointer
-Use the arrow keys to navigate,hand-pointer
-Drag and drop the file,hand-pointer
-Right-click to open the menu,hand-pointer
-Use a touchscreen to tap,hand-pointer
-Use a stylus to draw,hand-pointer
-Scroll to see more options,hand-pointer
+hand pointer,hand-pointer
+pointer finger,hand-pointer
+tap here,hand-pointer
+click this button,hand-pointer
+point to the menu item,hand-pointer
+select the next option,hand-pointer
+tap the screen to continue,hand-pointer
+click the link below,hand-pointer
+press the button on screen,hand-pointer
+point at the correct answer,hand-pointer
+cursor over the button,hand-pointer
+click to open the panel,hand-pointer
+tap the icon to start,hand-pointer
+use the pointer on the map,hand-pointer
+point at the right tab,hand-pointer
+select the item in the list,hand-pointer
+click this card,hand-pointer
+tap to open details,hand-pointer
+point to the exit sign,hand-pointer
+move the pointer to submit,hand-pointer
+click the highlighted button,hand-pointer
+tap the arrow to continue,hand-pointer
+point at the feature you want,hand-pointer
+select the checkbox,hand-pointer
+click the menu icon,hand-pointer
+tap the notification,hand-pointer
+point to the file name,hand-pointer
+click the next step,hand-pointer
+use the hand cursor,hand-pointer
+pointer over the call to action,hand-pointer
+tap the screen to select,hand-pointer
+click the search result,hand-pointer
+point to the button on the form,hand-pointer
+click here to proceed,hand-pointer
+tap the item you need,hand-pointer
+point at the answer choice,hand-pointer
+select the card on the dashboard,hand-pointer
+click the download button,hand-pointer
+tap to confirm the action,hand-pointer
+point to the route on the map,hand-pointer
+click the tab at the top,hand-pointer
+tap the play button,hand-pointer
+move the hand cursor over the link,hand-pointer
+select the profile from the list,hand-pointer
+tap the control to enable it,hand-pointer

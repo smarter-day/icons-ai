@@ -1,30 +1,46 @@
 text,label
-emergency,hospitals
-insurance,hospitals
-network,hospitals
-Go to the emergency room,hospitals
-Call emergency services,hospitals
-Check the health insurance coverage,hospitals
-Submit an insurance claim,hospitals
-Find hospitals in the insurance network,hospitals
-Check the hospital network,hospitals
-Call the hospital emergency line,hospitals
-Check hospital visiting hours,hospitals
-Navigate to the hospital,hospitals
-Check if the hospital accepts insurance,hospitals
-Find a specialist at the hospital,hospitals
-Check in at the hospital reception,hospitals
-Find a hospital,hospitals
-Emergency room,hospitals
-Hospital network,hospitals
-Check insurance,hospitals
-find the nearset hosptial,hospitals
-call the hosptal emergeny,hospitals
-chek hosptal visitng hours,hospitals
-submitt an insurace claim,hospitals
-Visit a single family doctor,hospitals
-Go to the urgent care clinic,hospitals
-Call the ambulance,hospitals
-Visit the pharmacy for medication,hospitals
-See the specialist at the clinic,hospitals
-Use a telemedicine service,hospitals
+find nearby hospitals,hospitals
+hospital network,hospitals
+list of hospitals,hospitals
+compare hospitals in the area,hospitals
+find an emergency room nearby,hospitals
+hospitals that take my insurance,hospitals
+open the hospital directory,hospitals
+nearest hospitals on the map,hospitals
+hospital search results,hospitals
+find a childrens hospital,hospitals
+hospital locations in the city,hospitals
+check hospital visiting hours,hospitals
+find a hospital in network,hospitals
+hospital list in the app,hospitals
+search nearby emergency rooms,hospitals
+hospital campus locations,hospitals
+multiple hospitals in the system,hospitals
+hospitals near the hotel,hospitals
+find the right hospital,hospitals
+hospital directory for the region,hospitals
+check hospital services nearby,hospitals
+search hospitals by specialty,hospitals
+hospital map for the county,hospitals
+which hospitals are open,hospitals
+nearby emergency hospitals,hospitals
+find a trauma center,hospitals
+search hospitals by insurance,hospitals
+hospital chain locations,hospitals
+view all hospitals,hospitals
+hospitals accepting new patients,hospitals
+route to the hospital campus,hospitals
+hospital network for the plan,hospitals
+citywide hospital list,hospitals
+urgent care versus hospital,hospitals
+open hospitals after midnight,hospitals
+hospital options near me,hospitals
+health system hospital directory,hospitals
+find a specialist hospital,hospitals
+hospital search on the map,hospitals
+compare nearby hospitals,hospitals
+hospitals on the insurance plan,hospitals
+find a hospital with an er,hospitals
+regional hospitals list,hospitals
+medical centers in the area,hospitals
+nearby hospitals for an emergency,hospitals

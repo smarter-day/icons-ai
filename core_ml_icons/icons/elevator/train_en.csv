@@ -1,29 +1,46 @@
 text,label
 elevator,elevator
-hoist,elevator
-lift,elevator
-Wait for the elevator,elevator
-Use the hoist to lift the equipment,elevator
-Hoist supplies to the upper floor,elevator
-Call the lift on this floor,elevator
-Take the elevator to the top floor,elevator
-Use the elevator with the stroller,elevator
-Wait for the elevator at work,elevator
-Use the service elevator,elevator
-Take the lift to the parking level,elevator
-Check if the elevator is accessible,elevator
-Use the freight elevator for moving,elevator
-Take the elevator,elevator
-Lift is broken,elevator
-Going up,elevator
-Hold the elevator!,elevator
-take the elavator,elevator
-wiat for the lift,elevator
-use the elevatr,elevator
-pres the floor buton,elevator
-Take the stairs for exercise,elevator
-Use the escalator to go up,elevator
-Climb the steps to the office,elevator
-Use the ramp for accessibility,elevator
-Go up on the moving walkway,elevator
-Use the fire exit stairwell,elevator
+take the elevator,elevator
+wait for the elevator,elevator
+call the elevator,elevator
+ride the elevator upstairs,elevator
+use the lift to go down,elevator
+service elevator for deliveries,elevator
+freight elevator in the building,elevator
+accessible elevator access,elevator
+elevator to the lobby,elevator
+take the lift to the parking level,elevator
+hold the elevator door,elevator
+elevator is out of order,elevator
+use the elevator with the stroller,elevator
+call the lift on this floor,elevator
+elevator button panel,elevator
+wait by the elevator doors,elevator
+ride the hotel elevator,elevator
+elevator to the office floor,elevator
+staff elevator only,elevator
+building elevator access,elevator
+go up by elevator,elevator
+take the elevator to reception,elevator
+elevator for wheelchair access,elevator
+freight lift for moving boxes,elevator
+elevator arrives on this floor,elevator
+use the service lift,elevator
+elevator in the apartment building,elevator
+elevator maintenance notice,elevator
+call the elevator from the lobby,elevator
+take the elevator to the top floor,elevator
+elevator for heavy equipment,elevator
+lift broken use the stairs,elevator
+elevator ride to the conference room,elevator
+elevator next to the stairs,elevator
+check the elevator accessibility,elevator
+elevator for guests,elevator
+take the hospital elevator,elevator
+office tower elevator,elevator
+wait for the next lift,elevator
+public elevator in the mall,elevator
+elevator down to the garage,elevator
+elevator to the food court,elevator
+rise to the floor by elevator,elevator
+use the elevator entrance,elevator

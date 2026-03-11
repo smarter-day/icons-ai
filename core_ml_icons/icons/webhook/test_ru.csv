@@ -1,4 +1,4 @@
 text,label
-автоматический webhook при триггере события,webhook
-HTTP POST уведомление в реальном времени,webhook
-URL обратного вызова интеграции разработчика,webhook
+получить событие через webhook,webhook
+проверить доставку webhook,webhook
+конечная точка webhook в API,webhook

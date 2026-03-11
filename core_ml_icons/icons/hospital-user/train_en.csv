@@ -1,29 +1,46 @@
 text,label
-doctor,hospital-user
-patient,hospital-user
-primary care,hospital-user
-See the doctor for a checkup,hospital-user
-Check patient records,hospital-user
-Visit primary care for a routine checkup,hospital-user
-Find a primary care physician,hospital-user
-Visit the family doctor,hospital-user
-Get a referral from the primary care doctor,hospital-user
-Check in as a patient at the clinic,hospital-user
-Review patient health history,hospital-user
-See the doctor about the symptoms,hospital-user
-Register at the new clinic,hospital-user
-Follow up with the primary care doctor,hospital-user
-Doctor visit,hospital-user
-See the doc,hospital-user
-Patient checkup,hospital-user
-Primary care,hospital-user
-book an appointemnt with doctr,hospital-user
-vist the famly doctor,hospital-user
-get a referrl from doctor,hospital-user
-se the doctor about symtoms,hospital-user
-Go to the emergency room,hospital-user
-Visit the specialist,hospital-user
-Check into the hospital,hospital-user
-Call the nurse station,hospital-user
-See the dentist,hospital-user
-Visit the pharmacy,hospital-user
+hospital patient profile,hospital-user
+patient account in the hospital,hospital-user
+check in as a patient,hospital-user
+hospital user record,hospital-user
+patient information at the clinic,hospital-user
+medical profile for the patient,hospital-user
+hospital registration for a patient,hospital-user
+review the patient chart,hospital-user
+clinic patient portal,hospital-user
+patient intake form,hospital-user
+update the hospital patient record,hospital-user
+admit the patient to the hospital,hospital-user
+patient file at the clinic,hospital-user
+register a new patient,hospital-user
+hospital patient dashboard,hospital-user
+user profile in a medical app,hospital-user
+patient details in the hospital system,hospital-user
+clinic check in desk,hospital-user
+hospital visit record,hospital-user
+patient history in the portal,hospital-user
+medical intake at the hospital,hospital-user
+hospital user permissions,hospital-user
+patient data in the clinic system,hospital-user
+outpatient check in process,hospital-user
+medical user account,hospital-user
+patient registration screen,hospital-user
+hospital profile for the patient,hospital-user
+view the clinic patient list,hospital-user
+patient check in at reception,hospital-user
+open the hospital user profile,hospital-user
+patient onboarding at the clinic,hospital-user
+medical chart for the patient,hospital-user
+hospital account setup,hospital-user
+patient portal login,hospital-user
+clinic user record,hospital-user
+patient identity in the hospital system,hospital-user
+review the patient intake notes,hospital-user
+open the medical profile,hospital-user
+hospital user management,hospital-user
+patient information screen,hospital-user
+create a patient record,hospital-user
+clinic registration for the user,hospital-user
+hospital patient lookup,hospital-user
+medical portal for patients,hospital-user
+patient status in the clinic app,hospital-user

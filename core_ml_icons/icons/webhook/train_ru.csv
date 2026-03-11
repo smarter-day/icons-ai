@@ -1,52 +1,52 @@
 text,label
-api,webhook
-автоматизация,webhook
-обратный вызов,webhook
-код,webhook
-коммуникация,webhook
-http,webhook
-инфраструктура,webhook
-json,webhook
-сообщение,webhook
-интеграция api эндпоинта,webhook
-RESTful api подключение,webhook
-автоматизация триггера воркфлоу,webhook
-автоматизация повторяющихся задач,webhook
-уведомление callback url,webhook
-обратный вызов webhook при событии,webhook
-интеграция фрагмента кода,webhook
-система триггеров на основе кода,webhook
-ссылка коммуникации в реальном времени,webhook
-мост коммуникации сервисов,webhook
-отправлен http post запрос,webhook
-получатель http эндпоинта,webhook
-хук инфраструктуры сервера,webhook
-слой автоматизации инфраструктуры,webhook
-доставка json payload,webhook
-данные json тела webhook,webhook
-отправка сообщения на эндпоинт,webhook
-доставка уведомлений сообщений,webhook
-триггер событий сервер-сервер,webhook
-автоматический HTTP POST при событии,webhook
-система push-уведомлений в реальном времени,webhook
-эндпоинт интеграции webhook для разработчика,webhook
-запуск удалённого сервиса при действии,webhook
-коннектор архитектуры событий,webhook
-доставка payload на внешний URL,webhook
-мост уведомлений приложение-приложение,webhook
-триггерный хук CI/CD пайплайна,webhook
-точка интеграции сторонних сервисов,webhook
-мне нужна иконка webhook для настроек API,webhook
-добавь символ webhook на страницу интеграций,webhook
-покажи webhook для раздела инструментов разработчика,webhook
-используй иконку webhook для настроек автоматизации,webhook
-webhok интеграция api,webhook
-webohok обратный вызов,webhook
-wehbook http запрос,webhook
-json пейлоад webhook,webhook
-интерфейс командной строки терминала,webhook
-файл исходного кода с подсветкой синтаксиса,webhook
-серверная стойка сетевого оборудования,webhook
-документация swagger API,webhook
-пайплайн развёртывания облачного сервера,webhook
-скобки JSON редактора кода,webhook
+webhook,webhook
+входящий webhook,webhook
+исходящий webhook,webhook
+настроить webhook,webhook
+добавить webhook в интеграции,webhook
+отправить событие на webhook,webhook
+получить уведомление через webhook,webhook
+webhook для автоматизации,webhook
+webhook для интеграции,webhook
+URL для webhook,webhook
+адрес webhook,webhook
+секрет webhook,webhook
+подписать запрос webhook,webhook
+проверить webhook на тестовом событии,webhook
+повторить отправку webhook,webhook
+журнал webhook,webhook
+ошибка доставки webhook,webhook
+обработчик webhook,webhook
+событие приходит на webhook,webhook
+получить POST-запрос от webhook,webhook
+отправить JSON в webhook,webhook
+тело webhook-запроса,webhook
+конечная точка webhook,webhook
+триггер через webhook,webhook
+уведомление сервер-сервер,webhook
+автоматический вызов при событии,webhook
+принять webhook на бэкенде,webhook
+событие оплаты в webhook,webhook
+webhook после создания заказа,webhook
+webhook после новой регистрации,webhook
+webhook после обновления статуса,webhook
+подключить webhook к CRM,webhook
+webhook для чата,webhook
+webhook для биллинга,webhook
+проверить подпись webhook,webhook
+секретный ключ webhook,webhook
+очередь событий webhook,webhook
+повторная доставка webhook,webhook
+лог входящих webhook,webhook
+журнал попыток webhook,webhook
+пробросить уведомление в webhook,webhook
+обработать входящий webhook,webhook
+интеграция по webhook,webhook
+уведомление при новом платеже,webhook
+вызов внешней автоматизации,webhook
+получить событие из сервиса,webhook
+тестовый webhook для разработчика,webhook
+отладка webhook,webhook
+HTTP POST при событии,webhook
+URL обратного вызова для webhook,webhook
+API-событие через webhook,webhook

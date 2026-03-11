@@ -1,4 +1,4 @@
 text,label
-эндпоинт webhook для интеграции API,webhook
-HTTP триггер обратного вызова для автоматизации,webhook
-уведомление о событии сервер-сервер,webhook
+входящий webhook для интеграции,webhook
+HTTP POST по событию заказа,webhook
+webhook для автоматизации сервиса,webhook
