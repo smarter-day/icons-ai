@@ -35,3 +35,27 @@ QR-код посадочного талона сканирование,ticket-ai
 парковочный штраф нарушение,ticket-airline
 паспорт документ для путешествий,ticket-airline
 бирка выдачи багажа,ticket-airline
+airplane,ticket-airline
+arrival,ticket-airline
+boarding pass,ticket-airline
+departure,ticket-airline
+ticket,ticket-airline
+travel,ticket-airline
+airline,ticket-airline
+ticket airline,ticket-airline
+забрать airplane,ticket-airline
+забрать arrival,ticket-airline
+забрать boarding pass,ticket-airline
+забрать departure,ticket-airline
+забрать ticket,ticket-airline
+забрать travel,ticket-airline
+забрать airline,ticket-airline
+забрать ticket airline,ticket-airline
+запись airplane,ticket-airline
+запись arrival,ticket-airline
+запись boarding pass,ticket-airline
+запись departure,ticket-airline
+запись ticket,ticket-airline
+запись travel,ticket-airline
+запись airline,ticket-airline
+запись ticket airline,ticket-airline

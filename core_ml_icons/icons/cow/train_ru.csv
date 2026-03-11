@@ -24,7 +24,6 @@ text,label
 забрать молоко в магазине,cow
 услышать мычание коровы,cow
 изобразить коровье муу,cow
-купить свежее молоко на ферме,cow
 приготовить говяжьи бургеры для барбекю,cow
 отвести детей в контактный зоопарк,cow
 узнать о молочном животноводстве,cow
@@ -47,3 +46,16 @@ text,label
 сельская ферма с коровником,cow
 корова в хлеву,cow
 свежие молочные продукты,cow
+agriculture,cow
+animal,cow
+beef,cow
+bovine,cow
+co,cow
+cow,cow
+farm,cow
+fauna,cow
+livestock,cow
+mammal,cow
+milk,cow
+moo,cow
+собрать agriculture скоро,cow

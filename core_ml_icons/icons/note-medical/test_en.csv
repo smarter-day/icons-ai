@@ -2,3 +2,8 @@ text,label
 write a note in the health record,note-medical
 save the prescription note,note-medical
 review the doctor's note,note-medical
+complete memo,note-medical
+memo stuff,note-medical
+memo to-do,note-medical
+wrap up memo,note-medical
+memo next week,note-medical

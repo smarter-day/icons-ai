@@ -1,0 +1,61 @@
+text,label
+archive,mailbox
+closed,mailbox
+closed mailbox with lowered flag,mailbox
+envelope,mailbox
+letter,mailbox
+lowered,mailbox
+mail,mailbox
+mailbox,mailbox
+newsletter,mailbox
+offer,mailbox
+post office,mailbox
+postal,mailbox
+postbox,mailbox
+postcard,mailbox
+send,mailbox
+archive le matin,mailbox
+closed le matin,mailbox
+closed mailbox with lowered flag le matin,mailbox
+envelope le matin,mailbox
+letter le matin,mailbox
+lowered le matin,mailbox
+mail le matin,mailbox
+mailbox le matin,mailbox
+newsletter le matin,mailbox
+offer le matin,mailbox
+post office le matin,mailbox
+postal le matin,mailbox
+postbox le matin,mailbox
+postcard le matin,mailbox
+send le matin,mailbox
+stamp le matin,mailbox
+usps le matin,mailbox
+commencer archive,mailbox
+commencer closed,mailbox
+commencer closed mailbox with lowered flag,mailbox
+commencer envelope,mailbox
+commencer letter,mailbox
+commencer lowered,mailbox
+commencer mail,mailbox
+commencer mailbox,mailbox
+commencer newsletter,mailbox
+commencer offer,mailbox
+commencer post office,mailbox
+commencer postal,mailbox
+commencer postbox,mailbox
+commencer postcard,mailbox
+commencer send,mailbox
+commencer stamp,mailbox
+commencer usps,mailbox
+archive pour le voyage,mailbox
+closed pour le voyage,mailbox
+closed mailbox with lowered flag pour le voyage,mailbox
+envelope pour le voyage,mailbox
+letter pour le voyage,mailbox
+lowered pour le voyage,mailbox
+poost office le matin,mailbox
+enevlope le matin,mailbox
+ltter,mailbox
+commencer achive,mailbox
+cloosed,mailbox

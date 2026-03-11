@@ -21,7 +21,6 @@ text,label
 поделиться всем в папке одним нажатием,share-all
 кнопка поделиься везде,share-all
 трансляция всем подписчикам,share-all
-отправить все файлы контактам,share-all
 поделтиься всеми фото,share-all
 поделиться одним элементом с одним человеком,share-all
 стрелка пересылки следующему получателю,share-all
@@ -29,3 +28,34 @@ text,label
 кнопка загрузки в облако,share-all
 иконка трансляции для прямого эфира,share-all
 кнопка отправки в чате,share-all
+forward,share-all
+save,share-all
+send,share-all
+social,share-all
+share,share-all
+all,share-all
+share all,share-all
+еженедельный forward,share-all
+еженедельный save,share-all
+еженедельный send,share-all
+еженедельный social,share-all
+еженедельный share,share-all
+еженедельный all,share-all
+еженедельный share all,share-all
+forward в понедельник,share-all
+save в понедельник,share-all
+send в понедельник,share-all
+social в понедельник,share-all
+share в понедельник,share-all
+all в понедельник,share-all
+share all в понедельник,share-all
+forward завтра,share-all
+save завтра,share-all
+send завтра,share-all
+social завтра,share-all
+share завтра,share-all
+all завтра,share-all
+share all завтра,share-all
+новый forward,share-all
+новый save,share-all
+начать forward,share-all

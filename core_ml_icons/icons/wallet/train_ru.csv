@@ -31,3 +31,31 @@ text,label
 монетница сдача кошелёк,wallet
 банковский счёт мобильные финансы,wallet
 портфель деловая сумка документы,wallet
+billfold,wallet
+cash,wallet
+currency,wallet
+money,wallet
+salary,wallet
+wallet,wallet
+закончить billfold,wallet
+закончить cash,wallet
+закончить currency,wallet
+закончить money,wallet
+закончить salary,wallet
+закончить wallet,wallet
+billfold на выходных,wallet
+cash на выходных,wallet
+currency на выходных,wallet
+money на выходных,wallet
+salary на выходных,wallet
+wallet на выходных,wallet
+billfold утром,wallet
+cash утром,wallet
+currency утром,wallet
+money утром,wallet
+salary утром,wallet
+wallet утром,wallet
+billfold вечером,wallet
+cash вечером,wallet
+currency вечером,wallet
+money вечером,wallet

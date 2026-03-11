@@ -2,3 +2,8 @@ text,label
 начать смену на кассе,cash-register
 распечатать кассовый чек,cash-register
 работать за кассой у стойки,cash-register
+обработать buy,cash-register
+решить вопрос с buy,cash-register
+buy на следующей неделе,cash-register
+управление buy,cash-register
+устроить buy,cash-register

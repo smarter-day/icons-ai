@@ -45,3 +45,17 @@ text,label
 индикатор уровня громкости,signal
 полоса прогресса загрузки,signal
 измеритель скорости сети загрузки,signal
+antenna,signal
+antenna bars,signal
+bar,signal
+bars,signal
+cell,signal
+graph,signal
+mobile,signal
+online,signal
+phone,signal
+reception,signal
+status,signal
+signal,signal
+antenna завтра,signal
+antenna bars завтра,signal

@@ -43,3 +43,19 @@ text,label
 вернуть тележку после покупок,cart-shopping
 положить всё в тележку,cart-shopping
 тележка готова к оплате,cart-shopping
+buy,cart-shopping
+cart,cart-shopping
+checkout,cart-shopping
+grocery,cart-shopping
+payment,cart-shopping
+purchase,cart-shopping
+shopping,cart-shopping
+shopping cart,cart-shopping
+trolley,cart-shopping
+cart shopping,cart-shopping
+изучить buy в магазине,cart-shopping
+изучить cart в магазине,cart-shopping
+изучить checkout в магазине,cart-shopping
+изучить grocery в магазине,cart-shopping
+изучить payment в магазине,cart-shopping
+изучить purchase в магазине,cart-shopping

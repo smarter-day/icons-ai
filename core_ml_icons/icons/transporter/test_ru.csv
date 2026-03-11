@@ -2,3 +2,8 @@ text,label
 иконка транспортёра телепорт,transporter
 символ луч перенос,transporter
 мгновенное перемещение транспортёр,transporter
+move на следующей неделе,transporter
+разобрать move,transporter
+устроить move,transporter
+управление move,transporter
+решить вопрос с move,transporter

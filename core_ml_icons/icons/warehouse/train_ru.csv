@@ -31,3 +31,31 @@ text,label
 офисное здание корпоративное,warehouse
 амбар ферма сельскохозяйственное хранилище,warehouse
 контейнер для перевозки большая коробка,warehouse
+building,warehouse
+capacity,warehouse
+garage,warehouse
+inventory,warehouse
+storage,warehouse
+warehouse,warehouse
+потренировать building в магазине,warehouse
+потренировать capacity в магазине,warehouse
+потренировать garage в магазине,warehouse
+потренировать inventory в магазине,warehouse
+потренировать storage в магазине,warehouse
+потренировать warehouse в магазине,warehouse
+building вечером,warehouse
+capacity вечером,warehouse
+garage вечером,warehouse
+inventory вечером,warehouse
+storage вечером,warehouse
+warehouse вечером,warehouse
+запись building,warehouse
+запись capacity,warehouse
+запись garage,warehouse
+запись inventory,warehouse
+запись storage,warehouse
+запись warehouse,warehouse
+building на субботу,warehouse
+capacity на субботу,warehouse
+garage на субботу,warehouse
+inventory на субботу,warehouse

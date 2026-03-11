@@ -51,3 +51,11 @@ text,label
 Таймер для пасты на кухне,alarm-clock
 Записать временную метку записи,alarm-clock
 Следить за временем по часам,alarm-clock
+alarm,alarm-clock
+alarm clock,alarm-clock
+clock,alarm-clock
+date,alarm-clock
+late,alarm-clock
+pending,alarm-clock
+reminder,alarm-clock
+sleep,alarm-clock

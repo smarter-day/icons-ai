@@ -36,3 +36,26 @@ text,label
 Варёный рис для заготовки еды в воскресенье,bowl-rice
 Рисоварка настроена на 19:00,bowl-rice
 Варёный рис жасмин для карри,bowl-rice
+boiled,bowl-rice
+cooked,bowl-rice
+cooked rice,bowl-rice
+rice,bowl-rice
+steamed,bowl-rice
+bowl,bowl-rice
+bowl rice,bowl-rice
+закончить boiled,bowl-rice
+закончить cooked,bowl-rice
+закончить cooked rice,bowl-rice
+закончить rice,bowl-rice
+закончить steamed,bowl-rice
+закончить bowl,bowl-rice
+закончить bowl rice,bowl-rice
+заменить boiled,bowl-rice
+заменить cooked,bowl-rice
+заменить cooked rice,bowl-rice
+заменить rice,bowl-rice
+заменить steamed,bowl-rice
+заменить bowl,bowl-rice
+заменить bowl rice,bowl-rice
+заменить boiled в магазине,bowl-rice
+заменить cooked в магазине,bowl-rice

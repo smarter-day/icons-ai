@@ -2,3 +2,8 @@ text,label
 group objects in design tool,object-group
 combine and select objects,object-group
 object grouping icon,object-group
+schedule combine,object-group
+combine check-in,object-group
+combine errand,object-group
+combine this week,object-group
+combine reminder,object-group

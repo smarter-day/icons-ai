@@ -47,3 +47,15 @@ show where I am right now,location-crosshairs
 get exact GPS position,location-crosshairs
 center on the exact map point,location-crosshairs
 lock current location,location-crosshairs
+address,location-crosshairs
+coordinate,location-crosshairs
+direction,location-crosshairs
+gps,location-crosshairs
+location,location-crosshairs
+map,location-crosshairs
+navigation,location-crosshairs
+place,location-crosshairs
+where,location-crosshairs
+crosshairs,location-crosshairs
+location crosshairs,location-crosshairs
+address this weekend,location-crosshairs

@@ -40,3 +40,22 @@ text,label
 Выхлопная труба под машиной,chimney
 Вентиляционное отверстие в потолке ванной,chimney
 Монтаж трубы дровяной печи,chimney
+brick,chimney
+exhaust,chimney
+fireplace,chimney
+house,chimney
+roof,chimney
+vent,chimney
+chimney,chimney
+brick для детей,chimney
+exhaust для детей,chimney
+fireplace для детей,chimney
+house для детей,chimney
+roof для детей,chimney
+vent для детей,chimney
+chimney для детей,chimney
+еженедельный brick,chimney
+еженедельный exhaust,chimney
+еженедельный fireplace,chimney
+еженедельный house,chimney
+еженедельный roof,chimney

@@ -1,6 +1,5 @@
 text,label
 дом,house
-дом,house
 резиденция,house
 Оставайся дома сегодня,house
 Купите дом в этом году,house
@@ -20,7 +19,6 @@ text,label
 иди домой после работы,house
 очистить шланг,house
 оплатить ипотеку,house
-починить что-нибудь в доме,house
 Забронируйте отель для поездки,house
 Сниму квартиру в центре города,house
 Остановитесь у друга,house
@@ -43,8 +41,21 @@ text,label
 сделать ремонт кухни в доме,house
 ключ от дома на связке у двери,house
 вечер дома на веранде,house
-осмотреть дом перед покупкой,house
 отдельный дом с двором,house
 умный дом на телефоне,house
-иконка дома для приложения недвижимости,house
 идти домой после работы,house
+abode,house
+building,house
+home,house
+house,house
+main,house
+residence,house
+не забыть abode,house
+не забыть building,house
+не забыть home,house
+не забыть house,house
+не забыть main,house
+abode вечером,house
+building вечером,house
+home вечером,house
+house вечером,house

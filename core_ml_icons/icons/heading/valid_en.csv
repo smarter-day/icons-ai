@@ -2,3 +2,8 @@ text,label
 Add a heading to the document,heading
 Format text as a title,heading
 Use H1 for the main heading,heading
+follow up on format,heading
+format errand,heading
+format task,heading
+format check-in,heading
+format this week,heading

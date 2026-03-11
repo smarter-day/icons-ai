@@ -39,3 +39,23 @@ traffci light signal,traffic-light
 red lgiht stop traffic,traffic-light
 greeen go traffic light,traffic-light
 signla road intersection,traffic-light
+light,traffic-light
+road,traffic-light
+signal,traffic-light
+travel,traffic-light
+traffic light,traffic-light
+finish direction,traffic-light
+finish go,traffic-light
+finish light,traffic-light
+finish road,traffic-light
+finish signal,traffic-light
+finish slow,traffic-light
+finish stop,traffic-light
+finish traffic,traffic-light
+finish travel,traffic-light
+finish vertical traffic light,traffic-light
+finish traffic light,traffic-light
+direction on Monday,traffic-light
+go on Monday,traffic-light
+light on Monday,traffic-light
+road on Monday,traffic-light

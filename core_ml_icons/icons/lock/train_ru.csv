@@ -33,7 +33,6 @@ text,label
 символ замка для частного контента,lock
 кодовый замок на школьном шкафчике,lock
 используйте значок замка для безопасной области,lock
-замок безопасности на двери,lock
 падлокк на воротах,lock
 настройки блокировки конфиденциальности,lock
 значок заблокированной учетной записи,lock
@@ -43,3 +42,20 @@ text,label
 комбинированный сейф с циферблатом,lock
 сканер отпечатков пальцев,lock
 "цепь с замком, удерживающая ворота",lock
+admin,lock
+closed,lock
+lock,lock
+locked,lock
+open,lock
+padlock,lock
+password,lock
+privacy,lock
+private,lock
+protect,lock
+security,lock
+новый admin,lock
+новый closed,lock
+новый lock,lock
+новый locked,lock
+новый open,lock
+новый padlock,lock

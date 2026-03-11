@@ -43,3 +43,19 @@ text,label
 человек плывущий в бассейне,person-walking
 пешеход стоп красный сигнал,person-walking
 человек танцующий движение,person-walking
+crosswalk,person-walking
+exercise,person-walking
+follow,person-walking
+hike,person-walking
+move,person-walking
+person walking,person-walking
+uer,person-walking
+walk,person-walking
+walking,person-walking
+workout,person-walking
+person,person-walking
+crosswalk после работы,person-walking
+exercise после работы,person-walking
+follow после работы,person-walking
+hike после работы,person-walking
+move после работы,person-walking

@@ -2,3 +2,8 @@ text,label
 tap to pay with NFC,nfc
 scan the NFC tag,nfc
 send data by NFC,nfc
+work on connect,nfc
+connect check-in,nfc
+schedule connect,nfc
+connect task,nfc
+handle connect,nfc

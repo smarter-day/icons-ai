@@ -52,3 +52,10 @@ text,label
 копилка для хранения мелочи,coin
 стопка покерных фишек на столе,coin
 драгоценный камень или бриллиант за внутриигровую валюту,coin
+coin,coin
+dime,coin
+gold,coin
+metal,coin
+money,coin
+nickel,coin
+penny,coin

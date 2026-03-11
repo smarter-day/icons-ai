@@ -25,7 +25,7 @@ text,label
 высокая напольная колонка в домашнем кинотеатре,speaker
 настроить высокие и низкие частоты на колонке,speaker
 иконка воспроизведения музыки для smart home app,speaker
-компактная колонка с ремешком,podcast
+компактная колонка с ремешком,speaker
 подключить колонку к телефону по bluetooth,speaker
 иконка sound system для entertainment app,speaker
 полочный динамик с тканевой решеткой,speaker
@@ -39,3 +39,23 @@ text,label
 ручной микрофон на музыкальной площадке,speaker
 винтажное радио с ручкой и решеткой динамика,speaker
 портативное AM FM радио для походов,speaker
+audio,speaker
+device,speaker
+music,speaker
+sound,speaker
+subwoofer,speaker
+transducer,speaker
+tweeter,speaker
+speaker,speaker
+audio на выходных,speaker
+device на выходных,speaker
+music на выходных,speaker
+sound на выходных,speaker
+subwoofer на выходных,speaker
+transducer на выходных,speaker
+tweeter на выходных,speaker
+speaker на выходных,speaker
+audio для детей,speaker
+device для детей,speaker
+music для детей,speaker
+sound для детей,speaker

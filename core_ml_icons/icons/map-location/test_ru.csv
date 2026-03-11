@@ -2,3 +2,8 @@ text,label
 экран карты с выбранным местом,map-location
 карточка карты с сохранённой точкой,map-location
 посмотреть место внутри карты,map-location
+address сегодня вечером,map-location
+уточнить address,map-location
+разобрать address,map-location
+address на следующей неделе,map-location
+завершить address,map-location

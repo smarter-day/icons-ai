@@ -2,3 +2,8 @@ text,label
 drop a pin on the destination,map-pin
 pin this address on the map,map-pin
 save a pin for the meeting spot,map-pin
+handle address,map-pin
+address reminder,map-pin
+follow up on address,map-pin
+schedule address,map-pin
+work on address,map-pin

@@ -34,3 +34,28 @@ moov heavy goods,forklift
 get foklift certfication,forklift
 drive the forklift in the loading zone,forklift
 lift heavy cargo with the forklift,forklift
+archive,forklift
+inventory,forklift
+maintenance,forklift
+shipping,forklift
+warehouse,forklift
+forklift,forklift
+archive after work,forklift
+inventory after work,forklift
+lorry after work,forklift
+maintenance after work,forklift
+pallet after work,forklift
+shipping after work,forklift
+tractor after work,forklift
+warehouse after work,forklift
+forklift after work,forklift
+archive appointment,forklift
+inventory appointment,forklift
+lorry appointment,forklift
+maintenance appointment,forklift
+pallet appointment,forklift
+shipping appointment,forklift
+tractor appointment,forklift
+warehouse appointment,forklift
+forklift appointment,forklift
+start archive,forklift

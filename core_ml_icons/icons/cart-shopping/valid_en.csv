@@ -2,3 +2,8 @@ text,label
 add this item to cart,cart-shopping
 view the shopping cart,cart-shopping
 checkout the full cart,cart-shopping
+handle buy,cart-shopping
+work on buy,cart-shopping
+take care of buy,cart-shopping
+buy reminder,cart-shopping
+buy check-in,cart-shopping

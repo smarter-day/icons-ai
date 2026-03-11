@@ -1,0 +1,61 @@
+text,label
+electricity,meter
+transmission,meter
+utilities,meter
+meter,meter
+electricity lundi,meter
+transmission lundi,meter
+utilities lundi,meter
+meter lundi,meter
+electricity hebdomadaire,meter
+transmission hebdomadaire,meter
+utilities hebdomadaire,meter
+meter hebdomadaire,meter
+electricity le soir,meter
+transmission le soir,meter
+utilities le soir,meter
+meter le soir,meter
+finir electricity,meter
+finir transmission,meter
+finir utilities,meter
+finir meter,meter
+réserver le electricity,meter
+réserver le transmission,meter
+réserver le utilities,meter
+réserver le meter,meter
+nouveau electricity,meter
+nouveau transmission,meter
+nouveau utilities,meter
+nouveau meter,meter
+commencer electricity,meter
+commencer transmission,meter
+commencer utilities,meter
+commencer meter,meter
+réserver electricity,meter
+réserver transmission,meter
+réserver utilities,meter
+réserver meter,meter
+electricity demain,meter
+transmission demain,meter
+utilities demain,meter
+meter demain,meter
+electricity rendez-vous,meter
+transmission rendez-vous,meter
+utilities rendez-vous,meter
+meter rendez-vous,meter
+electricity aujourd'hui,meter
+transmission aujourd'hui,meter
+utilities aujourd'hui,meter
+meter aujourd'hui,meter
+electricity après le travail,meter
+transmission après le travail,meter
+utilities après le travail,meter
+meter après le travail,meter
+electricity pour le voyage,meter
+transmission pour le voyage,meter
+utilities pour le voyage,meter
+meterr lundi,meter
+electricity aujourd'hi,meter
+meter aujourd'hi,meter
+metre rendez-vous,meter
+meer hebdomadaire,meter

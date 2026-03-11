@@ -38,3 +38,24 @@ text,label
 дым поднимается из трубы,cloud
 туман приходит с моря,cloud
 снежное облако со снежинками,cloud
+atmosphere,cloud
+cloud,cloud
+fog,cloud
+overcast,cloud
+save,cloud
+upload,cloud
+weather,cloud
+atmosphere для детей,cloud
+cloud для детей,cloud
+fog для детей,cloud
+overcast для детей,cloud
+save для детей,cloud
+upload для детей,cloud
+weather для детей,cloud
+новый atmosphere,cloud
+новый cloud,cloud
+новый fog,cloud
+новый overcast,cloud
+новый save,cloud
+новый upload,cloud
+новый weather,cloud

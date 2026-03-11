@@ -38,3 +38,24 @@ text,label
 городской автобус подъезжает к остановке,train
 подземный поезд метро на плиточной станции,train
 карта метро с цветными линиями и станциями,train
+bullet,train
+commute,train
+locomotive,train
+railway,train
+subway,train
+train,train
+bullet после работы,train
+commute после работы,train
+locomotive после работы,train
+railway после работы,train
+subway после работы,train
+train после работы,train
+запись bullet,train
+запись commute,train
+запись locomotive,train
+запись railway,train
+запись subway,train
+запись train,train
+bullet для детей,train
+commute для детей,train
+locomotive для детей,train

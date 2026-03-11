@@ -20,9 +20,7 @@ text,label
 Найти ресторан рядом со мной,fork-knife
 Поешьте сегодня вечером,fork-knife
 Приготовьте домашний ужин,fork-knife
-Заказать еду в ресторане,fork-knife
 Время ужина!,fork-knife
-Поешьте сегодня вечером,fork-knife
 Забронировать ресторан,fork-knife
 Столик на двоих,fork-knife
 заказать столик на ужин,fork-knife
@@ -35,3 +33,29 @@ text,label
 Быстро пообедайте дома,fork-knife
 Используйте ложку и вилку на десерт,fork-knife
 Ешьте завтрак одной ложкой,fork-knife
+cutlery,fork-knife
+dining,fork-knife
+dinner,fork-knife
+eat,fork-knife
+food,fork-knife
+fork,fork-knife
+knife,fork-knife
+restaurant,fork-knife
+fork knife,fork-knife
+закончить cutlery,fork-knife
+закончить dining,fork-knife
+закончить dinner,fork-knife
+закончить eat,fork-knife
+закончить food,fork-knife
+закончить fork,fork-knife
+закончить knife,fork-knife
+закончить restaurant,fork-knife
+закончить fork knife,fork-knife
+cutlery на выходных,fork-knife
+dining на выходных,fork-knife
+dinner на выходных,fork-knife
+eat на выходных,fork-knife
+food на выходных,fork-knife
+fork на выходных,fork-knife
+cutlery в понедельник,fork-knife
+dining в понедельник,fork-knife

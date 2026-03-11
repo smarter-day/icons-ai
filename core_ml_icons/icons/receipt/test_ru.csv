@@ -2,3 +2,8 @@ text,label
 чек из магазина с товарами и суммой,receipt
 счёт ресторана со строкой чаевых,receipt
 электронный чек за онлайн-покупку,receipt
+завершить accounting,receipt
+управление accounting,receipt
+accounting сегодня вечером,receipt
+вопрос accounting,receipt
+accounting на следующей неделе,receipt

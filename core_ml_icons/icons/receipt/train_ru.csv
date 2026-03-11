@@ -50,3 +50,12 @@ text,label
 кассовый аппарат показывает сумму продажи,receipt
 штрихкод на упаковке товара для сканирования,receipt
 налоговая декларация с полями дохода,receipt
+accounting,receipt
+bookkeeping,receipt
+check,receipt
+coupon,receipt
+evidence,receipt
+invoice,receipt
+money,receipt
+pay,receipt
+proof,receipt

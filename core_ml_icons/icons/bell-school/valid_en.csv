@@ -2,3 +2,8 @@ text,label
 Class reminder before the lecture,bell-school
 School bell notification at 8am,bell-school
 Alert for the next period,bell-school
+alert errand,bell-school
+alert this week,bell-school
+follow up on alert,bell-school
+alert project,bell-school
+alert check-in,bell-school

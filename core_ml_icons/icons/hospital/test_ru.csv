@@ -2,3 +2,8 @@ text,label
 значок больницы,hospital
 символ здания больницы,hospital
 "медицинский центр, больница",hospital
+разобрать building,hospital
+управление building,hospital
+вопрос building,hospital
+решить вопрос с building,hospital
+building сегодня вечером,hospital

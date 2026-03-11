@@ -2,3 +2,8 @@ text,label
 smoke sensor on ceiling,sensor
 carbon monoxide detector alarm,sensor
 fire sensor triggering alarm,sensor
+handle alarm,sensor
+alarm this week,sensor
+alarm task,sensor
+alarm errand,sensor
+take care of alarm,sensor

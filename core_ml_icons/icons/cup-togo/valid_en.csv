@@ -2,3 +2,8 @@ text,label
 Order coffee to go,cup-togo
 Grab a latte for the commute,cup-togo
 Pick up tea from the cafe,cup-togo
+beverage this week,cup-togo
+work on beverage,cup-togo
+beverage check-in,cup-togo
+beverage errand,cup-togo
+beverage reminder,cup-togo

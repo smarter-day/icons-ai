@@ -35,7 +35,6 @@ COVID-19,user-doctor
 аватар врача в медицинском приложении,user-doctor
 аккаунт врача в системе здравоохранения,user-doctor
 карточка профиля медсестры,user-doctor
-профиль специалиста хирурга,user-doctor
 врач на переднем крае COVID,user-doctor
 профиль телемедицины виртуальный врач,user-doctor
 иконка медицинского работника,user-doctor
@@ -51,3 +50,12 @@ COVID-19,user-doctor
 здание больницы учреждение,user-doctor
 пациент лежит в постели больной,user-doctor
 фармацевт лекарство препарат,user-doctor
+health,user-doctor
+job,user-doctor
+medical,user-doctor
+nurse,user-doctor
+occupation,user-doctor
+physician,user-doctor
+profile,user-doctor
+surgeon,user-doctor
+uer,user-doctor

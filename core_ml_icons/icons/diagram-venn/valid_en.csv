@@ -2,3 +2,8 @@ text,label
 Draw a Venn diagram to compare,diagram-venn
 Show the overlap between two groups,diagram-venn
 Use a Venn diagram in the presentation,diagram-venn
+chart errand,diagram-venn
+chart reminder,diagram-venn
+follow up on chart,diagram-venn
+handle chart,diagram-venn
+chart task,diagram-venn

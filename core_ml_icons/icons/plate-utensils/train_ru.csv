@@ -32,3 +32,30 @@ text,label
 разделочная доска с ножом,plate-utensils
 кастрюля с едой для приготовления,plate-utensils
 ложка одна для супа,plate-utensils
+dinner,plate-utensils
+food,plate-utensils
+fork,plate-utensils
+knife,plate-utensils
+plate,plate-utensils
+utensils,plate-utensils
+plate utensils,plate-utensils
+еженедельный dinner,plate-utensils
+еженедельный food,plate-utensils
+еженедельный fork,plate-utensils
+еженедельный knife,plate-utensils
+еженедельный plate,plate-utensils
+еженедельный utensils,plate-utensils
+еженедельный plate utensils,plate-utensils
+почистить dinner,plate-utensils
+почистить food,plate-utensils
+почистить fork,plate-utensils
+почистить knife,plate-utensils
+почистить plate,plate-utensils
+почистить utensils,plate-utensils
+почистить plate utensils,plate-utensils
+dinner сегодня,plate-utensils
+food сегодня,plate-utensils
+fork сегодня,plate-utensils
+knife сегодня,plate-utensils
+plate сегодня,plate-utensils
+utensils сегодня,plate-utensils

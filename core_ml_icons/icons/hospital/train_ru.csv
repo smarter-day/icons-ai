@@ -26,10 +26,36 @@ text,label
 используйте значок больницы для страницы медицинского центра,hospital
 здание больницы,hospital
 посещение отделения неотложной помощи,hospital
-врач в больнице,hospital
 аптека с зеленым крестом,hospital
 офисное здание клиники для приема на прием,hospital
 машина скорой помощи с сиренами на дороге,hospital
 аптечка с красным крестом,hospital
 стетоскоп врача на столе,hospital
 церковное здание со шпилем,hospital
+building,hospital
+covid-19,hospital
+doctor,hospital
+emergency room,hospital
+hospital,hospital
+medical center,hospital
+medicine,hospital
+запись building,hospital
+запись covid-19,hospital
+запись doctor,hospital
+запись emergency room,hospital
+запись hospital,hospital
+запись medical center,hospital
+запись medicine,hospital
+building в понедельник,hospital
+covid-19 в понедельник,hospital
+doctor в понедельник,hospital
+emergency room в понедельник,hospital
+hospital в понедельник,hospital
+medical center в понедельник,hospital
+medicine в понедельник,hospital
+building для детей,hospital
+covid-19 для детей,hospital
+doctor для детей,hospital
+emergency room для детей,hospital
+hospital для детей,hospital
+обновить building,hospital

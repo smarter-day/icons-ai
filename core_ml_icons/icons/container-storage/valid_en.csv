@@ -2,3 +2,8 @@ text,label
 Pack boxes for storage,container-storage
 Ship goods to the warehouse,container-storage
 Do an inventory check,container-storage
+archive check-in,container-storage
+work on archive,container-storage
+archive this week,container-storage
+follow up on archive,container-storage
+archive reminder,container-storage

@@ -1,4 +1,9 @@
 text,label
-Hold the newborn with both hands,hands-holding
 Carry the large box together,hands-holding
 Lift the furniture with a partner,hands-holding
+carry task,hands-holding
+carry project,hands-holding
+carry errand,hands-holding
+carry check-in,hands-holding
+handle carry,hands-holding
+hold errand,hands-holding

@@ -2,3 +2,8 @@ text,label
 значок открытия замка,lock-open
 символ незапертого замка,lock-open
 открыть замок,lock-open
+admin на следующей неделе,lock-open
+вопрос admin,lock-open
+решить вопрос с admin,lock-open
+завершить admin,lock-open
+устроить admin,lock-open

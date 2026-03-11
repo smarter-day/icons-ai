@@ -1,0 +1,61 @@
+text,label
+admin,lock
+closed,lock
+lock,lock
+locked,lock
+open,lock
+padlock,lock
+password,lock
+privacy,lock
+private,lock
+protect,lock
+security,lock
+ne pas oublier admin,lock
+ne pas oublier closed,lock
+ne pas oublier lock,lock
+ne pas oublier locked,lock
+ne pas oublier open,lock
+ne pas oublier padlock,lock
+ne pas oublier password,lock
+ne pas oublier privacy,lock
+ne pas oublier private,lock
+ne pas oublier protect,lock
+ne pas oublier security,lock
+commencer admin,lock
+commencer closed,lock
+commencer lock,lock
+commencer locked,lock
+commencer open,lock
+commencer padlock,lock
+commencer password,lock
+commencer privacy,lock
+commencer private,lock
+commencer protect,lock
+commencer security,lock
+retourner admin en ligne,lock
+retourner closed en ligne,lock
+retourner lock en ligne,lock
+retourner locked en ligne,lock
+retourner open en ligne,lock
+retourner padlock en ligne,lock
+retourner password en ligne,lock
+retourner privacy en ligne,lock
+retourner private en ligne,lock
+retourner protect en ligne,lock
+retourner security en ligne,lock
+admin le soir,lock
+closed le soir,lock
+lock le soir,lock
+locked le soir,lock
+open le soir,lock
+padlock le soir,lock
+password le soir,lock
+privacy le soir,lock
+private le soir,lock
+protect le soir,lock
+security le soir,lock
+retourner padlock en linge,lock
+close le soir,lock
+securtiy,lock
+loked,lock
+commenecr open,lock

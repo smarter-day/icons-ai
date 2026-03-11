@@ -35,3 +35,27 @@ text,label
 Уровень заряда электромобиля 15 процентов,car-battery
 Механик диагностировал слабый аккумулятор,car-battery
 Провода для прикуривания машины,car-battery
+auto,car-battery
+electric,car-battery
+mechanic,car-battery
+power,car-battery
+car,car-battery
+battery,car-battery
+car battery,car-battery
+auto вечером,car-battery
+electric вечером,car-battery
+mechanic вечером,car-battery
+power вечером,car-battery
+car вечером,car-battery
+battery вечером,car-battery
+car battery вечером,car-battery
+запись auto,car-battery
+запись electric,car-battery
+запись mechanic,car-battery
+запись power,car-battery
+запись car,car-battery
+запись battery,car-battery
+запись car battery,car-battery
+продлить auto в магазине,car-battery
+продлить electric в магазине,car-battery
+продлить mechanic в магазине,car-battery

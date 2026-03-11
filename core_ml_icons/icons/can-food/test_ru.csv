@@ -2,3 +2,8 @@ text,label
 Открыть банку томатов,can-food
 Аварийный запас консервов,can-food
 Быстрая еда из банки,can-food
+управление canned,can-food
+уточнить canned,can-food
+обработать canned,can-food
+вопрос canned,can-food
+завершить canned,can-food

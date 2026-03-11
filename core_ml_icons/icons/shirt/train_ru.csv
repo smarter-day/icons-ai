@@ -3,7 +3,6 @@ text,label
 рубашка,shirt
 короткий рукав,shirt
 футболка,shirt
-футболка,shirt
 предмет одежды на вешалке в гардеробе,shirt
 сложенная одежда на полке магазина,shirt
 модная рубашка из дизайнерской коллекции,shirt
@@ -37,3 +36,26 @@ text,label
 свитер вязаный предмет одежды,shirt
 худи кофта с капюшоном и карманом,shirt
 жилет без рукавов поверх рубашки,shirt
+clothing,shirt
+fashion,shirt
+garment,shirt
+shirt,shirt
+short sleeve,shirt
+t-shirt,shirt
+tshirt,shirt
+clothing на субботу,shirt
+fashion на субботу,shirt
+garment на субботу,shirt
+shirt на субботу,shirt
+short sleeve на субботу,shirt
+t-shirt на субботу,shirt
+tshirt на субботу,shirt
+забронировать clothing онлайн,shirt
+забронировать fashion онлайн,shirt
+забронировать garment онлайн,shirt
+забронировать shirt онлайн,shirt
+забронировать short sleeve онлайн,shirt
+забронировать t-shirt онлайн,shirt
+забронировать tshirt онлайн,shirt
+clothing завтра,shirt
+clothing вечером,shirt

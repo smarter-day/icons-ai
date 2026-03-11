@@ -8,7 +8,6 @@ unpack after the move,box-open
 Unpack the delivery box,box-open
 Open the package from the store,box-open
 Unpack after moving in,box-open
-Open the storage container,box-open
 Unpack boxes in the new apartment,box-open
 Open the care package,box-open
 Unpack the moving boxes,box-open
@@ -28,3 +27,35 @@ Open the shipping container at the dock,box-open
 Package arrived — open and check contents,box-open
 Storage unit access to unpack items,box-open
 Unpack the boxes room by room,box-open
+archive,box-open
+container,box-open
+package,box-open
+storage,box-open
+box,box-open
+open,box-open
+box open,box-open
+check archive online,box-open
+check container online,box-open
+check package online,box-open
+check storage online,box-open
+check unpack online,box-open
+check box online,box-open
+check open online,box-open
+check box open online,box-open
+start archive,box-open
+start container,box-open
+start package,box-open
+start storage,box-open
+start unpack,box-open
+start box,box-open
+start open,box-open
+start box open,box-open
+remember to check archive,box-open
+remember to check container,box-open
+remember to check package,box-open
+remember to check storage,box-open
+remember to check unpack,box-open
+remember to check box,box-open
+remember to check open,box-open
+remember to check box open,box-open
+archive this weekend,box-open

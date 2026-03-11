@@ -22,7 +22,6 @@ text,label
 тонкая кисть для детальной росписи,brush
 текстура мазка кисти на фоне,brush
 кисть для макияжа с пушистой головкой,brush
-щётка для чистки поверхностей,brush
 веерная кисть для смешивания красок,brush
 показать кисть в панели инструментов редактирования,brush
 использовать значок кисти в меню творческих инструментов,brush
@@ -34,3 +33,29 @@ text,label
 фломастер рисует толстую линию,brush
 малярный валик красит стену,brush
 баллончик с краской распыляет цвет,brush
+art,brush
+bristles,brush
+color,brush
+handle,brush
+maintenance,brush
+modify,brush
+paint,brush
+brush,brush
+новый art,brush
+новый bristles,brush
+новый color,brush
+новый handle,brush
+новый maintenance,brush
+новый modify,brush
+новый paint,brush
+новый brush,brush
+art на субботу,brush
+bristles на субботу,brush
+color на субботу,brush
+handle на субботу,brush
+maintenance на субботу,brush
+modify на субботу,brush
+paint на субботу,brush
+brush на субботу,brush
+забронировать art в магазине,brush
+art для поездки,brush

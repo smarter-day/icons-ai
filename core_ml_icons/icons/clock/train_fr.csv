@@ -1,0 +1,61 @@
+text,label
+00,clock
+4,clock
+4:00,clock
+clock,clock
+date,clock
+four,clock
+four o’clock,clock
+hour,clock
+late,clock
+minute,clock
+o'clock,clock
+o’clock,clock
+pending,clock
+schedule,clock
+ticking,clock
+00 demain,clock
+4 demain,clock
+4:00 demain,clock
+clock demain,clock
+date demain,clock
+four demain,clock
+four o’clock demain,clock
+hour demain,clock
+late demain,clock
+minute demain,clock
+o'clock demain,clock
+o’clock demain,clock
+pending demain,clock
+schedule demain,clock
+ticking demain,clock
+time demain,clock
+timer demain,clock
+timestamp demain,clock
+watch demain,clock
+finir 00,clock
+finir 4,clock
+finir 4:00,clock
+finir clock,clock
+finir date,clock
+finir four,clock
+finir four o’clock,clock
+finir hour,clock
+finir late,clock
+finir minute,clock
+finir o'clock,clock
+finir o’clock,clock
+finir pending,clock
+finir schedule,clock
+finir ticking,clock
+finir time,clock
+finir timer,clock
+finir timestamp,clock
+finir watch,clock
+nouveau 00,clock
+nouveau 4,clock
+o'cllock demain,clock
+finir pnding,clock
+hour demmain,clock
+datee demain,clock
+o'clock demaiin,clock

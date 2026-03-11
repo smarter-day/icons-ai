@@ -1,0 +1,61 @@
+text,label
+doo,door-closed
+door,door-closed
+enter,door-closed
+exit,door-closed
+locked,door-closed
+privacy,door-closed
+closed,door-closed
+door closed,door-closed
+doo le matin,door-closed
+door le matin,door-closed
+enter le matin,door-closed
+exit le matin,door-closed
+locked le matin,door-closed
+privacy le matin,door-closed
+closed le matin,door-closed
+door closed le matin,door-closed
+doo ce week-end,door-closed
+door ce week-end,door-closed
+enter ce week-end,door-closed
+exit ce week-end,door-closed
+locked ce week-end,door-closed
+privacy ce week-end,door-closed
+closed ce week-end,door-closed
+door closed ce week-end,door-closed
+nouveau doo,door-closed
+nouveau door,door-closed
+nouveau enter,door-closed
+nouveau exit,door-closed
+nouveau locked,door-closed
+nouveau privacy,door-closed
+nouveau closed,door-closed
+nouveau door closed,door-closed
+doo rendez-vous,door-closed
+door rendez-vous,door-closed
+enter rendez-vous,door-closed
+exit rendez-vous,door-closed
+locked rendez-vous,door-closed
+privacy rendez-vous,door-closed
+closed rendez-vous,door-closed
+door closed rendez-vous,door-closed
+doo aujourd'hui,door-closed
+door aujourd'hui,door-closed
+enter aujourd'hui,door-closed
+exit aujourd'hui,door-closed
+locked aujourd'hui,door-closed
+privacy aujourd'hui,door-closed
+closed aujourd'hui,door-closed
+door closed aujourd'hui,door-closed
+remplacer le doo,door-closed
+remplacer le door,door-closed
+remplacer le enter,door-closed
+remplacer le exit,door-closed
+remplacer le locked,door-closed
+remplacer le privacy,door-closed
+remplacer le closed,door-closed
+noueau exit,door-closed
+replacer le enter,door-closed
+door closed rendeez-vous,door-closed
+doo lee matin,door-closed
+finir doo,door-closed

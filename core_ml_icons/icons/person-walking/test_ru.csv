@@ -1,3 +1,9 @@
 text,label
 символ пешехода на переходе,person-walking
 шаг упражнение ходьба,person-walking
+управление crosswalk,person-walking
+crosswalk на следующей неделе,person-walking
+завершить crosswalk,person-walking
+уточнить crosswalk,person-walking
+устроить crosswalk,person-walking
+решить вопрос с crosswalk,person-walking

@@ -2,3 +2,8 @@ text,label
 иконка авиабилета,ticket-airline
 символ посадочного талона,ticket-airline
 билет вылета рейса,ticket-airline
+завершить airplane,ticket-airline
+уточнить airplane,ticket-airline
+решить вопрос с airplane,ticket-airline
+обработать airplane,ticket-airline
+airplane на следующей неделе,ticket-airline

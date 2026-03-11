@@ -38,3 +38,24 @@ text,label
 отгрузочный поддон,pallet
 поддон для склада,pallet
 поддон с коробками,pallet
+archive,pallet
+box,pallet
+inventory,pallet
+shipping,pallet
+warehouse,pallet
+pallet,pallet
+обновить archive,pallet
+обновить box,pallet
+обновить inventory,pallet
+обновить shipping,pallet
+обновить warehouse,pallet
+обновить pallet,pallet
+обновить archive скоро,pallet
+обновить box скоро,pallet
+обновить inventory скоро,pallet
+обновить shipping скоро,pallet
+обновить warehouse скоро,pallet
+обновить pallet скоро,pallet
+новый archive,pallet
+новый box,pallet
+новый inventory,pallet

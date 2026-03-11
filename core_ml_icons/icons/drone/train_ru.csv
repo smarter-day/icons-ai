@@ -35,3 +35,27 @@ uav,drone
 снимать с экшн-камерой,drone
 использовать спутник для наблюдения,drone
 пилотировать радиоуправляемый самолёт,drone
+aerial,drone
+big brother,drone
+surveillance,drone
+unmanned,drone
+vehicle,drone
+drone,drone
+запись aerial,drone
+запись big brother,drone
+запись surveillance,drone
+запись uav,drone
+запись unmanned,drone
+запись vehicle,drone
+запись drone,drone
+забрать aerial,drone
+забрать big brother,drone
+забрать surveillance,drone
+забрать uav,drone
+забрать unmanned,drone
+забрать vehicle,drone
+забрать drone,drone
+aerial после работы,drone
+big brother после работы,drone
+surveillance после работы,drone
+uav после работы,drone

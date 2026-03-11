@@ -53,3 +53,9 @@ text,label
 получить точные GPS координаты,location-crosshairs
 центрировать карту на точке,location-crosshairs
 зафиксировать текущую геопозицию,location-crosshairs
+address,location-crosshairs
+coordinate,location-crosshairs
+direction,location-crosshairs
+gps,location-crosshairs
+location,location-crosshairs
+map,location-crosshairs

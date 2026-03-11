@@ -30,3 +30,32 @@ text,label
 кран грузового судна поднимает контейнер,ramp-loading
 грузовик стоит у погрузочной платформы,ramp-loading
 ручная тележка с уложенными коробками,ramp-loading
+inventory,ramp-loading
+moving,ramp-loading
+shipping,ramp-loading
+storage,ramp-loading
+warehouse,ramp-loading
+ramp,ramp-loading
+loading,ramp-loading
+ramp loading,ramp-loading
+забронировать inventory онлайн,ramp-loading
+забронировать moving онлайн,ramp-loading
+забронировать shipping онлайн,ramp-loading
+забронировать storage онлайн,ramp-loading
+забронировать warehouse онлайн,ramp-loading
+забронировать ramp онлайн,ramp-loading
+забронировать loading онлайн,ramp-loading
+забронировать ramp loading онлайн,ramp-loading
+inventory в понедельник,ramp-loading
+moving в понедельник,ramp-loading
+shipping в понедельник,ramp-loading
+storage в понедельник,ramp-loading
+warehouse в понедельник,ramp-loading
+ramp в понедельник,ramp-loading
+loading в понедельник,ramp-loading
+ramp loading в понедельник,ramp-loading
+inventory после работы,ramp-loading
+moving после работы,ramp-loading
+shipping после работы,ramp-loading
+storage после работы,ramp-loading
+warehouse после работы,ramp-loading

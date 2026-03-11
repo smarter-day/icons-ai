@@ -1,0 +1,61 @@
+text,label
+alarm,sensor
+alert,sensor
+carbon monoxide,sensor
+detector,sensor
+fire,sensor
+smoke,sensor
+sensor,sensor
+alarm aujourd'hui,sensor
+alert aujourd'hui,sensor
+carbon monoxide aujourd'hui,sensor
+detector aujourd'hui,sensor
+fire aujourd'hui,sensor
+smoke aujourd'hui,sensor
+sensor aujourd'hui,sensor
+alarm rendez-vous,sensor
+alert rendez-vous,sensor
+carbon monoxide rendez-vous,sensor
+detector rendez-vous,sensor
+fire rendez-vous,sensor
+smoke rendez-vous,sensor
+sensor rendez-vous,sensor
+réserver alarm,sensor
+réserver alert,sensor
+réserver carbon monoxide,sensor
+réserver detector,sensor
+réserver fire,sensor
+réserver smoke,sensor
+réserver sensor,sensor
+nouveau alarm,sensor
+nouveau alert,sensor
+nouveau carbon monoxide,sensor
+nouveau detector,sensor
+nouveau fire,sensor
+nouveau smoke,sensor
+nouveau sensor,sensor
+alarm hebdomadaire,sensor
+alert hebdomadaire,sensor
+carbon monoxide hebdomadaire,sensor
+detector hebdomadaire,sensor
+fire hebdomadaire,sensor
+smoke hebdomadaire,sensor
+sensor hebdomadaire,sensor
+alarm le soir,sensor
+alert le soir,sensor
+carbon monoxide le soir,sensor
+detector le soir,sensor
+fire le soir,sensor
+smoke le soir,sensor
+sensor le soir,sensor
+alarm le matin,sensor
+alert le matin,sensor
+carbon monoxide le matin,sensor
+detector le matin,sensor
+fire le matin,sensor
+smoke le matin,sensor
+smoke aujour'hui,sensor
+alarm le maatin,sensor
+réseerver smoke,sensor
+réserer sensor,sensor
+nouvaeu fire,sensor

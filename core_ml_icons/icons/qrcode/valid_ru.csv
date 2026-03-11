@@ -2,3 +2,8 @@ text,label
 QR-код для сканирования камерой телефона,qrcode
 QR-код на меню ресторана,qrcode
 сканируемый QR-код для оплаты,qrcode
+напоминание barcode,qrcode
+barcode дело,qrcode
+задача barcode,qrcode
+barcode на этой неделе,qrcode
+поработать над barcode,qrcode

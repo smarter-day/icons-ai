@@ -28,3 +28,34 @@ text,label
 угольная шахта подземная добыча,oil-well
 газопровод природного газа,oil-well
 электростанция с градирнями,oil-well
+drill,oil-well
+oil,oil-well
+rig,oil-well
+well,oil-well
+oil well,oil-well
+drill сегодня,oil-well
+oil сегодня,oil-well
+rig сегодня,oil-well
+well сегодня,oil-well
+oil well сегодня,oil-well
+drill на выходных,oil-well
+oil на выходных,oil-well
+rig на выходных,oil-well
+well на выходных,oil-well
+oil well на выходных,oil-well
+начать drill,oil-well
+начать oil,oil-well
+начать rig,oil-well
+начать well,oil-well
+начать oil well,oil-well
+закончить drill,oil-well
+закончить oil,oil-well
+закончить rig,oil-well
+закончить well,oil-well
+закончить oil well,oil-well
+drill для поездки,oil-well
+oil для поездки,oil-well
+rig для поездки,oil-well
+well для поездки,oil-well
+oil well для поездки,oil-well
+организовать drill в магазине,oil-well

@@ -1,39 +1,61 @@
 text,label
+упражнение,watch-fitness
+фитнес,watch-fitness
+здоровье,watch-fitness
+смарт-часы,watch-fitness
+трекер,watch-fitness
+тренировка,watch-fitness
 Fitbit,watch-fitness
-Apple Watch,watch-fitness
+фитнес-трекер,watch-fitness
 шагомер,watch-fitness
-наручные часы,watch-fitness
-Fitbit фитнес трекер часы,watch-fitness
-Fitbit шаги калории подсчёт,watch-fitness
-уведомление фитнес часы,watch-fitness
-часы уведомление вибрация запястье,watch-fitness
-Apple Watch фитнес отслеживание,watch-fitness
-Apple Watch тренировка фитнес,watch-fitness
-часы циферблат фитнес,watch-fitness
-фитнес-часы циферблат отображение,watch-fitness
-шагомер фитнес часы количество шагов,watch-fitness
-фитнес-часы шагомер ежедневный,watch-fitness
-время фитнес часы отображение,watch-fitness
-часы время отображение фитнес,watch-fitness
-наручные часы фитнес ежедневное отслеживание,watch-fitness
-фитнес наручные часы спорт,watch-fitness
-Fitbit фитнес-трекер на запястье,watch-fitness
-фитнес-часы монитор сердечного ритма,watch-fitness
-шагомер наручные часы подсчёт шагов,watch-fitness
-GPS-трек маршрут фитнес-часы,watch-fitness
-смарт-часы режим тренировки активный,watch-fitness
-фитнес-браслет качество сна,watch-fitness
-сожжённые калории фитнес-часы,watch-fitness
-беговые часы темп расстояние,watch-fitness
-водонепроницаемые фитнес-часы плавание,watch-fitness
-зарядная станция фитнес-часов,watch-fitness
-Fitbit фитнес часы,watch-fitness
-фитнес трекер часы,watch-fitness
-шагомер фитнес часы,watch-fitness
-наручные часы фитнес,watch-fitness
-Apple Watch смарт-часы бренд,watch-fitness
-аналоговые часы традиционные стрелки,watch-fitness
-смартфон приложение здоровья фитнес,watch-fitness
-монитор сердечного ритма грудной,watch-fitness
-GPS устройство навигация улица,watch-fitness
-кроссовки бег фитнес упражнение,watch-fitness
+количество шагов,watch-fitness
+пульс,watch-fitness
+фитнес-часы,watch-fitness
+трекер здоровья,watch-fitness
+режим тренировки,watch-fitness
+фитнес-браслет,watch-fitness
+спортзал,watch-fitness
+кардио,watch-fitness
+браслет,watch-fitness
+проверить количество шагов на фитнес-трекере,watch-fitness
+синхронизировать смарт-часы перед тренировкой,watch-fitness
+зарядить фитнес-часы на ночь,watch-fitness
+посмотреть статистику тренировки за утро,watch-fitness
+установить дневную цель шагов на шагомере,watch-fitness
+купить новый ремешок для фитнес-трекера,watch-fitness
+проверить пульс после пробежки,watch-fitness
+скачать приложение для фитнеса на смарт-часы,watch-fitness
+отследить калории за тренировку,watch-fitness
+обновить прошивку фитнес-часов,watch-fitness
+подключить Fitbit к телефону,watch-fitness
+записать тренировку в спортзале на трекер,watch-fitness
+поставить напоминание о тренировке на смарт-часах,watch-fitness
+сравнить фитнес-часы в магазине,watch-fitness
+вернуть сломанный фитнес-браслет,watch-fitness
+почистить трекер после плавания,watch-fitness
+заменить зарядку для смарт-часов,watch-fitness
+включить отслеживание сна на фитнес-часах,watch-fitness
+проверить недельную статистику упражнений,watch-fitness
+надо пройти десять тысяч шагов сегодня,watch-fitness
+батарея трекера села во время пробежки,watch-fitness
+забыл смарт-часы в спортзале,watch-fitness
+пульс был высоким во время кардио,watch-fitness
+у каких фитнес-часов лучший GPS,watch-fitness
+трекер показывает что сжёг 500 калорий,watch-fitness
+Fitbit не синхронизируется с телефоном,watch-fitness
+ремешок фитнес-браслета опять порвался,watch-fitness
+смарт-часы весь день напоминают о тренировке,watch-fitness
+заказать запасной ремешок для трекера,watch-fitness
+начать новую программу упражнений на часах,watch-fitness
+заплывы отслеживаются на фитнес-часах,watch-fitness
+поделиться статистикой тренировки с тренером,watch-fitness
+надеть трекер на ночь для данных о сне,watch-fitness
+шагомер последнее время считает неправильно,watch-fitness
+узнать водонепроницаемый ли новый Fitbit,watch-fitness
+утренняя пробежка записана на смарт-часах,watch-fitness
+проверть шаги на трекере,watch-fitness
+синхранизировать часы перед тренировкой,watch-fitness
+фитнес часы батаеря села,watch-fitness
+тренровка на смарт-часах,watch-fitness
+шагмер считает неправильно,watch-fitness
+настроить фитнес-часы для бега на улице,watch-fitness

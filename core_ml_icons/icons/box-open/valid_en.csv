@@ -2,3 +2,8 @@ text,label
 Unpack the delivery that arrived,box-open
 Open the moving boxes,box-open
 Unpack all the boxes after moving,box-open
+archive check-in,box-open
+archive task,box-open
+archive this week,box-open
+work on archive,box-open
+archive project,box-open

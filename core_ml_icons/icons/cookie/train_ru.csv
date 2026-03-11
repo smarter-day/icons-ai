@@ -33,7 +33,6 @@ text,label
 испечь печенье,cookie
 нужен сладкий перекус,cookie
 возьми печенье,cookie
-испечь печенье с шоколадной крошкой,cookie
 рецепт печенья,cookie
 купить печенье в магазине,cookie
 приготовить сладкое печенье,cookie
@@ -43,3 +42,20 @@ text,label
 шоколадное печенье на тарелке,cookie
 десертное печенье к празднику,cookie
 перекус сладким печеньем,cookie
+baked good,cookie
+chips,cookie
+chocolate,cookie
+cookie,cookie
+dessert,cookie
+eat,cookie
+snack,cookie
+sweet,cookie
+treat,cookie
+закончить baked good,cookie
+закончить chips,cookie
+закончить chocolate,cookie
+закончить cookie,cookie
+закончить dessert,cookie
+закончить eat,cookie
+закончить snack,cookie
+baked good вечером,cookie

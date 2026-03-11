@@ -2,3 +2,8 @@ text,label
 проверить корзину перед оплатой,cart-shopping
 корзина готова к оформлению,cart-shopping
 недельные продукты уже в корзине,cart-shopping
+buy на следующей неделе,cart-shopping
+buy сегодня вечером,cart-shopping
+уточнить buy,cart-shopping
+управление buy,cart-shopping
+решить вопрос с buy,cart-shopping

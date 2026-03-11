@@ -2,3 +2,8 @@ text,label
 иконка полос мощности сотового сигнала,signal
 строка состояния сигнала смартфона,signal
 индикатор полос 5G,signal
+завершить antenna,signal
+уточнить antenna,signal
+разобрать antenna,signal
+вопрос antenna,signal
+обработать antenna,signal

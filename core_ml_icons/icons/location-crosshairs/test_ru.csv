@@ -2,3 +2,8 @@ text,label
 найти меня на карте,location-crosshairs
 вернуться к текущей геопозиции,location-crosshairs
 точно определить где я сейчас,location-crosshairs
+address сегодня вечером,location-crosshairs
+завершить address,location-crosshairs
+уточнить address,location-crosshairs
+обработать address,location-crosshairs
+address на следующей неделе,location-crosshairs

@@ -31,3 +31,31 @@ text,label
 диск хранения полный компьютер,warehouse-full
 корзина полная товаров,warehouse-full
 аккумулятор полный заряд,warehouse-full
+building,warehouse-full
+capacity,warehouse-full
+garage,warehouse-full
+inventory,warehouse-full
+storage,warehouse-full
+warehouse,warehouse-full
+full,warehouse-full
+warehouse full,warehouse-full
+закончить building,warehouse-full
+закончить capacity,warehouse-full
+закончить garage,warehouse-full
+закончить inventory,warehouse-full
+закончить storage,warehouse-full
+закончить warehouse,warehouse-full
+закончить full,warehouse-full
+закончить warehouse full,warehouse-full
+building вечером,warehouse-full
+capacity вечером,warehouse-full
+garage вечером,warehouse-full
+inventory вечером,warehouse-full
+storage вечером,warehouse-full
+warehouse вечером,warehouse-full
+full вечером,warehouse-full
+warehouse full вечером,warehouse-full
+building сегодня,warehouse-full
+capacity сегодня,warehouse-full
+garage сегодня,warehouse-full
+inventory сегодня,warehouse-full

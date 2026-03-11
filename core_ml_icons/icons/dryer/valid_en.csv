@@ -2,3 +2,8 @@ text,label
 Put clothes in the dryer,dryer
 Clean the dryer lint filter,dryer
 Do a load of laundry,dryer
+clean task,dryer
+schedule clean,dryer
+clean reminder,dryer
+work on clean,dryer
+plan for clean,dryer

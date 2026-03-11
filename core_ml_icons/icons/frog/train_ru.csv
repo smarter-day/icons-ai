@@ -26,7 +26,6 @@ text,label
 Прудовая лягушка,frog
 увидеть лягушку у пруда,frog
 "Литсне лягушкам, реббит",frog
-найти лягушку в саду,frog
 "смотреть, как лягушка прыгает",frog
 Увидеть саламандру в ручье,frog
 Найди ящерицу во дворе,frog
@@ -34,3 +33,29 @@ text,label
 Найти змею в траве,frog
 Увидеть тритона возле пруда,frog
 "Посмотрите, как хамелеон меняет цвет",frog
+amphibian,frog
+bullfrog,frog
+fauna,frog
+hop,frog
+kermit,frog
+kiss,frog
+prince,frog
+ribbit,frog
+toad,frog
+wart,frog
+frog,frog
+amphibian утром,frog
+bullfrog утром,frog
+fauna утром,frog
+hop утром,frog
+kermit утром,frog
+kiss утром,frog
+prince утром,frog
+ribbit утром,frog
+toad утром,frog
+wart утром,frog
+frog утром,frog
+amphibian на субботу,frog
+bullfrog на субботу,frog
+fauna на субботу,frog
+начать amphibian,frog

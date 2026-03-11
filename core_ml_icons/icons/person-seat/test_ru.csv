@@ -2,3 +2,8 @@ text,label
 иконка человека в кресле,person-seat
 выбор места в самолёте,person-seat
 откидное сиденье для путешествия,person-seat
+обработать airplane,person-seat
+airplane сегодня вечером,person-seat
+управление airplane,person-seat
+завершить airplane,person-seat
+разобрать airplane,person-seat

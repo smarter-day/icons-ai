@@ -14,7 +14,6 @@ text,label
 символ абзаца в текстовом процессоре,paragraph
 символ пилкроу для редактирования текста,paragraph
 показать скрытые знаки форматирования в документе,paragraph
-форматирование отступа абзаца,paragraph
 текстовый блок с разрывом абзаца,paragraph
 настройка стиля абзаца в текстовом процессоре,paragraph
 редакторский знак коррекции пилкроу,paragraph
@@ -32,3 +31,31 @@ text,label
 выравнивание текста влево вправо по центру,paragraph
 стиль шрифта жирный курсив подчёркнутый,paragraph
 межстрочный интервал между строками,paragraph
+Pilcrow Sign,paragraph
+edit,paragraph
+format,paragraph
+text,paragraph
+writing,paragraph
+paragraph,paragraph
+новый Pilcrow Sign,paragraph
+новый edit,paragraph
+новый format,paragraph
+новый text,paragraph
+новый writing,paragraph
+новый paragraph,paragraph
+Pilcrow Sign для детей,paragraph
+edit для детей,paragraph
+format для детей,paragraph
+text для детей,paragraph
+writing для детей,paragraph
+paragraph для детей,paragraph
+Pilcrow Sign утром,paragraph
+edit утром,paragraph
+format утром,paragraph
+text утром,paragraph
+writing утром,paragraph
+paragraph утром,paragraph
+Pilcrow Sign вечером,paragraph
+edit вечером,paragraph
+format вечером,paragraph
+найти Pilcrow Sign скоро,paragraph

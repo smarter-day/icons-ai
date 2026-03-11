@@ -48,3 +48,14 @@ text,label
 телефонный столб с проводами,utility-pole
 столб повален,utility-pole
 бригада ремонтирует электрический столб,utility-pole
+phone,utility-pole
+power,utility-pole
+transmission,utility-pole
+utility,utility-pole
+pole,utility-pole
+utility pole,utility-pole
+phone на субботу,utility-pole
+power на субботу,utility-pole
+transmission на субботу,utility-pole
+utility на субботу,utility-pole
+pole на субботу,utility-pole

@@ -38,3 +38,24 @@ text,label
 музыкальный эквалайзер с ползунками баса и высоких,volume
 полочный динамик с тканевым диффузором,volume
 портативная bluetooth колонка на столе,volume
+audio,volume
+control,volume
+medium,volume
+music,volume
+sound,volume
+speaker,volume
+speaker medium volume,volume
+volume,volume
+заменить audio в магазине,volume
+заменить control в магазине,volume
+заменить medium в магазине,volume
+заменить music в магазине,volume
+заменить sound в магазине,volume
+заменить speaker в магазине,volume
+заменить speaker medium volume в магазине,volume
+заменить volume в магазине,volume
+audio на выходных,volume
+control на выходных,volume
+medium на выходных,volume
+music на выходных,volume
+sound на выходных,volume

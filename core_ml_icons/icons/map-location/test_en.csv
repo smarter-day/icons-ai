@@ -2,3 +2,8 @@ text,label
 map screen with selected place,map-location
 map card with saved location,map-location
 view a place inside the map,map-location
+wrap up address,map-location
+address tonight,map-location
+arrange address,map-location
+address to-do,map-location
+figure out address,map-location

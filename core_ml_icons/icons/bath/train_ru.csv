@@ -36,3 +36,26 @@ text,label
 Утренний душ перед работой,bath
 Кран в ванне капает — починить,bath
 Помыться после тренировки,bath
+bath,bath
+bathtub,bath
+clean,bath
+shower,bath
+tub,bath
+wash,bath
+спланировать bath в магазине,bath
+спланировать bathtub в магазине,bath
+спланировать clean в магазине,bath
+спланировать shower в магазине,bath
+спланировать tub в магазине,bath
+спланировать wash в магазине,bath
+bath на выходных,bath
+bathtub на выходных,bath
+clean на выходных,bath
+shower на выходных,bath
+tub на выходных,bath
+wash на выходных,bath
+bath для поездки,bath
+bathtub для поездки,bath
+clean для поездки,bath
+shower для поездки,bath
+tub для поездки,bath

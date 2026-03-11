@@ -1,4 +1,9 @@
 text,label
-add a note to the patient chart,note-medical
 doctor note after the visit,note-medical
 update the medical record note,note-medical
+memo this week,note-medical
+memo task,note-medical
+memo project,note-medical
+schedule memo,note-medical
+memo check-in,note-medical
+schedule sticky note,note-medical

@@ -2,3 +2,8 @@ text,label
 иконка минимизации,minimize
 свернуть до меньшего вида,minimize
 кнопка уменьшения окна,minimize
+управление collapse,minimize
+разобрать collapse,minimize
+collapse на следующей неделе,minimize
+завершить collapse,minimize
+уточнить collapse,minimize

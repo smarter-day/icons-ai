@@ -8,7 +8,6 @@ text,label
 пара стрелок скрещена для обозначения перемешивания,shuffle
 две стрелки пересекаются для перемешивания,shuffle
 стрелки указывают в противоположных направлениях,shuffle
-иконка перемешивания со скрещенными стрелками,shuffle
 кнопка перемешивания в музыкальном плеере,shuffle
 кнопка перемешивания треков в плейлисте,shuffle
 нажать перемешать для случайного воспроизведения,shuffle
@@ -40,3 +39,23 @@ text,label
 кубик случайного порядка для настольной игры,shuffle
 сортировка по возрастанию в алфавитном порядке,shuffle
 обмен двух позиций элементов,shuffle
+arrow,shuffle
+arrows,shuffle
+crossed,shuffle
+shuffle,shuffle
+shuffle tracks button,shuffle
+sort,shuffle
+swap,shuffle
+switch,shuffle
+transfer,shuffle
+отменить arrow в магазине,shuffle
+отменить arrows в магазине,shuffle
+отменить crossed в магазине,shuffle
+отменить shuffle в магазине,shuffle
+отменить shuffle tracks button в магазине,shuffle
+отменить sort в магазине,shuffle
+отменить swap в магазине,shuffle
+отменить switch в магазине,shuffle
+отменить transfer в магазине,shuffle
+начать arrow,shuffle
+arrow для детей,shuffle

@@ -2,3 +2,8 @@ text,label
 webhook endpoint for API integration,webhook
 HTTP callback trigger for automation,webhook
 server-to-server event notification,webhook
+api check-in,webhook
+api this week,webhook
+api reminder,webhook
+api errand,webhook
+schedule api,webhook

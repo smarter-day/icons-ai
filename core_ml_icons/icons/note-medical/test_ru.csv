@@ -2,3 +2,8 @@ text,label
 сделать запись в медицинской карте,note-medical
 сохранить заметку к рецепту,note-medical
 проверить запись врача,note-medical
+устроить memo,note-medical
+разобрать memo,note-medical
+уточнить memo,note-medical
+управление memo,note-medical
+обработать memo,note-medical

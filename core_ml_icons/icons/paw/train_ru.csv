@@ -31,3 +31,31 @@ text,label
 ошейник или поводок питомца,paw
 след животного с пальцами,paw
 птичья лапа или коготь след,paw
+animal,paw
+cat,paw
+dog,paw
+pet,paw
+print,paw
+paw,paw
+animal сегодня,paw
+cat сегодня,paw
+dog сегодня,paw
+pet сегодня,paw
+print сегодня,paw
+paw сегодня,paw
+animal вечером,paw
+cat вечером,paw
+dog вечером,paw
+pet вечером,paw
+print вечером,paw
+paw вечером,paw
+animal на субботу,paw
+cat на субботу,paw
+dog на субботу,paw
+pet на субботу,paw
+print на субботу,paw
+paw на субботу,paw
+animal после работы,paw
+cat после работы,paw
+dog после работы,paw
+pet после работы,paw

@@ -2,7 +2,6 @@ text,label
 булочка,hotdog
 перец чили,hotdog
 хот-дог,hotdog
-хот-дог,hotdog
 колбаса,hotdog
 бутерброд,hotdog
 Поджарьте булочку перед подачей,hotdog
@@ -36,3 +35,27 @@ text,label
 Сделайте колбасную обертку на завтрак,hotdog
 Вместо этого жарьте куриные крылышки на гриле.,hotdog
 Сделать бутерброд с мясным деликатесом,hotdog
+bun,hotdog
+chili,hotdog
+frankfurt,hotdog
+frankfurter,hotdog
+hot dog,hotdog
+hotdog,hotdog
+kosher,hotdog
+polish,hotdog
+sandwich,hotdog
+sausage,hotdog
+vienna,hotdog
+weiner,hotdog
+bun для детей,hotdog
+chili для детей,hotdog
+frankfurt для детей,hotdog
+frankfurter для детей,hotdog
+hot dog для детей,hotdog
+hotdog для детей,hotdog
+kosher для детей,hotdog
+polish для детей,hotdog
+sandwich для детей,hotdog
+sausage для детей,hotdog
+vienna для детей,hotdog
+не забыть bun,hotdog

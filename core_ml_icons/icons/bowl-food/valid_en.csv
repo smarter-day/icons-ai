@@ -2,3 +2,8 @@ text,label
 Feed the cat this evening,bowl-food
 Cook a bowl of rice for dinner,bowl-food
 Fill the dog's food bowl,bowl-food
+handle catfood,bowl-food
+take care of catfood,bowl-food
+work on catfood,bowl-food
+catfood reminder,bowl-food
+schedule catfood,bowl-food

@@ -2,3 +2,8 @@ text,label
 иконка выключателя выкл,toggle-off
 отключённая кнопка переключателя,toggle-off
 выкл состояние переключателя,toggle-off
+проект button,toggle-off
+заняться button,toggle-off
+задача button,toggle-off
+поработать над button,toggle-off
+запланировать button,toggle-off

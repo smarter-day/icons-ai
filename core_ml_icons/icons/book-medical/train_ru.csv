@@ -49,3 +49,13 @@ text,label
 иконка монитора сердечного ритма,book-medical
 папка с картой пациента в шкафу,book-medical
 обычный блокнот без медицинского креста,book-medical
+diary,book-medical
+documentation,book-medical
+health,book-medical
+history,book-medical
+journal,book-medical
+library,book-medical
+read,book-medical
+record,book-medical
+research,book-medical
+book,book-medical

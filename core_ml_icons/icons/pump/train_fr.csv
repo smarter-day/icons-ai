@@ -1,0 +1,61 @@
+text,label
+drain,pump
+flood,pump
+pump,pump
+sump,pump
+water,pump
+préparer drain bientôt,pump
+préparer flood bientôt,pump
+préparer pump bientôt,pump
+préparer sump bientôt,pump
+préparer water bientôt,pump
+drain le soir,pump
+flood le soir,pump
+pump le soir,pump
+sump le soir,pump
+water le soir,pump
+drain hebdomadaire,pump
+flood hebdomadaire,pump
+pump hebdomadaire,pump
+sump hebdomadaire,pump
+water hebdomadaire,pump
+drain après le travail,pump
+flood après le travail,pump
+pump après le travail,pump
+sump après le travail,pump
+water après le travail,pump
+drain pour le voyage,pump
+flood pour le voyage,pump
+pump pour le voyage,pump
+sump pour le voyage,pump
+water pour le voyage,pump
+drain aujourd'hui,pump
+flood aujourd'hui,pump
+pump aujourd'hui,pump
+sump aujourd'hui,pump
+water aujourd'hui,pump
+préparer drain en ligne,pump
+préparer flood en ligne,pump
+préparer pump en ligne,pump
+préparer sump en ligne,pump
+préparer water en ligne,pump
+commencer drain,pump
+commencer flood,pump
+commencer pump,pump
+commencer sump,pump
+commencer water,pump
+préparer le drain,pump
+préparer le flood,pump
+préparer le pump,pump
+préparer le sump,pump
+préparer le water,pump
+finir drain,pump
+finir flood,pump
+finir pump,pump
+finir sump,pump
+finir water,pump
+préarer water bientôt,pump
+pump pour le voage,pump
+drain hebdmoadaire,pump
+pump hebdomadaie,pump
+drain le matin,pump

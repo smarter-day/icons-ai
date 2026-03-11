@@ -2,3 +2,8 @@ text,label
 найти где я нахожусь сейчас,location-crosshairs
 вернуть карту ко мне,location-crosshairs
 определить точную GPS позицию,location-crosshairs
+address дело,location-crosshairs
+проект address,location-crosshairs
+address на этой неделе,location-crosshairs
+напоминание address,location-crosshairs
+план по address,location-crosshairs

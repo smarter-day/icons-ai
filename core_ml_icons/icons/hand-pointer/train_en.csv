@@ -44,3 +44,18 @@ tap the play button,hand-pointer
 move the hand cursor over the link,hand-pointer
 select the profile from the list,hand-pointer
 tap the control to enable it,hand-pointer
+arrow,hand-pointer
+cursor,hand-pointer
+select,hand-pointer
+hand,hand-pointer
+pointer,hand-pointer
+pick up arrow for kids,hand-pointer
+pick up cursor for kids,hand-pointer
+pick up select for kids,hand-pointer
+pick up hand for kids,hand-pointer
+pick up pointer for kids,hand-pointer
+pick up hand pointer for kids,hand-pointer
+need to pick up arrow,hand-pointer
+need to pick up cursor,hand-pointer
+need to pick up select,hand-pointer
+need to pick up hand,hand-pointer

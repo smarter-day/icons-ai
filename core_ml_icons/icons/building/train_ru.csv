@@ -11,7 +11,6 @@ text,label
 техническое обслуживание офисного здания,building
 городской строительный проект,building
 работать в здании в центре города,building
-Ехать в офисное здание,building
 Встреча в штаб-квартире компании,building
 Запланированная инспекция здания,building
 Проверка технического обслуживания офисного здания,building
@@ -44,3 +43,19 @@ text,label
 Пожарная тревога в офисном здании на этой неделе,building
 Пересмотр городского зонирования для проекта,building
 Дорога на работу в центр города,building
+apartment,building
+building,building
+business,building
+city,building
+company,building
+office,building
+office building,building
+urban,building
+work,building
+apartment утром,building
+building утром,building
+business утром,building
+city утром,building
+company утром,building
+office утром,building
+apartment сегодня,building

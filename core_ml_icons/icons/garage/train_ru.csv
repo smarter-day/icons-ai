@@ -54,3 +54,8 @@ text,label
 поставить машину в гараж на ночь,garage
 умные ворота гаража,garage
 инструменты в мастерской гаража,garage
+auto,garage
+car,garage
+door,garage
+storage,garage
+structure,garage

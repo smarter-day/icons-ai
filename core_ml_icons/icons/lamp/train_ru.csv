@@ -49,4 +49,13 @@ text,label
 настольная лампа с абажуром,lamp
 лампа включена для чтения,lamp
 умная лампа меняет цвет,lamp
-прикроватная лампа на тумбочке,lamp
+bright,lamp
+furniture,lamp
+light,lamp
+lamp,lamp
+забрать bright,lamp
+забрать furniture,lamp
+забрать light,lamp
+забрать lamp,lamp
+забрать bright в магазине,lamp
+еженедельный bright,lamp

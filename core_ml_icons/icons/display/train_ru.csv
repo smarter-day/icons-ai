@@ -45,8 +45,17 @@ imac,display
 дублировать экран на проектор,display
 дисплей не обнаружен — проверить кабель,display
 показать монитор для управления разрешением,display
-широкоформатный монитор на столе,display
-подключить второй монитор к ноутбуку,display
 разрешение дисплея 4K,display
-экран Retina на iMac,display
 откалибровать цвет дисплея,display
+Screen,display
+computer,display
+desktop,display
+display,display
+Screen вечером,display
+computer вечером,display
+desktop вечером,display
+imac вечером,display
+display вечером,display
+Screen утром,display
+computer утром,display
+desktop утром,display

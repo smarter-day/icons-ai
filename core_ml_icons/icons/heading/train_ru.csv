@@ -49,4 +49,13 @@ H2,heading
 заголовок раздела H2,heading
 жирный крупный заголовок на странице,heading
 иерархия заголовков в документе,heading
-сменить абзац на стиль заголовка,heading
+format,heading
+header,heading
+text,heading
+title,heading
+heading,heading
+format сегодня,heading
+header сегодня,heading
+text сегодня,heading
+title сегодня,heading
+убрать format скоро,heading

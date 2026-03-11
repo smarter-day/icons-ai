@@ -13,7 +13,6 @@ text,label
 отсортировать бельё перед стиркой,dryer
 сначала использовать стиральную машину,dryer
 переложить вещи из стиралки в сушилку,dryer
-высушить одежду после стирки,dryer
 положить мокрую одежду в сушилку,dryer
 поставить сушилку на слабый нагрев,dryer
 использовать сушилку для простыней,dryer
@@ -35,3 +34,28 @@ text,label
 сложить и убрать бельё,dryer
 купить стиральный порошок,dryer
 отдать деликатные вещи в химчистку,dryer
+clean,dryer
+clothes,dryer
+laundromat,dryer
+laundry,dryer
+washing machine,dryer
+dryer,dryer
+clean сегодня,dryer
+clothes сегодня,dryer
+laundromat сегодня,dryer
+laundry сегодня,dryer
+washing machine сегодня,dryer
+dryer сегодня,dryer
+новый clean,dryer
+новый clothes,dryer
+новый laundromat,dryer
+новый laundry,dryer
+новый washing machine,dryer
+новый dryer,dryer
+закончить clean,dryer
+закончить clothes,dryer
+закончить laundromat,dryer
+закончить laundry,dryer
+закончить washing machine,dryer
+закончить dryer,dryer
+не забыть clean,dryer

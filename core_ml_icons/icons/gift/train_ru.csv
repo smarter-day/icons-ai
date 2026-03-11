@@ -8,7 +8,6 @@ text,label
 настоящий,gift
 завернутый,gift
 упакованный подарок,gift
-Рождество,gift
 подарочная коробка с бантиком сверху,gift
 сюрприз внутри подарочной коробки,gift
 подарок на торжественное мероприятие,gift
@@ -53,3 +52,10 @@ text,label
 конверт с письмом-сюрпризом внутри,gift
 "воздушный шар, привязанный к подарочному пакету",gift
 "сундук с сокровищами, наполненный наградами",gift
+box,gift
+celebration,gift
+christmas,gift
+generosity,gift
+gift,gift
+giving,gift
+holiday,gift

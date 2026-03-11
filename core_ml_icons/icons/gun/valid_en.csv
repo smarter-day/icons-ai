@@ -1,4 +1,9 @@
 text,label
 Go to the shooting range,gun
-Store the gun safely,gun
 Take a gun safety course,gun
+handle firearm,gun
+schedule firearm,gun
+firearm check-in,gun
+firearm reminder,gun
+firearm task,gun
+firearm errand,gun

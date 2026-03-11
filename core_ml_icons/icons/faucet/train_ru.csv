@@ -20,9 +20,7 @@ text,label
 Проверьте давление воды,faucet
 Мойте руки перед едой,faucet
 Заменить старый кухонный смеситель,faucet
-Прочистите слив раковины,faucet
 Очистите аэратор крана,faucet
-Проверьте давление воды,faucet
 Вызвать сантехника для крана,faucet
 Исправь эту капельницу,faucet
 Выключи кран,faucet
@@ -38,3 +36,26 @@ text,label
 Заменить смеситель в ванной,faucet
 Починить протекающую трубу под раковиной,faucet
 Установить новый водонагреватель,faucet
+covid-19,faucet
+drinking,faucet
+drip,faucet
+house,faucet
+hygiene,faucet
+kitchen,faucet
+potable,faucet
+potable water,faucet
+sanitation,faucet
+sink,faucet
+water,faucet
+faucet,faucet
+организовать covid-19 скоро,faucet
+организовать drinking скоро,faucet
+организовать drip скоро,faucet
+организовать house скоро,faucet
+организовать hygiene скоро,faucet
+организовать kitchen скоро,faucet
+организовать potable скоро,faucet
+организовать potable water скоро,faucet
+организовать sanitation скоро,faucet
+настроить covid-19,faucet
+настроить drinking,faucet

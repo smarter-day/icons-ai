@@ -2,3 +2,8 @@ text,label
 Check off completed tasks,list-check
 Track progress on the checklist,list-check
 Create a project task list,list-check
+handle bullet,list-check
+plan for bullet,list-check
+bullet task,list-check
+bullet check-in,list-check
+bullet errand,list-check

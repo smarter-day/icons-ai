@@ -2,3 +2,8 @@ text,label
 Know when to leave for work,clock
 Set a work timer,clock
 Check what time it is now,clock
+arrange 00,clock
+00 tonight,clock
+00 to-do,clock
+complete 00,clock
+sort out 00,clock

@@ -2,3 +2,8 @@ text,label
 Car battery check before the long drive,car-battery
 Jump start needed for dead battery,car-battery
 Replace the old car battery,car-battery
+auto task,car-battery
+handle auto,car-battery
+auto check-in,car-battery
+auto this week,car-battery
+take care of auto,car-battery

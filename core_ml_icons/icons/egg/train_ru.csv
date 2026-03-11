@@ -26,7 +26,6 @@ text,label
 сварить яйца,egg
 охота за пасхальными яйцами,egg
 яичный забег,egg
-сварить яйцо на завтрак,egg
 яичница,egg
 пожарить яйцо глазуньей,egg
 сделать омлет к ужину,egg
@@ -34,3 +33,29 @@ text,label
 купить свежие яйца на ферме,egg
 приготовить скрэмбл на завтрак,egg
 пасхальные яйца в корзинке,egg
+breakfast,egg
+chicken,egg
+easter,egg
+egg,egg
+food,egg
+shell,egg
+yolk,egg
+закончить breakfast,egg
+закончить chicken,egg
+закончить easter,egg
+закончить egg,egg
+закончить food,egg
+закончить shell,egg
+закончить yolk,egg
+изучить breakfast скоро,egg
+изучить chicken скоро,egg
+изучить easter скоро,egg
+изучить egg скоро,egg
+изучить food скоро,egg
+изучить shell скоро,egg
+изучить yolk скоро,egg
+breakfast после работы,egg
+chicken после работы,egg
+easter после работы,egg
+egg после работы,egg
+breakfast завтра,egg

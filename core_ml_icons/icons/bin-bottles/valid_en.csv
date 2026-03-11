@@ -2,3 +2,8 @@ text,label
 Recycle plastic bottles today,bin-bottles
 Sort the bottles for collection,bin-bottles
 Drop off plastic containers at recycling,bin-bottles
+collect reminder,bin-bottles
+collect task,bin-bottles
+follow up on collect,bin-bottles
+schedule collect,bin-bottles
+collect this week,bin-bottles

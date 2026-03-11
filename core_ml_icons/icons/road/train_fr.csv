@@ -1,0 +1,61 @@
+text,label
+highway,road
+map,road
+motorway,road
+pavement,road
+road,road
+route,road
+street,road
+travel,road
+comparer highway,road
+comparer map,road
+comparer motorway,road
+comparer pavement,road
+comparer road,road
+comparer route,road
+comparer street,road
+comparer travel,road
+highway pour le voyage,road
+map pour le voyage,road
+motorway pour le voyage,road
+pavement pour le voyage,road
+road pour le voyage,road
+route pour le voyage,road
+street pour le voyage,road
+travel pour le voyage,road
+nouveau highway,road
+nouveau map,road
+nouveau motorway,road
+nouveau pavement,road
+nouveau road,road
+nouveau route,road
+nouveau street,road
+nouveau travel,road
+highway hebdomadaire,road
+map hebdomadaire,road
+motorway hebdomadaire,road
+pavement hebdomadaire,road
+road hebdomadaire,road
+route hebdomadaire,road
+street hebdomadaire,road
+travel hebdomadaire,road
+highway pour samedi,road
+map pour samedi,road
+motorway pour samedi,road
+pavement pour samedi,road
+road pour samedi,road
+route pour samedi,road
+street pour samedi,road
+travel pour samedi,road
+commencer highway,road
+commencer map,road
+commencer motorway,road
+commencer pavement,road
+commencer road,road
+commencer route,road
+commencer street,road
+comaprer route,road
+pavemment,road
+paement,road
+préparer highway,road
+préparer map,road

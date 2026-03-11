@@ -2,3 +2,8 @@ text,label
 Recycling day tomorrow — put it out,bin-recycle
 Sort all recycling before collection,bin-recycle
 Empty and clean the recycling bin,bin-recycle
+schedule collect,bin-recycle
+collect errand,bin-recycle
+follow up on collect,bin-recycle
+collect project,bin-recycle
+collect this week,bin-recycle

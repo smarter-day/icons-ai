@@ -18,7 +18,6 @@ text,label
 глазунья,egg-fried
 яйцо на тосте,egg-fried
 жареный завтрак,egg-fried
-пожарить яйцо,egg-fried
 яйцо глазунья,egg-fried
 жареное яйцо на завтрак,egg-fried
 пожарить яйцо на масле,egg-fried
@@ -51,3 +50,12 @@ text,label
 пожарить яйцо на завтрак,egg-fried
 яйцо солнечной стороной вверх,egg-fried
 хрустящая яичница,egg-fried
+breakfast,egg-fried
+chicken,egg-fried
+yolk,egg-fried
+egg,egg-fried
+fried,egg-fried
+egg fried,egg-fried
+сравнить breakfast скоро,egg-fried
+сравнить chicken скоро,egg-fried
+закончить breakfast,egg-fried

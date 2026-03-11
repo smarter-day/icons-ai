@@ -6,7 +6,6 @@ text,label
 замок в открытом состоянии,lock-open
 открытый замок не заперт,lock-open
 замок открыт и разблокирован,lock-open
-замок открыт и разблокирован,lock-open
 открыть замок на воротах,lock-open
 "пароль раскрыт, открыть замок",lock-open
 открыть замок после ввода пароля,lock-open
@@ -42,3 +41,21 @@ text,label
 комбинированный сейф с открытой дверью,lock-open
 "биометрическое сканирование, разблокирующее устройство",lock-open
 "бейдж доступа, показанный для входа",lock-open
+admin,lock-open
+lock,lock-open
+open,lock-open
+padlock,lock-open
+password,lock-open
+privacy,lock-open
+private,lock-open
+protect,lock-open
+security,lock-open
+unlock,lock-open
+lock open,lock-open
+admin после работы,lock-open
+lock после работы,lock-open
+open после работы,lock-open
+padlock после работы,lock-open
+password после работы,lock-open
+privacy после работы,lock-open
+запись admin,lock-open

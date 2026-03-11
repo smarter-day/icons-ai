@@ -38,3 +38,24 @@ text,label
 Используйте линейку для измерения расстояния,gauge
 Проверьте направление компаса,gauge
 Прочтите показания манометра на шине.,gauge
+dashboard,gauge
+fast,gauge
+odometer,gauge
+speed,gauge
+speedometer,gauge
+gauge,gauge
+начать dashboard,gauge
+начать fast,gauge
+начать odometer,gauge
+начать speed,gauge
+начать speedometer,gauge
+начать gauge,gauge
+собрать dashboard в магазине,gauge
+собрать fast в магазине,gauge
+собрать odometer в магазине,gauge
+собрать speed в магазине,gauge
+собрать speedometer в магазине,gauge
+собрать gauge в магазине,gauge
+собрать dashboard,gauge
+собрать fast,gauge
+собрать odometer,gauge

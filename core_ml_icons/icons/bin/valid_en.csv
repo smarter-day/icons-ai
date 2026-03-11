@@ -2,3 +2,8 @@ text,label
 blue recycle bin for plastics,bin
 recycling container at the depot,bin
 collect recyclables in the bin,bin
+handle collect,bin
+collect reminder,bin
+collect this week,bin
+take care of collect,bin
+collect check-in,bin

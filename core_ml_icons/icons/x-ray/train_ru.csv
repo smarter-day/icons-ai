@@ -17,7 +17,6 @@ text,label
 рентгенолог читает сканирование костей,x-ray
 рентгеновское изображение лёгких и рёбер,x-ray
 заключение диагностики медицинской визуализации,x-ray
-отделение радиологии больницы,x-ray
 рентген перелома кости,x-ray
 панорамный дентальный рентген зубов,x-ray
 рентген позвонков позвоночника,x-ray
@@ -33,3 +32,30 @@ text,label
 стетоскоп слушает сердцебиение,x-ray
 микроскоп препарат медицинской лаборатории,x-ray
 цепочка ДНК генетическое тестирование,x-ray
+health,x-ray
+medical,x-ray
+radiological images,x-ray
+radiology,x-ray
+skeleton,x-ray
+x,x-ray
+ray,x-ray
+x ray,x-ray
+запись health,x-ray
+запись medical,x-ray
+запись radiological images,x-ray
+запись radiology,x-ray
+запись skeleton,x-ray
+запись x,x-ray
+запись ray,x-ray
+запись x ray,x-ray
+health на субботу,x-ray
+medical на субботу,x-ray
+radiological images на субботу,x-ray
+radiology на субботу,x-ray
+skeleton на субботу,x-ray
+x на субботу,x-ray
+ray на субботу,x-ray
+x ray на субботу,x-ray
+потренировать health,x-ray
+потренировать medical,x-ray
+заказать health,x-ray

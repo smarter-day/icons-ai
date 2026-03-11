@@ -35,3 +35,27 @@ text,label
 горнолыжная маска закрывающая лицо от холода,mask-ventilator
 пылевая маска для защиты от аллергии,mask-ventilator
 маска для подводного плавания с трубкой,mask-ventilator
+breath,mask-ventilator
+gas,mask-ventilator
+mask,mask-ventilator
+oxygen,mask-ventilator
+respirator,mask-ventilator
+ventilator,mask-ventilator
+mask ventilator,mask-ventilator
+breath для детей,mask-ventilator
+gas для детей,mask-ventilator
+mask для детей,mask-ventilator
+oxygen для детей,mask-ventilator
+respirator для детей,mask-ventilator
+ventilator для детей,mask-ventilator
+mask ventilator для детей,mask-ventilator
+еженедельный breath,mask-ventilator
+еженедельный gas,mask-ventilator
+еженедельный mask,mask-ventilator
+еженедельный oxygen,mask-ventilator
+еженедельный respirator,mask-ventilator
+еженедельный ventilator,mask-ventilator
+еженедельный mask ventilator,mask-ventilator
+не забыть breath,mask-ventilator
+не забыть gas,mask-ventilator
+не забыть mask,mask-ventilator

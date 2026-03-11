@@ -46,3 +46,16 @@ text,label
 поддон отсканирован у дока,pallet-box
 инвентарь на поддоне,pallet-box
 поддон для отправки товара,pallet-box
+inventory,pallet-box
+package,pallet-box
+shipping,pallet-box
+pallet,pallet-box
+box,pallet-box
+pallet box,pallet-box
+inventory вечером,pallet-box
+package вечером,pallet-box
+shipping вечером,pallet-box
+pallet вечером,pallet-box
+box вечером,pallet-box
+pallet box вечером,pallet-box
+запись inventory,pallet-box

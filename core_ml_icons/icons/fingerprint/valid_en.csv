@@ -2,3 +2,8 @@ text,label
 fingerprint scanner on phone,fingerprint
 unique fingerprint pattern,fingerprint
 fingerprint unlock,fingerprint
+human reminder,fingerprint
+human task,fingerprint
+human check-in,fingerprint
+plan for human,fingerprint
+follow up on human,fingerprint

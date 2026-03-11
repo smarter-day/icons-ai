@@ -52,3 +52,10 @@ text,label
 Время заблокировано для глубокой работы,calendar
 Когда следующий государственный праздник,calendar
 Годовой обзорный календарь подготовлен,calendar
+calendar,calendar
+calendar-o,calendar
+date,calendar
+day,calendar
+event,calendar
+month,calendar
+schedule,calendar

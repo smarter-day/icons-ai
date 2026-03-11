@@ -22,7 +22,6 @@ text,label
 собрали дом на колёсах готовы ехать,caravan
 места для трейлеров быстро заканчиваются,caravan
 весь отпуск в кемпере,caravan
-отпуск на трейлере вдоль побережья,caravan
 бронирование места для дома на колёсах,caravan
 планирование маршрута моторхома,caravan
 техобслуживание кемпера перед поездкой,caravan
@@ -37,3 +36,26 @@ text,label
 Ремонт навеса автодома перед поездкой,caravan
 Фаркоп установлен на буксирующем автомобиле,caravan
 Маршрут путешествия каравана спланирован,caravan
+camper,caravan
+motor home,caravan
+rv,caravan
+trailer,caravan
+travel,caravan
+caravan,caravan
+заменить camper,caravan
+заменить motor home,caravan
+заменить rv,caravan
+заменить trailer,caravan
+заменить travel,caravan
+заменить caravan,caravan
+заменить camper онлайн,caravan
+заменить motor home онлайн,caravan
+заменить rv онлайн,caravan
+заменить trailer онлайн,caravan
+заменить travel онлайн,caravan
+заменить caravan онлайн,caravan
+camper вечером,caravan
+motor home вечером,caravan
+rv вечером,caravan
+trailer вечером,caravan
+еженедельный camper,caravan

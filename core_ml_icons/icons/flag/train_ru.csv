@@ -46,3 +46,16 @@ text,label
 "финишная лента, натянутая по всей дорожке",flag
 "сигнальный флаг, которым размахивает официальное лицо гонки",flag
 "бирка-ярлык, прикрепленная к товару",flag
+black flag,flag
+country,flag
+notice,flag
+notification,flag
+notify,flag
+pole,flag
+report,flag
+waving,flag
+flag,flag
+black flag утром,flag
+country утром,flag
+notice утром,flag
+notification утром,flag

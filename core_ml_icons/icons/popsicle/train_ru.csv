@@ -2,7 +2,6 @@ text,label
 замороженное,popsicle
 мороженое на палочке,popsicle
 леденец,popsicle
-леденец,popsicle
 эскимо,popsicle
 замороженный десерт на деревянной палочке,popsicle
 летнее угощение для детей на палочке,popsicle
@@ -38,3 +37,25 @@ text,label
 замороженный йогурт в стаканчике с посыпкой,popsicle
 леденцовая трость в красно-белую полоску,popsicle
 джелато в маленьком бумажном стаканчике,popsicle
+dessert,popsicle
+frozen,popsicle
+ice lolly,popsicle
+lollipop,popsicle
+lolly,popsicle
+popsicle,popsicle
+sweet,popsicle
+новый dessert,popsicle
+новый frozen,popsicle
+новый ice lolly,popsicle
+новый lollipop,popsicle
+новый lolly,popsicle
+новый popsicle,popsicle
+новый sweet,popsicle
+запись dessert,popsicle
+запись frozen,popsicle
+запись ice lolly,popsicle
+запись lollipop,popsicle
+запись lolly,popsicle
+запись popsicle,popsicle
+запись sweet,popsicle
+dessert на субботу,popsicle

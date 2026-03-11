@@ -2,3 +2,8 @@ text,label
 Сдать пластиковые бутылки сегодня,bin-bottles
 Рассортировать бутылки для вывоза,bin-bottles
 Сдать пластиковые контейнеры в переработку,bin-bottles
+заняться collect,bin-bottles
+collect дело,bin-bottles
+напоминание collect,bin-bottles
+план по collect,bin-bottles
+collect на этой неделе,bin-bottles

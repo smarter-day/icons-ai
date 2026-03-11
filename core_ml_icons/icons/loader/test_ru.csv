@@ -2,3 +2,8 @@ text,label
 анимация круга загрузки,loader
 вращающийся индикатор прогресса,loader
 ожидание загрузки контента,loader
+вопрос loading,loader
+обработать loading,loader
+уточнить loading,loader
+завершить loading,loader
+управление loading,loader

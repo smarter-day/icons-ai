@@ -2,3 +2,8 @@ text,label
 Check heart rate at the doctor,heart-pulse
 Get an EKG test,heart-pulse
 Monitor vital signs,heart-pulse
+work on ekg,heart-pulse
+plan for ekg,heart-pulse
+ekg check-in,heart-pulse
+handle ekg,heart-pulse
+ekg errand,heart-pulse

@@ -39,3 +39,23 @@ text,label
 металлические грабли собирают листья,shovel
 садовая тяпка рубит сорняки между рядами,shovel
 длинная тяпка рыхлит почву,shovel
+construction,shovel
+dig,shovel
+equipment,shovel
+excavate,shovel
+maintenance,shovel
+trench,shovel
+shovel,shovel
+забрать construction в магазине,shovel
+забрать dig в магазине,shovel
+забрать equipment в магазине,shovel
+забрать excavate в магазине,shovel
+забрать maintenance в магазине,shovel
+забрать trench в магазине,shovel
+забрать shovel в магазине,shovel
+запись construction,shovel
+запись dig,shovel
+запись equipment,shovel
+запись excavate,shovel
+запись maintenance,shovel
+запись trench,shovel

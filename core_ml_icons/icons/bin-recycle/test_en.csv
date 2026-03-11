@@ -2,3 +2,8 @@ text,label
 Put recycling out for pickup,bin-recycle
 Recycling bin needs emptying,bin-recycle
 Collection day for all recyclables,bin-recycle
+manage collect,bin-recycle
+tackle collect,bin-recycle
+wrap up collect,bin-recycle
+arrange collect,bin-recycle
+collect next week,bin-recycle

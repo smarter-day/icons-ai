@@ -1,0 +1,61 @@
+text,label
+drain,pump
+flood,pump
+pump,pump
+sump,pump
+water,pump
+no olvidar drain,pump
+no olvidar flood,pump
+no olvidar pump,pump
+no olvidar sump,pump
+no olvidar water,pump
+drain por la mañana,pump
+flood por la mañana,pump
+pump por la mañana,pump
+sump por la mañana,pump
+water por la mañana,pump
+drain después del trabajo,pump
+flood después del trabajo,pump
+pump después del trabajo,pump
+sump después del trabajo,pump
+water después del trabajo,pump
+drain el lunes,pump
+flood el lunes,pump
+pump el lunes,pump
+sump el lunes,pump
+water el lunes,pump
+terminar drain,pump
+terminar flood,pump
+terminar pump,pump
+terminar sump,pump
+terminar water,pump
+drain para el sábado,pump
+flood para el sábado,pump
+pump para el sábado,pump
+sump para el sábado,pump
+water para el sábado,pump
+drain para los niños,pump
+flood para los niños,pump
+pump para los niños,pump
+sump para los niños,pump
+water para los niños,pump
+drain este fin de semana,pump
+flood este fin de semana,pump
+pump este fin de semana,pump
+sump este fin de semana,pump
+water este fin de semana,pump
+drain semanal,pump
+flood semanal,pump
+pump semanal,pump
+sump semanal,pump
+water semanal,pump
+nuevo drain,pump
+nuevo flood,pump
+nuevo pump,pump
+nuevo sump,pump
+nuevo water,pump
+drain para el sábaddo,pump
+termniar drain,pump
+flood este fin d semana,pump
+nuevo darin,pump
+drain hoy,pump

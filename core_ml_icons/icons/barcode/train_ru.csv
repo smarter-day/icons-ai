@@ -37,3 +37,25 @@ UPC,barcode
 Проверить цену через сканер штрихкода,barcode
 Отсканировать этикетку перед кассой,barcode
 Поиск UPC кода для системы учёта,barcode
+info,barcode
+laser,barcode
+price,barcode
+scan,barcode
+barcode,barcode
+закончить info,barcode
+закончить laser,barcode
+закончить price,barcode
+закончить scan,barcode
+закончить upc,barcode
+закончить barcode,barcode
+info вечером,barcode
+laser вечером,barcode
+price вечером,barcode
+scan вечером,barcode
+upc вечером,barcode
+barcode вечером,barcode
+info на субботу,barcode
+laser на субботу,barcode
+price на субботу,barcode
+scan на субботу,barcode
+upc на субботу,barcode

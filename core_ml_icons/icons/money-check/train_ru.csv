@@ -42,3 +42,20 @@ text,label
 стопка монет для сдачи,money-check
 банковский перевод цифровая транзакция,money-check
 документ счёта для выставления счёта,money-check
+bank check,money-check
+buy,money-check
+checkout,money-check
+cheque,money-check
+money,money-check
+payment,money-check
+price,money-check
+purchase,money-check
+salary,money-check
+check,money-check
+money check,money-check
+bank check для детей,money-check
+buy для детей,money-check
+checkout для детей,money-check
+cheque для детей,money-check
+money для детей,money-check
+payment для детей,money-check

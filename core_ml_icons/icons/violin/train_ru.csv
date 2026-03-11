@@ -2,7 +2,6 @@ text,label
 смычок,violin
 виолончель,violin
 скрипка,violin
-скрипка,violin
 смычок плавно ведут по струнам,violin
 канифоль нанесена на волос смычка,violin
 виолончель в струнном квартете,violin
@@ -33,3 +32,30 @@ text,label
 скрипка в оркестре,violin
 скрипка со смычком на сцене,violin
 смычок ведут по струнам скрипки,violin
+bow,violin
+cello,violin
+fiddle,violin
+instrument,violin
+music,violin
+orchestra,violin
+string,violin
+violin,violin
+bow для поездки,violin
+cello для поездки,violin
+fiddle для поездки,violin
+instrument для поездки,violin
+music для поездки,violin
+orchestra для поездки,violin
+string для поездки,violin
+violin для поездки,violin
+bow утром,violin
+cello утром,violin
+fiddle утром,violin
+instrument утром,violin
+music утром,violin
+orchestra утром,violin
+string утром,violin
+violin утром,violin
+bow вечером,violin
+cello вечером,violin
+fiddle вечером,violin

@@ -2,3 +2,8 @@ text,label
 open padlock with shackle raised,lock-open
 unlocked icon after login,lock-open
 open lock for access,lock-open
+admin project,lock-open
+follow up on admin,lock-open
+handle admin,lock-open
+admin task,lock-open
+admin check-in,lock-open

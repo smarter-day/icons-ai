@@ -4,13 +4,11 @@ text,label
 франкфуртер,sausage
 сосиска,sausage
 хот-дог,sausage
-хот-дог,sausage
 кильбаса,sausage
 кошерный,sausage
 пепперони,sausage
 польская,sausage
 венская,sausage
-сосиска,sausage
 брат-вурст на гриле на барбекю,sausage
 брат-вурст в булочке,sausage
 сосиска на завтрак с яичницей,sausage
@@ -57,3 +55,7 @@ text,label
 куриная ножка на гриле с зеленью,sausage
 фрикаделька в томатном соусе на спагетти,sausage
 ломтики салями на колбасной тарелке,sausage
+bratwurst,sausage
+breakfast,sausage
+chorizo,sausage
+frankfurt,sausage

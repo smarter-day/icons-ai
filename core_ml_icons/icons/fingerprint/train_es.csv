@@ -1,0 +1,61 @@
+text,label
+human,fingerprint
+id,fingerprint
+identification,fingerprint
+lock,fingerprint
+privacy,fingerprint
+smudge,fingerprint
+touch,fingerprint
+unique,fingerprint
+unlock,fingerprint
+fingerprint,fingerprint
+empezar human,fingerprint
+empezar id,fingerprint
+empezar identification,fingerprint
+empezar lock,fingerprint
+empezar privacy,fingerprint
+empezar smudge,fingerprint
+empezar touch,fingerprint
+empezar unique,fingerprint
+empezar unlock,fingerprint
+empezar fingerprint,fingerprint
+human para el viaje,fingerprint
+id para el viaje,fingerprint
+identification para el viaje,fingerprint
+lock para el viaje,fingerprint
+privacy para el viaje,fingerprint
+smudge para el viaje,fingerprint
+touch para el viaje,fingerprint
+unique para el viaje,fingerprint
+unlock para el viaje,fingerprint
+fingerprint para el viaje,fingerprint
+cancelar human en línea,fingerprint
+cancelar id en línea,fingerprint
+cancelar identification en línea,fingerprint
+cancelar lock en línea,fingerprint
+cancelar privacy en línea,fingerprint
+cancelar smudge en línea,fingerprint
+cancelar touch en línea,fingerprint
+cancelar unique en línea,fingerprint
+cancelar unlock en línea,fingerprint
+cancelar fingerprint en línea,fingerprint
+human después del trabajo,fingerprint
+id después del trabajo,fingerprint
+identification después del trabajo,fingerprint
+lock después del trabajo,fingerprint
+privacy después del trabajo,fingerprint
+smudge después del trabajo,fingerprint
+touch después del trabajo,fingerprint
+unique después del trabajo,fingerprint
+unlock después del trabajo,fingerprint
+fingerprint después del trabajo,fingerprint
+human cita,fingerprint
+id cita,fingerprint
+identification cita,fingerprint
+lock cita,fingerprint
+privacy cita,fingerprint
+privvacy,fingerprint
+unlock praa el viaje,fingerprint
+unique después del trabbajo,fingerprint
+priacy,fingerprint
+empezr identification,fingerprint

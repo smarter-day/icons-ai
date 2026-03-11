@@ -2,3 +2,8 @@ text,label
 Перекус надкушенным печеньем,cookie-bite
 Съешь хотя бы кусочек печенья,cookie-bite
 Печенье с одним укусом,cookie-bite
+завершить baked good,cookie-bite
+вопрос baked good,cookie-bite
+обработать baked good,cookie-bite
+разобрать baked good,cookie-bite
+baked good на следующей неделе,cookie-bite

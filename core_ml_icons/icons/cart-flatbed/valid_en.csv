@@ -2,3 +2,8 @@ text,label
 Flatbed cart for the warehouse move,cart-flatbed
 Load stock onto the flatbed trolley,cart-flatbed
 Roll the flatbed to the loading dock,cart-flatbed
+schedule carry,cart-flatbed
+carry reminder,cart-flatbed
+carry project,cart-flatbed
+take care of carry,cart-flatbed
+carry errand,cart-flatbed

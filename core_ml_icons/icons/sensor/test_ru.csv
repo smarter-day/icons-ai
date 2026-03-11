@@ -2,3 +2,8 @@ text,label
 круглый дымовой датчик на потолке,sensor
 датчик обнаруживает огонь или дым,sensor
 датчик безопасности умного дома,sensor
+уточнить alarm,sensor
+alarm сегодня вечером,sensor
+завершить alarm,sensor
+решить вопрос с alarm,sensor
+устроить alarm,sensor

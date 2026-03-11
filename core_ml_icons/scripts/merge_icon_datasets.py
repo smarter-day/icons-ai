@@ -26,8 +26,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--lang",
         default="en",
-        choices=("en", "ru"),
-        help="Dataset language suffix to merge. Default: en",
+        help="Dataset language suffix to merge (e.g. en, ru, de, ja, fr, es). Default: en",
     )
     parser.add_argument(
         "--source-dir",

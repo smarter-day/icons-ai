@@ -34,3 +34,28 @@ text,label
 пожарный гидрант на улице,pump
 водонапорная башня на опорах,pump
 бассейн с дорожками вид сверху,pump
+drain,pump
+flood,pump
+pump,pump
+sump,pump
+water,pump
+заменить drain онлайн,pump
+заменить flood онлайн,pump
+заменить pump онлайн,pump
+заменить sump онлайн,pump
+заменить water онлайн,pump
+закончить drain,pump
+закончить flood,pump
+закончить pump,pump
+закончить sump,pump
+закончить water,pump
+drain утром,pump
+flood утром,pump
+pump утром,pump
+sump утром,pump
+water утром,pump
+drain после работы,pump
+flood после работы,pump
+pump после работы,pump
+sump после работы,pump
+water после работы,pump

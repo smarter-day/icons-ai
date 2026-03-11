@@ -2,7 +2,6 @@ text,label
 прикрепить,paperclip
 вложение,paperclip
 скрепка,paperclip
-скрепка,paperclip
 прикрепить файл к email,paperclip
 прикрепить документ к сообщению,paperclip
 иконка вложения email,paperclip
@@ -34,3 +33,29 @@ Clippy помощник Microsoft в виде скрепки,paperclip
 звено цепи для URL ссылки,paperclip
 кнопка для доски объявлений,paperclip
 резинка для скрепления пачки,paperclip
+attach,paperclip
+attachment,paperclip
+connect,paperclip
+link,paperclip
+papercli,paperclip
+paperclip,paperclip
+attach утром,paperclip
+attachment утром,paperclip
+connect утром,paperclip
+link утром,paperclip
+papercli утром,paperclip
+paperclip утром,paperclip
+attach после работы,paperclip
+attachment после работы,paperclip
+connect после работы,paperclip
+link после работы,paperclip
+papercli после работы,paperclip
+paperclip после работы,paperclip
+attach в понедельник,paperclip
+attachment в понедельник,paperclip
+connect в понедельник,paperclip
+link в понедельник,paperclip
+papercli в понедельник,paperclip
+paperclip в понедельник,paperclip
+настроить attach в магазине,paperclip
+начать attach,paperclip

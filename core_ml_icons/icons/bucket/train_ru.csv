@@ -5,7 +5,6 @@ text,label
 наполнить ведро водой,bucket
 взять ведёрко для уборки,bucket
 построить замок из песка на пляже,bucket
-Построить замок из песка на пляже,bucket
 Наполнить ведро для мытья полов,bucket
 Взять ведро и вымыть пол,bucket
 День на пляже с вёдрами для детей,bucket
@@ -32,3 +31,31 @@ text,label
 Видео с ведром льда после обеда,bucket
 Ведро мыльной воды для мытья машины,bucket
 Конкурс замков из песка на пляже,bucket
+bucket,bucket
+pail,bucket
+sandcastle,bucket
+bucket на выходных,bucket
+pail на выходных,bucket
+sandcastle на выходных,bucket
+начать bucket,bucket
+начать pail,bucket
+начать sandcastle,bucket
+купить bucket скоро,bucket
+купить pail скоро,bucket
+купить sandcastle скоро,bucket
+еженедельный bucket,bucket
+еженедельный pail,bucket
+еженедельный sandcastle,bucket
+bucket в понедельник,bucket
+pail в понедельник,bucket
+sandcastle в понедельник,bucket
+bucket вечером,bucket
+pail вечером,bucket
+sandcastle вечером,bucket
+bucket на субботу,bucket
+pail на субботу,bucket
+sandcastle на субботу,bucket
+bucket завтра,bucket
+pail завтра,bucket
+sandcastle завтра,bucket
+не забыть bucket,bucket

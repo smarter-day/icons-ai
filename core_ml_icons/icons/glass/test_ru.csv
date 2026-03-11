@@ -1,4 +1,9 @@
 text,label
-иконка стакана с напитком,glass
-символ стакана воды,glass
 иконка стакана молока,glass
+уточнить alcohol,glass
+управление alcohol,glass
+завершить alcohol,glass
+alcohol сегодня вечером,glass
+вопрос alcohol,glass
+beverage сегодня вечером,glass
+обработать alcohol,glass

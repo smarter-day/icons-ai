@@ -31,10 +31,31 @@ text,label
 диаграмма ганта для проекта,chart-gantt
 обновить диаграмму с дедлайнами,chart-gantt
 добавить зависимоти на график,chart-gantt
-ежемесячный обзор диаграммы ганта,chart-gantt
 Круговая диаграмма для разбивки доходов,chart-gantt
 Столбчатая диаграмма сравнения продаж,chart-gantt
 Линейный график для анализа трендов,chart-gantt
 Канбан-доска для задач спринта,chart-gantt
 Таблица для данных проекта,chart-gantt
 Диаграмма сгорания спринта,chart-gantt
+chart,chart-gantt
+graph,chart-gantt
+performance,chart-gantt
+statistics,chart-gantt
+track,chart-gantt
+trend,chart-gantt
+gantt,chart-gantt
+chart gantt,chart-gantt
+chart на субботу,chart-gantt
+graph на субботу,chart-gantt
+performance на субботу,chart-gantt
+statistics на субботу,chart-gantt
+track на субботу,chart-gantt
+trend на субботу,chart-gantt
+gantt на субботу,chart-gantt
+chart gantt на субботу,chart-gantt
+новый chart,chart-gantt
+новый graph,chart-gantt
+новый performance,chart-gantt
+новый statistics,chart-gantt
+новый track,chart-gantt
+chart утром,chart-gantt

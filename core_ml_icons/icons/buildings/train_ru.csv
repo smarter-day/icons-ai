@@ -38,3 +38,24 @@ text,label
 Ремонт офиса на этом этаже,buildings
 Встреча по городскому планированию завтра утром,buildings
 Продление пропуска в рабочее здание,buildings
+apartment,buildings
+business,buildings
+city,buildings
+company,buildings
+office,buildings
+urban,buildings
+work,buildings
+buildings,buildings
+apartment вечером,buildings
+business вечером,buildings
+city вечером,buildings
+company вечером,buildings
+office вечером,buildings
+urban вечером,buildings
+work вечером,buildings
+buildings вечером,buildings
+запись apartment,buildings
+запись business,buildings
+запись city,buildings
+запись company,buildings
+запись office,buildings

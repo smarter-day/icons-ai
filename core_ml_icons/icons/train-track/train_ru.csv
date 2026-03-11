@@ -30,3 +30,32 @@ text,label
 взлётно-посадочная полоса аэропорт посадка,train-track
 велосипедная дорожка разметка,train-track
 трамвай канатная машина на рельсах,train-track
+rail,train-track
+railroad,train-track
+tracks,train-track
+train,train-track
+track,train-track
+train track,train-track
+rail в понедельник,train-track
+railroad в понедельник,train-track
+tracks в понедельник,train-track
+train в понедельник,train-track
+track в понедельник,train-track
+train track в понедельник,train-track
+отменить rail в магазине,train-track
+отменить railroad в магазине,train-track
+отменить tracks в магазине,train-track
+отменить train в магазине,train-track
+отменить track в магазине,train-track
+отменить train track в магазине,train-track
+rail после работы,train-track
+railroad после работы,train-track
+tracks после работы,train-track
+train после работы,train-track
+track после работы,train-track
+train track после работы,train-track
+rail сегодня,train-track
+railroad сегодня,train-track
+tracks сегодня,train-track
+train сегодня,train-track
+track сегодня,train-track

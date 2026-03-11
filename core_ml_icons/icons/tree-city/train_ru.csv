@@ -16,7 +16,6 @@ text,label
 покрытие кронами деревьев городская зона,tree-city
 уход за деревьями обрезка в городе,tree-city
 городское дерево зелёный,tree-city
-городской парк дерево,tree-city
 здание город зелёное дерево,tree-city
 планирование деревьев город,tree-city
 деревья высажены вдоль главного бульвара,tree-city
@@ -41,3 +40,22 @@ text,label
 покрытие кронами деревьев в городе,tree-city
 иконка зелёного пространства умного города,tree-city
 устойчивый городской дизайн с деревом,tree-city
+building,tree-city
+city,tree-city
+urban,tree-city
+tree,tree-city
+tree city,tree-city
+building сегодня,tree-city
+city сегодня,tree-city
+urban сегодня,tree-city
+tree сегодня,tree-city
+tree city сегодня,tree-city
+закончить building,tree-city
+закончить city,tree-city
+закончить urban,tree-city
+закончить tree,tree-city
+закончить tree city,tree-city
+еженедельный building,tree-city
+еженедельный city,tree-city
+еженедельный urban,tree-city
+запись building,tree-city

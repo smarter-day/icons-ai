@@ -1,0 +1,61 @@
+text,label
+building,hotel
+hotel,hotel
+inn,hotel
+lodging,hotel
+motel,hotel
+resort,hotel
+travel,hotel
+ne pas oublier building,hotel
+ne pas oublier hotel,hotel
+ne pas oublier inn,hotel
+ne pas oublier lodging,hotel
+ne pas oublier motel,hotel
+ne pas oublier resort,hotel
+ne pas oublier travel,hotel
+finir building,hotel
+finir hotel,hotel
+finir inn,hotel
+finir lodging,hotel
+finir motel,hotel
+finir resort,hotel
+finir travel,hotel
+building demain,hotel
+hotel demain,hotel
+inn demain,hotel
+lodging demain,hotel
+motel demain,hotel
+resort demain,hotel
+travel demain,hotel
+building pour le voyage,hotel
+hotel pour le voyage,hotel
+inn pour le voyage,hotel
+lodging pour le voyage,hotel
+motel pour le voyage,hotel
+resort pour le voyage,hotel
+travel pour le voyage,hotel
+building lundi,hotel
+hotel lundi,hotel
+inn lundi,hotel
+lodging lundi,hotel
+motel lundi,hotel
+resort lundi,hotel
+travel lundi,hotel
+building rendez-vous,hotel
+hotel rendez-vous,hotel
+inn rendez-vous,hotel
+lodging rendez-vous,hotel
+motel rendez-vous,hotel
+resort rendez-vous,hotel
+travel rendez-vous,hotel
+pratiquer building,hotel
+pratiquer hotel,hotel
+pratiquer inn,hotel
+pratiquer lodging,hotel
+pratiquer motel,hotel
+pratiquer resort,hotel
+finr building,hotel
+finirr inn,hotel
+hotel pour le voyaage,hotel
+building pour le voage,hotel
+inn luundi,hotel

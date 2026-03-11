@@ -2,3 +2,8 @@ text,label
 иконка розетки,outlet
 электрическая розетка питания,outlet
 воткнуть в розетку,outlet
+electricity сегодня вечером,outlet
+управление electricity,outlet
+обработать electricity,outlet
+разобрать electricity,outlet
+electricity на следующей неделе,outlet

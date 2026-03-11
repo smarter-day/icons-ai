@@ -27,7 +27,6 @@ text,label
 Опрыскать растения,ant
 Проверить подвал,ant
 проблема с муравьями дома,ant
-муравейник в саду,ant
 баг в продакшене,ant
 что-то ползает в кладовке,ant
 нашествие насекомых,ant
@@ -36,3 +35,27 @@ text,label
 Срочно устранить баг в программе,ant
 Малыш начинает ползать на этой неделе,ant
 Репеллент от насекомых для похода,ant
+ant,ant
+anthill,ant
+bug,ant
+crawl,ant
+insect,ant
+закончить ant,ant
+закончить anthill,ant
+закончить bug,ant
+закончить crawl,ant
+закончить insect,ant
+еженедельный ant,ant
+еженедельный anthill,ant
+еженедельный bug,ant
+еженедельный crawl,ant
+еженедельный insect,ant
+ant вечером,ant
+anthill вечером,ant
+bug вечером,ant
+crawl вечером,ant
+insect вечером,ant
+ant утром,ant
+anthill утром,ant
+bug утром,ant
+ant на выходных,ant

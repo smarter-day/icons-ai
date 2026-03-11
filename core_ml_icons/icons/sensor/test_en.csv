@@ -2,3 +2,8 @@ text,label
 round smoke alarm on ceiling,sensor
 sensor detecting fire or smoke,sensor
 smart home safety sensor,sensor
+manage alarm,sensor
+alarm next week,sensor
+deal with alarm,sensor
+complete alarm,sensor
+alarm to-do,sensor

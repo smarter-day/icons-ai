@@ -2,3 +2,8 @@ text,label
 cash bill for payment,money-bill
 take out a banknote,money-bill
 store cash bills,money-bill
+complete buy,money-bill
+deal with buy,money-bill
+buy tonight,money-bill
+sort out buy,money-bill
+buy stuff,money-bill

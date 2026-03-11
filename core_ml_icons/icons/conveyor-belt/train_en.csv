@@ -38,3 +38,24 @@ sort parcels on the conveyor,conveyor-belt
 unload boxes onto the belt,conveyor-belt
 feed items into the conveyor,conveyor-belt
 watch packages move on the line,conveyor-belt
+inventory,conveyor-belt
+shipping,conveyor-belt
+conveyor,conveyor-belt
+belt,conveyor-belt
+conveyor belt,conveyor-belt
+carousel on Monday,conveyor-belt
+inventory on Monday,conveyor-belt
+manufacture on Monday,conveyor-belt
+packaging on Monday,conveyor-belt
+shipping on Monday,conveyor-belt
+conveyor on Monday,conveyor-belt
+belt on Monday,conveyor-belt
+conveyor belt on Monday,conveyor-belt
+need to order carousel,conveyor-belt
+need to order inventory,conveyor-belt
+need to order manufacture,conveyor-belt
+need to order packaging,conveyor-belt
+need to order shipping,conveyor-belt
+need to order conveyor,conveyor-belt
+need to order belt,conveyor-belt
+need to order conveyor belt,conveyor-belt

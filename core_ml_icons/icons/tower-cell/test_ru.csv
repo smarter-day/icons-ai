@@ -2,3 +2,8 @@ text,label
 сигнал мобильной сети,tower-cell
 покрытие сети в этом районе,tower-cell
 подключиться к сотовой вышке,tower-cell
+airwaves сегодня вечером,tower-cell
+уточнить airwaves,tower-cell
+разобрать airwaves,tower-cell
+завершить airwaves,tower-cell
+вопрос airwaves,tower-cell

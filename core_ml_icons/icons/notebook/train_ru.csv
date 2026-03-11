@@ -2,7 +2,6 @@ text,label
 ежедневник,notebook
 блокнот,notebook
 тетрадь,notebook
-блокнот,notebook
 эскиз,notebook
 ежедневные задачи записанные в ежедневнике,notebook
 планирование расписания в ежедневнике,notebook
@@ -38,3 +37,25 @@ text,label
 файл документа для официального письма,notebook
 календарь для планирования событий,notebook
 список дел для задач,notebook
+daybook,notebook
+diary,notebook
+journal,notebook
+noteboo,notebook
+notebook,notebook
+notepad,notebook
+sketch,notebook
+забрать daybook,notebook
+забрать diary,notebook
+забрать journal,notebook
+забрать noteboo,notebook
+забрать notebook,notebook
+забрать notepad,notebook
+забрать sketch,notebook
+daybook вечером,notebook
+diary вечером,notebook
+journal вечером,notebook
+noteboo вечером,notebook
+notebook вечером,notebook
+notepad вечером,notebook
+sketch вечером,notebook
+daybook для поездки,notebook

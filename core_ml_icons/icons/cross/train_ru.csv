@@ -35,7 +35,6 @@ text,label
 добавить христианский крест в раздел религии,cross
 использовать латинский крест для страницы религиозного события,cross
 католический крест на алтаре,cross
-церковный крест на шпиле,cross
 символ религиозного креста,cross
 зелёный медицинский крест на вывеске больницы,cross
 галочка о завершении задачи,cross
@@ -43,3 +42,20 @@ text,label
 икона креста в храме,cross
 церковная символика с крестом,cross
 религиозный крест у входа в церковь,cross
+Christian,cross
+Heavy Latin Cross,cross
+catholicism,cross
+christianity,cross
+church,cross
+cross,cross
+jesus,cross
+latin cross,cross
+religion,cross
+новый Christian,cross
+новый Heavy Latin Cross,cross
+новый catholicism,cross
+новый christianity,cross
+новый church,cross
+новый cross,cross
+новый jesus,cross
+забрать Christian в магазине,cross

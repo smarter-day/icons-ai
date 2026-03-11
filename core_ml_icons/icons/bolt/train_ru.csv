@@ -23,7 +23,6 @@ text,label
 Проверить наличие зон высокого напряжения,bolt
 Штормовое предупреждение на завтра,bolt
 Предупреждение об электрическом заборе,bolt
-Надвигается гроза с молниями,bolt
 Снова отключили электричество,bolt
 Где-то неисправность электропроводки,bolt
 Видел ту вспышку молнии?,bolt
@@ -47,3 +46,16 @@ text,label
 Стабилизатор напряжения для серверной комнаты,bolt
 Предупреждение о сильных погодных условиях на ночь,bolt
 Стикер-молния на кнопке питания,bolt
+charge,bolt
+danger,bolt
+electric,bolt
+electricity,bolt
+flash,bolt
+high voltage,bolt
+lightning,bolt
+voltage,bolt
+weather,bolt
+zap,bolt
+bolt,bolt
+еженедельный charge,bolt
+не забыть charge,bolt

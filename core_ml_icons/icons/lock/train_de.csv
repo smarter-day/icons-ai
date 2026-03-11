@@ -1,0 +1,61 @@
+text,label
+admin,lock
+closed,lock
+lock,lock
+locked,lock
+open,lock
+padlock,lock
+password,lock
+privacy,lock
+private,lock
+protect,lock
+security,lock
+wöchentlich admin,lock
+wöchentlich closed,lock
+wöchentlich lock,lock
+wöchentlich locked,lock
+wöchentlich open,lock
+wöchentlich padlock,lock
+wöchentlich password,lock
+wöchentlich privacy,lock
+wöchentlich private,lock
+wöchentlich protect,lock
+wöchentlich security,lock
+admin für Samstag,lock
+closed für Samstag,lock
+lock für Samstag,lock
+locked für Samstag,lock
+open für Samstag,lock
+padlock für Samstag,lock
+password für Samstag,lock
+privacy für Samstag,lock
+private für Samstag,lock
+protect für Samstag,lock
+security für Samstag,lock
+admin heute,lock
+closed heute,lock
+lock heute,lock
+locked heute,lock
+open heute,lock
+padlock heute,lock
+password heute,lock
+privacy heute,lock
+private heute,lock
+protect heute,lock
+security heute,lock
+admin Termin,lock
+closed Termin,lock
+lock Termin,lock
+locked Termin,lock
+open Termin,lock
+padlock Termin,lock
+password Termin,lock
+privacy Termin,lock
+private Termin,lock
+protect Termin,lock
+security Termin,lock
+wöchenntlich password,lock
+wöchenltich privacy,lock
+wöchentlich prrivate,lock
+security für Samsttag,lock
+admin morgens,lock

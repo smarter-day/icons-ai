@@ -49,3 +49,13 @@ text,label
 Сесть на трамвай на нижней станции,cable-car
 Проверить расписание трамвая перед выездом,cable-car
 Поездка на историческом трамвае по старому кварталу,cable-car
+aerial tramway,cable-car
+cable,cable-car
+gondola,cable-car
+lift,cable-car
+mountain,cable-car
+mountain cableway,cable-car
+tram,cable-car
+tramway,cable-car
+trolley,cable-car
+car,cable-car

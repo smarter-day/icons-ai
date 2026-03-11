@@ -37,3 +37,25 @@ text,label
 здание больницы медицинское учреждение,store
 школьное здание образование,store
 заводское промышленное здание,store
+bodega,store
+building,store
+buy,store
+market,store
+purchase,store
+shopping,store
+store,store
+bodega сегодня,store
+building сегодня,store
+buy сегодня,store
+market сегодня,store
+purchase сегодня,store
+shopping сегодня,store
+store сегодня,store
+закончить bodega,store
+закончить building,store
+закончить buy,store
+закончить market,store
+закончить purchase,store
+закончить shopping,store
+закончить store,store
+отменить bodega в магазине,store

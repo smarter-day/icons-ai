@@ -2,3 +2,8 @@ text,label
 Отсканировать этикетку перед покупкой,barcode
 Проверить штрихкод на полке,barcode
 Инвентаризация сканером,barcode
+задача info,barcode
+info на этой неделе,barcode
+info дело,barcode
+запланировать info,barcode
+план по info,barcode

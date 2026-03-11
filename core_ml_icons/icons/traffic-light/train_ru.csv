@@ -48,3 +48,14 @@ text,label
 пешеходный переход зебра полосы,traffic-light
 круговое движение развязка,traffic-light
 железнодорожный переезд сигнал шлагбаум,traffic-light
+direction,traffic-light
+go,traffic-light
+light,traffic-light
+road,traffic-light
+signal,traffic-light
+slow,traffic-light
+stop,traffic-light
+traffic,traffic-light
+travel,traffic-light
+vertical traffic light,traffic-light
+traffic light,traffic-light

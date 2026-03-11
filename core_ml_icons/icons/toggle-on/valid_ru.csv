@@ -2,3 +2,8 @@ text,label
 иконка переключателя вкл,toggle-on
 включённая кнопка переключателя,toggle-on
 вкл состояние переключателя,toggle-on
+задача button,toggle-on
+напоминание button,toggle-on
+проект button,toggle-on
+разобраться с button,toggle-on
+заняться button,toggle-on

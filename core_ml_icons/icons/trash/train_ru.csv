@@ -28,3 +28,34 @@ text,label
 шредер уничтожить документ,trash
 закрыть X кнопка отклонения,trash
 папка хранить документ файл,trash
+delete,trash
+garbage,trash
+hide,trash
+remove,trash
+trash,trash
+delete для детей,trash
+garbage для детей,trash
+hide для детей,trash
+remove для детей,trash
+trash для детей,trash
+delete сегодня,trash
+garbage сегодня,trash
+hide сегодня,trash
+remove сегодня,trash
+trash сегодня,trash
+delete на выходных,trash
+garbage на выходных,trash
+hide на выходных,trash
+remove на выходных,trash
+trash на выходных,trash
+delete в понедельник,trash
+garbage в понедельник,trash
+hide в понедельник,trash
+remove в понедельник,trash
+trash в понедельник,trash
+почистить delete онлайн,trash
+почистить garbage онлайн,trash
+почистить hide онлайн,trash
+почистить remove онлайн,trash
+почистить trash онлайн,trash
+почистить delete скоро,trash

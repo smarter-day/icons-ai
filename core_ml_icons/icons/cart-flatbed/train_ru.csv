@@ -48,3 +48,14 @@ text,label
 роликовая тележка для оборудования,cart-flatbed
 тележка на колёсиках по ровному полу,cart-flatbed
 платформенная тележка для поддонов,cart-flatbed
+carry,cart-flatbed
+inventory,cart-flatbed
+shipping,cart-flatbed
+transport,cart-flatbed
+cart,cart-flatbed
+flatbed,cart-flatbed
+cart flatbed,cart-flatbed
+carry на выходных,cart-flatbed
+inventory на выходных,cart-flatbed
+shipping на выходных,cart-flatbed
+transport на выходных,cart-flatbed

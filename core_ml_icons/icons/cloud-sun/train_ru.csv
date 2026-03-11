@@ -53,3 +53,9 @@ text,label
 Пасмурно и серо весь день без солнца,cloud-sun
 Ночью ожидается снег,cloud-sun
 Туманное утро в поездке,cloud-sun
+clear,cloud-sun
+cloud,cloud-sun
+day,cloud-sun
+daytime,cloud-sun
+fall,cloud-sun
+outdoors,cloud-sun

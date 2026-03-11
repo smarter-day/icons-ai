@@ -2,3 +2,8 @@ text,label
 card payment for the order,credit-card
 checkout with a card,credit-card
 save the credit card,credit-card
+buy to-do,credit-card
+manage buy,credit-card
+buy tonight,credit-card
+buy next week,credit-card
+complete buy,credit-card

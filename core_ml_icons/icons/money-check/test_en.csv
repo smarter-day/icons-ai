@@ -2,3 +2,8 @@ text,label
 sign the check,money-check
 check payment for the invoice,money-check
 print a bank check,money-check
+manage bank check,money-check
+bank check tonight,money-check
+bank check next week,money-check
+bank check stuff,money-check
+complete bank check,money-check

@@ -2,3 +2,8 @@ text,label
 Get a physical exam,hospital-user
 Register as a new patient,hospital-user
 Schedule a telehealth appointment,hospital-user
+complete covid-19,hospital-user
+figure out covid-19,hospital-user
+manage covid-19,hospital-user
+covid-19 stuff,hospital-user
+covid-19 tonight,hospital-user

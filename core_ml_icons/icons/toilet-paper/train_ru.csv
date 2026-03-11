@@ -5,7 +5,6 @@ text,label
 отхожее место,toilet-paper
 уборная,toilet-paper
 рулон бумаги,toilet-paper
-туалет,toilet-paper
 туалетная бумага,toilet-paper
 вытереть,toilet-paper
 туалетная бумага в ванной на держателе,toilet-paper
@@ -36,7 +35,6 @@ text,label
 премиум туалетная бумага,toilet-paper
 вытереть туалетной бумагой гигиена,toilet-paper
 вытереть руки бумажным полотенцем,toilet-paper
-рулон туалетной бумаги на держателе,toilet-paper
 штабель туалетной бумаги оптовая покупка,toilet-paper
 предупреждение о заканчивающейся туалетной бумаге,toilet-paper
 мягкая стёганая туалетная бумага бренд,toilet-paper
@@ -56,3 +54,8 @@ text,label
 влажная салфетка детский антисептик,toilet-paper
 держатель туалетного рулона диспенсер,toilet-paper
 носовой платок карманный,toilet-paper
+bathroom,toilet-paper
+covid-19,toilet-paper
+halloween,toilet-paper
+holiday,toilet-paper
+lavatory,toilet-paper

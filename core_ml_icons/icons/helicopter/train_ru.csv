@@ -4,7 +4,6 @@ text,label
 винтокрыл,helicopter
 полет,helicopter
 летать,helicopter
-вертолет,helicopter
 путешествовать,helicopter
 Вертолет из телесериала,helicopter
 Ударный вертолет в действии,helicopter
@@ -43,3 +42,20 @@ text,label
 ракетный корабль отправляется в космос,helicopter
 небольшой винтовой самолет на взлетно-посадочной полосе,helicopter
 "параплан, парящий на восходящем тепловом потоке",helicopter
+airwolf,helicopter
+apache,helicopter
+chopper,helicopter
+flight,helicopter
+fly,helicopter
+helicopter,helicopter
+travel,helicopter
+vehicle,helicopter
+не забыть airwolf,helicopter
+не забыть apache,helicopter
+не забыть chopper,helicopter
+не забыть flight,helicopter
+не забыть fly,helicopter
+не забыть helicopter,helicopter
+не забыть travel,helicopter
+не забыть vehicle,helicopter
+airwolf после работы,helicopter

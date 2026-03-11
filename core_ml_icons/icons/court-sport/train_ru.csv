@@ -30,7 +30,6 @@ text,label
 использовать court-sport для карты поля,court-sport
 баскетбольный корт с разметкой краски,court-sport
 поле для соккера с центральным кругом,court-sport
-футбольное поле с ярдовыми метками,court-sport
 схема спортплощадки для facility map,court-sport
 поле для гольфа с флагом у лунки,court-sport
 вид сверху на бассейн с дорожками,court-sport
@@ -38,3 +37,25 @@ text,label
 бейсбольный ромб с базами,court-sport
 теннисная ракетка и мяч для матча,court-sport
 беговая дорожка с овальными полосами,court-sport
+basketball,court-sport
+court,court-sport
+field,court-sport
+football,court-sport
+futbol,court-sport
+soccer,court-sport
+sport,court-sport
+court sport,court-sport
+организовать basketball,court-sport
+организовать court,court-sport
+организовать field,court-sport
+организовать football,court-sport
+организовать futbol,court-sport
+организовать soccer,court-sport
+организовать sport,court-sport
+организовать court sport,court-sport
+не забыть basketball,court-sport
+не забыть court,court-sport
+не забыть field,court-sport
+не забыть football,court-sport
+не забыть futbol,court-sport
+basketball вечером,court-sport

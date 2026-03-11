@@ -2,3 +2,8 @@ text,label
 оплата наличной купюрой,money-bill
 достать банкноту,money-bill
 хранить бумажные деньги,money-bill
+уточнить buy,money-bill
+buy на следующей неделе,money-bill
+устроить buy,money-bill
+обработать buy,money-bill
+buy сегодня вечером,money-bill

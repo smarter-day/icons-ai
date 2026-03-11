@@ -35,3 +35,27 @@ text,label
 Оставайтесь с семьей,hotel
 Снять дом для отдыха,hotel
 Забронируйте круизную каюту,hotel
+building,hotel
+hotel,hotel
+inn,hotel
+lodging,hotel
+motel,hotel
+resort,hotel
+travel,hotel
+изучить building в магазине,hotel
+изучить hotel в магазине,hotel
+изучить inn в магазине,hotel
+изучить lodging в магазине,hotel
+изучить motel в магазине,hotel
+изучить resort в магазине,hotel
+изучить travel в магазине,hotel
+building завтра,hotel
+hotel завтра,hotel
+inn завтра,hotel
+lodging завтра,hotel
+motel завтра,hotel
+resort завтра,hotel
+travel завтра,hotel
+запись building,hotel
+запись hotel,hotel
+запись inn,hotel

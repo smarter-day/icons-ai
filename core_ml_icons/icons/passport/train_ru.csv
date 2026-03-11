@@ -31,3 +31,31 @@ text,label
 посадочный талон авиабилет,passport
 документ свидетельства о рождении,passport
 кредитная карта кошелёк удостоверение,passport
+document,passport
+id,passport
+identification,passport
+issued,passport
+travel,passport
+passport,passport
+записаться на document в магазине,passport
+записаться на id в магазине,passport
+записаться на identification в магазине,passport
+записаться на issued в магазине,passport
+записаться на travel в магазине,passport
+записаться на passport в магазине,passport
+document утром,passport
+id утром,passport
+identification утром,passport
+issued утром,passport
+travel утром,passport
+passport утром,passport
+document сегодня,passport
+id сегодня,passport
+identification сегодня,passport
+issued сегодня,passport
+travel сегодня,passport
+passport сегодня,passport
+document вечером,passport
+id вечером,passport
+identification вечером,passport
+issued вечером,passport

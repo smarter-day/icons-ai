@@ -1,0 +1,61 @@
+text,label
+dashboard,gauge
+fast,gauge
+odometer,gauge
+speed,gauge
+speedometer,gauge
+gauge,gauge
+dashboard semanal,gauge
+fast semanal,gauge
+odometer semanal,gauge
+speed semanal,gauge
+speedometer semanal,gauge
+gauge semanal,gauge
+empezar dashboard,gauge
+empezar fast,gauge
+empezar odometer,gauge
+empezar speed,gauge
+empezar speedometer,gauge
+empezar gauge,gauge
+dashboard para el viaje,gauge
+fast para el viaje,gauge
+odometer para el viaje,gauge
+speed para el viaje,gauge
+speedometer para el viaje,gauge
+gauge para el viaje,gauge
+dashboard hoy,gauge
+fast hoy,gauge
+odometer hoy,gauge
+speed hoy,gauge
+speedometer hoy,gauge
+gauge hoy,gauge
+nuevo dashboard,gauge
+nuevo fast,gauge
+nuevo odometer,gauge
+nuevo speed,gauge
+nuevo speedometer,gauge
+nuevo gauge,gauge
+dashboard este fin de semana,gauge
+fast este fin de semana,gauge
+odometer este fin de semana,gauge
+speed este fin de semana,gauge
+speedometer este fin de semana,gauge
+gauge este fin de semana,gauge
+dashboard cita,gauge
+fast cita,gauge
+odometer cita,gauge
+speed cita,gauge
+speedometer cita,gauge
+gauge cita,gauge
+buscar el dashboard,gauge
+buscar el fast,gauge
+buscar el odometer,gauge
+buscar el speed,gauge
+buscar el speedometer,gauge
+buscar el gauge,gauge
+dashboard para los niños,gauge
+epmezar fast,gauge
+speed est fin de semana,gauge
+nuvo odometer,gauge
+nuevo sppeedometer,gauge
+encontrar dashboard,gauge

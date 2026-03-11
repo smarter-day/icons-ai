@@ -36,3 +36,26 @@ walkin person,person-walking
 pedistrian walking,person-walking
 walkign exercise,person-walking
 persno walking,person-walking
+exercise,person-walking
+move,person-walking
+uer,person-walking
+walk,person-walking
+workout,person-walking
+person,person-walking
+prepare crosswalk,person-walking
+prepare exercise,person-walking
+prepare follow,person-walking
+prepare hike,person-walking
+prepare move,person-walking
+prepare person walking,person-walking
+prepare uer,person-walking
+prepare walk,person-walking
+prepare walking,person-walking
+prepare workout,person-walking
+prepare person,person-walking
+crosswalk tomorrow,person-walking
+exercise tomorrow,person-walking
+follow tomorrow,person-walking
+hike tomorrow,person-walking
+move tomorrow,person-walking
+person walking tomorrow,person-walking

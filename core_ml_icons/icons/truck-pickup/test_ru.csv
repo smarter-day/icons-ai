@@ -1,3 +1,9 @@
 text,label
 символ пикапа,truck-pickup
 рабочий грузовик транспортное средство,truck-pickup
+решить вопрос с cargo,truck-pickup
+вопрос cargo,truck-pickup
+обработать cargo,truck-pickup
+cargo на следующей неделе,truck-pickup
+уточнить cargo,truck-pickup
+завершить cargo,truck-pickup

@@ -2,3 +2,8 @@ text,label
 дымовой датчик на потолке,sensor
 тревога детектора угарного газа,sensor
 пожарный датчик активирует сигнал,sensor
+alarm на этой неделе,sensor
+заняться alarm,sensor
+проект alarm,sensor
+задача alarm,sensor
+разобраться с alarm,sensor

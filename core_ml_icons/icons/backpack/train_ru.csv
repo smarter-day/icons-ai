@@ -4,7 +4,6 @@ text,label
 книга,backpack
 нести,backpack
 пеший туризм,backpack
-рюкзак,backpack
 ранец,backpack
 школа,backpack
 путешествовать,backpack
@@ -48,3 +47,15 @@ text,label
 спортивная сумка с отделением для обуви,backpack
 сумка через плечо через плечо,backpack
 плетеная сумка-тоут с длинными ручками,backpack
+backpack,backpack
+bag,backpack
+book,backpack
+carry,backpack
+hiking,backpack
+rucksack,backpack
+satchel,backpack
+school,backpack
+travel,backpack
+подготовить backpack скоро,backpack
+подготовить bag скоро,backpack
+backpack на выходных,backpack

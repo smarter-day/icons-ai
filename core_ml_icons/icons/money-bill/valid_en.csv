@@ -2,3 +2,8 @@ text,label
 pay cash for the order,money-bill
 hand over a dollar bill,money-bill
 count paper money,money-bill
+plan for buy,money-bill
+buy project,money-bill
+schedule buy,money-bill
+buy task,money-bill
+handle buy,money-bill

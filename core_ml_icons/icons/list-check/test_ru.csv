@@ -2,3 +2,8 @@ text,label
 Отметить пункты как выполненные в списке,list-check
 Следуйте контрольному списку настройки,list-check
 Выполните все пункты списка,list-check
+вопрос bullet,list-check
+bullet на следующей неделе,list-check
+устроить bullet,list-check
+обработать bullet,list-check
+завершить bullet,list-check

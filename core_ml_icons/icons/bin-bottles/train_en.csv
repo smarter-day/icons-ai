@@ -44,3 +44,18 @@ drp off plastc at the recycling poitn,bin-bottles
 crussh bottles before bin,bin-bottles
 collecton bin for plastic btotles,bin-bottles
 toss empty botle in the bin,bin-bottles
+collect,bin-bottles
+jug,bin-bottles
+plastics,bin-bottles
+recycle,bin-bottles
+bin,bin-bottles
+bottles,bin-bottles
+bin bottles,bin-bottles
+call about collect for kids,bin-bottles
+call about jug for kids,bin-bottles
+call about plastics for kids,bin-bottles
+call about recycle for kids,bin-bottles
+call about bin for kids,bin-bottles
+call about bottles for kids,bin-bottles
+call about bin bottles for kids,bin-bottles
+need to call about collect,bin-bottles

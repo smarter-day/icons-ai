@@ -32,3 +32,30 @@ text,label
 предупреждение об изверженеи вулкана,volcano
 лава течёт по склону горы,volcano
 кальедра вулкана видна сверху,volcano
+caldera,volcano
+eruption,volcano
+lava,volcano
+magma,volcano
+mountain,volcano
+smoke,volcano
+volcano,volcano
+caldera после работы,volcano
+eruption после работы,volcano
+lava после работы,volcano
+magma после работы,volcano
+mountain после работы,volcano
+smoke после работы,volcano
+volcano после работы,volcano
+caldera завтра,volcano
+eruption завтра,volcano
+lava завтра,volcano
+magma завтра,volcano
+mountain завтра,volcano
+smoke завтра,volcano
+volcano завтра,volcano
+не забыть caldera,volcano
+не забыть eruption,volcano
+не забыть lava,volcano
+не забыть magma,volcano
+не забыть mountain,volcano
+не забыть smoke,volcano

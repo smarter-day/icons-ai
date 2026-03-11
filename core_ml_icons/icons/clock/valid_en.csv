@@ -2,3 +2,8 @@ text,label
 Check the time for the meeting,clock
 Set a timer while cooking,clock
 Track time on the project,clock
+00 task,clock
+00 errand,clock
+00 project,clock
+take care of 00,clock
+00 this week,clock

@@ -31,3 +31,31 @@ text,label
 дорожная карта путь вехи,timeline
 блок-схема последовательные шаги,timeline
 часы время проходит,timeline
+chronological,timeline
+deadline,timeline
+history,timeline
+linear,timeline
+timeline,timeline
+запись chronological,timeline
+запись deadline,timeline
+запись history,timeline
+запись linear,timeline
+запись timeline,timeline
+chronological в понедельник,timeline
+deadline в понедельник,timeline
+history в понедельник,timeline
+linear в понедельник,timeline
+timeline в понедельник,timeline
+chronological для детей,timeline
+deadline для детей,timeline
+history для детей,timeline
+linear для детей,timeline
+timeline для детей,timeline
+chronological утром,timeline
+deadline утром,timeline
+history утром,timeline
+linear утром,timeline
+timeline утром,timeline
+подобрать chronological скоро,timeline
+подобрать deadline скоро,timeline
+подобрать history скоро,timeline

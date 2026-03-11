@@ -2,3 +2,8 @@ text,label
 show the current place marker,location-dot
 mark the exact place,location-dot
 drop a location marker,location-dot
+plan for address,location-dot
+address this week,location-dot
+address task,location-dot
+handle address,location-dot
+follow up on address,location-dot

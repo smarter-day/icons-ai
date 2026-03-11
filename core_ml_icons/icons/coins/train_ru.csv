@@ -37,3 +37,25 @@ text,label
 Купить продукты на недельный бюджет,coins
 сложить мелочь в банку,coins
 Зарабатывать баллы за каждую покупку,coins
+currency,coins
+dime,coins
+financial,coins
+gold,coins
+money,coins
+penny,coins
+premium,coins
+coins,coins
+currency на субботу,coins
+dime на субботу,coins
+financial на субботу,coins
+gold на субботу,coins
+money на субботу,coins
+penny на субботу,coins
+premium на субботу,coins
+coins на субботу,coins
+настроить currency в магазине,coins
+настроить dime в магазине,coins
+настроить financial в магазине,coins
+настроить gold в магазине,coins
+настроить money в магазине,coins
+настроить penny в магазине,coins

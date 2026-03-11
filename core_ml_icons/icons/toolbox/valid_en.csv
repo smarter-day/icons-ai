@@ -2,3 +2,8 @@ text,label
 pick up the toolbox,toolbox
 carry the mechanic toolbox,toolbox
 open the tools box,toolbox
+work on admin,toolbox
+admin task,toolbox
+take care of admin,toolbox
+admin check-in,toolbox
+admin project,toolbox

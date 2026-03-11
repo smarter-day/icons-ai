@@ -1,0 +1,61 @@
+text,label
+circle,spinner
+loading,spinner
+pending,spinner
+progress,spinner
+spinner,spinner
+retourner circle,spinner
+retourner loading,spinner
+retourner pending,spinner
+retourner progress,spinner
+retourner spinner,spinner
+nouveau circle,spinner
+nouveau loading,spinner
+nouveau pending,spinner
+nouveau progress,spinner
+nouveau spinner,spinner
+circle demain,spinner
+loading demain,spinner
+pending demain,spinner
+progress demain,spinner
+spinner demain,spinner
+circle aujourd'hui,spinner
+loading aujourd'hui,spinner
+pending aujourd'hui,spinner
+progress aujourd'hui,spinner
+spinner aujourd'hui,spinner
+ne pas oublier circle,spinner
+ne pas oublier loading,spinner
+ne pas oublier pending,spinner
+ne pas oublier progress,spinner
+ne pas oublier spinner,spinner
+circle pour samedi,spinner
+loading pour samedi,spinner
+pending pour samedi,spinner
+progress pour samedi,spinner
+spinner pour samedi,spinner
+circle lundi,spinner
+loading lundi,spinner
+pending lundi,spinner
+progress lundi,spinner
+spinner lundi,spinner
+circle pour le voyage,spinner
+loading pour le voyage,spinner
+pending pour le voyage,spinner
+progress pour le voyage,spinner
+spinner pour le voyage,spinner
+circle rendez-vous,spinner
+loading rendez-vous,spinner
+pending rendez-vous,spinner
+progress rendez-vous,spinner
+spinner rendez-vous,spinner
+finir circle,spinner
+finir loading,spinner
+finir pending,spinner
+finir progress,spinner
+finir spinner,spinner
+progress ludni,spinner
+nouvea pending,spinner
+retourner spiinner,spinner
+retournre progress,spinner
+retourner pennding,spinner

@@ -1,0 +1,61 @@
+text,label
+cop,user-police
+five-o,user-police
+law enforcement,user-police
+officer,user-police
+patrol,user-police
+police,user-police
+police officer,user-police
+trooper,user-police
+user,user-police
+user police,user-police
+cop semanal,user-police
+five-o semanal,user-police
+law enforcement semanal,user-police
+officer semanal,user-police
+patrol semanal,user-police
+police semanal,user-police
+police officer semanal,user-police
+trooper semanal,user-police
+user semanal,user-police
+user police semanal,user-police
+cop para el viaje,user-police
+five-o para el viaje,user-police
+law enforcement para el viaje,user-police
+officer para el viaje,user-police
+patrol para el viaje,user-police
+police para el viaje,user-police
+police officer para el viaje,user-police
+trooper para el viaje,user-police
+user para el viaje,user-police
+user police para el viaje,user-police
+terminar cop,user-police
+terminar five-o,user-police
+terminar law enforcement,user-police
+terminar officer,user-police
+terminar patrol,user-police
+terminar police,user-police
+terminar police officer,user-police
+terminar trooper,user-police
+terminar user,user-police
+terminar user police,user-police
+cop el lunes,user-police
+five-o el lunes,user-police
+law enforcement el lunes,user-police
+officer el lunes,user-police
+patrol el lunes,user-police
+police el lunes,user-police
+police officer el lunes,user-police
+trooper el lunes,user-police
+user el lunes,user-police
+user police el lunes,user-police
+pedir cop pronto,user-police
+pedir five-o pronto,user-police
+pedir law enforcement pronto,user-police
+pedir officer pronto,user-police
+pedir patrol pronto,user-police
+termniar user,user-police
+pdir cop pronto,user-police
+pedir officeer pronto,user-police
+terrminar cop,user-police
+officer el lues,user-police

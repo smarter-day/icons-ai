@@ -1,0 +1,61 @@
+text,label
+button,toggle-off
+off,toggle-off
+on,toggle-off
+switch,toggle-off
+toggle,toggle-off
+toggle off,toggle-off
+button semanal,toggle-off
+off semanal,toggle-off
+on semanal,toggle-off
+switch semanal,toggle-off
+toggle semanal,toggle-off
+toggle off semanal,toggle-off
+button por la mañana,toggle-off
+off por la mañana,toggle-off
+on por la mañana,toggle-off
+switch por la mañana,toggle-off
+toggle por la mañana,toggle-off
+toggle off por la mañana,toggle-off
+button por la noche,toggle-off
+off por la noche,toggle-off
+on por la noche,toggle-off
+switch por la noche,toggle-off
+toggle por la noche,toggle-off
+toggle off por la noche,toggle-off
+button mañana,toggle-off
+off mañana,toggle-off
+on mañana,toggle-off
+switch mañana,toggle-off
+toggle mañana,toggle-off
+toggle off mañana,toggle-off
+button el lunes,toggle-off
+off el lunes,toggle-off
+on el lunes,toggle-off
+switch el lunes,toggle-off
+toggle el lunes,toggle-off
+toggle off el lunes,toggle-off
+button después del trabajo,toggle-off
+off después del trabajo,toggle-off
+on después del trabajo,toggle-off
+switch después del trabajo,toggle-off
+toggle después del trabajo,toggle-off
+toggle off después del trabajo,toggle-off
+preparar button en línea,toggle-off
+preparar off en línea,toggle-off
+preparar on en línea,toggle-off
+preparar switch en línea,toggle-off
+preparar toggle en línea,toggle-off
+preparar toggle off en línea,toggle-off
+terminar button,toggle-off
+terminar off,toggle-off
+terminar on,toggle-off
+terminar switch,toggle-off
+terminar toggle,toggle-off
+terminar toggle off,toggle-off
+button hoy,toggle-off
+on semaal,toggle-off
+teminar on,toggle-off
+on dspués del trabajo,toggle-off
+switch el lunees,toggle-off
+button para los niños,toggle-off

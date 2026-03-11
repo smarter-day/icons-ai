@@ -2,3 +2,8 @@ text,label
 train track rails icon,train-track
 railroad track symbol,train-track
 parallel train rails,train-track
+work on rail,train-track
+rail check-in,train-track
+rail task,train-track
+handle rail,train-track
+rail errand,train-track

@@ -38,3 +38,24 @@ text,label
 ракета запускающаяся в космос,plane
 здание аэропорта терминал,plane
 дрон квадрокоптер летящий,plane
+airplane,plane
+airport,plane
+destination,plane
+fly,plane
+location,plane
+mode,plane
+travel,plane
+trip,plane
+plane,plane
+отменить airplane,plane
+отменить airport,plane
+отменить destination,plane
+отменить fly,plane
+отменить location,plane
+отменить mode,plane
+отменить travel,plane
+отменить trip,plane
+отменить plane,plane
+airplane на выходных,plane
+airport на выходных,plane
+destination на выходных,plane

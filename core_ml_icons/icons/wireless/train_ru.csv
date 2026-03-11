@@ -55,3 +55,7 @@ text,label
 подключение к точке доступа,wireless
 проверить доступ в интернет,wireless
 беспроводная сеть доступна,wireless
+connection,wireless
+hotspot,wireless
+internet,wireless
+network,wireless

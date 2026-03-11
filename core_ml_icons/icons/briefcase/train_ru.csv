@@ -16,12 +16,9 @@ text,label
 Подготовиться к рабочей встрече,briefcase
 Собрать портфель для офиса,briefcase
 Упаковка для командировки,briefcase
-Обновить рабочее портфолио,briefcase
 Приехать в офис пораньше,briefcase
-Изучить предложение о работе,briefcase
 Подготовка рабочей презентации,briefcase
 Добраться до офиса сегодня,briefcase
-Собрать рабочую сумку,briefcase
 Корпоративная встреча этим вечером,briefcase
 Впереди напряжённый рабочий день,briefcase
 Еду в офис — большое совещание сегодня,briefcase
@@ -30,7 +27,6 @@ text,label
 Собрать портфль для офиса,briefcase
 Упакавка для коммандировки,briefcase
 Обновть рабочее портфлио,briefcase
-Приехать в офис пораньше,briefcase
 Собрать спортивную сумку,briefcase
 Упаковать чемодан в отпуск,briefcase
 Рюкзак в школу,briefcase
@@ -46,3 +42,20 @@ text,label
 Канцелярия собрана в портфель,briefcase
 Просмотр портфолио перед презентацией,briefcase
 Сегодня работать с площадки клиента,briefcase
+bag,briefcase
+briefcas,briefcase
+briefcase,briefcase
+business,briefcase
+luggage,briefcase
+offer,briefcase
+office,briefcase
+portfolio,briefcase
+work,briefcase
+организовать bag скоро,briefcase
+организовать briefcas скоро,briefcase
+организовать briefcase скоро,briefcase
+организовать business скоро,briefcase
+купить bag скоро,briefcase
+купить briefcas скоро,briefcase
+купить briefcase скоро,briefcase
+купить business скоро,briefcase

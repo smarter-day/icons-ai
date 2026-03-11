@@ -1,7 +1,6 @@
 text,label
 объединить,object-group
 копировать,object-group
-объединить,object-group
 выбрать,object-group
 объединить несколько фигур в одну группу,object-group
 объединить объекты в инструменте дизайна,object-group
@@ -34,3 +33,29 @@ text,label
 панель слоёв показывающая отдельные элементы,object-group
 инструмент выделения для одного элемента,object-group
 инструменты выравнивания и распределения,object-group
+combine,object-group
+copy,object-group
+design,object-group
+merge,object-group
+select,object-group
+group,object-group
+object group,object-group
+combine после работы,object-group
+copy после работы,object-group
+design после работы,object-group
+merge после работы,object-group
+select после работы,object-group
+group после работы,object-group
+object group после работы,object-group
+еженедельный combine,object-group
+еженедельный copy,object-group
+еженедельный design,object-group
+еженедельный merge,object-group
+еженедельный select,object-group
+еженедельный group,object-group
+еженедельный object group,object-group
+combine в понедельник,object-group
+copy в понедельник,object-group
+design в понедельник,object-group
+merge в понедельник,object-group
+забрать combine скоро,object-group

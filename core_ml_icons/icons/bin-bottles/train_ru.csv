@@ -48,3 +48,14 @@ text,label
 сплющить бутылки перед контейнером,bin-bottles
 сборный контейнер для пластиковых бутылок,bin-bottles
 выбросить пустую бутылку в контейнер,bin-bottles
+collect,bin-bottles
+jug,bin-bottles
+plastics,bin-bottles
+recycle,bin-bottles
+bin,bin-bottles
+bottles,bin-bottles
+bin bottles,bin-bottles
+заменить collect,bin-bottles
+заменить jug,bin-bottles
+заменить plastics,bin-bottles
+заменить recycle,bin-bottles

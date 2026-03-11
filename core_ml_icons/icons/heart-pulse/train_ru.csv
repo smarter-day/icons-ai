@@ -20,7 +20,6 @@ text,label
 Проверьте частоту пульса,heart-pulse
 Кардио проверка,heart-pulse
 Проверка здоровья,heart-pulse
-Жизненно важные признаки,heart-pulse
 чекк сердечная крыса у врача,heart-pulse
 Мониотр здоровье сердца,heart-pulse
 пройти экег тест,heart-pulse
@@ -31,3 +30,32 @@ text,label
 Отслеживайте шаги в фитнес-приложении,heart-pulse
 Пройдите полное сканирование здоровья тела,heart-pulse
 Проверьте температуру тела,heart-pulse
+ekg,heart-pulse
+electrocardiogram,heart-pulse
+health,heart-pulse
+lifeline,heart-pulse
+vital signs,heart-pulse
+heart,heart-pulse
+pulse,heart-pulse
+heart pulse,heart-pulse
+ekg утром,heart-pulse
+electrocardiogram утром,heart-pulse
+health утром,heart-pulse
+lifeline утром,heart-pulse
+vital signs утром,heart-pulse
+heart утром,heart-pulse
+pulse утром,heart-pulse
+heart pulse утром,heart-pulse
+ekg на субботу,heart-pulse
+electrocardiogram на субботу,heart-pulse
+health на субботу,heart-pulse
+lifeline на субботу,heart-pulse
+vital signs на субботу,heart-pulse
+heart на субботу,heart-pulse
+pulse на субботу,heart-pulse
+heart pulse на субботу,heart-pulse
+новый ekg,heart-pulse
+новый electrocardiogram,heart-pulse
+новый health,heart-pulse
+новый lifeline,heart-pulse
+еженедельный ekg,heart-pulse

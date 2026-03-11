@@ -20,7 +20,6 @@ text,label
 Рошамбо камень ножницы бумага рука,hand
 Рошамбо игра жест рукой,hand
 сигнал остановки поднят,hand
-"рука поднята, чтобы остановить движение",hand
 открытая ладонь ладонью наружу,hand
 "поднял руку, чтобы задать вопрос в классе",hand
 сигнал рукой остановиться или остановиться,hand
@@ -44,3 +43,19 @@ text,label
 хлопаем в ладоши аплодируем,hand
 кулак поднят в знак солидарности,hand
 знак мира двумя пальцами,hand
+Raised Hand,hand
+backhand,hand
+game,hand
+halt,hand
+palm,hand
+raised,hand
+raised back of hand,hand
+request,hand
+roshambo,hand
+stop,hand
+hand,hand
+записаться на Raised Hand в магазине,hand
+записаться на backhand в магазине,hand
+записаться на game в магазине,hand
+записаться на halt в магазине,hand
+Raised Hand после работы,hand

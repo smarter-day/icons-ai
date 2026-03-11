@@ -2,3 +2,8 @@ text,label
 Сдать бутылки в центр переработки,jug-bottle
 Отдельный пластик на переработку,jug-bottle
 Сдать пустые бутылки под залог,jug-bottle
+вопрос collect,jug-bottle
+решить вопрос с collect,jug-bottle
+разобрать collect,jug-bottle
+уточнить collect,jug-bottle
+обработать collect,jug-bottle

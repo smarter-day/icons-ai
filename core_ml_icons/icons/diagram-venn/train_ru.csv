@@ -32,3 +32,30 @@ text,label
 использовать pert-диаграмму для проекта,diagram-venn
 создать временную шкалу ганта,diagram-venn
 нарисовать интеллект-карту для брейншторма,diagram-venn
+chart,diagram-venn
+intersection,diagram-venn
+logic,diagram-venn
+overlap,diagram-venn
+diagram,diagram-venn
+venn,diagram-venn
+diagram venn,diagram-venn
+chart в понедельник,diagram-venn
+intersection в понедельник,diagram-venn
+logic в понедельник,diagram-venn
+overlap в понедельник,diagram-venn
+diagram в понедельник,diagram-venn
+venn в понедельник,diagram-venn
+diagram venn в понедельник,diagram-venn
+закончить chart,diagram-venn
+закончить intersection,diagram-venn
+закончить logic,diagram-venn
+закончить overlap,diagram-venn
+закончить diagram,diagram-venn
+закончить venn,diagram-venn
+закончить diagram venn,diagram-venn
+еженедельный chart,diagram-venn
+еженедельный intersection,diagram-venn
+еженедельный logic,diagram-venn
+еженедельный overlap,diagram-venn
+еженедельный diagram,diagram-venn
+еженедельный venn,diagram-venn

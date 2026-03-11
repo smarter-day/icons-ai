@@ -2,3 +2,8 @@ text,label
 start the register shift,cash-register
 print the checkout receipt,cash-register
 use the register at the counter,cash-register
+buy to-do,cash-register
+figure out buy,cash-register
+arrange buy,cash-register
+sort out buy,cash-register
+wrap up buy,cash-register

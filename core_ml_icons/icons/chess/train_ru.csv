@@ -43,3 +43,19 @@ text,label
 доска для игры в нарды с фигурками в игре,chess
 перетасованные игральные карты для карточной игры,chess
 кусочки домино выстроены в длинную линию,chess
+board,chess
+castle,chess
+checkmate,chess
+game,chess
+king,chess
+rook,chess
+strategy,chess
+tournament,chess
+chess,chess
+закончить board,chess
+закончить castle,chess
+закончить checkmate,chess
+закончить game,chess
+закончить king,chess
+закончить rook,chess
+закончить strategy,chess

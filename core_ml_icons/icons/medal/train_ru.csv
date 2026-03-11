@@ -35,7 +35,6 @@ text,label
 показать медаль на экране завершения испытания,medal
 используйте значок медали для страницы церемонии награждения,medal
 церемония олимпийской медали,medal
-Медаль с гарантией качества,medal
 медаль за достижения получена,medal
 медаль на ленте,medal
 нагрудный значок за первое место на куртке,medal
@@ -44,3 +43,19 @@ text,label
 Наклейка со звездой за отличную работу,medal
 значок номер один в таблице лидеров,medal
 подиум соревнований с тремя пронумерованными местами,medal
+award,medal
+guarantee,medal
+medal,medal
+quality,medal
+ribbon,medal
+sports medal,medal
+star,medal
+trophy,medal
+warranty,medal
+запись award,medal
+запись guarantee,medal
+запись medal,medal
+запись quality,medal
+запись ribbon,medal
+запись sports medal,medal
+award завтра,medal

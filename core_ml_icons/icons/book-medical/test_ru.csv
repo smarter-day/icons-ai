@@ -2,3 +2,8 @@ text,label
 медицинская книга с историей пациента,book-medical
 иконка книги медзаписей,book-medical
 медицинский справочник врача,book-medical
+обработать diary,book-medical
+diary на следующей неделе,book-medical
+уточнить diary,book-medical
+устроить diary,book-medical
+завершить diary,book-medical

@@ -2,3 +2,8 @@ text,label
 Park the car in the garage,garage
 Clean out the garage,garage
 Fix the garage door opener,garage
+schedule auto,garage
+auto check-in,garage
+work on auto,garage
+auto task,garage
+auto this week,garage

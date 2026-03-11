@@ -17,7 +17,6 @@ text,label
 красное платье для торжественного ужина,dress
 использовать значок платья для выбора наряда на событие,dress
 вечернее платье для торжества,dress
-свадебное платье на невесте,dress
 летнее платье для пляжа,dress
 коктейльное платье для мероприятия,dress
 рубашка на пуговицах на вешалке,dress
@@ -45,3 +44,18 @@ text,label
 маленькое чёрное платье на мероприятие,dress
 мини-платье для вечернего выхода,dress
 платье-запах на любую фигуру,dress
+gown,dress
+skirt,dress
+dress,dress
+gown для поездки,dress
+skirt для поездки,dress
+dress для поездки,dress
+gown на субботу,dress
+skirt на субботу,dress
+dress на субботу,dress
+gown завтра,dress
+skirt завтра,dress
+dress завтра,dress
+gown после работы,dress
+skirt после работы,dress
+закончить gown,dress

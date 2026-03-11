@@ -36,3 +36,26 @@ text,label
 календарь дата день планировщик,timer
 прогресс-бар загрузка процент,timer
 метроном музыкальный ритм темп,timer
+clock,timer
+countdown,timer
+pending,timer
+stopwatch,timer
+timer,timer
+timer clock,timer
+waiting,timer
+clock в понедельник,timer
+countdown в понедельник,timer
+pending в понедельник,timer
+stopwatch в понедельник,timer
+timer в понедельник,timer
+timer clock в понедельник,timer
+waiting в понедельник,timer
+еженедельный clock,timer
+еженедельный countdown,timer
+еженедельный pending,timer
+еженедельный stopwatch,timer
+еженедельный timer,timer
+еженедельный timer clock,timer
+еженедельный waiting,timer
+clock сегодня,timer
+countdown сегодня,timer

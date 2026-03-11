@@ -34,3 +34,28 @@ text,label
 пассажирский паром пересекает канал,ship
 подводная лодка погружается под воду,ship
 военная подлодка с перископом,ship
+boat,ship
+passenger,ship
+sea,ship
+ship,ship
+water,ship
+еженедельный boat,ship
+еженедельный passenger,ship
+еженедельный sea,ship
+еженедельный ship,ship
+еженедельный water,ship
+забрать boat в магазине,ship
+забрать passenger в магазине,ship
+забрать sea в магазине,ship
+забрать ship в магазине,ship
+забрать water в магазине,ship
+запись boat,ship
+запись passenger,ship
+запись sea,ship
+запись ship,ship
+запись water,ship
+не забыть boat,ship
+не забыть passenger,ship
+не забыть sea,ship
+не забыть ship,ship
+не забыть water,ship

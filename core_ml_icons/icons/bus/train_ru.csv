@@ -42,3 +42,20 @@ text,label
 Пересмотр транспортного бюджета команды,bus
 Поездка на автобусе через всю страну,bus
 Корпоративный транспорт забронирован на мероприятие,bus
+bus,bus
+oncoming,bus
+oncoming bus,bus
+public transportation,bus
+transportation,bus
+travel,bus
+vehicle,bus
+закончить bus,bus
+закончить oncoming,bus
+закончить oncoming bus,bus
+закончить public transportation,bus
+закончить transportation,bus
+закончить travel,bus
+закончить vehicle,bus
+bus для детей,bus
+oncoming для детей,bus
+oncoming bus для детей,bus

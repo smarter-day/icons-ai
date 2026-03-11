@@ -47,3 +47,15 @@ text,label
 Транспортное приложение для аэропорта забронировано,car
 Поездка на машине за город в выходные,car
 Технический осмотр перед дальней поездкой,car
+auto,car
+automobile,car
+car,car
+oncoming,car
+oncoming automobile,car
+sedan,car
+transportation,car
+travel,car
+vehicle,car
+auto на субботу,car
+automobile на субботу,car
+car на субботу,car

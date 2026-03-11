@@ -1,4 +1,9 @@
 text,label
-Выставить вторсырьё на вывоз,bin-recycle
 Контейнер для переработки нужно опустошить,bin-recycle
 День вывоза всего вторсырья,bin-recycle
+устроить collect,bin-recycle
+завершить collect,bin-recycle
+collect сегодня вечером,bin-recycle
+вопрос collect,bin-recycle
+collect на следующей неделе,bin-recycle
+устроить jug,bin-recycle

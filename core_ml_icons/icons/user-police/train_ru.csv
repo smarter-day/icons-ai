@@ -28,3 +28,34 @@ text,label
 коп регулриует движение на перекрёстке,user-police
 инспкетор на контрольном пункте,user-police
 офицр в форме в участке,user-police
+cop,user-police
+five-o,user-police
+law enforcement,user-police
+officer,user-police
+patrol,user-police
+police,user-police
+police officer,user-police
+trooper,user-police
+user,user-police
+user police,user-police
+новый cop,user-police
+новый five-o,user-police
+новый law enforcement,user-police
+новый officer,user-police
+новый patrol,user-police
+новый police,user-police
+новый police officer,user-police
+новый trooper,user-police
+новый user,user-police
+новый user police,user-police
+cop после работы,user-police
+five-o после работы,user-police
+law enforcement после работы,user-police
+officer после работы,user-police
+patrol после работы,user-police
+police после работы,user-police
+police officer после работы,user-police
+trooper после работы,user-police
+user после работы,user-police
+user police после работы,user-police
+еженедельный cop,user-police

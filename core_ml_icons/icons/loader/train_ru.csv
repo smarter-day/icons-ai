@@ -48,3 +48,14 @@ CSS-анимация загрузки в веб-компоненте,loader
 пульсирующее кольцо оверлея,loader
 неопределённый спиннер для ожидания,loader
 дуга прогресса при загрузке файла,loader
+loading,loader
+pending,loader
+progress,loader
+loader,loader
+loading на выходных,loader
+pending на выходных,loader
+progress на выходных,loader
+loader на выходных,loader
+еженедельный loading,loader
+еженедельный pending,loader
+еженедельный progress,loader

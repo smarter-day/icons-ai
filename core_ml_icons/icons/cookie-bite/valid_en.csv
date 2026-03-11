@@ -2,3 +2,8 @@ text,label
 Take a bite of the cookie,cookie-bite
 Half-eaten cookie on the desk,cookie-bite
 Nibble on a chocolate cookie,cookie-bite
+schedule baked good,cookie-bite
+baked good check-in,cookie-bite
+baked good task,cookie-bite
+baked good errand,cookie-bite
+follow up on baked good,cookie-bite

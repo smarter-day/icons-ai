@@ -26,7 +26,6 @@ lap timer на секундомере для кругов,stopwatch
 секундомер в fitness app для интервальных тренировок,stopwatch
 добавить символ секундомера на экран таймера,stopwatch
 показать секундомер для lap tracking feature,stopwatch
-секундомер замеряет спринт,stopwatch
 lap timer на секундомере щелкает,stopwatch
 секундомер измеряет прошедшее время,stopwatch
 секундомер считает секунды,stopwatch
@@ -36,3 +35,27 @@ progress bar таймера обратного отсчета,stopwatch
 дата в календаре с напоминанием о событии,stopwatch
 метроном отбивает ритм,stopwatch
 наручные часы с аналоговым циферблатом,stopwatch
+clock,stopwatch
+reminder,stopwatch
+stopwatch,stopwatch
+time,stopwatch
+waiting,stopwatch
+новый clock,stopwatch
+новый reminder,stopwatch
+новый stopwatch,stopwatch
+новый time,stopwatch
+новый waiting,stopwatch
+закончить clock,stopwatch
+закончить reminder,stopwatch
+закончить stopwatch,stopwatch
+закончить time,stopwatch
+закончить waiting,stopwatch
+clock вечером,stopwatch
+reminder вечером,stopwatch
+stopwatch вечером,stopwatch
+time вечером,stopwatch
+waiting вечером,stopwatch
+clock утром,stopwatch
+reminder утром,stopwatch
+stopwatch утром,stopwatch
+не забыть clock,stopwatch

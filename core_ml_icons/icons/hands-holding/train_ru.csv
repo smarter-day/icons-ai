@@ -44,3 +44,18 @@ text,label
 поддерживать предмет двумя ладонями,hands-holding
 нести корзину с бельём вдвоём,hands-holding
 надёжно держать тарелку,hands-holding
+carry,hands-holding
+hold,hands-holding
+lift,hands-holding
+hands,hands-holding
+holding,hands-holding
+hands holding,hands-holding
+закончить carry,hands-holding
+закончить hold,hands-holding
+закончить lift,hands-holding
+закончить hands,hands-holding
+закончить holding,hands-holding
+закончить hands holding,hands-holding
+carry утром,hands-holding
+hold утром,hands-holding
+lift утром,hands-holding

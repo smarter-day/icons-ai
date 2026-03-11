@@ -1,0 +1,61 @@
+text,label
+default,person
+man,person
+person standing,person
+stand,person
+standing,person
+uer,person
+woman,person
+person,person
+旅行用のdefault,person
+旅行用のman,person
+旅行用のperson standing,person
+旅行用のstand,person
+旅行用のstanding,person
+旅行用のuer,person
+旅行用のwoman,person
+旅行用のperson,person
+defaultをオンラインで買う,person
+manをオンラインで買う,person
+person standingをオンラインで買う,person
+standをオンラインで買う,person
+standingをオンラインで買う,person
+uerをオンラインで買う,person
+womanをオンラインで買う,person
+personをオンラインで買う,person
+defaultを返す,person
+manを返す,person
+person standingを返す,person
+standを返す,person
+standingを返す,person
+uerを返す,person
+womanを返す,person
+personを返す,person
+明日default,person
+明日man,person
+明日person standing,person
+明日stand,person
+明日standing,person
+明日uer,person
+明日woman,person
+明日person,person
+そろそろdefault,person
+そろそろman,person
+そろそろperson standing,person
+そろそろstand,person
+そろそろstanding,person
+そろそろuer,person
+そろそろwoman,person
+そろそろperson,person
+defaultの予約,person
+manの予約,person
+person standingの予約,person
+standの予約,person
+standingの予約,person
+uerの予約,person
+womanの予約,person
+そろそろtand,person
+uerをを返す,person
+旅行用ののman,person
+defaultをオンンラインで買う,person
+womannをオンラインで買う,person

@@ -2,3 +2,8 @@ text,label
 Отсканировать для получения информации,barcode
 Считать штрихкод с коробки,barcode
 Быстрая проверка цены в магазине,barcode
+завершить info,barcode
+info сегодня вечером,barcode
+вопрос info,barcode
+управление info,barcode
+обработать info,barcode

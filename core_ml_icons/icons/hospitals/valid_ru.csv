@@ -2,3 +2,8 @@ text,label
 Найти ближайшую больницу,hospitals
 Проверьте страховое покрытие больницы,hospitals
 Направляйтесь в отделение неотложной помощи,hospitals
+напоминание emergency,hospitals
+заняться emergency,hospitals
+emergency дело,hospitals
+план по emergency,hospitals
+разобраться с emergency,hospitals

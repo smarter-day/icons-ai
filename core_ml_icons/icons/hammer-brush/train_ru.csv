@@ -31,7 +31,6 @@ text,label
 починить и перекрасить,hammer-brush
 ремонт своими руками,hammer-brush
 визит мастера по ремонту,hammer-brush
-отремонтировать гостиную,hammer-brush
 покрасить стены,hammer-brush
 починить и перекрасить забор,hammer-brush
 проект улучшения дома,hammer-brush
@@ -41,3 +40,22 @@ text,label
 нанять мастера для ремонта,hammer-brush
 переделать отделку ванной,hammer-brush
 покрасить отремонтированный потолок,hammer-brush
+admin,hammer-brush
+art,hammer-brush
+bristles,hammer-brush
+configuration,hammer-brush
+equipment,hammer-brush
+fix,hammer-brush
+hammer,hammer-brush
+maintenance,hammer-brush
+modify,hammer-brush
+paint,hammer-brush
+recovery,hammer-brush
+remodel,hammer-brush
+repair,hammer-brush
+settings,hammer-brush
+brush,hammer-brush
+admin в понедельник,hammer-brush
+art в понедельник,hammer-brush
+bristles в понедельник,hammer-brush
+подготовить admin,hammer-brush

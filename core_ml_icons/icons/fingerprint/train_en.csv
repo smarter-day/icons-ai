@@ -34,3 +34,28 @@ forensic fingerprint on the evidence,fingerprint
 fingerpirnt scanner,fingerprint
 biometrc fingerprint,fingerprint
 fingerpint unlock,fingerprint
+lock,fingerprint
+privacy,fingerprint
+unlock,fingerprint
+fingerprint,fingerprint
+human for Saturday,fingerprint
+id for Saturday,fingerprint
+identification for Saturday,fingerprint
+lock for Saturday,fingerprint
+privacy for Saturday,fingerprint
+smudge for Saturday,fingerprint
+touch for Saturday,fingerprint
+unique for Saturday,fingerprint
+unlock for Saturday,fingerprint
+fingerprint for Saturday,fingerprint
+remember to call about human,fingerprint
+remember to call about id,fingerprint
+remember to call about identification,fingerprint
+remember to call about lock,fingerprint
+remember to call about privacy,fingerprint
+remember to call about smudge,fingerprint
+remember to call about touch,fingerprint
+remember to call about unique,fingerprint
+remember to call about unlock,fingerprint
+remember to call about fingerprint,fingerprint
+human after work,fingerprint

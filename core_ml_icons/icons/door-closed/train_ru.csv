@@ -47,6 +47,15 @@ text,label
 автоматическая дверь закрывается после входа,door-closed
 держать дверь закрытой чтобы сохранить тепло,door-closed
 дверь закрыта для приватности,door-closed
-входная дверь закрыта и заперта,door-closed
 иконка закрытой двери для приватности,door-closed
 противопожарная дверь закрыта всегда,door-closed
+doo,door-closed
+door,door-closed
+enter,door-closed
+exit,door-closed
+locked,door-closed
+privacy,door-closed
+closed,door-closed
+door closed,door-closed
+doo сегодня,door-closed
+doo вечером,door-closed

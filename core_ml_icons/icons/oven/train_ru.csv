@@ -36,3 +36,26 @@ text,label
 аэрогриль настольный прибор,oven
 мультиварка прибор медленного приготовления,oven
 холодильник для охлаждения еды,oven
+bake,oven
+broiler,oven
+convection,oven
+cook,oven
+kitchen,oven
+stove,oven
+oven,oven
+bake в понедельник,oven
+broiler в понедельник,oven
+convection в понедельник,oven
+cook в понедельник,oven
+kitchen в понедельник,oven
+stove в понедельник,oven
+oven в понедельник,oven
+bake утром,oven
+broiler утром,oven
+convection утром,oven
+cook утром,oven
+kitchen утром,oven
+stove утром,oven
+oven утром,oven
+bake после работы,oven
+broiler после работы,oven

@@ -36,3 +36,26 @@ text,label
 три силуэта людей как команда,person
 человек бежит с вытянутыми руками и ногами,person
 фигура для jogging в fitness tracker,person
+default,person
+man,person
+person standing,person
+stand,person
+standing,person
+uer,person
+woman,person
+person,person
+запись default,person
+запись man,person
+запись person standing,person
+запись stand,person
+запись standing,person
+запись uer,person
+запись woman,person
+запись person,person
+потренировать default в магазине,person
+потренировать man в магазине,person
+потренировать person standing в магазине,person
+потренировать stand в магазине,person
+потренировать standing в магазине,person
+потренировать uer в магазине,person
+потренировать woman в магазине,person

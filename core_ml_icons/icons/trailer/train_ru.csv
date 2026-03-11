@@ -28,3 +28,34 @@ text,label
 лодка водное судно,trailer
 контейнер для перевозки большая коробка,trailer
 пикап кузов груз,trailer
+carry,trailer
+haul,trailer
+moving,trailer
+travel,trailer
+trailer,trailer
+carry вечером,trailer
+haul вечером,trailer
+moving вечером,trailer
+travel вечером,trailer
+trailer вечером,trailer
+carry утром,trailer
+haul утром,trailer
+moving утром,trailer
+travel утром,trailer
+trailer утром,trailer
+carry на субботу,trailer
+haul на субботу,trailer
+moving на субботу,trailer
+travel на субботу,trailer
+trailer на субботу,trailer
+не забыть carry,trailer
+не забыть haul,trailer
+не забыть moving,trailer
+не забыть travel,trailer
+не забыть trailer,trailer
+carry завтра,trailer
+haul завтра,trailer
+moving завтра,trailer
+travel завтра,trailer
+trailer завтра,trailer
+carry сегодня,trailer

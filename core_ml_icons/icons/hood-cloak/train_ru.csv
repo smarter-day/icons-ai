@@ -32,7 +32,6 @@ text,label
 Наденьте плащ в дождь,hood-cloak
 плащ,hood-cloak
 капюшон,hood-cloak
-разбойник,hood-cloak
 фигура в капюшоне в тёмном плаще,hood-cloak
 средневековый костюм плаща с капюшоном,hood-cloak
 фэнтезийный разбойник в капюшоне и плаще,hood-cloak
@@ -47,8 +46,16 @@ text,label
 проникнуть в лагерь врага в режиме скрытности,hood-cloak
 способность разбойника: раствориться в тени,hood-cloak
 разблокирована способность плаща невидимости,hood-cloak
-фигура в капюшоне в тёмном плаще,hood-cloak
 фэнтезийный разбойник в капюшоне,hood-cloak
 капюшон ассасина низко надвинут,hood-cloak
 способность плаща невидимости,hood-cloak
 класс разбойника в D&D,hood-cloak
+Dungeons & Dragons,hood-cloak
+clothing,hood-cloak
+d&d,hood-cloak
+dnd,hood-cloak
+fantasy,hood-cloak
+hat,hood-cloak
+rogue,hood-cloak
+stealth,hood-cloak
+hood,hood-cloak

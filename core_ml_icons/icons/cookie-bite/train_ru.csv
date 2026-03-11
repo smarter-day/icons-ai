@@ -40,3 +40,22 @@ text,label
 Съешьте полный брауни,cookie-bite
 Поделитесь целым печеньем,cookie-bite
 Купите пакет печенья в магазине,cookie-bite
+baked good,cookie-bite
+bitten,cookie-bite
+chips,cookie-bite
+chocolate,cookie-bite
+eat,cookie-bite
+snack,cookie-bite
+sweet,cookie-bite
+treat,cookie-bite
+cookie,cookie-bite
+bite,cookie-bite
+cookie bite,cookie-bite
+запись baked good,cookie-bite
+запись bitten,cookie-bite
+запись chips,cookie-bite
+запись chocolate,cookie-bite
+запись eat,cookie-bite
+запись snack,cookie-bite
+запись sweet,cookie-bite
+запись treat,cookie-bite

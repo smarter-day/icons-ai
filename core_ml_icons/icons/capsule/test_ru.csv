@@ -2,3 +2,8 @@ text,label
 символ капсулы таблетки,capsule
 значок лекарственной капсулы,capsule
 капсула рецептурного лекарства,capsule
+вопрос drugs,capsule
+управление drugs,capsule
+решить вопрос с drugs,capsule
+обработать drugs,capsule
+drugs на следующей неделе,capsule

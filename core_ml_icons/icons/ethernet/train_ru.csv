@@ -22,7 +22,6 @@ text,label
 Подключите компьютер через Ethernet,ethernet
 Купите более длинный сетевой кабель,ethernet
 Используйте проводной Интернет для более высокой скорости,ethernet
-Настройте домашнюю сеть,ethernet
 Подключите маршрутизатор к стене,ethernet
 Исправьте медленное подключение к Интернету,ethernet
 Настройте проводное игровое соединение,ethernet
@@ -43,3 +42,20 @@ text,label
 Используйте usb-хаб для подключения,ethernet
 Подключайтесь через мобильную точку доступа,ethernet
 Установить оптоволоконный интернет,ethernet
+cable,ethernet
+cat 5,ethernet
+cat 6,ethernet
+connection,ethernet
+hardware,ethernet
+internet,ethernet
+network,ethernet
+wired,ethernet
+ethernet,ethernet
+cable на выходных,ethernet
+cat 5 на выходных,ethernet
+cat 6 на выходных,ethernet
+connection на выходных,ethernet
+hardware на выходных,ethernet
+internet на выходных,ethernet
+network на выходных,ethernet
+cable завтра,ethernet

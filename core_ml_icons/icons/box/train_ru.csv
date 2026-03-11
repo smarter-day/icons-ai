@@ -39,3 +39,23 @@ text,label
 Посылка отправлена экспресс-доставкой,box
 Номер отслеживания посылки сохранён,box
 Коробка для хранения сезонной одежды,box
+archive,box
+box,box
+container,box
+package,box
+parcel,box
+storage,box
+archive сегодня,box
+box сегодня,box
+container сегодня,box
+package сегодня,box
+parcel сегодня,box
+storage сегодня,box
+archive завтра,box
+box завтра,box
+container завтра,box
+package завтра,box
+parcel завтра,box
+storage завтра,box
+начать archive,box
+начать box,box

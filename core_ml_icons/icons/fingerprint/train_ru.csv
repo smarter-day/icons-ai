@@ -42,3 +42,20 @@ text,label
 карта доступа с магнитной полосой,fingerprint
 поле пароля на экране входа в систему,fingerprint
 сканирование руки для биометрической аутентификации,fingerprint
+human,fingerprint
+id,fingerprint
+identification,fingerprint
+lock,fingerprint
+privacy,fingerprint
+smudge,fingerprint
+touch,fingerprint
+unique,fingerprint
+unlock,fingerprint
+fingerprint,fingerprint
+human в понедельник,fingerprint
+id в понедельник,fingerprint
+identification в понедельник,fingerprint
+lock в понедельник,fingerprint
+privacy в понедельник,fingerprint
+smudge в понедельник,fingerprint
+touch в понедельник,fingerprint

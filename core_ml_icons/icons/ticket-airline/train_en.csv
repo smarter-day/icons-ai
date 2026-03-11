@@ -30,3 +30,32 @@ arplane ticket booking,ticket-airline
 boardig pass scan,ticket-airline
 deparutre flight gate,ticket-airline
 travell ticket airline,ticket-airline
+airplane,ticket-airline
+travel,ticket-airline
+airline,ticket-airline
+ticket airline,ticket-airline
+start airplane,ticket-airline
+start arrival,ticket-airline
+start boarding pass,ticket-airline
+start departure,ticket-airline
+start ticket,ticket-airline
+start travel,ticket-airline
+start airline,ticket-airline
+start ticket airline,ticket-airline
+check the airplane,ticket-airline
+check the arrival,ticket-airline
+check the boarding pass,ticket-airline
+check the departure,ticket-airline
+check the ticket,ticket-airline
+check the travel,ticket-airline
+check the airline,ticket-airline
+check the ticket airline,ticket-airline
+finish airplane,ticket-airline
+finish arrival,ticket-airline
+finish boarding pass,ticket-airline
+finish departure,ticket-airline
+finish ticket,ticket-airline
+finish travel,ticket-airline
+finish airline,ticket-airline
+finish ticket airline,ticket-airline
+don't forget airplane,ticket-airline

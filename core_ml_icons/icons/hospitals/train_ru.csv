@@ -44,3 +44,18 @@ text,label
 список региональных больниц,hospitals
 медцентры поблизости,hospitals
 ближайшие больницы для экстренного случая,hospitals
+emergency,hospitals
+insurance,hospitals
+network,hospitals
+hospitals,hospitals
+emergency вечером,hospitals
+insurance вечером,hospitals
+network вечером,hospitals
+hospitals вечером,hospitals
+emergency для поездки,hospitals
+insurance для поездки,hospitals
+network для поездки,hospitals
+hospitals для поездки,hospitals
+emergency сегодня,hospitals
+insurance сегодня,hospitals
+network сегодня,hospitals

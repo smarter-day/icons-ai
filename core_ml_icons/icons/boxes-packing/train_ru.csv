@@ -24,7 +24,6 @@ text,label
 Упакавать несколько коробок для переезда,boxes-packing
 Взять упакачные коробки из магазина,boxes-packing
 Оргнизовать вещи по коробкам,boxes-packing
-Коробки готовы к дню переезда,boxes-packing
 Отправить одну посылку,boxes-packing
 Распаковать после переезда,boxes-packing
 Арендовать склад,boxes-packing
@@ -36,3 +35,27 @@ text,label
 Упаковать товары для отправки на склад,boxes-packing
 Коробки для хранения сложены в гараже,boxes-packing
 Купить скотч и пупырчатую плёнку,boxes-packing
+archive,boxes-packing
+box,boxes-packing
+package,boxes-packing
+storage,boxes-packing
+supplies,boxes-packing
+boxes,boxes-packing
+packing,boxes-packing
+boxes packing,boxes-packing
+archive в понедельник,boxes-packing
+box в понедельник,boxes-packing
+package в понедельник,boxes-packing
+storage в понедельник,boxes-packing
+supplies в понедельник,boxes-packing
+boxes в понедельник,boxes-packing
+packing в понедельник,boxes-packing
+boxes packing в понедельник,boxes-packing
+убрать archive,boxes-packing
+убрать box,boxes-packing
+убрать package,boxes-packing
+убрать storage,boxes-packing
+убрать supplies,boxes-packing
+убрать boxes,boxes-packing
+убрать packing,boxes-packing
+archive сегодня,boxes-packing

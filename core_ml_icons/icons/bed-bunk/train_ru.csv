@@ -39,3 +39,23 @@ text,label
 Лечь спать пораньше перед ранним вылетом,bed-bunk
 Сумка для ночёвки у друга собрана,bed-bunk
 Хостел с двухъярусными кроватями забронирован,bed-bunk
+lodging,bed-bunk
+mattress,bed-bunk
+rest,bed-bunk
+siblings,bed-bunk
+sleep,bed-bunk
+sleepover,bed-bunk
+travel,bed-bunk
+bed,bed-bunk
+bunk,bed-bunk
+bed bunk,bed-bunk
+закончить lodging,bed-bunk
+закончить mattress,bed-bunk
+закончить rest,bed-bunk
+закончить siblings,bed-bunk
+закончить sleep,bed-bunk
+закончить sleepover,bed-bunk
+закончить travel,bed-bunk
+закончить bed,bed-bunk
+закончить bunk,bed-bunk
+закончить bed bunk,bed-bunk

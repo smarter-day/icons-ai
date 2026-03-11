@@ -1,0 +1,61 @@
+text,label
+alarm,siren
+alert,siren
+ambulance,siren
+loud,siren
+police,siren
+warning,siren
+siren,siren
+alarm cita,siren
+alert cita,siren
+ambulance cita,siren
+loud cita,siren
+police cita,siren
+warning cita,siren
+siren cita,siren
+alarm después del trabajo,siren
+alert después del trabajo,siren
+ambulance después del trabajo,siren
+loud después del trabajo,siren
+police después del trabajo,siren
+warning después del trabajo,siren
+siren después del trabajo,siren
+alarm semanal,siren
+alert semanal,siren
+ambulance semanal,siren
+loud semanal,siren
+police semanal,siren
+warning semanal,siren
+siren semanal,siren
+alarm hoy,siren
+alert hoy,siren
+ambulance hoy,siren
+loud hoy,siren
+police hoy,siren
+warning hoy,siren
+siren hoy,siren
+terminar alarm,siren
+terminar alert,siren
+terminar ambulance,siren
+terminar loud,siren
+terminar police,siren
+terminar warning,siren
+terminar siren,siren
+alarm por la mañana,siren
+alert por la mañana,siren
+ambulance por la mañana,siren
+loud por la mañana,siren
+police por la mañana,siren
+warning por la mañana,siren
+siren por la mañana,siren
+alarm por la noche,siren
+alert por la noche,siren
+ambulance por la noche,siren
+loud por la noche,siren
+police por la noche,siren
+warning por la noche,siren
+terminaar warning,siren
+siren despuués del trabajo,siren
+sren hoy,siren
+lou hoy,siren
+alarm este fin de semana,siren

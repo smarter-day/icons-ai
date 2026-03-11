@@ -2,7 +2,6 @@ text,label
 багаж,suitcase
 чемодан,suitcase
 упаковка,suitcase
-чемодан,suitcase
 поездка,suitcase
 выдача багажа в аэропорту,suitcase
 ограничение размера ручной клади,suitcase
@@ -38,3 +37,25 @@ text,label
 дамская сумочка модный аксессуар,suitcase
 пакет с ручками розничная торговля,suitcase
 картонная коробка для переезда упаковка,suitcase
+baggage,suitcase
+luggage,suitcase
+move,suitcase
+packing,suitcase
+suitcase,suitcase
+travel,suitcase
+trip,suitcase
+вернуть baggage в магазине,suitcase
+вернуть luggage в магазине,suitcase
+вернуть move в магазине,suitcase
+вернуть packing в магазине,suitcase
+вернуть suitcase в магазине,suitcase
+вернуть travel в магазине,suitcase
+вернуть trip в магазине,suitcase
+baggage в понедельник,suitcase
+luggage в понедельник,suitcase
+move в понедельник,suitcase
+packing в понедельник,suitcase
+suitcase в понедельник,suitcase
+travel в понедельник,suitcase
+trip в понедельник,suitcase
+купить baggage скоро,suitcase

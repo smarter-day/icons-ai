@@ -2,3 +2,8 @@ text,label
 Найти больницу в сети,hospitals
 Подать заявление на больничную страховку,hospitals
 Посмотрите рейтинг больниц,hospitals
+обработать emergency,hospitals
+вопрос emergency,hospitals
+завершить emergency,hospitals
+emergency на следующей неделе,hospitals
+разобрать emergency,hospitals

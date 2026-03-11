@@ -41,6 +41,21 @@ text,label
 шаблон клинической заметки,note-medical
 комментарий врача в записи,note-medical
 заметка о симптомах пациента,note-medical
-напоминание в медицинской карте,note-medical
 файл пациента с заметками,note-medical
 заметка в истории лечения,note-medical
+memo,note-medical
+sticky note,note-medical
+note,note-medical
+medical,note-medical
+note medical,note-medical
+memo для детей,note-medical
+sticky note для детей,note-medical
+note для детей,note-medical
+medical для детей,note-medical
+note medical для детей,note-medical
+memo сегодня,note-medical
+sticky note сегодня,note-medical
+note сегодня,note-medical
+medical сегодня,note-medical
+note medical сегодня,note-medical
+memo завтра,note-medical

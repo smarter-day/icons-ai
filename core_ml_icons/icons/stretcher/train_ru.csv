@@ -33,3 +33,29 @@ text,label
 аптечка первой помощи медицинские принадлежности,stretcher
 операционный стол в операционной,stretcher
 каталка для послеоперационного восстановления,stretcher
+ambulance,stretcher
+bed,stretcher
+emergency,stretcher
+er,stretcher
+patient,stretcher
+stretcher,stretcher
+ambulance на выходных,stretcher
+bed на выходных,stretcher
+emergency на выходных,stretcher
+er на выходных,stretcher
+patient на выходных,stretcher
+stretcher на выходных,stretcher
+ambulance в понедельник,stretcher
+bed в понедельник,stretcher
+emergency в понедельник,stretcher
+er в понедельник,stretcher
+patient в понедельник,stretcher
+stretcher в понедельник,stretcher
+ambulance завтра,stretcher
+bed завтра,stretcher
+emergency завтра,stretcher
+er завтра,stretcher
+patient завтра,stretcher
+stretcher завтра,stretcher
+вернуть ambulance онлайн,stretcher
+вернуть bed онлайн,stretcher

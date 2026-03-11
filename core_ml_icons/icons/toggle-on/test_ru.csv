@@ -1,3 +1,9 @@
 text,label
 символ включателя,toggle-on
 кнопка включена вкл,toggle-on
+button на следующей неделе,toggle-on
+разобрать button,toggle-on
+управление button,toggle-on
+вопрос button,toggle-on
+обработать button,toggle-on
+завершить button,toggle-on

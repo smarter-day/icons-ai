@@ -2,3 +2,8 @@ text,label
 выделенный сервер для хостинга,server
 серверная стойка в дата-центре,server
 иконка серверной инфраструктуры,server
+computer дело,server
+проект computer,server
+computer на этой неделе,server
+напоминание computer,server
+план по computer,server

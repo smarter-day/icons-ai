@@ -47,3 +47,15 @@ text,label
 приложение цифрового кошелька,money-bill
 чек с детализацией покупки,money-bill
 копилка-свинья для экономии денег,money-bill
+buy,money-bill
+cash,money-bill
+checkout,money-bill
+coupon,money-bill
+investment,money-bill
+money,money-bill
+payment,money-bill
+premium,money-bill
+price,money-bill
+purchase,money-bill
+revenue,money-bill
+salary,money-bill

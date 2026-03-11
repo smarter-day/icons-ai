@@ -1,0 +1,61 @@
+text,label
+address,map-location
+coordinates,map-location
+destination,map-location
+gps,map-location
+localize,map-location
+location,map-location
+マップ,map-location
+navigation,map-location
+ペーパー,map-location
+pin,map-location
+place,map-location
+point of interest,map-location
+position,map-location
+route,map-location
+travel,map-location
+旅行用のaddress,map-location
+旅行用のcoordinates,map-location
+旅行用のdestination,map-location
+旅行用のgps,map-location
+旅行用のlocalize,map-location
+旅行用のlocation,map-location
+旅行用のマップ,map-location
+旅行用のnavigation,map-location
+旅行用のペーパー,map-location
+旅行用のpin,map-location
+旅行用のplace,map-location
+旅行用のpoint of interest,map-location
+旅行用のposition,map-location
+旅行用のroute,map-location
+旅行用のtravel,map-location
+旅行用のmap location,map-location
+週末にaddress,map-location
+週末にcoordinates,map-location
+週末にdestination,map-location
+週末にgps,map-location
+週末にlocalize,map-location
+週末にlocation,map-location
+週末にマップ,map-location
+週末にnavigation,map-location
+週末にペーパー,map-location
+週末にpin,map-location
+週末にplace,map-location
+週末にpoint of interest,map-location
+週末にposition,map-location
+週末にroute,map-location
+週末にtravel,map-location
+週末にmap location,map-location
+仕事の後にaddress,map-location
+仕事の後にcoordinates,map-location
+仕事の後にdestination,map-location
+仕事の後にgps,map-location
+仕事の後にlocalize,map-location
+仕事の後にlocation,map-location
+仕事の後にマップ,map-location
+仕事の後にnavigation,map-location
+週末にloccalize,map-location
+週末にdesttination,map-location
+仕事の後後にaddress,map-location
+locaation,map-location
+旅行の用localize,map-location

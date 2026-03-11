@@ -2,3 +2,8 @@ text,label
 count the register at closing,cash-register
 ring up the customer,cash-register
 open the cash register,cash-register
+handle buy,cash-register
+buy this week,cash-register
+buy errand,cash-register
+buy project,cash-register
+buy task,cash-register

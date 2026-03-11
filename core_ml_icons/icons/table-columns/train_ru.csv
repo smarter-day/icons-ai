@@ -37,3 +37,25 @@ text,label
 боковая панель навигация,table-columns
 разделение горизонтальными строками не столбцами,table-columns
 ячейка таблицы одна выбранная,table-columns
+browser,table-columns
+category,table-columns
+dashboard,table-columns
+organize,table-columns
+panes,table-columns
+split,table-columns
+table,table-columns
+columns,table-columns
+table columns,table-columns
+browser после работы,table-columns
+category после работы,table-columns
+dashboard после работы,table-columns
+organize после работы,table-columns
+panes после работы,table-columns
+split после работы,table-columns
+table после работы,table-columns
+columns после работы,table-columns
+table columns после работы,table-columns
+browser для детей,table-columns
+category для детей,table-columns
+dashboard для детей,table-columns
+organize для детей,table-columns

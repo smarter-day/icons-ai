@@ -1,0 +1,61 @@
+text,label
+alarm,sensor
+alert,sensor
+carbon monoxide,sensor
+detector,sensor
+fire,sensor
+smoke,sensor
+sensor,sensor
+comprar alarm pronto,sensor
+comprar alert pronto,sensor
+comprar carbon monoxide pronto,sensor
+comprar detector pronto,sensor
+comprar fire pronto,sensor
+comprar smoke pronto,sensor
+comprar sensor pronto,sensor
+nuevo alarm,sensor
+nuevo alert,sensor
+nuevo carbon monoxide,sensor
+nuevo detector,sensor
+nuevo fire,sensor
+nuevo smoke,sensor
+nuevo sensor,sensor
+terminar alarm,sensor
+terminar alert,sensor
+terminar carbon monoxide,sensor
+terminar detector,sensor
+terminar fire,sensor
+terminar smoke,sensor
+terminar sensor,sensor
+comprar alarm,sensor
+comprar alert,sensor
+comprar carbon monoxide,sensor
+comprar detector,sensor
+comprar fire,sensor
+comprar smoke,sensor
+comprar sensor,sensor
+alarm mañana,sensor
+alert mañana,sensor
+carbon monoxide mañana,sensor
+detector mañana,sensor
+fire mañana,sensor
+smoke mañana,sensor
+sensor mañana,sensor
+alarm este fin de semana,sensor
+alert este fin de semana,sensor
+carbon monoxide este fin de semana,sensor
+detector este fin de semana,sensor
+fire este fin de semana,sensor
+smoke este fin de semana,sensor
+sensor este fin de semana,sensor
+comprar alarm en línea,sensor
+comprar alert en línea,sensor
+comprar carbon monoxide en línea,sensor
+comprar detector en línea,sensor
+comprar fire en línea,sensor
+comprar smoke en línea,sensor
+comprar alerrt en línea,sensor
+comprar smoke proto,sensor
+compprar carbon monoxide,sensor
+nuveo alert,sensor
+renovar alarm,sensor

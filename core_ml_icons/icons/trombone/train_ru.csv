@@ -2,7 +2,6 @@ text,label
 оркестр,trombone
 медь,trombone
 валторна,trombone
-оркестр,trombone
 тромбон,trombone
 тромбонист в школьном marching band,trombone
 духовой оркестр с тромбонами и трубами,trombone
@@ -35,3 +34,28 @@ text,label
 тубист в marching band,trombone
 изогнутый саксофон с широким раструбом,trombone
 джазовый саксофонист играет соло,trombone
+band,trombone
+brass,trombone
+horn,trombone
+orchestra,trombone
+trombone,trombone
+band утром,trombone
+brass утром,trombone
+horn утром,trombone
+orchestra утром,trombone
+trombone утром,trombone
+band на выходных,trombone
+brass на выходных,trombone
+horn на выходных,trombone
+orchestra на выходных,trombone
+trombone на выходных,trombone
+отменить band в магазине,trombone
+отменить brass в магазине,trombone
+отменить horn в магазине,trombone
+отменить orchestra в магазине,trombone
+отменить trombone в магазине,trombone
+закончить band,trombone
+закончить brass,trombone
+закончить horn,trombone
+закончить orchestra,trombone
+band сегодня,trombone

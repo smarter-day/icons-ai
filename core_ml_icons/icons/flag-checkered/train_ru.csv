@@ -27,7 +27,6 @@ text,label
 Клетчатый флаг,flag-checkered
 Мы победили!,flag-checkered
 посмотри гонку формулы 1,flag-checkered
-размахивать клетчатым флагом,flag-checkered
 пересечь финишную линию,flag-checkered
 праздновать победу в гонке,flag-checkered
 Забить гол в футболе,flag-checkered
@@ -36,3 +35,27 @@ text,label
 Завершить марафон,flag-checkered
 Пересечь финиш в плавании,flag-checkered
 Пройти полосу препятствий,flag-checkered
+checkered,flag-checkered
+chequered,flag-checkered
+chequered flag,flag-checkered
+finish,flag-checkered
+notice,flag-checkered
+notification,flag-checkered
+notify,flag-checkered
+pole,flag-checkered
+racing,flag-checkered
+report,flag-checkered
+start,flag-checkered
+win,flag-checkered
+flag,flag-checkered
+flag checkered,flag-checkered
+checkered после работы,flag-checkered
+chequered после работы,flag-checkered
+chequered flag после работы,flag-checkered
+finish после работы,flag-checkered
+notice после работы,flag-checkered
+notification после работы,flag-checkered
+notify после работы,flag-checkered
+pole после работы,flag-checkered
+racing после работы,flag-checkered
+новый checkered,flag-checkered

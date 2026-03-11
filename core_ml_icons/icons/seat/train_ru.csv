@@ -37,3 +37,25 @@ text,label
 уличная скамейка с металлической рамой,seat
 барный стул с круглым мягким сиденьем,seat
 высокий кухонный табурет у стойки,seat
+chair,seat
+furniture,seat
+movie,seat
+seat,seat
+table,seat
+theater,seat
+chair на субботу,seat
+furniture на субботу,seat
+movie на субботу,seat
+seat на субботу,seat
+table на субботу,seat
+theater на субботу,seat
+chair на выходных,seat
+furniture на выходных,seat
+movie на выходных,seat
+seat на выходных,seat
+table на выходных,seat
+theater на выходных,seat
+закончить chair,seat
+закончить furniture,seat
+закончить movie,seat
+закончить seat,seat

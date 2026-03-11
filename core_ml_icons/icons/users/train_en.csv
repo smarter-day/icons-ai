@@ -47,7 +47,6 @@ add users,users
 remove users,users
 user list,users
 user permissions,users
-team members,users
 there are too many inactive users in the system,users
 need to add the new hires to the team,users
 someone forgot to remove the old users,users
@@ -57,3 +56,6 @@ invte new usres to the team,users
 reveiw user lsit,users
 remvoe inactive uesrs,users
 add uesr to workspce,users
+employee,users
+together,users
+uer,users

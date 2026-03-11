@@ -2,7 +2,6 @@ text,label
 овца,sheep
 фермерство,sheep
 самка,sheep
-овца,sheep
 шерсть,sheep
 пряжа,sheep
 пастбище с пасущимися овцами,sheep
@@ -44,3 +43,19 @@ text,label
 лошадь рысит в загоне,sheep
 свинья роется в грязи на ферме,sheep
 альпака с пушистым покровом на высокогорной ферме,sheep
+agriculture,sheep
+animal,sheep
+ewe,sheep
+farming,sheep
+fauna,sheep
+female,sheep
+mammal,sheep
+sheep,sheep
+wool,sheep
+yarn,sheep
+еженедельный agriculture,sheep
+еженедельный animal,sheep
+еженедельный ewe,sheep
+еженедельный farming,sheep
+еженедельный fauna,sheep
+agriculture завтра,sheep

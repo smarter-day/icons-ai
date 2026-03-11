@@ -35,3 +35,27 @@ text,label
 красочный детский сад с площадкой,school
 офисное здание небоскрёб в городе,school
 больница со знаком красного креста,school
+building,school
+education,school
+learn,school
+school,school
+student,school
+teacher,school
+новый building,school
+новый education,school
+новый learn,school
+новый school,school
+новый student,school
+новый teacher,school
+вернуть building онлайн,school
+вернуть education онлайн,school
+вернуть learn онлайн,school
+вернуть school онлайн,school
+вернуть student онлайн,school
+вернуть teacher онлайн,school
+запись building,school
+запись education,school
+запись learn,school
+запись school,school
+запись student,school
+запись teacher,school

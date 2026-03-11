@@ -2,3 +2,8 @@ text,label
 broadcast the radio signal,tower-broadcast
 send a signal from the tower,tower-broadcast
 show the broadcast antenna,tower-broadcast
+airwaves reminder,tower-broadcast
+work on airwaves,tower-broadcast
+airwaves check-in,tower-broadcast
+airwaves task,tower-broadcast
+follow up on airwaves,tower-broadcast

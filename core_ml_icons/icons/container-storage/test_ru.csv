@@ -1,4 +1,9 @@
 text,label
 Организуйте вещи в хранилище,container-storage
 Маркируйте транспортировочные коробки,container-storage
-Отследить доставку контейнера,container-storage
+разобрать archive,container-storage
+уточнить archive,container-storage
+завершить archive,container-storage
+archive сегодня вечером,container-storage
+решить вопрос с archive,container-storage
+archive на следующей неделе,container-storage

@@ -50,4 +50,12 @@ text,label
 иконка зарядки на устройстве,battery-bolt
 аккумулятор подключён к зарядке,battery-bolt
 режим быстрой зарядки включён,battery-bolt
-иконка зарядной станции для электромобиля,battery-bolt
+charge,battery-bolt
+power,battery-bolt
+status,battery-bolt
+battery,battery-bolt
+bolt,battery-bolt
+battery bolt,battery-bolt
+charge завтра,battery-bolt
+power завтра,battery-bolt
+charge для детей,battery-bolt

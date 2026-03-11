@@ -32,3 +32,30 @@ text,label
 Порция корма для собаки готова на утро,bowl-food
 Миска вымыта и готова к использованию,bowl-food
 Миска риса с овощами,bowl-food
+catfood,bowl-food
+dogfood,bowl-food
+food,bowl-food
+rice,bowl-food
+bowl,bowl-food
+bowl food,bowl-food
+catfood после работы,bowl-food
+dogfood после работы,bowl-food
+food после работы,bowl-food
+rice после работы,bowl-food
+bowl после работы,bowl-food
+bowl food после работы,bowl-food
+catfood в понедельник,bowl-food
+dogfood в понедельник,bowl-food
+food в понедельник,bowl-food
+rice в понедельник,bowl-food
+bowl в понедельник,bowl-food
+bowl food в понедельник,bowl-food
+закончить catfood,bowl-food
+закончить dogfood,bowl-food
+закончить food,bowl-food
+закончить rice,bowl-food
+закончить bowl,bowl-food
+закончить bowl food,bowl-food
+catfood вечером,bowl-food
+dogfood вечером,bowl-food
+food вечером,bowl-food

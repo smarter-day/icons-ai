@@ -3,7 +3,6 @@ text,label
 переноска,baby-carriage
 младенец,baby-carriage
 толкать,baby-carriage
-коляска,baby-carriage
 колёса,baby-carriage
 взять коляску на прогулку,baby-carriage
 использовать слинг-переноску,baby-carriage
@@ -45,3 +44,18 @@ text,label
 Транспортировка малыша в поездке по городу,baby-carriage
 Прогулка с ребёнком в коляске,baby-carriage
 Новые колёса для детской коляски,baby-carriage
+buggy,baby-carriage
+carrier,baby-carriage
+infant,baby-carriage
+push,baby-carriage
+stroller,baby-carriage
+transportation,baby-carriage
+walk,baby-carriage
+wheels,baby-carriage
+baby,baby-carriage
+carriage,baby-carriage
+baby carriage,baby-carriage
+еженедельный buggy,baby-carriage
+еженедельный carrier,baby-carriage
+еженедельный infant,baby-carriage
+buggy утром,baby-carriage

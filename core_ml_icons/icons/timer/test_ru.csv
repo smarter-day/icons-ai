@@ -1,3 +1,9 @@
 text,label
 иконка таймера отсчёт,timer
 таймер ожидания,timer
+clock на следующей неделе,timer
+управление clock,timer
+завершить clock,timer
+clock сегодня вечером,timer
+обработать clock,timer
+уточнить clock,timer

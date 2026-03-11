@@ -2,3 +2,8 @@ text,label
 Тележка для тяжёлых коробок,cart-flatbed
 Складская тележка для перемещения инвентаря,cart-flatbed
 Сложить предметы на тележку,cart-flatbed
+разобрать carry,cart-flatbed
+уточнить carry,cart-flatbed
+carry на следующей неделе,cart-flatbed
+решить вопрос с carry,cart-flatbed
+управление carry,cart-flatbed

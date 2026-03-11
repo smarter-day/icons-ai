@@ -30,3 +30,32 @@ text,label
 портал шлюз измерение прыжок,transporter
 волшебная палочка телепорт фэнтези,transporter
 замена перенос стрелки обмен,transporter
+move,transporter
+teleport,transporter
+transfer,transporter
+translocate,transporter
+travel,transporter
+transporter,transporter
+новый move,transporter
+новый teleport,transporter
+новый transfer,transporter
+новый translocate,transporter
+новый travel,transporter
+новый transporter,transporter
+move на субботу,transporter
+teleport на субботу,transporter
+transfer на субботу,transporter
+translocate на субботу,transporter
+travel на субботу,transporter
+transporter на субботу,transporter
+move в понедельник,transporter
+teleport в понедельник,transporter
+transfer в понедельник,transporter
+translocate в понедельник,transporter
+travel в понедельник,transporter
+transporter в понедельник,transporter
+убрать move,transporter
+убрать teleport,transporter
+убрать transfer,transporter
+убрать translocate,transporter
+убрать travel,transporter

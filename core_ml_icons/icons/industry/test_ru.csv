@@ -1,4 +1,9 @@
 text,label
-Работа на производственной линии,industry
 Мониторинг промышленного производства,industry
 Запланируйте экскурсию по заводу,industry
+вопрос building,industry
+обработать building,industry
+building сегодня вечером,industry
+building на следующей неделе,industry
+завершить building,industry
+уточнить building,industry

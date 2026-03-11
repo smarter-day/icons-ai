@@ -29,3 +29,33 @@ ventilatro mask,mask-ventilator
 respirater oxygen,mask-ventilator
 oxygne mask,mask-ventilator
 breaht mask,mask-ventilator
+breath,mask-ventilator
+mask,mask-ventilator
+mask ventilator,mask-ventilator
+finish breath,mask-ventilator
+finish gas,mask-ventilator
+finish mask,mask-ventilator
+finish oxygen,mask-ventilator
+finish respirator,mask-ventilator
+finish ventilator,mask-ventilator
+finish mask ventilator,mask-ventilator
+don't forget breath,mask-ventilator
+don't forget gas,mask-ventilator
+don't forget mask,mask-ventilator
+don't forget oxygen,mask-ventilator
+don't forget respirator,mask-ventilator
+don't forget ventilator,mask-ventilator
+don't forget mask ventilator,mask-ventilator
+evening breath,mask-ventilator
+evening gas,mask-ventilator
+evening mask,mask-ventilator
+evening oxygen,mask-ventilator
+evening respirator,mask-ventilator
+evening ventilator,mask-ventilator
+evening mask ventilator,mask-ventilator
+morning breath,mask-ventilator
+morning gas,mask-ventilator
+morning mask,mask-ventilator
+morning oxygen,mask-ventilator
+morning respirator,mask-ventilator
+morning ventilator,mask-ventilator

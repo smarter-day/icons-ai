@@ -2,3 +2,8 @@ text,label
 emergency siren icon,siren
 police siren alarm,siren
 warning siren symbol,siren
+schedule alarm,siren
+alarm this week,siren
+alarm task,siren
+alarm project,siren
+alarm errand,siren

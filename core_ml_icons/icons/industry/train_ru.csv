@@ -33,3 +33,29 @@ text,label
 Управлять небольшим рестораном,industry
 Открыть розничный магазин,industry
 Управлять работой фермы,industry
+building,industry
+factory,industry
+industrial,industry
+manufacturing,industry
+mill,industry
+warehouse,industry
+industry,industry
+building на выходных,industry
+factory на выходных,industry
+industrial на выходных,industry
+manufacturing на выходных,industry
+mill на выходных,industry
+warehouse на выходных,industry
+industry на выходных,industry
+убрать building,industry
+убрать factory,industry
+убрать industrial,industry
+убрать manufacturing,industry
+убрать mill,industry
+убрать warehouse,industry
+убрать industry,industry
+закончить building,industry
+закончить factory,industry
+закончить industrial,industry
+закончить manufacturing,industry
+закончить mill,industry

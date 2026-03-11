@@ -35,7 +35,6 @@ text,label
 сырная доска — это решение на вечер,cheese
 бургер без дополнительного сыра не бургер,cheese
 чедер для бургера,cheese
-жареный сыр на хлебе на закваске,cheese
 сырная дсока для ужина,cheese
 тёртый пармезан над пастой,cheese
 Швейцарский сыр с дырками,cheese
@@ -44,3 +43,19 @@ text,label
 Йогурт как молочная альтернатива,cheese
 Пакет молока в холодильнике,cheese
 Крекеры без сырного топпинга,cheese
+cheddar,cheese
+curd,cheese
+gouda,cheese
+melt,cheese
+parmesan,cheese
+sandwich,cheese
+swiss,cheese
+wedge,cheese
+cheese,cheese
+cheddar вечером,cheese
+curd вечером,cheese
+gouda вечером,cheese
+melt вечером,cheese
+parmesan вечером,cheese
+sandwich вечером,cheese
+cheddar для поездки,cheese

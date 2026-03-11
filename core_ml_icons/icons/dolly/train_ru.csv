@@ -50,3 +50,12 @@ text,label
 тележка для перемещения мебели,dolly
 сложить коробки на тележку,dolly
 прокатить тележку к лифту,dolly
+carry,dolly
+shipping,dolly
+transport,dolly
+dolly,dolly
+подготовить carry скоро,dolly
+подготовить shipping скоро,dolly
+подготовить transport скоро,dolly
+подготовить dolly скоро,dolly
+carry на субботу,dolly

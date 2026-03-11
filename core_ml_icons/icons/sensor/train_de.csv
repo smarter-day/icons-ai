@@ -1,0 +1,61 @@
+text,label
+alarm,sensor
+alert,sensor
+carbon monoxide,sensor
+detector,sensor
+fire,sensor
+smoke,sensor
+sensor,sensor
+alarm morgens,sensor
+alert morgens,sensor
+carbon monoxide morgens,sensor
+detector morgens,sensor
+fire morgens,sensor
+smoke morgens,sensor
+sensor morgens,sensor
+alarm nicht vergessen,sensor
+alert nicht vergessen,sensor
+carbon monoxide nicht vergessen,sensor
+detector nicht vergessen,sensor
+fire nicht vergessen,sensor
+smoke nicht vergessen,sensor
+sensor nicht vergessen,sensor
+alarm für die Reise,sensor
+alert für die Reise,sensor
+carbon monoxide für die Reise,sensor
+detector für die Reise,sensor
+fire für die Reise,sensor
+smoke für die Reise,sensor
+sensor für die Reise,sensor
+alarm abends,sensor
+alert abends,sensor
+carbon monoxide abends,sensor
+detector abends,sensor
+fire abends,sensor
+smoke abends,sensor
+sensor abends,sensor
+alarm erledigen,sensor
+alert erledigen,sensor
+carbon monoxide erledigen,sensor
+detector erledigen,sensor
+fire erledigen,sensor
+smoke erledigen,sensor
+sensor erledigen,sensor
+alarm morgen,sensor
+alert morgen,sensor
+carbon monoxide morgen,sensor
+detector morgen,sensor
+fire morgen,sensor
+smoke morgen,sensor
+sensor morgen,sensor
+wöchentlich alarm,sensor
+wöchentlich alert,sensor
+wöchentlich carbon monoxide,sensor
+wöchentlich detector,sensor
+wöchentlich fire,sensor
+wöchentlich smoke,sensor
+frie morgen,sensor
+wöhcentlich alarm,sensor
+alert für dei Reise,sensor
+alarm heute,sensor
+alert heute,sensor

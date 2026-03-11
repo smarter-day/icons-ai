@@ -2,3 +2,8 @@ text,label
 police officer icon,user-police
 cop user symbol,user-police
 law enforcement icon,user-police
+cop errand,user-police
+follow up on cop,user-police
+cop project,user-police
+handle cop,user-police
+cop reminder,user-police

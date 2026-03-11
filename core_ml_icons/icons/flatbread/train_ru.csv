@@ -15,7 +15,6 @@ text,label
 Сделать лаваш с нуля,flatbread
 Приготовь наан к карри,flatbread
 Испечь домашние лепешки,flatbread
-Приготовь арепу на завтрак,flatbread
 Используйте лаваш для обертывания.,flatbread
 Поджарьте лепешку перед подачей,flatbread
 Заказать наан из индийского ресторана,flatbread
@@ -34,3 +33,29 @@ text,label
 Сделать хлеб на закваске,flatbread
 Испечь багет,flatbread
 Делаем пиццу на густом тесте,flatbread
+arepa,flatbread
+flatbread,flatbread
+lavash,flatbread
+naan,flatbread
+pita,flatbread
+arepa для поездки,flatbread
+flatbread для поездки,flatbread
+lavash для поездки,flatbread
+naan для поездки,flatbread
+pita для поездки,flatbread
+arepa вечером,flatbread
+flatbread вечером,flatbread
+lavash вечером,flatbread
+naan вечером,flatbread
+pita вечером,flatbread
+начать arepa,flatbread
+начать flatbread,flatbread
+начать lavash,flatbread
+начать naan,flatbread
+начать pita,flatbread
+еженедельный arepa,flatbread
+еженедельный flatbread,flatbread
+еженедельный lavash,flatbread
+еженедельный naan,flatbread
+еженедельный pita,flatbread
+arepa завтра,flatbread

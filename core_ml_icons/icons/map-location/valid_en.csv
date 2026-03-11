@@ -2,3 +2,8 @@ text,label
 show the map with a marked place,map-location
 open the route map with destination,map-location
 see my address on the map,map-location
+handle address,map-location
+address reminder,map-location
+plan for address,map-location
+address project,map-location
+address this week,map-location

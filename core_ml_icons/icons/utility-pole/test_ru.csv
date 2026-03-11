@@ -2,3 +2,8 @@ text,label
 иконка коммунального столба,utility-pole
 символ электрического столба,utility-pole
 телефонный провод столб,utility-pole
+обработать phone,utility-pole
+вопрос phone,utility-pole
+уточнить phone,utility-pole
+phone на следующей неделе,utility-pole
+разобрать phone,utility-pole

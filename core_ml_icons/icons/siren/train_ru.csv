@@ -36,3 +36,26 @@ text,label
 огнетушитель как красный баллон безопасности,siren
 светофор с красным желтым и зеленым,siren
 динамик как иконка вывода звука,siren
+alarm,siren
+alert,siren
+ambulance,siren
+loud,siren
+police,siren
+warning,siren
+siren,siren
+забронировать alarm в магазине,siren
+забронировать alert в магазине,siren
+забронировать ambulance в магазине,siren
+забронировать loud в магазине,siren
+забронировать police в магазине,siren
+забронировать warning в магазине,siren
+забронировать siren в магазине,siren
+alarm после работы,siren
+alert после работы,siren
+ambulance после работы,siren
+loud после работы,siren
+police после работы,siren
+warning после работы,siren
+siren после работы,siren
+новый alarm,siren
+новый alert,siren

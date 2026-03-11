@@ -48,3 +48,14 @@ text,label
 система пожаротушения активируется,sprinkler-ceiling
 спринклерная система подключена к сигнализации,sprinkler-ceiling
 проверка потолочных спринклеров,sprinkler-ceiling
+emergency,sprinkler-ceiling
+fire,sprinkler-ceiling
+water,sprinkler-ceiling
+sprinkler,sprinkler-ceiling
+ceiling,sprinkler-ceiling
+sprinkler ceiling,sprinkler-ceiling
+emergency вечером,sprinkler-ceiling
+fire вечером,sprinkler-ceiling
+water вечером,sprinkler-ceiling
+sprinkler вечером,sprinkler-ceiling
+ceiling вечером,sprinkler-ceiling

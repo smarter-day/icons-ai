@@ -2,3 +2,8 @@ text,label
 pay by credit card,credit-card
 enter card details,credit-card
 charge the card at checkout,credit-card
+buy reminder,credit-card
+buy errand,credit-card
+take care of buy,credit-card
+schedule buy,credit-card
+buy task,credit-card

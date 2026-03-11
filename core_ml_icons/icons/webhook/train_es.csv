@@ -1,0 +1,61 @@
+text,label
+API,webhook
+automatización,webhook
+conectar,webhook
+hook,webhook
+integración,webhook
+disparador,webhook
+webhook,webhook
+endpoint,webhook
+callback,webhook
+payload,webhook
+HTTP POST,webhook
+notificación,webhook
+automatizar,webhook
+clave API,webhook
+JSON,webhook
+evento,webhook
+solicitud,webhook
+servidor,webhook
+configurar un webhook para nuevos pedidos,webhook
+configurar la integración API con Slack,webhook
+automatizar el flujo de trabajo con un disparador webhook,webhook
+verificar si el webhook está recibiendo eventos,webhook
+agregar una URL de callback para notificaciones de pago,webhook
+probar el webhook con un payload de prueba,webhook
+actualizar la clave API para la integración,webhook
+arreglar el endpoint del webhook que no funciona,webhook
+configurar automatización para nuevos registros de clientes,webhook
+conectar el webhook al sistema CRM,webhook
+disparar el webhook cuando se envíe un formulario,webhook
+revisar los logs del webhook por entregas fallidas,webhook
+agregar una nueva integración para notificaciones por email,webhook
+actualizar la URL del webhook después de mover el servidor,webhook
+automatizar la generación de facturas con una llamada API,webhook
+el webhook dejó de enviar notificaciones,webhook
+hay que rotar la clave API esta semana,webhook
+al payload del webhook le faltan campos obligatorios,webhook
+reintentar la entrega fallida del webhook,webhook
+configurar un webhook para mensajes del chat,webhook
+la integración con la pasarela de pagos no funciona,webhook
+configurar el endpoint para aceptar JSON,webhook
+la automatización nos ahorra horas cada semana,webhook
+el límite de la API se alcanza constantemente,webhook
+agregar un webhook para actualizaciones del estado de envío,webhook
+verificar la firma del webhook antes de procesar,webhook
+conectar el sistema de facturación a la app principal,webhook
+la URL de callback necesita actualizarse,webhook
+el servidor devolvió un error en la llamada del webhook,webhook
+programar la migración de la API para el próximo sprint,webhook
+conectar la nueva herramienta a nuestro pipeline de automatización,webhook
+probar el disparador de eventos antes de lanzar,webhook
+el webhook se activa cada vez que se crea un ticket,webhook
+configurar alertas para fallos del webhook,webhook
+documentar los endpoints de la API para el equipo,webhook
+verificar si la integración maneja reintentos,webhook
+configurar webhok para nuevos pedidos,webhook
+configurar la integación API,webhook
+automatizr el flujo de trabajo,webhook
+revisra los logs del webhook,webhook
+disparar el webook al enviar,webhook
+monitorear el dashboard de disponibilidad de la API,webhook

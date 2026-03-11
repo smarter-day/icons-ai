@@ -39,8 +39,23 @@ text,label
 добавить кнопку ответа в раздел комментариев,reply
 показать стрелку ответа для панели почтового клиента,reply
 стрелка ответа загибается к отправителю,reply
-быстрый ответ из баннера уведомления,reply
 ветка ответа под исходным комментарием,reply
 автоответ на период отпуска,reply
 ответ на тикет от клиента,reply
 встроенный ответ для цитирования сообщения,reply
+mail,reply
+message,reply
+respond,reply
+reply,reply
+забрать mail в магазине,reply
+забрать message в магазине,reply
+забрать respond в магазине,reply
+забрать reply в магазине,reply
+не забыть mail,reply
+не забыть message,reply
+не забыть respond,reply
+не забыть reply,reply
+забрать mail,reply
+забрать message,reply
+забрать respond,reply
+забронировать mail в магазине,reply

@@ -1,0 +1,9 @@
+text,label
+goal Erinnerung,goal-net
+goal Aufgabe,goal-net
+goal nachverfolgen,goal-net
+goal diese Woche,goal-net
+goal planen,goal-net
+goal Projekt,goal-net
+goal kontrollieren,goal-net
+goal erledigen,goal-net

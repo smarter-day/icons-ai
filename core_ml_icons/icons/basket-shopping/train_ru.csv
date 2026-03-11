@@ -19,7 +19,6 @@ text,label
 Продуктавая корзина в магазине,basket-shopping
 Касса с полной корзнной,basket-shopping
 Продуктовый шопинк с корзиной,basket-shopping
-наполнить корзину перед кассой,basket-shopping
 взять корзину для пары покупок,basket-shopping
 собрать продукты в корзину,basket-shopping
 корзина для покупок у входа,basket-shopping
@@ -30,3 +29,33 @@ text,label
 Поход за продуктами перед выходными,basket-shopping
 Платёж отклонён — проверить карту,basket-shopping
 Покупка завершена корзина очищена,basket-shopping
+buy,basket-shopping
+checkout,basket-shopping
+grocery,basket-shopping
+payment,basket-shopping
+purchase,basket-shopping
+basket,basket-shopping
+shopping,basket-shopping
+basket shopping,basket-shopping
+еженедельный buy,basket-shopping
+еженедельный checkout,basket-shopping
+еженедельный grocery,basket-shopping
+еженедельный payment,basket-shopping
+еженедельный purchase,basket-shopping
+еженедельный basket,basket-shopping
+еженедельный shopping,basket-shopping
+еженедельный basket shopping,basket-shopping
+buy завтра,basket-shopping
+checkout завтра,basket-shopping
+grocery завтра,basket-shopping
+payment завтра,basket-shopping
+purchase завтра,basket-shopping
+basket завтра,basket-shopping
+shopping завтра,basket-shopping
+basket shopping завтра,basket-shopping
+buy после работы,basket-shopping
+checkout после работы,basket-shopping
+grocery после работы,basket-shopping
+payment после работы,basket-shopping
+purchase после работы,basket-shopping
+buy для поездки,basket-shopping

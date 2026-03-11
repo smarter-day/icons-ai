@@ -2,3 +2,8 @@ text,label
 Take bottles to the recycling center,jug-bottle
 Separate plastics for recycling,jug-bottle
 Return empty bottles for deposit,jug-bottle
+arrange collect,jug-bottle
+complete collect,jug-bottle
+collect next week,jug-bottle
+wrap up collect,jug-bottle
+collect stuff,jug-bottle

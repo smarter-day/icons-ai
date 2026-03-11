@@ -44,3 +44,18 @@ text,label
 медицинский портал для пациентов,hospital-user
 статус пациента в приложении клиники,hospital-user
 карточка пациента в системе,hospital-user
+covid-19,hospital-user
+doctor,hospital-user
+network,hospital-user
+patient,hospital-user
+primary care,hospital-user
+uer,hospital-user
+hospital,hospital-user
+user,hospital-user
+hospital user,hospital-user
+covid-19 утром,hospital-user
+doctor утром,hospital-user
+network утром,hospital-user
+patient утром,hospital-user
+primary care утром,hospital-user
+uer утром,hospital-user

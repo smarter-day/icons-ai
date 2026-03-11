@@ -29,7 +29,6 @@ text,label
 приложение перевода распознает речь в реальном времени,language
 показать выбор языка при онбординге,language
 перевести документ на французский,language
-локализовать приложение для японских пользователей,language
 переключатель языка в меню настроек,language
 распознавание речи на иностранном языке,language
 клавиатура печатает буквы,language
@@ -38,3 +37,25 @@ text,label
 микрофон записывает речь,language
 флаг страны как национальный символ,language
 буква a как формат текста,language
+dialect,language
+idiom,language
+localize,language
+speech,language
+translate,language
+vernacular,language
+language,language
+dialect для детей,language
+idiom для детей,language
+localize для детей,language
+speech для детей,language
+translate для детей,language
+vernacular для детей,language
+language для детей,language
+новый dialect,language
+новый idiom,language
+новый localize,language
+новый speech,language
+новый translate,language
+новый vernacular,language
+новый language,language
+dialect вечером,language

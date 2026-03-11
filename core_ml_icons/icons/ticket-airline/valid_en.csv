@@ -2,3 +2,8 @@ text,label
 airline boarding pass icon,ticket-airline
 flight ticket symbol,ticket-airline
 airplane ticket travel,ticket-airline
+handle airplane,ticket-airline
+plan for airplane,ticket-airline
+schedule airplane,ticket-airline
+airplane errand,ticket-airline
+follow up on airplane,ticket-airline

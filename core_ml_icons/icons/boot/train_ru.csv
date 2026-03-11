@@ -13,7 +13,6 @@ text,label
 разносить новые походные ботинки,boot
 водонепроницаемая обувь для тропы,boot
 прочные ботинки для пересечённой местности,boot
-Купить новые походные ботинки,boot
 Разносить ботинки перед поездкой,boot
 Взять походные ботинки в кемпинг,boot
 Пропитать ботинки водоотталкивающим средством,boot
@@ -46,3 +45,17 @@ text,label
 зашнуровать походные ботинки и идти,boot
 заменить изношенные кроссовки для трейла,boot
 подобрать прочную обувь для каменистых троп,boot
+backpacking,boot
+boot,boot
+camping,boot
+clothing,boot
+foot,boot
+hiking,boot
+hiking boot,boot
+shoe,boot
+sturdy,boot
+еженедельный backpacking,boot
+еженедельный boot,boot
+еженедельный camping,boot
+еженедельный clothing,boot
+новый backpacking,boot

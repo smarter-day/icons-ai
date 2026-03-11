@@ -16,7 +16,6 @@ text,label
 Подать заявку на аренду,apartment
 Съехать со старой квартиры,apartment
 Подключить коммунальные услуги в новой квартире,apartment
-Осмотреть здание,apartment
 Сдать квартиру в аренду,apartment
 Мне нужно найти жильё,apartment
 Ищу квартиру в городе,apartment
@@ -38,3 +37,25 @@ text,label
 Взносы в товарищество кондо в этом месяце,apartment
 Ознакомиться с правилами кондоминиума,apartment
 Просмотр квартиры в субботу,apartment
+apartment,apartment
+building,apartment
+city,apartment
+condo,apartment
+condominium,apartment
+flat,apartment
+новый apartment,apartment
+новый building,apartment
+новый city,apartment
+новый condo,apartment
+новый condominium,apartment
+новый flat,apartment
+apartment завтра,apartment
+building завтра,apartment
+city завтра,apartment
+condo завтра,apartment
+condominium завтра,apartment
+flat завтра,apartment
+apartment утром,apartment
+building утром,apartment
+city утром,apartment
+почистить apartment скоро,apartment

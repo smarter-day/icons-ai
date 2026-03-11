@@ -1,4 +1,9 @@
 text,label
-добавить заметку в карту пациента,note-medical
 запись врача после приёма,note-medical
 обновить заметку в медкарте,note-medical
+проект memo,note-medical
+поработать над memo,note-medical
+задача memo,note-medical
+memo на этой неделе,note-medical
+план по memo,note-medical
+напоминание memo,note-medical

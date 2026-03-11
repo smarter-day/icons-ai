@@ -25,7 +25,6 @@ text,label
 используйте значок ключа для менеджера паролей,key
 дай дверной замок,key
 Значок ключа пароля,key
-Секретный ключ раскрыт,key
 разблокировать ключом,key
 закрытый замок на воротах,key
 кодовый замок с циферблатом,key
@@ -33,3 +32,30 @@ text,label
 сканер отпечатков пальцев для доступа,key
 карта доступа с магнитной полосой,key
 "бейдж безопасности, носимый на шнурке",key
+key,key
+lock,key
+password,key
+private,key
+secret,key
+unlock,key
+новый key,key
+новый lock,key
+новый password,key
+новый private,key
+новый secret,key
+новый unlock,key
+key завтра,key
+lock завтра,key
+password завтра,key
+private завтра,key
+secret завтра,key
+unlock завтра,key
+еженедельный key,key
+еженедельный lock,key
+еженедельный password,key
+еженедельный private,key
+еженедельный secret,key
+еженедельный unlock,key
+key вечером,key
+lock вечером,key
+key на выходных,key

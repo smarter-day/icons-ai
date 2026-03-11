@@ -31,3 +31,31 @@ text,label
 знак стоп восьмиугольник красный,traffic-cone
 лежачий полицейский дорожный горб,traffic-cone
 баррикада дорожный блок забор,traffic-cone
+alert,traffic-cone
+construction,traffic-cone
+maintenance,traffic-cone
+road,traffic-cone
+traffic,traffic-cone
+cone,traffic-cone
+traffic cone,traffic-cone
+alert утром,traffic-cone
+construction утром,traffic-cone
+maintenance утром,traffic-cone
+road утром,traffic-cone
+traffic утром,traffic-cone
+cone утром,traffic-cone
+traffic cone утром,traffic-cone
+еженедельный alert,traffic-cone
+еженедельный construction,traffic-cone
+еженедельный maintenance,traffic-cone
+еженедельный road,traffic-cone
+еженедельный traffic,traffic-cone
+еженедельный cone,traffic-cone
+еженедельный traffic cone,traffic-cone
+alert сегодня,traffic-cone
+construction сегодня,traffic-cone
+maintenance сегодня,traffic-cone
+road сегодня,traffic-cone
+traffic сегодня,traffic-cone
+cone сегодня,traffic-cone
+traffic cone сегодня,traffic-cone

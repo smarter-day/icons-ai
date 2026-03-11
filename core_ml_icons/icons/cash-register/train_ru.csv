@@ -49,3 +49,13 @@ text,label
 Терминал оплаты перезагружен после сбоя,cash-register
 Покупка записана в журнал продаж,cash-register
 Процедура закрытия магазина начинается в 21:00,cash-register
+buy,cash-register
+cha-ching,cash-register
+change,cash-register
+checkout,cash-register
+commerce,cash-register
+leaerboard,cash-register
+machine,cash-register
+pay,cash-register
+payment,cash-register
+purchase,cash-register

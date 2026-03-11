@@ -27,3 +27,35 @@ pric tag discount,tag
 labl on product,tag
 discoun tag sale,tag
 shoping tag item,tag
+shopping,tag
+tag,tag
+discount before lunch,tag
+labe before lunch,tag
+label before lunch,tag
+price before lunch,tag
+shopping before lunch,tag
+tag before lunch,tag
+discount on Monday,tag
+labe on Monday,tag
+label on Monday,tag
+price on Monday,tag
+shopping on Monday,tag
+tag on Monday,tag
+don't forget discount,tag
+don't forget labe,tag
+don't forget label,tag
+don't forget price,tag
+don't forget shopping,tag
+don't forget tag,tag
+discount after work,tag
+labe after work,tag
+label after work,tag
+price after work,tag
+shopping after work,tag
+tag after work,tag
+discount appointment,tag
+labe appointment,tag
+label appointment,tag
+price appointment,tag
+shopping appointment,tag
+tag appointment,tag

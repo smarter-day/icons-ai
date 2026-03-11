@@ -37,3 +37,25 @@ text,label
 электрическая вилка с двумя штырями,bolt-lightning
 индикатор заряда батареи,bolt-lightning
 пламя огня оранжево-красного цвета,bolt-lightning
+electricity,bolt-lightning
+flash,bolt-lightning
+lightning,bolt-lightning
+weather,bolt-lightning
+zap,bolt-lightning
+bolt,bolt-lightning
+bolt lightning,bolt-lightning
+продлить electricity онлайн,bolt-lightning
+продлить flash онлайн,bolt-lightning
+продлить lightning онлайн,bolt-lightning
+продлить weather онлайн,bolt-lightning
+продлить zap онлайн,bolt-lightning
+продлить bolt онлайн,bolt-lightning
+продлить bolt lightning онлайн,bolt-lightning
+electricity на выходных,bolt-lightning
+flash на выходных,bolt-lightning
+lightning на выходных,bolt-lightning
+weather на выходных,bolt-lightning
+zap на выходных,bolt-lightning
+bolt на выходных,bolt-lightning
+bolt lightning на выходных,bolt-lightning
+не забыть electricity,bolt-lightning

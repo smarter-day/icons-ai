@@ -8,7 +8,6 @@ text,label
 медленный,turtle
 черепаха-пресноводная,turtle
 черепаха,turtle
-черепаха,turtle
 ковабунга черепаха ниндзя кричит,turtle
 ниндзя-черепаха ковабунга,turtle
 Донателло фиолетовая черепаха ниндзя,turtle
@@ -46,10 +45,17 @@ text,label
 морская черепаха океан,turtle
 рептилия черепаха панцирь,turtle
 черепаха ниндзя ковабунга,turtle
-наземная черепаха медленная,turtle
 змея рептилия ползёт,turtle
 лягушка земноводное пруд прыжок,turtle
 аллигатор крокодил рептилия челюсть,turtle
 рыба водная плавание чешуя,turtle
 ящерица геккон рептилия маленькая,turtle
 краб твёрдый панцирь океан,turtle
+cowabunga,turtle
+donatello,turtle
+fauna,turtle
+leonardo,turtle
+michaelangelo,turtle
+raphael,turtle
+reptile,turtle
+shell,turtle

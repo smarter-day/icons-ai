@@ -2,7 +2,6 @@ text,label
 резюме,file
 страница,file
 pdf,file
-резюме,file
 Обновите резюме перед подачей заявки,file
 Отправьте резюме рекрутеру,file
 Откройте документ в редакторе Word,file
@@ -14,7 +13,6 @@ pdf,file
 Отправьте резюме в компанию,file
 Сохраняем документ в папку,file
 Откройте новый файл в Word,file
-Обновить резюме,file
 Переименуйте файл,file
 Прикрепите документ к письму,file
 Поделитесь pdf-файлом с командой,file
@@ -26,10 +24,38 @@ pdf,file
 сохранить документ,file
 открыть новый файл,file
 экспортировать в формате pdf,file
-обновить резюме,file
 Сохранить в структуру папок,file
 Организация файлов в каталоге,file
 Прикрепите фотографию к письму,file
 Создать электронную таблицу,file
 Напишите в текстовом редакторе,file
 Архивировать старые документы,file
+Empty Document,file
+cv,file
+document,file
+new,file
+page,file
+page facing up,file
+resume,file
+file,file
+почистить Empty Document онлайн,file
+почистить cv онлайн,file
+почистить document онлайн,file
+почистить new онлайн,file
+почистить page онлайн,file
+почистить page facing up онлайн,file
+почистить pdf онлайн,file
+почистить resume онлайн,file
+почистить file онлайн,file
+запись Empty Document,file
+запись cv,file
+запись document,file
+запись new,file
+запись page,file
+запись page facing up,file
+запись pdf,file
+запись resume,file
+запись file,file
+Empty Document утром,file
+cv утром,file
+document утром,file

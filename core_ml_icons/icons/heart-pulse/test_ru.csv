@@ -2,3 +2,8 @@ text,label
 Отслеживайте здоровье сердца с помощью умных часов,heart-pulse
 Запишитесь на прием к кардиологу,heart-pulse
 Измерьте пульс после тренировки,heart-pulse
+обработать ekg,heart-pulse
+уточнить ekg,heart-pulse
+вопрос ekg,heart-pulse
+ekg на следующей неделе,heart-pulse
+управление ekg,heart-pulse

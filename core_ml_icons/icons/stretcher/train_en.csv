@@ -27,3 +27,35 @@ strtcher ambulance patient,stretcher
 emergancy stretcher ER,stretcher
 hosptal bed gurney,stretcher
 pateint on stretcher,stretcher
+emergency,stretcher
+stretcher,stretcher
+fix ambulance for kids,stretcher
+fix bed for kids,stretcher
+fix emergency for kids,stretcher
+fix er for kids,stretcher
+fix patient for kids,stretcher
+fix stretcher for kids,stretcher
+ambulance on Monday,stretcher
+bed on Monday,stretcher
+emergency on Monday,stretcher
+er on Monday,stretcher
+patient on Monday,stretcher
+stretcher on Monday,stretcher
+ambulance this weekend,stretcher
+bed this weekend,stretcher
+emergency this weekend,stretcher
+er this weekend,stretcher
+patient this weekend,stretcher
+stretcher this weekend,stretcher
+ambulance for the trip,stretcher
+bed for the trip,stretcher
+emergency for the trip,stretcher
+er for the trip,stretcher
+patient for the trip,stretcher
+stretcher for the trip,stretcher
+ambulance appointment,stretcher
+bed appointment,stretcher
+emergency appointment,stretcher
+er appointment,stretcher
+patient appointment,stretcher
+stretcher appointment,stretcher

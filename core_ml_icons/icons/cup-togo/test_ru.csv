@@ -2,3 +2,8 @@ text,label
 заехать в кофейню drive-through,cup-togo
 взять напиток с собой перед работой,cup-togo
 заказать горячий напиток в дорогу,cup-togo
+управление beverage,cup-togo
+вопрос beverage,cup-togo
+beverage сегодня вечером,cup-togo
+beverage на следующей неделе,cup-togo
+решить вопрос с beverage,cup-togo

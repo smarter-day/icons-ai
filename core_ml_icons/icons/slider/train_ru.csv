@@ -32,3 +32,30 @@ text,label
 полоса прогресса завершения,slider
 флажок отмечен или не отмечен,slider
 радиокнопка круглый выбор,slider
+adjust,slider
+configuration,slider
+modify,slider
+settings,slider
+toggle,slider
+slider,slider
+не забыть adjust,slider
+не забыть configuration,slider
+не забыть modify,slider
+не забыть settings,slider
+не забыть toggle,slider
+не забыть slider,slider
+adjust вечером,slider
+configuration вечером,slider
+modify вечером,slider
+settings вечером,slider
+toggle вечером,slider
+slider вечером,slider
+запись adjust,slider
+запись configuration,slider
+запись modify,slider
+запись settings,slider
+запись toggle,slider
+запись slider,slider
+adjust сегодня,slider
+configuration сегодня,slider
+modify сегодня,slider

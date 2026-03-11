@@ -44,3 +44,18 @@ text,label
 взять пистолет в тир,gun
 курс на разрешение оружия,gun
 план безопасности хранения оружия,gun
+firearm,gun
+pistol,gun
+weapon,gun
+gun,gun
+запись firearm,gun
+запись pistol,gun
+запись weapon,gun
+запись gun,gun
+firearm на субботу,gun
+pistol на субботу,gun
+weapon на субботу,gun
+gun на субботу,gun
+firearm для поездки,gun
+pistol для поездки,gun
+weapon для поездки,gun

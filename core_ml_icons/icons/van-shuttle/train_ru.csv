@@ -35,3 +35,27 @@ text,label
 частный автосервис аэропорт,van-shuttle
 поезд пригородный рельсовый транзит,van-shuttle
 трамвай канатная машина город,van-shuttle
+airport,van-shuttle
+bus,van-shuttle
+minibus,van-shuttle
+public-transportation,van-shuttle
+transportation,van-shuttle
+travel,van-shuttle
+vehicle,van-shuttle
+van,van-shuttle
+shuttle,van-shuttle
+van shuttle,van-shuttle
+начать airport,van-shuttle
+начать bus,van-shuttle
+начать minibus,van-shuttle
+начать public-transportation,van-shuttle
+начать transportation,van-shuttle
+начать travel,van-shuttle
+начать vehicle,van-shuttle
+начать van,van-shuttle
+начать shuttle,van-shuttle
+начать van shuttle,van-shuttle
+закончить airport,van-shuttle
+закончить bus,van-shuttle
+закончить minibus,van-shuttle
+закончить public-transportation,van-shuttle

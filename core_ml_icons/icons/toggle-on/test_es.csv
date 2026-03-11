@@ -1,0 +1,9 @@
+text,label
+button esta noche,toggle-on
+resolver button,toggle-on
+button la próxima semana,toggle-on
+arreglar button,toggle-on
+administrar button,toggle-on
+asunto button,toggle-on
+ordenar button,toggle-on
+atender button,toggle-on

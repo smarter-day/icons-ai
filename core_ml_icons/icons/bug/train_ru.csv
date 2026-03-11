@@ -11,7 +11,6 @@ text,label
 исправить баг в системе,bug
 сообщить о баге команде разработки,bug
 Исправить баг в приложении,bug
-Сообщить о баге команде разработки,bug
 Найти первопричину ошибки,bug
 Устранить глюк интерфейса,bug
 Зафиксировать баг-репорт,bug
@@ -39,3 +38,24 @@ Code review для поиска бага,bug
 Лечение укуса насекомого после похода,bug
 Устранить утечку памяти в сервисе,bug
 Отчёт о баге внесён в трекер,bug
+beetle,bug
+error,bug
+glitch,bug
+insect,bug
+repair,bug
+report,bug
+bug,bug
+beetle утром,bug
+error утром,bug
+glitch утром,bug
+insect утром,bug
+repair утром,bug
+report утром,bug
+bug утром,bug
+почистить beetle онлайн,bug
+почистить error онлайн,bug
+почистить glitch онлайн,bug
+почистить insect онлайн,bug
+почистить repair онлайн,bug
+почистить report онлайн,bug
+beetle завтра,bug

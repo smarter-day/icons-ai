@@ -15,7 +15,6 @@ text,label
 офисное ведро под столом,trash-can
 педальное мусорное ведро кухня,trash-can
 уличная общественная урна в парке,trash-can
-переполненное мусорное ведро,trash-can
 мешок для мусора в ведре,trash-can
 умное мусорное ведро автооткрытие,trash-can
 мини-настольное ведро декоративное,trash-can
@@ -23,7 +22,6 @@ text,label
 мусорное ведро предупреждение о пожаре,trash-can
 мусорное ведро удалить,trash-can
 уличная урна мусор,trash-can
-удалить мусорное ведро,trash-can
 убрать мусорная корзина,trash-can
 иконка мусора без крышки проще,trash-can
 корзина переработки символ,trash-can
@@ -31,3 +29,33 @@ text,label
 бельевая корзина корзина для одежды,trash-can
 ведро открытый контейнер ручка,trash-can
 архив хранить коробка,trash-can
+delete,trash-can
+garbage,trash-can
+hide,trash-can
+remove,trash-can
+trash-o,trash-can
+trash,trash-can
+can,trash-can
+trash can,trash-can
+начать delete,trash-can
+начать garbage,trash-can
+начать hide,trash-can
+начать remove,trash-can
+начать trash-o,trash-can
+начать trash,trash-can
+начать can,trash-can
+начать trash can,trash-can
+еженедельный delete,trash-can
+еженедельный garbage,trash-can
+еженедельный hide,trash-can
+еженедельный remove,trash-can
+еженедельный trash-o,trash-can
+еженедельный trash,trash-can
+еженедельный can,trash-can
+еженедельный trash can,trash-can
+delete вечером,trash-can
+garbage вечером,trash-can
+hide вечером,trash-can
+remove вечером,trash-can
+продлить delete онлайн,trash-can
+продлить garbage онлайн,trash-can

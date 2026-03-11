@@ -2,3 +2,8 @@ text,label
 grab a basket at the entrance,basket-shopping
 fill the basket with groceries,basket-shopping
 shop with a hand basket,basket-shopping
+schedule buy,basket-shopping
+buy errand,basket-shopping
+buy check-in,basket-shopping
+buy project,basket-shopping
+buy this week,basket-shopping

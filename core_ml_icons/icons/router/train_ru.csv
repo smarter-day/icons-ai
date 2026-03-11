@@ -53,3 +53,9 @@ dsl модем с мигающим индикатором,router
 значок беспроводного сигнала с тремя дугами,router
 сетевой коммутатор с множеством ethernet портов,router
 стоечный сетевой коммутатор в серверной,router
+bandwidth,router
+connection,router
+dsl,router
+ethernet,router
+internet,router
+modem,router

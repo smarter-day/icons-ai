@@ -31,3 +31,31 @@ text,label
 монорельс надземный одиночный рельс,train-subway
 фуникулёр канатная машина крутой спуск,train-subway
 скоростной поезд синкансен,train-subway
+machine,train-subway
+railway,train-subway
+train,train-subway
+transportation,train-subway
+vehicle,train-subway
+subway,train-subway
+train subway,train-subway
+machine на субботу,train-subway
+railway на субботу,train-subway
+train на субботу,train-subway
+transportation на субботу,train-subway
+vehicle на субботу,train-subway
+subway на субботу,train-subway
+train subway на субботу,train-subway
+забронировать machine в магазине,train-subway
+забронировать railway в магазине,train-subway
+забронировать train в магазине,train-subway
+забронировать transportation в магазине,train-subway
+забронировать vehicle в магазине,train-subway
+забронировать subway в магазине,train-subway
+забронировать train subway в магазине,train-subway
+забронировать machine,train-subway
+забронировать railway,train-subway
+забронировать train,train-subway
+забронировать transportation,train-subway
+забронировать vehicle,train-subway
+забронировать subway,train-subway
+забронировать train subway,train-subway

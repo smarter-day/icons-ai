@@ -5,7 +5,6 @@ text,label
 лучи,sun
 солнце-исп,sun
 солнечный,sun
-солнечный,sun
 яркое летнее солнце сияет,sun
 яркий солнечный пляжный день,sun
 яркость экрана настройка,sun
@@ -50,3 +49,13 @@ text,label
 звезда мерцающая ночное небо,sun
 восход солнца наполовину за горизонтом,sun
 лампочка идея яркий свет,sun
+bright,sun
+brighten,sun
+contrast,sun
+day,sun
+lighter,sun
+rays,sun
+sol,sun
+solar,sun
+star,sun
+sun,sun

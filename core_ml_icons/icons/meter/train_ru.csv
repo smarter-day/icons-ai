@@ -43,3 +43,19 @@ text,label
 газовый счётчкик в подвале,meter
 водяной счётчик у основного трубопровда,meter
 снятие покзаний счётчика для биллинга,meter
+electricity,meter
+transmission,meter
+utilities,meter
+meter,meter
+electricity после работы,meter
+transmission после работы,meter
+utilities после работы,meter
+meter после работы,meter
+еженедельный electricity,meter
+еженедельный transmission,meter
+еженедельный utilities,meter
+еженедельный meter,meter
+electricity на субботу,meter
+transmission на субботу,meter
+utilities на субботу,meter
+meter на субботу,meter

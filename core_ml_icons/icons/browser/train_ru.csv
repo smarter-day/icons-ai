@@ -20,7 +20,6 @@ text,label
 Открыть несколько вкладок в браузере,browser
 Настройка расширений браузера,browser
 Сохранить закладку для страницы,browser
-Веб-исследование для проекта,browser
 Тестирование сайта в разных браузерах,browser
 Искать рецепты в интернете,browser
 Браузер тормозит,browser
@@ -46,3 +45,17 @@ text,label
 Скрипт парсинга веб-данных,browser
 Макет сайта отправлен клиенту,browser
 Регистрация доменного имени WWW для бренда,browser
+Desktop Window,browser
+app,browser
+application,browser
+desktop,browser
+explorer,browser
+internet,browser
+web,browser
+website,browser
+www,browser
+browser,browser
+Desktop Window на выходных,browser
+app на выходных,browser
+application на выходных,browser
+Desktop Window в понедельник,browser

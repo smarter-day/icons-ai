@@ -14,7 +14,6 @@ text,label
 самокрутка для курения,joint
 "каннабис, косяк, курение",joint
 "наркотики, свернутые в косяк",joint
-марихуана в рулоне,joint
 косяк для курения марихуаны,joint
 окурок от косяка,joint
 зажим для косяка,joint
@@ -23,7 +22,6 @@ text,label
 курить косяк,joint
 курение марихуаны,joint
 "косяк, свернутый с табаком",joint
-косяк,joint
 скрученный вручную косяк каннабиса,joint
 "Сигарета с марихуаной, завернутая в бумагу",joint
 соединение с перекрученным концом,joint
@@ -46,3 +44,18 @@ text,label
 "вейп-ручка, производящая пар",joint
 кальян на столе,joint
 устройство для курения электронных сигарет,joint
+blunt,joint
+cannabis,joint
+doobie,joint
+drugs,joint
+marijuana,joint
+roach,joint
+smoke,joint
+smoking,joint
+spliff,joint
+joint,joint
+blunt для поездки,joint
+cannabis для поездки,joint
+doobie для поездки,joint
+drugs для поездки,joint
+marijuana для поездки,joint

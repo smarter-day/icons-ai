@@ -2,3 +2,8 @@ text,label
 find where I am right now,location-crosshairs
 recenter the map on me,location-crosshairs
 detect the exact GPS position,location-crosshairs
+take care of address,location-crosshairs
+address task,location-crosshairs
+address this week,location-crosshairs
+address errand,location-crosshairs
+handle address,location-crosshairs

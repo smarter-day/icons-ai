@@ -2,3 +2,8 @@ text,label
 Book a hotel room online,hotel
 Check into the hotel,hotel
 Find a hotel near the venue,hotel
+building task,hotel
+building errand,hotel
+take care of building,hotel
+schedule building,hotel
+building check-in,hotel

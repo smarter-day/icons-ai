@@ -35,7 +35,6 @@ Know when the store closes,clock
 Check the opening hours,clock
 Time myself on this task,clock
 Plan around the time zone difference,clock
-What time is it?,clock
 Don't be late!,clock
 Running late again,clock
 Need more time,clock
@@ -43,3 +42,20 @@ set the clokc on the wall,clock
 check my watche,clock
 scheudle for tomorrow,clock
 timer for 20 minuets,clock
+00,clock
+4,clock
+4:00,clock
+clock,clock
+date,clock
+four,clock
+four o’clock,clock
+o'clock,clock
+o’clock,clock
+pending,clock
+schedule,clock
+ticking,clock
+time,clock
+timer,clock
+watch,clock
+00 on Monday,clock
+00 after work,clock

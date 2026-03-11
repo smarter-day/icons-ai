@@ -2,3 +2,8 @@ text,label
 residential mailbox with flag,mailbox
 postbox for receiving mail,mailbox
 closed mailbox at driveway,mailbox
+archive errand,mailbox
+archive reminder,mailbox
+follow up on archive,mailbox
+archive check-in,mailbox
+schedule archive,mailbox

@@ -1,6 +1,5 @@
 text,label
 ложка,spoon
-ложка,spoon
 столовая посуда,spoon
 набор столовых приборов ложка вилка нож,spoon
 ящик столовых приборов с сортировкой,spoon
@@ -28,6 +27,35 @@ text,label
 вилка с четырьмя зубцами для еды,spoon
 нож для нарезки еды,spoon
 палочки для азиатской кухни,spoon
-половник большая ложка для сервировки,spoon
 лопатка для переворачивания блинов,spoon
 щипцы для захвата и подачи еды,spoon
+cutlery,spoon
+dining,spoon
+scoop,spoon
+silverware,spoon
+spoon,spoon
+tableware,spoon
+cutlery для детей,spoon
+dining для детей,spoon
+scoop для детей,spoon
+silverware для детей,spoon
+spoon для детей,spoon
+tableware для детей,spoon
+начать cutlery,spoon
+начать dining,spoon
+начать scoop,spoon
+начать silverware,spoon
+начать spoon,spoon
+начать tableware,spoon
+не забыть cutlery,spoon
+не забыть dining,spoon
+не забыть scoop,spoon
+не забыть silverware,spoon
+не забыть spoon,spoon
+не забыть tableware,spoon
+еженедельный cutlery,spoon
+еженедельный dining,spoon
+еженедельный scoop,spoon
+еженедельный silverware,spoon
+cutlery после работы,spoon
+dining после работы,spoon

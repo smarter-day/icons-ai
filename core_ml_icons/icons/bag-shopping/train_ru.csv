@@ -30,3 +30,32 @@ text,label
 список продуктов становится длиннее,bag-shopping
 разделить оплату на кассе,bag-shopping
 закончить покупки до закрытия,bag-shopping
+buy,bag-shopping
+checkout,bag-shopping
+grocery,bag-shopping
+payment,bag-shopping
+purchase,bag-shopping
+bag,bag-shopping
+shopping,bag-shopping
+bag shopping,bag-shopping
+новый buy,bag-shopping
+новый checkout,bag-shopping
+новый grocery,bag-shopping
+новый payment,bag-shopping
+новый purchase,bag-shopping
+новый bag,bag-shopping
+новый shopping,bag-shopping
+новый bag shopping,bag-shopping
+еженедельный buy,bag-shopping
+еженедельный checkout,bag-shopping
+еженедельный grocery,bag-shopping
+еженедельный payment,bag-shopping
+еженедельный purchase,bag-shopping
+еженедельный bag,bag-shopping
+еженедельный shopping,bag-shopping
+еженедельный bag shopping,bag-shopping
+buy для детей,bag-shopping
+checkout для детей,bag-shopping
+grocery для детей,bag-shopping
+payment для детей,bag-shopping
+purchase для детей,bag-shopping

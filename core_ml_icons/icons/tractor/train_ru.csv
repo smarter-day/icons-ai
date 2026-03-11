@@ -31,3 +31,31 @@ text,label
 пикап припаркован у farm store,tractor
 желтый бульдозер толкает грунт на стройке,tractor
 строительный бульдозер выравнивает землю,tractor
+agriculture,tractor
+farm,tractor
+tractor,tractor
+vehicle,tractor
+подготовить agriculture онлайн,tractor
+подготовить farm онлайн,tractor
+подготовить tractor онлайн,tractor
+подготовить vehicle онлайн,tractor
+agriculture после работы,tractor
+farm после работы,tractor
+tractor после работы,tractor
+vehicle после работы,tractor
+новый agriculture,tractor
+новый farm,tractor
+новый tractor,tractor
+новый vehicle,tractor
+начать agriculture,tractor
+начать farm,tractor
+начать tractor,tractor
+начать vehicle,tractor
+не забыть agriculture,tractor
+не забыть farm,tractor
+не забыть tractor,tractor
+не забыть vehicle,tractor
+agriculture утром,tractor
+farm утром,tractor
+tractor утром,tractor
+vehicle утром,tractor

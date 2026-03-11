@@ -36,3 +36,26 @@ text,label
 такси как городской транспорт,van
 скорая помощь как спецтранспорт,van
 минивэн как семейный автомобиль,van
+airport,van
+bus,van
+minibus,van
+public-transportation,van
+transportation,van
+travel,van
+vehicle,van
+van,van
+начать airport,van
+начать bus,van
+начать minibus,van
+начать public-transportation,van
+начать transportation,van
+начать travel,van
+начать vehicle,van
+начать van,van
+сравнить airport онлайн,van
+сравнить bus онлайн,van
+сравнить minibus онлайн,van
+сравнить public-transportation онлайн,van
+сравнить transportation онлайн,van
+сравнить travel онлайн,van
+сравнить vehicle онлайн,van

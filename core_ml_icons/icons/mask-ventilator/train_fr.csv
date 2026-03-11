@@ -1,0 +1,61 @@
+text,label
+breath,mask-ventilator
+gas,mask-ventilator
+mask,mask-ventilator
+oxygen,mask-ventilator
+respirator,mask-ventilator
+ventilator,mask-ventilator
+mask ventilator,mask-ventilator
+breath pour samedi,mask-ventilator
+gas pour samedi,mask-ventilator
+mask pour samedi,mask-ventilator
+oxygen pour samedi,mask-ventilator
+respirator pour samedi,mask-ventilator
+ventilator pour samedi,mask-ventilator
+mask ventilator pour samedi,mask-ventilator
+renouveler breath,mask-ventilator
+renouveler gas,mask-ventilator
+renouveler mask,mask-ventilator
+renouveler oxygen,mask-ventilator
+renouveler respirator,mask-ventilator
+renouveler ventilator,mask-ventilator
+renouveler mask ventilator,mask-ventilator
+nouveau breath,mask-ventilator
+nouveau gas,mask-ventilator
+nouveau mask,mask-ventilator
+nouveau oxygen,mask-ventilator
+nouveau respirator,mask-ventilator
+nouveau ventilator,mask-ventilator
+nouveau mask ventilator,mask-ventilator
+breath le matin,mask-ventilator
+gas le matin,mask-ventilator
+mask le matin,mask-ventilator
+oxygen le matin,mask-ventilator
+respirator le matin,mask-ventilator
+ventilator le matin,mask-ventilator
+mask ventilator le matin,mask-ventilator
+renouveler breath bientôt,mask-ventilator
+renouveler gas bientôt,mask-ventilator
+renouveler mask bientôt,mask-ventilator
+renouveler oxygen bientôt,mask-ventilator
+renouveler respirator bientôt,mask-ventilator
+renouveler ventilator bientôt,mask-ventilator
+renouveler mask ventilator bientôt,mask-ventilator
+breath lundi,mask-ventilator
+gas lundi,mask-ventilator
+mask lundi,mask-ventilator
+oxygen lundi,mask-ventilator
+respirator lundi,mask-ventilator
+ventilator lundi,mask-ventilator
+mask ventilator lundi,mask-ventilator
+breath aujourd'hui,mask-ventilator
+gas aujourd'hui,mask-ventilator
+mask aujourd'hui,mask-ventilator
+oxygen aujourd'hui,mask-ventilator
+respirator aujourd'hui,mask-ventilator
+ventilator aujourd'hui,mask-ventilator
+braeth aujourd'hui,mask-ventilator
+renouvelr oxygen,mask-ventilator
+renoueler mask,mask-ventilator
+rennouveler ventilator,mask-ventilator
+breath pour smedi,mask-ventilator

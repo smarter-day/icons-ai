@@ -2,3 +2,8 @@ text,label
 сдать монеты в банк,coins
 собрать мелкую сдачу,coins
 сложить монеты для накоплений,coins
+уточнить currency,coins
+разобрать currency,coins
+завершить currency,coins
+вопрос currency,coins
+currency на следующей неделе,coins

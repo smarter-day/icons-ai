@@ -25,7 +25,6 @@ text,label
 острый ролл с тунцом в меню,sushi-roll
 маки суши-ролл нарезан на шесть кусочков,sushi-roll
 ролл калифорния наизнанку с тобико,sushi-roll
-острый ролл с тунцом в меню,sushi-roll
 ролл дракон с авокадо сверху,sushi-roll
 ролл радуга разные виды рыбы,sushi-roll
 суши-рис внутри листа нори плотно скрученный,sushi-roll
@@ -43,3 +42,20 @@ text,label
 свежий весенний ролл рисовая бумага вьетнамский,sushi-roll
 буррито лепёшка ролл мексиканский,sushi-roll
 блинчик тонкий свёрнутый,sushi-roll
+fish,sushi-roll
+maki,sushi-roll
+nori,sushi-roll
+raw,sushi-roll
+rice,sushi-roll
+salmon,sushi-roll
+seafood,sushi-roll
+seaweed,sushi-roll
+tuna,sushi-roll
+sushi,sushi-roll
+roll,sushi-roll
+sushi roll,sushi-roll
+закончить fish,sushi-roll
+закончить maki,sushi-roll
+закончить nori,sushi-roll
+закончить raw,sushi-roll
+вернуть fish скоро,sushi-roll

@@ -44,3 +44,18 @@ text,label
 сумма оплаты в центах,cent-sign
 кассовый ящик с пенни,cent-sign
 стоимость в один цент,cent-sign
+Cent Sign,cent-sign
+currency,cent-sign
+cent,cent-sign
+sign,cent-sign
+запись Cent Sign,cent-sign
+запись currency,cent-sign
+запись cent,cent-sign
+запись sign,cent-sign
+Cent Sign на выходных,cent-sign
+currency на выходных,cent-sign
+cent на выходных,cent-sign
+sign на выходных,cent-sign
+Cent Sign на субботу,cent-sign
+currency на субботу,cent-sign
+cent на субботу,cent-sign

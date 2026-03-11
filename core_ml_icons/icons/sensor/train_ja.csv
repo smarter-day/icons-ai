@@ -1,0 +1,61 @@
+text,label
+アラーム,sensor
+alert,sensor
+carbon monoxide,sensor
+detector,sensor
+ファイア,sensor
+smoke,sensor
+sensor,sensor
+週末にアラーム,sensor
+週末にalert,sensor
+週末にcarbon monoxide,sensor
+週末にdetector,sensor
+週末にファイア,sensor
+週末にsmoke,sensor
+週末にsensor,sensor
+そろそろアラーム,sensor
+そろそろalert,sensor
+そろそろcarbon monoxide,sensor
+そろそろdetector,sensor
+そろそろファイア,sensor
+そろそろsmoke,sensor
+そろそろsensor,sensor
+毎週のアラーム,sensor
+毎週のalert,sensor
+毎週のcarbon monoxide,sensor
+毎週のdetector,sensor
+毎週のファイア,sensor
+毎週のsmoke,sensor
+毎週のsensor,sensor
+明日アラーム,sensor
+明日alert,sensor
+明日carbon monoxide,sensor
+明日detector,sensor
+明日ファイア,sensor
+明日smoke,sensor
+明日sensor,sensor
+子供用のアラーム,sensor
+子供用のalert,sensor
+子供用のcarbon monoxide,sensor
+子供用のdetector,sensor
+子供用のファイア,sensor
+子供用のsmoke,sensor
+子供用のsensor,sensor
+アラームをオンラインで買う,sensor
+alertをオンラインで買う,sensor
+carbon monoxideをオンラインで買う,sensor
+detectorをオンラインで買う,sensor
+ファイアをオンラインで買う,sensor
+smokeをオンラインで買う,sensor
+sensorをオンラインで買う,sensor
+アラームの予約,sensor
+alertの予約,sensor
+carbon monoxideの予約,sensor
+detectorの予約,sensor
+ファイアの予約,sensor
+smokeの予約,sensor
+carbon monoxied,sensor
+子供用のssensor,sensor
+毎週のaert,sensor
+毎週のsensr,sensor
+週末にsesor,sensor

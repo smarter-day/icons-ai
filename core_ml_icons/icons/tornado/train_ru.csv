@@ -40,7 +40,6 @@ text,label
 иконка погодной опасности для приложения прогноза,tornado
 вращающаяся воронка сужается к земле,tornado
 предупреждение о торнадо для округа,tornado
-торнадо касается земли в поле,tornado
 воронка торнадо,tornado
 торнадо крутится над равниной,tornado
 ураган спиралью виден со спутника,tornado
@@ -49,3 +48,14 @@ text,label
 темное облако с сильным дождем,tornado
 водоворот в воде закручивается спиралью,tornado
 океанский водоворот затягивает предметы,tornado
+cloud,tornado
+cyclone,tornado
+dorothy,tornado
+landspout,tornado
+tornado,tornado
+toto,tornado
+twister,tornado
+vortext,tornado
+waterspout,tornado
+weather,tornado
+whirlwind,tornado

@@ -1,0 +1,9 @@
+text,label
+button abschließen,toggle-on
+button regeln,toggle-on
+button verwalten,toggle-on
+button Sache,toggle-on
+button klären,toggle-on
+button heute Abend,toggle-on
+button nächste Woche,toggle-on
+button bearbeiten,toggle-on

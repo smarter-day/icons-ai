@@ -43,3 +43,19 @@ text,label
 показать крышку люка в разделе инфраструктуры,manhole
 крышак люка на мокрой дорге,manhole
 канлизационный смотровй люк,manhole
+grate,manhole
+sewer,manhole
+manhole,manhole
+закончить grate,manhole
+закончить sewer,manhole
+закончить manhole,manhole
+grate утром,manhole
+sewer утром,manhole
+manhole утром,manhole
+grate вечером,manhole
+sewer вечером,manhole
+manhole вечером,manhole
+grate завтра,manhole
+sewer завтра,manhole
+manhole завтра,manhole
+grate после работы,manhole

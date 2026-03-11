@@ -44,3 +44,18 @@ text,label
 пожарное оборудование со шлангом,hose-reel
 свернуть шланг обратно,hose-reel
 катушка со шлангом у дома,hose-reel
+fire,hose-reel
+irrigation,hose-reel
+water,hose-reel
+hose,hose-reel
+reel,hose-reel
+hose reel,hose-reel
+начать fire,hose-reel
+начать irrigation,hose-reel
+начать water,hose-reel
+начать hose,hose-reel
+начать reel,hose-reel
+начать hose reel,hose-reel
+fire в понедельник,hose-reel
+irrigation в понедельник,hose-reel
+water в понедельник,hose-reel

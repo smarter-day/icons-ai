@@ -1,0 +1,61 @@
+text,label
+human,fingerprint
+id,fingerprint
+identification,fingerprint
+lock,fingerprint
+privacy,fingerprint
+smudge,fingerprint
+touch,fingerprint
+unique,fingerprint
+unlock,fingerprint
+fingerprint,fingerprint
+human le matin,fingerprint
+id le matin,fingerprint
+identification le matin,fingerprint
+lock le matin,fingerprint
+privacy le matin,fingerprint
+smudge le matin,fingerprint
+touch le matin,fingerprint
+unique le matin,fingerprint
+unlock le matin,fingerprint
+fingerprint le matin,fingerprint
+human demain,fingerprint
+id demain,fingerprint
+identification demain,fingerprint
+lock demain,fingerprint
+privacy demain,fingerprint
+smudge demain,fingerprint
+touch demain,fingerprint
+unique demain,fingerprint
+unlock demain,fingerprint
+fingerprint demain,fingerprint
+ranger human bientôt,fingerprint
+ranger id bientôt,fingerprint
+ranger identification bientôt,fingerprint
+ranger lock bientôt,fingerprint
+ranger privacy bientôt,fingerprint
+ranger smudge bientôt,fingerprint
+ranger touch bientôt,fingerprint
+ranger unique bientôt,fingerprint
+ranger unlock bientôt,fingerprint
+ranger fingerprint bientôt,fingerprint
+finir human,fingerprint
+finir id,fingerprint
+finir identification,fingerprint
+finir lock,fingerprint
+finir privacy,fingerprint
+finir smudge,fingerprint
+finir touch,fingerprint
+finir unique,fingerprint
+finir unlock,fingerprint
+finir fingerprint,fingerprint
+commencer human,fingerprint
+commencer id,fingerprint
+commencer identification,fingerprint
+commencer lock,fingerprint
+commencer privacy,fingerprint
+finir lcok,fingerprint
+raanger unlock bientôt,fingerprint
+identificaton,fingerprint
+commencer identificcation,fingerprint
+human lundi,fingerprint

@@ -2,3 +2,8 @@ text,label
 Book a doctor appointment,hospital-user
 Visit the primary care physician,hospital-user
 Follow up with the doctor,hospital-user
+plan for covid-19,hospital-user
+covid-19 errand,hospital-user
+work on covid-19,hospital-user
+covid-19 reminder,hospital-user
+covid-19 check-in,hospital-user

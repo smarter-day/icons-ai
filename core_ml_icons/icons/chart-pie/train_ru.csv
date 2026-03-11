@@ -42,3 +42,20 @@ text,label
 Точечная диаграмма для анализа данных,chart-pie
 Гистограмма распределения по возрасту,chart-pie
 Диаграмма с областями для роста,chart-pie
+analytics,chart-pie
+chart,chart-pie
+diagram,chart-pie
+graph,chart-pie
+performance,chart-pie
+pie,chart-pie
+revenue,chart-pie
+statistics,chart-pie
+chart pie,chart-pie
+начать analytics,chart-pie
+начать chart,chart-pie
+начать diagram,chart-pie
+начать graph,chart-pie
+начать performance,chart-pie
+начать pie,chart-pie
+начать revenue,chart-pie
+начать statistics,chart-pie

@@ -2,3 +2,8 @@ text,label
 иконка светофора,traffic-light
 стоп ехать сигнал дорога,traffic-light
 символ дорожного сигнала,traffic-light
+уточнить direction,traffic-light
+direction на следующей неделе,traffic-light
+завершить direction,traffic-light
+direction сегодня вечером,traffic-light
+вопрос direction,traffic-light

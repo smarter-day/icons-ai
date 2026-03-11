@@ -46,3 +46,16 @@ text,label
 уличная розетка на стойке,pedestal
 музейный постамент для экспоната,pedestal
 кубок на постаменте,pedestal
+electricity,pedestal
+reading,pedestal
+pedestal,pedestal
+новый electricity,pedestal
+новый reading,pedestal
+новый pedestal,pedestal
+начать electricity,pedestal
+начать reading,pedestal
+начать pedestal,pedestal
+electricity завтра,pedestal
+reading завтра,pedestal
+pedestal завтра,pedestal
+electricity утром,pedestal

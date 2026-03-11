@@ -1,0 +1,61 @@
+text,label
+breath,mask-ventilator
+gas,mask-ventilator
+mask,mask-ventilator
+oxygen,mask-ventilator
+respirator,mask-ventilator
+ventilator,mask-ventilator
+mask ventilator,mask-ventilator
+pedir breath pronto,mask-ventilator
+pedir gas pronto,mask-ventilator
+pedir mask pronto,mask-ventilator
+pedir oxygen pronto,mask-ventilator
+pedir respirator pronto,mask-ventilator
+pedir ventilator pronto,mask-ventilator
+pedir mask ventilator pronto,mask-ventilator
+pedir breath,mask-ventilator
+pedir gas,mask-ventilator
+pedir mask,mask-ventilator
+pedir oxygen,mask-ventilator
+pedir respirator,mask-ventilator
+pedir ventilator,mask-ventilator
+pedir mask ventilator,mask-ventilator
+breath este fin de semana,mask-ventilator
+gas este fin de semana,mask-ventilator
+mask este fin de semana,mask-ventilator
+oxygen este fin de semana,mask-ventilator
+respirator este fin de semana,mask-ventilator
+ventilator este fin de semana,mask-ventilator
+mask ventilator este fin de semana,mask-ventilator
+nuevo breath,mask-ventilator
+nuevo gas,mask-ventilator
+nuevo mask,mask-ventilator
+nuevo oxygen,mask-ventilator
+nuevo respirator,mask-ventilator
+nuevo ventilator,mask-ventilator
+nuevo mask ventilator,mask-ventilator
+terminar breath,mask-ventilator
+terminar gas,mask-ventilator
+terminar mask,mask-ventilator
+terminar oxygen,mask-ventilator
+terminar respirator,mask-ventilator
+terminar ventilator,mask-ventilator
+terminar mask ventilator,mask-ventilator
+breath hoy,mask-ventilator
+gas hoy,mask-ventilator
+mask hoy,mask-ventilator
+oxygen hoy,mask-ventilator
+respirator hoy,mask-ventilator
+ventilator hoy,mask-ventilator
+mask ventilator hoy,mask-ventilator
+breath para el viaje,mask-ventilator
+gas para el viaje,mask-ventilator
+mask para el viaje,mask-ventilator
+oxygen para el viaje,mask-ventilator
+respirator para el viaje,mask-ventilator
+ventilator para el viaje,mask-ventilator
+mask ventillator hoy,mask-ventilator
+pedir breath proonto,mask-ventilator
+mask vetilator,mask-ventilator
+pediir oxygen,mask-ventilator
+ventlator,mask-ventilator

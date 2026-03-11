@@ -38,3 +38,24 @@ text,label
 ехать на погрузчике в зоне разгрузки,forklift
 Используйте ручную тележку для перевозки коробок,forklift
 поднять тяжелый груз погрузчиком,forklift
+archive,forklift
+inventory,forklift
+lorry,forklift
+maintenance,forklift
+pallet,forklift
+shipping,forklift
+tractor,forklift
+warehouse,forklift
+forklift,forklift
+archive завтра,forklift
+inventory завтра,forklift
+lorry завтра,forklift
+maintenance завтра,forklift
+pallet завтра,forklift
+shipping завтра,forklift
+tractor завтра,forklift
+warehouse завтра,forklift
+forklift завтра,forklift
+подготовить archive скоро,forklift
+подготовить inventory скоро,forklift
+подготовить lorry скоро,forklift

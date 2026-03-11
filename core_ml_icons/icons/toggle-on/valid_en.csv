@@ -2,3 +2,8 @@ text,label
 toggle on switch icon,toggle-on
 enabled toggle button,toggle-on
 on state switch,toggle-on
+button reminder,toggle-on
+follow up on button,toggle-on
+plan for button,toggle-on
+schedule button,toggle-on
+button check-in,toggle-on

@@ -39,7 +39,6 @@ text,label
 синтез белка показан через ДНК и РНК,dna
 судебная улика с ДНК собрана на месте,dna
 иконка ДНК для платформы по геномике,dna
-двойная спираль ДНК поднимается вверх,dna
 генетический тест показывает происхождение,dna
 секвенирование образца ДНК,dna
 структура двойной спирали ДНК,dna
@@ -49,3 +48,14 @@ text,label
 хромосома x после деления клетки,dna
 чашка петри с колонией бактерий,dna
 лабораторная колба и стакан,dna
+biologist,dna
+dna,dna
+double helix,dna
+evolution,dna
+gene,dna
+genetic,dna
+genetics,dna
+helix,dna
+life,dna
+molecule,dna
+protein,dna

@@ -52,3 +52,10 @@ text,label
 иконка биометрии с отпечатком пальца,unlock
 цепь замка обернута вокруг ворот,unlock
 дверная ручка поворачивается чтобы открыть,unlock
+admin,unlock
+lock,unlock
+open,unlock
+padlock,unlock
+password,unlock
+privacy,unlock
+private,unlock

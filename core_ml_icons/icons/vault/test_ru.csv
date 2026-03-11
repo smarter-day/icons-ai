@@ -2,3 +2,8 @@ text,label
 доступ к банковскому сейфу,vault
 закрыть дверь сейфа,vault
 держать наличные в сейфе,vault
+вопрос bank,vault
+bank сегодня вечером,vault
+решить вопрос с bank,vault
+завершить bank,vault
+разобрать bank,vault

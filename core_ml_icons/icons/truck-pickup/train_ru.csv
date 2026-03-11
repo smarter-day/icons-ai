@@ -2,7 +2,6 @@ text,label
 груз,truck-pickup
 обслуживание,truck-pickup
 пикап,truck-pickup
-пикап,truck-pickup
 пикап-грузовик,truck-pickup
 грузовик,truck-pickup
 груз в кузове пикапа,truck-pickup
@@ -39,3 +38,24 @@ text,label
 джип внедорожный автомобиль открытый,truck-pickup
 фургон грузовой доставка закрытый,truck-pickup
 платформенный грузовик коммерческий,truck-pickup
+cargo,truck-pickup
+maintenance,truck-pickup
+pick-up,truck-pickup
+pickup,truck-pickup
+pickup truck,truck-pickup
+truck,truck-pickup
+vehicle,truck-pickup
+truck pickup,truck-pickup
+подобрать cargo в магазине,truck-pickup
+подобрать maintenance в магазине,truck-pickup
+подобрать pick-up в магазине,truck-pickup
+подобрать pickup в магазине,truck-pickup
+подобрать pickup truck в магазине,truck-pickup
+подобрать truck в магазине,truck-pickup
+подобрать vehicle в магазине,truck-pickup
+подобрать truck pickup в магазине,truck-pickup
+запись cargo,truck-pickup
+запись maintenance,truck-pickup
+запись pick-up,truck-pickup
+запись pickup,truck-pickup
+изучить cargo скоро,truck-pickup

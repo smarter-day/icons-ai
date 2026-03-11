@@ -2,3 +2,8 @@ text,label
 Зарядить все устройства перед полётом,battery-bolt
 Проверить статус заряда планшета,battery-bolt
 Поставить павербанк на зарядку,battery-bolt
+charge дело,battery-bolt
+запланировать charge,battery-bolt
+напоминание charge,battery-bolt
+заняться charge,battery-bolt
+проект charge,battery-bolt

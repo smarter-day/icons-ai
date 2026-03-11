@@ -42,3 +42,20 @@ ship freight in a container,container-storage
 move stock into storage,container-storage
 store extra inventory in the container,container-storage
 seal the cargo container,container-storage
+archive,container-storage
+box,container-storage
+inventory,container-storage
+shipping,container-storage
+warehouse,container-storage
+container,container-storage
+storage,container-storage
+container storage,container-storage
+look for archive at the store,container-storage
+look for box at the store,container-storage
+look for crate at the store,container-storage
+look for intermodal at the store,container-storage
+look for inventory at the store,container-storage
+look for shipping at the store,container-storage
+look for warehouse at the store,container-storage
+look for container at the store,container-storage
+look for storage at the store,container-storage

@@ -1,0 +1,61 @@
+text,label
+chair,seat
+furniture,seat
+movie,seat
+seat,seat
+table,seat
+theater,seat
+chair rendez-vous,seat
+furniture rendez-vous,seat
+movie rendez-vous,seat
+seat rendez-vous,seat
+table rendez-vous,seat
+theater rendez-vous,seat
+commencer chair,seat
+commencer furniture,seat
+commencer movie,seat
+commencer seat,seat
+commencer table,seat
+commencer theater,seat
+chair ce week-end,seat
+furniture ce week-end,seat
+movie ce week-end,seat
+seat ce week-end,seat
+table ce week-end,seat
+theater ce week-end,seat
+chair le matin,seat
+furniture le matin,seat
+movie le matin,seat
+seat le matin,seat
+table le matin,seat
+theater le matin,seat
+ne pas oublier chair,seat
+ne pas oublier furniture,seat
+ne pas oublier movie,seat
+ne pas oublier seat,seat
+ne pas oublier table,seat
+ne pas oublier theater,seat
+chair demain,seat
+furniture demain,seat
+movie demain,seat
+seat demain,seat
+table demain,seat
+theater demain,seat
+préparer chair,seat
+préparer furniture,seat
+préparer movie,seat
+préparer seat,seat
+préparer table,seat
+préparer theater,seat
+chair pour samedi,seat
+furniture pour samedi,seat
+movie pour samedi,seat
+seat pour samedi,seat
+table pour samedi,seat
+theater pour samedi,seat
+nouveau chair,seat
+chair pour smedi,seat
+coommencer movie,seat
+tabble le matin,seat
+thater pour samedi,seat
+chair après le travail,seat

@@ -2,3 +2,8 @@ text,label
 X-ray medical imaging scan,x-ray
 chest X-ray bone skeleton,x-ray
 radiology X-ray health scan,x-ray
+take care of health,x-ray
+work on health,x-ray
+health task,x-ray
+health project,x-ray
+health check-in,x-ray

@@ -40,3 +40,22 @@ text,label
 мост через реку с движением наверху,road
 пешеходная дорожка через парк со скамейками,road
 въезд в туннель в горе с фарами,road
+highway,road
+map,road
+motorway,road
+pavement,road
+road,road
+route,road
+street,road
+travel,road
+highway для детей,road
+map для детей,road
+motorway для детей,road
+pavement для детей,road
+road для детей,road
+route для детей,road
+street для детей,road
+travel для детей,road
+highway после работы,road
+map после работы,road
+motorway после работы,road

@@ -3,7 +3,6 @@ text,label
 таксист,taxi
 лифт,taxi
 автомобиль,taxi
-такси,taxi
 поездка,taxi
 убер,taxi
 поймать такси на перекрёстке,taxi
@@ -52,3 +51,11 @@ text,label
 машина скорой помощи,taxi
 полицейская машина правоохранительное транспортное средство,taxi
 велосипед совместная поездка аренда,taxi
+cab,taxi
+cabbie,taxi
+car,taxi
+car service,taxi
+lyft,taxi
+machine,taxi
+oncoming,taxi
+oncoming taxi,taxi

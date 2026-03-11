@@ -28,7 +28,6 @@ text,label
 иконка стакана воды в минималистичном стиле,glass
 стакан для напитков в restaurant menu app,glass
 показать питьевой стакан для water tracker,glass
-высокий прозрачный стакан на столе,glass
 стакан холодной воды с кубиками льда,glass
 стакан напитка наполнен до края,glass
 стакан молока рядом с печеньем,glass
@@ -38,3 +37,25 @@ text,label
 маленькая чашка для эспрессо,glass
 банка газировки в цилиндрической форме,glass
 кувшин для разливания напитков,glass
+alcohol,glass
+beverage,glass
+drink,glass
+glass,glass
+glass of milk,glass
+milk,glass
+water,glass
+alcohol для детей,glass
+beverage для детей,glass
+drink для детей,glass
+glass для детей,glass
+glass of milk для детей,glass
+milk для детей,glass
+water для детей,glass
+начать alcohol,glass
+начать beverage,glass
+начать drink,glass
+начать glass,glass
+начать glass of milk,glass
+начать milk,glass
+начать water,glass
+записаться на alcohol в магазине,glass

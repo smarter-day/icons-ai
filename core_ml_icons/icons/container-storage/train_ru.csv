@@ -42,3 +42,20 @@ text,label
 хранить лишний инвентарь в контейнере,container-storage
 запечатать грузовой контейнер,container-storage
 перевезти вещи в контейнер хранения,container-storage
+archive,container-storage
+box,container-storage
+crate,container-storage
+intermodal,container-storage
+inventory,container-storage
+shipping,container-storage
+warehouse,container-storage
+container,container-storage
+storage,container-storage
+container storage,container-storage
+archive утром,container-storage
+box утром,container-storage
+crate утром,container-storage
+intermodal утром,container-storage
+inventory утром,container-storage
+shipping утром,container-storage
+warehouse утром,container-storage

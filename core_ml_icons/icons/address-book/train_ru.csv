@@ -31,7 +31,6 @@ text,label
 адресную книгу обновили после смены работы,address-book
 личная адресная книга с днями рождения и заметками,address-book
 показать адресную книгу на экране управления контактами,address-book
-адресная книга с алфавитными вкладками,address-book
 список контактов в адресной книге,address-book
 карточку ролодекса листают в поиске номера,address-book
 справочник сотрудников в адресной книге,address-book
@@ -41,3 +40,22 @@ text,label
 визитка с именем и должностью,address-book
 закладка в документе,address-book
 папка для хранения документов,address-book
+contact,address-book
+directory,address-book
+employee,address-book
+index,address-book
+little black book,address-book
+portfolio,address-book
+rolodex,address-book
+uer,address-book
+username,address-book
+address,address-book
+book,address-book
+address book,address-book
+закончить contact,address-book
+закончить directory,address-book
+закончить employee,address-book
+закончить index,address-book
+закончить little black book,address-book
+закончить portfolio,address-book
+contact на выходных,address-book

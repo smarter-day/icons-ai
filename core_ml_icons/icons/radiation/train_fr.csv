@@ -1,0 +1,61 @@
+text,label
+danger,radiation
+dangerous,radiation
+deadly,radiation
+hazard,radiation
+nuclear,radiation
+radioactive,radiation
+warning,radiation
+radiation,radiation
+commencer danger,radiation
+commencer dangerous,radiation
+commencer deadly,radiation
+commencer hazard,radiation
+commencer nuclear,radiation
+commencer radioactive,radiation
+commencer warning,radiation
+commencer radiation,radiation
+finir danger,radiation
+finir dangerous,radiation
+finir deadly,radiation
+finir hazard,radiation
+finir nuclear,radiation
+finir radioactive,radiation
+finir warning,radiation
+finir radiation,radiation
+annuler le danger,radiation
+annuler le dangerous,radiation
+annuler le deadly,radiation
+annuler le hazard,radiation
+annuler le nuclear,radiation
+annuler le radioactive,radiation
+annuler le warning,radiation
+annuler le radiation,radiation
+danger lundi,radiation
+dangerous lundi,radiation
+deadly lundi,radiation
+hazard lundi,radiation
+nuclear lundi,radiation
+radioactive lundi,radiation
+warning lundi,radiation
+radiation lundi,radiation
+danger pour samedi,radiation
+dangerous pour samedi,radiation
+deadly pour samedi,radiation
+hazard pour samedi,radiation
+nuclear pour samedi,radiation
+radioactive pour samedi,radiation
+warning pour samedi,radiation
+radiation pour samedi,radiation
+danger demain,radiation
+dangerous demain,radiation
+deadly demain,radiation
+hazard demain,radiation
+nuclear demain,radiation
+radioactive demain,radiation
+warning demain,radiation
+radiactive pour samedi,radiation
+finir dnger,radiation
+danger dmeain,radiation
+commenccer nuclear,radiation
+commeencer danger,radiation

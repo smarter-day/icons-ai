@@ -44,3 +44,18 @@ text,label
 машина не заводится из-за двигателя,engine
 сбросить предупреждение двигателя,engine
 проверить работу мотора,engine
+car,engine
+engine,engine
+car завтра,engine
+engine завтра,engine
+продлить car скоро,engine
+продлить engine скоро,engine
+car после работы,engine
+engine после работы,engine
+продлить car онлайн,engine
+продлить engine онлайн,engine
+car утром,engine
+engine утром,engine
+car на выходных,engine
+engine на выходных,engine
+запись car,engine

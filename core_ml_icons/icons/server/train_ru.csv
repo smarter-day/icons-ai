@@ -43,3 +43,19 @@ text,label
 сервер с базой клиентов,server
 консоль управления сервером,server
 развернуть сервер в облаке,server
+computer,server
+cpu,server
+database,server
+hardware,server
+mysql,server
+network,server
+sql,server
+server,server
+заменить computer,server
+заменить cpu,server
+заменить database,server
+заменить hardware,server
+заменить mysql,server
+заменить network,server
+заменить sql,server
+заменить server,server

@@ -23,8 +23,6 @@ text,label
 покажите гирю для категории тренировок,kettlebell
 используйте значок гири для просмотра списка оборудования для спортзала,kettlebell
 гири качели,kettlebell
-вес гири,kettlebell
-Гиря в тренажерном зале,kettlebell
 тренировка с гирей,kettlebell
 пара гантелей на силовой стойке,kettlebell
 штанга с блинами,kettlebell
@@ -32,3 +30,32 @@ text,label
 медицинский мяч на спортивном коврике,kettlebell
 эспандер для растяжки,kettlebell
 "турник, установленный в дверном проеме",kettlebell
+exercise,kettlebell
+gym,kettlebell
+strength,kettlebell
+weight,kettlebell
+workout,kettlebell
+kettlebell,kettlebell
+запись exercise,kettlebell
+запись gym,kettlebell
+запись strength,kettlebell
+запись weight,kettlebell
+запись workout,kettlebell
+запись kettlebell,kettlebell
+обновить exercise в магазине,kettlebell
+обновить gym в магазине,kettlebell
+обновить strength в магазине,kettlebell
+обновить weight в магазине,kettlebell
+обновить workout в магазине,kettlebell
+обновить kettlebell в магазине,kettlebell
+обновить exercise,kettlebell
+обновить gym,kettlebell
+обновить strength,kettlebell
+обновить weight,kettlebell
+обновить workout,kettlebell
+обновить kettlebell,kettlebell
+новый exercise,kettlebell
+новый gym,kettlebell
+новый strength,kettlebell
+exercise на выходных,kettlebell
+gym на выходных,kettlebell

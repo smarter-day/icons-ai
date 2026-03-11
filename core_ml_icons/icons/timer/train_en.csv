@@ -30,3 +30,32 @@ timre countdown seconds,timer
 stpwatch lap time,timer
 coutndown timer event,timer
 waiitnig timer spinner,timer
+clock,timer
+pending,timer
+stopwatch,timer
+timer,timer
+clock today,timer
+countdown today,timer
+pending today,timer
+stopwatch today,timer
+timer today,timer
+timer clock today,timer
+waiting today,timer
+clock for the trip,timer
+countdown for the trip,timer
+pending for the trip,timer
+stopwatch for the trip,timer
+timer for the trip,timer
+timer clock for the trip,timer
+waiting for the trip,timer
+plan clock for kids,timer
+plan countdown for kids,timer
+plan pending for kids,timer
+plan stopwatch for kids,timer
+plan timer for kids,timer
+plan timer clock for kids,timer
+plan waiting for kids,timer
+clock before lunch,timer
+countdown before lunch,timer
+pending before lunch,timer
+stopwatch before lunch,timer

@@ -13,7 +13,6 @@ text,label
 добавить напоминание о встрече,bell-ring
 позвонить в звонок для обслуживания,bell-ring
 Поставить напоминание о визите к врачу,bell-ring
-Позвонить в звонок для обслуживания,bell-ring
 Поставить будильник на 7 утра,bell-ring
 Включить уведомления в приложении,bell-ring
 Запланировать напоминание о звонке,bell-ring
@@ -43,3 +42,20 @@ text,label
 Push-уведомление об обновлении приложения,bell-ring
 Напоминание добавлено в общий календарь,bell-ring
 Позвонить в колокольчик на ресепшене,bell-ring
+Ringing Bell,bell-ring
+alarm,bell-ring
+alert,bell-ring
+chime,bell-ring
+notification,bell-ring
+reminder,bell-ring
+request,bell-ring
+bell,bell-ring
+ring,bell-ring
+bell ring,bell-ring
+запись Ringing Bell,bell-ring
+запись alarm,bell-ring
+запись alert,bell-ring
+запись chime,bell-ring
+запись notification,bell-ring
+запись reminder,bell-ring
+Ringing Bell после работы,bell-ring

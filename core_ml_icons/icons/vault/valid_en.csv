@@ -2,3 +2,8 @@ text,label
 keep money locked in the vault,vault
 open the secure vault,vault
 store valuables in the safe,vault
+bank reminder,vault
+follow up on bank,vault
+bank task,vault
+handle bank,vault
+bank errand,vault

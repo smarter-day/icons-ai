@@ -15,7 +15,6 @@ text,label
 звук идет через наушники,headphones
 наушники для хорошего звука,headphones
 динамик в наушнике,headphones
-качество звука в наушниках,headphones
 полноразмерные наушники для студии звукозаписи,headphones
 "беспроводные наушники, подключаемые по Bluetooth",headphones
 DJ-наушники на микшерной площадке,headphones
@@ -31,10 +30,32 @@ DJ-наушники на микшерной площадке,headphones
 наушники для музыки,headphones
 беспроводные наушники,headphones
 hsadphone на ушах,headphones
-качество звука в наушниках,headphones
 ухо со слуховым аппаратом,headphones
 "динамик, закрепленный на стене",headphones
 микрофон на настольной подставке,headphones
 наушники подключены к телефону,headphones
 дисплей эквалайзера звуковых волн,headphones
 "радио с антенной, воспроизводящее музыку",headphones
+audio,headphones
+earbud,headphones
+headphone,headphones
+listen,headphones
+music,headphones
+sound,headphones
+speaker,headphones
+headphones,headphones
+запись audio,headphones
+запись earbud,headphones
+запись headphone,headphones
+запись listen,headphones
+запись music,headphones
+запись sound,headphones
+запись speaker,headphones
+запись headphones,headphones
+закончить audio,headphones
+закончить earbud,headphones
+закончить headphone,headphones
+закончить listen,headphones
+закончить music,headphones
+закончить sound,headphones
+закончить speaker,headphones

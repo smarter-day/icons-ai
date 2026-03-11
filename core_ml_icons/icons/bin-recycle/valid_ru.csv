@@ -2,3 +2,8 @@ text,label
 День переработки завтра — выставить,bin-recycle
 Рассортировать всё вторсырьё перед вывозом,bin-recycle
 Опустошить и помыть контейнер для вторсырья,bin-recycle
+задача collect,bin-recycle
+проект collect,bin-recycle
+collect дело,bin-recycle
+план по collect,bin-recycle
+заняться collect,bin-recycle

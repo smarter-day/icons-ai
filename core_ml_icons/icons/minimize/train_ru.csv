@@ -36,3 +36,26 @@ text,label
 восстановить окно до предыдущего размера,minimize
 приблизить для увеличения содержимого,minimize
 кнопка входа в полный экран стрелки наружу,minimize
+collapse,minimize
+fullscreen,minimize
+minimize,minimize
+move,minimize
+resize,minimize
+shrink,minimize
+smaller,minimize
+начать collapse,minimize
+начать fullscreen,minimize
+начать minimize,minimize
+начать move,minimize
+начать resize,minimize
+начать shrink,minimize
+начать smaller,minimize
+закончить collapse,minimize
+закончить fullscreen,minimize
+закончить minimize,minimize
+закончить move,minimize
+закончить resize,minimize
+закончить shrink,minimize
+закончить smaller,minimize
+найти collapse скоро,minimize
+найти fullscreen скоро,minimize

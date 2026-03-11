@@ -2,3 +2,8 @@ text,label
 расплатиться кредитной картой,credit-card
 ввести данные карты,credit-card
 списать оплату картой на кассе,credit-card
+задача buy,credit-card
+проект buy,credit-card
+напоминание buy,credit-card
+план по buy,credit-card
+поработать над buy,credit-card

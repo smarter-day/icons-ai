@@ -29,3 +29,33 @@ Bluetooth переключатель включён,toggle-on
 кнопка питания вкл запуск,toggle-on
 выключатель стены потолочный свет,toggle-on
 ползунок максимум полностью вкл,toggle-on
+button,toggle-on
+off,toggle-on
+on,toggle-on
+switch,toggle-on
+toggle,toggle-on
+toggle on,toggle-on
+button на субботу,toggle-on
+off на субботу,toggle-on
+on на субботу,toggle-on
+switch на субботу,toggle-on
+toggle на субботу,toggle-on
+toggle on на субботу,toggle-on
+button завтра,toggle-on
+off завтра,toggle-on
+on завтра,toggle-on
+switch завтра,toggle-on
+toggle завтра,toggle-on
+toggle on завтра,toggle-on
+начать button,toggle-on
+начать off,toggle-on
+начать on,toggle-on
+начать switch,toggle-on
+начать toggle,toggle-on
+начать toggle on,toggle-on
+спланировать button онлайн,toggle-on
+спланировать off онлайн,toggle-on
+спланировать on онлайн,toggle-on
+спланировать switch онлайн,toggle-on
+спланировать toggle онлайн,toggle-on
+спланировать toggle on онлайн,toggle-on

@@ -1,0 +1,61 @@
+text,label
+boat,ship
+passenger,ship
+sea,ship
+ship,ship
+water,ship
+preparar boat pronto,ship
+preparar passenger pronto,ship
+preparar sea pronto,ship
+preparar ship pronto,ship
+preparar water pronto,ship
+boat el lunes,ship
+passenger el lunes,ship
+sea el lunes,ship
+ship el lunes,ship
+water el lunes,ship
+terminar boat,ship
+terminar passenger,ship
+terminar sea,ship
+terminar ship,ship
+terminar water,ship
+boat semanal,ship
+passenger semanal,ship
+sea semanal,ship
+ship semanal,ship
+water semanal,ship
+boat hoy,ship
+passenger hoy,ship
+sea hoy,ship
+ship hoy,ship
+water hoy,ship
+boat este fin de semana,ship
+passenger este fin de semana,ship
+sea este fin de semana,ship
+ship este fin de semana,ship
+water este fin de semana,ship
+boat por la mañana,ship
+passenger por la mañana,ship
+sea por la mañana,ship
+ship por la mañana,ship
+water por la mañana,ship
+preparar el boat,ship
+preparar el passenger,ship
+preparar el sea,ship
+preparar el ship,ship
+preparar el water,ship
+boat por la noche,ship
+passenger por la noche,ship
+sea por la noche,ship
+ship por la noche,ship
+water por la noche,ship
+boat cita,ship
+passenger cita,ship
+sea cita,ship
+ship cita,ship
+water cita,ship
+boat semnaal,ship
+water el luunes,ship
+boat poor la mañana,ship
+ship este fin de seana,ship
+passenger por la nooche,ship

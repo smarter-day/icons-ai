@@ -35,3 +35,27 @@ text,label
 изменить размер холста в фотошопе,crop
 отзеркалить изображение по горизонтали,crop
 добавить рамку к фотографии,crop
+design,crop
+frame,crop
+mask,crop
+modify,crop
+resize,crop
+shrink,crop
+crop,crop
+не забыть design,crop
+не забыть frame,crop
+не забыть mask,crop
+не забыть modify,crop
+не забыть resize,crop
+не забыть shrink,crop
+не забыть crop,crop
+design для поездки,crop
+frame для поездки,crop
+mask для поездки,crop
+modify для поездки,crop
+resize для поездки,crop
+shrink для поездки,crop
+crop для поездки,crop
+начать design,crop
+начать frame,crop
+начать mask,crop

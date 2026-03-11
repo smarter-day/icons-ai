@@ -54,3 +54,8 @@ text,label
 масштабирование объекта равномерно,reflect-both
 наклонная трансформация объекта по оси,reflect-both
 инструмент обрезки удаляет края изображения,reflect-both
+edit,reflect-both
+exchange,reflect-both
+flip,reflect-both
+horizontal,reflect-both
+inverse,reflect-both

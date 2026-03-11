@@ -29,7 +29,6 @@ text,label
 добавить позу йоги в раздел осознанности,person-meditating
 покажите медитирующую фигуру для спокойной функции,person-meditating
 используйте значок медитации для таймера релаксации,person-meditating
-медитировать в позе лотоса,person-meditating
 поза йоги для медитации,person-meditating
 размышлять в тишине,person-meditating
 медитация на внимательность,person-meditating
@@ -39,3 +38,24 @@ text,label
 человек делает позу воина йоги стоя,person-meditating
 человек ложится вздремнуть,person-meditating
 "человек молится, сложив руки вместе",person-meditating
+calm,person-meditating
+contemplate,person-meditating
+meditate,person-meditating
+peace,person-meditating
+relax,person-meditating
+yoga,person-meditating
+person,person-meditating
+meditating,person-meditating
+person meditating,person-meditating
+убрать calm скоро,person-meditating
+убрать contemplate скоро,person-meditating
+убрать meditate скоро,person-meditating
+убрать peace скоро,person-meditating
+убрать relax скоро,person-meditating
+убрать yoga скоро,person-meditating
+убрать person скоро,person-meditating
+убрать meditating скоро,person-meditating
+убрать person meditating скоро,person-meditating
+calm после работы,person-meditating
+contemplate после работы,person-meditating
+собрать calm в магазине,person-meditating

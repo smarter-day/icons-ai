@@ -2,3 +2,8 @@ text,label
 иконка маски вентилятора,mask-ventilator
 противогаз респиратор,mask-ventilator
 медицинская кислородная маска,mask-ventilator
+устроить breath,mask-ventilator
+уточнить breath,mask-ventilator
+обработать breath,mask-ventilator
+вопрос breath,mask-ventilator
+решить вопрос с breath,mask-ventilator

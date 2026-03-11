@@ -35,3 +35,27 @@ text,label
 переключатель режима полёта отключает все соединения,power-off
 индикатор заряда батареи на мобильном устройстве,power-off
 ползунок яркости экрана дисплея,power-off
+Power Symbol,power-off
+cancel,power-off
+computer,power-off
+on,power-off
+reboot,power-off
+restart,power-off
+power,power-off
+off,power-off
+power off,power-off
+закончить Power Symbol,power-off
+закончить cancel,power-off
+закончить computer,power-off
+закончить on,power-off
+закончить reboot,power-off
+закончить restart,power-off
+закончить power,power-off
+закончить off,power-off
+закончить power off,power-off
+не забыть Power Symbol,power-off
+не забыть cancel,power-off
+не забыть computer,power-off
+не забыть on,power-off
+не забыть reboot,power-off
+не забыть restart,power-off

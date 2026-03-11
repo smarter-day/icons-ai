@@ -1,0 +1,61 @@
+text,label
+human,fingerprint
+id,fingerprint
+identification,fingerprint
+lock,fingerprint
+privacy,fingerprint
+smudge,fingerprint
+touch,fingerprint
+unique,fingerprint
+unlock,fingerprint
+fingerprint,fingerprint
+human abends,fingerprint
+id abends,fingerprint
+identification abends,fingerprint
+lock abends,fingerprint
+privacy abends,fingerprint
+smudge abends,fingerprint
+touch abends,fingerprint
+unique abends,fingerprint
+unlock abends,fingerprint
+fingerprint abends,fingerprint
+human nach der Arbeit,fingerprint
+id nach der Arbeit,fingerprint
+identification nach der Arbeit,fingerprint
+lock nach der Arbeit,fingerprint
+privacy nach der Arbeit,fingerprint
+smudge nach der Arbeit,fingerprint
+touch nach der Arbeit,fingerprint
+unique nach der Arbeit,fingerprint
+unlock nach der Arbeit,fingerprint
+fingerprint nach der Arbeit,fingerprint
+human erledigen,fingerprint
+id erledigen,fingerprint
+identification erledigen,fingerprint
+lock erledigen,fingerprint
+privacy erledigen,fingerprint
+smudge erledigen,fingerprint
+touch erledigen,fingerprint
+unique erledigen,fingerprint
+unlock erledigen,fingerprint
+fingerprint erledigen,fingerprint
+human für die Reise,fingerprint
+id für die Reise,fingerprint
+identification für die Reise,fingerprint
+lock für die Reise,fingerprint
+privacy für die Reise,fingerprint
+smudge für die Reise,fingerprint
+touch für die Reise,fingerprint
+unique für die Reise,fingerprint
+unlock für die Reise,fingerprint
+fingerprint für die Reise,fingerprint
+human morgens,fingerprint
+id morgens,fingerprint
+identification morgens,fingerprint
+lock morgens,fingerprint
+privacy morgens,fingerprint
+lock ncah der Arbeit,fingerprint
+sumdge,fingerprint
+pirvacy,fingerprint
+lock mogrens,fingerprint
+privacyy morgens,fingerprint

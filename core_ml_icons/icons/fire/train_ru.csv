@@ -34,7 +34,6 @@ text,label
 используйте значок огня для счетчика полос,fire
 жареная картошка ярко горит,fire
 костер пламя,fire
-пламя свечи,fire
 значок пожара,fire
 костер с горящими дровами в кемпинге,fire
 взрыв со вспышкой света,fire
@@ -42,3 +41,21 @@ text,label
 "лава, вытекающая из вулкана",fire
 пламя свечи на обеденном столе,fire
 бенгальский огонь проведен на празднике,fire
+burn,fire
+caliente,fire
+fire,fire
+flame,fire
+heat,fire
+hot,fire
+popular,fire
+burn для поездки,fire
+caliente для поездки,fire
+fire для поездки,fire
+flame для поездки,fire
+heat для поездки,fire
+hot для поездки,fire
+popular для поездки,fire
+burn вечером,fire
+caliente вечером,fire
+fire вечером,fire
+начать burn,fire

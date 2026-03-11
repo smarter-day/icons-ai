@@ -1,0 +1,61 @@
+text,label
+API,webhook
+automatisation,webhook
+connecter,webhook
+hook,webhook
+intégration,webhook
+déclencheur,webhook
+webhook,webhook
+point de terminaison,webhook
+callback,webhook
+payload,webhook
+HTTP POST,webhook
+notification,webhook
+automatiser,webhook
+clé API,webhook
+JSON,webhook
+événement,webhook
+requête,webhook
+serveur,webhook
+configurer un webhook pour les nouvelles commandes,webhook
+paramétrer l'intégration API avec Slack,webhook
+automatiser le workflow avec un déclencheur webhook,webhook
+vérifier si le webhook reçoit les événements,webhook
+ajouter une URL de callback pour les notifications de paiement,webhook
+tester le webhook avec un payload de test,webhook
+mettre à jour la clé API pour l'intégration,webhook
+réparer le point de terminaison webhook cassé,webhook
+mettre en place l'automatisation pour les nouvelles inscriptions,webhook
+connecter le webhook au système CRM,webhook
+déclencher le webhook quand un formulaire est soumis,webhook
+vérifier les logs du webhook pour les échecs de livraison,webhook
+ajouter une nouvelle intégration pour les notifications email,webhook
+mettre à jour l'URL du webhook après la migration du serveur,webhook
+automatiser la génération de factures via un appel API,webhook
+le webhook n'envoie plus de notifications,webhook
+il faut renouveler la clé API cette semaine,webhook
+le payload du webhook manque de champs obligatoires,webhook
+relancer la livraison échouée du webhook,webhook
+configurer un webhook pour les messages de chat,webhook
+l'intégration avec la passerelle de paiement ne marche pas,webhook
+configurer le point de terminaison pour accepter du JSON,webhook
+l'automatisation nous fait gagner des heures chaque semaine,webhook
+la limite de requêtes API est constamment atteinte,webhook
+ajouter un webhook pour les mises à jour du statut de livraison,webhook
+vérifier la signature du webhook avant traitement,webhook
+relier le système de facturation à l'appli principale,webhook
+l'URL de callback doit être mise à jour,webhook
+le serveur a renvoyé une erreur lors de l'appel webhook,webhook
+planifier la migration API pour le prochain sprint,webhook
+connecter le nouvel outil à notre pipeline d'automatisation,webhook
+tester le déclencheur d'événement avant la mise en production,webhook
+le webhook se déclenche à chaque création de ticket,webhook
+mettre en place des alertes pour les pannes webhook,webhook
+documenter les points de terminaison API pour l'équipe,webhook
+vérifier si l'intégration gère les relances,webhook
+configurer un webhok pour les commandes,webhook
+paramétrer l'intégation API,webhook
+automatser le workflow avec webhook,webhook
+vérifer les logs du webhook,webhook
+déclenchur le webhook à la soumission,webhook
+surveiller le tableau de bord de disponibilité API,webhook

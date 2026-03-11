@@ -31,3 +31,31 @@ text,label
 помыть и сплющить пластиковый кувшин,bin-recycle
 рассортировать весь пластик по нужным контейнерам,bin-recycle
 сдать вторсырьё в местный пункт приёма,bin-recycle
+collect,bin-recycle
+jug,bin-recycle
+plastics,bin-recycle
+recycle,bin-recycle
+bin,bin-recycle
+bin recycle,bin-recycle
+запись collect,bin-recycle
+запись jug,bin-recycle
+запись plastics,bin-recycle
+запись recycle,bin-recycle
+запись bin,bin-recycle
+запись bin recycle,bin-recycle
+collect в понедельник,bin-recycle
+jug в понедельник,bin-recycle
+plastics в понедельник,bin-recycle
+recycle в понедельник,bin-recycle
+bin в понедельник,bin-recycle
+bin recycle в понедельник,bin-recycle
+collect сегодня,bin-recycle
+jug сегодня,bin-recycle
+plastics сегодня,bin-recycle
+recycle сегодня,bin-recycle
+bin сегодня,bin-recycle
+bin recycle сегодня,bin-recycle
+закончить collect,bin-recycle
+закончить jug,bin-recycle
+закончить plastics,bin-recycle
+закончить recycle,bin-recycle

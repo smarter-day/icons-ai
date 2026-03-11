@@ -25,3 +25,37 @@ schedule a recycling collection pickup,bin-recycle
 clean and flatten the plastic jug,bin-recycle
 sort all plastics into the right bins,bin-recycle
 drop off recyclables at the local centre,bin-recycle
+collect,bin-recycle
+jug,bin-recycle
+plastics,bin-recycle
+recycle,bin-recycle
+bin,bin-recycle
+bin recycle,bin-recycle
+collect tomorrow,bin-recycle
+jug tomorrow,bin-recycle
+plastics tomorrow,bin-recycle
+recycle tomorrow,bin-recycle
+bin tomorrow,bin-recycle
+bin recycle tomorrow,bin-recycle
+collect before lunch,bin-recycle
+jug before lunch,bin-recycle
+plastics before lunch,bin-recycle
+recycle before lunch,bin-recycle
+bin before lunch,bin-recycle
+bin recycle before lunch,bin-recycle
+collect appointment,bin-recycle
+jug appointment,bin-recycle
+plastics appointment,bin-recycle
+recycle appointment,bin-recycle
+bin appointment,bin-recycle
+bin recycle appointment,bin-recycle
+need to return collect,bin-recycle
+need to return jug,bin-recycle
+need to return plastics,bin-recycle
+need to return recycle,bin-recycle
+need to return bin,bin-recycle
+need to return bin recycle,bin-recycle
+start collect,bin-recycle
+start jug,bin-recycle
+start plastics,bin-recycle
+start recycle,bin-recycle

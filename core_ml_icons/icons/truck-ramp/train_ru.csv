@@ -37,3 +37,25 @@ text,label
 конвейерная лента погрузка,truck-ramp
 кран подъём тяжёлого груза,truck-ramp
 ручная тележка небольшая,truck-ramp
+box,truck-ramp
+cargo,truck-ramp
+delivery,truck-ramp
+inventory,truck-ramp
+moving,truck-ramp
+rental,truck-ramp
+vehicle,truck-ramp
+truck,truck-ramp
+ramp,truck-ramp
+truck ramp,truck-ramp
+box утром,truck-ramp
+cargo утром,truck-ramp
+delivery утром,truck-ramp
+inventory утром,truck-ramp
+moving утром,truck-ramp
+rental утром,truck-ramp
+vehicle утром,truck-ramp
+truck утром,truck-ramp
+ramp утром,truck-ramp
+truck ramp утром,truck-ramp
+box после работы,truck-ramp
+cargo после работы,truck-ramp

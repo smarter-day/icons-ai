@@ -9,8 +9,6 @@ text,label
 распаковать вещи после переезда,box-open
 Распаковать доставленную коробку,box-open
 Открыть посылку из магазина,box-open
-Распаковать вещи после переезда,box-open
-Открыть контейнер для хранения,box-open
 Распаковать коробки в новой квартире,box-open
 Открыть посылку с подарками,box-open
 Распаковать коробки после переезда,box-open
@@ -36,3 +34,28 @@ text,label
 Посылка пришла — открыть и проверить содержимое,box-open
 Доступ к складу для распаковки вещей,box-open
 Распаковывать коробки комнату за комнатой,box-open
+archive,box-open
+container,box-open
+package,box-open
+storage,box-open
+unpack,box-open
+box,box-open
+open,box-open
+box open,box-open
+организовать archive онлайн,box-open
+организовать container онлайн,box-open
+организовать package онлайн,box-open
+организовать storage онлайн,box-open
+организовать unpack онлайн,box-open
+организовать box онлайн,box-open
+организовать open онлайн,box-open
+организовать box open онлайн,box-open
+не забыть archive,box-open
+не забыть container,box-open
+не забыть package,box-open
+не забыть storage,box-open
+не забыть unpack,box-open
+не забыть box,box-open
+не забыть open,box-open
+еженедельный archive,box-open
+еженедельный container,box-open
