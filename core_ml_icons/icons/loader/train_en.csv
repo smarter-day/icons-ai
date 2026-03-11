@@ -39,10 +39,8 @@ network request spinner in the browser tab,loader
 full-screen loader overlay during app initialisation,loader
 retry button appears after the loader times out,loader
 loader icon paired with a status message,loader
-I need a spinner icon for my loading state,loader
 add a circular loader to the data fetch screen,loader
 show a progress indicator while the file syncs,loader
-use the loader icon for async operations,loader
 spinnng loaeder while data fetches,loader
 three-dot loaeder in a chat app,loader
 skeletn screen while conent loads,loader

@@ -30,8 +30,6 @@ text,label
 сигнализатор уровня радиации в monitoring app,radiation
 предупреждение об ионизирующем излучении в лаборатории,radiation
 warning icon для ядерного материала,radiation
-нужна иконка radiation для safety warning app,radiation
-добавить символ radiation в раздел hazard alerts,radiation
 показать radiation для nuclear safety indicator,radiation
 использовать radiation для warning danger zone,radiation
 знак предупреждения о радиации,radiation

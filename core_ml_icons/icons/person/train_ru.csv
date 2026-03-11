@@ -24,8 +24,6 @@ text,label
 иконка человека рядом с полем username,person
 дефолтная user icon если фото не загружено,person
 высокая стоящая фигура как отдельный человек,person
-нужна иконка person для user profile screen,person
-добавить символ person в account settings,person
 показать person для списка участников,person
 использовать иконку person как заглушку контакта,person
 человек стоит в очереди,person

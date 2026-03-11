@@ -1,7 +1,7 @@
 {
   "language": "ru",
-  "source_dir": "/Users/idjugostran/Projects/icons-ai/core_ml_icons/icons",
-  "output_dir": "/Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset",
+  "source_dir": "/Users/developer/work/projects/smarter.day/icons-ai/core_ml_icons/icons",
+  "output_dir": "/Users/developer/work/projects/smarter.day/icons-ai/core_ml_icons/merged_icons_dataset",
   "icons_merged": 711,
   "icon_names": [
     "abacus",
@@ -718,7 +718,7 @@
   ],
   "skipped_icons": [],
   "row_counts": {
-    "train": 30645,
+    "train": 29899,
     "valid": 2133,
     "test": 2111
   }

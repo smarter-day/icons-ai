@@ -28,10 +28,6 @@ text,label
 распечатать рецепт чтобы повесить на кухне,print
 диалог печати в desktop application,print
 принтер с выходящим сверху документом,print
-нужна иконка print для document viewer app,print
-добавить символ print в меню file sharing,print
-показать принтер для раздела export and print,print
-использовать иконку print для вывода чека,print
 распечатать документ сейчас,print
 печать готова в очереди,print
 распечатать посадочный талон,print
