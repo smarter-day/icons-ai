@@ -1,0 +1,44 @@
+{
+  "name": "latin",
+  "family": "latin",
+  "languages": [
+    "en",
+    "de",
+    "fr",
+    "es"
+  ],
+  "output_dir": "/Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset",
+  "row_counts": {
+    "train": 170673,
+    "valid": 22752,
+    "test": 22752
+  },
+  "row_counts_by_language": {
+    "en": {
+      "train": 42693,
+      "valid": 5688,
+      "test": 5688
+    },
+    "de": {
+      "train": 42660,
+      "valid": 5688,
+      "test": 5688
+    },
+    "fr": {
+      "train": 42660,
+      "valid": 5688,
+      "test": 5688
+    },
+    "es": {
+      "train": 42660,
+      "valid": 5688,
+      "test": 5688
+    }
+  },
+  "icons_merged_by_language": {
+    "en": 711,
+    "de": 711,
+    "fr": 711,
+    "es": 711
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-03-12T00:13:54Z",
+        "event" : "projectCreated",
+        "id" : "A0AE0AEA-84EC-454E-846D-6BD2E3F25F70",
+        "subtitle" : "IconsClassifier",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Igor Djugostran",
+  "createdDate" : "2026-03-12T00:13:54Z",
+  "description" : "",
+  "id" : "8C9AA395-3887-415E-BFF3-0F1F3A382FE3",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-03-12T00:13:54Z",
+  "projectName" : "IconsClassifier",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "textClassifier",
+  "title" : "Text Classification",
+  "version" : "1.1"
+}

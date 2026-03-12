@@ -1,0 +1,23 @@
+{
+  "name": "cyrillic",
+  "family": "cyrillic",
+  "languages": [
+    "ru"
+  ],
+  "output_dir": "/Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset",
+  "row_counts": {
+    "train": 42924,
+    "valid": 5688,
+    "test": 5688
+  },
+  "row_counts_by_language": {
+    "ru": {
+      "train": 42924,
+      "valid": 5688,
+      "test": 5688
+    }
+  },
+  "icons_merged_by_language": {
+    "ru": 711
+  }
+}

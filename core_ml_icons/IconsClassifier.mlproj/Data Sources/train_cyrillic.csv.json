@@ -1,0 +1,31 @@
+{
+  "activityEntities" : [
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2026-03-12T00:48:04Z",
+        "event" : "dataSourceCreated",
+        "id" : "374529DB-44C8-4F97-BEA4-86DCE797D3F4",
+        "subtitle" : "train_cyrillic.csv",
+        "title" : "Data Source Created"
+      }
+    ]
+  ],
+  "createdDate" : "2026-03-12T00:48:04Z",
+  "dataPathRelativeToProjectURL" : "../merged_icons_dataset/train_cyrillic.csv/",
+  "dataResult" : {
+    "createdDate" : "2026-03-12T00:48:04Z",
+    "dataSourceID" : "BF4ABA5C-1108-4829-8219-FD76488A55FD",
+    "dataURL" : "file:///Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset/train_cyrillic.csv"
+  },
+  "dataURL" : "file:///Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset/train_cyrillic.csv",
+  "experimentIDs" : [
+    "6B74BC4A-D8CA-466E-9198-C4D4134B804D"
+  ],
+  "id" : "BF4ABA5C-1108-4829-8219-FD76488A55FD",
+  "modifiedDate" : "2026-03-12T00:48:04Z",
+  "pathType" : 0,
+  "preferredFilename" : "train_cyrillic.csv",
+  "title" : "train_cyrillic.csv",
+  "version" : "1.0"
+}

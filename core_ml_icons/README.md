@@ -7,7 +7,8 @@ A dataset collection for training a Core ML text classifier that maps text descr
 - `icons/` - main per-icon dataset collection, one folder per icon
 - `icons/<icon>/train_en.csv`, `valid_en.csv`, `test_en.csv` - train/valid/test files for a single icon
 - `icons/<icon>/train_ru.csv`, `valid_ru.csv`, `test_ru.csv` - synchronized Russian train/valid/test files
-- `scripts/merge_icon_datasets.py` - script that merges all icons into one combined dataset
+- `scripts/merge_icon_datasets.py` - script that merges all icons for one language
+- `scripts/build_multilang_merged_datasets.py` - wrapper that rebuilds all language merges and combined CSVs
 - `scripts/audit_icon_dataset.py` - dataset audit for bilingual sync, leakage, and weak coverage
 - `docs/icon-semantic-groups.yml` - semantic conflict groups for manual disambiguation work
 - `docs/icon-semantic-coverage.json` - full per-icon semantic coverage: grouped, pair-risk, isolated
@@ -71,6 +72,58 @@ By default, the script:
 - merges only complete icon datasets that contain `train`, `valid`, and `test`
 - shuffles rows deterministically
 - creates `merge_summary_en.json` with row counts and the merged icon list
+
+## Build all languages plus combined CSVs
+
+To rebuild `train_en.csv` ... `test_ru.csv` and then concatenate them into:
+
+- `train_combined.csv`
+- `valid_combined.csv`
+- `test_combined.csv`
+
+run:
+
+```bash
+python3 scripts/build_multilang_merged_datasets.py
+```
+
+The script writes all output to `merged_icons_dataset/` and also creates
+`merge_summary_combined.json`.
+
+## Build separate language-family datasets
+
+For Core ML BERT family-specific training, you can build separate merged files
+for the writing systems already present in the project:
+
+- `latin` = `en de fr es`
+- `cyrillic` = `ru`
+- `cjk` = `ja`
+
+Build only the Latin family:
+
+```bash
+python3 scripts/build_multilang_merged_datasets.py --families latin
+```
+
+This writes:
+
+- `train_latin.csv`
+- `valid_latin.csv`
+- `test_latin.csv`
+- `merge_summary_latin.json`
+
+Build several families at once:
+
+```bash
+python3 scripts/build_multilang_merged_datasets.py --families latin cyrillic cjk
+```
+
+When `--families` is used, the script writes only family-level outputs by
+default. To also keep per-language merged files, add:
+
+```bash
+python3 scripts/build_multilang_merged_datasets.py --families latin cyrillic --write-language-files
+```
 
 ## Additional options
 

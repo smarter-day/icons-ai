@@ -1,0 +1,31 @@
+{
+  "activityEntities" : [
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2026-03-12T00:48:10Z",
+        "event" : "dataSourceCreated",
+        "id" : "DEF893D4-9B72-4822-98A6-386D571E2A08",
+        "subtitle" : "valid_cyrillic.csv",
+        "title" : "Data Source Created"
+      }
+    ]
+  ],
+  "createdDate" : "2026-03-12T00:48:10Z",
+  "dataPathRelativeToProjectURL" : "../merged_icons_dataset/valid_cyrillic.csv/",
+  "dataResult" : {
+    "createdDate" : "2026-03-12T00:48:10Z",
+    "dataSourceID" : "9EA0CF56-09F1-40BB-8282-742DE68B5155",
+    "dataURL" : "file:///Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset/valid_cyrillic.csv"
+  },
+  "dataURL" : "file:///Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset/valid_cyrillic.csv",
+  "experimentIDs" : [
+    "6B74BC4A-D8CA-466E-9198-C4D4134B804D"
+  ],
+  "id" : "9EA0CF56-09F1-40BB-8282-742DE68B5155",
+  "modifiedDate" : "2026-03-12T00:48:10Z",
+  "pathType" : 0,
+  "preferredFilename" : "valid_cyrillic.csv",
+  "title" : "valid_cyrillic.csv",
+  "version" : "1.0"
+}
