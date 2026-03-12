@@ -13,7 +13,7 @@ A dataset collection for training a Core ML text classifier that maps text descr
 - `docs/icon-semantic-groups.yml` - semantic conflict groups for manual disambiguation work
 - `docs/icon-semantic-coverage.json` - full per-icon semantic coverage: grouped, pair-risk, isolated
 - `merged_icons_dataset/` - output folder for merged Core ML CSV files
-- `MyTextClassifier.mlproj/` - Core ML project
+- `IconsClassifier.mlproj/` - Core ML project
 
 ## Editorial policy
 
@@ -123,6 +123,25 @@ default. To also keep per-language merged files, add:
 
 ```bash
 python3 scripts/build_multilang_merged_datasets.py --families latin cyrillic --write-language-files
+```
+
+## Open the Create ML project on another Mac
+
+`IconsClassifier.mlproj` stores absolute `file:///...` dataset URLs internally,
+so after cloning the repository on another machine you should relink it once to
+the local checkout path:
+
+```bash
+python3 scripts/build_multilang_merged_datasets.py --families latin cyrillic
+python3 scripts/relocate_mlproj.py
+```
+
+Then open `IconsClassifier.mlproj` in Create ML and run training.
+
+If you only want to verify what would be changed without rewriting the project:
+
+```bash
+python3 scripts/relocate_mlproj.py --dry-run
 ```
 
 ## Additional options
