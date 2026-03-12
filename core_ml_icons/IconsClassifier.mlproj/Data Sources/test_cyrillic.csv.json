@@ -16,9 +16,9 @@
   "dataResult" : {
     "createdDate" : "2026-03-12T00:48:15Z",
     "dataSourceID" : "B45ECF59-4FCE-43C4-83B3-F9CB0C3798ED",
-    "dataURL" : "file:///Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset/test_cyrillic.csv"
+    "dataURL" : "file:///Users/developer/work/projects/smarter.day/icons-ai/core_ml_icons/merged_icons_dataset/test_cyrillic.csv"
   },
-  "dataURL" : "file:///Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset/test_cyrillic.csv",
+  "dataURL" : "file:///Users/developer/work/projects/smarter.day/icons-ai/core_ml_icons/merged_icons_dataset/test_cyrillic.csv",
   "experimentIDs" : [
     "6B74BC4A-D8CA-466E-9198-C4D4134B804D"
   ],

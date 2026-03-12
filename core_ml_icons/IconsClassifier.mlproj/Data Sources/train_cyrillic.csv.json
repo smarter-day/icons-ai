@@ -9,6 +9,40 @@
         "subtitle" : "train_cyrillic.csv",
         "title" : "Data Source Created"
       }
+    ],
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2026-03-12T07:15:11Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "4EE54047-FE64-4487-95DC-6C1AEEC50192",
+        "subtitle" : "IconsClassifier Cyrillic 100",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2026-03-12T13:21:08Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "518EBA70-9BB0-4577-B30C-562C455051D1",
+        "subtitle" : "IconsClassifier Cyrillic 100",
+        "title" : "Used By"
+      }
+    ],
+    "dataSourceMetrics",
+    [
+      {
+        "createdDate" : "2026-03-12T07:15:11Z",
+        "event" : "dataSourceMetrics",
+        "id" : "E6388531-82D8-42AD-9645-835BEF8B41A4",
+        "subtitle" : "711 Classes, 42,924 Items",
+        "title" : "Data Summary"
+      },
+      {
+        "createdDate" : "2026-03-12T13:21:08Z",
+        "event" : "dataSourceMetrics",
+        "id" : "6A8DD4ED-7EAA-4EA6-BB0F-74F83AA4E2A9",
+        "subtitle" : "711 Classes, 42,924 Items",
+        "title" : "Data Summary"
+      }
     ]
   ],
   "createdDate" : "2026-03-12T00:48:04Z",
@@ -16,14 +50,14 @@
   "dataResult" : {
     "createdDate" : "2026-03-12T00:48:04Z",
     "dataSourceID" : "BF4ABA5C-1108-4829-8219-FD76488A55FD",
-    "dataURL" : "file:///Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset/train_cyrillic.csv"
+    "dataURL" : "file:///Users/developer/work/projects/smarter.day/icons-ai/core_ml_icons/merged_icons_dataset/train_cyrillic.csv"
   },
-  "dataURL" : "file:///Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset/train_cyrillic.csv",
+  "dataURL" : "file:///Users/developer/work/projects/smarter.day/icons-ai/core_ml_icons/merged_icons_dataset/train_cyrillic.csv",
   "experimentIDs" : [
     "6B74BC4A-D8CA-466E-9198-C4D4134B804D"
   ],
   "id" : "BF4ABA5C-1108-4829-8219-FD76488A55FD",
-  "modifiedDate" : "2026-03-12T00:48:04Z",
+  "modifiedDate" : "2026-03-12T13:21:08Z",
   "pathType" : 0,
   "preferredFilename" : "train_cyrillic.csv",
   "title" : "train_cyrillic.csv",

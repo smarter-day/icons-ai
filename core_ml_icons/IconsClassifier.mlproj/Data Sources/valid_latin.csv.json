@@ -762,10 +762,10 @@
       }
     },
     "dataSourceID" : "EC811D24-193A-4DF5-8875-E492FD6F4954",
-    "dataURL" : "file:///Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset/valid_latin.csv",
+    "dataURL" : "file:///Users/developer/work/projects/smarter.day/icons-ai/core_ml_icons/merged_icons_dataset/valid_latin.csv",
     "itemsCount" : 22752
   },
-  "dataURL" : "file:///Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset/valid_latin.csv",
+  "dataURL" : "file:///Users/developer/work/projects/smarter.day/icons-ai/core_ml_icons/merged_icons_dataset/valid_latin.csv",
   "experimentIDs" : [
     "B50B8C49-4C60-4B49-AED7-DA4355993CA2"
   ],

@@ -1,5 +1,22 @@
 {
   "activityEntities" : [
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2026-03-12T00:24:48Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "2659A22F-F45B-4091-A774-85EEA5B13ECD",
+        "subtitle" : "IconsClassifier 1",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2026-03-12T03:28:48Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "F8B04925-69BE-4464-88C4-FAE2D92E25AC",
+        "subtitle" : "IconsClassifier Latin 100",
+        "title" : "Used By"
+      }
+    ],
     "dataSourceCreated",
     [
       {
@@ -18,16 +35,13 @@
         "id" : "2A108443-F6E6-4527-88DD-1A35AB918150",
         "subtitle" : "711 Classes, 170.673 Items",
         "title" : "Data Summary"
-      }
-    ],
-    "dataSourceTrainingStarted",
-    [
+      },
       {
-        "createdDate" : "2026-03-12T00:24:48Z",
-        "event" : "dataSourceTrainingStarted",
-        "id" : "2659A22F-F45B-4091-A774-85EEA5B13ECD",
-        "subtitle" : "IconsClassifier 1",
-        "title" : "Used By"
+        "createdDate" : "2026-03-12T03:28:48Z",
+        "event" : "dataSourceMetrics",
+        "id" : "1BE0327C-A5C3-48BD-A731-603EFEA9C188",
+        "subtitle" : "711 Classes, 170,673 Items",
+        "title" : "Data Summary"
       }
     ]
   ],
@@ -782,15 +796,15 @@
       }
     },
     "dataSourceID" : "95C86CDE-0D8E-403F-9D1E-BFF743698FFE",
-    "dataURL" : "file:///Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset/train_latin.csv",
+    "dataURL" : "file:///Users/developer/work/projects/smarter.day/icons-ai/core_ml_icons/merged_icons_dataset/train_latin.csv",
     "itemsCount" : 170673
   },
-  "dataURL" : "file:///Users/idjugostran/Projects/icons-ai/core_ml_icons/merged_icons_dataset/train_latin.csv",
+  "dataURL" : "file:///Users/developer/work/projects/smarter.day/icons-ai/core_ml_icons/merged_icons_dataset/train_latin.csv",
   "experimentIDs" : [
     "B50B8C49-4C60-4B49-AED7-DA4355993CA2"
   ],
   "id" : "95C86CDE-0D8E-403F-9D1E-BFF743698FFE",
-  "modifiedDate" : "2026-03-12T00:46:57Z",
+  "modifiedDate" : "2026-03-12T03:28:48Z",
   "pathType" : 0,
   "preferredFilename" : "train_latin.csv",
   "title" : "train_latin.csv",
